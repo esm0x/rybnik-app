@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T23:39:20",
+  "generated_at": "2026-09-15T22:15:57",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,7 +7,7 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 126,
+  "count": 118,
   "failures": [],
   "events": [
     {
@@ -20,28 +20,6 @@
       "description": "Komunikacja Miejska Rybnik Sp. z o.o. zaprasza mieszkańców do udziału w Europejskim Tygodniu Mobilności pod hasłem „Mobilność dla każdego” . Wydarzenie poświęcone będzie transportowi publicznemu, bezpieczeństwu, dostępności oraz pierwszej pomocy. W programie znalazło się sześć edukacyjnych i promocyjnych wyzwań. Uczestnicy będą mogli lepiej poznać zasady korzystania z komunikacji miejskiej, sprawdzić rozwiązania ułatwiające podróżowanie osobom z niepełnosprawnościami, a także zdobywać pieczątki do „Paszportu Mobilności”. Europejski Tydzień Mobilności w Rybniku odbędzie się 16, 17, 18, 21 i 22 września 2026 roku . Działania zaplanowano na Rynku w Rybniku oraz przy wybranych przystankach w mieście . W przekazanych informacjach nie podano godzin poszczególnych aktywności.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/europejski-tydzien-mobilnosci-w-rybniku"
-    },
-    {
-      "id": "bilnya-pojedynek-2026-202609170815",
-      "title": "Pojedynek (2026)",
-      "category": "Film",
-      "start": "2026-09-17T08:15",
-      "end": "2026-09-17T09:45",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/film/Pojedynek-2026?eid=701679#opis"
-    },
-    {
-      "id": "bilnya-cyrk-zalewski-widowisko-2026-202609171700",
-      "title": "Cyrk Zalewski - Widowisko 2026",
-      "category": "Spektakl",
-      "start": "2026-09-17T17:00",
-      "end": "2026-09-17T18:30",
-      "venue": "Namiot Cyrkowy, Obwodnica Północna naprzeciw Carrefour",
-      "description": "Cyrk Zalewski 2026 powraca z nowym, międzynarodowym show pełnym adrenaliny i magii! 🎪🔥 Kula Śmierci, latające trapezy, iluzja i klauni – 2 godziny widowiska na światowym poziomie. Zabierz rodzinę i przeżyj spektakl, który trzeba zobaczyć! ✨🎭.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/cyrk/Cyrk-Zalewski/Widowisko?eid=699754#opis"
     },
     {
       "id": "iryb-galeria-pod-oknem-wernisaz-anny-sosnowskiej",
@@ -92,7 +70,7 @@
       "title": "Michał Wiśniewski — koncert akustyczny w Rybniku, 18 września 2026",
       "category": "Koncert",
       "start": "2026-09-18T19:00",
-      "end": "2026-09-18T20:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Niezwykły, akustyczny wieczór z Michałem Wiśniewskim — mniej prądu, więcej emocji i znane przeboje w nowych aranżacjach. Warto zarezerwować sobie ten piątkowy wieczór i posłuchać klasyków Ich Troje w kameralnym klimacie. To będzie pierwsza odsłona akustycznych koncertów Michała Wiśniewskiego — znane hity w wersjach bardziej intymnych i kilka rzadziej granych numerów. Usłyszymy przeboje takie jak Powiedz , Zawsze z Tobą chciałbym być , Kochaj mnie, kochaj czy Keine Grenzen , a także utwory, które rzadziej padają w setliście, np. Nienawiść , Czekanie , Papierosy, wódka, sex czy Zawsze naprzód, nigdy wstecz . Aranżacje akustyczne mają wydobyć teksty i emocje — idealne na spokojniejszy wieczór z muzyką. Organizatorem wydarzenia jest zespół związany z Michałem Wiśniewskim (szczegóły organizacyjne i informacje o sprzedaży biletów na oficjalnych kanałach artysty).",
       "sourceName": "iRybnik",
@@ -147,8 +125,8 @@
       "title": "Rybnik: Niezły Burdel – komedia teatralna",
       "category": "Spektakl",
       "start": "2026-09-19T18:00",
-      "end": "2026-09-19T19:40",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
       "description": "Cztery postacie, jeden adres i lawina nieporozumień, z której trudno wyjść bez śmiechu. „Niezły Burdel” to komedia o relacjach, codziennych wpadkach i sytuacjach, które brzmią aż nazbyt znajomo — może nawet jak historia z własnego bloku albo salonu. Warto dać się porwać tej teatralnej mieszance humoru, emocji i niewygodnych prawd. Na scenie spotykają się cztery osoby, a ich pozornie zwyczajna sytuacja szybko wymyka się spod kontroli. Kto pojawił się za wcześnie? Kto zdecydowanie powinien już wyjść? I dlaczego ktoś znalazł się pod tym adresem, choć nie powinien? „Niezły Burdel” łączy dynamiczną akcję z obserwacją codziennego życia. Jest zabawnie, momentami wzruszająco, a czasem także zaskakująco trafnie — bo pod warstwą komediowego zamieszania kryją się emocje, relacje i zachowania, w których można rozpoznać siebie lub kogoś znajomego. To propozycja dla widzów, którzy lubią szybką akcję, wyraziste postacie i humor bez nadmiernego wygładzania rzeczywistości. Będzie lekko, szczerze i z teatralnym pazurem.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/rybnik-niezly-burdel-komedia-teatralna"
@@ -158,8 +136,8 @@
       "title": "Piano Best Covers: Rock the Piano w Rybniku",
       "category": "Koncert",
       "start": "2026-09-19T19:00",
-      "end": "2026-09-19T20:30",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "end": null,
+      "venue": "Dom Kultury Rybnik-Chwałowice",
       "description": "Rockowe hity, które zwykle kojarzą się z gitarowymi riffami i mocnym wokalem, zabrzmią w zupełnie nowej odsłonie — na fortepianie. Piano Best Covers: Rock the Piano to wieczór pełen znanych melodii Queen, Metalliki, Nirvany, Bon Jovi, Dżemu, Myslovitz i wielu innych artystów. Warto zarezerwować ten termin na muzyczne spotkanie w Rybniku. W przekazanych informacjach nie podano ceny biletów ani szczegółów dotyczących sprzedaży wejściówek. Program koncertu obejmuje zarówno światowe klasyki rocka, jak i popularne polskie utwory. Publiczność usłyszy między innymi kompozycje Queen, Metalliki, Guns N’ Roses, Aerosmith, Linkin Park, Iron Maiden i Led Zeppelin, a także piosenki zespołów Dżem, Wilki, Perfect, Lady Pank czy Myslovitz. Nie zabraknie również utworów Marka Grechuty, Zbigniewa Wodeckiego, Korteza, Dawida Podsiadły i Edyty Bartosiewicz. Wszystkie zostały przygotowane w autorskich, fortepianowych aranżacjach, które pozwalają spojrzeć na dobrze znane melodie z innej perspektywy.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/piano-best-covers-rock-the-piano-w-rybniku"
@@ -213,8 +191,8 @@
       "title": "Podróż poślubna plus w Rybniku",
       "category": "Spektakl",
       "start": "2026-09-20T16:00",
-      "end": "2026-09-20T17:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
       "description": "Egzotyczna wyspa, miesiąc miodowy i wakacje z promocji, które bardzo szybko wymykają się spod kontroli – tak zapowiada się komedia „Podróż poślubna plus” w Rybniku. Na scenie nie zabraknie huraganu, hotelowych niespodzianek i niezwykle zabawnej recepcjonistki. Wybierzcie się na spektakl i sprawdźcie, jak wygląda podróż poślubna, kiedy nic nie idzie zgodnie z planem. „Podróż poślubna plus” to najnowsza komedia Marcina Szczygielskiego i kontynuacja historii znanej ze spektaklu „Wieczór panieński plus”. Tym razem bohaterowie ruszają na wymarzone wakacje – dwie młode pary zabierają ze sobą także niedoszłą pannę młodą, której nie chcą zostawiać samej w domu. Plan jest prosty: egzotyczna wyspa, hotel i romantyczny miesiąc miodowy. Szybko okazuje się jednak, że zamiast beztroskiego wypoczynku czeka ich prawdziwy galimatias. Huragan, nietypowe hotelowe „atrakcje” i zaskakujące spotkania sprawiają, że rajskie wakacje zamieniają się w serię komicznych perypetii. To propozycja dla widzów, którzy lubią lekkie, pełne dialogów komedie, relacje między bohaterami i sytuacje, w których drobne problemy urastają do naprawdę zabawnych rozmiarów.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/podroz-poslubna-plus-w-rybniku"
@@ -235,7 +213,7 @@
       "title": "Kumotry",
       "category": "Film",
       "start": "2026-09-21T15:30",
-      "end": "2026-09-21T17:00",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Historia przyjaźni kobiet zamieszkujących wymierającą polską wieś w rumuńskich Karpatach. Hanka i Bronka pochowały już mężów, dzieci wyjechały za granicę w poszukiwaniu innych, lepszych perspektyw. Samodzielne i niezależne bohaterki imponują pogodą ducha, choć ich rzeczywistość nieubłaganie odchodzi w przeszłość. Pozostają wspomnienia o czasach, które już nie wrócą – i wspólne stawianie czoła wyzwaniom codzienności. Nostalgiczny obraz niknącego świata skrzy się bezpretensjonalnym humorem i zachwyca zdjęciami, oddającymi zniewalający urok karpackiego pogórza. Reżyserka tworzy wzruszający film o pamięci, przyjaźni i przemijaniu. Portret bohaterek, które są dla siebie wszystkim, skłania do przewartościowania priorytetów i spojrzenia na rzeczywistość z mniej uczęszczanej strony.",
       "sourceName": "TZR",
@@ -330,15 +308,15 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/rybnickie-spotkania-inspiracyjne-warsztaty-rozwoju"
     },
     {
-      "id": "bilnya-ding-dong-czyli-karma-wraca-202609251715",
-      "title": "DING DONG czyli KARMA WRACA",
+      "id": "tzr-ding-dong-czyli-karma-wraca",
+      "title": "Ding Dong czyli karma wraca",
       "category": "Spektakl",
       "start": "2026-09-25T17:15",
-      "end": "2026-09-25T18:45",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🤣💔 Zdrada, intrygi i lawina komicznych nieporozumień! \"Ding Dong, czyli Karma Wraca\" to błyskotliwa farsa pełna zwrotów akcji, ciętych dialogów i sytuacji, które wymykają się spod kontroli 🎭🔥Przygotuj się na wieczór śmiechu do łez!.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/DING-DONG-czyli-KARMA-WRACA?eid=666226#opis"
+      "end": "2026-09-25T20:30",
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Co zrobić, gdy odkryjesz, że żona cię zdradza? Można wywołać awanturę, podać się do rozwodu… Albo, jak Bernard Marcellin – zaprosić kochanka na kolację i postawić mu ultimatum.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/ding-dong-czyli-karma-wraca.html"
     },
     {
       "id": "iryb-rockfrontacje-koncert-lokalnego-rocka",
@@ -385,17 +363,6 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/30-ogolnopolski-festiwal-piosenki-artystycznej-ofpa-rybnik-koncert-jubileuszowy"
     },
     {
-      "id": "bilnya-30-ofpa-2026-eliminacje-konkursu-krajowego-maciej-zakoscieln-202609251900",
-      "title": "30.OFPA 2026. Eliminacje Konkursu Krajowego: Maciej Zakościelny",
-      "category": "Koncert",
-      "start": "2026-09-25T19:00",
-      "end": "2026-09-25T20:30",
-      "venue": "Sala widowiskowa Fundacji Elektrowni Rybnik, ul. Podmiejska 43",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/30OFPA-2026-Eliminacje-Konkursu-Krajowego-Maciej-Zakoscielny?eid=687278#opis"
-    },
-    {
       "id": "dk-chw-vivaldi-wsrod-roz-20260926",
       "title": "Vivaldi wśród róż",
       "category": "Koncert",
@@ -422,7 +389,7 @@
       "title": "30. Ogólnopolski Festiwal Piosenki Artystycznej OFPA – finał konkursu",
       "category": "Koncert",
       "start": "2026-09-26T17:00",
-      "end": "2026-09-26T18:30",
+      "end": null,
       "venue": "Sala widowiskowa Fundacji Elektrowni Rybnik",
       "description": "Rybnik ponownie stanie się miejscem spotkania muzyki, emocji i piosenki z artystycznym charakterem. Podczas finału Konkursu Krajowego 30. OFPA 2026 publiczność usłyszy najlepszych uczestników festiwalu, a wieczór zwieńczy koncert Justyny Steczkowskiej. Warto zarezerwować sobie ten termin i spędzić sobotę przy muzyce na żywo. Najważniejszym punktem wydarzenia będzie finał Konkursu Krajowego, podczas którego zaprezentują się wykonawcy rywalizujący w ramach jubileuszowej, 30. edycji Ogólnopolskiego Festiwalu Piosenki Artystycznej OFPA. To propozycja dla osób, które lubią ambitne teksty, wyraziste interpretacje i muzykę z emocjami Po konkursowych występach na scenie pojawi się Justyna Steczkowska . Jej koncert będzie mocnym finałem festiwalowego wieczoru i okazją do usłyszenia jednej z najbardziej charakterystycznych polskich wokalistek na żywo Wydarzenie może zainteresować zarówno stałych sympatyków OFPA, jak i osoby, które chcą poznać młodych wykonawców oraz posłuchać polskiej piosenki artystycznej w wyjątkowej, konkursowo-koncertowej odsłonie.",
       "sourceName": "iRybnik",
@@ -433,7 +400,7 @@
       "title": "Spektakl **Zobaczyć Piosenkę vol. 1** w Rybniku – muzyka, teatr i filmowa historia w Teatrze Ziemi Rybnickiej",
       "category": "Koncert",
       "start": "2026-09-26T17:00",
-      "end": "2026-09-26T18:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Rybnik dostaje wieczór z tych, które zostają w głowie na długo „Zobaczyć Piosenkę vol. 1” to nie jest zwykły koncert ani klasyczny spektakl, tylko widowisko, w którym wielkie hity prowadzą historię o Radiowcu i jego nocnej audycji. Będzie trochę klimatu kina, trochę tańca, sporo emocji i piosenki, które nagle nabierają zupełnie nowego znaczenia. Warto zarezerwować ten termin i dać się wciągnąć w ten muzyczny świat. Data i godzina: 26 września 2026 roku (sobota), godz. 17:00 Miejsce: Teatr Ziemi Rybnickiej, Rybnik Informacje o cenie biletów , dostępności wejściówek i sposobie ich zakupu nie zostały podane w opisie wydarzenia. „Zobaczyć Piosenkę vol. 1” łączy teatr, taniec, koncertowe brzmienia i multimedialne wizualizacje w jedną opowieść Scena ma zmieniać się jak filmowy kadr — od mrocznych ulic Nowego Jorku po kolorowe lata 70., a wszystko to przy utworach, które zna niemal każdy.",
       "sourceName": "iRybnik",
@@ -466,7 +433,7 @@
       "title": "Koncert Laureatów 30.OFPA i Koncert Galowy w wykonaniu Andrzeja Piasecznego z zespołem i gościnnym udziałem Kasi Wilk",
       "category": "Koncert",
       "start": "2026-09-27T17:00",
-      "end": "2026-09-27T18:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Zapraszamy na Koncert Galowy 30. Ogólnopolskiego Festiwalu Piosenki Artystycznej OFPA 2026. Podczas koncertu wystąpią Laureaci Finału Konkursu Krajowego, natomiast gwiazdą wieczoru będzie Andrzej Piaseczny z zespołem i gościnnym udziałem Kasi Wilk.",
       "sourceName": "TZR",
@@ -477,7 +444,7 @@
       "title": "Zaproszenie",
       "category": "Film",
       "start": "2026-09-28T15:30",
-      "end": "2026-09-28T17:00",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Joe i Angela są małżeństwem z kilkunastoletnim stażem. Z pozoru ich związek wydaje się wręcz wzorcowy: zgodne, spokojne życie w porządnej dzielnicy, udane dziecko, niezły status materialny. Jednak pod powierzchnią kryją się wzajemne pretensje, drobne konflikty, a przede wszystkim nuda i rutyna. Gdy pewnego wieczoru Joe i Angela zapraszają na kolację parę tajemniczych sąsiadów, swobodna i przyjacielska rozmowa zaczyna zmieniać się w pełną dwuznaczności grę. To, co dotąd skrywane, wychodzi na jaw, a niewypowiedziane pragnienia ducha i ciała zaczynają nabierać niebezpiecznie realnych kształtów. Czy obie pary pójdą dziś spać we własnych łóżkach?",
       "sourceName": "TZR",
@@ -587,22 +554,11 @@
       "title": "Koncert jubileuszowy z okazji 30-lecia Towarzystwa Muzycznego im. Braci Szafranków w Rybniku",
       "category": "Koncert",
       "start": "2026-10-04T17:00",
-      "end": "2026-10-04T18:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Rybnik szykuje wieczór pełen wielkich emocji i polskiej muzyki symfonicznej. Z okazji 30-lecia Towarzystwa Muzycznego im. Braci Szafranków w Teatrze Ziemi Rybnickiej zabrzmią dzieła Kilara, Pendereckiego i Góreckiego, a także utwór, który zostanie wykonany po raz pierwszy na świecie. Warto zarezerwować ten termin na wyjątkowe muzyczne spotkanie. W przekazanych informacjach nie podano miejsca ani sposobu zakupu biletów. Jubileuszowy koncert będzie okazją do przypomnienia, jak wiele wydarzeń, spotkań i artystycznych projektów powstało w ciągu trzech dekad działalności Towarzystwa Muzycznego im. Braci Szafranków. Na scenie połączą się orkiestra symfoniczna i chóry z regionu rybnickiego, tworząc rozbudowane widowisko muzyczne W programie znalazły się najważniejsze dzieła polskiej muzyki XX i XXI wieku:",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/koncert-jubileuszowy-z-okazji-30-lecia-towarzystwa-muzycznego-im-braci-szafrankow-w-rybniku"
-    },
-    {
-      "id": "bilnya-drugie-zycie-202610051530",
-      "title": "Drugie życie",
-      "category": "Film",
-      "start": "2026-10-05T15:30",
-      "end": "2026-10-05T17:26",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/film/Drugie-zycie?eid=702609#opis"
     },
     {
       "id": "tzr-klaps-50-twarzy-greya",
@@ -642,7 +598,7 @@
       "title": "Pull the Wire x Pierwszy Śnieg w Rybniku",
       "category": "Koncert",
       "start": "2026-10-09T18:00",
-      "end": "2026-10-09T19:30",
+      "end": null,
       "venue": "Klub Odyseja",
       "description": "Rybnik zapowiada wieczór pełen głośnych gitar, punkrockowej energii i alternatywnego klimatu. 9 października w Klubie Odyseja zagrają Pull the Wire oraz Pierwszy Śnieg — będzie szybko, bezpośrednio i z dużą dawką koncertowych emocji. Warto pojawić się na miejscu, jeśli macie ochotę na solidną porcję polskiego rocka na żywo. Pull the Wire pochodzi z Żyrardowa i porusza się w klimatach punk rocka, rock’n’rolla oraz bezkompromisowych tekstów o codzienności. Ich koncerty mają atmosferę spontanicznego wypadu ze znajomymi — jest głośno, intensywnie i z przymrużeniem oka. Zespół nie stroni od kuflowego humoru, prostych obserwacji i numerów, przy których trudno ustać w miejscu. To propozycja dla osób, które lubią koncerty bez nadmiernego dystansu: z energią, potem i wspólnym śpiewaniem. Pull the Wire słynie z tego, że publiczność nie pozostaje jedynie widzem, ale szybko staje się częścią całego zamieszania. Drugą część muzycznego wieczoru wypełni Pierwszy Śnieg — młody formacją, ale niekoniecznie młody doświadczeniem zespół, który rozpoczął działalność w 2024 roku. W 2025 roku ukazała się ich pierwsza EP-ka, a rok później debiutancki album z 11 utworami.",
       "sourceName": "iRybnik",
@@ -653,7 +609,7 @@
       "title": "Soyka / Grott Orkiestra w hołdzie mistrzowi",
       "category": "Koncert",
       "start": "2026-10-09T18:00",
-      "end": "2026-10-09T19:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "9 października 2026 roku Teatr Ziemi Rybnickiej wypełni się muzyką jednego z najważniejszych artystów polskiej sceny. „Soyka / Grott Orkiestra w hołdzie mistrzowi” to wyjątkowy koncert poświęcony twórczości Stanisława Soyki – kompozytora, wokalisty i pianisty, którego piosenki od ponad czterech dekad poruszają kolejne pokolenia słuchaczy.",
       "sourceName": "TZR",
@@ -693,15 +649,15 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/spotkanie-milosnikow-numizmatow-w-rybniku"
     },
     {
-      "id": "bilnya-prestiz-przewrotna-terapia-spektakl-202610101600",
-      "title": "Prestiż - przewrotna terapia | spektakl",
+      "id": "tzr-prestiz-przewrotna-terapia",
+      "title": "Prestiż - przewrotna terapia",
       "category": "Spektakl",
       "start": "2026-10-10T16:00",
-      "end": "2026-10-10T17:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "Luksus, skandale i śmiech do łez! 😂 \"Prestiż\" to komedia o kulcie sukcesu – ostra jak brzytwa, błyskotliwa i pełna absurdów. 🔥 Zobacz, co kryje się za maską perfekcji – zanim znikną szybciej niż egzotyczne wakacje bohaterów! 🎭✨.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Prestiz-wspolczesny-spektakl?eid=666229#opis"
+      "end": "2026-10-10T18:30",
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Luksus, perfekcja, skandale – świat, w którym wszystko jest na sprzedaż, poza prawdą.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/prestiz-przewrotna-terapia.html"
     },
     {
       "id": "iryb-starcie-tytanow-koncert-w-rybniku",
@@ -726,17 +682,6 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/koncerty-fortepianowe-przy-swiecach"
     },
     {
-      "id": "bilnya-candle-live-music-koncert-przy-swiecach-202610111600",
-      "title": "Candle Live Music: Koncert przy świecach",
-      "category": "Koncert",
-      "start": "2026-10-11T16:00",
-      "end": "2026-10-11T17:30",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": "✨ Koncert instrumentalny przy świecach to wyjątkowe muzyczne przeżycie, które łączy klasykę, jazz, pop i filmowe hity w magicznych aranżacjach 🎻🕯️W blasku świec czeka Cię intymna atmosfera i emocje, które zostają na długo..",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Candle-Live-Music-Koncert-przy-swiecach?eid=700716#opis"
-    },
-    {
       "id": "iryb-rozwodnica-karoliny-panczyk-w-rybniku",
       "title": "„Rozwodnica” Karoliny Pańczyk w Rybniku",
       "category": "Kabaret",
@@ -748,22 +693,11 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/rozwodnica-karoliny-panczyk-w-rybniku"
     },
     {
-      "id": "bilnya-winda-na-szafot-1958-202610121530",
-      "title": "Windą na szafot (1958)",
-      "category": "Film",
-      "start": "2026-10-12T15:30",
-      "end": "2026-10-12T17:00",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/film/Winda-na-szafot-1958?eid=702610#opis"
-    },
-    {
       "id": "tzr-wajda-kilar-slask",
       "title": "Wajda Kilar Śląsk",
       "category": "Spektakl",
       "start": "2026-10-13T18:00",
-      "end": "2026-10-13T19:20",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "WAJDA KILAR ŚLĄSK Spektakl w wykonaniu artystów, chóru, baletu i orkiestry ZPiT \"Śląsk\" im. Stanisława Hadyny.",
       "sourceName": "TZR",
@@ -792,15 +726,15 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/rybska-klub-odyseja-w-rybniku"
     },
     {
-      "id": "bilnya-skrzypek-na-dachu-tesinske-divadlo-scena-polska-202610161800",
-      "title": "Skrzypek na dachu - Těšínské Divadlo Scena Polska",
+      "id": "iryb-skrzypek-na-dachu-w-rybniku-musical-w-teatrze-ziemi-rybnicki",
+      "title": "Skrzypek na dachu w Rybniku – musical w Teatrze Ziemi Rybnickiej",
       "category": "Spektakl",
       "start": "2026-10-16T18:00",
-      "end": "2026-10-16T19:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎭Rewelacyjny zespół Teatru z Czeskiego Cieszyna – Scena Polska na swój jubileusz 70-lecia istnienia wystawił „prawdziwe cudo” ‼️ Skrzypka Na Dachu wystawiono po raz pierwszy w 1964r. W Nowym Jorku. Obsypany licznymi nagrodami został uznany najlepszym musicalem na Brodway'u. Jednak eksplozję światowej popularności spowodowała słynna filmowa wersja z Chaimem Topolem w roli Tewiego – Mleczarza. Z pewnością porównanie filmu i naszego spektaklu jest nieuniknione. Gwarantujemy jednak, że zaskoczy Państwa rozmach i dynamika realizacji scenicznej oraz perfekcyjne aktorstwo‼️ Temat „Skrzypka” okazuje się dzisiaj na nowo aktualny. Mówi o sile tradycji, miłości, rodzinie i potrzebie tolerancji oraz szacunku do drugiego człowieka. Widzimy się na spektaklu?😉.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/musical/Skrzypek-na-dachu-Teatr-Divadlo-Scena-Polska?eid=678496#opis"
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Rybnik szykuje się na wieczór z jednym z najbardziej rozpoznawalnych musicali świata „Skrzypek na dachu” wraca na scenę w dużej, żywej i emocjonalnej odsłonie, z ponad 30 osobami na scenie, śpiewem i baletem wykonywanymi na żywo. To ten typ spektaklu, przy którym można i się uśmiechnąć, i wzruszyć — a melodie zostają w głowie jeszcze długo po wyjściu z teatru. Warto zarezerwować sobie ten termin. Kiedy: 16 października 2026 (piątek), godz. 18:00–21:00 Gdzie: Teatr Ziemi Rybnickiej , Plac Teatralny im. Kazimierza Kutza 1, Rybnik, Polska Organizator: Teatr Divadlo – Scena Polska Bilety i wejściówki: w opisie wydarzenia nie podano ceny ani szczegółów sprzedaży. Najlepiej sprawdzić aktualne informacje u organizatora lub w Teatrze Ziemi Rybnickiej.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/skrzypek-na-dachu-w-rybniku-musical-w-teatrze-ziemi-rybnickiej"
     },
     {
       "id": "dk-bog-10964-teatr-polska-tina-spektakl-inspirowany-zyciem-tiny-turner",
@@ -818,7 +752,7 @@
       "title": "Rybnik: Arkadiusz Jakubik z spektaklem „Romeo i Julia żyją”",
       "category": "Spektakl",
       "start": "2026-10-17T17:00",
-      "end": "2026-10-17T18:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "W Rybniku szykuje się wieczór z dużą dawką emocji, muzyki i teatralnego pazura Arkadiusz Jakubik przywiezie swój autorski projekt „Romeo i Julia żyją” — opowieść o miłości, zdradzie, tęsknocie i tych wszystkich decyzjach, które potrafią wywrócić życie do góry nogami. To będzie coś więcej niż zwykły koncert, więc warto zapisać ten termin . 17 października 2026 r. (sobota), godz. 17:00–18:30 Teatr Ziemi Rybnickiej , Plac Teatralny im. Kazimierza Kutza 1, Rybnik W informacji o wydarzeniu nie podano ceny biletów ani szczegółów sprzedaży . Wejściówki i aktualną dostępność najlepiej sprawdzić bezpośrednio w Teatrze Ziemi Rybnickiej lub u organizatora wydarzenia. „Romeo i Julia żyją” to współczesna, muzyczno-teatralna historia inspirowana Szekspirem, ale przeniesiona daleko od Werony — do zwyczajnego życia pod Warszawą, do Piaseczna. Bohaterami są Jan i Krystyna Marzec , a ich relacja pokazana jest przez dziesięć autorskich utworów z płyty o tym samym tytule.",
       "sourceName": "iRybnik",
@@ -836,37 +770,15 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/high-way-to-hell-w-rybniku-4szmery-x-monsterllica-na-zakonczenie-sezonu-motocyklowego"
     },
     {
-      "id": "bilnya-piano-best-covers-best-film-soundtracks-202610171900",
-      "title": "Piano Best Covers: Best Film Soundtracks",
-      "category": "Koncert",
-      "start": "2026-10-17T19:00",
-      "end": "2026-10-17T20:30",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": "🎬 Najpiękniejsza muzyka filmowa w wyjątkowym wydaniu! Dombrova Piano Duo zagra na fortepianach kultowe melodie Zimmera, Williamsa, Morricone i innych mistrzów. 🎹✨ Zanurz się w świecie kina i wielkich emocji!.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Piano-Best-Covers-Best-Film-Soundtracks-Candles?eid=696728#opis"
-    },
-    {
       "id": "tzr-anna-wyszkoni-30-lat",
       "title": "Anna Wyszkoni - 30 lat",
       "category": "Koncert",
       "start": "2026-10-18T19:00",
-      "end": "2026-10-18T20:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Trzy dekady na scenie, trzy rozdziały jednego wieczoru i jedna artystka, której piosenki dorastały razem z nami. „30 ANIAversary” to jubileuszowa trasa Ani Wyszkoni: powrót do klasyków Łez, przekrojowy set solowych hitów z ostatnich lat oraz zapowiedź nowego albumu. Sentyment, energia i premierowe akcenty – wyjątkowa podróż przez 30 lat muzyki.",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/anna-wyszkoni-30-lat.html"
-    },
-    {
-      "id": "bilnya-500-mil-202610191530",
-      "title": "500 mil",
-      "category": "Film",
-      "start": "2026-10-19T15:30",
-      "end": "2026-10-19T17:00",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/film/500-mil?eid=702611#opis"
     },
     {
       "id": "tzr-lata-80-przy-swiecach-muzyka-ktora-przenosi-do-wspomnien",
