@@ -1,0 +1,64 @@
+name: Scrape data
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'   # every 6h at :17 (off-peak minute)
+  workflow_dispatch: {}      # allow manual run from Actions tab
+  push:
+    branches: [main]
+    paths:
+      - 'scraper/**'
+      - '.github/workflows/scrape.yml'
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - run: pip install -r scraper/requirements.txt
+
+      # Each scraper is independent: one failing source must not block the others,
+      # so a failure is recorded and the remaining scrapers still run.
+      - name: Events
+        run: python scraper/scraper.py
+        continue-on-error: true
+
+      - name: News
+        run: python scraper/news.py
+        continue-on-error: true
+
+      - name: Transit metadata
+        run: python scraper/transit.py
+        continue-on-error: true
+
+      # Waste schedules change once a year, so this only runs on a manual dispatch
+      # or when the scraper itself changes — no point re-parsing 16 PDFs every 6h.
+      - name: Waste
+        if: github.event_name != 'schedule'
+        run: python scraper/waste.py
+        continue-on-error: true
+
+      - name: Commit updated data (if changed)
+        run: |
+          git add scraper/data
+          if git diff --cached --quiet -- scraper/data; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(data): refresh scraped data"
+          git push

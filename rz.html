@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+
+<html>
+<head id="Head1">
+    <title>
+        Rybnik :: Rozkład Jazdy
+    </title>
+    <meta name="language" content="pl" />
+    <meta name="distribution" content="Global" />
+
+    <meta name="keywords" content="r&g, r&g plus, sip, informacja, ogk, rybnik, cnr, gps, opóźnienie, przyśpieszenie" />
+    <meta name="keyphrase" content="r&g, r&g plus, dynamiczna informacja pasażerska" />
+
+    <meta name="author" content="R&G Plus Sp. z o.o." />
+    <meta name="publisher" content="R&G Plus Sp. z o.o." />
+    <meta name="copyright" content="Copyright (c) 2023 :: R&G Plus Sp. z o.o." />
+
+    <meta name="robots" content="ALL" />
+    <meta name="REVISIT-AFTER" content="1 DAYS" />
+
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+    <meta name="description" content="Rozkład jazdy miasta Rybnik. Odjazdy z przystank&#243;w, schemat linii i wyszukiwarka połączeń" />
+
+    <meta name="Access-Control-Allow-Origin" content="*" />
+
+
+    <link rel="icon" href="/icons/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/icons/favicon-192x192.png" />
+    <link rel="icon" type="image/svg+xml" href="/icons/icon.svg" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
+    <link rel="mask-icon" href="/icons/safari-pinned-tab.svg" color="#486dc7" />
+
+
+    <link href="/bundles/css/fonts?v=Qq49TniSYB6ilEg4BT1hECBK7-zJtX1syZIdKnUTEFY1" rel="stylesheet"/>
+
+    <script src="/ExtScripts/RjLang"></script>
+
+
+    <script src="/bundles/jq?v=vygcwJvRNhwojHjkr_R5E4b3s-I9TM6FSoGD1uFYwPY1"></script>
+
+    <script src="/ExtScripts/JdPickerLang"></script>
+
+
+    <link href="/bundles/css?v=y0s-WXXAz90GGdPFHkwDa8y4_Xj4ogYgoJ1beGXUtoU1" rel="stylesheet"/>
+
+
+    <script src="/Scripts/bootstrap.min.js"></script>
+
+    <script src="/Scripts/bootstrap-datepicker.min.js"></script>
+
+    <script src="/Scripts/bootstrap-select.min.js"></script>
+
+    <script src="/Scripts/bootstrap-submenu.js"></script>
+
+
+
+
+    <link href="/Content/theme-font-default.css" rel="stylesheet"/>
+
+    <link href="/Content/theme-color-default.css" rel="stylesheet"/>
+
+
+
+    
+    <link href="/Content/ol/ol.4.6.5.css" rel="stylesheet"/>
+
+    <script src="/Scripts/ol/ol.4.6.5.js"></script>
+
+    <script src="/bundles/rj_bus?v=p1Oz1IS1vyNOL0It7t1w3xKs4Zn_5BJW61GFPuQ3Y7A1"></script>
+
+
+
+    <script type="text/javascript">
+        activeTab=1;
+        activeRoute=null;
+
+        currentTimetableId = 0;
+        globalTimetableId = 0;
+        activeTimetableId = 2051;
+
+        tpStartDate = '15-09-2026';
+
+    </script>
+
+    <script src="/bundles/share?v=V7_x8awyiqKFIv46tCPx6UOAwYOcAXuQVqvzL1K3TPY1"></script>
+
+
+
+    <script type="text/javascript">
+        var PATH = '/';
+        var ttRealUrl = '/Home/TimeTableReal';
+        var ttPrintPrevUrl = '/Home/PrintHtmlAll';
+    </script>
+</head>
+
+
+<body role="document" class="page page-template-default single-author">
+
+    <div class="page">
+         
+
+<div id="main">
+
+    
+    <div class="header">
+
+
+        <span class="header-toolbar-contact header-toolbar-contact-4">
+            <img src="/Content/layout/link.png" />
+            <a href="https://sip.km.rybnik.pl" class="text" style="color:white"> Rozkłady jazdy - wersja wysoko dostępna</a>
+        </span>
+
+
+        <span class="header-toolbar-contact header-toolbar-contact-2">
+            <a href="kmr@km.rybnik.pl">
+                <img src="/Content/layout/envelope-light.svg" />
+            </a>
+            <a class="text" style="display:inline-block" href="mailto:kmr@km.rybnik.pl">kmr@km.rybnik.pl</a>
+        </span>
+
+
+
+
+        <div class="header-toolbar-settings">
+            <div class="form-inline">
+<form Id="fmSetLanguage" action="/" method="post">                    <input id="fmSetLanguage_hdTTId" name="ttId" type="hidden">
+                    <span id="popoverTimetableInfo" class="timetable-info" style="display:none">
+                    </span>
+                    <div class="dropdown settings">
+
+                        <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <span class="title">
+                            </span>
+                        </a>
+
+                        <div class="dropdown-menu" role="menu" aria-labelledby="navbarDropdown" data-submenu>
+                            <a class="dropdown-item" href="#" st-theme-default-switch>
+                                <span class="st-item st-theme-default-switch">A</span>&nbsp;Podstawowy kontrast
+                            </a>
+
+                            <a class="dropdown-item" href="#" st-theme-contrast-switch>
+                                <span class="st-item st-theme-contrast-switch">A</span>&nbsp;Zwiększony kontrast
+                            </a>
+
+                            <div class="dropdown-divider"></div>
+
+                            <a class="dropdown-item" href="#" st-theme-default-font-switch>
+                                <span class="st-item st-theme-default-font-switch">A</span>&nbsp;Podstawowy rozmiar czcionki
+                            </a>
+
+                            <a class="dropdown-item" href="#" st-theme-large-font-switch>
+                                <span class="st-item st-theme-large-font-switch">A</span>&nbsp;Zwiększony rozmiar czcionki
+                            </a>
+
+                            <div class="dropdown-divider"></div>
+
+
+                            <div class="dropdown dropright dropdown-submenu">
+                                <div class="dropdown-item dropdown-toggle">
+                                    <span class="lang-xs" lang="pl"></span> Język
+                                </div>
+                                <ul class="dropdown-menu dropdown-language" boundary="viewport" role="menu">
+                                    <li role="presentation"><span href="#" class="language" rel="pl"><span class="lang-xs lang-lbl-full flag" lang="pl"></span></span></li>
+                                    <li role="presentation"><span href="#" class="language" rel="en"><span class="lang-xs lang-lbl-full flag" lang="en"></span></span></li>
+                                    <li role="presentation"><span href="#" class="language" rel="cs"><span class="lang-xs lang-lbl-full flag" lang="cs"></span></span></li>
+                                    <li role="presentation"><span href="#" class="language" rel="sk"><span class="lang-xs lang-lbl-full flag" lang="sk"></span></span></li>
+                                </ul>
+                            </div>
+
+
+                        </div>
+                    </div>
+</form>            </div>
+        </div>
+
+
+        <span class="header-toolbar-contact header-toolbar-contact-3">
+            tel.: 32 724 65 00 Rozkłady jazdy linii organizowanych przez Miasto Rybnik
+        </span>
+
+    </div>
+
+    <div id="mainTabs" class="layout-mainpage">
+
+        <div class="main-menu-shadow">
+
+            <nav class="menu-main navbar navbar-expand-lg navbar-light bg-light">
+
+
+                <div>
+                    <div class="logo-wrapper">
+                        &nbsp;
+                    </div>
+
+
+                </div>
+
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarText">
+
+                    <ul class="navbar-nav nav nav-pills-menu flex-fill">
+
+                        <li class="nav-item">
+                            <a id="tab1Nav" href="#tab1" data-toggle="tab" role="button">
+                                <span class="image image1">&nbsp;</span>
+                                <span class="nav-item-text"> Odjazdy z przystanku</span>
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a id="tab2Nav" href="#tab2" data-toggle="tab" role="button">
+                                <span class="image image2">&nbsp;</span>
+                                <span class="nav-item-text"> Rozkład linii</span>
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a id="tab3Nav" href="#tab3" data-toggle="tab" role="button">
+                                <span class="image image3">&nbsp;</span>
+                                <span class="nav-item-text"> Planowanie trasy</span>
+                            </a>
+                        </li>
+
+                        <li class="nav-item" id="tab4NavLi" style="display:none">
+                            <a id="tab4Nav" href="javascript:togglePanelInfo()" role="button">
+                                <span class="image image4">&nbsp;</span>
+                                <span class="nav-item-text"> Komunikaty</span>
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+
+            </nav>
+        </div>
+
+
+        <div style="clear:both"></div>
+
+        <!-- Tab panes -->
+        <div class="tab-content layout-tab-content">
+            <div class="timetable-pane" id="dvMainPageLeftTimetable">
+                <div id="dvTimetableActions">
+
+                    <div style="float:left">
+                        <input type="button" id="btBack" class="btn btn-layout" style="font-weight:normal" value="&lsaquo;&lsaquo; Powr&#243;t" onclick="closeTimetable()" />
+                    </div>
+
+                    <div style="float:right;display:table">
+                        <div style="display:table-row">
+
+                            <div style="display:table-cell;vertical-align:middle">
+                                <span id="spTimetablePrint" title="Pobierz i wydrukuj rozkład jazdy" onclick="showTimetablePrintPreview()" style="cursor:pointer;" data-placement='left' tabindex="0">
+                                </span>
+                            </div>
+
+                            <div style="display:table-cell">
+                                <span id="spTimetableAddToFav" style="display:none" tabindex="0">
+                                    <a style="text-decoration:underline" href="javascript:addSelectedBusStopPointToFavorites()">
+                                        Dodaj do ulubionych
+                                    </a>
+                                </span>
+
+                                <span id="spTimetableRemoveFromFav" style="display:none" tabindex="0">
+                                    <a style="text-decoration:underline" href="javascript:removeSelectedBusStopPointFromFavorites()">
+                                        Usuń z ulubionych
+                                    </a>
+                                </span>
+
+                                <br />
+
+                                <span id="spTimetableReal" tabindex="0">
+                                    <a style="text-decoration:underline" href="javascript:showTimetableRealFull()">
+                                        Pokaż tablicę elektroniczną
+                                    </a>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div style="clear:both"></div>
+
+                </div>
+
+                <div id="dvTimetableBusStopHeader" style="padding-top:5px;" class="row">
+                    <div class="col-10">
+                        <h2><span id="spTimeTableBusStopName"></span>  &nbsp;&nbsp;&nbsp; <span id="spTimeTableBusStopSymbol"><img src="/Content/layout/bs-title-0.png" /></span> </h2>
+                    </div>
+                    <div class="col-2 text-right" id="spTimetableClock">
+                        <span class="clock"></span>
+                        <span id="spTimeTableServerTime"></span>
+                    </div>
+                    <div style="clear:both"></div>
+                </div>
+
+                <div id="dvTimetableRoutesHeader" style="padding-top:0px">
+                    <div style="float:left">
+                        Linie na tym przystanku:
+                    </div>
+                    <div style="float:right;width:140px;margin-bottom:0px;margin-top:-10px;display:none" id="dvTimetableVaildFrom">
+                        <span>Rozkład obowiązujący od:</span> <br />
+                        <div id="divSlTimeTableVersion" style="display:none">
+                            <select id="slTimeTableVersion" data-width="100%" tabindex="10"></select>
+                        </div>
+                        <span id="spTimeTableVersion" style="font-weight:bold;display:none"></span>
+                    </div>
+                    <div style="clear:both"></div>
+                </div>
+
+                <div id="dvTimetableRoutes" style="padding-top:5px;padding-bottom:10px">
+                </div>
+
+
+                <div id="dvTimetableDirections" style="display:none">
+                    <table style="width:100%">
+                        <tr>
+                            <td style="vertical-align:middle;width:10%"><b>Kierunek:</b>&nbsp;&nbsp;</td>
+                            <td style="vertical-align:middle;">
+                                <select id="slTimeTableDirections" data-width="100%" onchange="timetableDirectionChanged(this)" tabindex="12"></select>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div id="dvBusStopTimetable" style="margin-top:10px;overflow:auto;" tabindex="-1">
+                </div>
+            </div>
+
+            <div id="dvMainPageLeftTriptable" class="timetable-pane" tabindex="20">
+
+                <div id="dvTriptableActions">
+                    <div style="float:left">
+                        <input type="button" id="btBack" class="btn btn-default btn-layout" style="font-size:0.9em;font-weight:normal" value="&lsaquo;&lsaquo; Powr&#243;t" onclick="closeTriptable()" />
+                    </div>
+
+                    <div style="clear:both"></div>
+
+                    <div style="float:right">
+                    </div>
+                    <div style="clear:both"></div>
+                </div>
+
+                <div id="dvTriptableDirection" style="padding-top:5px">
+                    <h2><span id="spTriptableDirection" tabindex="21"></span></h2>
+                </div>
+
+                <div id="dvTriptableBusStopHeader" style="padding-top:5px">
+                    <span id="spTriptableBusStopHeader" tabindex="21">Odjazdy na kolejnych przystankach:</span>
+                </div>
+
+                <div id="dvTriptableTrip" style="margin-top:10px;overflow:auto;">
+                </div>
+
+            </div>
+
+            <div class="info-pane" id="dvMainPageRightInfo">
+                <div class="info-pane-header">
+                    <input type="button" class="btn btn-layout" style="font-weight:normal" value="Zamknij &rsaquo;&rsaquo;" onclick="closePanelInfo()" />
+                </div>
+                <div id="dvMainPageRightInfoContent"></div>
+            </div>
+
+            <div class="layout-tab-pane show active" role="tabpanel" id="tab1">
+                <nav>
+                    <div id="dvTab1Tabs" class="nav nav-tabs" role="tablist" style="display:none">
+                        <ul class="nav nav-pills nav-fill">
+                            <li>
+                                <a class="nav-link active" id="navTab1TabsTable" data-toggle="tab" href="#dvMainPageLeft">Lista przystank&#243;w</a>
+                            </li>
+                            <li>
+                                <a class="nav-link" id="navTab1TabsMap" data-toggle="tab" href="#mapTab1">Mapa</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+
+                <div class="tab-content">
+                    <div class="layout-mainpage-left" id="dvMainPageLeft">
+                        <div class="bs-pane" id="dvMainPageLeftBusStops">
+
+                            <div id="dvSearch" class="search">
+                                <input type="search" id="tbBSFilter" class="form-control form-control-search-stop" placeholder="Nazwa przystanku, numer przystanku lub ulica" />
+                                <span id="tbBSFilterRemove" class="btn-remove" style="display:none"></span>
+                                <input type="button" id="btBSFilter" class="btn btn-search" onclick="doSearchStops()" value="Szukaj" />
+                            </div>
+
+                            <div class="bs-left" id="dvBusStopPoints" tabindex="1">
+                                <div id="dvBusStopPointsAllHeader" class="header-1-pl" tabindex="1">Wszystkie przystanki</div>
+                                <div id="dvBusStopPointsAllContent" class="content-1" tabindex="2">
+                                </div>
+                            </div>
+                            <div class="bs-right" tabindex="-1">
+                                <div id="dvBusStopPointsLatestHeader" class="header-3-pl">Ostatnio wybrane</div>
+                                <div id="dvBusStopPointsLatestContent" class="top" style="overflow:auto"></div>
+                                <div id="dvBusStopPointsFavHeader" class="header-2-pl">Ulubione</div>
+                                <div id="dvBusStopPointsFavContent" class="bottom content" style="overflow:auto"></div>
+                            </div>
+                            <div style="clear:both"></div>
+                        </div>
+                    </div>
+                    <div id="mapTab1" class="layout-mainpage-right map" tabindex="-1"></div>
+                </div>
+
+                <div style="clear:both"></div>
+
+            </div>
+
+            <div class="layout-tab-pane " id="tab2" role="tabpanel">
+                <nav>
+                    <div id="dvTab2Tabs" class="nav nav-tabs" role="tablist" style="display:none">
+                        <ul class="nav nav-pills nav-fill">
+                            <li>
+                                <a class="nav-link active" id="navTab2TabsTable" data-toggle="tab" href="#dvRouteMainPageLeft">Lista linii</a>
+                            </li>
+                            <li>
+                                <a class="nav-link" id="navTab2TabsMap" data-toggle="tab" href="#mapTab2">Mapa</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+
+                <div class="tab-content">
+                    <div class="layout-mainpage-left" id="dvRouteMainPageLeft" style="position:relative; overflow:auto">
+                        <div class="route-pane">
+
+                            <div id="dvTab2RoutesHeader">
+                                <h2>Linie</h2>
+                            </div>
+                            <div id="dvTab2RoutesContent" style="padding-top:10px;padding-bottom:20px">
+                            </div>
+
+                            <div id="dvTab2Directions" style="display:none">
+                                <table style="width:100%">
+                                    <tr>
+                                        <td style="width:10%;vertical-align:middle"><b>Kierunek</b>&nbsp;&nbsp;</td>
+                                        <td style="vertical-align:middle;width:90%">
+                                            <select id="slTab2Directions" data-width="100%" data-offset-top="100px" onchange="tab2DirectionChanged(this)"></select>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <br />
+                            <div id="dvTab2RoutesTrackHeader">
+                                <h3>Wszystkie przystanki na tym kierunku</h3>
+                            </div>
+
+                            <div id="dvTab2RoutesTrackContent" class="route-track">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="mapTab2" class="layout-mainpage-right map" tabindex="-1"></div>
+
+                    <div style="clear:both"></div>
+                </div>
+            </div>
+
+            <div class="layout-tab-pane" id="tab3">
+                <nav>
+                    <div id="dvTab3Tabs" class="nav nav-tabs" role="tablist" style="display:none">
+                        <ul class="nav nav-pills nav-fill">
+                            <li>
+                                <a class="nav-link active" id="navTab3TabsTable" data-toggle="tab" href="#dvTripPlannerMainPageLeft">Parametry</a>
+                            </li>
+                            <li>
+                                <a class="nav-link" id="navTab3TabsMap" data-toggle="tab" href="#mapTab3">Mapa</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+
+
+                <div class="tab-content">
+                    <div class="layout-mainpage-left" id="dvTripPlannerMainPageLeft" style="position:relative">
+                        <div class="tp-pane">
+                            <table id="tbTripPlannerMainPageParams" class="tp-params">
+
+
+                                <tr>
+                                    <td style="text-align:right;padding:5px">
+                                        <span id="spFrom">Skąd</span>
+                                        <span class="bs-button-replace">
+                                            <input type='button' id="btTpReplace" class='btn btn-layout tp-btn-swap' style="float:right;display:inline-block" onclick='tpSwapTrack()' title='Zamień kierunki' />
+                                        </span>
+                                    </td>
+                                    <td colspan='3' style="vertical-align:middle;padding:5px">
+                                        <input type="text" id="cbTripPlanerFrom" class="form-control" />
+                                        <input type='button' id="btTpClearPointFrom" class='btn btn-layout tp-btn-clear' style="display:none" onclick='tpClearFrom()' title='Wyczyść' />
+                                        <input type='button' id="btTpShowPointFrom" class='btn btn-layout tp-btn-center-map' style="float:right;display:inline-block" onclick='tpPanToStartCenter()' title='Pokaż punkt początkowy' />
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td style="text-align:right;padding:5px"><span id="spTo">Dokąd</span></td>
+                                    <td colspan='3' style="vertical-align:middle;padding:5px">
+                                        <input type="text" id="cbTripPlanerTo" class="form-control" />
+                                        <input type='button' id="btTpClearPointTo" class='btn btn-layout tp-btn-clear' style="display:none" onclick='tpClearTo()' title='Wyczyść' />
+                                        <input type='button' id="btTpShowPointTo" class='btn btn-layout tp-btn-center-map' style="float:right;display:inline-block" onclick='tpPanToStopCenter()' title='Pokaż punkt końcowy' />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="text-align:right;padding:5px"></td>
+                                    <td style="padding:5px">
+                                        <select class='form-control' id="cbTripPlanerMode">
+                                            <option value="0">Odjazd</option>
+                                            <option value="1">Przyjazd</option>
+                                        </select>
+                                    </td>
+                                    <td style="text-align:right;padding:5px">o godz</td>
+                                    <td style="text-align:left;padding:5px"><input type="text" class='form-control' id="tbTripPlanerGodzOd" maxlength="5" value="23:15" /></td>
+                                </tr>
+                                <tr>
+                                    <td style="text-align:right;padding:5px">Data</td>
+                                    <td style="padding:5px">
+                                        <input id='tbTripPlanerDate' type='text' class="form-control" data-date-format="dd-mm-yyyy" value="15-09-2026" />
+                                    </td>
+                                    <td style="text-align:right;padding:5px">Liczba<br />przesiadek</td>
+                                    <td style="padding:5px">
+                                        <select class='form-control' id="cbTripPlanerIlePrzes">
+                                            <option value="">Dowolna</option>
+                                            <option value="0">0</option>
+                                            <option value="1" selected="selected">1</option>
+                                            <option value="2">2</option>
+                                            <option value="3">3</option>
+                                            <option value="4">4</option>
+                                        </select>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td id="btMoreTripParameters" style="cursor:pointer;vertical-align:middle;"><span class="tp-trip-step-arrow collapsed tp-detail-params-icon"></span> <a href="#" class="tp-detail-params-title">Więcej parametr&#243;w</a> </td>
+                                    <td><span id="spTripPlanerHelp" title="Wpisz przystanek początkowy i końcowy, lub kliknij na mapie punkt z kt&#243;rego rozpoczynasz podr&#243;ż i punkt na kt&#243;rym chcesz zakończyć" style="cursor:pointer;float:right" data-placement='bottom'></span></td>
+                                    <td style="padding:5px;text-align:center">
+                                        <input type="button" id="btTpSearch" class="btn btn-layout" alt="" title="Szukaj" value="Szukaj" />
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td colspan="4">
+                                        <table id="tbMoreTripParameters" style="display:none">
+                                            <tr>
+                                                <td style="text-align:right;padding:5px">Odrzuć linie</td>
+                                                <td style="padding:5px"><input id="tbSkipRoutes" class="form-control" placeholder="Wpisz numery linii, np. 5 24" type="text" style="width:100%" /></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td style="text-align:right;padding:5px">Przesiadki pieszo</td>
+                                                <td style="padding:5px">
+                                                    <select id="slTripPlanerPrefer" class="form-control">
+                                                        <option value="0" selected="selected">500 m</option>
+                                                        <option value="1">300 m</option>
+                                                        <option value="2">100 m</option>
+                                                    </select>
+                                                </td>
+                                            </tr>
+
+                                        </table>
+                                    </td>
+                                </tr>
+
+
+                            </table>
+                            <div id="dvTripPlanerResult" class="tp-result">
+                            </div>
+                        </div>
+                    </div>
+                    <div id="mapTab3" class="layout-mainpage-right map" tabindex="-1"></div>
+                    <div style="clear:both"></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+        </div>
+
+        <form method="post" name="fmTTVersion" id="fmTTVersion">
+            <input type="hidden" name="ttId" id="fmTTVersion_hdTTId" />
+        </form>
+
+
+        <div id="extModal" class="modal fade" tabindex="-1" role="dialog">
+            <div class="modal-dialog modal-xl" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title" id="extModalTitle"></h4>
+                         
+                    </div>
+                    <div class="modal-body" id="extModalContent" style="overflow-x:auto">
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default btn-layout" data-dismiss="modal">Zamknij</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div> 
+
+</body>
+</html>

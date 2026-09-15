@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-09-15T23:32:34",
+  "gtfs_url": "https://km.rybnik.pl/download/attachment/633/gtfs.zip",
+  "attachment_id": 633,
+  "valid_from": "2026-09-01",
+  "valid_to": "2026-12-31",
+  "stop_count": 626,
+  "route_count": 44,
+  "sha256": "9ba82f3422f90befbd0e72879762b2ee035eb25195caf841bfd73255b9123f4c",
+  "failures": []
+}

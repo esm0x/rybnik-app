@@ -1,0 +1,28 @@
+# Gradle / build output
+.gradle/
+build/
+app/build/
+*.apk
+*.aab
+
+# Local config — machine specific, never commit
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.kotlin/
+captures/
+.cxx/
+
+# Delta packages (already applied)
+*.zip
+
+# Python scraper
+scraper/__pycache__/
+scraper/.venv/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
