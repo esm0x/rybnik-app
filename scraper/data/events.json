@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:38:34",
+  "generated_at": "2026-09-16T16:59:02",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,7 +7,7 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 115,
+  "count": 119,
   "failures": [],
   "events": [
     {
@@ -473,6 +473,17 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/koncert-laureatow-30ofpa-i-koncert-galowy-w-wykonaniu-andrzeja-piasecznego-z-zespolem-i-goscinnym-udzialem-kasi-wilk.html"
     },
     {
+      "id": "iryb-iv-rybnicki-tydzien-senioralny",
+      "title": "IV Rybnicki Tydzień Senioralny",
+      "category": "Inne",
+      "start": "2026-09-28T10:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Od 28 września do 2 października 2026 roku w Rybniku odbędzie się IV Rybnicki Tydzień Senioralny. Wydarzenie ma na celu pokazanie różnorodnych form aktywności seniorów, a także stworzenie okazji do spotkań, rozmów i wspólnego udziału w działaniach związanych ze zdrowiem, historią miasta oraz integracją. Wydarzenie rozpocznie się 28 września 2026 roku o godz. 10:00 . Poszczególne punkty programu zaplanowano w różnych miejscach Rybnika. Organizatorem wydarzenia jest Fundacja „Superfundacja” . Program IV Rybnickiego Tygodnia Senioralnego obejmuje kilka spotkań i inicjatyw skierowanych do seniorów oraz osób zainteresowanych aktywnym uczestnictwem w życiu lokalnej społeczności.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/iv-rybnicki-tydzien-senioralny"
+    },
+    {
       "id": "tzr-zaproszenie-kntds",
       "title": "Zaproszenie",
       "category": "Film",
@@ -792,6 +803,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/gielda-projektow-2026"
     },
     {
+      "id": "iryb-bezpieczny-senior-na-drodze-i-w-sieci",
+      "title": "Bezpieczny Senior - na drodze i w sieci",
+      "category": "Inne",
+      "start": "2026-10-14T10:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Bezpieczeństwo osób starszych będzie tematem spotkania „Bezpieczny Senior - na drodze i w sieci”, które odbędzie się w Czerwionce-Leszczynach. Wydarzenie ma pomóc seniorom zdobyć praktyczną wiedzę i przypomnieć najważniejsze zasady bezpiecznego poruszania się po drodze oraz korzystania z internetu. Wydarzenie będzie poświęcone bezpieczeństwu seniorów w dwóch ważnych obszarach: na drodze i w internecie. Uczestnicy będą mogli poszerzyć swoją wiedzę oraz przypomnieć sobie zasady, które pomagają unikać zagrożeń w codziennym życiu. Spotkanie ma mieć praktyczny charakter i skupiać się na informacjach przydatnych osobom starszym. Organizatorzy chcą zwrócić uwagę na najważniejsze kwestie związane z bezpieczeństwem oraz zachęcić do ostrożności zarówno podczas poruszania się po drodze, jak i korzystania z sieci. Gościem specjalnym wydarzenia będzie Mirosław Szołtysek .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/bezpieczny-senior-na-drodze-i-w-sieci"
+    },
+    {
       "id": "iryb-rybska-klub-odyseja-w-rybniku",
       "title": "RybSKA | Klub Odyseja w Rybniku",
       "category": "Impreza",
@@ -891,6 +913,17 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/lata-80-przy-swiecach-muzyka-ktora-przenosi-do-wspomnien.html"
     },
     {
+      "id": "dk-bog-11092-filmowy-zefir-zbrodnia-pierwszej-klasy-bezplatny-seans-filmowy",
+      "title": "Filmowy Zefir | Zbrodnia pierwszej klasy - bezpłatny seans filmowy",
+      "category": "Film",
+      "start": "2026-10-23T18:00",
+      "end": "2026-10-23T19:30",
+      "venue": "Dom Kultury Boguszowice",
+      "description": "Jeśli lubicie klasyczne kryminały, elegancki klimat i historie, przy których do końca próbujecie rozwiązać zagadkę przed detektywem, ten Filmowy Zefir będzie idealnym planem na piątkowy wieczór. Luksusowy pociąg przemierzający Europę i śnieżyca, która nagle zatrzymuje podróż. Brzmi jak początek eleganckiej filmowej przygody? Tylko do chwili, gdy w jednym z przedziałów zostaje znalezione ciało. Morderca najprawdopodobniej nadal jest na pokładzie. A problem robi się jeszcze większy, kiedy okazuje się, że właściwie każdy z pasażerów ma coś do ukrycia. Na szczęście tym samym pociągiem podróżuje genialny belgijski detektyw, który potrafi zauważyć szczegół tam, gdzie inni nie widzą niczego podejrzanego. Zaczyna się więc gra alibi, półprawd i bardzo niewygodnych pytań. Do tego obsada, którą można czytać jak listę gości wielkiej filmowej gali: Johnny Depp, Michelle Pfeiffer, Penélope Cruz, Judi Dench, Willem Dafoe, Olivia Colman, Daisy Ridley i Kenneth Branagh. WSTĘP WOLNY! Zapraszamy!",
+      "sourceName": "DK Boguszowice",
+      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/filmowy-zefir-zbrodnia-pierwszej-klasy-bezplatny-seans-filmowy/"
+    },
+    {
       "id": "tzr-goniac-kormorany",
       "title": "Goniąc Kormorany",
       "category": "Koncert",
@@ -911,6 +944,17 @@
       "description": "Manchester świętuje 20-lecie działalności i z tej okazji zagra jubileuszowy koncert w Rybniku. 23 października 2026 roku klub Odyseja wypełnią gitarowe brzmienia, radiowe przeboje i energia toruńskiego zespołu — warto zarezerwować ten wieczór na muzyczne spotkanie z grupą w oryginalnym składzie. Organizatorem wydarzenia są Klub Odyseja i zespół Manchester . Wejściówki można kupić w systemach Stage24 i KupBilecik . Bilety grupowe oraz rezerwacje można ustalać telefonicznie pod numerem 883 583 264 , a rezerwacje stolików przyjmowane są pod adresem [email protected] . Zespół Manchester powstał w 2006 roku w Toruniu. Już na początku działalności pojawiał się na ważnych polskich festiwalach rockowych, między innymi w Węgorzewie i Jarocinie. Utwór „Do Gwiazd” trafił na składankę „Minimax.pl”, a grupa wystąpiła również w finale programu „MTV Rockuje” i w studiu im. Agnieszki Osieckiej, gdzie zagrała utwory Republiki.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/manchester-20-lecie-koncert-w-rybniku"
+    },
+    {
+      "id": "dk-bog-11096-filmowy-poranek-z-zefirkiem-wielka-smocza-wyprawa-bezplatny-sean",
+      "title": "Filmowy Poranek z Zefirkiem | Wielka smocza wyprawa - bezpłatny seans familijny",
+      "category": "DlaDzieci",
+      "start": "2026-10-24T10:00",
+      "end": "2026-10-24T11:30",
+      "venue": "Dom Kultury Boguszowice",
+      "description": "Podczas kolejnego Filmowego Poranka z Zefirkiem przeniesiemy się do niezwykłej krainy Kumandra. Dawno temu ludzie i smoki żyli tam razem, ale dziś kraina jest podzielona, a dawne zaufanie gdzieś po drodze zniknęło. Właśnie wtedy zaczyna się wielka wyprawa w poszukiwaniu ostatniego smoka. Będzie szybko, kolorowo i momentami naprawdę zabawnie. Nie zabraknie niebezpieczeństw, nowych przyjaźni i bohaterki, która zdecydowanie nie należy do tych, które siedzą z założonymi rękami i czekają, aż świat uratuje ktoś inny. To piękna, pełna przygód animacja dla całej rodziny, ale pod smoczymi łuskami kryje się też coś więcej: historia o zaufaniu, współpracy i o tym, że czasem pierwszy krok do zmiany trzeba zrobić samemu. Czy jeden smok wystarczy, żeby połączyć podzielony świat? Przekonajcie się sami! WSTĘP WOLNY!",
+      "sourceName": "DK Boguszowice",
+      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/filmowy-poranek-z-zefirkiem-wielka-smocza-wyprawa-bezplatny-seans-familijny/"
     },
     {
       "id": "iryb-dzieciniada-2026",
