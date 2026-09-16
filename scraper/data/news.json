@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T05:49:05",
-  "count": 74,
+  "generated_at": "2026-09-16T11:41:13",
+  "count": 75,
   "failures": [
     {
       "source": "rybnik.com.pl",
@@ -9,33 +9,163 @@
   ],
   "items": [
     {
-      "id": "389cc7f77e60519cd4248fbcbe61e9897b89aa7a",
-      "title": "Prokurator generalny ogłosił zarzut Michałowi Wosiowi: przekroczył uprawnienia i nie dopełnił obowiązku. Woś: zarzut wyssany z palca",
-      "summary": "Prokurator Waldemar Żurek uznał, że Woś jako funkcjonariusz publiczny, wiceminister w resorcie sprawiedliwości odpowiedzialny za Służbę Więzienną działał ze szkodą dla interesu publicznego. Sprawa dotyczy wydawania decyzji i postanowień administracyjnych oraz wewnętrznych aktów normatywnych…",
-      "link": "https://www.nowiny.pl/wiadomosci/250953-prokurator-generalny-oglosil-zarzut-michalowi-wosiowi-przekroczyl-uprawnienia-i-nie-dopelnil-obowiazku-wos-zarzut-wyssany-z-palca.html",
-      "published": "2026-09-15T19:29",
+      "id": "8c854eb90d293def5493dbfb08ae8637bdf6fa6d",
+      "title": "Wtargnął na posesję, żeby się ukryć? Gospodarz go ujął, a policja odkryła, że jest poszukiwany",
+      "summary": "Mężczyzna szukał miejsca, w którym mógłby się ukryć. Trafił na posesję mieszkańca Jastrzębia-Zdroju, który go ujął i wezwał policję.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/250976-wtargnal-na-posesje-zeby-sie-ukryc-gospodarz-go-ujal-a-policja-odkryla-ze-jest-poszukiwany.html",
+      "published": "2026-09-16T11:12",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
     },
     {
-      "id": "36c18024936f3603b3ff15168ac14f14f8311d7e",
-      "title": "Jazz na wzgórzu, nocny spacer i smaki regionu. Niezwykłe spotkanie na raciborskim cmentarzu [ZAPOWIEDŹ]",
-      "summary": "Muzyka wśród starych drzew, regionalne smaki, światło czołówek i miejsce, które jeszcze niedawno przypominało „dżunglę amazońską”. W niedzielę 20 września dawny cmentarz ewangelicki przy ul. Starowiejskiej w Raciborzu po raz drugi stanie się miejscem niezwykłego spotkania. Parafia…",
-      "link": "https://www.nowiny.pl/wiadomosci/250952-jazz-na-wzgorzu-nocny-spacer-i-smaki-regionu-niezwykle-spotkanie-na-raciborskim-cmentarzu-zapowiedz.html",
-      "published": "2026-09-15T19:00",
+      "id": "6204f6fb3a3b77d2971ab8a4f77e639d51ffaa02",
+      "title": "Straż Leśna rusza z akcją „Jesień 26”. Kontrole w lasach w całej Polsce",
+      "summary": "Od 14 września do 18 października na terenie Lasów Państwowych w całej Polsce prowadzona będzie akcja Straży Leśnej „Jesień 26”. Jej celem jest przede wszystkim zapewnienie bezpieczeństwa osobom korzystającym z lasów, ochrona przyrody i infrastruktury leśnej oraz przeciwdziałanie szkodnictwu…",
+      "link": "https://www.nowiny.pl/ekonowiny/250974-straz-lesna-rusza-z-akcja-jesien-26-kontrole-w-lasach-w-calej-polsce.html",
+      "published": "2026-09-16T09:52",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
     },
     {
-      "id": "f711d4ded89d28e9ca502aa36662b429b82295f9",
-      "title": "Nie ma pieniędzy na linię kolejową 151 Kędzierzyn-Chałupki. Czy powstaną nowe przystanki Racibórz Ostróg i Racibórz Fabryczna?",
-      "summary": "Od przeprowadzenia konsultacji społecznych w 2021 roku, aktualnie gotowa jest dokumentacja projektowa modernizacji linii kolejowej 151 między Kędzierzynem Koźlem a Chałupkami przez Racibórz. Z powodu braku środków z Krajowego Programu Kolejowego inwestycja ta znalazła się na liście rezerwowej…",
-      "link": "https://www.nowiny.pl/wiadomosci/250951-nie-ma-pieniedzy-na-linie-kolejowa-151-kedzierzyn-chalupki-czy-powstana-nowe-przystanki-raciborz-ostrog-i-raciborz-fabryczna.html",
-      "published": "2026-09-15T15:11",
+      "id": "03d604c956928464a2d12b89868a65ae8e7ad434",
+      "title": "Na widok policjantów wyrzucił woreczek z białym proszkiem i ruszył do ucieczki",
+      "summary": "27-latek zaczął uciekać na widok policyjnego patrolu, wcześniej wyrzucając na ziemię woreczek. W środku znajdował się biały proszek, który po badaniu okazał się substancją psychoaktywną.",
+      "link": "https://ezory.pl/wiadomosci/250973-na-widok-policjantow-wyrzucil-woreczek-z-bialym-proszkiem-i-ruszyl-do-ucieczki.html",
+      "published": "2026-09-16T09:05",
       "source": "nowiny.pl",
       "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5707ea4fe971642e28f70dde14ccb3fb9f7f0e17",
+      "title": "Zebrania wiejskie w gminie Krzanowice. Mieszkańcy zdecydują o funduszu sołeckim na 2027 rok",
+      "summary": "Mieszkańcy wszystkich sołectw gminy Krzanowice będą wkrótce decydować, na co przeznaczone zostaną pieniądze. Zebrania wiejskie odbędą się w drugiej połowie września w Pietraszynie, Krzanowicach, Wojnowicach, Borucinie i Bojanowie.",
+      "link": "https://www.nowiny.pl/wiadomosci/250972-zebrania-wiejskie-w-gminie-krzanowice-mieszkancy-zdecyduja-o-funduszu-soleckim-na-2027-rok.html",
+      "published": "2026-09-16T08:43",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b54b38ae40c7be1a96f685f19891e9ae2b9c058c",
+      "title": "W nowym ZSP5 przy Żorskiej planowana jest budowa kilku placów zabaw",
+      "summary": "W okresie jesienno-zimowym urządzenia z poprzednich siedzib zlikwidowanych już przedszkoli P23 i P26 zostaną przeniesione i zainstalowane na terenie SP nr 18 - zapowiada wydział edukacji w raciborskim magistracie. Naczelnik Krzysztof Żychski przekazał radnym miejskim, że docelowo planowana jest w…",
+      "link": "https://www.nowiny.pl/wiadomosci/250971-w-nowym-zsp5-przy-zorskiej-planowana-jest-budowa-kilku-placow-zabaw.html",
+      "published": "2026-09-16T08:43",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "bb2d1c46c31635104dc925b2cfa54214018a3785",
+      "title": "Od stycznia zmiany w autobusach Wodzisławskiej Komunikacji Powiatowej. Nowe trasy do Pszowa, Rydułtów i Raciborza",
+      "summary": "Od 1 stycznia 2027 roku ma zmienić się siatka Wodzisławskiej Komunikacji Powiatowej. Pasażerowie zyskają m.in. nowe bezpośrednie połączenia, częstsze kursy na linii 42 oraz powrót tras znanych wcześniej jako linie A i B.",
+      "link": "https://www.nowiny.pl/wiadomosci/250970-od-stycznia-zmiany-w-autobusach-wodzislawskiej-komunikacji-powiatowej-nowe-trasy-do-pszowa-rydultow-i-raciborza.html",
+      "published": "2026-09-16T08:43",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a3ad932abcc7371558fdcbcef039dee62780ca78",
+      "title": "Koszykarskie emocje w Raciborzu. Przed nami turniej 3×3 dziewczynek",
+      "summary": "Przed nami sportowe emocje, rywalizacja i świetna zabawa! Zapraszamy młode zawodniczki na Turniej Koszykówki 3×3 Dziewczynek organizowany przez RKK AZS Racibórz.",
+      "link": "https://sport.nowiny.pl/sport/250969-koszykarskie-emocje-w-raciborzu-przed-nami-turniej-3-3-dziewczynek.html",
+      "published": "2026-09-16T08:36",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8880097f3473125f1e6b599e92c4f6a171e4c973",
+      "title": "\"Cecylia\" z Krzanowic w gronie najstarszych chórów i orkiestr Śląska",
+      "summary": "Chór „Cecylia” działający przy Gminnym Centrum Biblioteczno-Kulturalnym w Krzanowicach został uhonorowany certyfikatem potwierdzającym jego członkostwo w Konfraterni Najstarszych Chórów i Orkiestr Śląska. Jak informuje Kornelia Pawliczek-Błońska, dyrygentka chóru, certyfikat wręczono 12 września…",
+      "link": "https://www.nowiny.pl/wiadomosci/250968-cecylia-z-krzanowic-w-gronie-najstarszych-chorow-i-orkiestr-slaska.html",
+      "published": "2026-09-16T08:34",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "fd598d273b81cf185aacd97a416942b33e5bff22",
+      "title": "RCK rozpoczyna 25. sezon artystyczny. Na scenie „Cztery pory roku” Vivaldiego",
+      "summary": "„Cztery pory roku” na rozpoczęcie jubileuszowego 25. sezonu artystycznego Raciborskiego Centrum Kultury i na finał Festiwalu im. Grzegorza Gerwazego Gorczyckiego.",
+      "link": "https://www.nowiny.pl/wiadomosci/250966-rck-rozpoczyna-25-sezon-artystyczny-na-scenie-cztery-pory-roku-vivaldiego.html",
+      "published": "2026-09-16T08:30",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "46036da299aafd0b5f41c30c5e3410e312c6179e",
+      "title": "Graniczne Meandry Odry walczą o tytuł Cudu Polski 2026",
+      "summary": "Graniczne Meandry Odry znalazły się wśród nominowanych w plebiscycie „Cuda Polski 2026”, organizowanym przez „National Geographic Traveler”. To jedno z trzech miejsc z województwa śląskiego, które walczą o głosy internautów, obok Szlaku Orlich Gniazd i Stacji Biblioteka w Rudzie Śląskiej…",
+      "link": "https://www.nowiny.pl/wiadomosci/250965-graniczne-meandry-odry-walcza-o-tytul-cudu-polski-2026.html",
+      "published": "2026-09-16T08:23",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "42327fff4019284dff7c17d41be5548786814c75",
+      "title": "Gmina Godów reprezentowała Śląsk. Jej korona zachwyciła na Dożynkach Prezydenckich [ZDJĘCIA]",
+      "summary": "Gmina Godów reprezentowała województwo śląskie podczas Dożynek Prezydenckich w Tryńczy. Przygotowana przez lokalną grupę korona dożynkowa zdobyła wyróżnienie w ogólnopolskim konkursie na najładniejszy wieniec dożynkowy.",
+      "link": "https://agronowiny.pl/wiadomosci/250964-gmina-godow-reprezentowala-slask-jej-korona-zachwycila-na-dozynkach-prezydenckich-zdjecia.html",
+      "published": "2026-09-16T08:21",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "402466a0875214202b6772cf9f43c2c7ec5b96e1",
+      "title": "Rybniczanin stracił 242 tys. zł. Oszuści dzwonili do niego przez cztery dni",
+      "summary": "39-letni mieszkaniec Rybnika stracił 242 tys. zł po serii telefonów od osób podszywających się pod pracownika banku i policjanta. Mężczyzna zaciągał kredyty, wpłacał pieniądze w bitomatach, a część gotówki przekazał „kurierowi” w centrum miasta.",
+      "link": "https://www.nowiny.pl/wiadomosci/250963-rybniczanin-stracil-242-tys-zl-oszusci-dzwonili-do-niego-przez-cztery-dni.html",
+      "published": "2026-09-16T08:04",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ee0ae3004b915385b072d9c32f814de38b88444d",
+      "title": "A4 Katowice–Kraków bez opłat dla osobówek. Jest konkretna data",
+      "summary": "Koniec opłat na A4 Katowice–Kraków jest już przesądzony. Po wygaśnięciu koncesji Stalexportu przejazd dla pojazdów do 3,5 tony będzie bezpłatny.",
+      "link": "https://www.nowiny.pl/wiadomosci/250962-a4-katowice-krakow-bez-oplat-dla-osobowek-jest-konkretna-data.html",
+      "published": "2026-09-16T07:56",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "18097568de664e997d0d3e9f7eb7ec6442ce16cf",
+      "title": "Najlepsze kurtki zimowe damskie na mroźne dni",
+      "summary": "Gdy temperatura za oknem gwałtownie spada poniżej zera, odpowiednio dobrana odzież wierzchnia gwarantuje Ci stałą ochronę termiczną podczas każdego wyjścia. W mroźne poranki potrzebujesz fasonu, który skutecznie powstrzyma podmuchy lodowatego wiatru oraz ochroni przed opadami gęstego śniegu…",
+      "link": "https://www.nowiny.pl/nie-przegap/250959-najlepsze-kurtki-zimowe-damskie-na-mrozne-dni.html",
+      "published": "2026-09-16T07:37",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a4e0585d1b9f15fcaf48f682e9460d290dfdd196",
+      "title": "Wolne mieszkanie na Sztolniowej",
+      "summary": "Nadal można składać wnioski o zawarcie umowy najmu mieszkania w ramach Towarzystwa Budownictwa Społecznego. Do dyspozycji jest kawalerka przy ul. Sztolniowej 43/1 w Rybniku-Boguszowicach Starych.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/trwa-nabor-wnioskow-na-mieszkanie-tbs-przy-ul-sztolniowej",
+      "published": "2026-09-16T00:00",
+      "source": "rybnik.eu",
+      "category": "Boguszowice Stare",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0800e788ae8a433a63244c884a3b94f4d1baa39c",
+      "title": "Nowe Akwarium w Boguszowicach.",
+      "summary": "Zakończył się remont pływalni Akwarium w Boguszowicach – odnowiono obie niecki basenowe, wymieniono m.in. folię, oświetlenie podwodne i kratki przelewowe, a obiekt zyskał także odświeżone wnętrza i oświetlenie LED.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/nowe-akwarium-w-boguszowicach",
+      "published": "2026-09-16T00:00",
+      "source": "rybnik.eu",
+      "category": "Rekreacja",
       "priority": "NORMAL"
     },
     {
@@ -49,113 +179,13 @@
       "priority": "NORMAL"
     },
     {
-      "id": "65f3e9a83e491c89595859d8097dbfe3e1ca8c7f",
-      "title": "Woś pyta o nowych pracowników w dawnym Rafako, wiceminister odpowiada: jest ich 77",
-      "summary": "Poseł PiS - Michał Woś zadał ministrowi aktywów państwowych pytanie: ilu pracowników jest obecnie zatrudnionych w spółce RFK na terenie dawnego zakładu Rafako? Podsekretarz stanu Konrad Gołota udzielił politykowi prawicy dwóch odpowiedzi.",
-      "link": "https://www.nowiny.pl/wiadomosci/250950-wos-pyta-o-nowych-pracownikow-w-dawnym-rafako-wiceminister-odpowiada-jest-ich-77.html",
-      "published": "2026-09-15T13:55",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "bfe4c7fbba8b6cf5a1706eab8d0eadbfdfecaa83",
-      "title": "Nie wyrzucaj kasztanów i żołędzi. Przydadzą się raciborskim żubrom",
-      "summary": "Trawa, liście, pędy, zboże, marchew i buraki. Jadłospis żubrów z raciborskiej zagrody jest całkiem różnorodny, ale jesienią pojawi się w nim także coś w rodzaju deseru. Zwierzęta bardzo lubią żołędzie i kasztany, dlatego od 20 września można przynosić je do Pokazowej Zagrody Żubrów w Raciborzu oraz…",
-      "link": "https://agronowiny.pl/wiadomosci/250948-nie-wyrzucaj-kasztanow-i-zoledzi-przydadza-sie-raciborskim-zubrom.html",
-      "published": "2026-09-15T13:12",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c9effd6f34fc64340a135e42d3027a183c985357",
-      "title": "Co dziś wozimy na naszych samochodach? Od klasycznych bagażników po mobilny dom na dachu",
-      "summary": "Jeszcze niedawno samochód miał jedno zadanie – zawieźć nas na miejsce. Dziś może zrobić znacznie więcej. Zabiera rowery, narty, walizki, sprzęt kempingowy, a nawet… miejsce do spania. To, co montujemy na samochodzie, coraz częściej mówi nie tylko o tym, ile chcemy przewieźć, ale przede wszystkim…",
-      "link": "https://www.nowiny.pl/wiadomosci/250947-co-dzis-wozimy-na-naszych-samochodach-od-klasycznych-bagaznikow-po-mobilny-dom-na-dachu.html",
-      "published": "2026-09-15T12:30",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c5eee5bf511afdcc72d71a74462fda82169155d9",
-      "title": "Autobus do szpitala nie pojedzie. W PK Racibórz zabrakło kierowców",
-      "summary": "W środę 16 września nie będzie kursowała linia nr 16 w komunikacji miejskiej w Raciborzu. To jedna z trzech linii tymczasowo zawieszonych w tym tygodniu przez Przedsiębiorstwo Komunalne. Oprócz linii 16 kursującej między Sudołem a Gamowską (szpital rejonowy) zawieszono także linie 17…",
-      "link": "https://www.nowiny.pl/wiadomosci/250945-autobus-do-szpitala-nie-pojedzie-w-pk-raciborz-zabraklo-kierowcow.html",
-      "published": "2026-09-15T11:35",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a1119c9831f894fa183f07dc7c8d5c3dcda51ea2",
-      "title": "Pompa zatapialna do zadań specjalnych – jak dobrać urządzenie do odwadniania i ścieków w przemyśle",
-      "summary": "W przemyśle dobór pompy rzadko sprowadza się do samej wydajności. Gdy urządzenie pracuje w studni, zbiorniku technologicznym, osadniku albo komorze ściekowej, liczy się odporność na ścieranie, stabilność parametrów i zdolność do pracy z medium o zmiennym składzie. Właśnie dlatego pompa zatapialna…",
-      "link": "https://www.nowiny.pl/wiadomosci/250937-pompa-zatapialna-do-zadan-specjalnych-jak-dobrac-urzadzenie-do-odwadniania-i-sciekow-w-przemysle.html",
-      "published": "2026-09-15T11:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "5d4c0facd24ffdaf878320009ebcc7916ac6ad1e",
-      "title": "Polacy i Czesi ruszą na wspólny rajd rowerowy. Trasa będzie liczyć 8 km",
-      "summary": "W sobotę, 26 września, odbędzie się międzynarodowy rajd rowerowy z udziałem mieszkańców gminy Krzanowice i czeskiej Bělej. Wydarzenie organizowane jest wspólnie z czeskim partnerem w ramach projektu „Rozwój infrastruktury pieszo-rowerowej Gminy Krzanowice i Obce Bělá”.",
-      "link": "https://www.nowiny.pl/wiadomosci/250944-polacy-i-czesi-rusza-na-wspolny-rajd-rowerowy-trasa-bedzie-liczyc-8-km.html",
-      "published": "2026-09-15T10:47",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c557102f66ced11272bb775a810da07d447daa04",
-      "title": "Najlepsi uczniowie z Pietrowic Wielkich nagrodzeni. Otrzymali stypendia i nagrody [ZDJĘCIA]",
-      "summary": "Kilkudziesięciu uczniów szkół podstawowych i ponadpodstawowych z terenu gminy Pietrowice Wielkie otrzymało Nagrody Wójta Gminy za osiągnięcia w roku szkolnym 2025/2026. Wyróżniono zarówno młodych ludzi odnoszących sukcesy w nauce, jak i na arenach sportowych.",
-      "link": "https://www.nowiny.pl/wiadomosci/250943-najlepsi-uczniowie-z-pietrowic-wielkich-nagrodzeni-otrzymali-stypendia-i-nagrody-zdjecia.html",
-      "published": "2026-09-15T10:39",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0a978b04c603c7f80134a786e28a1ec4c85a85c7",
-      "title": "Motocykliści zakończą sezon. Spotkanie w Turzu już 26 września",
-      "summary": "Tradycyjnie pod koniec sezonu motocykliści spotkają się w Turzu, w gminie Kuźnia Raciborska. Coroczne zakończenie sezonu organizowane przez grupę „Family Ghost” odbędzie się w sobotę, 26 września.",
-      "link": "https://www.nowiny.pl/wiadomosci/250942-motocyklisci-zakoncza-sezon-spotkanie-w-turzu-juz-26-wrzesnia.html",
-      "published": "2026-09-15T10:27",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3f9e8819cafbc0a97518ad58782214ec02c9fb6a",
-      "title": "Kurs tańca towarzyskiego w Raciborskim Centrum Kultury – zapisz się już dziś!",
-      "summary": "Raciborskie Centrum Kultury serdecznie zaprasza na pierwszy stopień KURSU TAŃCA TOWARZYSKIEGO. Kurs obejmuje naukę tańców standardowych: walc wiedeński, walc angielski, tango, quickstep, fokstrot oraz tańców latynoamerykańskich: samba, cza-cza, rumba, pasodoble.",
-      "link": "https://www.nowiny.pl/wiadomosci/250940-kurs-tanca-towarzyskiego-w-raciborskim-centrum-kultury-zapisz-sie-juz-dzis.html",
-      "published": "2026-09-15T10:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "5ce88fa3c3f082182674cb4fa3e41670c3377009",
-      "title": "Co podarować nastoletniej siostrze? 3 świetne pomysły",
-      "summary": "Znalezienie odpowiedniego prezentu dla nastolatki może być nie lada wyzwaniem. Dojrzewanie to czas dynamicznych zmian, kiedy kształtuje się osobisty styl i odkrywane są nowe pasje. Aby znaleźć coś, co trafi w gust dziewczyny, warto przyjrzeć się jej codziennym nawykom i sposobom spędzania wolnego…",
-      "link": "https://www.nowiny.pl/wiadomosci/250946-co-podarowac-nastoletniej-siostrze-3-swietne-pomysly.html",
-      "published": "2026-09-15T09:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a5d1f9b131c078b2c62910f8d0b65d31fe5045a2",
-      "title": "Niemcy odwiedzili Kombinat Rolny w Kietrzu. Krajowa Grupa Spożywcza: sprzedaży nie było i nie ma w planach",
-      "summary": "Wizyta niemieckiej delegacji w Kombinacie Rolnym Kietrz miała dotyczyć współpracy i nowoczesnego rolnictwa. Kilka dni później prezes państwowej spółki Mariusz Sikora został zawieszony, a sama wizyta zaczęła budzić pytania o sposób jej organizacji i rzeczywisty cel. Wyjaśnienia tej sprawy domaga się…",
-      "link": "https://agronowiny.pl/wiadomosci/250935-niemcy-odwiedzili-kombinat-rolny-w-kietrzu-krajowa-grupa-spozywcza-sprzedazy-nie-bylo-i-nie-ma-w-planach.html",
-      "published": "2026-09-15T08:25",
-      "source": "nowiny.pl",
-      "category": "Region",
+      "id": "8a2a2baea2426280c00e901f6c380ee4c070af44",
+      "title": "Tydzień dla seniorów",
+      "summary": "Na przełomie września i października Rybnik będzie świętował aktywność, kulturę i integrację seniorów. W programie m.in. spotkania, profilaktyka, taniec, śpiew, historia regionu i koncerty.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/rybnik-dla-seniorow-tydzien-pelen-kultury-aktywnosci-i-spotkan",
+      "published": "2026-09-15T00:00",
+      "source": "rybnik.eu",
+      "category": "Seniorzy",
       "priority": "NORMAL"
     },
     {
@@ -256,26 +286,6 @@
       "published": "2026-09-07T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "888e00c35b2cdcbc7a1df1fe0c976e6cff172cc0",
-      "title": "ODDAJ ODPADY W DZIELNICY BOGUSZOWICE STARE, CHWAŁOWICE, ZAMYSŁÓW",
-      "summary": "W sobotę, 12 września w dzielnicach Boguszowice Stare, Chwałowice, Zamysłów przeprowadzona będzie zbiórka odpadów niebezpiecznych oraz odpadów segregowanych w mobilnych punktach odbioru odpadów. Będzie tam można oddać m.in. odpady w postaci tekstyliów i odzieży.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/oddaj-odpady-w-dzielnicy-boguszowice-stare-chwalowice-zamyslow",
-      "published": "2026-09-07T00:00",
-      "source": "rybnik.eu",
-      "category": "Odpady komunalne",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "2f4e65fd57ca2cf21b4c9f2e8965a0c5f903c1f4",
-      "title": "Zbudujmy razem kulturę. Konkurs na projekt artystyczny Dni Rybnika 2027",
-      "summary": "Czekamy na oryginalne koncepcje koncertów i występów, które połączą lokalnych wykonawców i zachwycą mieszkańców na rynku. Miasto zapewnia m.in. pełną promocję, scenę oraz budżet do 100 000 zł - stwórz projekt, który opowie o naszym potencjale!",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zbudujmy-razem-kulture-konkurs-na-projekt-artystyczny-dni-rybnika-2027",
-      "published": "2026-09-07T00:00",
-      "source": "rybnik.eu",
-      "category": "Wydarzenia",
       "priority": "NORMAL"
     },
     {
