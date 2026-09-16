@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T17:01:05",
+  "generated_at": "2026-09-16T21:22:18",
   "count": 76,
   "failures": [
     {
@@ -8,6 +8,36 @@
     }
   ],
   "items": [
+    {
+      "id": "cda48777d4f7fccf4a30e8641b85bac74822786b",
+      "title": "270 prymusów i 13 nagród artystycznych na gali stypendiów prezydenta Raciborza. „Jesteście zdolni, pracowici, konsekwentni”",
+      "summary": "Liczba nagród była większa niż w poprzednim półroczu szkolnym. Najwięcej prymusów miała SP1 z Ostroga - 58. Uczniowie z najlepszymi wynikami w nauce w roku szkolnym 2025/2026 oraz uczniowie wyróżnieni za osiągnięcia artystyczne w tym roku odebrali z rąk głowy miasta nagrody pieniężne. Doroczne…",
+      "link": "https://www.nowiny.pl/wiadomosci/250986-270-prymusow-i-13-nagrod-artystycznych-na-gali-stypendiow-prezydenta-raciborza-jestescie-zdolni-pracowici-konsekwentni.html",
+      "published": "2026-09-16T18:25",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a2fc051f25c357a343c55c28a59cc65de5df50b1",
+      "title": "Boom na węgiel? Rośnie import, ale też wydobycie i sprzedaż krajowego węgla. Zapasy przy kopalniach topnieją",
+      "summary": "Czy Polska znowu masowo sprowadza węgiel z zagranicy? Wzrost importu o 168 proc. robi wrażenie, ale liczby z kilku ostatnich lat pokazują coś więcej: krajowe kopalnie sprzedały więcej węgla, zapasy mocno spadły, a tegoroczny import wcale nie jest rekordowy.",
+      "link": "https://www.nowiny.pl/wiadomosci/250975-boom-na-wegiel-rosnie-import-ale-tez-wydobycie-i-sprzedaz-krajowego-wegla-zapasy-przy-kopalniach-topnieja.html",
+      "published": "2026-09-16T17:57",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3294fa236971e49b0240c0c63d6fe1a4240c7d9a",
+      "title": "Sezon dożynkowy w powiecie raciborskim dobiega końca. Pawłów świętuje jako ostatni [PROGRAM]",
+      "summary": "Sezon dożynkowy w powiecie raciborskim dobiega końca. Jako ostatni święto plonów będą obchodzić mieszkańcy Pawłowa (gm. Pietrowice Wielkie). W niedzielę, 20 września, zaplanowano tradycyjny korowód, część artystyczną, loterię z nagrodami i wieczorną zabawę taneczną.",
+      "link": "https://agronowiny.pl/wiadomosci/250985-sezon-dozynkowy-w-powiecie-raciborskim-dobiega-konca-pawlow-swietuje-jako-ostatni-program.html",
+      "published": "2026-09-16T17:44",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "cbeef9e47921916d751ec7790b712afab50f7e42",
       "title": "Oktoberfest w Aqua Brax – największe wydarzenie w regionie już niebawem!",
@@ -104,36 +134,6 @@
       "summary": "Od 14 września do 18 października na terenie Lasów Państwowych w całej Polsce prowadzona będzie akcja Straży Leśnej „Jesień 26”. Jej celem jest przede wszystkim zapewnienie bezpieczeństwa osobom korzystającym z lasów, ochrona przyrody i infrastruktury leśnej oraz przeciwdziałanie szkodnictwu…",
       "link": "https://www.nowiny.pl/ekonowiny/250974-straz-lesna-rusza-z-akcja-jesien-26-kontrole-w-lasach-w-calej-polsce.html",
       "published": "2026-09-16T09:52",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "03d604c956928464a2d12b89868a65ae8e7ad434",
-      "title": "Na widok policjantów wyrzucił woreczek z białym proszkiem i ruszył do ucieczki",
-      "summary": "27-latek zaczął uciekać na widok policyjnego patrolu, wcześniej wyrzucając na ziemię woreczek. W środku znajdował się biały proszek, który po badaniu okazał się substancją psychoaktywną.",
-      "link": "https://ezory.pl/wiadomosci/250973-na-widok-policjantow-wyrzucil-woreczek-z-bialym-proszkiem-i-ruszyl-do-ucieczki.html",
-      "published": "2026-09-16T09:05",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "5707ea4fe971642e28f70dde14ccb3fb9f7f0e17",
-      "title": "Zebrania wiejskie w gminie Krzanowice. Mieszkańcy zdecydują o funduszu sołeckim na 2027 rok",
-      "summary": "Mieszkańcy wszystkich sołectw gminy Krzanowice będą wkrótce decydować, na co przeznaczone zostaną pieniądze. Zebrania wiejskie odbędą się w drugiej połowie września w Pietraszynie, Krzanowicach, Wojnowicach, Borucinie i Bojanowie.",
-      "link": "https://www.nowiny.pl/wiadomosci/250972-zebrania-wiejskie-w-gminie-krzanowice-mieszkancy-zdecyduja-o-funduszu-soleckim-na-2027-rok.html",
-      "published": "2026-09-16T08:43",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b54b38ae40c7be1a96f685f19891e9ae2b9c058c",
-      "title": "W nowym ZSP5 przy Żorskiej planowana jest budowa kilku placów zabaw",
-      "summary": "W okresie jesienno-zimowym urządzenia z poprzednich siedzib zlikwidowanych już przedszkoli P23 i P26 zostaną przeniesione i zainstalowane na terenie SP nr 18 - zapowiada wydział edukacji w raciborskim magistracie. Naczelnik Krzysztof Żychski przekazał radnym miejskim, że docelowo planowana jest w…",
-      "link": "https://www.nowiny.pl/wiadomosci/250971-w-nowym-zsp5-przy-zorskiej-planowana-jest-budowa-kilku-placow-zabaw.html",
-      "published": "2026-09-16T08:43",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
