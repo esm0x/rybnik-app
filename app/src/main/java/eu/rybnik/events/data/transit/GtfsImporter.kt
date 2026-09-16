@@ -2,6 +2,8 @@ package eu.rybnik.events.data.transit
 
 import android.util.Log
 import eu.rybnik.events.core.net.sharedHttp
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.withContext
 import okhttp3.Request
 import java.io.BufferedReader
 import java.util.zip.ZipInputStream
@@ -16,80 +18,84 @@ import java.util.zip.ZipInputStream
  */
 class GtfsImporter(private val dao: TransitDao) {
 
+    // Downloading and CSV-parsing both block, and this is called from viewModelScope,
+    // so without an explicit IO dispatcher it lands on the main thread.
     suspend fun import(url: String, onProgress: (String) -> Unit = {}): Result<ImportStats> =
-        runCatching {
-            onProgress("Pobieranie rozkładu…")
-            val files = download(url)
+        withContext(Dispatchers.IO) {
+            runCatching {
+                onProgress("Pobieranie rozkładu…")
+                val files = download(url)
 
-            onProgress("Wczytywanie przystanków…")
-            val stops = parse(files["stops.txt"]) { row ->
-                StopEntity(
-                    id = row["stop_id"] ?: return@parse null,
-                    name = row["stop_name"].orEmpty(),
-                    lat = row["stop_lat"]?.toDoubleOrNull() ?: 0.0,
-                    lon = row["stop_lon"]?.toDoubleOrNull() ?: 0.0,
-                )
-            }
+                onProgress("Wczytywanie przystanków…")
+                val stops = parse(files["stops.txt"]) { row ->
+                    StopEntity(
+                        id = row["stop_id"] ?: return@parse null,
+                        name = row["stop_name"].orEmpty(),
+                        lat = row["stop_lat"]?.toDoubleOrNull() ?: 0.0,
+                        lon = row["stop_lon"]?.toDoubleOrNull() ?: 0.0,
+                    )
+                }
 
-            val routes = parse(files["routes.txt"]) { row ->
-                val id = row["route_id"] ?: return@parse null
-                // One route carries `-->` as its short name (a leaked HTML comment) but has
-                // ~87 real trips, so fall back to the long name instead of dropping it.
-                val short = row["route_short_name"].orEmpty().trim()
-                RouteEntity(
-                    id = id,
-                    shortName = if (short.isEmpty() || short == "-->") {
-                        row["route_long_name"].orEmpty().take(6).ifEmpty { id }
-                    } else short,
-                    longName = row["route_long_name"].orEmpty(),
-                )
-            }
+                val routes = parse(files["routes.txt"]) { row ->
+                    val id = row["route_id"] ?: return@parse null
+                    // One route carries `-->` as its short name (a leaked HTML comment) but has
+                    // ~87 real trips, so fall back to the long name instead of dropping it.
+                    val short = row["route_short_name"].orEmpty().trim()
+                    RouteEntity(
+                        id = id,
+                        shortName = if (short.isEmpty() || short == "-->") {
+                            row["route_long_name"].orEmpty().take(6).ifEmpty { id }
+                        } else short,
+                        longName = row["route_long_name"].orEmpty(),
+                    )
+                }
 
-            onProgress("Wczytywanie kursów…")
-            val trips = parse(files["trips.txt"]) { row ->
-                TripEntity(
-                    id = row["trip_id"] ?: return@parse null,
-                    routeId = row["route_id"].orEmpty(),
-                    serviceId = row["service_id"].orEmpty(),
-                    headsign = row["trip_headsign"].orEmpty(),
-                )
-            }
+                onProgress("Wczytywanie kursów…")
+                val trips = parse(files["trips.txt"]) { row ->
+                    TripEntity(
+                        id = row["trip_id"] ?: return@parse null,
+                        routeId = row["route_id"].orEmpty(),
+                        serviceId = row["service_id"].orEmpty(),
+                        headsign = row["trip_headsign"].orEmpty(),
+                    )
+                }
 
-            onProgress("Wczytywanie odjazdów…")
-            val stopTimes = parse(files["stop_times.txt"]) { row ->
-                val dep = parseGtfsTime(row["departure_time"] ?: row["arrival_time"])
-                    ?: return@parse null
-                StopTimeEntity(
-                    tripId = row["trip_id"] ?: return@parse null,
-                    stopId = row["stop_id"] ?: return@parse null,
-                    departure = dep,
-                    seq = row["stop_sequence"]?.toIntOrNull() ?: 0,
-                )
-            }
+                onProgress("Wczytywanie odjazdów…")
+                val stopTimes = parse(files["stop_times.txt"]) { row ->
+                    val dep = parseGtfsTime(row["departure_time"] ?: row["arrival_time"])
+                        ?: return@parse null
+                    StopTimeEntity(
+                        tripId = row["trip_id"] ?: return@parse null,
+                        stopId = row["stop_id"] ?: return@parse null,
+                        departure = dep,
+                        seq = row["stop_sequence"]?.toIntOrNull() ?: 0,
+                    )
+                }
 
-            val serviceDates = parse(files["calendar_dates.txt"]) { row ->
-                if (row["exception_type"] != "1") return@parse null
-                val raw = row["date"] ?: return@parse null
-                if (raw.length != 8) return@parse null
-                ServiceDateEntity(
-                    serviceId = row["service_id"].orEmpty(),
-                    date = "${raw.substring(0, 4)}-${raw.substring(4, 6)}-${raw.substring(6, 8)}",
-                )
-            }
+                val serviceDates = parse(files["calendar_dates.txt"]) { row ->
+                    if (row["exception_type"] != "1") return@parse null
+                    val raw = row["date"] ?: return@parse null
+                    if (raw.length != 8) return@parse null
+                    ServiceDateEntity(
+                        serviceId = row["service_id"].orEmpty(),
+                        date = "${raw.substring(0, 4)}-${raw.substring(4, 6)}-${raw.substring(6, 8)}",
+                    )
+                }
 
-            check(stopTimes.isNotEmpty()) { "Brak odjazdów w pliku GTFS" }
-            check(serviceDates.isNotEmpty()) { "Brak kalendarza kursowania (calendar_dates.txt)" }
+                check(stopTimes.isNotEmpty()) { "Brak odjazdów w pliku GTFS" }
+                check(serviceDates.isNotEmpty()) { "Brak kalendarza kursowania (calendar_dates.txt)" }
 
-            onProgress("Zapisywanie…")
-            dao.clearAll()
-            dao.insertStops(stops)
-            dao.insertRoutes(routes)
-            dao.insertTrips(trips)
-            serviceDates.chunked(CHUNK).forEach { dao.insertServiceDates(it) }
-            stopTimes.chunked(CHUNK).forEach { dao.insertStopTimes(it) }
+                onProgress("Zapisywanie…")
+                dao.clearAll()
+                dao.insertStops(stops)
+                dao.insertRoutes(routes)
+                dao.insertTrips(trips)
+                serviceDates.chunked(CHUNK).forEach { dao.insertServiceDates(it) }
+                stopTimes.chunked(CHUNK).forEach { dao.insertStopTimes(it) }
 
-            ImportStats(stops.size, routes.size, trips.size, stopTimes.size, serviceDates.size)
-        }.onFailure { Log.w(TAG, "GTFS import failed", it) }
+                ImportStats(stops.size, routes.size, trips.size, stopTimes.size, serviceDates.size)
+            }.onFailure { Log.w(TAG, "GTFS import failed", it) }
+        }
 
     private fun download(url: String): Map<String, String> {
         val wanted = setOf(

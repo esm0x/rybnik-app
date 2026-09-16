@@ -44,7 +44,10 @@ from bs4 import BeautifulSoup
 BASE = "https://www.rybnik.eu"
 INDEX_URL = f"{BASE}/dla-mieszkancow/odpady-komunalne/harmonogramy-odbioru-2026"
 YEAR = 2026
-UA = "Mozilla/5.0 (compatible; RybnikAppBot/0.1; +https://github.com/YOUR_GH_USER/rybnik-app)"
+UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+)
 
 SINGLE_RX = re.compile(r"^zamieszkale2026_.+_2026\.pdf$", re.IGNORECASE)
 MULTI_NAME = "wielorodzinna_2026.pdf"

@@ -94,6 +94,11 @@ Kotlin deserializuje je 1:1.
   aplikacja próbuje kolejnych id, aż któreś odda pomiar.
 - **rybnik.eu**: nie ma RSS-a, tylko HTML. Sekcja „komunikaty" to worek na ogłoszenia,
   nie tablica awarii — o priorytecie ALERT decydują słowa kluczowe.
+- **rybnik.com.pl**: potrafi zwrócić 403 w GitHub Actions, serwując ten sam adres
+  bez problemu z łącza domowego. Blokada jest na zakresie IP centrów danych, nie na
+  User-Agencie (sprawdzone: bot UA dostaje 200 z adresu domowego). Scraper ponawia
+  próbę trzy razy, a przy twardej blokadzie po prostu odnotowuje błąd w `failures` —
+  pozostałe trzy źródła lecą dalej.
 
 ## Znane ograniczenia
 

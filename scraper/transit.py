@@ -35,7 +35,10 @@ from typing import Optional
 
 import requests
 
-UA = "Mozilla/5.0 (compatible; RybnikAppBot/0.1; +https://github.com/YOUR_GH_USER/rybnik-app)"
+UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+)
 
 BASE = "https://km.rybnik.pl"
 DOWNLOADS_PAGE = f"{BASE}/435/pliki-do-pobrania.html"

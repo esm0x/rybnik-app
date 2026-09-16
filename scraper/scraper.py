@@ -33,7 +33,10 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
-UA = "Mozilla/5.0 (compatible; RybnikAppBot/0.1; +https://github.com/YOUR_GH_USER/rybnik-app)"
+UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+)
 TIMEOUT = 30
 
 VALID_CATEGORIES = {

@@ -37,7 +37,16 @@ from urllib.parse import urljoin, urlsplit, urlunsplit
 import requests
 from bs4 import BeautifulSoup
 
-UA = "Mozilla/5.0 (compatible; RybnikAppBot/0.1; +https://github.com/YOUR_GH_USER/rybnik-app)"
+UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+)
+
+BROWSER_HEADERS = {
+    "User-Agent": UA,
+    "Accept": "application/rss+xml, application/xml;q=0.9, text/html;q=0.8, */*;q=0.7",
+    "Accept-Language": "pl-PL,pl;q=0.9",
+}
 
 MAX_ITEMS = 120
 SUMMARY_LEN = 300
@@ -132,9 +141,32 @@ EU_SECTIONS = [
 # --------------------------------------------------------------------------
 
 def http_get(url: str) -> requests.Response:
-    r = requests.get(url, headers={"User-Agent": UA}, timeout=30)
-    r.raise_for_status()
-    return r
+    """GET with a short retry.
+
+    rybnik.com.pl answers 403 to GitHub Actions runners while serving the same URL
+    fine from a home connection, so the block is on the datacenter IP range, not on
+    the User-Agent (verified: the bot UA gets 200 from a residential address).
+    Retrying helps only when the refusal is rate-limiting rather than a hard block —
+    when it is not, the caller records the failure and the other sources still run.
+    """
+    last: Exception | None = None
+    for attempt in range(3):
+        try:
+            r = requests.get(url, headers=BROWSER_HEADERS, timeout=30)
+            r.raise_for_status()
+            return r
+        except requests.HTTPError as e:
+            last = e
+            status = e.response.status_code if e.response is not None else 0
+            if status not in (403, 429, 500, 502, 503, 504):
+                raise
+            if attempt < 2:
+                time.sleep(2 * (attempt + 1))
+        except requests.RequestException as e:
+            last = e
+            if attempt < 2:
+                time.sleep(2 * (attempt + 1))
+    raise last if last else RuntimeError(f"nie udało się pobrać {url}")
 
 
 def fold(text: str) -> str:
