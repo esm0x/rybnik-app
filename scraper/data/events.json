@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T04:52:48",
+  "generated_at": "2026-09-17T17:02:48",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,31 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 125,
+  "count": 132,
   "failures": [],
   "events": [
-    {
-      "id": "bilnya-pojedynek-2026-202609170815",
-      "title": "Pojedynek (2026)",
-      "category": "Film",
-      "start": "2026-09-17T08:15",
-      "end": "2026-09-17T09:45",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/film/Pojedynek-2026?eid=701679#opis"
-    },
-    {
-      "id": "bilnya-cyrk-zalewski-widowisko-2026-202609171700",
-      "title": "Cyrk Zalewski - Widowisko 2026",
-      "category": "Spektakl",
-      "start": "2026-09-17T17:00",
-      "end": "2026-09-17T18:30",
-      "venue": "Namiot Cyrkowy, Obwodnica Północna naprzeciw Carrefour",
-      "description": "Cyrk Zalewski 2026 powraca z nowym, międzynarodowym show pełnym adrenaliny i magii! 🎪🔥 Kula Śmierci, latające trapezy, iluzja i klauni – 2 godziny widowiska na światowym poziomie. Zabierz rodzinę i przeżyj spektakl, który trzeba zobaczyć! ✨🎭.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/cyrk/Cyrk-Zalewski/Widowisko?eid=699754#opis"
-    },
     {
       "id": "iryb-galeria-pod-oknem-wernisaz-anny-sosnowskiej",
       "title": "Galeria pod Oknem: wernisaż Anny Sosnowskiej",
@@ -240,6 +218,17 @@
       "description": "W poszukiwaniu inspiracji do nowej powieści Sylvie zaczyna podglądać mieszkających naprzeciwko braci i ich tajemniczą, piękna przyjaciółkę. Kiedy Sylvie zatrudnia do pomocy w codziennych obowiązkach młodego Adama, nie spodziewa się, że wkroczy on tak zdecydowanie w życie jej i obserwowanych przez nią braci. Adam spróbuje przekroczyć niebezpieczną granicę między fikcją kreowaną przez Sylvie, a rzeczywistością rodzącego się na ich oczach miłosnego trójkąta.",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/historie-rownolegle.html"
+    },
+    {
+      "id": "iryb-taniec-towarzyski-grupa-poczatkujaca",
+      "title": "Taniec towarzyski: grupa początkująca",
+      "category": "Warsztaty",
+      "start": "2026-09-21T20:05",
+      "end": null,
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "Dom Kultury w Rybniku-Chwałowicach zaprasza na pierwsze zajęcia tańca towarzyskiego dla osób rozpoczynających naukę. Spotkanie inaugurujące grupę początkującą pierwszego stopnia odbędzie się we wrześniu. Zajęcia powstały z myślą o osobach początkujących, które chcą rozpocząć naukę tańca towarzyskiego. Będzie to pierwsze spotkanie grupy realizującej program pierwszego stopnia. Podczas inauguracyjnych zajęć uczestnicy rozpoczną naukę tańca towarzyskiego w grupie początkującej. Spotkanie organizuje i prowadzi Dom Kultury w Rybniku-Chwałowicach, a zapisy przyjmuje bezpośrednio instruktorka zajęć. W dostępnych informacjach nie podano ograniczeń wiekowych.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/taniec-towarzyski-grupa-poczatkujaca"
     },
     {
       "id": "iryb-warsztaty-pakiet-opieki-wytchnieniowej",
@@ -462,6 +451,17 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/koncert-laureatow-30ofpa-i-koncert-galowy-w-wykonaniu-andrzeja-piasecznego-z-zespolem-i-goscinnym-udzialem-kasi-wilk.html"
     },
     {
+      "id": "iryb-iv-rybnicki-tydzien-senioralny",
+      "title": "IV Rybnicki Tydzień Senioralny",
+      "category": "Inne",
+      "start": "2026-09-28T10:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Od 28 września do 2 października 2026 roku w Rybniku odbędzie się IV Rybnicki Tydzień Senioralny. Wydarzenie ma na celu pokazanie różnorodnych form aktywności seniorów, a także stworzenie okazji do spotkań, rozmów i wspólnego udziału w działaniach związanych ze zdrowiem, historią miasta oraz integracją. Wydarzenie rozpocznie się 28 września 2026 roku o godz. 10:00 . Poszczególne punkty programu zaplanowano w różnych miejscach Rybnika. Organizatorem wydarzenia jest Fundacja „Superfundacja” . Program IV Rybnickiego Tygodnia Senioralnego obejmuje kilka spotkań i inicjatyw skierowanych do seniorów oraz osób zainteresowanych aktywnym uczestnictwem w życiu lokalnej społeczności.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/iv-rybnicki-tydzien-senioralny"
+    },
+    {
       "id": "tzr-zaproszenie-kntds",
       "title": "Zaproszenie",
       "category": "Film",
@@ -528,6 +528,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/warsztaty-florystyczne-dla-pan-dynia-pelna-jesieni"
     },
     {
+      "id": "iryb-iv-rybnicki-dzien-seniora",
+      "title": "IV Rybnicki Dzień Seniora",
+      "category": "Koncert",
+      "start": "2026-10-02T00:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "2 października 2026 roku w Teatrze Ziemi Rybnickiej odbędzie się IV Rybnicki Dzień Seniora. Wydarzenie będzie okazją do wspólnego świętowania, wyróżnienia wyjątkowego seniora oraz udziału w koncercie Gangu Marcela. Wydarzenie zaplanowano na 2 października 2026 roku w Teatrze Ziemi Rybnickiej . Organizatorzy nie podali godziny rozpoczęcia. Udział w wydarzeniu jest bezpłatny i otwarty dla seniorów . Najważniejszym punktem wydarzenia będzie wręczenie nagrody dla wyjątkowego seniora. W programie znalazł się również koncert Gangu Marcela .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/iv-rybnicki-dzien-seniora"
+    },
+    {
       "id": "tzr-rybnicki-dzien-seniora-koncert-zespolu-gang-marcela",
       "title": "Rybnicki Dzień Seniora - koncert zespołu Gang Marcela",
       "category": "Koncert",
@@ -548,6 +559,17 @@
       "description": "Miłośnicy jazdy na rowerze w terenie spotkają się w październiku w kompleksie leśnym Maroko-Nowiny w Rybniku. Maroko-Nowiny MTB Race 2026 będzie okazją do sportowej rywalizacji zarówno dla amatorów, jak i kolarzy posiadających licencję sportową. Na uczestników czeka urozmaicona trasa oraz rywalizacja w kategoriach open i rybnickich. Wyścig zostanie rozegrany w sobotę 3 października 2026 roku w kompleksie leśnym Maroko-Nowiny przy ul. H. M. Góreckiego w Rybniku . Organizatorem imprezy jest MOSiR Rybnik . W zawodach mogą wziąć udział osoby amatorsko uprawiające kolarstwo terenowe oraz zawodnicy z licencją sportową. Organizator przygotował rywalizację w kategoriach open oraz rybnickich , dzięki czemu uczestnicy będą mogli walczyć o wyniki w odpowiednich grupach.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/maroko-nowiny-mtb-race-2026"
+    },
+    {
+      "id": "dk-bog-11062-dzien-seniora-w-ramach-weekendu-seniora-z-kultura",
+      "title": "Dzień Seniora w ramach „Weekendu Seniora z Kulturą”",
+      "category": "Koncert",
+      "start": "2026-10-03T16:00",
+      "end": "2026-10-03T18:00",
+      "venue": "Dom Kultury Boguszowice",
+      "description": "Dom Kultury Boguszowice włącza się w tegoroczną edycję ogólnopolskiej akcji „Weekend Seniora z Kulturą”, organizowanej z inicjatywy Ministerstwa Kultury i Dziedzictwa Narodowego. Celem programu jest zachęcanie osób starszych do aktywnego i regularnego uczestnictwa w życiu kulturalnym oraz przybliżanie im oferty instytucji działających w ich najbliższej okolicy. W ramach akcji 3 października 2026 o godz. 16.00 zapraszamy na Dzień Seniora do Domu Kultury w Rybniku-Boguszowicach. To będzie muzyczne popołudnie pełne znanych melodii, pięknych głosów i dobrego humoru. W programie koncert „Od opery po szlagiery” oraz występ kabaretowy. Wstęp wolny. Obowiązują wejściówki dostępne TYLKO w Spółdzielni Mieszkaniowej Południe.",
+      "sourceName": "DK Boguszowice",
+      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-seniora-w-ramach-weekendu-seniora-z-kultura/"
     },
     {
       "id": "iryb-bootboys-night-vol2-koncert-w-rybniku",
@@ -576,7 +598,7 @@
       "title": "Koncert jubileuszowy z okazji 30-lecia Towarzystwa Muzycznego im. Braci Szafranków w Rybniku",
       "category": "Koncert",
       "start": "2026-10-04T17:00",
-      "end": "2026-10-04T18:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Rybnik szykuje wieczór pełen wielkich emocji i polskiej muzyki symfonicznej. Z okazji 30-lecia Towarzystwa Muzycznego im. Braci Szafranków w Teatrze Ziemi Rybnickiej zabrzmią dzieła Kilara, Pendereckiego i Góreckiego, a także utwór, który zostanie wykonany po raz pierwszy na świecie. Warto zarezerwować ten termin na wyjątkowe muzyczne spotkanie. W przekazanych informacjach nie podano miejsca ani sposobu zakupu biletów. Jubileuszowy koncert będzie okazją do przypomnienia, jak wiele wydarzeń, spotkań i artystycznych projektów powstało w ciągu trzech dekad działalności Towarzystwa Muzycznego im. Braci Szafranków. Na scenie połączą się orkiestra symfoniczna i chóry z regionu rybnickiego, tworząc rozbudowane widowisko muzyczne W programie znalazły się najważniejsze dzieła polskiej muzyki XX i XXI wieku:",
       "sourceName": "iRybnik",
@@ -693,6 +715,17 @@
       "sourceUrl": "https://biletyna.pl/spektakl/Prestiz-wspolczesny-spektakl?eid=666229#opis"
     },
     {
+      "id": "iryb-xi-festiwal-dyni",
+      "title": "XI Festiwal Dyni",
+      "category": "Festiwal",
+      "start": "2026-10-10T16:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Jesień w Rybniku-Kamieniu ponownie upłynie pod znakiem dyni. 10 października odbędzie się XI Festiwal Dyni, rodzinne wydarzenie pełne konkursów, animacji i jesiennych dekoracji. Organizatorzy przygotowali atrakcje dla dzieci, loterię fantową oraz degustację dyniowych przysmaków. W programie wydarzenia znalazły się animacje dla dzieci oraz loteria fantowa z nagrodami. Uczestnicy będą mogli także skosztować bezpłatnej zupy dyniowej i dyniowych wypieków. Jednym z punktów festiwalu będzie konkurs na „Najpiękniejszy dyniowy lampion” . Zgłoszenia do konkursu są przyjmowane do 2 października. Całość dopełnią jesienne dekoracje i rodzinna atmosfera. Festiwal potrwa sześć godzin, od 16:00 do 22:00.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/xi-festiwal-dyni"
+    },
+    {
       "id": "iryb-starcie-tytanow-koncert-w-rybniku",
       "title": "Starcie Tytanów – koncert w Rybniku",
       "category": "Koncert",
@@ -768,6 +801,17 @@
       "description": "Od 14 do 16 października 2026 roku Bielsko-Biała stanie się miejscem spotkania animatorów kultury z całej Polski. Giełda Projektów 2026 połączy prezentację ciekawych inicjatyw kulturalnych z wymianą doświadczeń i pomysłów. W programie znajdzie się 20 projektów przedstawianych podczas sesji posterowej oraz plenarnej. W przekazanych informacjach nie podano godzin rozpoczęcia poszczególnych części wydarzenia. Nie ma również informacji o biletach ani zapisach. Podczas Giełdy Projektów 2026 zostanie zaprezentowanych 20 projektów. Uczestnicy poznają je w ramach dwóch formatów: sesji posterowej oraz sesji plenarnej . W sesji posterowej znajdzie się projekt „Bojanie o Ochojcu” , przygotowany przez Barbarę Englender i Annę Gawlik. To jedna z inicjatyw, które zostaną przedstawione podczas wydarzenia poświęconego wymianie doświadczeń i prezentacji działań z obszaru animacji kultury.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/gielda-projektow-2026"
+    },
+    {
+      "id": "iryb-bezpieczny-senior-na-drodze-i-w-sieci",
+      "title": "Bezpieczny Senior - na drodze i w sieci",
+      "category": "Inne",
+      "start": "2026-10-14T10:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Bezpieczeństwo osób starszych będzie tematem spotkania „Bezpieczny Senior - na drodze i w sieci”, które odbędzie się w Czerwionce-Leszczynach. Wydarzenie ma pomóc seniorom zdobyć praktyczną wiedzę i przypomnieć najważniejsze zasady bezpiecznego poruszania się po drodze oraz korzystania z internetu. Wydarzenie będzie poświęcone bezpieczeństwu seniorów w dwóch ważnych obszarach: na drodze i w internecie. Uczestnicy będą mogli poszerzyć swoją wiedzę oraz przypomnieć sobie zasady, które pomagają unikać zagrożeń w codziennym życiu. Spotkanie ma mieć praktyczny charakter i skupiać się na informacjach przydatnych osobom starszym. Organizatorzy chcą zwrócić uwagę na najważniejsze kwestie związane z bezpieczeństwem oraz zachęcić do ostrożności zarówno podczas poruszania się po drodze, jak i korzystania z sieci. Gościem specjalnym wydarzenia będzie Mirosław Szołtysek .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/bezpieczny-senior-na-drodze-i-w-sieci"
     },
     {
       "id": "iryb-rybska-klub-odyseja-w-rybniku",
@@ -880,6 +924,17 @@
       "sourceUrl": "https://biletyna.pl/film/Lalka-2026?eid=701689#opis"
     },
     {
+      "id": "dk-bog-11092-filmowy-zefir-zbrodnia-pierwszej-klasy-bezplatny-seans-filmowy",
+      "title": "Filmowy Zefir | Zbrodnia pierwszej klasy - bezpłatny seans filmowy",
+      "category": "Film",
+      "start": "2026-10-23T18:00",
+      "end": "2026-10-23T19:30",
+      "venue": "Dom Kultury Boguszowice",
+      "description": "Jeśli lubicie klasyczne kryminały, elegancki klimat i historie, przy których do końca próbujecie rozwiązać zagadkę przed detektywem, ten Filmowy Zefir będzie idealnym planem na piątkowy wieczór. Luksusowy pociąg przemierzający Europę i śnieżyca, która nagle zatrzymuje podróż. Brzmi jak początek eleganckiej filmowej przygody? Tylko do chwili, gdy w jednym z przedziałów zostaje znalezione ciało. Morderca najprawdopodobniej nadal jest na pokładzie. A problem robi się jeszcze większy, kiedy okazuje się, że właściwie każdy z pasażerów ma coś do ukrycia. Na szczęście tym samym pociągiem podróżuje genialny belgijski detektyw, który potrafi zauważyć szczegół tam, gdzie inni nie widzą niczego podejrzanego. Zaczyna się więc gra alibi, półprawd i bardzo niewygodnych pytań. Do tego obsada, którą można czytać jak listę gości wielkiej filmowej gali: Johnny Depp, Michelle Pfeiffer, Penélope Cruz, Judi Dench, Willem Dafoe, Olivia Colman, Daisy Ridley i Kenneth Branagh. WSTĘP WOLNY! Zapraszamy!",
+      "sourceName": "DK Boguszowice",
+      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/filmowy-zefir-zbrodnia-pierwszej-klasy-bezplatny-seans-filmowy/"
+    },
+    {
       "id": "tzr-goniac-kormorany",
       "title": "Goniąc Kormorany",
       "category": "Koncert",
@@ -902,6 +957,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/manchester-20-lecie-koncert-w-rybniku"
     },
     {
+      "id": "dk-bog-11096-filmowy-poranek-z-zefirkiem-wielka-smocza-wyprawa-bezplatny-sean",
+      "title": "Filmowy Poranek z Zefirkiem | Wielka smocza wyprawa - bezpłatny seans familijny",
+      "category": "DlaDzieci",
+      "start": "2026-10-24T10:00",
+      "end": "2026-10-24T11:30",
+      "venue": "Dom Kultury Boguszowice",
+      "description": "Podczas kolejnego Filmowego Poranka z Zefirkiem przeniesiemy się do niezwykłej krainy Kumandra. Dawno temu ludzie i smoki żyli tam razem, ale dziś kraina jest podzielona, a dawne zaufanie gdzieś po drodze zniknęło. Właśnie wtedy zaczyna się wielka wyprawa w poszukiwaniu ostatniego smoka. Będzie szybko, kolorowo i momentami naprawdę zabawnie. Nie zabraknie niebezpieczeństw, nowych przyjaźni i bohaterki, która zdecydowanie nie należy do tych, które siedzą z założonymi rękami i czekają, aż świat uratuje ktoś inny. To piękna, pełna przygód animacja dla całej rodziny, ale pod smoczymi łuskami kryje się też coś więcej: historia o zaufaniu, współpracy i o tym, że czasem pierwszy krok do zmiany trzeba zrobić samemu. Czy jeden smok wystarczy, żeby połączyć podzielony świat? Przekonajcie się sami! WSTĘP WOLNY!",
+      "sourceName": "DK Boguszowice",
+      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/filmowy-poranek-z-zefirkiem-wielka-smocza-wyprawa-bezplatny-seans-familijny/"
+    },
+    {
       "id": "iryb-dzieciniada-2026",
       "title": "Dzieciniada 2026",
       "category": "DlaDzieci",
@@ -913,26 +979,26 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/dzieciniada-2026"
     },
     {
-      "id": "bilnya-bal-jesienny-dla-najnajow-202610241430",
-      "title": "Bal jesienny dla najnajów",
+      "id": "iryb-bal-jesienny-dla-najnajow",
+      "title": "Bal Jesienny dla najnajów",
       "category": "DlaDzieci",
       "start": "2026-10-24T14:30",
       "end": "2026-10-24T15:30",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/Bal-jesienny-dla-najnajow?eid=701835#opis"
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "Dom Kultury w Rybniku-Chwałowicach zaprasza najmłodsze dzieci na jesienny bal przebierańców. Wydarzenie przygotowano z myślą o maluchach w wieku od 1,5 do 4 lat, które będą mogły bawić się razem z rodzicami lub opiekunami. Uczestnicy wezmą udział w zabawach i tańcach utrzymanych w jesiennym klimacie. Na najmłodszych czekać będą także bańki mydlane oraz kolorowe światła, które urozmaicą wspólne harce. Zabawę poprowadzi Monika Kubica-Skaba, znana jako Ciocia Klocia. To ona zadba o przebieg animacji i zaangażuje dzieci oraz ich opiekunów do wspólnej aktywności. Małe przebrania, wielka zabawa - Bal Jesienny dla najnajów",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/bal-jesienny-dla-najnajow"
     },
     {
-      "id": "bilnya-straszna-impreza-dla-dzieci-202610241600",
+      "id": "iryb-straszna-impreza-dla-dzieci",
       "title": "Straszna impreza dla dzieci",
       "category": "DlaDzieci",
       "start": "2026-10-24T16:00",
       "end": "2026-10-24T17:30",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/Straszna-impreza-dla-dzieci?eid=701836#opis"
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "W Domu Kultury w Rybniku-Chwałowicach odbędzie się przebierana impreza dla dzieci w wieku od 5 do 8 lat. Uczestników czeka popołudnie pełne upiornych zabaw i strasznych tańców, a całość poprowadzi Monika Kubica-Skaba, znana jako Ciocia Klocia. Wydarzenie zaplanowano na sobotę 24 października 2026 roku w godzinach 16:00–17:30 . „Straszna impreza dla dzieci” będzie przebieraną zabawą przygotowaną z myślą o dzieciach w wieku od 5 do 8 lat. W programie znalazły się upiorne zabawy oraz straszne tańce. Zabawę poprowadzi Monika Kubica-Skaba, czyli Ciocia Klocia , która zadba o przebieg imprezy i zaangażuje dzieci w przygotowane aktywności.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/straszna-impreza-dla-dzieci"
     },
     {
       "id": "iryb-zdolni-i-skromni-gramy-na-ostro-w-rybniku",
@@ -1056,15 +1122,15 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/gooral-beskid-calling-tour-w-rybniku"
     },
     {
-      "id": "bilnya-halloween-baby-niezwykla-zabawa-dla-maluchow-z-opiekunem-202610311000",
-      "title": "Halloween BABY - niezwykła zabawa dla maluchów z opiekunem",
+      "id": "dk-bog-11078-halloween-baby-niezwykla-zabawa-dla-maluchow-z-opiekunem",
+      "title": "Halloween BABY | niezwykła zabawa dla maluchów z opiekunem!",
       "category": "DlaDzieci",
       "start": "2026-10-31T10:00",
       "end": "2026-10-31T11:00",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/Halloween-BABY-zabawa-dla-dzieci-z-opiekunem?eid=702757#opis"
+      "venue": "Dom Kultury Boguszowice",
+      "description": "Halloween BABY to wspólna halloweenowa zabawa dla dzieci w wieku 2–5 lat i ich opiekunów. Z muzyką, ruchem, animacjami i atmosferą dopasowaną do najmłodszych uczestników. Podczas spotkania dzieci wezmą udział w zabawach z animatorem, wspólnych tańcach i prostych aktywnościach, w których mogą uczestniczyć razem z rodzicem lub opiekunem. Będzie również czas na mały poczęstunek. Na dzieci czekają słodkie i słone przekąski oraz napoje, a na dorosłych kawa i herbata. Kameralna grupa pozwoli maluchom swobodnie bawić się, poznawać innych uczestników i cieszyć wspólnym czasem bez tłoku i nadmiaru bodźców.To propozycja dla rodziców, którzy chcą pokazać dziecku halloweenowy klimat w przyjaznej, bezpiecznej i radosnej odsłonie. Dla dzieci w wieku 2–5 lat wraz z opiekunem Sala Lustrzana, parter Czas trwania: 1 godzina Liczba miejsc: 20 dzieci KLIKNIJ BY KUPIĆ BILETY: Bilet dla dziecka: 30 zł Bilet dla każdego opiekuna: 10 zł Przebrania są bardzo mile widziane. Zapraszamy małe czarownice, duszki, dynie, koty, nietoperze i wszystkie inne halloweenowe stworzenia.",
+      "sourceName": "DK Boguszowice",
+      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/halloween-baby-niezwykla-zabawa-dla-maluchow-z-opiekunem/"
     },
     {
       "id": "bilnya-cyrk-na-wodzie-imperial-show-202610311300",
@@ -1078,26 +1144,26 @@
       "sourceUrl": "https://biletyna.pl/cyrk/Cyrk-na-wodzie-Imperial-Show?eid=701272#opis"
     },
     {
-      "id": "bilnya-halloween-kids-klimatyczna-przygoda-dla-odwaznych-202610311500",
-      "title": "Halloween KIDS - klimatyczna przygoda dla odważnych",
+      "id": "dk-bog-11085-halloween-kids-klimatyczna-przygoda-dla-odwaznych",
+      "title": "Halloween KIDS | klimatyczna przygoda dla odważnych",
       "category": "DlaDzieci",
       "start": "2026-10-31T15:00",
       "end": "2026-10-31T16:30",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/Halloween-KIDS-klimatyczna-przygoda-dla-odwaznych?eid=702760#opis"
+      "venue": "Dom Kultury Boguszowice",
+      "description": "Halloween KIDS to pełna przygód impreza dla dzieci w wieku 5–9 lat, w której halloweenowy klimat łączy się z zagadkami, ruchem, zabawą i odrobiną tajemnicy. Halloweenowe słodkości zniknęły. Kto je zabrał? Uczestnicy ruszą ich tropem, rozwiązując po drodze zadania i zagadki przygotowane specjalnie dla młodych poszukiwaczy przygód. Przyda się spostrzegawczość, spryt i odrobina odwagi. W programie znajdą się również taneczna zabawa, świecące tatuaże, halloweenowe zdjęcia, twórcza część plastyczna, potworne przekąski, strasznie dobre napoje oraz obowiązkowe „cukierek albo psikus”. To wydarzenie dla dzieci, które lubią działać, odkrywać, szukać odpowiedzi i dobrze się bawić w nieco bardziej niezwykłej niż zwykle scenerii. Przebrania mile widziane. Im bardziej pomysłowe, tym lepiej. KLIKNIJ BY KUPIĆ BILETY: Bilet: 40 zł Impreza odbywa się bez udziału rodziców i opiekunów.",
+      "sourceName": "DK Boguszowice",
+      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/halloween-kids-klimatyczna-przygoda-dla-odwaznych/"
     },
     {
-      "id": "bilnya-halloween-teens-laserowy-challenge-dla-odwaznych-202610311800",
-      "title": "Halloween TEENS - laserowy challenge dla odważnych!",
+      "id": "dk-bog-11087-halloween-teens-laserowy-challenge-dla-odwaznych",
+      "title": "Halloween TEENS | laserowy challenge dla odważnych!",
       "category": "Impreza",
       "start": "2026-10-31T18:00",
       "end": "2026-10-31T20:00",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/Halloween-TEENS-laserowa-zabawa-dla-starszej-ekipy?eid=702783#opis"
+      "venue": "Dom Kultury Boguszowice",
+      "description": "Halloween TEENS to propozycja dla dzieci i młodzieży w wieku 10–13 lat, które chcą spędzić Halloween aktywnie, z dużą dawką ruchu, emocji i dobrej zabawy. Najmocniejszym punktem wydarzenia będzie laserowy paintball, w którym liczą się refleks, celność, strategia i współpraca. Do tego poszukiwanie skarbu, halloweenowe zadania i wyzwania, muzyka, taneczna zabawa oraz specjalnie przygotowana przestrzeń, która pozwoli poczuć klimat Halloween od pierwszej minuty. Po solidnej dawce ruchu i rywalizacji przyjdzie również czas na słodki poczęstunek i chwilę odpoczynku.Halloween TEENS łączy zabawę, ruch, rywalizację i wspólne przeżywanie emocji w grupie rówieśników. KLIKNIJ BY KUPIĆ BILETY: Bilet: 60 zł Przygotuj przebranie, zbierz odwagę i wejdź do gry.",
+      "sourceName": "DK Boguszowice",
+      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/halloween-teens-laserowy-challenge-dla-odwaznych/"
     },
     {
       "id": "iryb-stacja-b-x-hamulec-przeglad-kapel",
@@ -1164,6 +1230,17 @@
       "description": "Małgorzata Ostrowska, legenda polskiej piosenki, zaprasza na jubileuszowe koncerty z okazji 45-lecia pracy artystycznej! Jedna z największych ikon polskiej muzyki rockowej, właścicielka rozpoznawalnego od pierwszych dźwięków głosu, idąca zawsze własną drogą artystka bezkompromisowa – taką ją uwielbiamy i z taką spotkamy się ponownie na żywo w 2026 roku. Rocznicowa trasa przeprowadzi nas przez wszystkie etapy kariery artystki: od drapieżnych i kolorowych lat 80. przez dojrzałą solową twórczość, aż po ostatnie dokonania, w tym doskonale przyjętą płytę „Legenda”, na której artystka wróciła do swoich muzycznych korzeni. Każdy z koncertów będzie okazją do wspomnień, wzruszeń, ale też wspólnej zabawy kilku pokoleń słuchaczy, które wychowały się na piosenkach takich jak Meluzyna, Szklana pogoda, Gołębi puch, Mam dość, Taniec pingwina na szkle czy Mister of America .",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/malgorzata-ostrowska-45-lat-koncert-jubileuszowy.html"
+    },
+    {
+      "id": "tzr-x-biesiada-slaska-szczesliwej-drogi-juz-czas",
+      "title": "X Biesiada Śląska. \"Szczęśliwej drogi, już czas\"",
+      "category": "Koncert",
+      "start": "2026-11-11T17:00",
+      "end": "2026-11-11T18:30",
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Zapraszamy na jubileuszową, X Biesiadę Śląską – wieczór pełen znanych piosenek, wspólnego śpiewania, wzruszeń i dobrej zabawy.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/x-biesiada-slaska-szczesliwej-drogi-juz-czas.html"
     },
     {
       "id": "iryb-echo-rodu-w-rybniku-koncert-pelen-slowianskich-brzmien-w-klu",
