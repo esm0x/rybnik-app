@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T11:47:15",
-  "count": 76,
+  "generated_at": "2026-09-17T17:04:45",
+  "count": 77,
   "failures": [
     {
       "source": "rybnik.com.pl",
@@ -8,6 +8,36 @@
     }
   ],
   "items": [
+    {
+      "id": "9ed7ba3dcebec2621fe0d6e073fd86a82508ca94",
+      "title": "Wodzisław uczci 87. rocznicę powstania Polskiego Państwa Podziemnego",
+      "summary": "Stowarzyszenie Pamięci Armii Krajowej w Wodzisławiu Śląskim zaprasza mieszkańców na mszę świętą w intencji 87. rocznicy powstania Polskiego Państwa Podziemnego. Uroczystość odbędzie się 27 września w kościele Wniebowzięcia Najświętszej Maryi Panny w Wodzisławiu Śląskim.",
+      "link": "https://www.nowiny.pl/wiadomosci/251001-wodzislaw-uczci-87-rocznice-powstania-polskiego-panstwa-podziemnego.html",
+      "published": "2026-09-17T16:25",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5cc48b5888cee8f86d480dcf7ac2781235fc82f6",
+      "title": "W Radlinie upamiętniono ofiary Tragedii Górnośląskiej. Tablica ku pamięci stanęła w Parku Jordanowskim [ZDJĘCIA]",
+      "summary": "W Parku Jordanowskim w Radlinie, nieopodal pomnika upamiętniającego ofiary szybu Reden, stanęła pamiątkowa tablica, objaśniająca radlińskie wątki Tragedii Górnośląskiej wraz z mapą powiatu i liczbą ofiar w poszczególnych miejscowościach.",
+      "link": "https://www.nowiny.pl/wiadomosci/251006-w-radlinie-upamietniono-ofiary-tragedii-gornoslaskiej-tablica-ku-pamieci-stanela-w-parku-jordanowskim-zdjecia.html",
+      "published": "2026-09-17T16:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ed9d078b6264b830d6588d12b29b32dfb70a10f5",
+      "title": "Pięć par z Marklowic otrzymało medale prezydenta. Przeżyli razem 50 lat [ZDJĘCIA]",
+      "summary": "Po raz pierwszy od ponad 30 lat w Marklowicach ponownie odbyła się uroczystość wręczenia parom małżeńskim z 50-letnim stażem Medali za Długoletnie Pożycie Małżeńskie. To odznaczenia nadawane przez Prezydenta RP na wniosek wójta gminy. Do tej pory uroczystość ta połączona była z wodzisławskim…",
+      "link": "https://www.nowiny.pl/wiadomosci/251005-piec-par-z-marklowic-otrzymalo-medale-prezydenta-przezyli-razem-50-lat-zdjecia.html",
+      "published": "2026-09-17T14:36",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "2631f29978424f8eca496d6dadf13913c1a776e1",
       "title": "Implanty zębów dla seniora – czy istnieje górna granica wieku dla pięknego uśmiechu?",
@@ -44,16 +74,6 @@
       "summary": "Agenci AI stopniowo przechodzą od wyszukiwania i rekomendowania produktów do samodzielnej realizacji transakcji. Z perspektywy Pavla Kashuby, lidera strategicznego w Coinspaid, kluczowe pytanie dotyczące płatności pojawia się w momencie, gdy dochodzi do transakcji pomiędzy dwoma agentami AI: jaka…",
       "link": "https://www.nowiny.pl/nie-przegap/250993-dlaczego-agentic-commerce-ma-znaczenie-dla-instytucji-finansowych.html",
       "published": "2026-09-17T10:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "89e08041d3c7c6a90474792fc685fce4663509bf",
-      "title": "Kto po Danielu Jakubczyku? W Gorzycach kandydatów może być kilku. Jak wyglądają siły polityczne w gminie?",
-      "summary": "Jeżeli przepisy się nie zmienią, Daniel Jakubczyk w 2029 roku nie będzie mógł ponownie kandydować na wójta gminy Gorzyce. Zapowiada się więc ciekawa polityczna rozgrywka. Sprawdzamy, kto dziś rozdaje karty w gminie i kto może włączyć się do walki o schedę po obecnym wójcie.",
-      "link": "https://www.nowiny.pl/opinie/250990-kto-po-danielu-jakubczyku-w-gorzycach-kandydatow-moze-byc-kilku-jak-wygladaja-sily-polityczne-w-gminie.html",
-      "published": "2026-09-17T09:42",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -119,23 +139,33 @@
       "priority": "NORMAL"
     },
     {
-      "id": "1f576875896ca1c6d871292cf560582d052e41c5",
-      "title": "Dyrektor szkoły w Nędzy zrezygnował przed końcem kadencji. Teraz pokieruje inną placówką",
-      "summary": "Ireneusz Fiet odchodzi ze stanowiska dyrektora Szkoły Podstawowej im. Powstańców Śląskich w Nędzy. Złożył rezygnację przed końcem powołania, które obowiązywało do 31 sierpnia 2029 roku. Objął stanowisko dyrektora Zespołu Szkolno-Przedszkolnego w Pawłowiczkach. W rozmowie z nami mówi, dlaczego…",
-      "link": "https://www.nowiny.pl/wiadomosci/250989-dyrektor-szkoly-w-nedzy-zrezygnowal-przed-koncem-kadencji-teraz-pokieruje-inna-placowka.html",
-      "published": "2026-09-17T07:55",
-      "source": "nowiny.pl",
-      "category": "Region",
+      "id": "3ea97115f3495ec856e4c771328968c22657ca38",
+      "title": "Politechnika Śląska wspiera przyszłych geodetów!",
+      "summary": "Politechnika Śląska obejmuje patronatem klasy geodezyjne Zespołu Szkół Budowlanych w Rybniku, wspierając uczniów w zdobywaniu wiedzy i doświadczenia w przyszłej pracy w zawodzie geodety. 4 września odbyło się uroczyste podpisanie umów patronackich.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/politechnika-slaska-wspiera-przyszlych-geodetow",
+      "published": "2026-09-17T00:00",
+      "source": "rybnik.eu",
+      "category": "Edukacja",
       "priority": "NORMAL"
     },
     {
-      "id": "05a87a84197dcc9aca8699587ce4369f3fe8f020",
-      "title": "Prezes Kombinatu Rolnego Kietrz wrócił do pracy. Właściciel mówi o „niepotrzebnym kryzysie medialnym”",
-      "summary": "Krajowa Grupa Spożywcza zakończyła postępowanie dotyczące wizyty niemieckiej delegacji w Kombinacie Rolnym Kietrz. Ustalono, że o spotkaniu nie poinformowano wcześniej właściciela spółki. Jednocześnie grupa bardzo wysoko oceniła kompetencje prezesa Mariusza Sikory i napisała o „niepotrzebnym…",
-      "link": "https://agronowiny.pl/wiadomosci/250988-prezes-kombinatu-rolnego-kietrz-wrocil-do-pracy-wlasciciel-mowi-o-niepotrzebnym-kryzysie-medialnym.html",
-      "published": "2026-09-17T07:32",
-      "source": "nowiny.pl",
-      "category": "Region",
+      "id": "b6924c931d64a590509e4f9203da35462ee18b18",
+      "title": "Naładuj hospicjum dobrą energią – przynieś elektroodpady",
+      "summary": "W dniach od 21 do 25 września już po raz drugi na terenie Rybnika zostanie przeprowadzona wyjątkowa akcja - charytatywna zbiórka elektroodpadów, z której dochód zostanie przeznaczony na zakup wyposażenia rybnickiego hospicjum.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/naladuj-hospicjum-dobra-energia-przynies-elektroodpady",
+      "published": "2026-09-17T00:00",
+      "source": "rybnik.eu",
+      "category": "Odpady komunalne",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "485ac45ab22f3f0800583da41209df82c814d323",
+      "title": "Budowa biogazowni - SKO utrzymało w mocy decyzję środowiskową",
+      "summary": "Samorządowe Kolegium Odwoławcze w Katowicach po wielomiesięcznej i wnikliwej analizie utrzymało w mocy decyzję o środowiskowych uwarunkowaniach dla budowy instalacji do przetwarzania odpadów biodegradowalnych w Rybniku.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/budowa-biogazowni-sko-utrzymalo-w-mocy-decyzje-srodowiskowa",
+      "published": "2026-09-17T00:00",
+      "source": "rybnik.eu",
+      "category": "Odpady komunalne",
       "priority": "NORMAL"
     },
     {
@@ -249,16 +279,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "3d510306df2d2fcdc72efecd65fcec5c69743f7c",
-      "title": "Zielone ogrody i botaniczne ścieżki w rybnickich przedszkolach",
-      "summary": "Rybnickie maluchy zyskają wyjątkowe przestrzenie do zabawy i nauki na świeżym powietrzu. W ramach nowego projektu przy miejskich przedszkolach powstaną mini ogrody botaniczne ze stacjami pogodowymi, ścieżkami sensorycznymi i owocowymi zakątkami.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zielone-ogrody-i-botaniczne-sciezki-w-rybnickich-przedszkolach",
-      "published": "2026-09-10T00:00",
-      "source": "rybnik.eu",
-      "category": "Edukacja",
-      "priority": "NORMAL"
-    },
-    {
       "id": "49c7ae80ea9b41a5926f33567a86e9bd211458c6",
       "title": "Ponad 106 mln zł wsparcia na przebudowę ul. Mikołowskiej",
       "summary": "Miasto Rybnik pozyskało kolejne 3,08 mln zł z budżetu państwa na przebudowę drogi wojewódzkiej nr 925. Łączna wartość pozyskanych środków zewnętrznych na realizację inwestycji przekroczyła już 106,5 mln zł.",
@@ -276,16 +296,6 @@
       "published": "2026-09-08T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8d824f18d153ee1a0fc09cf59f0494062f83f62d",
-      "title": "Razem raźniej. Seniorki z Rybnika dzielą mieszkanie i codzienność",
-      "summary": "Trzy seniorki, jedno mieszkanie i codzienność, którą dzielą już od kilku lat. Pierwsze mieszkanie senioralne współdzielone w Rybniku powstało w 2022 roku. Odwiedziliśmy Felicję, Marię i Krystynę, by sprawdzić, jak dziś wygląda ich wspólne życie.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/razem-razniej-seniorki-z-rybnika-dziela-mieszkanie-i-codziennosc",
-      "published": "2026-09-08T00:00",
-      "source": "rybnik.eu",
-      "category": "Seniorzy",
       "priority": "NORMAL"
     },
     {

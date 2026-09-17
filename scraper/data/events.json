@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:45:03",
+  "generated_at": "2026-09-17T17:02:48",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -10,17 +10,6 @@
   "count": 132,
   "failures": [],
   "events": [
-    {
-      "id": "bilnya-cyrk-zalewski-widowisko-2026-202609171700",
-      "title": "Cyrk Zalewski - Widowisko 2026",
-      "category": "Spektakl",
-      "start": "2026-09-17T17:00",
-      "end": "2026-09-17T18:30",
-      "venue": "Namiot Cyrkowy, Obwodnica Północna naprzeciw Carrefour",
-      "description": "Cyrk Zalewski 2026 powraca z nowym, międzynarodowym show pełnym adrenaliny i magii! 🎪🔥 Kula Śmierci, latające trapezy, iluzja i klauni – 2 godziny widowiska na światowym poziomie. Zabierz rodzinę i przeżyj spektakl, który trzeba zobaczyć! ✨🎭.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/cyrk/Cyrk-Zalewski/Widowisko?eid=699754#opis"
-    },
     {
       "id": "iryb-galeria-pod-oknem-wernisaz-anny-sosnowskiej",
       "title": "Galeria pod Oknem: wernisaż Anny Sosnowskiej",
@@ -990,26 +979,26 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/dzieciniada-2026"
     },
     {
-      "id": "bilnya-bal-jesienny-dla-najnajow-202610241430",
-      "title": "Bal jesienny dla najnajów",
+      "id": "iryb-bal-jesienny-dla-najnajow",
+      "title": "Bal Jesienny dla najnajów",
       "category": "DlaDzieci",
       "start": "2026-10-24T14:30",
       "end": "2026-10-24T15:30",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/Bal-jesienny-dla-najnajow?eid=701835#opis"
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "Dom Kultury w Rybniku-Chwałowicach zaprasza najmłodsze dzieci na jesienny bal przebierańców. Wydarzenie przygotowano z myślą o maluchach w wieku od 1,5 do 4 lat, które będą mogły bawić się razem z rodzicami lub opiekunami. Uczestnicy wezmą udział w zabawach i tańcach utrzymanych w jesiennym klimacie. Na najmłodszych czekać będą także bańki mydlane oraz kolorowe światła, które urozmaicą wspólne harce. Zabawę poprowadzi Monika Kubica-Skaba, znana jako Ciocia Klocia. To ona zadba o przebieg animacji i zaangażuje dzieci oraz ich opiekunów do wspólnej aktywności. Małe przebrania, wielka zabawa - Bal Jesienny dla najnajów",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/bal-jesienny-dla-najnajow"
     },
     {
-      "id": "bilnya-straszna-impreza-dla-dzieci-202610241600",
+      "id": "iryb-straszna-impreza-dla-dzieci",
       "title": "Straszna impreza dla dzieci",
       "category": "DlaDzieci",
       "start": "2026-10-24T16:00",
       "end": "2026-10-24T17:30",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/Straszna-impreza-dla-dzieci?eid=701836#opis"
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "W Domu Kultury w Rybniku-Chwałowicach odbędzie się przebierana impreza dla dzieci w wieku od 5 do 8 lat. Uczestników czeka popołudnie pełne upiornych zabaw i strasznych tańców, a całość poprowadzi Monika Kubica-Skaba, znana jako Ciocia Klocia. Wydarzenie zaplanowano na sobotę 24 października 2026 roku w godzinach 16:00–17:30 . „Straszna impreza dla dzieci” będzie przebieraną zabawą przygotowaną z myślą o dzieciach w wieku od 5 do 8 lat. W programie znalazły się upiorne zabawy oraz straszne tańce. Zabawę poprowadzi Monika Kubica-Skaba, czyli Ciocia Klocia , która zadba o przebieg imprezy i zaangażuje dzieci w przygotowane aktywności.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/straszna-impreza-dla-dzieci"
     },
     {
       "id": "iryb-zdolni-i-skromni-gramy-na-ostro-w-rybniku",
@@ -1241,6 +1230,17 @@
       "description": "Małgorzata Ostrowska, legenda polskiej piosenki, zaprasza na jubileuszowe koncerty z okazji 45-lecia pracy artystycznej! Jedna z największych ikon polskiej muzyki rockowej, właścicielka rozpoznawalnego od pierwszych dźwięków głosu, idąca zawsze własną drogą artystka bezkompromisowa – taką ją uwielbiamy i z taką spotkamy się ponownie na żywo w 2026 roku. Rocznicowa trasa przeprowadzi nas przez wszystkie etapy kariery artystki: od drapieżnych i kolorowych lat 80. przez dojrzałą solową twórczość, aż po ostatnie dokonania, w tym doskonale przyjętą płytę „Legenda”, na której artystka wróciła do swoich muzycznych korzeni. Każdy z koncertów będzie okazją do wspomnień, wzruszeń, ale też wspólnej zabawy kilku pokoleń słuchaczy, które wychowały się na piosenkach takich jak Meluzyna, Szklana pogoda, Gołębi puch, Mam dość, Taniec pingwina na szkle czy Mister of America .",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/malgorzata-ostrowska-45-lat-koncert-jubileuszowy.html"
+    },
+    {
+      "id": "tzr-x-biesiada-slaska-szczesliwej-drogi-juz-czas",
+      "title": "X Biesiada Śląska. \"Szczęśliwej drogi, już czas\"",
+      "category": "Koncert",
+      "start": "2026-11-11T17:00",
+      "end": "2026-11-11T18:30",
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Zapraszamy na jubileuszową, X Biesiadę Śląską – wieczór pełen znanych piosenek, wspólnego śpiewania, wzruszeń i dobrej zabawy.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/x-biesiada-slaska-szczesliwej-drogi-juz-czas.html"
     },
     {
       "id": "iryb-echo-rodu-w-rybniku-koncert-pelen-slowianskich-brzmien-w-klu",
