@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T04:56:30",
+  "generated_at": "2026-09-17T11:45:03",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,20 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 131,
+  "count": 132,
   "failures": [],
   "events": [
-    {
-      "id": "bilnya-pojedynek-2026-202609170815",
-      "title": "Pojedynek (2026)",
-      "category": "Film",
-      "start": "2026-09-17T08:15",
-      "end": "2026-09-17T09:45",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/film/Pojedynek-2026?eid=701679#opis"
-    },
     {
       "id": "bilnya-cyrk-zalewski-widowisko-2026-202609171700",
       "title": "Cyrk Zalewski - Widowisko 2026",
@@ -242,15 +231,15 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/historie-rownolegle.html"
     },
     {
-      "id": "dk-chw-taniec-towarzyski-grupa-poczatkujaca-20260921",
+      "id": "iryb-taniec-towarzyski-grupa-poczatkujaca",
       "title": "Taniec towarzyski: grupa początkująca",
       "category": "Warsztaty",
       "start": "2026-09-21T20:05",
       "end": null,
       "venue": "Dom Kultury Rybnik-Chwałowice",
-      "description": "W poniedziałek, 21 września 2026 roku o godz. 20:05, zapraszamy na pierwsze zajęcia tańca towarzyskiego dla grupy początkującej (I stopień).",
-      "sourceName": "DK Chwałowice",
-      "sourceUrl": "https://www.dkchwalowice.pl/?news=51771"
+      "description": "Dom Kultury w Rybniku-Chwałowicach zaprasza na pierwsze zajęcia tańca towarzyskiego dla osób rozpoczynających naukę. Spotkanie inaugurujące grupę początkującą pierwszego stopnia odbędzie się we wrześniu. Zajęcia powstały z myślą o osobach początkujących, które chcą rozpocząć naukę tańca towarzyskiego. Będzie to pierwsze spotkanie grupy realizującej program pierwszego stopnia. Podczas inauguracyjnych zajęć uczestnicy rozpoczną naukę tańca towarzyskiego w grupie początkującej. Spotkanie organizuje i prowadzi Dom Kultury w Rybniku-Chwałowicach, a zapisy przyjmuje bezpośrednio instruktorka zajęć. W dostępnych informacjach nie podano ograniczeń wiekowych.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/taniec-towarzyski-grupa-poczatkujaca"
     },
     {
       "id": "iryb-warsztaty-pakiet-opieki-wytchnieniowej",
@@ -550,6 +539,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/warsztaty-florystyczne-dla-pan-dynia-pelna-jesieni"
     },
     {
+      "id": "iryb-iv-rybnicki-dzien-seniora",
+      "title": "IV Rybnicki Dzień Seniora",
+      "category": "Koncert",
+      "start": "2026-10-02T00:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "2 października 2026 roku w Teatrze Ziemi Rybnickiej odbędzie się IV Rybnicki Dzień Seniora. Wydarzenie będzie okazją do wspólnego świętowania, wyróżnienia wyjątkowego seniora oraz udziału w koncercie Gangu Marcela. Wydarzenie zaplanowano na 2 października 2026 roku w Teatrze Ziemi Rybnickiej . Organizatorzy nie podali godziny rozpoczęcia. Udział w wydarzeniu jest bezpłatny i otwarty dla seniorów . Najważniejszym punktem wydarzenia będzie wręczenie nagrody dla wyjątkowego seniora. W programie znalazł się również koncert Gangu Marcela .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/iv-rybnicki-dzien-seniora"
+    },
+    {
       "id": "tzr-rybnicki-dzien-seniora-koncert-zespolu-gang-marcela",
       "title": "Rybnicki Dzień Seniora - koncert zespołu Gang Marcela",
       "category": "Koncert",
@@ -724,6 +724,17 @@
       "description": "Luksus, skandale i śmiech do łez! 😂 \"Prestiż\" to komedia o kulcie sukcesu – ostra jak brzytwa, błyskotliwa i pełna absurdów. 🔥 Zobacz, co kryje się za maską perfekcji – zanim znikną szybciej niż egzotyczne wakacje bohaterów! 🎭✨.",
       "sourceName": "biletyna.pl",
       "sourceUrl": "https://biletyna.pl/spektakl/Prestiz-wspolczesny-spektakl?eid=666229#opis"
+    },
+    {
+      "id": "iryb-xi-festiwal-dyni",
+      "title": "XI Festiwal Dyni",
+      "category": "Festiwal",
+      "start": "2026-10-10T16:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Jesień w Rybniku-Kamieniu ponownie upłynie pod znakiem dyni. 10 października odbędzie się XI Festiwal Dyni, rodzinne wydarzenie pełne konkursów, animacji i jesiennych dekoracji. Organizatorzy przygotowali atrakcje dla dzieci, loterię fantową oraz degustację dyniowych przysmaków. W programie wydarzenia znalazły się animacje dla dzieci oraz loteria fantowa z nagrodami. Uczestnicy będą mogli także skosztować bezpłatnej zupy dyniowej i dyniowych wypieków. Jednym z punktów festiwalu będzie konkurs na „Najpiękniejszy dyniowy lampion” . Zgłoszenia do konkursu są przyjmowane do 2 października. Całość dopełnią jesienne dekoracje i rodzinna atmosfera. Festiwal potrwa sześć godzin, od 16:00 do 22:00.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/xi-festiwal-dyni"
     },
     {
       "id": "iryb-starcie-tytanow-koncert-w-rybniku",

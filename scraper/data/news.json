@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T04:57:48",
+  "generated_at": "2026-09-17T11:47:15",
   "count": 76,
   "failures": [
     {
@@ -9,131 +9,161 @@
   ],
   "items": [
     {
-      "id": "cda48777d4f7fccf4a30e8641b85bac74822786b",
-      "title": "270 prymusów i 13 nagród artystycznych na gali stypendiów prezydenta Raciborza. „Jesteście zdolni, pracowici, konsekwentni”",
-      "summary": "Liczba nagród była większa niż w poprzednim półroczu szkolnym. Najwięcej prymusów miała SP1 z Ostroga - 58. Uczniowie z najlepszymi wynikami w nauce w roku szkolnym 2025/2026 oraz uczniowie wyróżnieni za osiągnięcia artystyczne w tym roku odebrali z rąk głowy miasta nagrody pieniężne. Doroczne…",
-      "link": "https://www.nowiny.pl/wiadomosci/250986-270-prymusow-i-13-nagrod-artystycznych-na-gali-stypendiow-prezydenta-raciborza-jestescie-zdolni-pracowici-konsekwentni.html",
-      "published": "2026-09-16T18:25",
+      "id": "2631f29978424f8eca496d6dadf13913c1a776e1",
+      "title": "Implanty zębów dla seniora – czy istnieje górna granica wieku dla pięknego uśmiechu?",
+      "summary": "Wiek sam w sobie nie przekreśla szans na leczenie implantologiczne. To jedna z najważniejszych informacji dla osób starszych, które zmagają się z brakami w uzębieniu i słyszą, że „na takie rzeczy jest już za późno”. Lekarze nie pytają najpierw o metrykę, tylko o stan zdrowia, jakość kości…",
+      "link": "https://www.nowiny.pl/wiadomosci/251002-implanty-zebow-dla-seniora-czy-istnieje-gorna-granica-wieku-dla-pieknego-usmiechu.html",
+      "published": "2026-09-17T11:26",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
     },
     {
-      "id": "a2fc051f25c357a343c55c28a59cc65de5df50b1",
-      "title": "Boom na węgiel? Rośnie import, ale też wydobycie i sprzedaż krajowego węgla. Zapasy przy kopalniach topnieją",
+      "id": "bf3acf0dd2b975d5a1ea87f4cd90aaa086767e97",
+      "title": "Jak nazwać raciborską wodę? Wymyśl hasło i wygraj nagrody",
+      "summary": "Konkurs skierowany jest do wszystkich, którzy mają pomysł na krótką, ciekawą i zapadającą w pamięć nazwę dla spacerów poświęconych rzekom, przyrodzie i miejscom związanym z wodą w Raciborzu. Zwycięska propozycja może już wkrótce stać się nazwą stałej oferty Arboretum Bramy Morawskiej.",
+      "link": "https://www.nowiny.pl/wiadomosci/251000-jak-nazwac-raciborska-wode-wymysl-haslo-i-wygraj-nagrody.html",
+      "published": "2026-09-17T10:32",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7bbc79b5d6da6b514cacecfc341009c33e0cef7c",
+      "title": "RARYTAS - spektakl muzyczny drugiego dnia Ogólnopolskiego Festiwalu Teatralnego OFF-ka 2026",
+      "summary": "Drugiego dnia OFFki Raciborskie Centrum Kultury zaprasza na spektakl muzyczny w reżyserii Kwartetu Wiejskiego, Wolfganga Niklausa oraz Wacława Sobaszka pt. RARYTAS, który odbędzie się w piątek 25 września o godzinie 20:00 w sali widowiskowej RCK RDK, ul. Chopina 21 Racibórz. Spektakl przeistoczy…",
+      "link": "https://www.nowiny.pl/wiadomosci/250999-rarytas-spektakl-muzyczny-drugiego-dnia-ogolnopolskiego-festiwalu-teatralnego-off-ka-2026.html",
+      "published": "2026-09-17T10:12",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ce37ef034a0aecd7c9979e2d72aaf8a1a3a55b63",
+      "title": "Dlaczego agentic commerce ma znaczenie dla instytucji finansowych",
+      "summary": "Agenci AI stopniowo przechodzą od wyszukiwania i rekomendowania produktów do samodzielnej realizacji transakcji. Z perspektywy Pavla Kashuby, lidera strategicznego w Coinspaid, kluczowe pytanie dotyczące płatności pojawia się w momencie, gdy dochodzi do transakcji pomiędzy dwoma agentami AI: jaka…",
+      "link": "https://www.nowiny.pl/nie-przegap/250993-dlaczego-agentic-commerce-ma-znaczenie-dla-instytucji-finansowych.html",
+      "published": "2026-09-17T10:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "89e08041d3c7c6a90474792fc685fce4663509bf",
+      "title": "Kto po Danielu Jakubczyku? W Gorzycach kandydatów może być kilku. Jak wyglądają siły polityczne w gminie?",
+      "summary": "Jeżeli przepisy się nie zmienią, Daniel Jakubczyk w 2029 roku nie będzie mógł ponownie kandydować na wójta gminy Gorzyce. Zapowiada się więc ciekawa polityczna rozgrywka. Sprawdzamy, kto dziś rozdaje karty w gminie i kto może włączyć się do walki o schedę po obecnym wójcie.",
+      "link": "https://www.nowiny.pl/opinie/250990-kto-po-danielu-jakubczyku-w-gorzycach-kandydatow-moze-byc-kilku-jak-wygladaja-sily-polityczne-w-gminie.html",
+      "published": "2026-09-17T09:42",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f7071bf98f2e7c998e1ac37f17c453a61428a49d",
+      "title": "Z kotłowni zrobią nowoczesne pracownie. Inwestycja za 6,3 mln zł w wodzisławskiej \"Budowlance\"",
+      "summary": "Dawna kotłownia Zespołu Szkół Technicznych w Wodzisławiu Śląskim zmienia się w nowoczesne zaplecze do nauki zawodu. Powstaną tam pracownie dla uczniów kształcących się w kierunkach związanych z odnawialnymi źródłami energii i budownictwem. Wartość inwestycji to prawie 6,3 mln zł.",
+      "link": "https://www.nowiny.pl/wiadomosci/250998-z-kotlowni-zrobia-nowoczesne-pracownie-inwestycja-za-63-mln-zl-w-wodzislawskiej-budowlance.html",
+      "published": "2026-09-17T09:34",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "947f6536c774ed932dd23a928e1fbaa6090b7d62",
+      "title": "Amerykański inwestor kupił nieruchomości w Rybniku i Wałczu. Transakcja opiewa na kwotę 52 mln euro",
+      "summary": "Nieruchomości Purmo Group w Rybniku i Wałczu zmieniły właściciela. Amerykańska firma inwestycyjna W. P. Carey zapłaciła za oba kompleksy łącznie 52 mln euro. Nie oznacza to jednak wyprowadzki Purmo. Producent od razu wynajął sprzedane obiekty na 20 lat i nadal będzie z nich korzystać.",
+      "link": "https://www.nowiny.pl/wiadomosci/250996-amerykanski-inwestor-kupil-nieruchomosci-w-rybniku-i-walczu-transakcja-opiewa-na-kwote-52-mln-euro.html",
+      "published": "2026-09-17T08:59",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0957418dc245dbcc90a886f92a6be1ed231a73fa",
+      "title": "Ponad 300 seniorów bawiło się w żorskiej Arkadii",
+      "summary": "Sala „Arkadia” wypełniła się żorskimi seniorami. Do wspólnej zabawy zagrał im duet Monika i Leszek Filcowie.",
+      "link": "https://ezory.pl/wiadomosci/250995-ponad-300-seniorow-bawilo-sie-w-zorskiej-arkadii.html",
+      "published": "2026-09-17T08:39",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3e21ca6763b0b01d19825fa913e3a1af424cdd4d",
+      "title": "W Łańcach powstała muszla koncertowa. Będą tu koncerty i wydarzenia [ZDJĘCIA]",
+      "summary": "Łańce (gm. Kornowac) zyskały nowe miejsce na koncerty i lokalne wydarzenia. W sąsiedztwie domu kultury powstała muszla koncertowa, która będzie wykorzystywana także podczas spotkań i innych inicjatyw.",
+      "link": "https://www.nowiny.pl/wiadomosci/250994-w-lancach-powstala-muszla-koncertowa-beda-tu-koncerty-i-wydarzenia-zdjecia.html",
+      "published": "2026-09-17T08:34",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "288216a33b616b3d015a8f6a7bd61167f7eb6ffb",
+      "title": "Wypadek na ulicy 26 marca w Wodzisławiu Śląskim. 13-latek na rowerze elektrycznym uderzył w auto",
+      "summary": "Nastolatek trafił do szpitala po zdarzeniu na ulicy 26 Marca w Wodzisławiu Śląskim. Chłopiec poruszający się rowerem elektrycznym najechał na tył samochodu, który zatrzymał się przed przejściem dla pieszych.",
+      "link": "https://www.nowiny.pl/wiadomosci/250992-wypadek-na-ulicy-26-marca-w-wodzislawiu-slaskim-13-latek-na-rowerze-elektrycznym-uderzyl-w-auto.html",
+      "published": "2026-09-17T08:26",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c124332cc72e1ee9d5da27865c96786ccb423088",
+      "title": "Kontrola celno-skarbowa w zakresie VAT - jakie dokumenty i transakcje są najczęściej analizowane",
+      "summary": "Kontrola VAT prowadzona przez urząd celno-skarbowy zwykle nie ogranicza się do sprawdzenia deklaracji. W praktyce organ bada, czy transakcje miały realny przebieg, czy kontrahenci istnieli operacyjnie, czy płatności odpowiadają fakturom oraz czy podatnik nie uczestniczył, świadomie albo…",
+      "link": "https://www.nowiny.pl/wiadomosci/250991-kontrola-celno-skarbowa-w-zakresie-vat-jakie-dokumenty-i-transakcje-sa-najczesciej-analizowane.html",
+      "published": "2026-09-17T08:15",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1f576875896ca1c6d871292cf560582d052e41c5",
+      "title": "Dyrektor szkoły w Nędzy zrezygnował przed końcem kadencji. Teraz pokieruje inną placówką",
+      "summary": "Ireneusz Fiet odchodzi ze stanowiska dyrektora Szkoły Podstawowej im. Powstańców Śląskich w Nędzy. Złożył rezygnację przed końcem powołania, które obowiązywało do 31 sierpnia 2029 roku. Objął stanowisko dyrektora Zespołu Szkolno-Przedszkolnego w Pawłowiczkach. W rozmowie z nami mówi, dlaczego…",
+      "link": "https://www.nowiny.pl/wiadomosci/250989-dyrektor-szkoly-w-nedzy-zrezygnowal-przed-koncem-kadencji-teraz-pokieruje-inna-placowka.html",
+      "published": "2026-09-17T07:55",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "05a87a84197dcc9aca8699587ce4369f3fe8f020",
+      "title": "Prezes Kombinatu Rolnego Kietrz wrócił do pracy. Właściciel mówi o „niepotrzebnym kryzysie medialnym”",
+      "summary": "Krajowa Grupa Spożywcza zakończyła postępowanie dotyczące wizyty niemieckiej delegacji w Kombinacie Rolnym Kietrz. Ustalono, że o spotkaniu nie poinformowano wcześniej właściciela spółki. Jednocześnie grupa bardzo wysoko oceniła kompetencje prezesa Mariusza Sikory i napisała o „niepotrzebnym…",
+      "link": "https://agronowiny.pl/wiadomosci/250988-prezes-kombinatu-rolnego-kietrz-wrocil-do-pracy-wlasciciel-mowi-o-niepotrzebnym-kryzysie-medialnym.html",
+      "published": "2026-09-17T07:32",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "53389e1e145e248c6ca90e5391041ba668444e0e",
+      "title": "Przenosiny biblioteki na parter - wygodna i bez barier",
+      "summary": "Nowa filia w Boguszowicach to miejsce bez barier architektonicznych, stworzone z myślą o budowaniu lokalnych relacji. W niedzielne popołudnie zapraszamy na piknik oraz filozoficzne inspiracje z motywem literackim.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/przenosiny-biblioteki-na-parter-i-magiczny-podwieczorek-dla-mieszkancow",
+      "published": "2026-09-17T00:00",
+      "source": "rybnik.eu",
+      "category": "Edukacja",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "68d3f90011e43b82250f14698507d4aa549b4a08",
+      "title": "XI Festiwal Dyni W Kamieniu",
+      "summary": "Jesień w Rybniku-Kamieniu po raz kolejny będzie miała kolor dyni. 10 października odbędzie się XI Festiwal Dyni - pełne rodzinnych atrakcji wydarzenie z konkursami, degustacją i jesiennymi dekoracjami.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/xi-festiwal-dyni-juz-10-pazdziernika",
+      "published": "2026-09-17T00:00",
+      "source": "rybnik.eu",
+      "category": "Aktualności",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "116a677067efe2cc895138332207976387bed098",
+      "title": "Węgiel wraca do gry? Import rośnie o 168 proc., a zwały przy kopalniach pustoszeją",
       "summary": "Czy Polska znowu masowo sprowadza węgiel z zagranicy? Wzrost importu o 168 proc. robi wrażenie, ale liczby z kilku ostatnich lat pokazują coś więcej: krajowe kopalnie sprzedały więcej węgla, zapasy mocno spadły, a tegoroczny import wcale nie jest rekordowy.",
-      "link": "https://www.nowiny.pl/wiadomosci/250975-boom-na-wegiel-rosnie-import-ale-tez-wydobycie-i-sprzedaz-krajowego-wegla-zapasy-przy-kopalniach-topnieja.html",
+      "link": "https://www.nowiny.pl/wiadomosci/250975-wegiel-wraca-do-gry-import-rosnie-o-168-proc-a-zwaly-przy-kopalniach-pustoszeja.html",
       "published": "2026-09-16T17:57",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3294fa236971e49b0240c0c63d6fe1a4240c7d9a",
-      "title": "Sezon dożynkowy w powiecie raciborskim dobiega końca. Pawłów świętuje jako ostatni [PROGRAM]",
-      "summary": "Sezon dożynkowy w powiecie raciborskim dobiega końca. Jako ostatni święto plonów będą obchodzić mieszkańcy Pawłowa (gm. Pietrowice Wielkie). W niedzielę, 20 września, zaplanowano tradycyjny korowód, część artystyczną, loterię z nagrodami i wieczorną zabawę taneczną.",
-      "link": "https://agronowiny.pl/wiadomosci/250985-sezon-dozynkowy-w-powiecie-raciborskim-dobiega-konca-pawlow-swietuje-jako-ostatni-program.html",
-      "published": "2026-09-16T17:44",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "cbeef9e47921916d751ec7790b712afab50f7e42",
-      "title": "Oktoberfest w Aqua Brax – największe wydarzenie w regionie już niebawem!",
-      "summary": "Już 19 września 2026 w Aqua Brax w Szymocicach odbędzie się wydarzenie, na które miłośnicy dobrej zabawy, muzyki i złocistego trunku czekają z niecierpliwością.",
-      "link": "https://www.nowiny.pl/wiadomosci/250984-oktoberfest-w-aqua-brax-najwieksze-wydarzenie-w-regionie-juz-niebawem.html",
-      "published": "2026-09-16T16:35",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e9d142e01085882ea4a72c6243f7ac09ac4504c6",
-      "title": "Ponad 3,6 mln zł na basen przy SP 3. W środku trwają prace rozbiórkowe",
-      "summary": "Na basenie przy Szkole Podstawowej nr 3 w Wodzisławiu Śląskim trwają prace rozbiórkowe i budowlane. Wykonawca rozpoczął też przygotowania do dobudowy nowej części technicznej.",
-      "link": "https://www.nowiny.pl/wiadomosci/250967-ponad-36-mln-zl-na-basen-przy-sp-3-w-srodku-trwaja-prace-rozbiorkowe.html",
-      "published": "2026-09-16T16:11",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0cd651949feb42df6e6cb7e29edb33dd747aec04",
-      "title": "Kwiaty też podlegają modzie. Wiesława Franiczek o tym, co dziś wybierają klienci [WYWIAD]",
-      "summary": "Przez 18 lat Wiesława Franiczek obserwowała, jak zmieniają się kwiatowe mody, zwyczaje klientów i sama praca florysty. Dziś klienci przychodzą ze zdjęciami z internetu, bukiety ślubne mają wyglądać coraz bardziej naturalnie, a kwiaciarnie muszą konkurować nie tylko między sobą, ale również z…",
-      "link": "https://www.nowiny.pl/wiadomosci/250982-kwiaty-tez-podlegaja-modzie-wieslawa-franiczek-o-tym-co-dzis-wybieraja-klienci-wywiad.html",
-      "published": "2026-09-16T14:59",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a773803b818aa8732e643b25805d3e326446c0c0",
-      "title": "Helios prezentuje najnowszy repertuar",
-      "summary": "W najbliższych dniach widzowie kin Helios mogą spodziewać się kolejnej porcji filmowych emocji. Na wielkich ekranach pojawią się dwie premiery – „Resident Evil” oraz „Tedi i magiczna lampa”. W repertuarze pozostają także popularne tytuły z poprzednich tygodni, w tym „100 dni: Misja Zeus” i „Totalna…",
-      "link": "https://www.nowiny.pl/wiadomosci/250978-helios-prezentuje-najnowszy-repertuar.html",
-      "published": "2026-09-16T14:30",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "cb322c0e47ea07ca18ed8dc08f2a374e95bec70d",
-      "title": "Nie żyje ceniony rybnicki stomatolog. Witold Prochasek miał 48 lat",
-      "summary": "Zmarł Witold Prochasek, znany i ceniony w Rybniku lekarz dentysta. Przez lata leczył mieszkańców miasta i regionu, zdobywając ich zaufanie nie tylko dzięki swoim umiejętnościom, ale także podejściu do pacjentów. Zmarł nagle 13 września. Miał zaledwie 48 lat.",
-      "link": "https://www.nowiny.pl/wiadomosci/250981-nie-zyje-ceniony-rybnicki-stomatolog-witold-prochasek-mial-48-lat.html",
-      "published": "2026-09-16T13:29",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "31b13577eb188c4aa56cfa227efdc04462f414bb",
-      "title": "Bieg Jastrzębska Dziesiątka już w sobotę 19 września. Będą utrudnienia dla kierowców",
-      "summary": "Już 19 września zaplanowano w Jastrzębiu-Zdroju bieg \"Jastrzębska Dziesiątka\" w centrum miasta. Od 14.30 do 19.30 wystąpią utrudnienia w ruchu.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/250979-bieg-jastrzebska-dziesiatka-juz-w-sobote-19-wrzesnia-beda-utrudnienia-dla-kierowcow.html",
-      "published": "2026-09-16T12:12",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "ALERT"
-    },
-    {
-      "id": "7aa73fe29557130bb1c52a69a41c3a729593d9cf",
-      "title": "O mały włos od tragedii. Zderzenie motocykla i osobówki w Bełsznicy [WIDEO]",
-      "summary": "W Bełsznicy w gminie Gorzyce doszło do zdarzenia drogowego z udziałem motocykla i samochodu osobowego. Na szczęście uczestnicy wyszli ze zdarzenia bez szwanku, a wszystko nagrał monitoring.",
-      "link": "https://www.nowiny.pl/wiadomosci/250980-o-maly-wlos-od-tragedii-zderzenie-motocykla-i-osobowki-w-belsznicy-wideo.html",
-      "published": "2026-09-16T12:12",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "050df1f20eeb85f7158e79d26a3605705ebcbc3f",
-      "title": "Celowanie, bieganie, toczenie i chodzenie - tak się bawiono na Spartakiadzie Seniorów w Raciborzu",
-      "summary": "14 zespołów zmierzyło się we wrześniu w Spartakiadzie Seniorów 2026. Zawody odbyły się w raciborskiej Oborze. Pomysł przewodniczącej ZEiR - Krystyny Loch, który zrodził się przed dekadą doczekał się już pięciu udanych edycji.",
-      "link": "https://www.nowiny.pl/wiadomosci/250977-celowanie-bieganie-toczenie-i-chodzenie-tak-sie-bawiono-na-spartakiadzie-seniorow-w-raciborzu.html",
-      "published": "2026-09-16T11:48",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8c854eb90d293def5493dbfb08ae8637bdf6fa6d",
-      "title": "Wtargnął na posesję, żeby się ukryć? Gospodarz go ujął, a policja odkryła, że jest poszukiwany",
-      "summary": "Mężczyzna szukał miejsca, w którym mógłby się ukryć. Trafił na posesję mieszkańca Jastrzębia-Zdroju, który go ujął i wezwał policję.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/250976-wtargnal-na-posesje-zeby-sie-ukryc-gospodarz-go-ujal-a-policja-odkryla-ze-jest-poszukiwany.html",
-      "published": "2026-09-16T11:12",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6204f6fb3a3b77d2971ab8a4f77e639d51ffaa02",
-      "title": "Straż Leśna rusza z akcją „Jesień 26”. Kontrole w lasach w całej Polsce",
-      "summary": "Od 14 września do 18 października na terenie Lasów Państwowych w całej Polsce prowadzona będzie akcja Straży Leśnej „Jesień 26”. Jej celem jest przede wszystkim zapewnienie bezpieczeństwa osobom korzystającym z lasów, ochrona przyrody i infrastruktury leśnej oraz przeciwdziałanie szkodnictwu…",
-      "link": "https://www.nowiny.pl/ekonowiny/250974-straz-lesna-rusza-z-akcja-jesien-26-kontrole-w-lasach-w-calej-polsce.html",
-      "published": "2026-09-16T09:52",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -166,26 +196,6 @@
       "published": "2026-09-16T00:00",
       "source": "rybnik.eu",
       "category": "Rekreacja",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "fe2d77c573fbd514840c24ebea1b041c1b5df982",
-      "title": "Kowalewska & Kuder z debiutanckim albumem już 25 września na Końcu Świata w Raciborzu!",
-      "summary": "Raciborski duet Kowalewska & Kuder konsekwentnie buduje swoją muzyczną drogę. Po premierach autorskich singli „KAWA” i „TWIST”, występach na dużych scenach, w tym podczas Dni Raciborza 2025 u boku Sarsy i Organka, oraz doświadczeniach związanych z programem „Must Be The Music”, przyszedł czas na…",
-      "link": "https://www.nowiny.pl/wiadomosci/250949-kowalewska-kuder-z-debiutanckim-albumem-juz-25-wrzesnia-na-koncu-swiata-w-raciborzu.html",
-      "published": "2026-09-15T14:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c9effd6f34fc64340a135e42d3027a183c985357",
-      "title": "Co dziś wozimy na naszych samochodach? Od klasycznych bagażników po mobilny dom na dachu",
-      "summary": "Jeszcze niedawno samochód miał jedno zadanie – zawieźć nas na miejsce. Dziś może zrobić znacznie więcej. Zabiera rowery, narty, walizki, sprzęt kempingowy, a nawet… miejsce do spania. To, co montujemy na samochodzie, coraz częściej mówi nie tylko o tym, ile chcemy przewieźć, ale przede wszystkim…",
-      "link": "https://www.nowiny.pl/wiadomosci/250947-co-dzis-wozimy-na-naszych-samochodach-od-klasycznych-bagaznikow-po-mobilny-dom-na-dachu.html",
-      "published": "2026-09-15T12:30",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -276,16 +286,6 @@
       "published": "2026-09-08T00:00",
       "source": "rybnik.eu",
       "category": "Seniorzy",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "084e8bcd14329c4fe31edf906faec51329e08344",
-      "title": "Konkurs na Biznesplan – zrealizuj swój pomysł i zdobądź nagrody!",
-      "summary": "Masz pomysł na własny biznes? A może od dawna zastanawiasz się, jak przekuć swoją pasję lub zainteresowania w ciekawy projekt? Weź udział w konkursie „Rybnicki Biznesplan” i sprawdź swoje możliwości!",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/konkurs-na-biznesplan-zrealizuj-swoj-pomysl-i-zdobadz-nagrody-1-1",
-      "published": "2026-09-08T00:00",
-      "source": "rybnik.eu",
-      "category": "Biznes",
       "priority": "NORMAL"
     },
     {
