@@ -60,6 +60,7 @@ data class DepartureRow(
     val shortName: String,
     val headsign: String,
     val tripId: String,
+    val routeId: String,
 )
 
 data class StopSuggestion(val id: String, val name: String, val lat: Double, val lon: Double)
@@ -109,7 +110,7 @@ interface TransitDao {
     @Query(
         """
         SELECT st.departure AS departure, r.shortName AS shortName,
-               t.headsign AS headsign, t.id AS tripId
+               t.headsign AS headsign, t.id AS tripId, r.id AS routeId
         FROM stop_times st
         JOIN trips t ON st.tripId = t.id
         JOIN routes r ON t.routeId = r.id

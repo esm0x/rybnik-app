@@ -32,6 +32,7 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
@@ -51,6 +52,7 @@ import eu.rybnik.events.data.transit.Departure
 import eu.rybnik.events.data.waste.Collection
 import eu.rybnik.events.ui.common.TIME_FMT
 import eu.rybnik.events.ui.common.humanLabel
+import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -79,6 +81,16 @@ class HomeViewModel : ViewModel() {
             Graph.airRepo.state.collect { air -> _ui.update { it.copy(air = air) } }
         }
         refresh()
+    }
+
+    /** Departures only — cheap enough to tick on a timer, unlike the full network refresh. */
+    fun tickDepartures() {
+        viewModelScope.launch {
+            val stop = _ui.value.favouriteStop ?: return@launch
+            val fresh = runCatching { Graph.transitRepo.nextDepartures(stop, limit = 4) }
+                .getOrDefault(emptyList())
+            _ui.update { it.copy(departures = fresh) }
+        }
     }
 
     fun refresh() {
@@ -131,6 +143,14 @@ fun HomeScreen(
 ) {
     val vm: HomeViewModel = viewModel()
     val ui by vm.ui.collectAsState()
+
+    LaunchedEffect(ui.favouriteStop) {
+        if (ui.favouriteStop == null) return@LaunchedEffect
+        while (true) {
+            delay(20_000)
+            vm.tickDepartures()
+        }
+    }
 
     Scaffold(
         topBar = {

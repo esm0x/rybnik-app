@@ -51,12 +51,22 @@ private val DarkScheme = darkColorScheme(
     onPrimaryContainer = Petrol100,
     secondary = Amber500,
     onSecondary = Color(0xFF3A2500),
+    secondaryContainer = Color(0xFF5A3E00),
+    onSecondaryContainer = Amber100,
     background = Color(0xFF0F1315),
     onBackground = Color(0xFFE1E3E5),
     surface = Color(0xFF161B1D),
     onSurface = Color(0xFFE1E3E5),
     surfaceVariant = Color(0xFF232A2D),
     onSurfaceVariant = Color(0xFFC0C4C7),
+    // Alert cards (city notices, smog warnings) live on the error container, so it has
+    // to stay legible in dark mode instead of falling back to a bright default.
+    error = Color(0xFFFF8A80),
+    onError = Color(0xFF4A0A05),
+    errorContainer = Color(0xFF5C1710),
+    onErrorContainer = Color(0xFFFFDAD4),
+    outline = Color(0xFF6B7276),
+    outlineVariant = Color(0xFF3A4246),
 )
 
 private val RybnikTypography = Typography(

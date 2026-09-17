@@ -29,6 +29,9 @@ import androidx.compose.material3.IconButton
 import androidx.compose.material3.ListItem
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
+import androidx.compose.material3.SegmentedButton
+import androidx.compose.material3.SegmentedButtonDefaults
+import androidx.compose.material3.SingleChoiceSegmentedButtonRow
 import androidx.compose.material3.Slider
 import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
@@ -46,6 +49,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import eu.rybnik.events.Graph
 import eu.rybnik.events.core.prefs.Settings
+import eu.rybnik.events.core.prefs.ThemeMode
 import eu.rybnik.events.core.prefs.UserPrefs
 import eu.rybnik.events.data.air.AirQualityRepository
 import eu.rybnik.events.data.air.AirState
@@ -121,6 +125,10 @@ class SettingsViewModel : ViewModel() {
     fun clearAddress() {
         viewModelScope.launch { Graph.prefs.clearWasteAddress() }
     }
+
+    fun setThemeMode(mode: ThemeMode) {
+        viewModelScope.launch { Graph.prefs.setThemeMode(mode) }
+    }
 }
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -176,6 +184,26 @@ fun SettingsScreen(onBack: () -> Unit, onPickAddress: () -> Unit) {
                         androidx.compose.material3.OutlinedButton(onClick = vm::clearAddress) {
                             Text("Usuń")
                         }
+                    }
+                }
+            }
+
+            item { HorizontalDivider(Modifier.padding(vertical = 12.dp)) }
+            item { SectionHeader("Motyw") }
+            item {
+                SingleChoiceSegmentedButtonRow(
+                    Modifier
+                        .fillMaxWidth()
+                        .padding(horizontal = 16.dp)
+                ) {
+                    ThemeMode.entries.forEachIndexed { index, mode ->
+                        SegmentedButton(
+                            selected = s.themeMode == mode,
+                            onClick = { vm.setThemeMode(mode) },
+                            shape = SegmentedButtonDefaults.itemShape(
+                                index, ThemeMode.entries.size
+                            ),
+                        ) { Text(mode.label) }
                     }
                 }
             }

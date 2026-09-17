@@ -1,5 +1,6 @@
 package eu.rybnik.events.ui.transit
 
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -32,6 +33,7 @@ import androidx.compose.material3.SingleChoiceSegmentedButtonRow
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
@@ -51,6 +53,7 @@ import eu.rybnik.events.data.transit.StopSuggestion
 import eu.rybnik.events.ui.common.EmptyState
 import eu.rybnik.events.ui.common.ErrorBanner
 import eu.rybnik.events.ui.common.TIME_FMT
+import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -135,6 +138,11 @@ class TransitViewModel : ViewModel() {
         }
     }
 
+    fun selectRouteById(routeId: String) {
+        val route = _ui.value.routes.firstOrNull { it.id == routeId } ?: return
+        selectRoute(route)
+    }
+
     fun selectRoute(route: RouteEntity) {
         viewModelScope.launch {
             _ui.update {
@@ -162,6 +170,17 @@ fun TransitScreen() {
     val vm: TransitViewModel = viewModel()
     val ui by vm.ui.collectAsState()
     var showRoutes by remember { mutableStateOf(false) }
+
+    // Re-query while a stop is open so the countdown ticks down and departed buses drop
+    // off without the user reaching for refresh. Keyed on the stop, so it stops by itself
+    // when they navigate away.
+    LaunchedEffect(ui.selectedStop) {
+        if (ui.selectedStop == null) return@LaunchedEffect
+        while (true) {
+            delay(20_000)
+            vm.refreshDepartures()
+        }
+    }
 
     Scaffold(
         topBar = {
@@ -214,7 +233,11 @@ fun TransitScreen() {
             }
 
             when {
-                ui.selectedStop != null -> DeparturesList(ui.departures) { vm.clearSelection() }
+                ui.selectedStop != null -> DeparturesList(
+                    departures = ui.departures,
+                    onRouteClick = vm::selectRouteById,
+                    onBack = { vm.clearSelection() },
+                )
                 ui.selectedRoute != null -> RouteStopList(ui.routeStops, vm::selectStop) {
                     vm.clearSelection()
                 }
@@ -312,7 +335,11 @@ private fun StopRow(name: String, favourite: Boolean, onClick: () -> Unit) {
 }
 
 @Composable
-private fun DeparturesList(departures: List<Departure>, onBack: () -> Unit) {
+private fun DeparturesList(
+    departures: List<Departure>,
+    onRouteClick: (String) -> Unit,
+    onBack: () -> Unit,
+) {
     if (departures.isEmpty()) {
         EmptyState(
             Icons.Outlined.DirectionsBus,
@@ -325,7 +352,10 @@ private fun DeparturesList(departures: List<Departure>, onBack: () -> Unit) {
     LazyColumn {
         items(departures) { d ->
             Row(
-                Modifier.fillMaxWidth().padding(horizontal = 20.dp, vertical = 10.dp),
+                Modifier
+                    .fillMaxWidth()
+                    .clickable { onRouteClick(d.routeId) }
+                    .padding(horizontal = 20.dp, vertical = 10.dp),
                 verticalAlignment = Alignment.CenterVertically,
                 horizontalArrangement = Arrangement.spacedBy(12.dp),
             ) {

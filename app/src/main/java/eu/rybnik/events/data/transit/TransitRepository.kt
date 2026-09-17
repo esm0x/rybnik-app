@@ -33,6 +33,7 @@ data class Departure(
     /** Minutes from now; negative values never surface because past rows are filtered out. */
     val inMinutes: Long,
     val afterMidnight: Boolean,
+    val routeId: String,
 )
 
 data class TransitStatus(
@@ -139,6 +140,7 @@ class TransitRepository(
             headsign = headsign,
             inMinutes = java.time.Duration.between(now, at).toMinutes(),
             afterMidnight = departure >= DAY,
+            routeId = routeId,
         )
     }
 

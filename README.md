@@ -19,6 +19,8 @@ Wszystkie moduły działają na realnych danych.
 Powiadomienia: wywóz odpadów (wieczór przed), ulubione wydarzenie (dzień przed),
 alert smogowy (próg do ustawienia) i komunikaty miejskie.
 
+Motyw: jasny / ciemny / jak system, przełączany w Ustawieniach.
+
 ## Stack
 
 - Kotlin 2.0.21 + Jetpack Compose (Material 3), Navigation Compose
@@ -104,8 +106,12 @@ Kotlin deserializuje je 1:1.
 
 - Rozkład jazdy nie ma geometrii tras (brak `shapes.txt`), więc „trasa linii" to
   lista przystanków najdłuższego kursu, nie linia na mapie. Mapy nie ma w ogóle.
-- Brak odjazdów na żywo. KM Rybnik nie publikuje GTFS-Realtime; istnieje
-  nieudokumentowane API z odliczaniem, ale jest bez kontraktu i może zniknąć.
+- **Brak realnego czasu rzeczywistego.** KM Rybnik nie publikuje GTFS-Realtime.
+  Istnieje nieudokumentowane API `rozklad.km.rybnik.pl/Home/GetNextDepartues`, ale
+  sprawdzone: jego `vr` to dokładnie różnica między czasem serwera a rozkładowym
+  (przy czasie 20:10 i odjazdzie 20:49 zwraca 2336 s), czyli odliczanie z rozkładu
+  bez GPS. Endpoint pojazdów zwraca pustkę. Apka odlicza więc lokalnie z GTFS i
+  odświeża listę co 20 s — bez opóźnień w czasie rzeczywistym, bo takich danych nie ma.
 - Trzy wpisy adresowe z PDF-ów gubią wyjątki („poza numerem 205D") — zakres
   wychodzi minimalnie za szeroki. Logowane jako `[warn]` przy generowaniu.
 - `Impreza` ma mało wydarzeń poza sezonem klubowym — klasyfikator działa,
@@ -121,8 +127,8 @@ Kotlin deserializuje je 1:1.
 2. ✅ v0.2 — realne wydarzenia z TZR
 3. ✅ v0.3 — wszystkie moduły na realnych danych + powiadomienia + smog
 4. ⏭️ Mapa przystanków i tras (OSM, bo GTFS nie ma geometrii)
-5. ⏭️ Odjazdy na żywo z API Habara, za flagą — może zniknąć bez ostrzeżenia
-6. ⏭️ Ciemny motyw — `DarkScheme` jest w `Theme.kt`, wymaga przejścia testowego
+5. ❌ Odjazdy na żywo — odrzucone: KM Rybnik nie ma danych GPS (patrz ograniczenia)
+6. ✅ Ciemny motyw + przełącznik jasny / ciemny / jak system
 7. ⏭️ Widget na pulpit: najbliższy wywóz + smog
 8. ⏭️ Zgłaszanie usterek do miasta (wymaga backendu)
 

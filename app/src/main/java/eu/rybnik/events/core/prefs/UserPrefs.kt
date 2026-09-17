@@ -17,6 +17,12 @@ private val Context.dataStore: DataStore<Preferences> by preferencesDataStore(na
 /** Which waste schedule model applies to the user's building. */
 enum class HouseType { SINGLE_FAMILY, MULTI_FAMILY }
 
+enum class ThemeMode(val label: String) {
+    SYSTEM("Jak system"),
+    LIGHT("Jasny"),
+    DARK("Ciemny"),
+}
+
 data class WasteAddress(
     val district: String,
     val street: String,
@@ -39,6 +45,7 @@ data class Settings(
     val smogThreshold: Int = DEFAULT_SMOG_THRESHOLD,
     /** Hour of the evening before collection when the waste reminder fires. */
     val wasteReminderHour: Int = DEFAULT_WASTE_HOUR,
+    val themeMode: ThemeMode = ThemeMode.SYSTEM,
 ) {
     companion object {
         const val DEFAULT_SMOG_THRESHOLD = 80
@@ -59,6 +66,8 @@ class UserPrefs(private val context: Context) {
             notifyCityAlerts = p[KEY_NOTIFY_ALERTS] ?: true,
             smogThreshold = p[KEY_SMOG_THRESHOLD] ?: Settings.DEFAULT_SMOG_THRESHOLD,
             wasteReminderHour = p[KEY_WASTE_HOUR] ?: Settings.DEFAULT_WASTE_HOUR,
+            themeMode = runCatching { ThemeMode.valueOf(p[KEY_THEME].orEmpty()) }
+                .getOrDefault(ThemeMode.SYSTEM),
         )
     }
 
@@ -108,6 +117,10 @@ class UserPrefs(private val context: Context) {
         p[KEY_WASTE_HOUR] = hour
     }
 
+    suspend fun setThemeMode(mode: ThemeMode) = context.dataStore.edit { p ->
+        p[KEY_THEME] = mode.name
+    }
+
     enum class NotifyChannel(internal val key: Preferences.Key<Boolean>) {
         Waste(KEY_NOTIFY_WASTE),
         Events(KEY_NOTIFY_EVENTS),
@@ -129,3 +142,4 @@ private val KEY_NOTIFY_SMOG = booleanPreferencesKey("notify_smog")
 private val KEY_NOTIFY_ALERTS = booleanPreferencesKey("notify_alerts")
 private val KEY_SMOG_THRESHOLD = intPreferencesKey("smog_threshold")
 private val KEY_WASTE_HOUR = intPreferencesKey("waste_hour")
+private val KEY_THEME = stringPreferencesKey("theme_mode")
