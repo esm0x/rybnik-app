@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T17:04:45",
+  "generated_at": "2026-09-17T21:26:29",
   "count": 77,
   "failures": [
     {
@@ -8,6 +8,46 @@
     }
   ],
   "items": [
+    {
+      "id": "0e685cbf180bd0dde2c191ac00058338c4cd4517",
+      "title": "Śląska droga do Solidarności w Kopalni Ignacy",
+      "summary": "Solidarność miała swoje początki także w Jastrzębiu‑Zdroju. To tutaj górnicy jastrzębskich kopalń strajkowali w sierpniu i na początku września 1980 roku, tworząc jeden z kluczowych momentów na drodze Polski do wolności. Już wkrótce będzie można wrócić do tamtych dni w wyjątkowy sposób. Zabytkowa…",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251009-slaska-droga-do-solidarnosci-w-kopalni-ignacy.html",
+      "published": "2026-09-17T20:41",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6e08f395b3b0df66ee5864c3168a83271986e7de",
+      "title": "Śmiertelny wypadek w kopalni JSW",
+      "summary": "Tragiczny wypadek wydarzył się w czwartek w Ruchu Szczygłowice kopalni Knurów-Szczygłowice, należącej do Jastrzębskiej Spółki Węglowej. Podczas prac pod ziemią górnik doznał ciężkiego urazu. Mimo podjętej akcji ratunkowej jego życia nie udało się uratować.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251008-smiertelny-wypadek-w-kopalni-jsw.html",
+      "published": "2026-09-17T20:10",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "25cb62f8a640c9041db5a85c5dc99b9aa932e7e7",
+      "title": "\"Więcej zrozumienia, mniej kłótni\". To recepta na szczęśliwe pożycie przez pół wieku [WIDEO]",
+      "summary": "Anna oczarowała Zdzisława na wczasach, choć była od niego 8 lat młodsza. Stanisław zakochał się w Ewie od pierwszego spojrzenia. Wanda z Romanem mieli wesele w lesie. Agnieszka i Roman czekali ze ślubem ledwie miesiąc. Maria i Józef lubią rozwiązywać problemy jak najszybciej. Na związku Urszuli i…",
+      "link": "https://www.nowiny.pl/wiadomosci/251007-wiecej-zrozumienia-mniej-klotni-to-recepta-na-szczesliwe-pozycie-przez-pol-wieku-wideo.html",
+      "published": "2026-09-17T18:44",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "94ba6f23a9b8e028476dbe62701de9760d4192a7",
+      "title": "Wiceminister MSWiA zabiera głos w sprawie sekretarza Krzyżanowic. Czy można obsadzić stanowisko bez konkursu?",
+      "summary": "Wracamy do sprawy sekretarza gminy Krzyżanowice. Po naszych publikacjach dotyczących powierzenia stanowiska Monice Szczęsny bez otwartego i konkurencyjnego naboru, sprawą zainteresował się poseł Michał Woś. Parlamentarzysta skierował do Ministerstwa Spraw Wewnętrznych i Administracji interpelację…",
+      "link": "https://www.nowiny.pl/wiadomosci/250997-wiceminister-mswia-zabiera-glos-w-sprawie-sekretarza-krzyzanowic-czy-mozna-obsadzic-stanowisko-bez-konkursu.html",
+      "published": "2026-09-17T17:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "9ed7ba3dcebec2621fe0d6e073fd86a82508ca94",
       "title": "Wodzisław uczci 87. rocznicę powstania Polskiego Państwa Podziemnego",
@@ -94,46 +134,6 @@
       "summary": "Nieruchomości Purmo Group w Rybniku i Wałczu zmieniły właściciela. Amerykańska firma inwestycyjna W. P. Carey zapłaciła za oba kompleksy łącznie 52 mln euro. Nie oznacza to jednak wyprowadzki Purmo. Producent od razu wynajął sprzedane obiekty na 20 lat i nadal będzie z nich korzystać.",
       "link": "https://www.nowiny.pl/wiadomosci/250996-amerykanski-inwestor-kupil-nieruchomosci-w-rybniku-i-walczu-transakcja-opiewa-na-kwote-52-mln-euro.html",
       "published": "2026-09-17T08:59",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0957418dc245dbcc90a886f92a6be1ed231a73fa",
-      "title": "Ponad 300 seniorów bawiło się w żorskiej Arkadii",
-      "summary": "Sala „Arkadia” wypełniła się żorskimi seniorami. Do wspólnej zabawy zagrał im duet Monika i Leszek Filcowie.",
-      "link": "https://ezory.pl/wiadomosci/250995-ponad-300-seniorow-bawilo-sie-w-zorskiej-arkadii.html",
-      "published": "2026-09-17T08:39",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3e21ca6763b0b01d19825fa913e3a1af424cdd4d",
-      "title": "W Łańcach powstała muszla koncertowa. Będą tu koncerty i wydarzenia [ZDJĘCIA]",
-      "summary": "Łańce (gm. Kornowac) zyskały nowe miejsce na koncerty i lokalne wydarzenia. W sąsiedztwie domu kultury powstała muszla koncertowa, która będzie wykorzystywana także podczas spotkań i innych inicjatyw.",
-      "link": "https://www.nowiny.pl/wiadomosci/250994-w-lancach-powstala-muszla-koncertowa-beda-tu-koncerty-i-wydarzenia-zdjecia.html",
-      "published": "2026-09-17T08:34",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "288216a33b616b3d015a8f6a7bd61167f7eb6ffb",
-      "title": "Wypadek na ulicy 26 marca w Wodzisławiu Śląskim. 13-latek na rowerze elektrycznym uderzył w auto",
-      "summary": "Nastolatek trafił do szpitala po zdarzeniu na ulicy 26 Marca w Wodzisławiu Śląskim. Chłopiec poruszający się rowerem elektrycznym najechał na tył samochodu, który zatrzymał się przed przejściem dla pieszych.",
-      "link": "https://www.nowiny.pl/wiadomosci/250992-wypadek-na-ulicy-26-marca-w-wodzislawiu-slaskim-13-latek-na-rowerze-elektrycznym-uderzyl-w-auto.html",
-      "published": "2026-09-17T08:26",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c124332cc72e1ee9d5da27865c96786ccb423088",
-      "title": "Kontrola celno-skarbowa w zakresie VAT - jakie dokumenty i transakcje są najczęściej analizowane",
-      "summary": "Kontrola VAT prowadzona przez urząd celno-skarbowy zwykle nie ogranicza się do sprawdzenia deklaracji. W praktyce organ bada, czy transakcje miały realny przebieg, czy kontrahenci istnieli operacyjnie, czy płatności odpowiadają fakturom oraz czy podatnik nie uczestniczył, świadomie albo…",
-      "link": "https://www.nowiny.pl/wiadomosci/250991-kontrola-celno-skarbowa-w-zakresie-vat-jakie-dokumenty-i-transakcje-sa-najczesciej-analizowane.html",
-      "published": "2026-09-17T08:15",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
