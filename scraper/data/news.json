@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T11:21:06",
+  "generated_at": "2026-09-18T16:28:26",
   "count": 75,
   "failures": [
     {
@@ -8,6 +8,36 @@
     }
   ],
   "items": [
+    {
+      "id": "56f0336415ada2469067ed82ae5a6e98c93f1d06",
+      "title": "V OFF-ka już wkrótce porwie mieszkańców w teatralną podróż",
+      "summary": "Raciborskie centrum Kultury zaprasza serdecznie na V edycję Ogólnopolskiego Festiwalu Teatralnego OFF-ka 2026. Tym razem święto teatru w Raciborzu potrwa od czwartku 24.09 do poniedziałku 28.09.2026. Wspólnie z dyrektor artystyczną Festiwalu Grażyną Tabor przygotowaliśmy program, który mamy…",
+      "link": "https://www.nowiny.pl/nie-przegap/251025-v-off-ka-juz-wkrotce-porwie-mieszkancow-w-teatralna-podroz.html",
+      "published": "2026-09-18T13:29",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "063d484b58bd6a63796bd984813b0d00fb91d779",
+      "title": "RowerON 2026: Znamy nagrodzonych w Challenge 60 km”!",
+      "summary": "Kilkadziesiąt osób wzięło udział w Challenge 60 km w ramach RowerON 2026 – największej imprezy rowerowej w regionie. Gratulujemy wszystkim udziału. Mamy nadzieję, że świetnie spędziliście czas podczas realizacji wyzwania. Przypomnijmy, że uczestnicy musieli przejechać od 12-13 września min. 60 km…",
+      "link": "https://www.nowiny.pl/nie-przegap/251024-roweron-2026-znamy-nagrodzonych-w-challenge-60-km.html",
+      "published": "2026-09-18T12:47",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3a214cc2942036c36b0dc2509d131f708ff979d4",
+      "title": "JSW ma przetrwać, ale co dalej? Minister mówi o przyszłości spółki",
+      "summary": "Najpierw było pytanie, czy JSW przetrwa. Teraz coraz częściej pojawia się kolejne: jaka będzie ta spółka po kryzysie? Prawie rok po rozmowie Wojciecha Balczuna z Nowinami.pl minister ponownie mówi o strategicznym znaczeniu jastrzębskiej firmy, ale załoga i region czekają już nie tylko na…",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251023-jsw-ma-przetrwac-ale-co-dalej-minister-mowi-o-przyszlosci-spolki.html",
+      "published": "2026-09-18T11:31",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "765b6d5f91a2d29b65a1b6ecb1181d3e72198449",
       "title": "Bez stresu i bez tajemnic. Raciborska porodówka od środka",
@@ -154,36 +184,6 @@
       "summary": "Solidarność miała swoje początki także w Jastrzębiu‑Zdroju. To tutaj górnicy jastrzębskich kopalń strajkowali w sierpniu i na początku września 1980 roku, tworząc jeden z kluczowych momentów na drodze Polski do wolności. Już wkrótce będzie można wrócić do tamtych dni w wyjątkowy sposób. Zabytkowa…",
       "link": "https://jastrzebieonline.pl/wiadomosci/251009-slaska-droga-do-solidarnosci-w-kopalni-ignacy.html",
       "published": "2026-09-17T20:41",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6e08f395b3b0df66ee5864c3168a83271986e7de",
-      "title": "Śmiertelny wypadek w kopalni JSW",
-      "summary": "Tragiczny wypadek wydarzył się w czwartek w Ruchu Szczygłowice kopalni Knurów-Szczygłowice, należącej do Jastrzębskiej Spółki Węglowej. Podczas prac pod ziemią górnik doznał ciężkiego urazu. Mimo podjętej akcji ratunkowej jego życia nie udało się uratować.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251008-smiertelny-wypadek-w-kopalni-jsw.html",
-      "published": "2026-09-17T20:10",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "25cb62f8a640c9041db5a85c5dc99b9aa932e7e7",
-      "title": "\"Więcej zrozumienia, mniej kłótni\". To recepta na szczęśliwe pożycie przez pół wieku [WIDEO]",
-      "summary": "Anna oczarowała Zdzisława na wczasach, choć była od niego 8 lat młodsza. Stanisław zakochał się w Ewie od pierwszego spojrzenia. Wanda z Romanem mieli wesele w lesie. Agnieszka i Roman czekali ze ślubem ledwie miesiąc. Maria i Józef lubią rozwiązywać problemy jak najszybciej. Na związku Urszuli i…",
-      "link": "https://www.nowiny.pl/wiadomosci/251007-wiecej-zrozumienia-mniej-klotni-to-recepta-na-szczesliwe-pozycie-przez-pol-wieku-wideo.html",
-      "published": "2026-09-17T18:44",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "94ba6f23a9b8e028476dbe62701de9760d4192a7",
-      "title": "Wiceminister MSWiA zabiera głos w sprawie sekretarza Krzyżanowic. Czy można obsadzić stanowisko bez konkursu?",
-      "summary": "Wracamy do sprawy sekretarza gminy Krzyżanowice. Po naszych publikacjach dotyczących powierzenia stanowiska Monice Szczęsny bez otwartego i konkurencyjnego naboru, sprawą zainteresował się poseł Michał Woś. Parlamentarzysta skierował do Ministerstwa Spraw Wewnętrznych i Administracji interpelację…",
-      "link": "https://www.nowiny.pl/wiadomosci/250997-wiceminister-mswia-zabiera-glos-w-sprawie-sekretarza-krzyzanowic-czy-mozna-obsadzic-stanowisko-bez-konkursu.html",
-      "published": "2026-09-17T17:00",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
