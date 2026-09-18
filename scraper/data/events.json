@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:26:57",
+  "generated_at": "2026-09-18T20:57:00",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,41 +7,24 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 135,
-  "failures": [],
-  "events": [
+  "count": 134,
+  "failures": [
     {
-      "id": "iryb-galeria-pod-oknem-wernisaz-anny-sosnowskiej",
-      "title": "Galeria pod Oknem: wernisaż Anny Sosnowskiej",
-      "category": "Wystawa",
-      "start": "2026-09-18T17:00",
-      "end": null,
-      "venue": "Dom Kultury Boguszowice",
-      "description": "W Galerii pod Oknem będzie można spotkać się ze sztuką Anny Sosnowskiej – artystki samouka, która po latach powróciła do swojej dziecięcej pasji. Wernisaż odbędzie się 18 września w Domu Kultury Boguszowice. Warto zajrzeć i zobaczyć, jak codzienność, pejzaże oraz ludzie wyglądają w jej malarskiej interpretacji. Anna Sosnowska najchętniej wybiera realizm. Na jej obrazach pojawiają się pejzaże, architektura i ludzie, a do pracy wykorzystuje między innymi farby akrylowe, pastele oraz techniki mieszane. Swoje umiejętności rozwijała podczas zajęć plastycznych w Domu Kultury i w grupie Creatio. Jest także laureatką konkursów artystycznych, w tym międzynarodowego konkursu „Zapachy życia”. Wernisaż będzie okazją nie tylko do obejrzenia obrazów, ale też do poznania historii pasji, która po latach znów znalazła ważne miejsce w życiu artystki. To kameralne spotkanie dla osób zainteresowanych malarstwem, lokalną twórczością i chwilą oddechu od codziennych spraw.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/galeria-pod-oknem-wernisaz-anny-sosnowskiej"
-    },
+      "source": "DK Niedobczyce",
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='dkniedobczyce.pl', port=443): Max retries exceeded with url: /terminarz/?ical=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='dkniedobczyce.pl', port=443) at 0x7fcacd677ad0>, 'Connection to dkniedobczyce.pl timed out. (connect timeout=30)'))"
+    }
+  ],
+  "events": [
     {
       "id": "iryb-filmowy-zefir-greckie-lato-w-rytmie-abby-bezplatny-seans-fil",
       "title": "Filmowy Zefir - greckie lato w rytmie ABBY | bezpłatny seans filmowy w Rybniku",
       "category": "Film",
       "start": "2026-09-18T18:00",
-      "end": "2026-09-18T19:30",
-      "venue": "Dom Kultury Boguszowice",
+      "end": null,
+      "venue": "Rybnik",
       "description": "Po wakacyjnej przerwie Filmowy Zefir wraca z seansem, który pachnie słońcem, morzem i letnią przygodą. 18 września na Placu Pokoju w Rybniku będzie można bezpłatnie obejrzeć pełną muzyki i rodzinnych zamieszań komedię „Mamma Mia!” . Warto dołączyć do tego filmowego wieczoru pod gołym niebem! Udział w seansie jest bezpłatny, a wydarzenie nie wymaga kupowania biletów. Film zabierze widzów na skąpaną w słońcu grecką wyspę, gdzie białe domki kontrastują z błękitem morza, a przygotowania do ślubu szybko zmieniają się w pełną emocji rodzinną historię. Wszystko za sprawą panny młodej, która próbuje ustalić, który z trzech mężczyzn może być jej ojcem. Efekt? Sporo humoru, wzruszeń i zamieszania, którego nie da się tak łatwo zatrzymać. Na ekranie pojawią się między innymi Meryl Streep, Amanda Seyfried, Pierce Brosnan, Colin Firth i Stellan Skarsgård . Do tego dochodzą największe przeboje zespołu ABBA – muzyka, przy której trudno spokojnie usiedzieć, nawet podczas seansu.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/filmowy-zefir-greckie-lato-w-rytmie-abby-bezplatny-seans-filmowy-w-rybniku"
-    },
-    {
-      "id": "dk-chw-plejada-fajnych-filmow-20260918",
-      "title": "Plejada Fajnych Filmów",
-      "category": "Film",
-      "start": "2026-09-18T18:00",
-      "end": null,
-      "venue": "Dom Kultury Rybnik-Chwałowice",
-      "description": "W piątek, 18 września 2026 roku o godz. 18:00, Plejada Fajnych Filmów wraca po wakacyjnej przerwie!",
-      "sourceName": "DK Chwałowice",
-      "sourceUrl": "https://www.dkchwalowice.pl/?news=51510"
     },
     {
       "id": "iryb-darmowy-koncert-igua-w-rybniku",
@@ -59,7 +42,7 @@
       "title": "Michał Wiśniewski — koncert akustyczny w Rybniku, 18 września 2026",
       "category": "Koncert",
       "start": "2026-09-18T19:00",
-      "end": "2026-09-18T20:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Niezwykły, akustyczny wieczór z Michałem Wiśniewskim — mniej prądu, więcej emocji i znane przeboje w nowych aranżacjach. Warto zarezerwować sobie ten piątkowy wieczór i posłuchać klasyków Ich Troje w kameralnym klimacie. To będzie pierwsza odsłona akustycznych koncertów Michała Wiśniewskiego — znane hity w wersjach bardziej intymnych i kilka rzadziej granych numerów. Usłyszymy przeboje takie jak Powiedz , Zawsze z Tobą chciałbym być , Kochaj mnie, kochaj czy Keine Grenzen , a także utwory, które rzadziej padają w setliście, np. Nienawiść , Czekanie , Papierosy, wódka, sex czy Zawsze naprzód, nigdy wstecz . Aranżacje akustyczne mają wydobyć teksty i emocje — idealne na spokojniejszy wieczór z muzyką. Organizatorem wydarzenia jest zespół związany z Michałem Wiśniewskim (szczegóły organizacyjne i informacje o sprzedaży biletów na oficjalnych kanałach artysty).",
       "sourceName": "iRybnik",
@@ -812,6 +795,17 @@
       "description": "Bezpieczeństwo osób starszych będzie tematem spotkania „Bezpieczny Senior - na drodze i w sieci”, które odbędzie się w Czerwionce-Leszczynach. Wydarzenie ma pomóc seniorom zdobyć praktyczną wiedzę i przypomnieć najważniejsze zasady bezpiecznego poruszania się po drodze oraz korzystania z internetu. Wydarzenie będzie poświęcone bezpieczeństwu seniorów w dwóch ważnych obszarach: na drodze i w internecie. Uczestnicy będą mogli poszerzyć swoją wiedzę oraz przypomnieć sobie zasady, które pomagają unikać zagrożeń w codziennym życiu. Spotkanie ma mieć praktyczny charakter i skupiać się na informacjach przydatnych osobom starszym. Organizatorzy chcą zwrócić uwagę na najważniejsze kwestie związane z bezpieczeństwem oraz zachęcić do ostrożności zarówno podczas poruszania się po drodze, jak i korzystania z sieci. Gościem specjalnym wydarzenia będzie Mirosław Szołtysek .",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/bezpieczny-senior-na-drodze-i-w-sieci"
+    },
+    {
+      "id": "dk-chw-plejada-fajnych-filmow-20261016",
+      "title": "Plejada Fajnych Filmów",
+      "category": "Film",
+      "start": "2026-10-16T18:00",
+      "end": null,
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "Plejada Fajnych Filmów w październiku zaprasza tym razem do niezwykłego świata na pograniczu romansu, fantasy i mrocznej baśni. Seans w piątek 16 października 2026 roku o 18:00 , wstęp wolny.",
+      "sourceName": "DK Chwałowice",
+      "sourceUrl": "https://www.dkchwalowice.pl/?news=51803"
     },
     {
       "id": "iryb-rybska-klub-odyseja-w-rybniku",

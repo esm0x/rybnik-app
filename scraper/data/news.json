@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:28:26",
+  "generated_at": "2026-09-18T20:58:15",
   "count": 75,
   "failures": [
     {
@@ -8,6 +8,26 @@
     }
   ],
   "items": [
+    {
+      "id": "f04d08abf7c7ce8e0ddd8e01f5ed035e17441d5d",
+      "title": "Ostatni taniec industrialnego Hoyma. Pięć zespołów pożegna festiwal w Rybniku",
+      "summary": "Po dziewięciu latach działalności HOYM Industry FEST kończy swoją historię. W sobotę 26 września w klubie Odyseja w Rybniku odbędzie się koncert „Hoym :: The Last Dance”, podczas którego wystąpi pięć zespołów związanych z muzyką industrialną, elektroniką i alternatywą.",
+      "link": "https://www.nowiny.pl/wiadomosci/251015-ostatni-taniec-industrialnego-hoyma-piec-zespolow-pozegna-festiwal-w-rybniku.html",
+      "published": "2026-09-18T19:23",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "47f11f0356b49e60c5d1ea321486348048336fe0",
+      "title": "PARADA MUZYCZNA ULICAMI RACIBORZA - V Ogólnopolski Festiwal Teatralny OFF-ka",
+      "summary": "Trzeciego dnia OFF-ki czyli V Ogólnopolskiego Festiwalu Teatralnego, w sobotę 26 września, Raciborskie Centrum Kultury zaprasza na PARADĘ MUZYCZNĄ ulicami Raciborza z Kwartetem Wiejskim. Parada rozpocznie się o 16:00 spod budynku RCK RDK, ul. Chopina 21.",
+      "link": "https://www.nowiny.pl/nie-przegap/251026-parada-muzyczna-ulicami-raciborza-v-ogolnopolski-festiwal-teatralny-off-ka.html",
+      "published": "2026-09-18T18:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "56f0336415ada2469067ed82ae5a6e98c93f1d06",
       "title": "V OFF-ka już wkrótce porwie mieszkańców w teatralną podróż",
@@ -129,16 +149,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "2827bb82c0b58472248c97e0f14f245bcb37d4ba",
-      "title": "Nie wydał nikogo, choć był torturowany. Historia Władysława Kuboszka, pierwszego inspektora AK w Rybniku",
-      "summary": "Pierwszy rybnicki inspektor Armii Krajowej do końca pozostał niezłomny. Władysław Kuboszek nawet podczas okrutnych przesłuchań nie wydał nikogo ze swoich towarzyszy.",
-      "link": "https://historion.pl/historia/251010-nie-wydal-nikogo-choc-byl-torturowany-historia-wladyslawa-kuboszka-pierwszego-inspektora-ak-w-rybniku.html",
-      "published": "2026-09-18T06:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "f40e419e6ecb586444c970f72b3bb7d650a2b793",
       "title": "Rusza budowa łącznika ulic Kominka i Orzepowickiej",
       "summary": "Od poniedziałku 21 września ulica Jośki zostanie częściowo zamknięta z powodu prac rozbiórkowych i budowy kanalizacji deszczowej. Sprawdź, jak dojechać do Młodzieżowego Domu Kultury na czas trwania robót.",
@@ -176,16 +186,6 @@
       "published": "2026-09-18T00:00",
       "source": "rybnik.eu",
       "category": "Kultura",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0e685cbf180bd0dde2c191ac00058338c4cd4517",
-      "title": "Śląska droga do Solidarności w Kopalni Ignacy",
-      "summary": "Solidarność miała swoje początki także w Jastrzębiu‑Zdroju. To tutaj górnicy jastrzębskich kopalń strajkowali w sierpniu i na początku września 1980 roku, tworząc jeden z kluczowych momentów na drodze Polski do wolności. Już wkrótce będzie można wrócić do tamtych dni w wyjątkowy sposób. Zabytkowa…",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251009-slaska-droga-do-solidarnosci-w-kopalni-ignacy.html",
-      "published": "2026-09-17T20:41",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
