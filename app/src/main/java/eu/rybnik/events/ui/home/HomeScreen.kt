@@ -19,6 +19,7 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.outlined.Air
 import androidx.compose.material.icons.outlined.CalendarMonth
+import androidx.compose.material.icons.outlined.Bolt
 import androidx.compose.material.icons.outlined.Delete
 import androidx.compose.material.icons.outlined.DirectionsBus
 import androidx.compose.material.icons.outlined.Refresh
@@ -51,6 +52,9 @@ import eu.rybnik.events.Graph
 import eu.rybnik.events.data.Event
 import eu.rybnik.events.data.air.AirState
 import eu.rybnik.events.data.news.NewsItem
+import eu.rybnik.events.data.outages.Match
+import eu.rybnik.events.data.outages.Outage
+import eu.rybnik.events.data.outages.OutageKind
 import eu.rybnik.events.data.transit.Departure
 import eu.rybnik.events.data.waste.Collection
 import eu.rybnik.events.ui.common.DAY_FMT
@@ -62,7 +66,9 @@ import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
+import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.flow.first
+import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
 import java.time.LocalDate
@@ -75,6 +81,7 @@ data class HomeUi(
     val favouriteStop: String? = null,
     val nextEvents: List<Event> = emptyList(),
     val alerts: List<NewsItem> = emptyList(),
+    val outages: List<Outage> = emptyList(),
     val refreshing: Boolean = false,
 )
 
@@ -86,7 +93,14 @@ class HomeViewModel : ViewModel() {
         viewModelScope.launch {
             Graph.airRepo.state.collect { air -> _ui.update { it.copy(air = air) } }
         }
-        refresh()
+        // The dashboard is kept alive in the back stack, so without watching settings it
+        // would keep showing "pick an address" after the user has just picked one.
+        viewModelScope.launch {
+            Graph.prefs.settings
+                .map { it.wasteAddress to it.favouriteStopIds }
+                .distinctUntilChanged()
+                .collect { refresh() }
+        }
     }
 
     /** Departures only — cheap enough to tick on a timer, unlike the full network refresh. */
@@ -122,6 +136,9 @@ class HomeViewModel : ViewModel() {
 
             val alerts = Graph.newsRepo.currentAlerts()
 
+            Graph.outageRepo.refresh(settings.wasteAddress)
+            val outages = Graph.outageRepo.state.value.outages
+
             _ui.update {
                 it.copy(
                     nextWaste = waste,
@@ -130,6 +147,7 @@ class HomeViewModel : ViewModel() {
                     favouriteStop = stopName,
                     nextEvents = events,
                     alerts = alerts,
+                    outages = outages,
                     refreshing = false,
                 )
             }
@@ -186,6 +204,8 @@ fun HomeScreen(
         ) {
             item { AirCard(ui.air, onOpenAir) }
 
+            items(ui.outages.size) { i -> OutageCard(ui.outages[i]) }
+
             if (ui.alerts.isNotEmpty()) {
                 item {
                     AlertCarousel(ui.alerts, onOpenNews)
@@ -197,6 +217,54 @@ fun HomeScreen(
             item { TransitCard(ui.favouriteStop, ui.departures, onOpenTransit) }
 
             item { EventsCard(ui.nextEvents, onEventClick, onOpenEvents) }
+        }
+    }
+}
+
+/** Power cuts affecting the saved address. Absent entirely when there are none. */
+@Composable
+private fun OutageCard(outage: Outage) {
+    val planned = outage.kind == OutageKind.PLANNED
+    Card(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(horizontal = 16.dp),
+        shape = RoundedCornerShape(18.dp),
+        colors = CardDefaults.cardColors(
+            containerColor = MaterialTheme.colorScheme.errorContainer,
+            contentColor = MaterialTheme.colorScheme.onErrorContainer,
+        ),
+    ) {
+        Column(Modifier.padding(16.dp)) {
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Icon(Icons.Outlined.Bolt, null, Modifier.size(18.dp))
+                Spacer(Modifier.width(8.dp))
+                Text(
+                    if (planned) "Planowane wyłączenie prądu" else "Awaria zasilania",
+                    style = MaterialTheme.typography.labelLarge,
+                    fontWeight = FontWeight.SemiBold,
+                )
+            }
+            Spacer(Modifier.height(6.dp))
+            Text(
+                buildString {
+                    append(outage.from.toLocalDate().humanLabel())
+                    append(", ")
+                    append(outage.from.toLocalTime().format(TIME_FMT))
+                    outage.to?.let { append(" – ${it.toLocalTime().format(TIME_FMT)}") }
+                },
+                style = MaterialTheme.typography.titleSmall,
+            )
+            if (outage.match == Match.STREET) {
+                Spacer(Modifier.height(4.dp))
+                Text(
+                    "Wymieniono Twoją ulicę, ale nie udało się odczytać numerów — " +
+                        "sprawdź opis.",
+                    style = MaterialTheme.typography.labelSmall,
+                )
+            }
+            Spacer(Modifier.height(6.dp))
+            Text(outage.message, style = MaterialTheme.typography.bodySmall, maxLines = 3)
         }
     }
 }

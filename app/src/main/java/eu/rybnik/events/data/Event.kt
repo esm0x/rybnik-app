@@ -33,3 +33,19 @@ interface EventRepository {
     val events: Flow<List<Event>>
     fun getById(id: String): Event?
 }
+
+enum class EventTiming { UPCOMING, ONGOING, FINISHED }
+
+/**
+ * Only about half the sources give an end time, so when it is missing assume a typical
+ * two-hour slot rather than treating the event as instantaneous — otherwise a concert
+ * would flip to "finished" the minute it starts.
+ */
+fun Event.timing(now: LocalDateTime = LocalDateTime.now()): EventTiming {
+    val finish = end ?: start.plusHours(2)
+    return when {
+        now.isBefore(start) -> EventTiming.UPCOMING
+        now.isAfter(finish) -> EventTiming.FINISHED
+        else -> EventTiming.ONGOING
+    }
+}

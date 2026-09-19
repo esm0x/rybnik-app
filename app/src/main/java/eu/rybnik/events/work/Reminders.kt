@@ -17,6 +17,7 @@ import androidx.work.WorkerParameters
 import eu.rybnik.events.Graph
 import eu.rybnik.events.R
 import eu.rybnik.events.data.air.AirSeverity
+import eu.rybnik.events.data.outages.OutageKind
 import kotlinx.coroutines.flow.first
 import java.time.Duration
 import java.time.LocalDate
@@ -30,6 +31,7 @@ object Reminders {
     const val CHANNEL_EVENTS = "events"
     const val CHANNEL_SMOG = "smog"
     const val CHANNEL_ALERTS = "alerts"
+    const val CHANNEL_OUTAGES = "outages"
 
     fun createChannels(context: Context) {
         if (Build.VERSION.SDK_INT < Build.VERSION_CODES.O) return
@@ -39,6 +41,7 @@ object Reminders {
             Triple(CHANNEL_EVENTS, "Ulubione wydarzenia", "Przypomnienie dzień przed wydarzeniem"),
             Triple(CHANNEL_SMOG, "Jakość powietrza", "Ostrzeżenia o smogu"),
             Triple(CHANNEL_ALERTS, "Komunikaty miejskie", "Awarie i utrudnienia"),
+            Triple(CHANNEL_OUTAGES, "Wyłączenia prądu", "Wyłączenia pod Twoim adresem"),
         ).forEach { (id, name, desc) ->
             mgr.createNotificationChannel(
                 NotificationChannel(id, name, NotificationManager.IMPORTANCE_DEFAULT).apply {
@@ -101,6 +104,7 @@ class DailyReminderWorker(
         if (settings.notifyEvents) runCatching { checkEvents() }
         if (settings.notifySmog) runCatching { checkSmog(settings.smogThreshold) }
         if (settings.notifyCityAlerts) runCatching { checkAlerts() }
+        if (settings.notifyOutages) runCatching { checkOutages() }
 
         return Result.success()
     }
@@ -166,10 +170,28 @@ class DailyReminderWorker(
         )
     }
 
+    /** Only warn about cuts starting within the next two days — earlier is just noise. */
+    private suspend fun checkOutages() {
+        val address = Graph.prefs.settings.first().wasteAddress ?: return
+        Graph.outageRepo.refresh(address)
+        val soon = LocalDate.now().plusDays(2)
+        val due = Graph.outageRepo.state.value.outages
+            .filter { !it.from.toLocalDate().isAfter(soon) }
+        val next = due.firstOrNull() ?: return
+
+        Reminders.notify(
+            applicationContext, Reminders.CHANNEL_OUTAGES, NOTIF_OUTAGES,
+            if (next.kind == OutageKind.PLANNED) "Planowane wyłączenie prądu"
+            else "Awaria zasilania",
+            "${next.from.toLocalDate()} ${next.from.toLocalTime()} — ${address.pretty}",
+        )
+    }
+
     private companion object {
         const val NOTIF_WASTE = 1001
         const val NOTIF_EVENTS = 1002
         const val NOTIF_SMOG = 1003
         const val NOTIF_ALERTS = 1004
+        const val NOTIF_OUTAGES = 1005
     }
 }

@@ -28,6 +28,7 @@ import eu.rybnik.events.ui.home.HomeScreen
 import eu.rybnik.events.ui.more.AirScreen
 import eu.rybnik.events.ui.more.MoreScreen
 import eu.rybnik.events.ui.more.SettingsScreen
+import eu.rybnik.events.ui.more.SupportScreen
 import eu.rybnik.events.ui.news.NewsScreen
 import eu.rybnik.events.ui.transit.TransitScreen
 import eu.rybnik.events.ui.waste.AddressPickerScreen
@@ -49,6 +50,7 @@ private object Routes {
     const val SETTINGS = "settings"
     const val FAVOURITES = "favourites"
     const val ADDRESS = "address"
+    const val SUPPORT = "support"
     const val EVENT_DETAIL = "event/{id}"
     fun event(id: String) = "event/$id"
 }
@@ -116,10 +118,13 @@ fun RybnikApp() {
                     onOpenAir = { navController.navigate(Routes.AIR) },
                     onOpenFavourites = { navController.navigate(Routes.FAVOURITES) },
                     onOpenSettings = { navController.navigate(Routes.SETTINGS) },
+                    onOpenSupport = { navController.navigate(Routes.SUPPORT) },
                 )
             }
 
             composable(Routes.NEWS) { NewsScreen() }
+
+            composable(Routes.SUPPORT) { SupportScreen(onBack = { navController.popBackStack() }) }
 
             composable(Routes.AIR) { AirScreen(onBack = { navController.popBackStack() }) }
 

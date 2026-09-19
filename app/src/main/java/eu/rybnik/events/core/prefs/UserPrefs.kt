@@ -41,6 +41,7 @@ data class Settings(
     val notifyEvents: Boolean = true,
     val notifySmog: Boolean = true,
     val notifyCityAlerts: Boolean = true,
+    val notifyOutages: Boolean = true,
     /** PM10 µg/m³ above which we raise a smog notification. */
     val smogThreshold: Int = DEFAULT_SMOG_THRESHOLD,
     /** Hour of the evening before collection when the waste reminder fires. */
@@ -64,6 +65,7 @@ class UserPrefs(private val context: Context) {
             notifyEvents = p[KEY_NOTIFY_EVENTS] ?: true,
             notifySmog = p[KEY_NOTIFY_SMOG] ?: true,
             notifyCityAlerts = p[KEY_NOTIFY_ALERTS] ?: true,
+            notifyOutages = p[KEY_NOTIFY_OUTAGES] ?: true,
             smogThreshold = p[KEY_SMOG_THRESHOLD] ?: Settings.DEFAULT_SMOG_THRESHOLD,
             wasteReminderHour = p[KEY_WASTE_HOUR] ?: Settings.DEFAULT_WASTE_HOUR,
             themeMode = runCatching { ThemeMode.valueOf(p[KEY_THEME].orEmpty()) }
@@ -126,6 +128,7 @@ class UserPrefs(private val context: Context) {
         Events(KEY_NOTIFY_EVENTS),
         Smog(KEY_NOTIFY_SMOG),
         CityAlerts(KEY_NOTIFY_ALERTS),
+        Outages(KEY_NOTIFY_OUTAGES),
     }
 }
 
@@ -140,6 +143,7 @@ private val KEY_NOTIFY_WASTE = booleanPreferencesKey("notify_waste")
 private val KEY_NOTIFY_EVENTS = booleanPreferencesKey("notify_events")
 private val KEY_NOTIFY_SMOG = booleanPreferencesKey("notify_smog")
 private val KEY_NOTIFY_ALERTS = booleanPreferencesKey("notify_alerts")
+private val KEY_NOTIFY_OUTAGES = booleanPreferencesKey("notify_outages")
 private val KEY_SMOG_THRESHOLD = intPreferencesKey("smog_threshold")
 private val KEY_WASTE_HOUR = intPreferencesKey("waste_hour")
 private val KEY_THEME = stringPreferencesKey("theme_mode")

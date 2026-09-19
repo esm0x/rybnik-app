@@ -3,7 +3,7 @@
 Natywna aplikacja Android dla mieszkańców Rybnika: wydarzenia, harmonogram odpadów,
 rozkład jazdy, lokalne wiadomości i jakość powietrza.
 
-## Stan obecny (v0.3)
+## Stan obecny (v0.4)
 
 Wszystkie moduły działają na realnych danych.
 
@@ -15,11 +15,14 @@ Wszystkie moduły działają na realnych danych.
 | **Śmieci** | 16 PDF-ów z rybnik.eu (EKO Sp. z o.o.) | 98 rejonów, 880 ulic, 27 dzielnic |
 | **Wiadomości** | Radio 90, rybnik.com.pl, rybnik.eu, nowiny.pl, tuRybnik | 120 pozycji, alerty na górze |
 | **Powietrze** | GIOŚ, stacja Rybnik-Borki (834) | PM10, PM2,5 + indeks jakości |
+| **Wyłączenia prądu** | Tauron (publiczne API `waapi`) | dopasowane do numeru domu |
 
 Powiadomienia: wywóz odpadów (wieczór przed), ulubione wydarzenie (dzień przed),
-alert smogowy (próg do ustawienia) i komunikaty miejskie.
+alert smogowy (próg do ustawienia), komunikaty miejskie oraz wyłączenia prądu
+pod zapisanym adresem.
 
 Motyw: jasny / ciemny / jak system, przełączany w Ustawieniach.
+Ekran „Wesprzyj projekt" w zakładce Więcej: buycoffee, link do repo i zgłaszanie błędów.
 
 ## Stack
 
@@ -45,8 +48,10 @@ app/src/main/java/eu/rybnik/events/
     waste/                     model + dopasowanie adresu + reguły tygodniowe
     transit/                   Room, import GTFS, wyszukiwanie odjazdów
     news/, air/
+    outages/                   Tauron + parser adresów z testami
   ui/
     home/  events/  waste/  transit/  news/  more/  common/  theme/
+    more/SupportScreen.kt      wsparcie projektu + wersja aplikacji
   work/Reminders.kt            WorkManager + kanały powiadomień
 
 scraper/
@@ -97,6 +102,25 @@ Kotlin deserializuje je 1:1.
   aplikacja próbuje kolejnych id, aż któreś odda pomiar.
 - **rybnik.eu**: nie ma RSS-a, tylko HTML. Sekcja „komunikaty" to worek na ogłoszenia,
   nie tablica awarii — o priorytecie ALERT decydują słowa kluczowe.
+- **Tauron**: w Polsce jest **pięć** miejscowości „Rybnik" — pierwsza z API to wieś
+  w łódzkiem, więc id miasta (GAID 13, śląskie) jest zaszyte na sztywno.
+  Endpoint wyłączeń przyjmuje numer domu, ale **go ignoruje** i zwraca cały rejon
+  dystrybucyjny, więc filtrowanie musi być po stronie apki. Dla wyłączeń planowanych
+  adresy istnieją wyłącznie jako tekst („Budowlanych 78, 76, 74B", „Janasa nieparzyste
+  6 do 14"), pisany ręcznie i miejscami błędny — w jednym komunikacie etykiety
+  parzystości są odwrotne do numerów. Dlatego parser traktuje parzystość jako
+  podpowiedź, która może tylko poszerzyć dopasowanie, i przy niejednoznaczności
+  ostrzega zamiast milczeć. Logika ma testy jednostkowe na prawdziwych komunikatach:
+  `app/src/test/.../OutageAddressTest.kt`.
+- **Czasy z Taurona** przychodzą ze znacznikiem `Z`. Traktujemy je jako UTC i
+  przeliczamy na strefę telefonu — warto raz porównać z witryną Taurona, czy nie
+  są to jednak godziny lokalne opisane jako UTC.
+- **GTFS, linia `-->`**: to nie jest linia pasażerska, tylko 87 kursów technicznych
+  („Wyjazd na linię", „JADA NA SZYCHTA", „Dojazd na linię Chłodnie") — puste autobusy
+  do zajezdni i zmiany kierowców. Mają jednak 174 wpisy w `stop_times` na realnych
+  przystankach, więc bez odfiltrowania pojawiały się w tablicy odjazdów. Import ją
+  pomija. **Uwaga: linia `A` to co innego** — prawdziwa linia z 54 kursami przez
+  Zamysłów i Smolną, która po prostu nie ma nazwy długiej. Nie wyrzucać.
 - **rybnik.com.pl**: potrafi zwrócić 403 w GitHub Actions, serwując ten sam adres
   bez problemu z łącza domowego. Blokada jest na zakresie IP centrów danych, nie na
   User-Agencie (sprawdzone: bot UA dostaje 200 z adresu domowego). Scraper ponawia
@@ -139,11 +163,16 @@ Kotlin deserializuje je 1:1.
 1. ✅ v0.1 — szkielet, mock dane
 2. ✅ v0.2 — realne wydarzenia z TZR
 3. ✅ v0.3 — wszystkie moduły na realnych danych + powiadomienia + smog
-4. ⏭️ Mapa przystanków i tras (OSM, bo GTFS nie ma geometrii)
-5. ❌ Odjazdy na żywo — odrzucone: KM Rybnik nie ma danych GPS (patrz ograniczenia)
-6. ✅ Ciemny motyw + przełącznik jasny / ciemny / jak system
-7. ⏭️ Widget na pulpit: najbliższy wywóz + smog
-8. ⏭️ Zgłaszanie usterek do miasta (wymaga backendu)
+4. ✅ v0.4 — wyłączenia prądu wg adresu, ciemny motyw, Radio 90, ekran wsparcia
+5. ⏭️ Mapa przystanków i tras (OSM, bo GTFS nie ma geometrii)
+6. ❌ Odjazdy na żywo — odrzucone: KM Rybnik nie ma danych GPS (patrz ograniczenia)
+7. ✅ Ciemny motyw + przełącznik jasny / ciemny / jak system
+8. ⏭️ Widget na pulpit: najbliższy wywóz + smog
+9. ⏭️ Wyszukiwarka połączeń skąd–dokąd na danych GTFS
+10. ⏭️ PSZOK / GPZON + „gdzie wyrzucić X"
+11. ⏭️ Zgłaszanie usterek do miasta (wymaga backendu)
+12. ❌ Apteki dyżurne — odrzucone: Rybnik nie publikuje grafiku dyżurów,
+    a w mieście nie ma apteki całodobowej
 
 ## Notatki projektowe
 

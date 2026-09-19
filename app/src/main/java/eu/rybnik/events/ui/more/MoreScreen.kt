@@ -17,6 +17,7 @@ import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.outlined.Air
+import androidx.compose.material.icons.outlined.Coffee
 import androidx.compose.material.icons.outlined.Delete
 import androidx.compose.material.icons.outlined.Newspaper
 import androidx.compose.material.icons.outlined.Settings
@@ -67,6 +68,7 @@ fun MoreScreen(
     onOpenAir: () -> Unit,
     onOpenFavourites: () -> Unit,
     onOpenSettings: () -> Unit,
+    onOpenSupport: () -> Unit,
 ) {
     Scaffold(topBar = { TopAppBar(title = { Text("Więcej") }) }) { padding ->
         Column(Modifier.padding(padding).fillMaxSize()) {
@@ -74,6 +76,7 @@ fun MoreScreen(
             MoreRow(Icons.Outlined.Air, "Jakość powietrza", "Dane GIOŚ, stacja Rybnik-Borki", onOpenAir)
             MoreRow(Icons.Outlined.Star, "Ulubione wydarzenia", "Zapisane wydarzenia", onOpenFavourites)
             MoreRow(Icons.Outlined.Settings, "Ustawienia", "Adres, powiadomienia", onOpenSettings)
+            MoreRow(Icons.Outlined.Coffee, "Wesprzyj projekt", "Postaw kawę albo zgłoś błąd", onOpenSupport)
         }
     }
 }
@@ -264,6 +267,13 @@ fun SettingsScreen(onBack: () -> Unit, onPickAddress: () -> Unit) {
                         )
                     }
                 }
+            }
+            item {
+                SwitchRow(
+                    "Wyłączenia prądu",
+                    "Planowane i awaryjne, pod Twoim adresem",
+                    s.notifyOutages,
+                ) { vm.setNotify(UserPrefs.NotifyChannel.Outages, it) }
             }
             item {
                 SwitchRow(

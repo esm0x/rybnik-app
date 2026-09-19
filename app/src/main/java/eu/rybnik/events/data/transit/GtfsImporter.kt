@@ -38,14 +38,20 @@ class GtfsImporter(private val dao: TransitDao) {
 
                 val routes = parse(files["routes.txt"]) { row ->
                     val id = row["route_id"] ?: return@parse null
-                    // One route carries `-->` as its short name (a leaked HTML comment) but has
-                    // ~87 real trips, so fall back to the long name instead of dropping it.
                     val short = row["route_short_name"].orEmpty().trim()
+                    // The "-->" route is not a passenger line: its 87 trips are depot runs
+                    // and shift changes ("Wyjazd na linię", "JADA NA SZYCHTA"), yet they do
+                    // call at real stops, so leaving it in puts phantom empty buses in the
+                    // departure board. Dropping the route also drops them, because
+                    // departures inner-join on routes.
+                    // Note "A" is NOT this case — it is a genuine line (54 trips through
+                    // Zamysłów and Smolna) that merely has no long name.
+                    if (short == DEADHEAD_ROUTE) return@parse null
                     RouteEntity(
                         id = id,
-                        shortName = if (short.isEmpty() || short == "-->") {
+                        shortName = short.ifEmpty {
                             row["route_long_name"].orEmpty().take(6).ifEmpty { id }
-                        } else short,
+                        },
                         longName = row["route_long_name"].orEmpty(),
                     )
                 }
@@ -138,6 +144,9 @@ class GtfsImporter(private val dao: TransitDao) {
     companion object {
         private const val TAG = "GtfsImporter"
         private const val CHUNK = 5_000
+
+        /** Short name of the depot/shift-change pseudo-line in the KM Rybnik feed. */
+        private const val DEADHEAD_ROUTE = "-->"
 
         /** GTFS allows 25:30:00 to express "01:30 the next service day". */
         fun parseGtfsTime(raw: String?): Int? {

@@ -18,6 +18,7 @@ import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.foundation.clickable
@@ -42,6 +43,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
+import androidx.compose.ui.draw.alpha
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
@@ -53,6 +55,8 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import eu.rybnik.events.Graph
 import eu.rybnik.events.data.Event
 import eu.rybnik.events.data.EventCategory
+import eu.rybnik.events.data.EventTiming
+import eu.rybnik.events.data.timing
 import eu.rybnik.events.data.RemoteEventRepository
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.SharingStarted
@@ -267,16 +271,24 @@ private fun EventCard(
     isFavourite: Boolean = false,
     onToggleFavourite: (() -> Unit)? = null,
 ) {
+    val timing = event.timing()
+    val finished = timing == EventTiming.FINISHED
+    // Finished-but-still-listed events stay readable, just visibly demoted.
     val catColor = Color(event.category.color)
+
     Surface(
         onClick = onClick,
         shape = RoundedCornerShape(16.dp),
         color = MaterialTheme.colorScheme.surface,
         tonalElevation = 0.dp,
-        shadowElevation = 1.dp,
+        shadowElevation = if (finished) 0.dp else 1.dp,
         modifier = Modifier.fillMaxWidth(),
     ) {
-        Row(Modifier.height(IntrinsicSize.Min)) {
+        Row(
+            Modifier
+                .height(IntrinsicSize.Min)
+                .alpha(if (finished) 0.45f else 1f)
+        ) {
             Box(
                 Modifier
                     .width(6.dp)
@@ -295,8 +307,12 @@ private fun EventCard(
                         style = MaterialTheme.typography.labelSmall,
                         color = catColor,
                         fontWeight = FontWeight.SemiBold,
-                        modifier = Modifier.weight(1f),
                     )
+                    if (timing == EventTiming.ONGOING) {
+                        Spacer(Modifier.width(8.dp))
+                        LiveBadge()
+                    }
+                    Spacer(Modifier.weight(1f))
                     if (onToggleFavourite != null) {
                         Icon(
                             imageVector = if (isFavourite) Icons.Filled.Star
@@ -332,6 +348,33 @@ private fun EventCard(
 }
 
 private val timeFormatter = DateTimeFormatter.ofPattern("HH:mm")
+
+/** "Happening now" marker — the one piece of state worth spotting at a glance. */
+@Composable
+private fun LiveBadge() {
+    Row(
+        modifier = Modifier
+            .background(
+                MaterialTheme.colorScheme.primary.copy(alpha = 0.15f),
+                RoundedCornerShape(6.dp),
+            )
+            .padding(horizontal = 6.dp, vertical = 2.dp),
+        verticalAlignment = Alignment.CenterVertically,
+    ) {
+        Box(
+            Modifier
+                .size(6.dp)
+                .background(MaterialTheme.colorScheme.primary, CircleShape)
+        )
+        Spacer(Modifier.width(4.dp))
+        Text(
+            "W trakcie",
+            style = MaterialTheme.typography.labelSmall,
+            color = MaterialTheme.colorScheme.primary,
+            fontWeight = FontWeight.SemiBold,
+        )
+    }
+}
 
 @Composable
 private fun DateBlock(dt: LocalDateTime, tint: Color) {
