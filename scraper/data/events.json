@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T08:50:47",
+  "generated_at": "2026-09-19T11:02:46",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,20 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 131,
+  "count": 130,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-festiwal-roslin-w-rybniku-wielki-market",
-      "title": "Festiwal Roślin w Rybniku – wielki market",
-      "category": "Festiwal",
-      "start": "2026-09-19T08:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Rybnik na dwa dni zamieni się w prawdziwy raj dla miłośników zieleni. Festiwal Roślin to wielki market, na którym pojawią się rośliny domowe prosto ze szklarni, doniczki, akcesoria i produkty do pielęgnacji — w cenach zaczynających się już od 5 zł. Warto zajrzeć do Hali Sportowej ZSEU i poszukać czegoś, co ożywi mieszkanie, balkon albo domową kolekcję. Wydarzenie odbędzie się 19 i 20 września w hali sportowej ZSEU, przy ul. św. Józefa 30 w Rybniku. Na stoiskach znajdą się zarówno niewielkie rośliny idealne na początek, jak i większe okazy dla doświadczonych kolekcjonerów. Oferta ma pochodzić bezpośrednio od ogrodników i szklarni, a ceny mają być wyraźnie opisane. To propozycja zarówno dla osób, które dopiero zaczynają swoją przygodę z roślinami, jak i dla tych, którzy szukają nowych okazów do swojej kolekcji. Organizatorzy zachęcają również do wcześniejszego zgłaszania wymarzonych roślin — być może uda się je sprowadzić na wydarzenie.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/festiwal-roslin-w-rybniku-wielki-market"
-    },
     {
       "id": "iryb-la-cucina-napoletana-warsztaty-kulinarne",
       "title": "LA CUCINA NAPOLETANA – warsztaty kulinarne",

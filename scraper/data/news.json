@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T08:52:01",
+  "generated_at": "2026-09-19T11:04:24",
   "count": 120,
   "failures": [
     {
@@ -9,12 +9,32 @@
   ],
   "items": [
     {
+      "id": "14b9c1060021bc40f7bf46300305e9bac81131f9",
+      "title": "Koniec pracy Ireneusza Fieta w szkole w Nędzy. Dyrektor pożegnał się z placówką [ZDJĘCIA]",
+      "summary": "Ireneusz Fiet zakończył pracę na stanowisku dyrektora Szkoły Podstawowej im. Powstańców Śląskich w Nędzy . Podczas uroczystego apelu podziękowali mu uczniowie, nauczyciele i pracownicy szkoły. W programie znalazło się również przedstawienie przygotowane przez uczniów oraz wspomnienia związane z…",
+      "link": "https://www.nowiny.pl/wiadomosci/251029-koniec-pracy-ireneusza-fieta-w-szkole-w-nedzy-dyrektor-pozegnal-sie-z-placowka-zdjecia.html",
+      "published": "2026-09-19T10:52",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
       "id": "a48e793c94b82e6db2b65a73434c56075aec9f28",
       "title": "Budżet Obywatelski Rybnika 2027. Ruszyło głosowanie (listy)",
       "summary": "Od 19 do 27 września mieszkańcy Rybnika mogą wybierać projekty do realizacji w ramach Budżetu Obywatelskiego 2027. Do głosowania dopuszczono sześć projektów ogólnomiejskich i 38 dzielnicowych. Każdy rybniczanin będzie mógł wskazać po jednym projekcie z obu kategorii. Wśród propozycji są m.in…",
       "link": "http://www.rybnik.com.pl/wiadomosci,budzet-obywatelski-rybnika-2027-ruszylo-glosowanie-listy,wia5-3266-66041.html",
       "published": "2026-09-19T10:00",
       "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3628e813e06ace510b68f6be49b924fae06a11a3",
+      "title": "Schronisko w Rybniku zachęca: poznaj psiaka przy kawie, daj mu nowy dom",
+      "summary": "Przyjdź, napij się kawy, przy okazji pokochaj jednego z naszych psiaków. Albo dwa! Schronisko w Rybniku zachęca mieszkańców regionu do adopcji bezdomnych zwierząt. Dziś specjalna akcja odbyła się w kawiarni przy lotnisku w Gotartowicach.",
+      "link": "https://www.radio90.pl/schronisko-w-rybniku-zacheca-poznaj-psiaka-przy-kawie-daj-mu-nowy-dom.html",
+      "published": "2026-09-19T09:07",
+      "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -96,6 +116,36 @@
       "published": "2026-09-19T05:00",
       "source": "nowiny.pl",
       "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2e8b5b9870d6330f31f6aa4b3ccaffd61057dfe8",
+      "title": "Wyższa Szkoła Bezpieczeństwa w Jastrzębiu-Zdroju. Wybierz tutaj swoją przyszłość. Studiuj praktyczne kierunki",
+      "summary": "Wyższa Szkoła Bezpieczeństwa z siedzibą w Poznaniu od ponad dwóch dekad kształci specjalistów w kluczowych dla rynku pracy dziedzinach, a jej Wydział Nauk Społecznych w Jastrzębiu-Zdroju stanowi prężny ośrodek akademicki w regionie. Uczelnia wyróżnia się unikalnym, praktycznym profilem kształcenia…",
+      "link": "https://www.radio90.pl/wyzsza-szkola-bezpieczenstwa-w-jastrzebiu-zdroju-wybierz-tutaj-swoja-przyszlosc-studiuj-praktyczne-kierunki.html",
+      "published": "2026-09-18T22:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e13114c0c8aa8c8dba34e77d755f042faa8c3d9d",
+      "title": "Raciborski Gród Średniowieczny: historia, pasja i społeczna misja",
+      "summary": "Przenieś się w czasie do okresu wczesnego średniowiecza i zobacz, jak wyglądało życie naszych przodków na Górnym Śląsku. Raciborski Gród Średniowieczny w Raciborzu - Oborze to wyjątkowa rekonstrukcja osady z IX wieku, która tętni życiem przez cały rok. To idealne miejsce na rodzinny spacer…",
+      "link": "https://www.radio90.pl/raciborski-grod-sredniowieczny-historia-pasja-i-spoleczna-misja.html",
+      "published": "2026-09-18T22:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a3ad2af271df7af61ccde21ceab7548cfbe2dc69",
+      "title": "Gwiazdy teatru przyjadą do Rybnika. „Ding Dong, czyli karma wraca” już 25 września!",
+      "summary": "25 września w Rybniku będzie można zobaczyć komediowy spektakl „Ding Dong, czyli karma wraca\" w reżyserii Artura Barcisia. Zapowiada się wieczór pełen humoru, zaskakujących zwrotów akcji i... małżeńskich komplikacji.",
+      "link": "https://www.radio90.pl/gwiazdy-teatru-przyjada-do-rybnika-ding-dong-czyli-karma-wraca-juz-25-wrzesnia.html",
+      "published": "2026-09-18T22:03",
+      "source": "Radio 90",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -329,16 +379,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "593fdafbab0cd83b31ef0b932865a29196f121da",
-      "title": "Szpital w Wodzisławiu bez kolejnego oddziału. Nieudolność rządu, dyrekcji czy władz powiatu?",
-      "summary": "Interna to kolejny oddział, który może zostać zamknięty z powodu braku lekarzy. Ostatnio zrezygnował ordynator oddziału. Rzekomo dlatego, że w anonimowych pismach i mediach społecznościowych zaczęto mu wytykać, że równocześnie jest ordynatorem w szpitalu w Cieszynie, gdzie – nota bene – radnym…",
-      "link": "https://www.nowiny.pl/wiadomosci/251016-szpital-w-wodzislawiu-bez-kolejnego-oddzialu-nieudolnosc-rzadu-dyrekcji-czy-wladz-powiatu.html",
-      "published": "2026-09-18T08:27",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "311975d0fce8b4e22a63e3e3374143de8e7cec1d",
       "title": "Śląska policja podsumowuje minioną dobę. 136 zdarzeń i 3 osoby ranne",
       "summary": "136 zdarzeń drogowych i 3 osoby ranne. Śląska policja podsumowuje minioną dobę na trasach województwa.",
@@ -404,36 +444,6 @@
       "summary": "Rolki są jednym z tych rodzajów sprzętu sportowego, który pozwala połączyć aktywność fizyczną z przyjemnym spędzaniem czasu na świeżym powietrzu. Nie wymagają dostępu do specjalnego boiska ani skomplikowanej infrastruktury. Do rekreacyjnej jazdy wystarczy odpowiednia nawierzchnia w parku, na…",
       "link": "https://www.radio90.pl/dlaczego-jazda-na-rolkach-zyskuje-coraz-wieksza-popularnosc-2.html",
       "published": "2026-09-17T22:08",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "2e8b5b9870d6330f31f6aa4b3ccaffd61057dfe8",
-      "title": "Wyższa Szkoła Bezpieczeństwa w Jastrzębiu-Zdroju. Wybierz tutaj swoją przyszłość. Studiuj praktyczne kierunki",
-      "summary": "Wyższa Szkoła Bezpieczeństwa z siedzibą w Poznaniu od ponad dwóch dekad kształci specjalistów w kluczowych dla rynku pracy dziedzinach, a jej Wydział Nauk Społecznych w Jastrzębiu-Zdroju stanowi prężny ośrodek akademicki w regionie. Uczelnia wyróżnia się unikalnym, praktycznym profilem kształcenia…",
-      "link": "https://www.radio90.pl/wyzsza-szkola-bezpieczenstwa-w-jastrzebiu-zdroju-wybierz-tutaj-swoja-przyszlosc-studiuj-praktyczne-kierunki.html",
-      "published": "2026-09-17T22:05",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e13114c0c8aa8c8dba34e77d755f042faa8c3d9d",
-      "title": "Raciborski Gród Średniowieczny: historia, pasja i społeczna misja",
-      "summary": "Przenieś się w czasie do okresu wczesnego średniowiecza i zobacz, jak wyglądało życie naszych przodków na Górnym Śląsku. Raciborski Gród Średniowieczny w Raciborzu - Oborze to wyjątkowa rekonstrukcja osady z IX wieku, która tętni życiem przez cały rok. To idealne miejsce na rodzinny spacer…",
-      "link": "https://www.radio90.pl/raciborski-grod-sredniowieczny-historia-pasja-i-spoleczna-misja.html",
-      "published": "2026-09-17T22:05",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a3ad2af271df7af61ccde21ceab7548cfbe2dc69",
-      "title": "Gwiazdy teatru przyjadą do Rybnika. „Ding Dong, czyli karma wraca” już 25 września!",
-      "summary": "25 września w Rybniku będzie można zobaczyć komediowy spektakl „Ding Dong, czyli karma wraca\" w reżyserii Artura Barcisia. Zapowiada się wieczór pełen humoru, zaskakujących zwrotów akcji i... małżeńskich komplikacji.",
-      "link": "https://www.radio90.pl/gwiazdy-teatru-przyjada-do-rybnika-ding-dong-czyli-karma-wraca-juz-25-wrzesnia.html",
-      "published": "2026-09-17T22:03",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -844,16 +854,6 @@
       "summary": "Michał Woś były wiceminister sprawiedliwości z czasów rządów PiS, usłyszał poważne zarzuty. Prokuratura Krajowa podała szczegóły.",
       "link": "https://www.radio90.pl/michal-wos-z-zarzutami-komunikat-prokuratury-krajowej.html",
       "published": "2026-09-15T19:08",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3d6c74107e7a81e46b1faf4c15cfe8a97b03cc48",
-      "title": "Kierowca na podwójnym gazie i z sądowym zakazem. Został zatrzymany na autostradzie A1",
-      "summary": "Wracał z imprezy, mając prawie 2 promile alkoholu w organizmie... W dodatku 24-letni kierujący Audi miał obowiązujące sądowe zakazy prowadzenia pojazdów. Decyzją sądu został tymczasowo aresztowany na trzy miesiące.",
-      "link": "https://www.radio90.pl/kierowca-na-podwojnym-gazie-i-z-sadowym-zakazem-zostal-zatrzymany-na-autostradzie-a1.html",
-      "published": "2026-09-15T14:30",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
