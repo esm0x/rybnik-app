@@ -503,7 +503,10 @@ def carry_over_failed(
     if not failures or not out_path.exists():
         return []
 
-    failed = {f["source"] for f in failures}
+    # rybnik.eu sections are recorded as "rybnik.eu/dla-mieszkancow/..." while their items
+    # carry plain "rybnik.eu", so compare on the part before the first slash — otherwise
+    # the whole official-city section silently fails to be rescued.
+    failed = {f["source"].split("/", 1)[0] for f in failures}
     try:
         previous = json.loads(out_path.read_text(encoding="utf-8")).get("items", [])
     except (OSError, json.JSONDecodeError) as e:
