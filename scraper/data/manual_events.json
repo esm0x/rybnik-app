@@ -1,0 +1,32 @@
+{
+  "_jak_dodac": [
+    "Ten plik jest edytowany RECZNIE i nigdy nie jest nadpisywany przez scrapery.",
+    "Sluzy do wydarzen, ktorych nie da sie pobrac automatycznie — przede wszystkim",
+    "imprez w klubach Noc i Szepty, ktore publikuja wylacznie na Facebooku.",
+    "",
+    "Zeby dodac wydarzenie: skopiuj obiekt z '_wzor' do tablicy 'events' i podmien pola.",
+    "Potem commit + push — workflow wciagnie je do wspolnego events.json.",
+    "Czytany jest WYLACZNIE klucz 'events', wiec '_wzor' nigdy nie trafia do apki.",
+    "",
+    "Pola wymagane: title, category, start, venue.",
+    "  category  jedna z: Koncert, Spektakl, Kabaret, Film, Festiwal, Wystawa,",
+    "            Warsztaty, Impreza, Sport, DlaDzieci, Inne   (imprezy klubowe = Impreza)",
+    "  start     'RRRR-MM-DDTGG:MM', np. 2026-09-26T21:00",
+    "  end       to samo albo null",
+    "  sourceUrl link do wydarzenia (moze byc facebookowy — tylko go pokazujemy,",
+    "            niczego stamtad nie pobieramy)",
+    "",
+    "Wydarzenia z przeszloscia znikaja same, wiec starych wpisow nie trzeba kasowac.",
+    "Bledny wpis nie wywala scrapera — zostanie pominiety z ostrzezeniem w logu."
+  ],
+  "_wzor": {
+    "title": "Nazwa imprezy",
+    "category": "Impreza",
+    "start": "2026-09-26T21:00",
+    "end": null,
+    "venue": "Klub NOC",
+    "description": "Krotki opis, moze byc null.",
+    "sourceUrl": "https://www.facebook.com/events/..."
+  },
+  "events": []
+}

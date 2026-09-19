@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:41:22",
+  "generated_at": "2026-09-19T10:33:13",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,13 +7,8 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 119,
-  "failures": [
-    {
-      "source": "DK Niedobczyce",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='dkniedobczyce.pl', port=443): Max retries exceeded with url: /terminarz/?ical=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='dkniedobczyce.pl', port=443) at 0x7f8ce093c200>, 'Connection to dkniedobczyce.pl timed out. (connect timeout=30)'))"
-    }
-  ],
+  "count": 131,
+  "failures": [],
   "events": [
     {
       "id": "iryb-festiwal-roslin-w-rybniku-wielki-market",
@@ -955,7 +950,7 @@
       "title": "Straszna impreza dla dzieci",
       "category": "DlaDzieci",
       "start": "2026-10-24T16:00",
-      "end": null,
+      "end": "2026-10-24T17:30",
       "venue": "Dom Kultury Rybnik-Chwałowice",
       "description": "W Domu Kultury w Rybniku-Chwałowicach odbędzie się przebierana impreza dla dzieci w wieku od 5 do 8 lat. Uczestników czeka popołudnie pełne upiornych zabaw i strasznych tańców, a całość poprowadzi Monika Kubica-Skaba, znana jako Ciocia Klocia. Wydarzenie zaplanowano na sobotę 24 października 2026 roku w godzinach 16:00–17:30 . „Straszna impreza dla dzieci” będzie przebieraną zabawą przygotowaną z myślą o dzieciach w wieku od 5 do 8 lat. W programie znalazły się upiorne zabawy oraz straszne tańce. Zabawę poprowadzi Monika Kubica-Skaba, czyli Ciocia Klocia , która zadba o przebieg imprezy i zaangażuje dzieci w przygotowane aktywności.",
       "sourceName": "iRybnik",
@@ -971,6 +966,17 @@
       "description": "Rybnik szykuje wieczór z kabaretem, który nie bierze jeńców — Zdolni i Skromni wracają z premierowym programem „Gramy na ostro” i zapowiadają solidną dawkę żartów od pierwszej do ostatniej minuty. Brzmi jak plan na bardzo dobry sobotni wieczór, więc warto się wybrać Data i godzina: 24 października 2026 (sobota), godz. 17:30 Miejsce: Teatr Ziemi Rybnickiej, Plac Teatralny im. Kazimierza Kutza 1, Rybnik Organizator: Teatr Ziemi Rybnickiej Bilety i cena: w opisie wydarzenia nie podano ceny ani szczegółów sprzedaży wejściówek To ma być najodważniejszy program w dorobku grupy, a twórcy nie kryją, że tym razem poszli w żarty bardziej bezpośrednie, mocniejsze i trochę bardziej bezczelne niż zwykle Na scenie pojawi się najmocniejszy skład: Olga Łasak, Ewelina Wojtak, Andrzej Kozłowski i Łukasz Żak . Zdolni i Skromni są dziś jednym z najpopularniejszych kabaretów w sieci, więc można się spodziewać błyskotliwych tekstów, szybkiego tempa i sporo energii.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/zdolni-i-skromni-gramy-na-ostro-w-rybniku"
+    },
+    {
+      "id": "bilnya-retro-gitary-osiecka-z-krajewskim-90-urodziny-agnieszki-202610241800",
+      "title": "Retro Gitary Osiecka z Krajewskim. 90 urodziny Agnieszki",
+      "category": "Koncert",
+      "start": "2026-10-24T18:00",
+      "end": "2026-10-24T19:30",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": "🎶 \"Niech żyje bal\", \"Uciekaj moje serce\" i inne ponadczasowe utwory Osieckiej i Krajewskiego w kameralnym wydaniu Retro Gitar. ✨ Uczcij 90. urodziny Agnieszki Osieckiej wieczorem pełnym muzyki, poezji i wzruszeń..",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/Retro-Gitary-Osiecka-z-Krajewskim-90-urodziny-Agnieszki?eid=685013#opis"
     },
     {
       "id": "iryb-blindead-23-only-sons-i-serpents-w-rybniku-koncert-w-klubie",
@@ -999,7 +1005,7 @@
       "title": "Spektakl \"Piracka przygoda\"",
       "category": "Spektakl",
       "start": "2026-10-25T11:00",
-      "end": null,
+      "end": "2026-10-25T11:45",
       "venue": "Dom Kultury Rybnik-Chwałowice",
       "description": "W niedzielę 25 października 2026 r. o 11:00 zapraszamy na spektakl Teatru Lalek Marka Żyły \"Piracka przygoda\".",
       "sourceName": "DK Chwałowice",
@@ -1010,11 +1016,33 @@
       "title": "Warsztaty marionetkowe",
       "category": "Warsztaty",
       "start": "2026-10-25T12:15",
-      "end": null,
+      "end": "2026-10-25T13:45",
       "venue": "Dom Kultury Rybnik-Chwałowice",
       "description": "W niedzielę 25 października 2026 r. o 12:15 zapraszamy na Warsztaty marionetkowe.",
       "sourceName": "DK Chwałowice",
       "sourceUrl": "https://www.dkchwalowice.pl/?news=51489"
+    },
+    {
+      "id": "bilnya-zdolni-i-skromni-gramy-na-ostro-202610251600",
+      "title": "Zdolni i Skromni - \"Gramy na ostro\"",
+      "category": "Kabaret",
+      "start": "2026-10-25T16:00",
+      "end": "2026-10-25T17:30",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "Humor, który trafia w punkt 🎯. Błyskotliwe teksty i brawurowa gra aktorska. Szukasz wieczoru pełnego śmiechu, energii i dobrej zabawy od pierwszej do ostatniej minuty? Nie można trafić lepiej..",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/kabaret/Zdolni-i-skromni/Gramy-na-ostro?eid=652771#opis"
+    },
+    {
+      "id": "bilnya-guru-202610261530",
+      "title": "Guru",
+      "category": "Film",
+      "start": "2026-10-26T15:30",
+      "end": "2026-10-26T17:36",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/film/Guru?eid=702612#opis"
     },
     {
       "id": "iryb-rybnik-stand-up-mateusz-ipkis-dudek-traci-myszka-na-zywo",
@@ -1026,6 +1054,17 @@
       "description": "Mateusz Ipkis Dudek przyjeżdża do Rybnika z najnowszym programem „Trąci Myszką”. Będzie o dorosłości, niedojrzałej przeszłości, czasach podwórkowego dzieciństwa i absurdach codzienności — bez nadęcia, za to z charakterystycznym poczuciem humoru. Warto wpaść na wieczór pełen bezpośrednich i nieoczywistych żartów. „Trąci Myszką” to program o byciu człowiekiem, choć — jak sugeruje sam komik — czasem także o byciu taryfiarzem. Ipkis wraca do wspomnień z lat 80. i 90., kiedy dzieci spędzały całe dnie na podwórku, a codzienność miała zupełnie inny rytm. W jego opowieściach pojawiają się również dorosłe przyzwyczajenia, używki i sytuacje, które najlepiej komentuje się śmiechem. Komik pokazuje ludzkie zachowania w krzywym zwierciadle, często biorąc na warsztat własne doświadczenia. Jest bezpośrednio, trochę absurdalnie i bardzo po swojemu To propozycja dla osób, które lubią mocno osobisty humor, obserwacje z życia i żarty balansujące między nostalgią a karykaturą codzienności. Na scenie będzie można usłyszeć program przygotowany przede wszystkim z myślą o występie na żywo — razem z ekipą i publicznością.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/rybnik-stand-up-mateusz-ipkis-dudek-traci-myszka-na-zywo"
+    },
+    {
+      "id": "bilnya-cyrk-na-wodzie-imperial-show-202610301730",
+      "title": "Cyrk na wodzie Imperial Show",
+      "category": "DlaDzieci",
+      "start": "2026-10-30T17:30",
+      "end": "2026-10-30T19:00",
+      "venue": "Namiot Cyrkowy, Plac: Obwiednia Północna ( obok Carrefour)",
+      "description": "🌊 Szukasz naprawdę wyjątkowych wrażeń? Chcesz mieć super zabawę razem z dziećmi? 🥳 Cyrk na wodzie Imperial Show co roku cieszy polską publiczność niezapomnianymi programami..",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/cyrk/Cyrk-na-wodzie-Imperial-Show?eid=701271#opis"
     },
     {
       "id": "iryb-gooral-beskid-calling-tour-w-rybniku",
@@ -1048,6 +1087,17 @@
       "description": "Halloween BABY to wspólna halloweenowa zabawa dla dzieci w wieku 2–5 lat i ich opiekunów. Z muzyką, ruchem, animacjami i atmosferą dopasowaną do najmłodszych uczestników. Podczas spotkania dzieci wezmą udział w zabawach z animatorem, wspólnych tańcach i prostych aktywnościach, w których mogą uczestniczyć razem z rodzicem lub opiekunem. Będzie również czas na mały poczęstunek. Na dzieci czekają słodkie i słone przekąski oraz napoje, a na dorosłych kawa i herbata. Kameralna grupa pozwoli maluchom swobodnie bawić się, poznawać innych uczestników i cieszyć wspólnym czasem bez tłoku i nadmiaru bodźców.To propozycja dla rodziców, którzy chcą pokazać dziecku halloweenowy klimat w przyjaznej, bezpiecznej i radosnej odsłonie. Dla dzieci w wieku 2–5 lat wraz z opiekunem Sala Lustrzana, parter Czas trwania: 1 godzina Liczba miejsc: 20 dzieci KLIKNIJ BY KUPIĆ BILETY: Bilet dla dziecka: 30 zł Bilet dla każdego opiekuna: 10 zł Przebrania są bardzo mile widziane. Zapraszamy małe czarownice, duszki, dynie, koty, nietoperze i wszystkie inne halloweenowe stworzenia.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/halloween-baby-niezwykla-zabawa-dla-maluchow-z-opiekunem/"
+    },
+    {
+      "id": "bilnya-cyrk-na-wodzie-imperial-show-202610311300",
+      "title": "Cyrk na wodzie Imperial Show",
+      "category": "DlaDzieci",
+      "start": "2026-10-31T13:00",
+      "end": "2026-10-31T14:30",
+      "venue": "Namiot Cyrkowy, Plac: Obwiednia Północna ( obok Carrefour)",
+      "description": "🌊 Szukasz naprawdę wyjątkowych wrażeń? Chcesz mieć super zabawę razem z dziećmi? 🥳 Cyrk na wodzie Imperial Show co roku cieszy polską publiczność niezapomnianymi programami..",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/cyrk/Cyrk-na-wodzie-Imperial-Show?eid=701272#opis"
     },
     {
       "id": "dk-bog-11085-halloween-kids-klimatyczna-przygoda-dla-odwaznych",
@@ -1087,7 +1137,7 @@
       "title": "Andrzej Poniedzielski - Dobry wieczór...?",
       "category": "Koncert",
       "start": "2026-11-05T19:00",
-      "end": null,
+      "end": "2026-11-05T20:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Najnowszy program \"Dobry wieczór...?\" to niezwykły, pełny humoru koncert, podczas którego usłyszymy zarówno znane, uwielbiane jak i nowe piosenki, ale też dużo inteligentnej satyry w wykonaniu mistrza. Niezwykła podróż do poezji pełnej marzeń, tęsknot, miłości i humoru.",
       "sourceName": "TZR",
@@ -1109,7 +1159,7 @@
       "title": "Adam Rajski",
       "category": "Spektakl",
       "start": "2026-11-07T18:00",
-      "end": null,
+      "end": "2026-11-07T19:30",
       "venue": "Dom Kultury Rybnik-Chwałowice",
       "description": "Teatr Lalek Marka Żyły w zupełnie nowej odsłonie. Tym razem nie dla dzieci a dla starszego odbiorcy (16+)! Już 7 listopada 2026 roku o 18:00 \"Adam Rajski\".",
       "sourceName": "DK Chwałowice",
@@ -1131,7 +1181,7 @@
       "title": "Małgorzata Ostrowska - 45 lat: koncert jubileuszowy",
       "category": "Koncert",
       "start": "2026-11-08T17:00",
-      "end": null,
+      "end": "2026-11-08T18:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Małgorzata Ostrowska, legenda polskiej piosenki, zaprasza na jubileuszowe koncerty z okazji 45-lecia pracy artystycznej! Jedna z największych ikon polskiej muzyki rockowej, właścicielka rozpoznawalnego od pierwszych dźwięków głosu, idąca zawsze własną drogą artystka bezkompromisowa – taką ją uwielbiamy i z taką spotkamy się ponownie na żywo w 2026 roku. Rocznicowa trasa przeprowadzi nas przez wszystkie etapy kariery artystki: od drapieżnych i kolorowych lat 80. przez dojrzałą solową twórczość, aż po ostatnie dokonania, w tym doskonale przyjętą płytę „Legenda”, na której artystka wróciła do swoich muzycznych korzeni. Każdy z koncertów będzie okazją do wspomnień, wzruszeń, ale też wspólnej zabawy kilku pokoleń słuchaczy, które wychowały się na piosenkach takich jak Meluzyna, Szklana pogoda, Gołębi puch, Mam dość, Taniec pingwina na szkle czy Mister of America .",
       "sourceName": "TZR",
@@ -1142,7 +1192,7 @@
       "title": "X Biesiada Śląska. \"Szczęśliwej drogi, już czas\"",
       "category": "Koncert",
       "start": "2026-11-11T17:00",
-      "end": null,
+      "end": "2026-11-11T18:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Zapraszamy na jubileuszową, X Biesiadę Śląską – wieczór pełen znanych piosenek, wspólnego śpiewania, wzruszeń i dobrej zabawy.",
       "sourceName": "TZR",
@@ -1153,7 +1203,7 @@
       "title": "Echo Rodu w Rybniku. Koncert pełen słowiańskich brzmień w Klubie Odyseja",
       "category": "Koncert",
       "start": "2026-11-13T19:00",
-      "end": null,
+      "end": "2026-11-13T20:30",
       "venue": "Klub Odyseja",
       "description": "Rybnik szykuje się na wieczór, który trudno będzie pomylić z czymkolwiek innym Echo Rodu przywiezie do Klubu Odyseja muzykę inspirowaną dawnymi rytuałami, folklorem i transową elektroniką. To jeden z tych koncertów, które bardziej się przeżywa niż tylko słucha — więc warto zarezerwować sobie ten termin. Kiedy: 13 listopada 2026 (piątek), godz. 19:00–21:00 Wejście na teren wydarzenia: od godz. 18:00 Gdzie: Klub Odyseja , ul. Raciborska 9a, Rybnik Wejściówki są dostępne w sprzedaży online. Echo Rodu to projekt muzyczny, który łączy słowiański folklor , plemienne rytmy i współczesne, elektroniczne brzmienia W ich muzyce słychać m.in. słowiańską harfę, lirę korbową i bębny , a całość buduje klimat trochę mistyczny, trochę pierwotny — taki, który od razu wciąga w swój rytm.",
       "sourceName": "iRybnik",
@@ -1164,11 +1214,22 @@
       "title": "40. Silesian Jazz Meeting – dzień pierwszy KLAWO oraz Myrczek & Schmidt Quintet „Młynarski. Bynajmniej”",
       "category": "Festiwal",
       "start": "2026-11-14T18:00",
-      "end": null,
+      "end": "2026-11-14T19:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Pierwszy wieczór 40. Silesian Jazz Meeting to dwa zupełnie różne muzyczne światy.",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/40-silesian-jazz-meeting-dzien-pierwszy-klawo-oraz-myrczek-schmidt-quintet-mlynarski-bynajmniej.html"
+    },
+    {
+      "id": "bilnya-mariusz-kalamaga-mamo-papier-sie-konczy-202611141800",
+      "title": "Mariusz Kałamaga - Mamo! Papier się kończy!",
+      "category": "Kabaret",
+      "start": "2026-11-14T18:00",
+      "end": "2026-11-14T19:30",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": "🤣 Mariusz Kałamaga wraca na scenę z programem \"Mamo! Papier się kończy!\"🎤💥 Humor, dystans i inteligentne obserwacje o świecie, który głupieje szybciej niż AI! 😜 Przyjdź po solidną dawkę śmiechu i pozytywnej energii! 🎟️✨.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/kabaret/Mariusz-Kalamaga/Mamo-Papier-sie-konczy?eid=670773#opis"
     },
     {
       "id": "iryb-hate-damnation-synapsa-i-nuclear-venom-zagraja-w-rybniku-met",
@@ -1186,7 +1247,7 @@
       "title": "40. Silesian Jazz Meeting – dzień drugi KINGA GŁYK \"The chapters tour\"",
       "category": "Koncert",
       "start": "2026-11-15T20:00",
-      "end": null,
+      "end": "2026-11-15T21:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Drugi wieczór 40. Silesian Jazz Meeting należy do Kingi Głyk – jednej z najbardziej wyrazistych postaci młodego polskiego jazzu.",
       "sourceName": "TZR",
@@ -1270,6 +1331,28 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/nastepnego-dnia-rano-spektakl-komediowy-teatr-zelazny/"
     },
     {
+      "id": "bilnya-selfie-czyli-milosc-na-pstryk-202612041900",
+      "title": "Selfie, czyli miłość na pstryk!",
+      "category": "Spektakl",
+      "start": "2026-12-04T19:00",
+      "end": "2026-12-04T20:30",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "😂💘 \"Selfie\" to komedia o randkach, nieporozumieniach i sercach, które potrafią zaskoczyć nawet swoich właścicieli! Gdy blokowisko spotyka świat online, zaczyna się zabawna spirala emocji. 🤳❤️ Zarezerwuj bilety i baw się świetnie! 🎟️✨.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Selfie-czyli-milosc-na-pstryk?eid=703614#opis"
+    },
+    {
+      "id": "bilnya-universe-202612051800",
+      "title": "Universe",
+      "category": "Koncert",
+      "start": "2026-12-05T18:00",
+      "end": "2026-12-05T19:30",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🔥Universe! Dołącz do nas, aby wspólnie świętować magię muzyki i tworzyć niezapomniane wspomnienia. Zakup bilet i przygotuj się na niezapomnianą podróż muzyczną podczas koncertu zespołu Universe ‼️🎶.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/Universe?eid=697526#opis"
+    },
+    {
       "id": "iryb-22-bieg-barborkowy-w-rybniku-uliczny-start-na-10-km-juz-6-gr",
       "title": "22. Bieg Barbórkowy w Rybniku. Uliczny start na 10 km już 6 grudnia",
       "category": "Sport",
@@ -1279,6 +1362,17 @@
       "description": "Grudniowy Rybnik znów pobiegnie w barbórkowym klimacie — 22. Bieg Barbórkowy to propozycja dla tych, którzy lubią miejskie bieganie, atestowaną trasę i sportowy start w samym środku zimy. Jeśli masz ochotę poczuć atmosferę miasta w ruchu, to może być bardzo dobry plan na niedzielne południe ‍ To klasyczny miejski bieg z barbórkowym charakterem — bez kombinowania, za to z dobrą trasą i konkretnym dystansem. Organizatorzy podają, że bieg ma charakter uliczny i jest atestowany, a nawierzchnia to głównie asfalt oraz kostka brukowa, więc można spodziewać się typowo „miejskiego” biegania W opisie wydarzenia pojawia się też informacja o trasie około 5 km, dlatego przy zapisach warto zwrócić uwagę na szczegóły dotyczące dystansu i przebiegu trasy. To wydarzenie może zainteresować zarówno osoby szukające sportowego wyzwania, jak i tych, którzy po prostu lubią atmosferę dużych lokalnych startów.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/22-bieg-barborkowy-w-rybniku-uliczny-start-na-10-km-juz-6-grudnia"
+    },
+    {
+      "id": "bilnya-lukasz-kaczmarczyk-stand-up-przerwa-techniczna-202612101900",
+      "title": "Łukasz Kaczmarczyk stand-up - Przerwa techniczna",
+      "category": "Kabaret",
+      "start": "2026-12-10T19:00",
+      "end": "2026-12-10T21:00",
+      "venue": "Klub Odyseja, Raciborska 9",
+      "description": "😂🎤 Łukasz Kaczmarczyk z Kabaretu Młodych Panów zaprasza na \"Przerwę Techniczną\" – nowy stand-up pełen błyskotliwego humoru i życiowych obserwacji! Absurd codzienności w najlepszym wydaniu. Nie przegap tej dawki śmiechu! 🎟️🤣.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/stand-up/Lukasz-Kaczmarczyk?eid=696696#opis"
     },
     {
       "id": "iryb-inertia-over-rybnik-ironbound-kingsphere-i-m2r1-w-klubie-ody",
@@ -1303,6 +1397,28 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/the-analogs-rybnik-koncert"
     },
     {
+      "id": "bilnya-sklep-z-facetami-202701241700",
+      "title": "Sklep z facetami",
+      "category": "Spektakl",
+      "start": "2027-01-24T17:00",
+      "end": "2027-01-24T18:30",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": "😂 Komedia o kobietach, mężczyznach i miłości, w której każdy odnajdzie cząstkę siebie. 💕 Błyskotliwe dialogi, zaskakujące zwroty akcji i doskonała zabawa sprawiły, że „Sklep z facetami” pokochało już ponad 50 000 widzów w całej Polsce..",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Sklep-z-facetami?eid=677848#opis"
+    },
+    {
+      "id": "bilnya-noworoczna-gala-koncert-wiedenski-2027-202701261800",
+      "title": "Noworoczna Gala - Koncert Wiedeński 2027",
+      "category": "Koncert",
+      "start": "2027-01-26T18:00",
+      "end": "2027-01-26T20:00",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🎶✨ Zapraszamy na Noworoczną Galę – Koncert Wiedeński! 🌟 Wielkie przeboje Johanna Straussa, wirtuozi muzyki, orkiestra symfoniczna i balet w wyjątkowej oprawie! 🎻💃 To niezapomniane wydarzenie, które przeniesie Cię w świat muzyki i prawdziwej elegancji! 🎤🎉.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/Noworoczna-Gala-Koncert-Wiedenski-z-udzialem-Orkiestry-Symfonicznej-Filharmonii-w-Tarnopolu?eid=703525#opis"
+    },
+    {
       "id": "dk-bog-11035-dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-godz-16-00",
       "title": "Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem | godz. 16.00",
       "category": "Spektakl",
@@ -1323,6 +1439,17 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
+    },
+    {
+      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
+      "title": "NutkoSfera - CeZik dzieciom",
+      "category": "DlaDzieci",
+      "start": "2027-12-03T17:00",
+      "end": "2027-12-03T18:20",
+      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
+      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }

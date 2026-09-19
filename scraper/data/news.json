@@ -1,19 +1,104 @@
 {
-  "generated_at": "2026-09-19T04:42:50",
-  "count": 75,
-  "failures": [
-    {
-      "source": "rybnik.com.pl",
-      "error": "403 Client Error: Forbidden for url: https://www.rybnik.com.pl/feed,feed0.html"
-    }
-  ],
+  "generated_at": "2026-09-19T10:26:56",
+  "count": 120,
+  "failures": [],
   "items": [
+    {
+      "id": "a48e793c94b82e6db2b65a73434c56075aec9f28",
+      "title": "Budżet Obywatelski Rybnika 2027. Ruszyło głosowanie (listy)",
+      "summary": "Od 19 do 27 września mieszkańcy Rybnika mogą wybierać projekty do realizacji w ramach Budżetu Obywatelskiego 2027. Do głosowania dopuszczono sześć projektów ogólnomiejskich i 38 dzielnicowych. Każdy rybniczanin będzie mógł wskazać po jednym projekcie z obu kategorii. Wśród propozycji są m.in…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,budzet-obywatelski-rybnika-2027-ruszylo-glosowanie-listy,wia5-3266-66041.html",
+      "published": "2026-09-19T10:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7af4fa1b38dff9e79c883f4cad3be6388198a20e",
+      "title": "Spektakl ZŁY Sceny InVitro z Lublina na V Ogólnopolskim Festiwalu Teatralnym OFF-ka 2026",
+      "summary": "Pierwszym spektaklem trzeciego dnia V Ogólnopolskiego Festiwalu Teatralnego OFF-ka 2026 będzie ZŁY Sceny InVitro z Lublina. Spektakl w reż. Łukasza Witta- Michałowskiego odbędzie się w sobotę 26 września o 17:30 na sali widowiskowej RCK RDK, ul. Chopina 21.",
+      "link": "https://www.nowiny.pl/nie-przegap/251027-spektakl-zly-sceny-invitro-z-lublina-na-v-ogolnopolskim-festiwalu-teatralnym-off-ka-2026.html",
+      "published": "2026-09-19T09:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0d586458adf8a970d593097284236d2e115c5517",
+      "title": "ŁAŁ - Cały Rybnik zyskuje, jedna dzielnica zaskakuje! Zagłosuj w Budżecie Obywatelskim Rybnika",
+      "summary": "Rozpoczęło się głosowanie na projekty Budżetu Obywatelskiego na 2027 rok. Jednym z pomysłów jest projekt ogólnomiejski numer 6 „ŁAŁ - Cały Rybnik zyskuje, jedna dzielnica zaskakuje!”. Projekt obejmuje działania w 16 dzielnicach Rybnika. Ma rozwijać przestrzenie rekreacyjne, sportowe, edukacyjne i…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,lal-caly-rybnik-zyskuje-jedna-dzielnica-zaskakuje-zaglosuj-w-budzecie-obywatelskim-rybnika,wia5-3266-66164.html",
+      "published": "2026-09-19T09:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "341e909b297093326e6efcf032a53b36af4b23ae",
+      "title": "Klasa IV \"a\" znów razem. Absolwenci wodzisławskiego liceum spotkali się po 55 latach [ZDJĘCIA]",
+      "summary": "Dawni uczniowie klasy IV \"a\" Liceum Ogólnokształcącego im. 14 Pułku Powstańców Śląskich ponownie zasiedli w szkolnych ławkach.",
+      "link": "https://www.nowiny.pl/wiadomosci/251021-klasa-iv-a-znow-razem-absolwenci-wodzislawskiego-liceum-spotkali-sie-po-55-latach-zdjecia.html",
+      "published": "2026-09-19T08:26",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7d7299b9145e0903f51aab53c29a329f712267db",
+      "title": "Kuchnia Radia 90: babka z tartych ziemniaków. Absolutny hit!",
+      "summary": "Babka z tartych ziemniaków to hit dla fanów placków ziemniaczanych. Złocista, z chrupiącą skórką, miękka i aromatyczna w środku, świetnie smakuje sama lub z sosem.",
+      "link": "https://www.radio90.pl/kuchnia-radia-90-babka-z-tartych-ziemniakow-absolutny-hi.html",
+      "published": "2026-09-19T08:00",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "14234a92e5d6573e1321e361eac23b6af7179147",
+      "title": "Kolejny etap prac na ul. Grota-Roweckiego. Są krawężniki, pojawi się pierwsza warstwa drogi",
+      "summary": "Prace budowalne w Niewiadomu trwają od dłuższego czasu. Aktualnie realizowany jest drugi etap rozbudowy ulicy Grota-Roweckiego. Wykonano już część prac związanych z infrastrukturą podziemną i konstrukcją drogi. Teraz roboty koncentrują się m.in. na układaniu elementów brukarskich.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,kolejny-etap-prac-na-ul-grota-roweckiego-sa-krawezniki-pojawi-sie-pierwsza-warstwa-drogi,wia5-3266-66162.html",
+      "published": "2026-09-19T08:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "318b75ca489f7acad57433e454ae6de16e574548",
+      "title": "Galeria: Ulica Grota-Roweckiego w Niewiadomiu w przebudowie. Prace idą dalej",
+      "summary": "Przed miesiącem sprawdzaliśmy jak idą roboty drogowe w Niewiadomiu. Aktualnie trwa drugi etap rozbudowy ulicy Grota-Roweckiego w Rybniku-Niewiadomiu. Wykonano już część prac związanych z infrastrukturą podziemną i konstrukcją drogi. Teraz roboty koncentrują się m.in. na układaniu elementów…",
+      "link": "http://www.rybnik.com.pl/fotogaleria,ulica-grota-roweckiego-w-niewiadomiu-w-przebudowie-prace-ida-dalej,fot5-7-9151.html",
+      "published": "2026-09-19T08:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "317ee9eec0e842fba65d1ad41120944331383369",
+      "title": "Ciężarówka potrąciła pieszego podczas cofania. 24-latek trafił do szpitala",
+      "summary": "Do poważnego zdarzenia doszło w środę rano przy rondzie na ulicy Rybnickiej w Żorach. Kierujący ciężarowym DAF-em podczas cofania potrącił 24-letniego pieszego. Mężczyzna został przewieziony do szpitala, a kierowcy zatrzymano prawo jazdy.",
+      "link": "https://ezory.pl/wiadomosci/251020-ciezarowka-potracila-pieszego-podczas-cofania-24-latek-trafil-do-szpitala.html",
+      "published": "2026-09-19T07:11",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1c33cd2941d93aca09ba02d1ca2bf34e563f995d",
+      "title": "Od zolytów do ołtarza. Muzeum w Raciborzu przypomina dawne weselne obyczaje",
+      "summary": "Zanim młodzi stanęli przed ołtarzem, trzeba było przejść przez cały ciąg zwyczajów, rozmów, prób i przygotowań. O dawnych zalotach, kojarzeniu małżeństw oraz obrzędach poprzedzających ślub opowiada wystawa „Ach biada, biada, poszłam za dziada. O obrzędowości weselnej na Górnym Śląsku”, otwarta 17…",
+      "link": "https://historion.pl/historia/251028-od-zolytow-do-oltarza-muzeum-w-raciborzu-przypomina-dawne-weselne-obyczaje.html",
+      "published": "2026-09-19T07:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "f04d08abf7c7ce8e0ddd8e01f5ed035e17441d5d",
       "title": "Ostatni taniec industrialnego Hoyma. Pięć zespołów pożegna festiwal w Rybniku",
       "summary": "Po dziewięciu latach działalności HOYM Industry FEST kończy swoją historię. W sobotę 26 września w klubie Odyseja w Rybniku odbędzie się koncert „Hoym :: The Last Dance”, podczas którego wystąpi pięć zespołów związanych z muzyką industrialną, elektroniką i alternatywą.",
       "link": "https://www.nowiny.pl/wiadomosci/251015-ostatni-taniec-industrialnego-hoyma-piec-zespolow-pozegna-festiwal-w-rybniku.html",
-      "published": "2026-09-18T19:23",
+      "published": "2026-09-18T21:23",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -23,9 +108,79 @@
       "title": "PARADA MUZYCZNA ULICAMI RACIBORZA - V Ogólnopolski Festiwal Teatralny OFF-ka",
       "summary": "Trzeciego dnia OFF-ki czyli V Ogólnopolskiego Festiwalu Teatralnego, w sobotę 26 września, Raciborskie Centrum Kultury zaprasza na PARADĘ MUZYCZNĄ ulicami Raciborza z Kwartetem Wiejskim. Parada rozpocznie się o 16:00 spod budynku RCK RDK, ul. Chopina 21.",
       "link": "https://www.nowiny.pl/nie-przegap/251026-parada-muzyczna-ulicami-raciborza-v-ogolnopolski-festiwal-teatralny-off-ka.html",
-      "published": "2026-09-18T18:00",
+      "published": "2026-09-18T20:00",
       "source": "nowiny.pl",
       "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6ba159a89aea2522b4abd942f0e4f4d72a73676b",
+      "title": "Złożenie deklaracji CEEB jest obowiązkowe! Za brak grozi 500 zł kary",
+      "summary": "Właściciele i zarządcy budynków, którzy korzystają ze źródeł ciepła lub spalania paliw, mają obowiązek zgłoszenia ich do Centralnej Ewidencji Emisyjności Budynków. Niedopełnienie tego obowiązku w terminie może skutkować grzywną. Straż Miejska przypomina, na co należy zwrócić uwagę.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,zlozenie-deklaracji-ceeb-jest-obowiazkowe-za-brak-grozi-500-zl-kary,wia5-3266-66140.html",
+      "published": "2026-09-18T18:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c8393f174417757672ff8b6919bc009add055f20",
+      "title": "Wypadek w Rybniku. Motocyklista wjechał w drzewo. Z pomocą ruszył mu policjant po służbie",
+      "summary": "Policjant ze Świerklan pomógł motocykliście, który rozbił się w Boguszowicach Starych w Rybniku. Dzielnicowy wracał po służbie do domu, gdy zobaczył, jak 54-latek zatrzymał się przed przejściem dla pieszych, a chwilę później gwałtownie ruszył i stracił panowanie nad motocyklem.",
+      "link": "https://www.radio90.pl/wypadek-w-rybniku-motocyklista-wjechal-w-drzewo-z-pomoca-ruszyl-mu-policjant-po-sluzbie.html",
+      "published": "2026-09-18T17:30",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2a40e402bbf45ca4f8b6bd89dd864edd5fec5778",
+      "title": "KRZYSZTOF BOSAK W RYBNIKU!",
+      "summary": "Krzysztof Bosak, lider Konfederacji i prezes Ruchu Narodowego rozpoczyna objazd po Polsce. Jesienna trasa Krzysztofa Bosaka rozpocznie się 22 września w Rybniku. Towarzyszyć mu będzie Łukasz Kolada, lokalny lider ugrupowania.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,krzysztof-bosak-w-rybniku,wia5-3266-66166.html",
+      "published": "2026-09-18T17:15",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "aba606c662f7f445bd6990e4700af7da9dbf1943",
+      "title": "Dzieje się w Rybniku: podróż do przeszłości, spacer i spektakle. Rusza też głosowanie w Budżecie Obywatelskim",
+      "summary": "Kolejny weekend i kolejne wydarzenia w Rybniku. Co tym razem od piątku (18.09) do niedzieli (20.09) będzie działo się w mieście? Nie zabraknie spektakli w Teatrze Ziemi Rybnickiej, w bibliotece odbędzie się spotkanie z TikTokerką, a w muzeum będzie można przenieść się w czasie 200 lat wstecz i…",
+      "link": "https://www.radio90.pl/dzieje-sie-w-rybniku-podroz-do-przeszlosci-spacer-i-spektakle-rusza-tez-glosowanie-w-budzecie-obywatelskim.html",
+      "published": "2026-09-18T16:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4a80e485deafe3d3712e73d38ecf8cd60621fac0",
+      "title": "Kloch: \"tu pociągi zmieniły wszystko\". Niezwykła historia 170 lat kolei w Rybniku",
+      "summary": "Kiedy w połowie XIX wieku pierwsza lokomotywa wjechała do Rybnika, nikt nie przypuszczał, że żelazna droga zrewolucjonizuje nie tylko lokalny przemysł, ale i codzienne życie mieszkańców. Zdrady, wojenne starcia, logistyczne paraliże podczas zimy stulecia oraz zapomniany świat dworcowego zgiełku – o…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,kloch-tu-pociagi-zmienily-wszystko-niezwykla-historia-170-lat-kolei-w-rybniku,wia5-3266-66160.html",
+      "published": "2026-09-18T16:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ccce6f75e3f9c86780dba488d9fff1f93b4999d2",
+      "title": "Żużel: Franciszek Szczyrba mistrzem Polski w klasie 500R",
+      "summary": "W czwartek w Ostrowie Wielkopolskim rozegrano trzeci, decydujący turniej finałowy Indywidualnych Mistrzostw Polski w klasie 500R. Choć w samych zawodach zwyciężył Damian Bełtowski, to najważniejsze trofeum sezonu powędrowało do Rybnika. Złoty medal i tytuł mistrzowski przypieczętował zawodnik…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,zuzel-franciszek-szczyrba-mistrzem-polski-w-klasie-500r,wia5-3270-66163.html",
+      "published": "2026-09-18T15:52",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e277ed827db9167275ddb7fa452cc401cdc5d58e",
+      "title": "Policja w Rybniku walczy z młodzieżą szalejącą na hulajnogach i motocyklach elektrycznych. Jest apel do młodych i ich rodziców",
+      "summary": "Jeżdżą po drogach i chodnikach, nie zwracają uwagi na przepisy, często celowo je łamią. Kukuriniarze - tak mówią o sobie. To grupy młodych osób na hulajnogach elektrycznych, a samo określenie pochodzi od nazwy pojazdów którymi się poruszają (KuKirin).",
+      "link": "https://www.radio90.pl/policja-w-rybniku-walczy-z-mlodzieza-szalejaca-na-hulajnogach-i-motocyklach-elektrycznych-jest-apel-do-mlodych-i-ich-rodzicow.html",
+      "published": "2026-09-18T15:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -33,7 +188,7 @@
       "title": "V OFF-ka już wkrótce porwie mieszkańców w teatralną podróż",
       "summary": "Raciborskie centrum Kultury zaprasza serdecznie na V edycję Ogólnopolskiego Festiwalu Teatralnego OFF-ka 2026. Tym razem święto teatru w Raciborzu potrwa od czwartku 24.09 do poniedziałku 28.09.2026. Wspólnie z dyrektor artystyczną Festiwalu Grażyną Tabor przygotowaliśmy program, który mamy…",
       "link": "https://www.nowiny.pl/nie-przegap/251025-v-off-ka-juz-wkrotce-porwie-mieszkancow-w-teatralna-podroz.html",
-      "published": "2026-09-18T13:29",
+      "published": "2026-09-18T15:29",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -43,9 +198,29 @@
       "title": "RowerON 2026: Znamy nagrodzonych w Challenge 60 km”!",
       "summary": "Kilkadziesiąt osób wzięło udział w Challenge 60 km w ramach RowerON 2026 – największej imprezy rowerowej w regionie. Gratulujemy wszystkim udziału. Mamy nadzieję, że świetnie spędziliście czas podczas realizacji wyzwania. Przypomnijmy, że uczestnicy musieli przejechać od 12-13 września min. 60 km…",
       "link": "https://www.nowiny.pl/nie-przegap/251024-roweron-2026-znamy-nagrodzonych-w-challenge-60-km.html",
-      "published": "2026-09-18T12:47",
+      "published": "2026-09-18T14:47",
       "source": "nowiny.pl",
       "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "cbe32f3ed2ef9cde550f4c36ef5ee22d65e34056",
+      "title": "Rybnik w ścisłej czołówce Indeksu Zdrowych Miast. W jednej kategorii najlepszy w Polsce (grafiki)",
+      "summary": "Rybnik zajął 6. miejsce wśród 57 miast do 300 tys. mieszkańców w najnowszej edycji Indeksu Zdrowych Miast 2026. Jeszcze lepiej wypadł w kategorii „Zdrowie”, w której został liderem całego zestawienia. Autorzy raportu wskazują przede wszystkim na wysokie nakłady na działania prozdrowotne, dużą…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,rybnik-w-scislej-czolowce-indeksu-zdrowych-miast-w-jednej-kategorii-najlepszy-w-polsce-grafiki,wia5-3266-66161.html",
+      "published": "2026-09-18T14:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e9bc38e73b096313b6c4c04f2bce6d2d2c999161",
+      "title": "Hospicjum w Rybniku już gotowe. Teraz trwa nabór pracowników. Zainteresowanie jest ogromne. Kilkaset zgłoszeń!",
+      "summary": "Kilkadziesiąt miejsc, a chętnych ponad 600. Trwa nabór pracowników do rybnickiego hospicjum. Przypomnijmy zostało ono wybudowane od podstaw przy ulicy Barbórki.",
+      "link": "https://www.radio90.pl/hospicjum-w-rybniku-juz-gotowe-teraz-trwa-nabor-pracownikow-zainteresowanie-jest-ogromne-kilkaset-zgloszen.html",
+      "published": "2026-09-18T13:50",
+      "source": "Radio 90",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -53,9 +228,19 @@
       "title": "JSW ma przetrwać, ale co dalej? Minister mówi o przyszłości spółki",
       "summary": "Najpierw było pytanie, czy JSW przetrwa. Teraz coraz częściej pojawia się kolejne: jaka będzie ta spółka po kryzysie? Prawie rok po rozmowie Wojciecha Balczuna z Nowinami.pl minister ponownie mówi o strategicznym znaczeniu jastrzębskiej firmy, ale załoga i region czekają już nie tylko na…",
       "link": "https://jastrzebieonline.pl/wiadomosci/251023-jsw-ma-przetrwac-ale-co-dalej-minister-mowi-o-przyszlosci-spolki.html",
-      "published": "2026-09-18T11:31",
+      "published": "2026-09-18T13:31",
       "source": "nowiny.pl",
       "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f3147d66f30b265c94b82caa52a6c28f18795f5c",
+      "title": "Julian Gawlik w półfinale w Czechach. Solidny tenis i wyeliminowani faworyci",
+      "summary": "Kolejny udany występ ma za sobą reprezentant KS Rybnickiego Towarzystwa Tenisowego, Julian Gawlik. Podczas dobrze obsadzonego turnieju kategorii C Czeskiego Związku Tenisowego, rozgrywanego w morawskim Kunštácie, Rybniczanin dotarł aż do półfinału rywalizacji singlowej.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,julian-gawlik-w-polfinale-w-czechach-solidny-tenis-i-wyeliminowani-faworyci,wia5-3270-66165.html",
+      "published": "2026-09-18T13:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -63,17 +248,27 @@
       "title": "Bez stresu i bez tajemnic. Raciborska porodówka od środka",
       "summary": "Jak wygląda droga od przyjęcia do szpitala aż na blok porodowy? Kto będzie towarzyszył przyszłej mamie i na jakie warunki może liczyć po narodzinach dziecka? Raciborska porodówka po raz piąty zaprasza na Dni Otwarte. – Chcemy oswoić przyszłe mamy z tym, jak to u nas wygląda – mówi w rozmowie z…",
       "link": "https://www.nowiny.pl/wiadomosci/251022-bez-stresu-i-bez-tajemnic-raciborska-porodowka-od-srodka.html",
-      "published": "2026-09-18T10:19",
+      "published": "2026-09-18T12:19",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
+    },
+    {
+      "id": "4de9b549eb39d29d9b13db05243e189c494d17bb",
+      "title": "Rusza budowa łącznika Kominka–Orzepowicka. Ulica Jośki zostanie zamknięta",
+      "summary": "W poniedziałek (21 września) rozpoczną się prace związane z budową nowego połączenia ulic Kominka i Orzepowickiej w Rybniku. To oznacza całkowite zamknięcie części ulicy Jośki. Utrudnienia potrwają do lutego 2027 roku.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,rusza-budowa-lacznika-kominka-orzepowicka-ulica-joski-zostanie-zamknieta,wia5-3266-66156.html",
+      "published": "2026-09-18T12:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
     },
     {
       "id": "048c363f593e5d17a3959c2262f459e95ef7aa5a",
       "title": "Puszki po ciastkach pełne pieniędzy i narkotyków? Policjanci pokazali, co znaleźli w Żorach",
       "summary": "Żorscy kryminalni podczas przeszukania dwóch miejsc znaleźli ponad 2 kilogramy marihuany oraz ponad 80 tysięcy złotych w gotówce. 34-letni mężczyzna usłyszał zarzut posiadania znacznej ilości narkotyków i trafił do tymczasowego aresztu.",
       "link": "https://ezory.pl/wiadomosci/251019-puszki-po-ciastkach-pelne-pieniedzy-i-narkotykow-policjanci-pokazali-co-znalezli-w-zorach.html",
-      "published": "2026-09-18T09:43",
+      "published": "2026-09-18T11:43",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -83,7 +278,7 @@
       "title": "Kierowca Fiata Seicento zjechał z drogi, staranował znak i uderzył w ciężarówkę",
       "summary": "Świadek kolizji na MOP Rówień nie pozwolił nietrzeźwemu kierowcy odjechać z miejsca zdarzenia. Zabrał 37-latkowi kluczyki i zatrzymał go do czasu przyjazdu policji. Badanie wykazało, że mężczyzna miał niemal 3 promile alkoholu w organizmie.",
       "link": "https://ezory.pl/wiadomosci/251018-kierowca-fiata-seicento-zjechal-z-drogi-staranowal-znak-i-uderzyl-w-ciezarowke.html",
-      "published": "2026-09-18T09:31",
+      "published": "2026-09-18T11:31",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -93,9 +288,19 @@
       "title": "Ile mogą zarobić pracownicy Urzędu Miasta Rybnika? Są nowe zasady wynagradzania",
       "summary": "Prezydent Rybnika wprowadził nowy Regulamin Wynagradzania Pracowników Urzędu Miasta. Maksymalne pensje zasadnicze urzędników pozostają bez zmian, ale wzrosły limity dodatków funkcyjnych dla części stanowisk kierowniczych. Zmieniono również zasady dotyczące premii i nagród.",
       "link": "https://www.nowiny.pl/wiadomosci/251017-ile-moga-zarobic-pracownicy-urzedu-miasta-rybnika-sa-nowe-zasady-wynagradzania.html",
-      "published": "2026-09-18T09:06",
+      "published": "2026-09-18T11:06",
       "source": "nowiny.pl",
       "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "38e12bd2448fb2ae68647522edf498677254044f",
+      "title": "Ulica Jośki w Rybniku zostanie zamknięta. Zmiany w dojeździe do MDK",
+      "summary": "Od najbliższego poniedziałku (21.09.) ulica Jośki zostanie częściowo zamknięta z powodu prac rozbiórkowych i budowy kanalizacji deszczowej. Jak dojechać do Młodzieżowego Domu Kultury w czasie trwania robót? Sprawdź.",
+      "link": "https://www.radio90.pl/ulica-joski-w-rybniku-zostanie-zamknieta-zmiany-w-dojezdzie-do-mdk.html",
+      "published": "2026-09-18T10:37",
+      "source": "Radio 90",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -103,49 +308,89 @@
       "title": "Szpital w Wodzisławiu bez kolejnego oddziału. Nieudolność rządu, dyrekcji czy władz powiatu?",
       "summary": "Interna to kolejny oddział, który może zostać zamknięty z powodu braku lekarzy. Ostatnio zrezygnował ordynator oddziału. Rzekomo dlatego, że w anonimowych pismach i mediach społecznościowych zaczęto mu wytykać, że równocześnie jest ordynatorem w szpitalu w Cieszynie, gdzie – nota bene – radnym…",
       "link": "https://www.nowiny.pl/wiadomosci/251016-szpital-w-wodzislawiu-bez-kolejnego-oddzialu-nieudolnosc-rzadu-dyrekcji-czy-wladz-powiatu.html",
-      "published": "2026-09-18T08:27",
+      "published": "2026-09-18T10:27",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
     },
     {
-      "id": "aaac1fbf76f9fac9305e6b48bf216fcea98f1bdf",
-      "title": "Ruda, Rajska Fala, a może strefa letnia H2Ostróg? Sprawdziliśmy frekwencję na kąpieliskach w regionie",
-      "summary": "Nie wszystkie kąpieliska prowadzą dokładną ewidencję wejść, ale tam, gdzie są dane, liczby pokazują skalę zainteresowania letnim wypoczynkiem nad wodą. Sprawdziliśmy frekwencję w największych obiektach regionu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251014-ruda-rajska-fala-a-moze-strefa-letnia-h2ostrog-sprawdzilismy-frekwencje-na-kapieliskach-w-regionie.html",
-      "published": "2026-09-18T07:47",
-      "source": "nowiny.pl",
-      "category": "Region",
+      "id": "17706e8cc7037a039a1d434fe6364924f88c6dfc",
+      "title": "Otwarty Rybnik wyszedł do mieszkańców. „Nie chcemy być tylko krytykami władzy”",
+      "summary": "Pierwsze otwarte spotkanie stowarzyszenia Otwarty Rybnik odbyło się w czwartek, 17 września, w restauracji InoWino. Przedstawiciele tej grupy przekonywali, że organizacja nie chce ograniczać się do patrzenia władzy na ręce. Jej członkowie zamierzają pomagać mieszkańcom w konkretnych sprawach…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,otwarty-rybnik-wyszedl-do-mieszkancow-nie-chcemy-byc-tylko-krytykami-wladzy,wia5-3266-66157.html",
+      "published": "2026-09-18T10:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
-      "id": "32c326ae6d8b66ba04979959d4939ffc6f9f5241",
-      "title": "Kuźnia Raciborska chce przejąć dworzec, który od lat niszczeje. PKP PLK mówi „nie”. Co stoi na przeszkodzie?",
-      "summary": "Kuźnia Raciborska chce przejąć niszczejący dworzec, ale na drodze pojawiła się przeszkoda. PKP PLK nie wyraziło zgody na zbycie nieruchomości w obecnym kształcie, ponieważ na działce znajdują się należące do spółki elementy infrastruktury kolejowej. Konieczny będzie jej podział.",
-      "link": "https://www.nowiny.pl/wiadomosci/251012-kuznia-raciborska-chce-przejac-dworzec-ktory-od-lat-niszczeje-pkp-plk-mowi-nie-co-stoi-na-przeszkodzie.html",
-      "published": "2026-09-18T07:02",
-      "source": "nowiny.pl",
-      "category": "Region",
+      "id": "311975d0fce8b4e22a63e3e3374143de8e7cec1d",
+      "title": "Śląska policja podsumowuje minioną dobę. 136 zdarzeń i 3 osoby ranne",
+      "summary": "136 zdarzeń drogowych i 3 osoby ranne. Śląska policja podsumowuje minioną dobę na trasach województwa.",
+      "link": "https://www.radio90.pl/slaska-policja-podsumowuje-miniona-dobe-136-zdarzen-i-3-osoby-ranne.html",
+      "published": "2026-09-18T09:55",
+      "source": "Radio 90",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
-      "id": "0af64b585b221cf62af003b10f8de28bff49d693",
-      "title": "Żorski Budżet Obywatelski 2027. Mieszkańcy zdecydują, na co wydać 3,5 mln zł",
-      "summary": "Nowa remiza strażacka, zadaszona trybuna stadionu, miejsce rekreacji przy szkole, bieżnia dla młodych sportowców albo strefa treningowa w Baranowicach. Mieszkańcy Żor od 21 września będą mogli zdecydować, który z pięciu projektów zostanie zrealizowany w ramach Budżetu Obywatelskiego 2027. Do…",
-      "link": "https://ezory.pl/wiadomosci/251013-zorski-budzet-obywatelski-2027-mieszkancy-zdecyduja-na-co-wydac-35-mln-zl.html",
-      "published": "2026-09-18T07:01",
-      "source": "nowiny.pl",
-      "category": "Region",
+      "id": "9c4711650e9b14c576f7f4d688fc931bd188a9c1",
+      "title": "Kompleks Akwarium w Boguszowicach po remoncie. Co się zmieniło?",
+      "summary": "Kompleks Akwarium – Pływalnia kryta w Boguszowicach zakończył prace remontowe. Modernizacja objęła obie niecki basenowe, a także wybrane elementy wyposażenia i oświetlenia obiektu. Koszt modernizacji niecek wyniósł blisko 326 tys. zł brutto.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,kompleks-akwarium-w-boguszowicach-po-remoncie-co-sie-zmienilo,wia5-3266-66142.html",
+      "published": "2026-09-18T09:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
-      "id": "1af503430099ccce51c7ba29bef4329743cf78bd",
-      "title": "Kominy nad Raciborzem",
-      "summary": "Z kominów unosił się dym, po torach przetaczano wagony, z browaru wyjeżdżała ciężarówka załadowana beczkami. Za reprezentacyjnymi kamienicami, kościołami i gwarnym Rynkiem istniał drugi Racibórz – przemysłowy. Tworzyły go cukrownia, browar, odlewnia żeliwa, rzeźnia miejska i zakłady rozciągające…",
-      "link": "https://historion.pl/historia/251011-kominy-nad-raciborzem.html",
-      "published": "2026-09-18T07:00",
-      "source": "nowiny.pl",
-      "category": "Region",
+      "id": "db7f0fc94f5be8b9d02b2bba5d798f7dbbaf4ec3",
+      "title": "Muzeum w Rybniku zaprasza na kolejny spacer po mieście",
+      "summary": "Zobacz jak zmienia się miasto. Muzeum w Rybniku polecają niedzielny (20.09) spacer, by pokazać jak znikają budynki, zmieniają się funkcje ulic i placów",
+      "link": "https://www.radio90.pl/muzeum-w-rybniku-zaprasza-na-kolejny-spacer-po-miescie.html",
+      "published": "2026-09-18T07:51",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "43c8dee06e9f856858c8ced2bcf26723abd88e73",
+      "title": "Dlaczego jazda na rolkach zyskuje coraz większą popularność?",
+      "summary": "Rolki są jednym z tych rodzajów sprzętu sportowego, który pozwala połączyć aktywność fizyczną z przyjemnym spędzaniem czasu na świeżym powietrzu. Nie wymagają dostępu do specjalnego boiska ani skomplikowanej infrastruktury. Do rekreacyjnej jazdy wystarczy odpowiednia nawierzchnia w parku, na…",
+      "link": "https://www.radio90.pl/dlaczego-jazda-na-rolkach-zyskuje-coraz-wieksza-popularnosc-2.html",
+      "published": "2026-09-18T00:08",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2e8b5b9870d6330f31f6aa4b3ccaffd61057dfe8",
+      "title": "Wyższa Szkoła Bezpieczeństwa w Jastrzębiu-Zdroju. Wybierz tutaj swoją przyszłość. Studiuj praktyczne kierunki",
+      "summary": "Wyższa Szkoła Bezpieczeństwa z siedzibą w Poznaniu od ponad dwóch dekad kształci specjalistów w kluczowych dla rynku pracy dziedzinach, a jej Wydział Nauk Społecznych w Jastrzębiu-Zdroju stanowi prężny ośrodek akademicki w regionie. Uczelnia wyróżnia się unikalnym, praktycznym profilem kształcenia…",
+      "link": "https://www.radio90.pl/wyzsza-szkola-bezpieczenstwa-w-jastrzebiu-zdroju-wybierz-tutaj-swoja-przyszlosc-studiuj-praktyczne-kierunki.html",
+      "published": "2026-09-18T00:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e13114c0c8aa8c8dba34e77d755f042faa8c3d9d",
+      "title": "Raciborski Gród Średniowieczny: historia, pasja i społeczna misja",
+      "summary": "Przenieś się w czasie do okresu wczesnego średniowiecza i zobacz, jak wyglądało życie naszych przodków na Górnym Śląsku. Raciborski Gród Średniowieczny w Raciborzu - Oborze to wyjątkowa rekonstrukcja osady z IX wieku, która tętni życiem przez cały rok. To idealne miejsce na rodzinny spacer…",
+      "link": "https://www.radio90.pl/raciborski-grod-sredniowieczny-historia-pasja-i-spoleczna-misja.html",
+      "published": "2026-09-18T00:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a3ad2af271df7af61ccde21ceab7548cfbe2dc69",
+      "title": "Gwiazdy teatru przyjadą do Rybnika. „Ding Dong, czyli karma wraca” już 25 września!",
+      "summary": "25 września w Rybniku będzie można zobaczyć komediowy spektakl „Ding Dong, czyli karma wraca\" w reżyserii Artura Barcisia. Zapowiada się wieczór pełen humoru, zaskakujących zwrotów akcji i... małżeńskich komplikacji.",
+      "link": "https://www.radio90.pl/gwiazdy-teatru-przyjada-do-rybnika-ding-dong-czyli-karma-wraca-juz-25-wrzesnia.html",
+      "published": "2026-09-18T00:03",
+      "source": "Radio 90",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -186,6 +431,166 @@
       "published": "2026-09-18T00:00",
       "source": "rybnik.eu",
       "category": "Kultura",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "590208508e04298437cfd9c7b6acd654abcda99a",
+      "title": "Ten pościg w Rybniku stał się słynny na całą Polskę. Teraz mieszkaniec dziękuje policjantom (wideo)",
+      "summary": "Pamiętacie słynny już pościg mundurowych za nieletnimi na elektrycznych motocyklach? Jak informuje KMP Rybnik, na ręce komendanta insp. Arkadiusza Więcka wpłynęły podziękowania dla policjantów z grupy Speed rybnickiej jednostki. Mieszkaniec Rybnika dziękuję mundurowym za sprawną interwencję na…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,ten-poscig-w-rybniku-stal-sie-slynny-na-cala-polske-teraz-mieszkaniec-dziekuje-policjantom-wideo,wia5-3266-66154.html",
+      "published": "2026-09-17T19:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "fe5326853e73118c60f074ca005b6e6eae8a863d",
+      "title": "Plama oleju na drodze oznacza realne niebezpieczeństwo – pisze nasza słuchaczka",
+      "summary": "Na śliskiej jezdni nietrudno o wypadek. Przekonała się o tym jedna z naszych słuchaczek ale tym razem powodem nie był deszcz... a olej, który wyciekł z jednego z pojazdów.",
+      "link": "https://www.radio90.pl/plama-oleju-na-drodze-oznacza-realne-niebezpieczenstwo-pisze-nasza-sluchaczka.html",
+      "published": "2026-09-17T19:00",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b4d5988d540069319f172766b99db8b1fe8a1b9b",
+      "title": "Hażlach nagrodzony, Rybnik wyróżniony. Gala w Pałacu Prezydenckim w Warszawie",
+      "summary": "Centrum Kultury Stodoła w Zamarskach zdobyło główną nagrodę XI edycji ogólnopolskiego konkursu architektoniczno-urbanistycznego „Lider Dostępności”. Statuetkę w Pałacu Prezydenckim w Warszawie odebrał wójt gminy Hażlach Grzegorz Sikorski.",
+      "link": "https://www.radio90.pl/hazlach-nagrodzony-rybnik-wyrozniony-gala-w-palacu-prezydenckim-w-warszawie.html",
+      "published": "2026-09-17T18:55",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "23309d231fe9cc1112753dccf3ec8b4a429a4780",
+      "title": "Polskie kopalnie kosztują miliardy, a rynek i tak zalewa węgiel z Kazachstanu. Import rośnie, miks energetyczny się nie zmienia",
+      "summary": "Import rośnie o 168 procent. Idziemy na rekord. Dane Agencji Rozwoju Przemysłu (ARP) pokazują gwałtowny zwrot na polskim rynku paliw. W pierwszym półroczu 2026 roku import węgla energetycznego do Polski wzrósł aż o 168% rok do roku. Tylko do końca lipca sprowadziliśmy niemal tyle surowca, ile w…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,polskie-kopalnie-kosztuja-miliardy-a-rynek-i-tak-zalewa-wegiel-z-kazachstanu-import-rosnie-miks-energetyczny-sie-nie-zmienia,wia5-3273-66150.html",
+      "published": "2026-09-17T17:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "24cb59038a18bba9aab3526d92f4eb6b13d019d8",
+      "title": "Alarm przeciwpożarowy w muzeum w Rybniku",
+      "summary": "Chwile grozy w muzeum w Rybniku. Dziś (17.09) po godzinie drugiej w nocy interweniowali tam strażacy. Co się stało?",
+      "link": "https://www.radio90.pl/alarm-przeciwpozarowy-w-muzeum-w-rybniku.html",
+      "published": "2026-09-17T17:20",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "8fc60345aa71d75527c240b77222879a1411a5bd",
+      "title": "Będzie ładniej na SOR-ze, ale najpierw - utrudnienia. Od poniedziałku wejście z innej strony",
+      "summary": "Od najbliższego poniedziałku (21 września) pacjenci korzystający z Wojewódzkiego Szpitala Specjalistycznego nr 3 w Rybniku muszą liczyć się ze zmianami w organizacji ruchu. Rozpoczyna się modernizacja strefy wejściowej do Pawilonu nr 3, czyli wejścia do SOR. Utrudnienia potrwają do końca…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,bedzie-ladniej-na-sor-ze-ale-najpierw-utrudnienia-od-poniedzialku-wejscie-z-innej-strony,wia5-3266-66149.html",
+      "published": "2026-09-17T16:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "8af7b69be2db2ddc8a079b9b7e6adc253fe57984",
+      "title": "Koniec pucharowej przygody piłkarek TS ROW Rybnik",
+      "summary": "Piłkarki TS ROW Rybnik zakończyły tegoroczny występ w Pucharze Polski na szczeblu Śląskiego Związku Piłki Nożnej. W rozegranym w środę, 16 września, spotkaniu półfinałowym Rybniczanki uległy na własnym boisku w Kamieniu zespołowi UKKS Katowice 0:6.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,koniec-pucharowej-przygody-pilkarek-ts-row-rybnik,wia5-3270-66167.html",
+      "published": "2026-09-17T15:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "28e1102e3fa19950a9c8f79a98566aba4b9cea12",
+      "title": "Tragedia w kopalni Knurów-Szczygłowice. Nie żyje 38-letni górnik",
+      "summary": "Jastrzębska Spółka Węglowa informuje o dzisiejszej tragedii, do której doszło w kopalni Knurów-Szczygłowice. Około 9:30 doszło do śmiertelnego wypadku. Zginął 38-letni pracownik kopalni.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,tragedia-w-kopalni-knurow-szczyglowice-nie-zyje-38-letni-gornik,wia5-3266-66155.html",
+      "published": "2026-09-17T14:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9ef84ee4b90af4416d5d78f9ed93da749fdf76ee",
+      "title": "Kolejny zabytkowy familok przy Przemysłowej do modernizacji. Wartość prac oszacowano na ponad 8,5 mln zł",
+      "summary": "Wiceprezydent Wojciech Kiljańczyk zapowiedział w mediach społecznościowych kolejną modernizację familoka przy ul. Przemysłowej w dzielnicy Paruszowiec-Piaski. Tym razem chodzi o budynek pod numerem 22. Znajduje się w nim 26 mieszkań. Znikną piece kaflowe i kuchnie węglowe, powstanie centralne…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,kolejny-zabytkowy-familok-przy-przemyslowej-do-modernizacji-wartosc-prac-oszacowano-na-ponad-8-5-mln-zl,wia5-3266-66152.html",
+      "published": "2026-09-17T13:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3ee3a6c9e707d7c115fc1606af47d0ed2b5be805",
+      "title": "Fałszywy mObywatel. Policja ostrzega przed cyfrowymi podróbkami",
+      "summary": "Spreparowane aplikacje i ekrany dokumentów mogą służyć do podszywania się pod inne osoby, wyłudzania usług czy omijania kontroli. Sam obraz dokumentu na telefonie nie potwierdza jego autentyczności.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,falszywy-mobywatel-policja-ostrzega-przed-cyfrowymi-podrobkami,wia5-3266-66141.html",
+      "published": "2026-09-17T11:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8cfb531bafcc32e748f3ce0577863a5d5d62e622",
+      "title": "Schronisko w Rybniku zaprasza na spotkanie przy kawie… z psiakami",
+      "summary": "W sobotę (19.09) spotkania przy kawie z psiakami. Schronisko w Rybniku zaprasza, by poznać adopciaki, czyli psy, które czekają na swój nowy dom.",
+      "link": "https://www.radio90.pl/schronisko-w-rybniku-zaprasza-na-spotkanie-przy-kawie-z-psiakami.html",
+      "published": "2026-09-17T10:32",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "60ffe9bd9afeaeb7e3f089727b7e3dfe2229a2b6",
+      "title": "Rybniczanka przewodzi „Solidarności” w Biedronce. Po mediacjach zapowiada referendum",
+      "summary": "Nie ma porozumienia między „Solidarnością” działającą w sieci Biedronka a przedstawicielami Jeronimo Martins Polska. Ostatnia runda mediacji, która odbyła się 16 września w Warszawie, zakończyła się bez przełomu. Związkowcy zapowiadają teraz referendum strajkowe. – Kontynuowanie negocjacji w takiej…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,rybniczanka-przewodzi-solidarnosci-w-biedronce-po-mediacjach-zapowiada-referendum,wia5-3273-66148.html",
+      "published": "2026-09-17T09:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e8978ddbb0207dcfcd03ec55dc6437febd47ac0b",
+      "title": "Co warto wiedzieć o parkingach lotniskowych przed pierwszym lotem?",
+      "summary": "Po raz pierwszy lecisz samolotem i planujesz dojechać na lotnisko swoim autem? Sprawdź, w jaki sposób korzysta się z parkingów lotniskowych i dlaczego jest to dobra opcja.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,co-warto-wiedziec-o-parkingach-lotniskowych-przed-pierwszym-lotem,wia5-3266-66147.html",
+      "published": "2026-09-17T09:03",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4fab95be661b969b0308fa936f953c3b9f47d341",
+      "title": "Bezpieczna przesyłka, zadowolony klient. Jak dobrać opakowanie do wysyłanego produktu?",
+      "summary": "Rozbity flakon perfum, zgniecione pudełko z butami czy uszkodzona elektronika to nie tylko reklamacja, koszt ponownej wysyłki i zniszczony produkt. To rozczarowany klient i ryzyko utraty zaufania do marki.",
+      "link": "https://www.radio90.pl/bezpieczna-przesylka-zadowolony-klient-jak-dobrac-opakowanie-do-wysylanego-produktu.html",
+      "published": "2026-09-17T08:57",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a97a83387614c7197901143a5cab15ebb1d03bad",
+      "title": "Na SOR w Rybniku od innej strony. Rusza remont pawilonu numer 3",
+      "summary": "Uwaga, zmiany w wejściu na SOR w Rybniku. Jak zapowiedział właśnie Wojewódzki Szpital Specjalistyczny Nr 3, w poniedziałek (21.09) rusza I etap prac w pawilonie nr 3 od strony Szpitalnego Oddziału Ratunkowego.",
+      "link": "https://www.radio90.pl/na-sor-w-rybniku-od-innej-strony-rusza-remont-pawilonu-numer-3.html",
+      "published": "2026-09-17T08:02",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a0ec4d6746685742e9ddb3d26de546c97082e9ad",
+      "title": "Zamiast śniadania biznesowego – networking na luzie. BMH zaprasza na wyjątkowy wieczór w Rybniku",
+      "summary": "Biznesowe kontakty można nawiązywać także po godzinach, bez garnituru i sztywnego scenariusza. Business Meeting Hub proponuje przedsiębiorcom wieczorną alternatywę dla popularnych śniadań biznesowych. Organizatorzy zapowiadają jedyne takie spotkanie w Rybniku: przy wspólnym stole, w swobodnej…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,zamiast-sniadania-biznesowego-networking-na-luzie-bmh-zaprasza-na-wyjatkowy-wieczor-w-rybniku,wia5-3273-66138.html",
+      "published": "2026-09-17T08:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -239,13 +644,173 @@
       "priority": "NORMAL"
     },
     {
+      "id": "9eefd5fa55e11722d7a59dc3b16e644887316545",
+      "title": "Szermierka: Liliana Niedobecka druga w Radlinie",
+      "summary": "Reprezentantka RMKS-u Rybnik, Liliana Niedobecka, stanęła na drugim stopniu podium podczas I Pucharu Polski Juniorek (U20) w szpadzie kobiet, który odbył się w sąsiednim Radlinie.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,szermierka-liliana-niedobecka-druga-w-radlinie,wia5-3270-66146.html",
+      "published": "2026-09-16T21:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a5e7e04e73af04fab922c4bc55f81280331393fd",
+      "title": "Autostrada A4 bez opłat dla osobówek i motocykli. Za pół roku. W planach także trzeci pas",
+      "summary": "Od 16 marca 2027, czyli dokładnie za pół roku, kierowcy samochodów osobowych i motocykli nie będą już płacić za przejazd autostradą A4 na odcinku Katowice–Kraków. Zarządzanie trasą przejmie Generalna Dyrekcja Dróg Krajowych i Autostrad.",
+      "link": "https://www.radio90.pl/autostrada-a4-bez-oplat-dla-osobowek-i-motocykli-za-pol-roku-w-planach-takze-trzeci-pas.html",
+      "published": "2026-09-16T19:21",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f7760fa5f5d52a04222ecbd848bbd7fdc94b4543",
+      "title": "Rybnik: zmarł znany i ceniony stomatolog Witold Prochasek. Miał 48 lat",
+      "summary": "Smutna wiadomość dotarła do pacjentów i współpracowników rybnickiego stomatologa Witolda Prochaska. Lekarz zmarł 13 września 2026 roku w wieku 48 lat. Jego zespół żegna go jako oddanego lekarza, szefa i przyjaciela. Pogrzeb odbędzie się w sobotę, 19 września, w Rybniku-Zamysłowie.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,rybnik-zmarl-znany-i-ceniony-stomatolog-witold-prochasek-mial-48-lat,wia5-3266-66145.html",
+      "published": "2026-09-16T18:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "db00bb31db5ca29cd381626ff6a7524f30b4deb5",
+      "title": "Szukanie pomocy nie powinno być już tematem tabu. Każdy z nas może zostać pacjentem szpitala psychiatrycznego",
+      "summary": "Ponad 700 pacjentów leczonych jest w Klinicznym Szpitalu Psychiatrycznym w Rybniku. I właśnie z myślą o nich zorganizowano (15.09.) piknik „Jesień pod Wieżą – razem świętujemy, razem dbamy\".",
+      "link": "https://www.radio90.pl/szukanie-pomocy-nie-powinno-byc-juz-tematem-tabu-kazdy-z-nas-moze-zostac-pacjentem-szpitala-psychiatrycznego.html",
+      "published": "2026-09-16T17:15",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ce021849f8d472e46bf19dc70d433a413af7d655",
+      "title": "GIS ostrzega! Popularna herbata wycofana ze sprzedaży",
+      "summary": "Główny Inspektorat Sanitarny wydał ostrzeżenie dotyczące herbaty ziołowej z pokrzywy. W jednej z partii produktu stwierdzono przekroczenie dopuszczalnego poziomu alkaloidów pirolizydynowych. Konsumenci powinni sprawdzić opakowania i nie spożywać wskazanej partii.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,gis-ostrzega-popularna-herbata-wycofana-ze-sprzedazy,wia5-3266-66135.html",
+      "published": "2026-09-16T17:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "1508206c5429b7164a561e53cc01f0d9f97f058c",
+      "title": "Mieszkańcy Niedobczyc mają swoją maskotkę. To malutka wiewiórka",
+      "summary": "Niedobczycką wiewiórkę, która hasa w Parku Czempiela, pokazuje Dom Kultury w Niedobczycach.",
+      "link": "https://www.radio90.pl/mieszkancy-niedobczyc-maja-swoja-maskotke-to-malutka-wiewiorka.html",
+      "published": "2026-09-16T15:45",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "bdba015126f2f8320d8235cd8b94bb8d4cea21d8",
+      "title": "39 pociągów Kolei Śląskich odwołanych, ponad 100 opóźnionych. Usunięto awarię, ale opóźnienia trwają",
+      "summary": "Około godziny 3 nad ranem w Katowicach doszło do awarii urządzeń sterowania ruchem kolejowy. W efekcie pociągi są nadal opóźnione, a wiele z nich zostało odwołanych. Dobra wiadomość dla pasażerów jest taka, że po usunięciu awarii powoli opóźnienia są zmniejszane.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,39-pociagow-kolei-slaskich-odwolanych-ponad-100-opoznionych-usunieto-awarie-ale-opoznienia-trwaja,wia5-3266-66144.html",
+      "published": "2026-09-16T15:09",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "174991bad3e3ff117d0765abd3685f6a69c3422f",
+      "title": "Rybnik z dokładniejszą prognozą pogody. TrafnaPogoda.pl codziennie rozlicza się ze skuteczności",
+      "summary": "W polskim internecie pojawił się serwis TrafnaPogoda.pl, który liczy osobne prognozy dla Rybnika oraz okolicznych miejscowości, takich jak Żory, Wodzisław Śląski, Jastrzębie-Zdrój czy Racibórz. Zamiast ogólnikowych zapowiedzi portal wprowadził codzienną weryfikację własnych przewidywań na podstawie…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,rybnik-z-dokladniejsza-prognoza-pogody-trafnapogoda-pl-codziennie-rozlicza-sie-ze-skutecznosci,wia5-3266-66143.html",
+      "published": "2026-09-16T14:40",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6c67e530dba979459241b629f99881306c0ed89f",
+      "title": "Paraliż, opóźnienia i wściekli pasażerowie. Awaria na kolei na Śląsku",
+      "summary": "Takiej kolejowej awarii na Śląsku dawno nie było. Po dziewięciu godzinach udało się ja usunąć, ale przywracanie normalnego ruchu potrwa jeszcze co najmniej kilka godzin.",
+      "link": "https://www.radio90.pl/paraliz-opoznienia-i-wsciekli-pasazerowie-awaria-na-kolei-na-slasku.html",
+      "published": "2026-09-16T14:15",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "cdbd4cd82874eb9212dac03f1574fb3e7e827afa",
+      "title": "„Delicje” wrócą na rybnicki rynek. Trwa remont, znamy nieoficjalny termin otwarcia",
+      "summary": "Po latach pustostanu w dawnych „Delicjach” przy rybnickim rynku znów widać intensywne prace. Z naszych nieoficjalnych informacji wynika, że lokal zachowa historyczną nazwę, a przed budynkiem powstanie przeszklony taras. Jeśli wszystko pójdzie zgodnie z planem, gastronomia ma ruszyć wiosną…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,delicje-wroca-na-rybnicki-rynek-trwa-remont-znamy-nieoficjalny-termin-otwarcia,wia5-3266-66133.html",
+      "published": "2026-09-16T13:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f19e745bdd9a764e1d3213c58cb69817fcb1ce93",
+      "title": "Mieszkaniec Rybnika stracił przez oszustów ćwierć miliona zł. Sam przekazał im pieniądze",
+      "summary": "Oszuści znów w akcji. Tym razem mieszkaniec Rybnika stracił aż 242 tysiące złotych. Do 39-latka dzwonił najpierw rzekomy pracownik banku, później rzekomi policjanci.",
+      "link": "https://www.radio90.pl/mieszkaniec-rybnika-stracil-przez-oszusta-cwierc-miliona-zl.html",
+      "published": "2026-09-16T11:30",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "16e3e8225374072cbef623e4eed26e20cafe98a6",
+      "title": "39-latek z Rybnika stracił 242 tys. zł. Fałszywy pracownik banku, policjant i kurier",
+      "summary": "Mieszkaniec Rybnika padł ofiarą wieloetapowego oszustwa. Przez cztery dni kontaktowali się z nim fałszywi pracownicy banku i policjant, przekonując, że jego dane wyciekły, a na jego nazwisko został zaciągnięty kredyt. Mężczyzna zaciągnął kolejne zobowiązania, wpłacał pieniądze w bitomatach, a…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,39-latek-z-rybnika-stracil-242-tys-zl-falszywy-pracownik-banku-policjant-i-kurier,wia5-3266-66139.html",
+      "published": "2026-09-16T11:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "55a929460f87d2e914ee619db1ff9d7e6073c119",
+      "title": "Jaki amplituner do kina domowego? Na co zwrócić uwagę przy 4K, 8K i Dolby Atmos?",
+      "summary": "Marzysz o prawdziwych kinowych emocjach we własnym salonie. Dobry sprzęt przeniesie cię w środek akcji za sprawą przestrzennego dźwięku i ostrego obrazu. Wybór serca takiego zestawu bywa wyzwaniem wobec wielu oznaczeń technicznych. Chcąc wykorzystać potencjał nowoczesnego telewizora, musisz poznać…",
+      "link": "https://www.radio90.pl/jaki-amplituner-do-kina-domowego-na-co-zwrocic-uwage-przy-4k-8k-i-dolby-atmos.html",
+      "published": "2026-09-16T09:43",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "18097568de664e997d0d3e9f7eb7ec6442ce16cf",
       "title": "Najlepsze kurtki zimowe damskie na mroźne dni",
       "summary": "Gdy temperatura za oknem gwałtownie spada poniżej zera, odpowiednio dobrana odzież wierzchnia gwarantuje Ci stałą ochronę termiczną podczas każdego wyjścia. W mroźne poranki potrzebujesz fasonu, który skutecznie powstrzyma podmuchy lodowatego wiatru oraz ochroni przed opadami gęstego śniegu…",
       "link": "https://www.nowiny.pl/nie-przegap/250959-najlepsze-kurtki-zimowe-damskie-na-mrozne-dni.html",
-      "published": "2026-09-16T07:37",
+      "published": "2026-09-16T09:37",
       "source": "nowiny.pl",
       "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "56a51f856e4ca7b293a05092d8d68f27479adadb",
+      "title": "Uwaga pasażerowie! Poważna awaria na kolei. Pociągi opóźnione lub nawet odwołane",
+      "summary": "Od godziny 3 w nocy trwa poważna awaria urządzeń sterowania ruchem kolejowym, która powoduje duże utrudnienia w kursowaniu pociągów. Problemy obejmują m.in. odcinek od Chorzowa Batorego przez Katowice Ligotę i Mysłowice aż po Będzin. Skutki awarii odczuwają także pasażerowie z naszego regionu…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,uwaga-pasazerowie-powazna-awaria-na-kolei-pociagi-opoznione-lub-nawet-odwolane,wia5-3266-66137.html",
+      "published": "2026-09-16T08:26",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "8fad8ea29623834db327ec3bcad241e202c4612b",
+      "title": "Koleje Śląskie: opóźnienia i odwołane pociągi w całym województwie [AKTUALIZACJA]",
+      "summary": "Ogromne opóźnienia, odwołane pociągi – Koleje Śląskie informują o utrudnieniach. Od godz. 3:00 w nocy występują poważne problemy w ruchu pociągów w związku z awarią po stronie PKP PLK – brakiem zasilania urządzeń sterowania ruchem.",
+      "link": "https://www.radio90.pl/koleje-slaskie-opoznienia-i-odwolane-pociagi-w-calym-wojewodztwie.html",
+      "published": "2026-09-16T08:00",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "467c28ba1df6197f50a631c1e07d60e2daa7314f",
+      "title": "Rzeka Ruda w finale plebiscytu Śląska Lokacja Filmowa 2026",
+      "summary": "Rzeka Ruda ma szansę zostać Śląską Lokacją Filmową 2026, głosować można jeszcze do piątku (18.09).",
+      "link": "https://www.radio90.pl/rzeka-ruda-w-finale-plebiscytu-slaska-lokacja-filmowa-2026.html",
+      "published": "2026-09-16T06:45",
+      "source": "Radio 90",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -269,6 +834,26 @@
       "priority": "NORMAL"
     },
     {
+      "id": "ccf20b2b5e7b3f502bacdffb85f992a819a8a819",
+      "title": "Michał Woś z zarzutami: komunikat Prokuratury Krajowej",
+      "summary": "Michał Woś były wiceminister sprawiedliwości z czasów rządów PiS, usłyszał poważne zarzuty. Prokuratura Krajowa podała szczegóły.",
+      "link": "https://www.radio90.pl/michal-wos-z-zarzutami-komunikat-prokuratury-krajowej.html",
+      "published": "2026-09-15T21:08",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3d6c74107e7a81e46b1faf4c15cfe8a97b03cc48",
+      "title": "Kierowca na podwójnym gazie i z sądowym zakazem. Został zatrzymany na autostradzie A1",
+      "summary": "Wracał z imprezy, mając prawie 2 promile alkoholu w organizmie... W dodatku 24-letni kierujący Audi miał obowiązujące sądowe zakazy prowadzenia pojazdów. Decyzją sądu został tymczasowo aresztowany na trzy miesiące.",
+      "link": "https://www.radio90.pl/kierowca-na-podwojnym-gazie-i-z-sadowym-zakazem-zostal-zatrzymany-na-autostradzie-a1.html",
+      "published": "2026-09-15T16:30",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "8a2a2baea2426280c00e901f6c380ee4c070af44",
       "title": "Tydzień dla seniorów",
       "summary": "Na przełomie września i października Rybnik będzie świętował aktywność, kulturę i integrację seniorów. W programie m.in. spotkania, profilaktyka, taniec, śpiew, historia regionu i koncerty.",
@@ -277,6 +862,26 @@
       "source": "rybnik.eu",
       "category": "Seniorzy",
       "priority": "NORMAL"
+    },
+    {
+      "id": "cbf42c7200ffec29893bce9dbfb90560f825d5c4",
+      "title": "Planowane wyłączenia prądu. Lista nie jest długa, ale przerwy mogą dać się we znaki",
+      "summary": "W najbliższych dniach planowanych wyłączeń prądu w Rybniku i powiecie rybnickim nie będzie dużo. Nie oznacza to jednak, że mieszkańcy, których dotyczą, nie odczują utrudnień. W niektórych miejscach przerwa w dostawie energii potrwa nawet 10 godzin. Sprawdź, gdzie i kiedy zabraknie prądu.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,planowane-wylaczenia-pradu-lista-nie-jest-dluga-ale-przerwy-moga-dac-sie-we-znaki,wia5-3266-66114.html",
+      "published": "2026-09-13T12:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "53a9be53b8a68795cc81c2a6552e64bba02ce82d",
+      "title": "Protest maszynistów - dziś na kolei. Pociągi mogą mieć duże opóźnienia",
+      "summary": "Pasażerowie kolei muszą dziś, 11 września, liczyć się z poważnymi utrudnieniami. Maszyniści mają zwalniać przed wszystkimi przejazdami kolejowo-drogowymi do 20 km/h. Koleje Śląskie ostrzegają przed dużymi opóźnieniami, a PKP Polskie Linie Kolejowe wskazują, że skutki protestu mogą być odczuwalne…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,protest-maszynistow-dzis-na-kolei-pociagi-moga-miec-duze-opoznienia,wia5-3266-66098.html",
+      "published": "2026-09-11T07:13",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
     },
     {
       "id": "e1840349ecbfd687d931a320eee18d608e616872",
@@ -299,6 +904,26 @@
       "priority": "NORMAL"
     },
     {
+      "id": "b4c24261dfa0827ce4d60238ac3504ae500a286b",
+      "title": "Będą utrudnienia w ruchu w rejonie szpitala. Wymienią nawierzchnię",
+      "summary": "Kierowcy, ta informacja jest dla Was istotna. Od środy (9 września) do końca tego miesiąca musicie liczyć się z utrudnieniami w ruchu na ul. Energetyków i Żołędziowej. Pracownicy ZDM wymienią tam nawierzchnię.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,beda-utrudnienia-w-ruchu-w-rejonie-szpitala-wymienia-nawierzchnie,wia5-3266-66077.html",
+      "published": "2026-09-08T17:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "1787d7fef9104d59b41fa757f934c3115bc0d8da",
+      "title": "Pesto i sos boloński wycofane przez GIS! Szkło i toksyna w słoikach",
+      "summary": "Główny Inspektorat Sanitarny wydał ostrzeżenia publiczne dotyczące wycofania z obrotu dwóch produktów spożywczych. Wskazane partie nie nadają się do spożycia ze względu na ryzyko obecności niebezpiecznych substancji i ciał obcych.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,pesto-i-sos-bolonski-wycofane-przez-gis-szklo-i-toksyna-w-sloikach,wia5-3266-66074.html",
+      "published": "2026-09-08T12:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
       "id": "f7afd99998f3dff80aa43bcc47770dd6f120c453",
       "title": "Duże mieszkanie w centrum czeka na najemcę.",
       "summary": "Mieszkanie komunalne o powierzchni 138 m² czeka na najemcę. Lokal przy ul. Rzecznej 4/10 zostanie wystawiony na licytację już 16 września. Przyszły najemca będzie zobowiązany do przeprowadzenia niezbędnego remontu.",
@@ -317,6 +942,16 @@
       "source": "rybnik.eu",
       "category": "Komunikaty",
       "priority": "NORMAL"
+    },
+    {
+      "id": "8cef111c0b5a56aa7f14dd39257cc86e07fa3831",
+      "title": "Tauron zapowiada przerwy w dostawie prądu na terenie Rybnika. Sprawdź ulice i godziny wyłączeń",
+      "summary": "W najbliższych dniach mieszkańcy kilku ulic w Rybniku muszą liczyć się z czasowymi przerwami w dostawie energii elektrycznej. Tauron opublikował harmonogram planowanych wyłączeń od 7 do 11 września 2026 roku. Najdłuższe potrwają nawet dziewięć godzin.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,tauron-zapowiada-przerwy-w-dostawie-pradu-na-terenie-rybnika-sprawdz-ulice-i-godziny-wylaczen,wia5-3266-66057.html",
+      "published": "2026-09-06T12:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
     },
     {
       "id": "91a3d0dbafd83e824841679cf34efb3a582e2be1",
@@ -359,6 +994,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "693b3479108e81ac0323a8bdcd7c4c8721440a12",
+      "title": "Premier wprowadza i przedłuża stopnie alarmowe. To dotyczy całego kraju!",
+      "summary": "Patrząc na to, co dzieje się w kraju i za naszą wschodnią granicą – to naturalny ruch Prezesa Rady Ministrów. Pod koniec sierpnia Donald Tusk wprowadził i przedłużył stopnie alarmowe, obowiązujące w całej Polsce. Warto wiedzieć czego one dotyczą.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,premier-wprowadza-i-przedluza-stopnie-alarmowe-to-dotyczy-calego-kraju,wia5-3266-66014.html",
+      "published": "2026-09-01T10:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
       "id": "0c2e6fb054b09eec10c984b43aec677703bd3107",
       "title": "Wręczenie aktów mianowania 105 nauczycielom",
       "summary": "31 sierpnia w Urzędzie Miasta odbyło się uroczyste ślubowanie i wręczenie aktów nadania stopnia awansu zawodowego.",
@@ -369,6 +1014,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "b31855bc380d75eaa66a8f4f4b61181893ad3319",
+      "title": "Przerwy w dostawie prądu w Rybniku i powiecie. Utrudnienia od dziś do czwartku",
+      "summary": "Mieszkańcy Rybnika oraz kilku miejscowości powiatu rybnickiego muszą przygotować się na planowane przerwy w dostawie energii elektrycznej. Pierwsze wyłączenia zaplanowano już na dziś, 31 sierpnia, a kolejne potrwają do czwartku, 3 września. W niektórych miejscach prądu może nie być nawet przez…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,przerwy-w-dostawie-pradu-w-rybniku-i-powiecie-utrudnienia-od-dzis-do-czwartku,wia5-3266-66002.html",
+      "published": "2026-08-31T07:37",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
       "id": "33539f92427e60f518f98af139d938ad9df972c3",
       "title": "Rybnik na kolejowej trasie do Pszczyny. Nowe połączenia Kolei Śląskich już kursują",
       "summary": "Po zakończeniu prac modernizacyjnych kolej wróciła na trasę Rybnik – Żory – Pszczyna. Od 30 sierpnia mieszkańcy Rybnika i okolic mogą korzystać z większej liczby bezpośrednich połączeń Kolei Śląskich.",
@@ -377,6 +1032,36 @@
       "source": "rybnik.eu",
       "category": "Komunikacja",
       "priority": "NORMAL"
+    },
+    {
+      "id": "b7627dd2cc0589ebc7746b5ef8dc98c97249a97b",
+      "title": "Rybnik/Czerwionka-Leszczyny: problemy z wodą potrwają jeszcze dłużej! Ludzie załamują już ręce",
+      "summary": "Mieszkańcy części Rybnika oraz Czerwionki-Leszczyn muszą przygotować się na dłuższe utrudnienia w dostawie wody. Górnośląskie Przedsiębiorstwo Wodociągów informuje, że naprawa magistrali wymaga dodatkowych prac. Nowy termin ich zakończenia wyznaczono na niedzielę, 31 sierpnia, na godz. 7.00. Do…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,rybnik-czerwionka-leszczyny-problemy-z-woda-potrwaja-jeszcze-dluzej-ludzie-zalamuja-juz-rece,wia5-3266-65988.html",
+      "published": "2026-08-28T13:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "5bea436c2d0cf22cbdcb92ebe967d273a01b44f0",
+      "title": "Paruszowiec w cieniu powodziowych obaw. UM: \"mamy ciągły nadzór nad infrastrukturą”",
+      "summary": "Bezpieczeństwo powodziowe dzielnic Paruszowiec-Piaski oraz Ligocka Kuźnia stało się ponownie spornym tematem dyskusji i pytań mieszkańców. Od złożenia oficjalnej, alarmującej interpelacji przez radnych Andrzeja Sączka oraz Andrzeja Wojaczka minęło blisko dwa tygodnie. Do dzisiaj (27 sierpnia) radni…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,paruszowiec-w-cieniu-powodziowych-obaw-um-mamy-ciagly-nadzor-nad-infrastruktura,wia5-3266-65983.html",
+      "published": "2026-08-28T12:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "48c3a8b5570b5bf4102692f045d2ccd233caa81c",
+      "title": "Zamkną dwa przejazdy w Czerwionce. Utrudnienia potrwają do 11 września",
+      "summary": "Kierowcy i pasażerowie kolei muszą przygotować się na kolejne utrudnienia w Czerwionce-Leszczynach. Pod koniec sierpnia zamknięty zostanie przejazd kolejowy przy ul. Kolejowej, a dzień później przy ul. Furgoła. Zmiany mają związek z modernizacją stacji Czerwionka i układu torowego. Od 1 do 10…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,zamkna-dwa-przejazdy-w-czerwionce-utrudnienia-potrwaja-do-11-wrzesnia,wia5-3266-65978.html",
+      "published": "2026-08-28T10:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
     },
     {
       "id": "77f6ea194d9da33737c0df5b910e4c42bc501384",
@@ -409,251 +1094,51 @@
       "priority": "NORMAL"
     },
     {
-      "id": "bfd9b0bf0bcbc5d31a82e609dc09aae905ef8eb9",
-      "title": "Hospicjum w Rybniku - kolejny etap przygotowań",
-      "summary": "Prace związane z uruchomieniem hospicjum stacjonarnego w Rybniku wchodzą w kolejny etap. Fundacja Puls-Med Blisko Ciebie uzyskała wpis do Rejestru Podmiotów Wykonujących Działalność Leczniczą, trwa przygotowanie do wyposażenia placówki oraz rekrutacja przyszłego personelu.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/hospicjum-w-rybniku-kolejny-etap-przygotowan",
-      "published": "2026-08-27T00:00",
-      "source": "rybnik.eu",
-      "category": "Inwestycje",
-      "priority": "NORMAL"
+      "id": "6e9038aa528190452cd55b085483bf03770a89a2",
+      "title": "Awaria pociągu towarowego między Leszczynami a Rybnikiem. Pasażerowie jadą autobusami",
+      "summary": "Problemy na kolei między Czerwionką-Leszczynami a Rybnikiem. Na jednotorowym odcinku zepsuł się pociąg towarowy, przez co ruch został wstrzymany. Koleje Śląskie uruchomiły zastępczą komunikację autobusową między Leszczynami a Rybnikiem. Są opóźnienia i odwołane pociągi.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,awaria-pociagu-towarowego-miedzy-leszczynami-a-rybnikiem-pasazerowie-jada-autobusami,wia5-3266-65959.html",
+      "published": "2026-08-26T09:27",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
     },
     {
-      "id": "a8042417dae960b20d73f7db644cc804582fddb2",
-      "title": "Wakacyjne remonty w szkołach i przedszkolach",
-      "summary": "Wakacje to w placówkach oświatowych czas intensywnych remontów, modernizacji i większych inwestycji. Prace prowadzone są zarówno w szkołach, przedszkolach, jak i w innych placówkach oświatowych. Wśród największych inwestycji są rozbudowa II Liceum Ogólnokształcącego oraz termomodernizacja Zespołu…",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/wakacyjne-remonty-w-rybnickich-szkolach-i-przedszkolach",
-      "published": "2026-08-25T00:00",
-      "source": "rybnik.eu",
-      "category": "Inwestycje",
-      "priority": "NORMAL"
+      "id": "2fb928f6918fd3c789fc523223ea66f48a911d6d",
+      "title": "Przerwy w prądzie i problemy z wodą. Utrudnienia w regionie",
+      "summary": "Mieszkańcy Rybnika oraz gminy Czerwionka-Leszczyny muszą liczyć się w najbliższych dniach z utrudnieniami w dostawie prądu i wody. Tauron Dystrybucja zaplanował wyłączenia energii m.in. w Książenicach, Przegędzy i Czerwionce-Leszczynach, a awaria magistrali Górnośląskiego Przedsiębiorstwa…",
+      "link": "http://www.rybnik.com.pl/wiadomosci,przerwy-w-pradzie-i-problemy-z-woda-utrudnienia-w-regionie,wia5-3266-65933.html",
+      "published": "2026-08-24T08:29",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
     },
     {
-      "id": "dfe4badbe7f209296c84e628a5d1f53c7c530e29",
-      "title": "Święto Wojska Polskiego i obchody 35-lecia Straży Miejskiej na rybnickim rynku",
-      "summary": "28 sierpnia na rybnickim rynku odbędą się uroczyste, połączone obchody Święta Wojska Polskiego oraz obchody 35-lecia Straży Miejskiej.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/swieto-wojska-polskiego-i-obchody-35-lecia-strazy-miejskiej-na-rybnickim-rynku",
-      "published": "2026-08-24T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
+      "id": "52dd66bdff3d5dfddac80444e078ee0f5ef90e1d",
+      "title": "Dwa alarmy żywnościowe. GIS ostrzega przed skażonym mięsem i mlekiem dla niemowląt",
+      "summary": "Główny Inspektorat Sanitarny wydał dwa ostrzeżenia dotyczące produktów spożywczych, które mogą stanowić zagrożenie dla zdrowia. W jednym przypadku chodzi o groźną bakterię, w drugim o substancję toksyczną wykrytą w mleku początkowym. Oba produkty zostały objęte działaniami wycofującymi.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,dwa-alarmy-zywnosciowe-gis-ostrzega-przed-skazonym-miesem-i-mlekiem-dla-niemowlat,wia5-3266-65889.html",
+      "published": "2026-08-19T12:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
     },
     {
-      "id": "ad82711752cbdab6636409b7bca936485b5102dc",
-      "title": "Oficjalne otwarcie nowego żłobka w Rybniku",
-      "summary": "Żłobek przy ul. Winklera 6 w Rybniku tętni już nowym życiem. Od 3 sierpnia odbywają się tu pierwsze zajęcia adaptacyjne dla najmłodszych mieszkańców miasta, a dziś placówka została oficjalnie otwarta.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/oficjalnie-otwarcie-nowego-zlobka-w-rybniku",
-      "published": "2026-08-20T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "81123071e1b81b8e963af0c1613eaa509fef3d08",
-      "title": "Szkoła Podstawowa nr 18 zyskuje nowe oblicze i niższą emisję ciepła",
-      "summary": "Trwa kompleksowa modernizacja budynku szkoły, dzięki której placówka zyska wyższy standard i efektywność energetyczną. Inwestycja o wartości ponad 3,2 mln zł jest częścią dużego, unijnego projektu obejmującego 18 miejskich obiektów.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/szkola-podstawowa-nr-18-zyskuje-nowe-oblicze-i-nizsza-emisje-ciepla",
-      "published": "2026-08-20T00:00",
-      "source": "rybnik.eu",
-      "category": "Edukacja",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "100bcca2c5f64138d718e24044fac50be3114942",
-      "title": "Rozbudowa ul. Grota-Roweckiego w Niewiadomiu",
-      "summary": "Trwa realizacja drugiego etapu rozbudowy ul. Grota-Roweckiego w dzielnicy Niewiadom. To część drogi od wybudowanego wcześniej bezkolizyjnego węzła z Drogą Regionalną do skrzyżowania z ulicami: Racławicką, Stefana Batorego i Zygmunta Starego. Prace dotyczą również przebudowy skrzyżowania.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/rozbudowa-ul-grota-roweckiego-w-niewiadomiu",
-      "published": "2026-08-20T00:00",
-      "source": "rybnik.eu",
-      "category": "Inwestycje",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c6d9af92fa7e658f0d2969e0d913d1fe53df6724",
-      "title": "Jeden bilet w Rybniku i Jastrzębiu",
-      "summary": "Od 1 września będzie obowiązywał jeden bilet dobowy na autobusy w Komunikacji Miejskiej Rybnik i Międzygminnym Związku Komunikacyjnym w Jastrzębiu - Zdroju. To kolejne działanie na rzecz integracji transportu publicznego, które ma ułatwić podróże mieszkańcom naszego regionu.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/jeden-bilet-w-rybniku-i-jastrzebiu",
-      "published": "2026-08-19T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikacja",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6542df6b1129a72b74cacb2261250b7033abef57",
-      "title": "11 mln na modernizację Zespołu Szkół nr 5 w Rybniku",
-      "summary": "Inwestycja obejmuje poprawę efektywności energetycznej obiektu, jak i modernizację jego instalacji oraz wybranych pomieszczeń. Powstanie również instalacja fotowoltaiczna wraz z magazynem energii.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/11-mln-na-modernizacje-zespolu-szkol-nr-5-w-rybniku",
-      "published": "2026-08-19T00:00",
-      "source": "rybnik.eu",
-      "category": "Edukacja",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "393c5f3590d2f2b771dc135e343d9ff339a807ff",
-      "title": "Szukamy kandydatów na rzeczoznawców do określania wartości rynkowej zwierząt",
-      "summary": "Zachęcamy do zgłaszania kandydatów na rzeczoznawców powoływanych do szacowania zwierząt oraz produktów pochodzenia zwierzęcego zniszczonych z nakazu organów Inspekcji Weterynaryjnej.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/szukamy-kandydatow-na-rzeczoznawcow-do-okreslania-wartosci-rynkowej-zwierzat",
-      "published": "2026-08-18T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e8d9eb126c57a07f61dd57d9413e20336d0dc1af",
-      "title": "Karta Rybka ponownie w Urban Labie",
-      "summary": "W czwartek, 13 sierpnia kolejne spotkanie z Kartą Rybka w Urban Labie. Serdecznie zapraszamy Mieszkańców Rybnika, którzy wciąż jeszcze nie zdecydowali się na założenie Rybnickiej Karty Mieszkańca, albo mają problem z jej założeniem.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/karta-rybka-ponownie-w-urban-labie",
-      "published": "2026-08-12T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c2e528c7fb2bb78629ee07f9e7ef8b9b8d559977",
-      "title": "CAL w Rybnickiej Kuźni otworzy swoje drzwi już w tę sobotę",
-      "summary": "Miejsce do realizowania pasji, integracji, wspólnego spędzania czasu i rozwijania zainteresowań – otwarcie Centrum Aktywności Lokalnej wraz z XXV edycją festynu rodzinno-odpustowego.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/cal-w-rybnickiej-kuzni-otworzy-swoje-drzwi-w-te-sobote",
-      "published": "2026-08-12T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d59c02e702f409325c1d6f95f5241ec79b58b4de",
-      "title": "PONOWNE WYŁOŻENIE PROJEKTU PLANU MIEJSCOWEGO PRZY ULICY ZWONOWICKIEJ",
-      "summary": "Od 12 sierpnia do 9 września 2026 r. można zapoznawać się z projektem miejscowego planu zagospodarowania przestrzennego dla części miasta Rybnika obejmującej obszar w rejonie ulicy Zwonowickiej (MPZP 54-46 Etap I). Uwagi do projektu można składać do 23 września 2026 r.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/wylozenie-projektu-planu-miejscowego-przy-ulicy-zwonowickiej",
-      "published": "2026-08-12T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8151a3122a93ef27ab1768a35f58195dacc88bde",
-      "title": "Ogłoszenie o naborze",
-      "summary": "Nabór do Wydziału Księgowości, Referatu Wydatków i Rozliczeń oraz do Wydziału Rozwoju Miasta, Referatu Funduszy i Projektów.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/nabor-1",
-      "published": "2026-08-11T00:00",
-      "source": "rybnik.eu",
-      "category": "Urząd Miasta",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c8c43a53a986c117555cd9e6773ffbac8908660b",
-      "title": "Strefa gospodarcza przy ul. Ekonomicznej zmienia oblicze",
-      "summary": "Strefa gospodarcza przy ul. Ekonomicznej dynamicznie się rozwija, przyciągając nowych inwestorów i kolejne inwestycje.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/strefa-gospodarcza-przy-ul-ekonomicznej-zmienia-oblicze",
-      "published": "2026-08-11T00:00",
-      "source": "rybnik.eu",
-      "category": "Biznes",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "78da19a300dc63a29c47a8e1bbeccaca9273ab1d",
-      "title": "Warsztaty z niemarnowania i wietrzenie szaf, czyli zielony sierpień",
-      "summary": "Dołącz do bezpłatnych zajęć kulinarnych w swoim osiedlowym klubie i naucz się planować zakupy oraz gotować pełnowartościowe posiłki z pozornie niepotrzebnych składników. Przy okazji weź udział w sąsiedzkiej wymianie odzieży i ogranicz ilość odpadów w swoim domu.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/warsztaty-z-niemarnowania-i-wietrzenie-szaf-czyli-zielony-sierpien",
-      "published": "2026-08-07T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "504a6216f7ae7db04b3b9322654bcd530980bdb8",
-      "title": "Nabór wniosków",
-      "summary": "Nabór wniosków na udzielenie z budżetu Miasta Rybnika dotacji celowej na rozwój rodzinnych ogrodów działkowych w roku 2026.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/nabor-wnioskow",
-      "published": "2026-08-06T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "5b416918bc1407172a30667a5fdb75451f4bc935",
-      "title": "Nowy żłobek czeka na maluchy",
-      "summary": "Miejski Żłobek nr 4 właśnie powitał pierwszych podopiecznych na zajęciach adaptacyjnych. Wciąż są wolne miejsca dla najmłodszych mieszkańców – sprawdź, jak zapisać swoje dziecko.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/nowy-zlobek-czeka-na-maluchy",
-      "published": "2026-08-04T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a3050eb3efedce9b46ab64aaba786c2121d4b15c",
-      "title": "Dodatkowe autobusy po zakończeniu koncertu „Lyski Rock Festiwal”",
-      "summary": "W nocy z 28 na 29 sierpnia zostaną udostępnione dodatkowe autobusy jadące dwoma trasami w kierunku Rybnika.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/dodatkowe-autobusy-po-zakonczeniu-koncertu-lyski-rock-festiwal",
-      "published": "2026-08-04T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikacja",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ceb187c08d31874d9e6ec4f2e11565dd45a06296",
-      "title": "Wspólny bilet Rybnika i MZK Jastrzębie od 1 września",
-      "summary": "Od 1 września Miasto Rybnik i MZK Jastrzębie-Zdrój wprowadzają wspólny bilet dobowy. To kolejne działanie na rzecz integracji transportu publicznego i ułatwienia podróży mieszkańcom regionu.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/miasto-rybnik-i-mzk-jastrzebie-zdroj-podpisaly-umowe-o-wspolpracy-w-sprawie-wspolnego-biletu-autobusowego",
-      "published": "2026-08-04T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikacja",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f9b5df8556e0ffefc4162b9ac17aa24d1d11c828",
-      "title": "Zapoznaj się z ofertą",
-      "summary": "W Biuletynie Informacji Publicznej opublikowana została uproszczona oferta na realizację zadania pt. \"Dam radę! - wdrożenie metody Kid's Skills w Placówkach Wsparcia Dziennego w Rybniku\" od Stowarzyszenia \"Uskrzydleni\".",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zapoznaj-sie-z-oferta-7acb24bdcadfe79e8e8af7eb59f93a74",
-      "published": "2026-07-30T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3ffc4d8b4bc30de252d2f9200040d7d44ee7216f",
-      "title": "Lato z nowymi rabatami Rybki",
-      "summary": "Od początku wakacji do programu partnerskiego Rybnickiej Karty Mieszkańca dołączyło 8 kolejnych rybnickich przedsiębiorców. Nowi partnerzy przygotowali dla posiadaczy aktywnej Karty Rybka różnorodne propozycje rabatów i benefitów.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/lato-z-nowymi-rabatami-rybki",
-      "published": "2026-07-29T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "5d82b21c561bf4a704f161783f87da3f08125750",
-      "title": "Bon ciepłowniczy",
-      "summary": "Do 31 sierpnia mieszkańcy Rybnika mogą składać wnioski o przyznanie Bonu Ciepłowniczego w formie papierowej i elektronicznej.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/bon-cieplowniczy",
-      "published": "2026-07-29T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "75f1318ca23be475cb2c70f5ceefd5c802ff1f5b",
-      "title": "Nowy okres zasiłkowy/świadczeniowy 2026/2027",
-      "summary": "Od 1 lipca br. można składać wnioski o ustalenie prawa do świadczeń rodzinnych oraz prawa do świadczeń z funduszu alimentacyjnego na okres zasiłkowy/świadczeniowy 2026/2027 drogą elektroniczną.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/nowy-okres-zasilkowy-swiadczeniowy-2026-2027",
-      "published": "2026-07-29T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "33dea009edb38b7e5313753085edc2f0fbc5312c",
-      "title": "Powstanie połączenie ulic Kardynała Kominka i Orzepowickiej",
-      "summary": "Długo wyczekiwana inwestycja drogowa za niemal 2,9 mln zł, która połączy ulicę Kardynała Kominka z ulicą Orzepowicką.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/powstanie-polaczenie-ulic-kardynala-kominka-i-orzepowickiej",
-      "published": "2026-07-28T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
+      "id": "05de0b746cbeca52a37af08ef2f894489aa773ce",
+      "title": "Wysoka drabina strażacka między blokami na Nowinach. Akcja strażaków postawiła na nogi mieszkańców",
+      "summary": "Wieczorna akcja strażaków na ulicy Dąbrówki w Rybniku przyciągnęła uwagę mieszkańców. Między blokami pojawił się wóz strażacki z wysoką drabiną, którą wykorzystano podczas sprawdzania mieszkania na 11. piętrze. Powodem interwencji był alarm domowej czujki tlenku węgla.",
+      "link": "http://www.rybnik.com.pl/wiadomosci,wysoka-drabina-strazacka-miedzy-blokami-na-nowinach-akcja-strazakow-postawila-na-nogi-mieszkancow,wia5-3266-65891.html",
+      "published": "2026-08-19T11:20",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
     },
     {
       "id": "49fb6eb574b45dd7a80be234eee4d593780d60e7",
       "title": "Czy duże przeszklenia bez strat ciepła są możliwe? Poznaj systemy przesuwne PVC od Kapica",
       "summary": "Duże przeszklenia tarasowe bez strat ciepła są w pełni możliwe do realizacji. Kluczem do sukcesu jest zastosowanie zaawansowanych profili wielokomorowych PVC oraz pakietów trzyszybowych. Nowoczesne",
       "link": "https://turybnik.pl/czy-duze-przeszklenia-bez-strat-ciepla-sa-mozliwe-poznaj-systemy-przesuwne-pvc-od-kapica",
-      "published": "2026-07-27T11:19",
+      "published": "2026-07-27T13:19",
       "source": "tuRybnik.pl",
       "category": "Dom i Ogród",
       "priority": "NORMAL"
@@ -663,19 +1148,9 @@
       "title": "Jak nowocześnie kupować beton i kruszywa?",
       "summary": "Jeszcze niedawno zakup betonu albo kruszywa kojarzył się głównie z telefonami, czekaniem na transport i zamawianiem większych ilości, niż naprawdę były potrzebne. Dziś może",
       "link": "https://turybnik.pl/jak-nowoczesnie-kupowac-beton-i-kruszywa",
-      "published": "2026-07-24T09:23",
+      "published": "2026-07-24T11:23",
       "source": "tuRybnik.pl",
       "category": "Lifestyle",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "da7a09030a71176370dc2a3d51deef840bb2ca99",
-      "title": "Modernizacja parku im. Św. Jana Sarkandra – \"Na Górce\" ruszają prace.",
-      "summary": "Rozpoczyna się realizacja modernizacji zabytkowego parku im. Św. Jana Sarkandra w Rybniku finansowanego ze środków pozostających w dyspozycji Zarządu Zieleni Miejskiej, wyłoniono wykonawcę inwestycji.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/modernizacja-parku-im-sw-jana-sarkandra-ruszaja-prace",
-      "published": "2026-07-23T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
       "priority": "NORMAL"
     },
     {
@@ -683,7 +1158,7 @@
       "title": "Integracja systemu produkcyjnego z ERP – checklista przed wdrożeniem w zakładzie przemysłowym",
       "summary": "Integracja systemu produkcyjnego z ERP łączy technologię operacyjną (OT) z warstwą IT, dzięki czemu dane krążą między halą a biurem w czasie rzeczywistym. Pozwala to",
       "link": "https://turybnik.pl/integracja-systemu-produkcyjnego-z-erp-checklista-przed-wdrozeniem-w-zakladzie-przemyslowym",
-      "published": "2026-07-22T08:29",
+      "published": "2026-07-22T10:29",
       "source": "tuRybnik.pl",
       "category": "Biznes i Praca",
       "priority": "NORMAL"
@@ -699,41 +1174,11 @@
       "priority": "ALERT"
     },
     {
-      "id": "31c88e38dc10fa463b121cf0c2fa91588310d600",
-      "title": "Łatwiejsza rejestracja pojazdów. Od 10 czerwca kolejne zmiany w przepisach",
-      "summary": "10 czerwca 2026 r. weszły w życie kolejne zmiany wynikające z nowelizacji ustawy Prawa o ruchu drogowym. Nowe przepisy mają uprościć procedury związane z rejestracją pojazdów oraz ograniczyć liczbę formalności po stronie mieszkańców.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/latwiejsza-rejestracja-pojazdow-od-10-czerwca-kolejne-zmiany-w-przepisach",
-      "published": "2026-06-15T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "fb23f7faba5ec49da70278c2182871ef1d1e2f8b",
-      "title": "Z Rybnika prosto nad Bałtyk i Adriatyk, wakacyjne pociągi wracają na tory",
-      "summary": "Wraz z wejściem w życie wakacyjnego rozkładu jazdy, obowiązującego od 14 czerwca do 29 sierpnia, Rybnik zyska kilka atrakcyjnych połączeń kolejowych do najpopularniejszych letnich destynacji. Mieszkańcy będą mogli bez przesiadek dojechać nad Bałtyk, na Półwysep Helski, do Kołobrzegu, Świnoujścia i…",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/z-rybnika-prosto-nad-baltyk-i-adriatyk-wakacyjne-pociagi-wracaja-na-tory",
-      "published": "2026-06-12T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e8f696b8ec1f10d7758d14885c37d0f2a5f2f392",
-      "title": "Zmiany w kursowaniu autobusów komunikacji miejskiej",
-      "summary": "W związku z przypadającym 4 czerwca dniem wolnym, w najbliższych dniach obowiązywać będą zmiany w funkcjonowaniu komunikacji miejskiej.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zmiany-w-kursowaniu-autobusow-komunikacji-miejskiej",
-      "published": "2026-06-02T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikacja",
-      "priority": "NORMAL"
-    },
-    {
       "id": "e101825017c644753f21d206850332fb92ecce1e",
       "title": "Drzewce i podstawy – kluczowe elementy każdego sztandaru",
       "summary": "Sztandar to jeden z najbardziej reprezentacyjnych symboli szkoły, jednostki, organizacji, stowarzyszenia, firmy czy instytucji publicznej. Najczęściej uwagę przyciąga jego haftowana płachta – godło, herb, nazwa,",
       "link": "https://turybnik.pl/drzewce-i-podstawy-kluczowe-elementy-kazdego-sztandaru",
-      "published": "2026-05-11T08:57",
+      "published": "2026-05-11T10:57",
       "source": "tuRybnik.pl",
       "category": "Dom i Ogród",
       "priority": "NORMAL"
@@ -743,7 +1188,7 @@
       "title": "Wiosenny przegląd motocykla – 10 rzeczy, które musisz sprawdzić przed pierwszą jazdą",
       "summary": "Bezpieczna jazda motocyklem to coś więcej niż pasja – to przede wszystkim odpowiedzialność i regularna konserwacja. Ten przewodnik krok po kroku wyjaśnia, jak zadbać o",
       "link": "https://turybnik.pl/wiosenny-przeglad-motocykla-10-rzeczy-ktore-musisz-sprawdzic-przed-pierwsza-jazda",
-      "published": "2026-02-23T08:28",
+      "published": "2026-02-23T09:28",
       "source": "tuRybnik.pl",
       "category": "Motoryzacja",
       "priority": "NORMAL"
@@ -753,7 +1198,7 @@
       "title": "Jak dopasować wzór CV do oferty pracy?",
       "summary": "Czy jeden wzór CV pasuje do każdej oferty pracy? Zdecydowanie nie! Tak jak nie ubierasz się w to samo na rozmowę o pracę i na",
       "link": "https://turybnik.pl/jak-dopasowac-wzor-cv-do-oferty-pracy",
-      "published": "2025-11-03T09:06",
+      "published": "2025-11-03T10:06",
       "source": "tuRybnik.pl",
       "category": "Biznes i Praca",
       "priority": "NORMAL"

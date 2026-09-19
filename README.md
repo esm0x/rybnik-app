@@ -10,10 +10,10 @@ Wszystkie moduły działają na realnych danych.
 | Moduł | Źródło | Skala |
 |---|---|---|
 | **Start** | agregat pozostałych modułów | dashboard „co dziś ważnego" |
-| **Wydarzenia** | TZR, iRybnik, biletyna.pl, 3 domy kultury, ROW | ~126 wydarzeń |
+| **Wydarzenia** | TZR, iRybnik, biletyna.pl, 3 domy kultury, ROW + wpisy ręczne | ~131 wydarzeń |
 | **Transport** | GTFS z KM Rybnik | 626 przystanków, 44 linie, 71 tys. odjazdów |
 | **Śmieci** | 16 PDF-ów z rybnik.eu (EKO Sp. z o.o.) | 98 rejonów, 880 ulic, 27 dzielnic |
-| **Wiadomości** | rybnik.com.pl, rybnik.eu, nowiny.pl, tuRybnik | 120 pozycji, alerty na górze |
+| **Wiadomości** | Radio 90, rybnik.com.pl, rybnik.eu, nowiny.pl, tuRybnik | 120 pozycji, alerty na górze |
 | **Powietrze** | GIOŚ, stacja Rybnik-Borki (834) | PM10, PM2,5 + indeks jakości |
 
 Powiadomienia: wywóz odpadów (wieczór przed), ulubione wydarzenie (dzień przed),
@@ -56,6 +56,7 @@ scraper/
   news.py                      RSS + scraping rybnik.eu
   transit.py                   rozwiązuje adres aktualnego GTFS
   data/*.json                  generowane, commitowane przez CI
+  data/manual_events.json      JEDYNY plik edytowany ręcznie (kluby z FB)
 ```
 
 ## Uruchamianie
@@ -117,6 +118,18 @@ Kotlin deserializuje je 1:1.
 - `Impreza` ma mało wydarzeń poza sezonem klubowym — klasyfikator działa,
   ale we wrześniu w źródłach po prostu nie ma imprez.
 - DK Chwałowice i DK Niedobczyce nie mają eksportu iCal, więc ich parsery są kruche.
+- **Kluby Noc i Szepty nie mają żadnego źródła maszynowego.** Sprawdzone: Going,
+  ebilet, biletyna, kupbilecik, kicket, koncertomania — wszędzie strona miejsca
+  istnieje, ale z zerem wydarzeń; `klubnoc.com` to SPA bez danych, Szepty nie mają
+  strony, iRybnik ich nie listuje, mostki Instagram→RSS są za Cloudflare.
+  Publikują tylko na Facebooku, a API wydarzeń stron Meta nie istnieje od 2018 —
+  scrapowanie łamałoby regulamin i i tak psułoby się co chwilę. Dlatego wchodzą
+  przez `scraper/data/manual_events.json`.
+- **Going API ignoruje parametr `place`** — `events?place=999999` zwraca te same
+  24 pozycje co dla realnych klubów, w dodatku warszawskie. Nie nadaje się do
+  filtrowania po miejscu i celowo nie jest podpięte.
+- **Radio 90 jest regionalne** (6 miast), więc czytamy feed tagu `rybnik`, nie
+  główny. `/category/rybnik/feed` odpowiada 200, ale zwraca zero pozycji.
 - Brak benzo(a)pirenu, mimo że to obok PM10 główny problem Rybnika. Mierzy się go
   wyłącznie manualnie (analiza laboratoryjna filtrów), więc wartości „na teraz"
   nie istnieją — GIOŚ udostępnia je po tygodniach przez API danych archiwalnych.

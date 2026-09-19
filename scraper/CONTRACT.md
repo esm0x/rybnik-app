@@ -38,8 +38,40 @@ nigdy nie przerywa zapisu: lepiej wydać częściowe dane niż nic.
 
 `category` MUSI być jedną z: `Koncert`, `Spektakl`, `Kabaret`, `Film`, `Festiwal`,
 `Wystawa`, `Warsztaty`, `Impreza`, `Sport`, `DlaDzieci`, `Inne`.
-`start`/`end` — ISO local bez strefy, minutowa precyzja. `id` — globalnie unikalne,
-prefiks źródła (`tzr-`, `iryb-`, `bilnya-`, `dk-`, `row-`).
+`start`/`end` — ISO local bez strefy, minutowa precyzja. 
+
+`id` — globalnie unikalne, prefiks źródła (`tzr-`, `iryb-`, `bilnya-`, `dk-`, `row-`,
+`manual-`).
+
+### manual_events.json (wejście, nie wyjście)
+
+Jedyny plik w `scraper/data/`, który **edytuje człowiek, a nie scraper**. Trzyma
+wydarzenia bez źródła maszynowego — głównie imprezy klubów Noc i Szepty, które
+publikują wyłącznie na Facebooku. `scraper.py` czyta go jak każde inne źródło
+i dokłada do `events.json`; nigdy do niego nie pisze.
+
+```json
+{
+  "_jak_dodac": ["instrukcja dla człowieka — ignorowana"],
+  "_wzor": { "…": "szablon do skopiowania — ignorowany" },
+  "events": [
+    {
+      "title": "Nazwa imprezy",
+      "category": "Impreza",
+      "start": "2026-09-26T21:00",
+      "end": null,
+      "venue": "Klub NOC",
+      "description": "Opis albo null.",
+      "sourceUrl": "https://..."
+    }
+  ]
+}
+```
+
+Czytany jest **wyłącznie** klucz `events`. Wymagane: `title`, `category`, `start`,
+`venue`. `id` powstaje automatycznie jako `manual-<slug>-<data>`, a `sourceName`
+przyjmuje nazwę miejsca. Wpis z niepoprawną datą albo bez miejsca jest pomijany
+z ostrzeżeniem; nieznana kategoria spada do `Inne`. Zły wpis nigdy nie wywala runu.
 
 ---
 

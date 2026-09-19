@@ -951,6 +951,62 @@ def ensure_unique_ids(events: Iterable[Event]) -> None:
 
 
 # --------------------------------------------------------------------------- #
+# manual entries
+# --------------------------------------------------------------------------- #
+
+MANUAL_PATH = Path(__file__).parent / "data" / "manual_events.json"
+
+
+def scrape_manual() -> list[Event]:
+    """Hand-maintained events, merged in like any other source.
+
+    Some venues — Klub NOC and Szepty above all — publish only to Facebook, and there
+    is no lawful machine-readable feed for them (Meta removed the Page events API, and
+    every ticketing platform lists the venues with zero events). Rather than scrape Meta,
+    those go in data/manual_events.json by hand. This reader never writes that file.
+    """
+    if not MANUAL_PATH.exists():
+        print("[info] no manual_events.json — skipping", file=sys.stderr)
+        return []
+
+    raw = json.loads(MANUAL_PATH.read_text(encoding="utf-8"))
+    out: list[Event] = []
+    for i, entry in enumerate(raw.get("events", []), 1):
+        title = (entry.get("title") or "").strip()
+        start = (entry.get("start") or "").strip()
+        venue = (entry.get("venue") or "").strip()
+        if not (title and start and venue):
+            print(f"[warn] manual #{i}: brak title/start/venue — pomijam", file=sys.stderr)
+            continue
+        try:
+            datetime.fromisoformat(start)
+        except ValueError:
+            print(f"[warn] manual #{i} ({title!r}): zla data {start!r} — pomijam", file=sys.stderr)
+            continue
+
+        category = (entry.get("category") or "Inne").strip()
+        if category not in VALID_CATEGORIES:
+            print(f"[warn] manual #{i} ({title!r}): nieznana kategoria {category!r} "
+                  f"— ustawiam Inne", file=sys.stderr)
+            category = "Inne"
+
+        out.append(Event(
+            id=f"manual-{slugify(title)}-{start[:10]}",
+            title=title,
+            category=category,
+            start=start,
+            end=(entry.get("end") or None),
+            venue=venue,
+            description=(entry.get("description") or None),
+            sourceName=venue,
+            sourceUrl=(entry.get("sourceUrl") or ""),
+        ))
+
+    print(f"[info] manual: {len(out)} wydarzen", file=sys.stderr)
+    return out
+
+
+# --------------------------------------------------------------------------- #
 # main
 # --------------------------------------------------------------------------- #
 
@@ -960,6 +1016,7 @@ SOURCES: list[tuple[str, Callable[[], list[Event]]]] = [
     ("biletyna.pl", scrape_biletyna),
     *[(name, make_dk_scraper(name, url, prefix, venue)) for name, url, prefix, venue in DK_SOURCES],
     ("ROW Rybnik", scrape_row),
+    ("Ręcznie dodane", scrape_manual),
 ]
 
 

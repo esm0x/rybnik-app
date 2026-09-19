@@ -105,6 +105,11 @@ class RssSource:
 
 
 RSS_SOURCES = [
+    # Radio 90 is regional (Wodzisław / Racibórz / Żory / Jastrzębie / Cieszyn too), so use
+    # the Rybnik *tag* feed — /category/rybnik/feed exists but returns zero items. Breaking
+    # news sometimes carries every city tag at once, so this over-includes a little.
+    # Canonical host is www; the bare domain 301-redirects.
+    RssSource("Radio 90", "https://www.radio90.pl/tag/rybnik/feed", "Wiadomości", cap=40),
     RssSource("rybnik.com.pl", "https://www.rybnik.com.pl/feed,feed0.html", "Wiadomości", cap=55),
     # Stale (newest item is months old) and largely advertorial — keep it, but
     # do not let it push out fresh city news.
