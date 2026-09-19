@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:26:56",
+  "generated_at": "2026-09-19T10:47:13",
   "count": 120,
   "failures": [],
   "items": [
@@ -141,7 +141,7 @@
       "published": "2026-09-18T17:15",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "ALERT"
+      "priority": "NORMAL"
     },
     {
       "id": "aba606c662f7f445bd6990e4700af7da9dbf1943",

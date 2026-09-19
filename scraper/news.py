@@ -19,6 +19,7 @@ it 1:1, so field names and the ALERT/NORMAL enum values are binding.
 
 from __future__ import annotations
 
+import collections
 import hashlib
 import html
 import json
@@ -63,7 +64,6 @@ MAX_AGE_DAYS = 365
 ALERT_KEYWORDS = [
     "awari",
     "utrudnieni",
-    "objazd",
     "ostrzezeni",
     "alarm",
     "brak wody",
@@ -76,6 +76,18 @@ ALERT_KEYWORDS = [
     "ewakuacj",
     "skazeni",
 ]
+
+# Words that only mean trouble in the right company. "objazd" alone flagged
+# "Bosak rozpoczyna objazd po Polsce" — a campaign tour, not a detour — so it now
+# needs a road word nearby. Add to this rather than to the list above when a keyword
+# turns out to be ambiguous.
+ALERT_KEYWORDS_IN_CONTEXT = {
+    # Bare "ruch" is not usable as context — it matched "prezes Ruchu Narodowego".
+    "objazd": (
+        "ruchu drogow", "organizacji ruchu", "ulic", "drodze", "drogow",
+        "kierowc", "skrzyzowani", "remont", "przejazd", "jezdni",
+    ),
+}
 # Deliberately NOT here: "smog" (matches eco advertorials) and the bare stem
 # "zamkniet" (matches "zamknietych drzwiach" and similar prose).
 
@@ -236,6 +248,9 @@ def classify(title: str, summary: str, force_alert: bool = False) -> str:
     haystack = fold(f"{title} {summary}")
     for kw in ALERT_KEYWORDS:
         if kw in haystack:
+            return PRIORITY_ALERT
+    for kw, context in ALERT_KEYWORDS_IN_CONTEXT.items():
+        if kw in haystack and any(c in haystack for c in context):
             return PRIORITY_ALERT
     return PRIORITY_NORMAL
 
@@ -472,6 +487,46 @@ def report(items: list[NewsItem]) -> None:
             print(f"[info]   {it.published} [{it.source}/{it.category}] {it.title[:80]}", file=sys.stderr)
 
 
+def carry_over_failed(
+    collected: list[NewsItem],
+    failures: list[dict],
+    out_path: Path,
+) -> list[NewsItem]:
+    """Reuse the previous run's items for any source that failed this time.
+
+    rybnik.com.pl answers 403 to GitHub Actions runners while serving fine from a home
+    connection, and it is the source of most ALERTs. Without this, every CI run replaced
+    a good 120-item file with a 75-item one that had no current alerts at all — the app's
+    home screen then had nothing to show. Keeping the last known items for a failed source
+    means a blocked feed degrades slowly instead of wiping the section.
+    """
+    if not failures or not out_path.exists():
+        return []
+
+    failed = {f["source"] for f in failures}
+    try:
+        previous = json.loads(out_path.read_text(encoding="utf-8")).get("items", [])
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"[warn] cannot reuse previous news.json: {e}", file=sys.stderr)
+        return []
+
+    have = {i.link for i in collected}
+    revived: list[NewsItem] = []
+    for raw in previous:
+        if raw.get("source") not in failed or raw.get("link") in have:
+            continue
+        try:
+            revived.append(NewsItem(**raw))
+        except TypeError:
+            continue
+
+    if revived:
+        by_source = collections.Counter(i.source for i in revived)
+        print(f"[warn] reusing previous items for failed sources: {dict(by_source)}",
+              file=sys.stderr)
+    return revived
+
+
 def main() -> int:
     for stream in (sys.stdout, sys.stderr):
         try:
@@ -503,6 +558,8 @@ def main() -> int:
         except Exception as e:  # noqa: BLE001
             print(f"[error] rybnik.eu {section.path}: {e}", file=sys.stderr)
             failures.append({"source": f"rybnik.eu{section.path}", "error": str(e)})
+
+    collected += carry_over_failed(collected, failures, out_path)
 
     caps = {s.source: s.cap for s in RSS_SOURCES if s.cap is not None}
     items = enforce_total(apply_caps(dedupe(collected), caps))

@@ -60,4 +60,16 @@ class NewsRepository(context: Context) :
         .sortedWith(compareByDescending<NewsItem> { it.isAlert }.thenByDescending { it.published })
 
     fun categories(): List<String> = items().mapNotNull { it.category }.distinct().sorted()
+
+    /**
+     * Alerts worth putting on the home screen. Age matters here: a roadworks notice from
+     * June is still technically an alert and would otherwise sit on the dashboard for
+     * months, so anything older than [maxAgeDays] stays in the news list only.
+     */
+    fun currentAlerts(maxAgeDays: Long = 14): List<NewsItem> {
+        val cutoff = LocalDateTime.now().minusDays(maxAgeDays)
+        return items()
+            .filter { it.isAlert && it.published.isAfter(cutoff) }
+            .sortedByDescending { it.published }
+    }
 }

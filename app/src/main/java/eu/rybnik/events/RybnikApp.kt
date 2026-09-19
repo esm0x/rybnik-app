@@ -84,7 +84,10 @@ fun RybnikApp() {
         NavHost(
             navController = navController,
             startDestination = Tab.Home.route,
-            modifier = Modifier.padding(innerPadding),
+            // Only the bottom bar's space is reserved here. Every screen brings its own
+            // Scaffold + TopAppBar, which already consumes the status-bar inset — applying
+            // the full innerPadding as well would inset the top twice and leave a gap.
+            modifier = Modifier.padding(bottom = innerPadding.calculateBottomPadding()),
         ) {
             composable(Tab.Home.route) {
                 HomeScreen(

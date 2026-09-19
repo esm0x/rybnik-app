@@ -35,6 +35,9 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableIntStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
@@ -50,6 +53,9 @@ import eu.rybnik.events.data.air.AirState
 import eu.rybnik.events.data.news.NewsItem
 import eu.rybnik.events.data.transit.Departure
 import eu.rybnik.events.data.waste.Collection
+import eu.rybnik.events.ui.common.DAY_FMT
+import eu.rybnik.events.ui.common.PL
+import eu.rybnik.events.ui.common.SHORT_DAY_FMT
 import eu.rybnik.events.ui.common.TIME_FMT
 import eu.rybnik.events.ui.common.humanLabel
 import kotlinx.coroutines.delay
@@ -68,7 +74,7 @@ data class HomeUi(
     val departures: List<Departure> = emptyList(),
     val favouriteStop: String? = null,
     val nextEvents: List<Event> = emptyList(),
-    val alert: NewsItem? = null,
+    val alerts: List<NewsItem> = emptyList(),
     val refreshing: Boolean = false,
 )
 
@@ -114,7 +120,7 @@ class HomeViewModel : ViewModel() {
                 .filter { !it.start.toLocalDate().isBefore(LocalDate.now()) }
                 .take(3)
 
-            val alert = Graph.newsRepo.items().firstOrNull { it.isAlert }
+            val alerts = Graph.newsRepo.currentAlerts()
 
             _ui.update {
                 it.copy(
@@ -123,7 +129,7 @@ class HomeViewModel : ViewModel() {
                     departures = departures,
                     favouriteStop = stopName,
                     nextEvents = events,
-                    alert = alert,
+                    alerts = alerts,
                     refreshing = false,
                 )
             }
@@ -155,7 +161,16 @@ fun HomeScreen(
     Scaffold(
         topBar = {
             TopAppBar(
-                title = { Text("Rybnik") },
+                title = {
+                    Column {
+                        Text("Rybnik", style = MaterialTheme.typography.titleLarge)
+                        Text(
+                            LocalDate.now().format(DAY_FMT).replaceFirstChar { it.uppercase(PL) },
+                            style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        )
+                    }
+                },
                 actions = {
                     IconButton(onClick = vm::refresh) {
                         Icon(Icons.Outlined.Refresh, contentDescription = "Odśwież")
@@ -171,8 +186,10 @@ fun HomeScreen(
         ) {
             item { AirCard(ui.air, onOpenAir) }
 
-            ui.alert?.let { alert ->
-                item { AlertCard(alert, onOpenNews) }
+            if (ui.alerts.isNotEmpty()) {
+                item {
+                    AlertCarousel(ui.alerts, onOpenNews)
+                }
             }
 
             item { WasteCard(ui.nextWaste, ui.wasteAddress, onOpenWaste) }
@@ -238,8 +255,31 @@ private fun AirCard(air: AirState, onClick: () -> Unit) {
     }
 }
 
+/**
+ * Several disruptions can be live at once, and pinning one of them to the dashboard for
+ * days buries the rest. This cycles through them instead.
+ */
 @Composable
-private fun AlertCard(item: NewsItem, onClick: () -> Unit) {
+private fun AlertCarousel(alerts: List<NewsItem>, onClick: () -> Unit) {
+    var index by remember(alerts) { mutableIntStateOf(0) }
+
+    LaunchedEffect(alerts) {
+        if (alerts.size < 2) return@LaunchedEffect
+        while (true) {
+            delay(6_000)
+            index = (index + 1) % alerts.size
+        }
+    }
+
+    AlertCard(
+        item = alerts[index.coerceIn(alerts.indices)],
+        position = if (alerts.size > 1) "${index + 1}/${alerts.size}" else null,
+        onClick = onClick,
+    )
+}
+
+@Composable
+private fun AlertCard(item: NewsItem, position: String?, onClick: () -> Unit) {
     Card(
         onClick = onClick,
         modifier = Modifier
@@ -252,9 +292,23 @@ private fun AlertCard(item: NewsItem, onClick: () -> Unit) {
         ),
     ) {
         Column(Modifier.padding(16.dp)) {
-            Text("Komunikat", style = MaterialTheme.typography.labelLarge)
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Text(
+                    "Komunikat",
+                    style = MaterialTheme.typography.labelLarge,
+                    modifier = Modifier.weight(1f),
+                )
+                if (position != null) {
+                    Text(position, style = MaterialTheme.typography.labelSmall)
+                }
+            }
             Spacer(Modifier.height(4.dp))
             Text(item.title, style = MaterialTheme.typography.titleSmall)
+            Spacer(Modifier.height(4.dp))
+            Text(
+                "${item.source} · ${item.published.format(SHORT_DAY_FMT)}",
+                style = MaterialTheme.typography.labelSmall,
+            )
         }
     }
 }
