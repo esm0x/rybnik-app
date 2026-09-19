@@ -1,13 +1,89 @@
 {
-  "generated_at": "2026-09-19T11:04:24",
-  "count": 120,
+  "generated_at": "2026-09-19T15:55:34",
+  "count": 96,
   "failures": [
     {
       "source": "rybnik.com.pl",
       "error": "403 Client Error: Forbidden for url: https://www.rybnik.com.pl/feed,feed0.html"
+    },
+    {
+      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikaty",
+      "error": "415 Client Error: Unsupported Media Type for url: https://www.rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikaty"
+    },
+    {
+      "source": "rybnik.eu/dla-mieszkancow/aktualnosci",
+      "error": "415 Client Error: Unsupported Media Type for url: https://www.rybnik.eu/dla-mieszkancow/aktualnosci"
+    },
+    {
+      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikacja",
+      "error": "415 Client Error: Unsupported Media Type for url: https://www.rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikacja"
+    },
+    {
+      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/inwestycje",
+      "error": "415 Client Error: Unsupported Media Type for url: https://www.rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/inwestycje"
     }
   ],
   "items": [
+    {
+      "id": "67eb91f3c83323090f47617dc8415429c6d207da",
+      "title": "Posłanka Lenartowicz o profilaktyce, leczeniu i pomocy w chorobach otępiennych",
+      "summary": "Gabriela Lenartowicz jest przewodniczącą Parlamentarnego Zespołu ds. Choroby Alzheimera i 15 września wzięła w sejmowych wydarzeniach w ramach Światowych Dni Choroby Alzheimera. Odbyła się konferencja prasowa, wystawa i debata ekspercka na temat profilaktyki, leczenia i pomocy rodzinom chorych.",
+      "link": "https://www.nowiny.pl/wiadomosci/251034-poslanka-lenartowicz-o-profilaktyce-leczeniu-i-pomocy-w-chorobach-otepiennych.html",
+      "published": "2026-09-19T15:39",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "51df24a9f7ecc3ae732386f6bb5159daf0176b5f",
+      "title": "Czy minister kultury uratuje „chatkę Baby Jagi” w Raciborzu?",
+      "summary": "Dawna, drewniana portiernia fabryki mebli, której historia sięga XIX wieku jest w złym stanie, postępuje jej degradacja. Były interwencje radnych, analizy urzędu miasta, a także plan rozbiórki zabytku. Sprawa trafiła do ministra kultury i dziedzictwa narodowego.",
+      "link": "https://www.nowiny.pl/wiadomosci/251033-czy-minister-kultury-uratuje-chatke-baby-jagi-w-raciborzu.html",
+      "published": "2026-09-19T14:59",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "72950a91c0bfc4ca0101cd429e549bc3e3fe7314",
+      "title": "Przedsiębiorco, zapytaj prezydenta Raciborza o biznes w mieście. Śniadanie biznesowe RIG wraca po przerwie",
+      "summary": "- Jak praktycznie wykorzystać narzędzia AI w codziennej działalności? Co aktualnie dzieje się w Raciborzu z perspektywy lokalnego biznesu? Jakie sprawy przedsiębiorcy chcieliby omówić bezpośrednio z władzami miasta? - takie tematy pojawią się w czwartek 24 września na Śniadaniu Biznesowym z…",
+      "link": "https://www.nowiny.pl/wiadomosci/251032-przedsiebiorco-zapytaj-prezydenta-raciborza-o-biznes-w-miescie-sniadanie-biznesowe-rig-wraca-po-przerwie.html",
+      "published": "2026-09-19T14:09",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "efb509d6223588d30f98ab49595af45c07df9876",
+      "title": "Konie na ulicach Raciborza, parada i pogoń za lisem. Zobaczcie zdjęcia z Hubertusa 2026 [ZDJĘCIA, WIDEO]",
+      "summary": "W sobotę, 19 września, na raciborskim Ostrogu odbył się Hubertus – jedno z najważniejszych wydarzeń w kalendarzu miłośników jeździectwa w regionie. Gospodarzami wydarzenia byli prowadzący Huzarską Dolinę małżonkowie Gorczycowie.",
+      "link": "https://agronowiny.pl/wiadomosci/251031-konie-na-ulicach-raciborza-parada-i-pogon-za-lisem-zobaczcie-zdjecia-z-hubertusa-2026-zdjecia-wideo.html",
+      "published": "2026-09-19T12:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "fb6143ec094cc2fd65db13d6c2408071c69ea7e0",
+      "title": "Rusza zbiórka kasztanów dla żubrów z Raciborza",
+      "summary": "Jaki jest wasz ulubiony przysmak? Jedni lubią słodkość inni coś na słono a jeszcze inni coś zdrowego, warzywa czy owoce. Swoje przysmaki mają także żubry - to żołędzie i kasztany. Możecie pomóc i podrzucić im trochę tego za czym przepadają.",
+      "link": "https://www.radio90.pl/rusza-zbiorka-kasztanow-dla-zubrow-z-raciborza.html",
+      "published": "2026-09-19T11:59",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3fdc3d0ab70bd82d727b32b3c00818896fe8415e",
+      "title": "Tak wyglądał Dzień Otwarty Raciborskiej Porodówki 2026 [ZDJĘCIA]",
+      "summary": "Tłum ludzi pojawił się na Dniu Otwartym Raciborskiej Porodówki. Korytarze oddziału szybko wypełniły się przyszłymi rodzicami, którzy chcieli zobaczyć porodówkę od środka, poznać personel i dowiedzieć się, jak wygląda opieka nad mamą oraz dzieckiem. Zainteresowanie wydarzeniem było naprawdę duże.",
+      "link": "https://www.nowiny.pl/wiadomosci/251030-tak-wygladal-dzien-otwarty-raciborskiej-porodowki-2026-zdjecia.html",
+      "published": "2026-09-19T11:29",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "14b9c1060021bc40f7bf46300305e9bac81131f9",
       "title": "Koniec pracy Ireneusza Fieta w szkole w Nędzy. Dyrektor pożegnał się z placówką [ZDJĘCIA]",
@@ -31,7 +107,7 @@
     {
       "id": "3628e813e06ace510b68f6be49b924fae06a11a3",
       "title": "Schronisko w Rybniku zachęca: poznaj psiaka przy kawie, daj mu nowy dom",
-      "summary": "Przyjdź, napij się kawy, przy okazji pokochaj jednego z naszych psiaków. Albo dwa! Schronisko w Rybniku zachęca mieszkańców regionu do adopcji bezdomnych zwierząt. Dziś specjalna akcja odbyła się w kawiarni przy lotnisku w Gotartowicach.",
+      "summary": "Przyjdź, napij się kawy, przy okazji pokochaj jednego z naszych psiaków. Albo dwa! Schronisko w Rybniku zachęca mieszkańców regionu do adopcji bezdomnych zwierząt. Dziś (19.09) specjalna akcja odbyła się w kawiarni przy lotnisku w Gotartowicach.",
       "link": "https://www.radio90.pl/schronisko-w-rybniku-zacheca-poznaj-psiaka-przy-kawie-daj-mu-nowy-dom.html",
       "published": "2026-09-19T09:07",
       "source": "Radio 90",
@@ -299,26 +375,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "3a214cc2942036c36b0dc2509d131f708ff979d4",
-      "title": "JSW ma przetrwać, ale co dalej? Minister mówi o przyszłości spółki",
-      "summary": "Najpierw było pytanie, czy JSW przetrwa. Teraz coraz częściej pojawia się kolejne: jaka będzie ta spółka po kryzysie? Prawie rok po rozmowie Wojciecha Balczuna z Nowinami.pl minister ponownie mówi o strategicznym znaczeniu jastrzębskiej firmy, ale załoga i region czekają już nie tylko na…",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251023-jsw-ma-przetrwac-ale-co-dalej-minister-mowi-o-przyszlosci-spolki.html",
-      "published": "2026-09-18T11:31",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "765b6d5f91a2d29b65a1b6ecb1181d3e72198449",
-      "title": "Bez stresu i bez tajemnic. Raciborska porodówka od środka",
-      "summary": "Jak wygląda droga od przyjęcia do szpitala aż na blok porodowy? Kto będzie towarzyszył przyszłej mamie i na jakie warunki może liczyć po narodzinach dziecka? Raciborska porodówka po raz piąty zaprasza na Dni Otwarte. – Chcemy oswoić przyszłe mamy z tym, jak to u nas wygląda – mówi w rozmowie z…",
-      "link": "https://www.nowiny.pl/wiadomosci/251022-bez-stresu-i-bez-tajemnic-raciborska-porodowka-od-srodka.html",
-      "published": "2026-09-18T10:19",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "17706e8cc7037a039a1d434fe6364924f88c6dfc",
       "title": "Otwarty Rybnik wyszedł do mieszkańców. „Nie chcemy być tylko krytykami władzy”",
       "summary": "Pierwsze otwarte spotkanie stowarzyszenia Otwarty Rybnik odbyło się w czwartek, 17 września, w restauracji InoWino. Przedstawiciele tej grupy przekonywali, że organizacja nie chce ograniczać się do patrzenia władzy na ręce. Jej członkowie zamierzają pomagać mieszkańcom w konkretnych sprawach…",
@@ -326,36 +382,6 @@
       "published": "2026-09-18T10:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "048c363f593e5d17a3959c2262f459e95ef7aa5a",
-      "title": "Puszki po ciastkach pełne pieniędzy i narkotyków? Policjanci pokazali, co znaleźli w Żorach",
-      "summary": "Żorscy kryminalni podczas przeszukania dwóch miejsc znaleźli ponad 2 kilogramy marihuany oraz ponad 80 tysięcy złotych w gotówce. 34-letni mężczyzna usłyszał zarzut posiadania znacznej ilości narkotyków i trafił do tymczasowego aresztu.",
-      "link": "https://ezory.pl/wiadomosci/251019-puszki-po-ciastkach-pelne-pieniedzy-i-narkotykow-policjanci-pokazali-co-znalezli-w-zorach.html",
-      "published": "2026-09-18T09:43",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c15e221ccc364123efa2c75d73718324eb64fd22",
-      "title": "Kierowca Fiata Seicento zjechał z drogi, staranował znak i uderzył w ciężarówkę",
-      "summary": "Świadek kolizji na MOP Rówień nie pozwolił nietrzeźwemu kierowcy odjechać z miejsca zdarzenia. Zabrał 37-latkowi kluczyki i zatrzymał go do czasu przyjazdu policji. Badanie wykazało, że mężczyzna miał niemal 3 promile alkoholu w organizmie.",
-      "link": "https://ezory.pl/wiadomosci/251018-kierowca-fiata-seicento-zjechal-z-drogi-staranowal-znak-i-uderzyl-w-ciezarowke.html",
-      "published": "2026-09-18T09:31",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "fc43533a20376f867a0ae14d894236fa77c4f8d9",
-      "title": "Ile mogą zarobić pracownicy Urzędu Miasta Rybnika? Są nowe zasady wynagradzania",
-      "summary": "Prezydent Rybnika wprowadził nowy Regulamin Wynagradzania Pracowników Urzędu Miasta. Maksymalne pensje zasadnicze urzędników pozostają bez zmian, ale wzrosły limity dodatków funkcyjnych dla części stanowisk kierowniczych. Zmieniono również zasady dotyczące premii i nagród.",
-      "link": "https://www.nowiny.pl/wiadomosci/251017-ile-moga-zarobic-pracownicy-urzedu-miasta-rybnika-sa-nowe-zasady-wynagradzania.html",
-      "published": "2026-09-18T09:06",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -396,46 +422,6 @@
       "published": "2026-09-18T05:51",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f40e419e6ecb586444c970f72b3bb7d650a2b793",
-      "title": "Rusza budowa łącznika ulic Kominka i Orzepowickiej",
-      "summary": "Od poniedziałku 21 września ulica Jośki zostanie częściowo zamknięta z powodu prac rozbiórkowych i budowy kanalizacji deszczowej. Sprawdź, jak dojechać do Młodzieżowego Domu Kultury na czas trwania robót.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/powstanie-polaczenie-ulic-kardynala-kominka-i-orzepowickiej-1",
-      "published": "2026-09-18T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a68b3bc94d0133d2f7160075d5c4e0da75f84a22",
-      "title": "Budżet Obywatelski - głosujemy!",
-      "summary": "W sobotę,19 września rusza głosowanie na projekty zgłoszone przez mieszkańców Rybnika do Budżetu Obywatelskiego na rok 2027. Głosy na wybrane przez siebie projekty można oddawać do niedzieli, 27 września.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/budzet-obywatelski-glosujemy-3-2",
-      "published": "2026-09-18T00:00",
-      "source": "rybnik.eu",
-      "category": "Budżet obywatelski",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e9989848e3889950307d5f76453472ac52b08cb9",
-      "title": "Postępy prac na ul. Grota-Roweckiego",
-      "summary": "Trwa realizacja drugiego etapu rozbudowy ulicy Grota-Roweckiego w Rybniku-Niewiadomiu. Inwestycja jest dofinansowana z Rządowego Funduszu Rozwoju Dróg.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/postepy-prac-na-ul-grota-roweckiego",
-      "published": "2026-09-18T00:00",
-      "source": "rybnik.eu",
-      "category": "Inwestycje",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "9bee3cb38e4f120b583e74b28ad13aebdd811d28",
-      "title": "Nagrody Prezydenta Miasta Rybnika za osiągnięcia w dziedzinie kultury przyznane",
-      "summary": "Trzy nagrody indywidualne oraz jedna nagroda zespołowa zostały przyznane w tegorocznej edycji Nagród Prezydenta Miasta Rybnika za osiągnięcia w dziedzinie twórczości artystycznej, upowszechniania i ochrony kultury.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/nagrody-prezydenta-miasta-rybnika-za-osiagniecia-w-dziedzinie-kultury-przyznane",
-      "published": "2026-09-18T00:00",
-      "source": "rybnik.eu",
-      "category": "Kultura",
       "priority": "NORMAL"
     },
     {
@@ -609,56 +595,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "3ea97115f3495ec856e4c771328968c22657ca38",
-      "title": "Politechnika Śląska wspiera przyszłych geodetów!",
-      "summary": "Politechnika Śląska obejmuje patronatem klasy geodezyjne Zespołu Szkół Budowlanych w Rybniku, wspierając uczniów w zdobywaniu wiedzy i doświadczenia w przyszłej pracy w zawodzie geodety. 4 września odbyło się uroczyste podpisanie umów patronackich.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/politechnika-slaska-wspiera-przyszlych-geodetow",
-      "published": "2026-09-17T00:00",
-      "source": "rybnik.eu",
-      "category": "Edukacja",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b6924c931d64a590509e4f9203da35462ee18b18",
-      "title": "Naładuj hospicjum dobrą energią – przynieś elektroodpady",
-      "summary": "W dniach od 21 do 25 września już po raz drugi na terenie Rybnika zostanie przeprowadzona wyjątkowa akcja - charytatywna zbiórka elektroodpadów, z której dochód zostanie przeznaczony na zakup wyposażenia rybnickiego hospicjum.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/naladuj-hospicjum-dobra-energia-przynies-elektroodpady",
-      "published": "2026-09-17T00:00",
-      "source": "rybnik.eu",
-      "category": "Odpady komunalne",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "485ac45ab22f3f0800583da41209df82c814d323",
-      "title": "Budowa biogazowni - SKO utrzymało w mocy decyzję środowiskową",
-      "summary": "Samorządowe Kolegium Odwoławcze w Katowicach po wielomiesięcznej i wnikliwej analizie utrzymało w mocy decyzję o środowiskowych uwarunkowaniach dla budowy instalacji do przetwarzania odpadów biodegradowalnych w Rybniku.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/budowa-biogazowni-sko-utrzymalo-w-mocy-decyzje-srodowiskowa",
-      "published": "2026-09-17T00:00",
-      "source": "rybnik.eu",
-      "category": "Odpady komunalne",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "53389e1e145e248c6ca90e5391041ba668444e0e",
-      "title": "Przenosiny biblioteki na parter - wygodna i bez barier",
-      "summary": "Nowa filia w Boguszowicach to miejsce bez barier architektonicznych, stworzone z myślą o budowaniu lokalnych relacji. W niedzielne popołudnie zapraszamy na piknik oraz filozoficzne inspiracje z motywem literackim.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/przenosiny-biblioteki-na-parter-i-magiczny-podwieczorek-dla-mieszkancow",
-      "published": "2026-09-17T00:00",
-      "source": "rybnik.eu",
-      "category": "Edukacja",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "68d3f90011e43b82250f14698507d4aa549b4a08",
-      "title": "XI Festiwal Dyni W Kamieniu",
-      "summary": "Jesień w Rybniku-Kamieniu po raz kolejny będzie miała kolor dyni. 10 października odbędzie się XI Festiwal Dyni - pełne rodzinnych atrakcji wydarzenie z konkursami, degustacją i jesiennymi dekoracjami.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/xi-festiwal-dyni-juz-10-pazdziernika",
-      "published": "2026-09-17T00:00",
-      "source": "rybnik.eu",
-      "category": "Aktualności",
-      "priority": "NORMAL"
-    },
-    {
       "id": "9eefd5fa55e11722d7a59dc3b16e644887316545",
       "title": "Szermierka: Liliana Niedobecka druga w Radlinie",
       "summary": "Reprezentantka RMKS-u Rybnik, Liliana Niedobecka, stanęła na drugim stopniu podium podczas I Pucharu Polski Juniorek (U20) w szpadzie kobiet, który odbył się w sąsiednim Radlinie.",
@@ -829,26 +765,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "a4e0585d1b9f15fcaf48f682e9460d290dfdd196",
-      "title": "Wolne mieszkanie na Sztolniowej",
-      "summary": "Nadal można składać wnioski o zawarcie umowy najmu mieszkania w ramach Towarzystwa Budownictwa Społecznego. Do dyspozycji jest kawalerka przy ul. Sztolniowej 43/1 w Rybniku-Boguszowicach Starych.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/trwa-nabor-wnioskow-na-mieszkanie-tbs-przy-ul-sztolniowej",
-      "published": "2026-09-16T00:00",
-      "source": "rybnik.eu",
-      "category": "Boguszowice Stare",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0800e788ae8a433a63244c884a3b94f4d1baa39c",
-      "title": "Nowe Akwarium w Boguszowicach",
-      "summary": "Zakończył się remont pływalni Akwarium w Boguszowicach – odnowiono obie niecki basenowe, wymieniono m.in. folię, oświetlenie podwodne i kratki przelewowe, a obiekt zyskał także odświeżone wnętrza i oświetlenie LED.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/nowe-akwarium-w-boguszowicach",
-      "published": "2026-09-16T00:00",
-      "source": "rybnik.eu",
-      "category": "Rekreacja",
-      "priority": "NORMAL"
-    },
-    {
       "id": "ccf20b2b5e7b3f502bacdffb85f992a819a8a819",
       "title": "Michał Woś z zarzutami: komunikat Prokuratury Krajowej",
       "summary": "Michał Woś były wiceminister sprawiedliwości z czasów rządów PiS, usłyszał poważne zarzuty. Prokuratura Krajowa podała szczegóły.",
@@ -859,13 +775,13 @@
       "priority": "NORMAL"
     },
     {
-      "id": "8a2a2baea2426280c00e901f6c380ee4c070af44",
-      "title": "Tydzień dla seniorów",
-      "summary": "Na przełomie września i października Rybnik będzie świętował aktywność, kulturę i integrację seniorów. W programie m.in. spotkania, profilaktyka, taniec, śpiew, historia regionu i koncerty.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/rybnik-dla-seniorow-tydzien-pelen-kultury-aktywnosci-i-spotkan",
-      "published": "2026-09-15T00:00",
-      "source": "rybnik.eu",
-      "category": "Seniorzy",
+      "id": "3d6c74107e7a81e46b1faf4c15cfe8a97b03cc48",
+      "title": "Kierowca na podwójnym gazie i z sądowym zakazem. Został zatrzymany na autostradzie A1",
+      "summary": "Wracał z imprezy, mając prawie 2 promile alkoholu w organizmie... W dodatku 24-letni kierujący Audi miał obowiązujące sądowe zakazy prowadzenia pojazdów. Decyzją sądu został tymczasowo aresztowany na trzy miesiące.",
+      "link": "https://www.radio90.pl/kierowca-na-podwojnym-gazie-i-z-sadowym-zakazem-zostal-zatrzymany-na-autostradzie-a1.html",
+      "published": "2026-09-15T14:30",
+      "source": "Radio 90",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -889,26 +805,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "e1840349ecbfd687d931a320eee18d608e616872",
-      "title": "Przygotowania do Europejskiego Tygodnia Mobilności",
-      "summary": "Jak bezpiecznie korzystać z komunikacji miejskiej? Jak działa autobus wodorowy? Co zrobić w sytuacji zagrożenia w autobusie? Na te i wiele innych pytań odpowiedzą organizatorzy tegorocznego Europejskiego Tygodnia Mobilności. W dniach 16–22 września mieszkańcy będą mogli wziąć udział w sześciu…",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/przygotowania-do-europejskiego-tygodnia-mobilnosci",
-      "published": "2026-09-11T00:00",
-      "source": "rybnik.eu",
-      "category": "Wydarzenia",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "49c7ae80ea9b41a5926f33567a86e9bd211458c6",
-      "title": "Ponad 106 mln zł wsparcia na przebudowę ul. Mikołowskiej",
-      "summary": "Miasto Rybnik pozyskało kolejne 3,08 mln zł z budżetu państwa na przebudowę drogi wojewódzkiej nr 925. Łączna wartość pozyskanych środków zewnętrznych na realizację inwestycji przekroczyła już 106,5 mln zł.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/ponad-106-mln-zl-wsparcia-na-przebudowe-ul-mikolowskiej",
-      "published": "2026-09-10T00:00",
-      "source": "rybnik.eu",
-      "category": "Inwestycje",
-      "priority": "NORMAL"
-    },
-    {
       "id": "b4c24261dfa0827ce4d60238ac3504ae500a286b",
       "title": "Będą utrudnienia w ruchu w rejonie szpitala. Wymienią nawierzchnię",
       "summary": "Kierowcy, ta informacja jest dla Was istotna. Od środy (9 września) do końca tego miesiąca musicie liczyć się z utrudnieniami w ruchu na ul. Energetyków i Żołędziowej. Pracownicy ZDM wymienią tam nawierzchnię.",
@@ -929,26 +825,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "f7afd99998f3dff80aa43bcc47770dd6f120c453",
-      "title": "Duże mieszkanie w centrum czeka na najemcę.",
-      "summary": "Mieszkanie komunalne o powierzchni 138 m² czeka na najemcę. Lokal przy ul. Rzecznej 4/10 zostanie wystawiony na licytację już 16 września. Przyszły najemca będzie zobowiązany do przeprowadzenia niezbędnego remontu.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/duze-mieszkanie-w-centrum-czeka-na-najemce",
-      "published": "2026-09-08T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b299ec2cbe1e9a4fe281e43bf39f82543d3bba12",
-      "title": "Witamy nowych Partnerów Rybki!",
-      "summary": "W ostatnich dniach dołączyli do nas kolejni Partnerzy, oferujący zniżki w ramach Karty Rybka. To: Manufaktura słodyczy Bombon, Restauracja Olimpia, OdNowa Elektro, inVerno Centrum Łazienek oraz tambi.studio.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/witamy-nowych-partnerow-rybki",
-      "published": "2026-09-07T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
       "id": "8cef111c0b5a56aa7f14dd39257cc86e07fa3831",
       "title": "Tauron zapowiada przerwy w dostawie prądu na terenie Rybnika. Sprawdź ulice i godziny wyłączeń",
       "summary": "W najbliższych dniach mieszkańcy kilku ulic w Rybniku muszą liczyć się z czasowymi przerwami w dostawie energii elektrycznej. Tauron opublikował harmonogram planowanych wyłączeń od 7 do 11 września 2026 roku. Najdłuższe potrwają nawet dziewięć godzin.",
@@ -957,46 +833,6 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
-    },
-    {
-      "id": "91a3d0dbafd83e824841679cf34efb3a582e2be1",
-      "title": "BUDOWA ELEKTROWNI PGE NOWY RYBNIK WCHODZI W KOLEJNY ETAP REALIZACJI",
-      "summary": "W dniach 4-7 września, w godzinach 9:00-17:00, na terenie budowy bloku gazowo-parowego PGE Nowy Rybnik będą prowadzone prace związane z przedmuchem gazociągu, jak informuje PGE Nowy Rybnik.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/budowa-elektrowni-pge-nowy-rybnik-wchodzi-w-kolejny-etap-realizacji",
-      "published": "2026-09-04T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c0b1146cb3bde9bb0f983e86345f1f07cd1e90e6",
-      "title": "Googlowa mapa Karty Rybka",
-      "summary": "Od teraz miejsca, w których honorowana jest Rybnicka Karta Mieszkańca - Rybka, znajdziesz na mapie Google. Zajrzyj dokąd Ci po drodze i korzystaj z \"rybkowych\" benefitów!",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/googlowa-mapa-karty-rybka",
-      "published": "2026-09-03T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8f76d24ba47bccd5ff81a910a6a6ce699c3ab8cb",
-      "title": "W Rybniku szkło zamieni się we wrzosy. Wielka Zbiórka Szkła już 5 września",
-      "summary": "Puste słoiki i szklane butelki mogą zyskać drugie życie, a ich prawidłowa segregacja – zostać nagrodzona kolorowym wrzosem. W sobotę, 5 września, Wielka Zbiórka Szkła zawita do Rybnika. Na mieszkańców będzie czekać aż 2000 wrzosów w doniczkach.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/w-rybniku-szklo-zamieni-sie-we-wrzosy-wielka-zbiorka-szkla-juz-5-wrzesnia",
-      "published": "2026-09-02T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e3201b14ccec9dafdbcb291bb19ffa45fe4bf28f",
-      "title": "Z Rybką już blisko 170 zniżek w ponad 90 miejscach!",
-      "summary": "W programie Rybnickiej Karty Mieszkańca mamy już 91 Partnerów, oferujących w sumie 167 różnorodnych benefitów. Korzysta z nich już blisko 14 tys. użytkowników Karty. Sprawdź aktualną ofertę Rybki.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/z-rybka-juz-blisko-170-znizek-w-ponad-90-miejscach",
-      "published": "2026-09-02T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
     },
     {
       "id": "693b3479108e81ac0323a8bdcd7c4c8721440a12",
@@ -1009,16 +845,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "0c2e6fb054b09eec10c984b43aec677703bd3107",
-      "title": "Wręczenie aktów mianowania 105 nauczycielom",
-      "summary": "31 sierpnia w Urzędzie Miasta odbyło się uroczyste ślubowanie i wręczenie aktów nadania stopnia awansu zawodowego.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/wreczenie-aktow-mianowania-105-nauczycielom",
-      "published": "2026-09-01T00:00",
-      "source": "rybnik.eu",
-      "category": "Urząd Miasta",
-      "priority": "NORMAL"
-    },
-    {
       "id": "b31855bc380d75eaa66a8f4f4b61181893ad3319",
       "title": "Przerwy w dostawie prądu w Rybniku i powiecie. Utrudnienia od dziś do czwartku",
       "summary": "Mieszkańcy Rybnika oraz kilku miejscowości powiatu rybnickiego muszą przygotować się na planowane przerwy w dostawie energii elektrycznej. Pierwsze wyłączenia zaplanowano już na dziś, 31 sierpnia, a kolejne potrwają do czwartku, 3 września. W niektórych miejscach prądu może nie być nawet przez…",
@@ -1027,16 +853,6 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
-    },
-    {
-      "id": "33539f92427e60f518f98af139d938ad9df972c3",
-      "title": "Rybnik na kolejowej trasie do Pszczyny. Nowe połączenia Kolei Śląskich już kursują",
-      "summary": "Po zakończeniu prac modernizacyjnych kolej wróciła na trasę Rybnik – Żory – Pszczyna. Od 30 sierpnia mieszkańcy Rybnika i okolic mogą korzystać z większej liczby bezpośrednich połączeń Kolei Śląskich.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/rybnik-na-kolejowej-trasie-do-pszczyny-nowe-polaczenia-kolei-slaskich-juz-kursuja",
-      "published": "2026-08-31T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikacja",
-      "priority": "NORMAL"
     },
     {
       "id": "b7627dd2cc0589ebc7746b5ef8dc98c97249a97b",
@@ -1067,36 +883,6 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
-    },
-    {
-      "id": "77f6ea194d9da33737c0df5b910e4c42bc501384",
-      "title": "Zmiany w rozkładzie jazdy",
-      "summary": "Z dniem 1 września wprowadzone zostają następujące zmiany w kursowaniu transportu publicznego w Rybniku.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zmiany-w-rozkladzie-jazdy-4",
-      "published": "2026-08-28T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikacja",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "89261e2e7499e908cd4c741c89b923824a4416cf",
-      "title": "Ponad dwadzieścia milionów złotych na rozbudowę rybnickiego liceum",
-      "summary": "Ponad 700 uczniów rybnickiego liceum zyskało nowoczesne skrzydło z pełnowymiarową salą gimnastyczną, czytelnią i nowymi klasami. Przestronny obiekt bez barier architektonicznych znacząco podnosi komfort nauki oraz codziennych treningów.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/ponad-dwadziescia-milionow-zlotych-na-rozbudowe-rybnickiego-liceum",
-      "published": "2026-08-28T00:00",
-      "source": "rybnik.eu",
-      "category": "Inwestycje",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "7e05869f1dc0a1f05dc7e6aa71c05b5e4ae8b26b",
-      "title": "Komunikacja Miejska - udogodnienia dla osób z niepełnosprawnościami",
-      "summary": "Od 1 września w rybnickiej komunikacji miejskiej zaczną obowiązywać nowe zasady, które wprowadzają dodatkowe udogodnienia dla opiekunów i przewodników osób z niepełnosprawnościami oraz dla osób poruszających się na wózkach.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/komunikacja-miejska-udogodnienia-dla-osob-z-niepelnosprawnosciami",
-      "published": "2026-08-27T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikacja",
-      "priority": "NORMAL"
     },
     {
       "id": "6e9038aa528190452cd55b085483bf03770a89a2",
@@ -1167,16 +953,6 @@
       "source": "tuRybnik.pl",
       "category": "Biznes i Praca",
       "priority": "NORMAL"
-    },
-    {
-      "id": "deeb02c52701ee8388c508e2d04d02b3d768a47b",
-      "title": "Zmiana organizacji ruchu na ul. Mikołowskiej od 22 czerwca",
-      "summary": "W związku z przebudową drogi wojewódzkiej nr 925 ul. Mikołowskiej, zostanie wprowadzona kolejna zmiana tymczasowej organizacji ruchu. Utrudnienia potrwają do 31 maja 2027 r.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zmiana-organizacji-ruchu-na-ul-mikolowskiej-od-22-czerwca",
-      "published": "2026-06-15T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "ALERT"
     },
     {
       "id": "e101825017c644753f21d206850332fb92ecce1e",
