@@ -1,28 +1,13 @@
 {
-  "generated_at": "2026-09-19T19:34:18",
+  "generated_at": "2026-09-19T17:37:23",
   "count": 120,
-  "failures": [],
+  "failures": [
+    {
+      "source": "rybnik.com.pl",
+      "error": "403 Client Error: Forbidden for url: https://www.rybnik.com.pl/feed,feed0.html"
+    }
+  ],
   "items": [
-    {
-      "id": "4b24608715b7aa0e68e658b6544af4027e76f265",
-      "title": "Dożynki w Lubomi 2026 - mieszkańcy zaskoczyli kreatywnością wozów dożynkowych [ZDJĘCIA]",
-      "summary": "Barwny korowód przeszedł ulicami Lubomi podczas dożynek gminnych 2026. Dożynki powróciły do gminy, a mieszkańcy dopisali oraz popisali się kreatywnością.",
-      "link": "https://agronowiny.pl/wiadomosci/251035-dozynki-w-lubomi-2026-mieszkancy-zaskoczyli-kreatywnoscia-wozow-dozynkowych-zdjecia.html",
-      "published": "2026-09-19T18:21",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "67eb91f3c83323090f47617dc8415429c6d207da",
-      "title": "Posłanka Lenartowicz o profilaktyce, leczeniu i pomocy w chorobach otępiennych",
-      "summary": "Gabriela Lenartowicz jest przewodniczącą Parlamentarnego Zespołu ds. Choroby Alzheimera i 15 września wzięła w sejmowych wydarzeniach w ramach Światowych Dni Choroby Alzheimera. Odbyła się konferencja prasowa, wystawa i debata ekspercka na temat profilaktyki, leczenia i pomocy rodzinom chorych.",
-      "link": "https://www.nowiny.pl/wiadomosci/251034-poslanka-lenartowicz-o-profilaktyce-leczeniu-i-pomocy-w-chorobach-otepiennych.html",
-      "published": "2026-09-19T17:39",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
     {
       "id": "1c97fe072bcafb6eab8f3b8c7227f483b1c6be8a",
       "title": "Pierwszy punkt zdobyty na wyjeździe. ROW 1964 Rybnik remisuje ze Stilonem Gorzów",
@@ -44,11 +29,31 @@
       "priority": "NORMAL"
     },
     {
+      "id": "4b24608715b7aa0e68e658b6544af4027e76f265",
+      "title": "Dożynki w Lubomi 2026 - mieszkańcy zaskoczyli kreatywnością wozów dożynkowych [ZDJĘCIA]",
+      "summary": "Barwny korowód przeszedł ulicami Lubomi podczas dożynek gminnych 2026. Dożynki powróciły do gminy, a mieszkańcy dopisali oraz popisali się kreatywnością.",
+      "link": "https://agronowiny.pl/wiadomosci/251035-dozynki-w-lubomi-2026-mieszkancy-zaskoczyli-kreatywnoscia-wozow-dozynkowych-zdjecia.html",
+      "published": "2026-09-19T16:21",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "67eb91f3c83323090f47617dc8415429c6d207da",
+      "title": "Posłanka Lenartowicz o profilaktyce, leczeniu i pomocy w chorobach otępiennych",
+      "summary": "Gabriela Lenartowicz jest przewodniczącą Parlamentarnego Zespołu ds. Choroby Alzheimera i 15 września wzięła w sejmowych wydarzeniach w ramach Światowych Dni Choroby Alzheimera. Odbyła się konferencja prasowa, wystawa i debata ekspercka na temat profilaktyki, leczenia i pomocy rodzinom chorych.",
+      "link": "https://www.nowiny.pl/wiadomosci/251034-poslanka-lenartowicz-o-profilaktyce-leczeniu-i-pomocy-w-chorobach-otepiennych.html",
+      "published": "2026-09-19T15:39",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
       "id": "51df24a9f7ecc3ae732386f6bb5159daf0176b5f",
       "title": "Czy minister kultury uratuje „chatkę Baby Jagi” w Raciborzu?",
       "summary": "Dawna, drewniana portiernia fabryki mebli, której historia sięga XIX wieku jest w złym stanie, postępuje jej degradacja. Były interwencje radnych, analizy urzędu miasta, a także plan rozbiórki zabytku. Sprawa trafiła do ministra kultury i dziedzictwa narodowego.",
       "link": "https://www.nowiny.pl/wiadomosci/251033-czy-minister-kultury-uratuje-chatke-baby-jagi-w-raciborzu.html",
-      "published": "2026-09-19T16:59",
+      "published": "2026-09-19T14:59",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -58,7 +63,7 @@
       "title": "Przedsiębiorco, zapytaj prezydenta Raciborza o biznes w mieście. Śniadanie biznesowe RIG wraca po przerwie",
       "summary": "- Jak praktycznie wykorzystać narzędzia AI w codziennej działalności? Co aktualnie dzieje się w Raciborzu z perspektywy lokalnego biznesu? Jakie sprawy przedsiębiorcy chcieliby omówić bezpośrednio z władzami miasta? - takie tematy pojawią się w czwartek 24 września na Śniadaniu Biznesowym z…",
       "link": "https://www.nowiny.pl/wiadomosci/251032-przedsiebiorco-zapytaj-prezydenta-raciborza-o-biznes-w-miescie-sniadanie-biznesowe-rig-wraca-po-przerwie.html",
-      "published": "2026-09-19T16:09",
+      "published": "2026-09-19T14:09",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -74,46 +79,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "efb509d6223588d30f98ab49595af45c07df9876",
-      "title": "Konie na ulicach Raciborza, parada i pogoń za lisem. Zobaczcie zdjęcia z Hubertusa 2026 [ZDJĘCIA, WIDEO]",
-      "summary": "W sobotę, 19 września, na raciborskim Ostrogu odbył się Hubertus – jedno z najważniejszych wydarzeń w kalendarzu miłośników jeździectwa w regionie. Gospodarzami wydarzenia byli prowadzący Huzarską Dolinę małżonkowie Gorczycowie.",
-      "link": "https://agronowiny.pl/wiadomosci/251031-konie-na-ulicach-raciborza-parada-i-pogon-za-lisem-zobaczcie-zdjecia-z-hubertusa-2026-zdjecia-wideo.html",
-      "published": "2026-09-19T14:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "fb6143ec094cc2fd65db13d6c2408071c69ea7e0",
-      "title": "Rusza zbiórka kasztanów dla żubrów z Raciborza",
-      "summary": "Jaki jest wasz ulubiony przysmak? Jedni lubią słodkość inni coś na słono a jeszcze inni coś zdrowego, warzywa czy owoce. Swoje przysmaki mają także żubry - to żołędzie i kasztany. Możecie pomóc i podrzucić im trochę tego za czym przepadają.",
-      "link": "https://www.radio90.pl/rusza-zbiorka-kasztanow-dla-zubrow-z-raciborza.html",
-      "published": "2026-09-19T13:59",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3fdc3d0ab70bd82d727b32b3c00818896fe8415e",
-      "title": "Tak wyglądał Dzień Otwarty Raciborskiej Porodówki 2026 [ZDJĘCIA]",
-      "summary": "Tłum ludzi pojawił się na Dniu Otwartym Raciborskiej Porodówki. Korytarze oddziału szybko wypełniły się przyszłymi rodzicami, którzy chcieli zobaczyć porodówkę od środka, poznać personel i dowiedzieć się, jak wygląda opieka nad mamą oraz dzieckiem. Zainteresowanie wydarzeniem było naprawdę duże.",
-      "link": "https://www.nowiny.pl/wiadomosci/251030-tak-wygladal-dzien-otwarty-raciborskiej-porodowki-2026-zdjecia.html",
-      "published": "2026-09-19T13:29",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "14b9c1060021bc40f7bf46300305e9bac81131f9",
-      "title": "Koniec pracy Ireneusza Fieta w szkole w Nędzy. Dyrektor pożegnał się z placówką [ZDJĘCIA]",
-      "summary": "Ireneusz Fiet zakończył pracę na stanowisku dyrektora Szkoły Podstawowej im. Powstańców Śląskich w Nędzy . Podczas uroczystego apelu podziękowali mu uczniowie, nauczyciele i pracownicy szkoły. W programie znalazło się również przedstawienie przygotowane przez uczniów oraz wspomnienia związane z…",
-      "link": "https://www.nowiny.pl/wiadomosci/251029-koniec-pracy-ireneusza-fieta-w-szkole-w-nedzy-dyrektor-pozegnal-sie-z-placowka-zdjecia.html",
-      "published": "2026-09-19T12:52",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "64cf12b54e1698e99b20565d5ea2dc1bda959690",
       "title": "Motocyklista stracił panowanie i uderzył w drzewo. Pomógł mu policjant po służbie",
       "summary": "Chwila nieuwagi zakończyła się groźnym wypadkiem w Rybniku. Motocyklista zatrzymał się przed przejściem dla pieszych, a chwilę później gwałtownie ruszył, stracił panowanie nad pojazdem i uderzył najpierw w krawężnik, a następnie w drzewo. 54-letni mężczyzna stracił przytomność. Na szczęście w…",
@@ -124,13 +89,43 @@
       "priority": "NORMAL"
     },
     {
-      "id": "3628e813e06ace510b68f6be49b924fae06a11a3",
-      "title": "Schronisko w Rybniku zachęca: poznaj psiaka przy kawie, daj mu nowy dom",
-      "summary": "Przyjdź, napij się kawy, przy okazji pokochaj jednego z naszych psiaków. Albo dwa! Schronisko w Rybniku zachęca mieszkańców regionu do adopcji bezdomnych zwierząt. Dziś (19.09) specjalna akcja odbyła się w kawiarni przy lotnisku w Gotartowicach.",
-      "link": "https://www.radio90.pl/schronisko-w-rybniku-zacheca-poznaj-psiaka-przy-kawie-daj-mu-nowy-dom.html",
-      "published": "2026-09-19T11:07",
+      "id": "efb509d6223588d30f98ab49595af45c07df9876",
+      "title": "Konie na ulicach Raciborza, parada i pogoń za lisem. Zobaczcie zdjęcia z Hubertusa 2026 [ZDJĘCIA, WIDEO]",
+      "summary": "W sobotę, 19 września, na raciborskim Ostrogu odbył się Hubertus – jedno z najważniejszych wydarzeń w kalendarzu miłośników jeździectwa w regionie. Gospodarzami wydarzenia byli prowadzący Huzarską Dolinę małżonkowie Gorczycowie.",
+      "link": "https://agronowiny.pl/wiadomosci/251031-konie-na-ulicach-raciborza-parada-i-pogon-za-lisem-zobaczcie-zdjecia-z-hubertusa-2026-zdjecia-wideo.html",
+      "published": "2026-09-19T12:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "fb6143ec094cc2fd65db13d6c2408071c69ea7e0",
+      "title": "Rusza zbiórka kasztanów dla żubrów z Raciborza",
+      "summary": "Jaki jest wasz ulubiony przysmak? Jedni lubią słodkość inni coś na słono a jeszcze inni coś zdrowego, warzywa czy owoce. Swoje przysmaki mają także żubry - to żołędzie i kasztany. Możecie pomóc i podrzucić im trochę tego za czym przepadają.",
+      "link": "https://www.radio90.pl/rusza-zbiorka-kasztanow-dla-zubrow-z-raciborza.html",
+      "published": "2026-09-19T11:59",
       "source": "Radio 90",
       "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3fdc3d0ab70bd82d727b32b3c00818896fe8415e",
+      "title": "Tak wyglądał Dzień Otwarty Raciborskiej Porodówki 2026 [ZDJĘCIA]",
+      "summary": "Tłum ludzi pojawił się na Dniu Otwartym Raciborskiej Porodówki. Korytarze oddziału szybko wypełniły się przyszłymi rodzicami, którzy chcieli zobaczyć porodówkę od środka, poznać personel i dowiedzieć się, jak wygląda opieka nad mamą oraz dzieckiem. Zainteresowanie wydarzeniem było naprawdę duże.",
+      "link": "https://www.nowiny.pl/wiadomosci/251030-tak-wygladal-dzien-otwarty-raciborskiej-porodowki-2026-zdjecia.html",
+      "published": "2026-09-19T11:29",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "14b9c1060021bc40f7bf46300305e9bac81131f9",
+      "title": "Koniec pracy Ireneusza Fieta w szkole w Nędzy. Dyrektor pożegnał się z placówką [ZDJĘCIA]",
+      "summary": "Ireneusz Fiet zakończył pracę na stanowisku dyrektora Szkoły Podstawowej im. Powstańców Śląskich w Nędzy . Podczas uroczystego apelu podziękowali mu uczniowie, nauczyciele i pracownicy szkoły. W programie znalazło się również przedstawienie przygotowane przez uczniów oraz wspomnienia związane z…",
+      "link": "https://www.nowiny.pl/wiadomosci/251029-koniec-pracy-ireneusza-fieta-w-szkole-w-nedzy-dyrektor-pozegnal-sie-z-placowka-zdjecia.html",
+      "published": "2026-09-19T10:52",
+      "source": "nowiny.pl",
+      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -144,42 +139,22 @@
       "priority": "NORMAL"
     },
     {
+      "id": "3628e813e06ace510b68f6be49b924fae06a11a3",
+      "title": "Schronisko w Rybniku zachęca: poznaj psiaka przy kawie, daj mu nowy dom",
+      "summary": "Przyjdź, napij się kawy, przy okazji pokochaj jednego z naszych psiaków. Albo dwa! Schronisko w Rybniku zachęca mieszkańców regionu do adopcji bezdomnych zwierząt. Dziś (19.09) specjalna akcja odbyła się w kawiarni przy lotnisku w Gotartowicach.",
+      "link": "https://www.radio90.pl/schronisko-w-rybniku-zacheca-poznaj-psiaka-przy-kawie-daj-mu-nowy-dom.html",
+      "published": "2026-09-19T09:07",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "0d586458adf8a970d593097284236d2e115c5517",
       "title": "ŁAŁ - Cały Rybnik zyskuje, jedna dzielnica zaskakuje! Zagłosuj w Budżecie Obywatelskim Rybnika",
       "summary": "Rozpoczęło się głosowanie na projekty Budżetu Obywatelskiego na 2027 rok. Jednym z pomysłów jest projekt ogólnomiejski numer 6 „ŁAŁ - Cały Rybnik zyskuje, jedna dzielnica zaskakuje!”. Projekt obejmuje działania w 16 dzielnicach Rybnika. Ma rozwijać przestrzenie rekreacyjne, sportowe, edukacyjne i…",
       "link": "http://www.rybnik.com.pl/wiadomosci,lal-caly-rybnik-zyskuje-jedna-dzielnica-zaskakuje-zaglosuj-w-budzecie-obywatelskim-rybnika,wia5-3266-66164.html",
       "published": "2026-09-19T09:00",
       "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "7af4fa1b38dff9e79c883f4cad3be6388198a20e",
-      "title": "Spektakl ZŁY Sceny InVitro z Lublina na V Ogólnopolskim Festiwalu Teatralnym OFF-ka 2026",
-      "summary": "Pierwszym spektaklem trzeciego dnia V Ogólnopolskiego Festiwalu Teatralnego OFF-ka 2026 będzie ZŁY Sceny InVitro z Lublina. Spektakl w reż. Łukasza Witta- Michałowskiego odbędzie się w sobotę 26 września o 17:30 na sali widowiskowej RCK RDK, ul. Chopina 21.",
-      "link": "https://www.nowiny.pl/nie-przegap/251027-spektakl-zly-sceny-invitro-z-lublina-na-v-ogolnopolskim-festiwalu-teatralnym-off-ka-2026.html",
-      "published": "2026-09-19T09:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "341e909b297093326e6efcf032a53b36af4b23ae",
-      "title": "Klasa IV \"a\" znów razem. Absolwenci wodzisławskiego liceum spotkali się po 55 latach [ZDJĘCIA]",
-      "summary": "Dawni uczniowie klasy IV \"a\" Liceum Ogólnokształcącego im. 14 Pułku Powstańców Śląskich ponownie zasiedli w szkolnych ławkach.",
-      "link": "https://www.nowiny.pl/wiadomosci/251021-klasa-iv-a-znow-razem-absolwenci-wodzislawskiego-liceum-spotkali-sie-po-55-latach-zdjecia.html",
-      "published": "2026-09-19T08:26",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "7d7299b9145e0903f51aab53c29a329f712267db",
-      "title": "Kuchnia Radia 90: babka z tartych ziemniaków. Absolutny hit!",
-      "summary": "Babka z tartych ziemniaków to hit dla fanów placków ziemniaczanych. Złocista, z chrupiącą skórką, miękka i aromatyczna w środku, świetnie smakuje sama lub z sosem.",
-      "link": "https://www.radio90.pl/kuchnia-radia-90-babka-z-tartych-ziemniakow-absolutny-hi.html",
-      "published": "2026-09-19T08:00",
-      "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -204,11 +179,41 @@
       "priority": "NORMAL"
     },
     {
+      "id": "7af4fa1b38dff9e79c883f4cad3be6388198a20e",
+      "title": "Spektakl ZŁY Sceny InVitro z Lublina na V Ogólnopolskim Festiwalu Teatralnym OFF-ka 2026",
+      "summary": "Pierwszym spektaklem trzeciego dnia V Ogólnopolskiego Festiwalu Teatralnego OFF-ka 2026 będzie ZŁY Sceny InVitro z Lublina. Spektakl w reż. Łukasza Witta- Michałowskiego odbędzie się w sobotę 26 września o 17:30 na sali widowiskowej RCK RDK, ul. Chopina 21.",
+      "link": "https://www.nowiny.pl/nie-przegap/251027-spektakl-zly-sceny-invitro-z-lublina-na-v-ogolnopolskim-festiwalu-teatralnym-off-ka-2026.html",
+      "published": "2026-09-19T07:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "341e909b297093326e6efcf032a53b36af4b23ae",
+      "title": "Klasa IV \"a\" znów razem. Absolwenci wodzisławskiego liceum spotkali się po 55 latach [ZDJĘCIA]",
+      "summary": "Dawni uczniowie klasy IV \"a\" Liceum Ogólnokształcącego im. 14 Pułku Powstańców Śląskich ponownie zasiedli w szkolnych ławkach.",
+      "link": "https://www.nowiny.pl/wiadomosci/251021-klasa-iv-a-znow-razem-absolwenci-wodzislawskiego-liceum-spotkali-sie-po-55-latach-zdjecia.html",
+      "published": "2026-09-19T06:26",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7d7299b9145e0903f51aab53c29a329f712267db",
+      "title": "Kuchnia Radia 90: babka z tartych ziemniaków. Absolutny hit!",
+      "summary": "Babka z tartych ziemniaków to hit dla fanów placków ziemniaczanych. Złocista, z chrupiącą skórką, miękka i aromatyczna w środku, świetnie smakuje sama lub z sosem.",
+      "link": "https://www.radio90.pl/kuchnia-radia-90-babka-z-tartych-ziemniakow-absolutny-hi.html",
+      "published": "2026-09-19T06:00",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "317ee9eec0e842fba65d1ad41120944331383369",
       "title": "Ciężarówka potrąciła pieszego podczas cofania. 24-latek trafił do szpitala",
       "summary": "Do poważnego zdarzenia doszło w środę rano przy rondzie na ulicy Rybnickiej w Żorach. Kierujący ciężarowym DAF-em podczas cofania potrącił 24-letniego pieszego. Mężczyzna został przewieziony do szpitala, a kierowcy zatrzymano prawo jazdy.",
       "link": "https://ezory.pl/wiadomosci/251020-ciezarowka-potracila-pieszego-podczas-cofania-24-latek-trafil-do-szpitala.html",
-      "published": "2026-09-19T07:11",
+      "published": "2026-09-19T05:11",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -218,7 +223,7 @@
       "title": "Od zolytów do ołtarza. Muzeum w Raciborzu przypomina dawne weselne obyczaje",
       "summary": "Zanim młodzi stanęli przed ołtarzem, trzeba było przejść przez cały ciąg zwyczajów, rozmów, prób i przygotowań. O dawnych zalotach, kojarzeniu małżeństw oraz obrzędach poprzedzających ślub opowiada wystawa „Ach biada, biada, poszłam za dziada. O obrzędowości weselnej na Górnym Śląsku”, otwarta 17…",
       "link": "https://historion.pl/historia/251028-od-zolytow-do-oltarza-muzeum-w-raciborzu-przypomina-dawne-weselne-obyczaje.html",
-      "published": "2026-09-19T07:00",
+      "published": "2026-09-19T05:00",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -228,7 +233,7 @@
       "title": "Wyższa Szkoła Bezpieczeństwa w Jastrzębiu-Zdroju. Wybierz tutaj swoją przyszłość. Studiuj praktyczne kierunki",
       "summary": "Wyższa Szkoła Bezpieczeństwa z siedzibą w Poznaniu od ponad dwóch dekad kształci specjalistów w kluczowych dla rynku pracy dziedzinach, a jej Wydział Nauk Społecznych w Jastrzębiu-Zdroju stanowi prężny ośrodek akademicki w regionie. Uczelnia wyróżnia się unikalnym, praktycznym profilem kształcenia…",
       "link": "https://www.radio90.pl/wyzsza-szkola-bezpieczenstwa-w-jastrzebiu-zdroju-wybierz-tutaj-swoja-przyszlosc-studiuj-praktyczne-kierunki.html",
-      "published": "2026-09-19T00:05",
+      "published": "2026-09-18T22:05",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -238,7 +243,7 @@
       "title": "Raciborski Gród Średniowieczny: historia, pasja i społeczna misja",
       "summary": "Przenieś się w czasie do okresu wczesnego średniowiecza i zobacz, jak wyglądało życie naszych przodków na Górnym Śląsku. Raciborski Gród Średniowieczny w Raciborzu - Oborze to wyjątkowa rekonstrukcja osady z IX wieku, która tętni życiem przez cały rok. To idealne miejsce na rodzinny spacer…",
       "link": "https://www.radio90.pl/raciborski-grod-sredniowieczny-historia-pasja-i-spoleczna-misja.html",
-      "published": "2026-09-19T00:05",
+      "published": "2026-09-18T22:05",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -248,7 +253,7 @@
       "title": "Gwiazdy teatru przyjadą do Rybnika. „Ding Dong, czyli karma wraca” już 25 września!",
       "summary": "25 września w Rybniku będzie można zobaczyć komediowy spektakl „Ding Dong, czyli karma wraca\" w reżyserii Artura Barcisia. Zapowiada się wieczór pełen humoru, zaskakujących zwrotów akcji i... małżeńskich komplikacji.",
       "link": "https://www.radio90.pl/gwiazdy-teatru-przyjada-do-rybnika-ding-dong-czyli-karma-wraca-juz-25-wrzesnia.html",
-      "published": "2026-09-19T00:03",
+      "published": "2026-09-18T22:03",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -258,17 +263,7 @@
       "title": "Ostatni taniec industrialnego Hoyma. Pięć zespołów pożegna festiwal w Rybniku",
       "summary": "Po dziewięciu latach działalności HOYM Industry FEST kończy swoją historię. W sobotę 26 września w klubie Odyseja w Rybniku odbędzie się koncert „Hoym :: The Last Dance”, podczas którego wystąpi pięć zespołów związanych z muzyką industrialną, elektroniką i alternatywą.",
       "link": "https://www.nowiny.pl/wiadomosci/251015-ostatni-taniec-industrialnego-hoyma-piec-zespolow-pozegna-festiwal-w-rybniku.html",
-      "published": "2026-09-18T21:23",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "47f11f0356b49e60c5d1ea321486348048336fe0",
-      "title": "PARADA MUZYCZNA ULICAMI RACIBORZA - V Ogólnopolski Festiwal Teatralny OFF-ka",
-      "summary": "Trzeciego dnia OFF-ki czyli V Ogólnopolskiego Festiwalu Teatralnego, w sobotę 26 września, Raciborskie Centrum Kultury zaprasza na PARADĘ MUZYCZNĄ ulicami Raciborza z Kwartetem Wiejskim. Parada rozpocznie się o 16:00 spod budynku RCK RDK, ul. Chopina 21.",
-      "link": "https://www.nowiny.pl/nie-przegap/251026-parada-muzyczna-ulicami-raciborza-v-ogolnopolski-festiwal-teatralny-off-ka.html",
-      "published": "2026-09-18T20:00",
+      "published": "2026-09-18T19:23",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -284,13 +279,13 @@
       "priority": "NORMAL"
     },
     {
-      "id": "c8393f174417757672ff8b6919bc009add055f20",
-      "title": "Wypadek w Rybniku. Motocyklista wjechał w drzewo. Z pomocą ruszył mu policjant po służbie",
-      "summary": "Policjant ze Świerklan pomógł motocykliście, który rozbił się w Boguszowicach Starych w Rybniku. Dzielnicowy wracał po służbie do domu, gdy zobaczył, jak 54-latek zatrzymał się przed przejściem dla pieszych, a chwilę później gwałtownie ruszył i stracił panowanie nad motocyklem.",
-      "link": "https://www.radio90.pl/wypadek-w-rybniku-motocyklista-wjechal-w-drzewo-z-pomoca-ruszyl-mu-policjant-po-sluzbie.html",
-      "published": "2026-09-18T17:30",
-      "source": "Radio 90",
-      "category": "Wiadomości",
+      "id": "47f11f0356b49e60c5d1ea321486348048336fe0",
+      "title": "PARADA MUZYCZNA ULICAMI RACIBORZA - V Ogólnopolski Festiwal Teatralny OFF-ka",
+      "summary": "Trzeciego dnia OFF-ki czyli V Ogólnopolskiego Festiwalu Teatralnego, w sobotę 26 września, Raciborskie Centrum Kultury zaprasza na PARADĘ MUZYCZNĄ ulicami Raciborza z Kwartetem Wiejskim. Parada rozpocznie się o 16:00 spod budynku RCK RDK, ul. Chopina 21.",
+      "link": "https://www.nowiny.pl/nie-przegap/251026-parada-muzyczna-ulicami-raciborza-v-ogolnopolski-festiwal-teatralny-off-ka.html",
+      "published": "2026-09-18T18:00",
+      "source": "nowiny.pl",
+      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -300,16 +295,6 @@
       "link": "http://www.rybnik.com.pl/wiadomosci,krzysztof-bosak-w-rybniku,wia5-3266-66166.html",
       "published": "2026-09-18T17:15",
       "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "aba606c662f7f445bd6990e4700af7da9dbf1943",
-      "title": "Dzieje się w Rybniku: podróż do przeszłości, spacer i spektakle. Rusza też głosowanie w Budżecie Obywatelskim",
-      "summary": "Kolejny weekend i kolejne wydarzenia w Rybniku. Co tym razem od piątku (18.09) do niedzieli (20.09) będzie działo się w mieście? Nie zabraknie spektakli w Teatrze Ziemi Rybnickiej, w bibliotece odbędzie się spotkanie z TikTokerką, a w muzeum będzie można przenieść się w czasie 200 lat wstecz i…",
-      "link": "https://www.radio90.pl/dzieje-sie-w-rybniku-podroz-do-przeszlosci-spacer-i-spektakle-rusza-tez-glosowanie-w-budzecie-obywatelskim.html",
-      "published": "2026-09-18T16:40",
-      "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -334,33 +319,23 @@
       "priority": "NORMAL"
     },
     {
-      "id": "e277ed827db9167275ddb7fa452cc401cdc5d58e",
-      "title": "Policja w Rybniku walczy z młodzieżą szalejącą na hulajnogach i motocyklach elektrycznych. Jest apel do młodych i ich rodziców",
-      "summary": "Jeżdżą po drogach i chodnikach, nie zwracają uwagi na przepisy, często celowo je łamią. Kukuriniarze - tak mówią o sobie. To grupy młodych osób na hulajnogach elektrycznych, a samo określenie pochodzi od nazwy pojazdów którymi się poruszają (KuKirin).",
-      "link": "https://www.radio90.pl/policja-w-rybniku-walczy-z-mlodzieza-szalejaca-na-hulajnogach-i-motocyklach-elektrycznych-jest-apel-do-mlodych-i-ich-rodzicow.html",
-      "published": "2026-09-18T15:40",
+      "id": "c8393f174417757672ff8b6919bc009add055f20",
+      "title": "Wypadek w Rybniku. Motocyklista wjechał w drzewo. Z pomocą ruszył mu policjant po służbie",
+      "summary": "Policjant ze Świerklan pomógł motocykliście, który rozbił się w Boguszowicach Starych w Rybniku. Dzielnicowy wracał po służbie do domu, gdy zobaczył, jak 54-latek zatrzymał się przed przejściem dla pieszych, a chwilę później gwałtownie ruszył i stracił panowanie nad motocyklem.",
+      "link": "https://www.radio90.pl/wypadek-w-rybniku-motocyklista-wjechal-w-drzewo-z-pomoca-ruszyl-mu-policjant-po-sluzbie.html",
+      "published": "2026-09-18T15:30",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
-      "id": "56f0336415ada2469067ed82ae5a6e98c93f1d06",
-      "title": "V OFF-ka już wkrótce porwie mieszkańców w teatralną podróż",
-      "summary": "Raciborskie centrum Kultury zaprasza serdecznie na V edycję Ogólnopolskiego Festiwalu Teatralnego OFF-ka 2026. Tym razem święto teatru w Raciborzu potrwa od czwartku 24.09 do poniedziałku 28.09.2026. Wspólnie z dyrektor artystyczną Festiwalu Grażyną Tabor przygotowaliśmy program, który mamy…",
-      "link": "https://www.nowiny.pl/nie-przegap/251025-v-off-ka-juz-wkrotce-porwie-mieszkancow-w-teatralna-podroz.html",
-      "published": "2026-09-18T15:29",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "063d484b58bd6a63796bd984813b0d00fb91d779",
-      "title": "RowerON 2026: Znamy nagrodzonych w Challenge 60 km”!",
-      "summary": "Kilkadziesiąt osób wzięło udział w Challenge 60 km w ramach RowerON 2026 – największej imprezy rowerowej w regionie. Gratulujemy wszystkim udziału. Mamy nadzieję, że świetnie spędziliście czas podczas realizacji wyzwania. Przypomnijmy, że uczestnicy musieli przejechać od 12-13 września min. 60 km…",
-      "link": "https://www.nowiny.pl/nie-przegap/251024-roweron-2026-znamy-nagrodzonych-w-challenge-60-km.html",
-      "published": "2026-09-18T14:47",
-      "source": "nowiny.pl",
-      "category": "Region",
+      "id": "aba606c662f7f445bd6990e4700af7da9dbf1943",
+      "title": "Dzieje się w Rybniku: podróż do przeszłości, spacer i spektakle. Rusza też głosowanie w Budżecie Obywatelskim",
+      "summary": "Kolejny weekend i kolejne wydarzenia w Rybniku. Co tym razem od piątku (18.09) do niedzieli (20.09) będzie działo się w mieście? Nie zabraknie spektakli w Teatrze Ziemi Rybnickiej, w bibliotece odbędzie się spotkanie z TikTokerką, a w muzeum będzie można przenieść się w czasie 200 lat wstecz i…",
+      "link": "https://www.radio90.pl/dzieje-sie-w-rybniku-podroz-do-przeszlosci-spacer-i-spektakle-rusza-tez-glosowanie-w-budzecie-obywatelskim.html",
+      "published": "2026-09-18T14:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -374,13 +349,23 @@
       "priority": "NORMAL"
     },
     {
-      "id": "e9bc38e73b096313b6c4c04f2bce6d2d2c999161",
-      "title": "Hospicjum w Rybniku już gotowe. Teraz trwa nabór pracowników. Zainteresowanie jest ogromne. Kilkaset zgłoszeń!",
-      "summary": "Kilkadziesiąt miejsc, a chętnych ponad 600. Trwa nabór pracowników do rybnickiego hospicjum. Przypomnijmy zostało ono wybudowane od podstaw przy ulicy Barbórki.",
-      "link": "https://www.radio90.pl/hospicjum-w-rybniku-juz-gotowe-teraz-trwa-nabor-pracownikow-zainteresowanie-jest-ogromne-kilkaset-zgloszen.html",
-      "published": "2026-09-18T13:50",
+      "id": "e277ed827db9167275ddb7fa452cc401cdc5d58e",
+      "title": "Policja w Rybniku walczy z młodzieżą szalejącą na hulajnogach i motocyklach elektrycznych. Jest apel do młodych i ich rodziców",
+      "summary": "Jeżdżą po drogach i chodnikach, nie zwracają uwagi na przepisy, często celowo je łamią. Kukuriniarze - tak mówią o sobie. To grupy młodych osób na hulajnogach elektrycznych, a samo określenie pochodzi od nazwy pojazdów którymi się poruszają (KuKirin).",
+      "link": "https://www.radio90.pl/policja-w-rybniku-walczy-z-mlodzieza-szalejaca-na-hulajnogach-i-motocyklach-elektrycznych-jest-apel-do-mlodych-i-ich-rodzicow.html",
+      "published": "2026-09-18T13:40",
       "source": "Radio 90",
       "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "56f0336415ada2469067ed82ae5a6e98c93f1d06",
+      "title": "V OFF-ka już wkrótce porwie mieszkańców w teatralną podróż",
+      "summary": "Raciborskie centrum Kultury zaprasza serdecznie na V edycję Ogólnopolskiego Festiwalu Teatralnego OFF-ka 2026. Tym razem święto teatru w Raciborzu potrwa od czwartku 24.09 do poniedziałku 28.09.2026. Wspólnie z dyrektor artystyczną Festiwalu Grażyną Tabor przygotowaliśmy program, który mamy…",
+      "link": "https://www.nowiny.pl/nie-przegap/251025-v-off-ka-juz-wkrotce-porwie-mieszkancow-w-teatralna-podroz.html",
+      "published": "2026-09-18T13:29",
+      "source": "nowiny.pl",
+      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -394,6 +379,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "063d484b58bd6a63796bd984813b0d00fb91d779",
+      "title": "RowerON 2026: Znamy nagrodzonych w Challenge 60 km”!",
+      "summary": "Kilkadziesiąt osób wzięło udział w Challenge 60 km w ramach RowerON 2026 – największej imprezy rowerowej w regionie. Gratulujemy wszystkim udziału. Mamy nadzieję, że świetnie spędziliście czas podczas realizacji wyzwania. Przypomnijmy, że uczestnicy musieli przejechać od 12-13 września min. 60 km…",
+      "link": "https://www.nowiny.pl/nie-przegap/251024-roweron-2026-znamy-nagrodzonych-w-challenge-60-km.html",
+      "published": "2026-09-18T12:47",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
       "id": "4de9b549eb39d29d9b13db05243e189c494d17bb",
       "title": "Rusza budowa łącznika Kominka–Orzepowicka. Ulica Jośki zostanie zamknięta",
       "summary": "W poniedziałek (21 września) rozpoczną się prace związane z budową nowego połączenia ulic Kominka i Orzepowickiej w Rybniku. To oznacza całkowite zamknięcie części ulicy Jośki. Utrudnienia potrwają do lutego 2027 roku.",
@@ -404,11 +399,11 @@
       "priority": "ALERT"
     },
     {
-      "id": "38e12bd2448fb2ae68647522edf498677254044f",
-      "title": "Ulica Jośki w Rybniku zostanie zamknięta. Zmiany w dojeździe do MDK",
-      "summary": "Od najbliższego poniedziałku (21.09.) ulica Jośki zostanie częściowo zamknięta z powodu prac rozbiórkowych i budowy kanalizacji deszczowej. Jak dojechać do Młodzieżowego Domu Kultury w czasie trwania robót? Sprawdź.",
-      "link": "https://www.radio90.pl/ulica-joski-w-rybniku-zostanie-zamknieta-zmiany-w-dojezdzie-do-mdk.html",
-      "published": "2026-09-18T10:37",
+      "id": "e9bc38e73b096313b6c4c04f2bce6d2d2c999161",
+      "title": "Hospicjum w Rybniku już gotowe. Teraz trwa nabór pracowników. Zainteresowanie jest ogromne. Kilkaset zgłoszeń!",
+      "summary": "Kilkadziesiąt miejsc, a chętnych ponad 600. Trwa nabór pracowników do rybnickiego hospicjum. Przypomnijmy zostało ono wybudowane od podstaw przy ulicy Barbórki.",
+      "link": "https://www.radio90.pl/hospicjum-w-rybniku-juz-gotowe-teraz-trwa-nabor-pracownikow-zainteresowanie-jest-ogromne-kilkaset-zgloszen.html",
+      "published": "2026-09-18T11:50",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -424,16 +419,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "311975d0fce8b4e22a63e3e3374143de8e7cec1d",
-      "title": "Śląska policja podsumowuje minioną dobę. 136 zdarzeń i 3 osoby ranne",
-      "summary": "136 zdarzeń drogowych i 3 osoby ranne. Śląska policja podsumowuje minioną dobę na trasach województwa.",
-      "link": "https://www.radio90.pl/slaska-policja-podsumowuje-miniona-dobe-136-zdarzen-i-3-osoby-ranne.html",
-      "published": "2026-09-18T09:55",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "9c4711650e9b14c576f7f4d688fc931bd188a9c1",
       "title": "Kompleks Akwarium w Boguszowicach po remoncie. Co się zmieniło?",
       "summary": "Kompleks Akwarium – Pływalnia kryta w Boguszowicach zakończył prace remontowe. Modernizacja objęła obie niecki basenowe, a także wybrane elementy wyposażenia i oświetlenia obiektu. Koszt modernizacji niecek wyniósł blisko 326 tys. zł brutto.",
@@ -444,21 +429,31 @@
       "priority": "NORMAL"
     },
     {
-      "id": "db7f0fc94f5be8b9d02b2bba5d798f7dbbaf4ec3",
-      "title": "Muzeum w Rybniku zaprasza na kolejny spacer po mieście",
-      "summary": "Zobacz jak zmienia się miasto. Muzeum w Rybniku polecają niedzielny (20.09) spacer, by pokazać jak znikają budynki, zmieniają się funkcje ulic i placów",
-      "link": "https://www.radio90.pl/muzeum-w-rybniku-zaprasza-na-kolejny-spacer-po-miescie.html",
-      "published": "2026-09-18T07:51",
+      "id": "38e12bd2448fb2ae68647522edf498677254044f",
+      "title": "Ulica Jośki w Rybniku zostanie zamknięta. Zmiany w dojeździe do MDK",
+      "summary": "Od najbliższego poniedziałku (21.09.) ulica Jośki zostanie częściowo zamknięta z powodu prac rozbiórkowych i budowy kanalizacji deszczowej. Jak dojechać do Młodzieżowego Domu Kultury w czasie trwania robót? Sprawdź.",
+      "link": "https://www.radio90.pl/ulica-joski-w-rybniku-zostanie-zamknieta-zmiany-w-dojezdzie-do-mdk.html",
+      "published": "2026-09-18T08:37",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
-      "id": "43c8dee06e9f856858c8ced2bcf26723abd88e73",
-      "title": "Dlaczego jazda na rolkach zyskuje coraz większą popularność?",
-      "summary": "Rolki są jednym z tych rodzajów sprzętu sportowego, który pozwala połączyć aktywność fizyczną z przyjemnym spędzaniem czasu na świeżym powietrzu. Nie wymagają dostępu do specjalnego boiska ani skomplikowanej infrastruktury. Do rekreacyjnej jazdy wystarczy odpowiednia nawierzchnia w parku, na…",
-      "link": "https://www.radio90.pl/dlaczego-jazda-na-rolkach-zyskuje-coraz-wieksza-popularnosc-2.html",
-      "published": "2026-09-18T00:08",
+      "id": "311975d0fce8b4e22a63e3e3374143de8e7cec1d",
+      "title": "Śląska policja podsumowuje minioną dobę. 136 zdarzeń i 3 osoby ranne",
+      "summary": "136 zdarzeń drogowych i 3 osoby ranne. Śląska policja podsumowuje minioną dobę na trasach województwa.",
+      "link": "https://www.radio90.pl/slaska-policja-podsumowuje-miniona-dobe-136-zdarzen-i-3-osoby-ranne.html",
+      "published": "2026-09-18T07:55",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "db7f0fc94f5be8b9d02b2bba5d798f7dbbaf4ec3",
+      "title": "Muzeum w Rybniku zaprasza na kolejny spacer po mieście",
+      "summary": "Zobacz jak zmienia się miasto. Muzeum w Rybniku polecają niedzielny (20.09) spacer, by pokazać jak znikają budynki, zmieniają się funkcje ulic i placów",
+      "link": "https://www.radio90.pl/muzeum-w-rybniku-zaprasza-na-kolejny-spacer-po-miescie.html",
+      "published": "2026-09-18T05:51",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -504,11 +499,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "fe5326853e73118c60f074ca005b6e6eae8a863d",
-      "title": "Plama oleju na drodze oznacza realne niebezpieczeństwo – pisze nasza słuchaczka",
-      "summary": "Na śliskiej jezdni nietrudno o wypadek. Przekonała się o tym jedna z naszych słuchaczek ale tym razem powodem nie był deszcz... a olej, który wyciekł z jednego z pojazdów.",
-      "link": "https://www.radio90.pl/plama-oleju-na-drodze-oznacza-realne-niebezpieczenstwo-pisze-nasza-sluchaczka.html",
-      "published": "2026-09-17T19:00",
+      "id": "43c8dee06e9f856858c8ced2bcf26723abd88e73",
+      "title": "Dlaczego jazda na rolkach zyskuje coraz większą popularność?",
+      "summary": "Rolki są jednym z tych rodzajów sprzętu sportowego, który pozwala połączyć aktywność fizyczną z przyjemnym spędzaniem czasu na świeżym powietrzu. Nie wymagają dostępu do specjalnego boiska ani skomplikowanej infrastruktury. Do rekreacyjnej jazdy wystarczy odpowiednia nawierzchnia w parku, na…",
+      "link": "https://www.radio90.pl/dlaczego-jazda-na-rolkach-zyskuje-coraz-wieksza-popularnosc-2.html",
+      "published": "2026-09-17T22:08",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -524,16 +519,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "b4d5988d540069319f172766b99db8b1fe8a1b9b",
-      "title": "Hażlach nagrodzony, Rybnik wyróżniony. Gala w Pałacu Prezydenckim w Warszawie",
-      "summary": "Centrum Kultury Stodoła w Zamarskach zdobyło główną nagrodę XI edycji ogólnopolskiego konkursu architektoniczno-urbanistycznego „Lider Dostępności”. Statuetkę w Pałacu Prezydenckim w Warszawie odebrał wójt gminy Hażlach Grzegorz Sikorski.",
-      "link": "https://www.radio90.pl/hazlach-nagrodzony-rybnik-wyrozniony-gala-w-palacu-prezydenckim-w-warszawie.html",
-      "published": "2026-09-17T18:55",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "23309d231fe9cc1112753dccf3ec8b4a429a4780",
       "title": "Polskie kopalnie kosztują miliardy, a rynek i tak zalewa węgiel z Kazachstanu. Import rośnie, miks energetyczny się nie zmienia",
       "summary": "Import rośnie o 168 procent. Idziemy na rekord. Dane Agencji Rozwoju Przemysłu (ARP) pokazują gwałtowny zwrot na polskim rynku paliw. W pierwszym półroczu 2026 roku import węgla energetycznego do Polski wzrósł aż o 168% rok do roku. Tylko do końca lipca sprowadziliśmy niemal tyle surowca, ile w…",
@@ -544,14 +529,24 @@
       "priority": "NORMAL"
     },
     {
-      "id": "24cb59038a18bba9aab3526d92f4eb6b13d019d8",
-      "title": "Alarm przeciwpożarowy w muzeum w Rybniku",
-      "summary": "Chwile grozy w muzeum w Rybniku. Dziś (17.09) po godzinie drugiej w nocy interweniowali tam strażacy. Co się stało?",
-      "link": "https://www.radio90.pl/alarm-przeciwpozarowy-w-muzeum-w-rybniku.html",
-      "published": "2026-09-17T17:20",
+      "id": "fe5326853e73118c60f074ca005b6e6eae8a863d",
+      "title": "Plama oleju na drodze oznacza realne niebezpieczeństwo – pisze nasza słuchaczka",
+      "summary": "Na śliskiej jezdni nietrudno o wypadek. Przekonała się o tym jedna z naszych słuchaczek ale tym razem powodem nie był deszcz... a olej, który wyciekł z jednego z pojazdów.",
+      "link": "https://www.radio90.pl/plama-oleju-na-drodze-oznacza-realne-niebezpieczenstwo-pisze-nasza-sluchaczka.html",
+      "published": "2026-09-17T17:00",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "ALERT"
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b4d5988d540069319f172766b99db8b1fe8a1b9b",
+      "title": "Hażlach nagrodzony, Rybnik wyróżniony. Gala w Pałacu Prezydenckim w Warszawie",
+      "summary": "Centrum Kultury Stodoła w Zamarskach zdobyło główną nagrodę XI edycji ogólnopolskiego konkursu architektoniczno-urbanistycznego „Lider Dostępności”. Statuetkę w Pałacu Prezydenckim w Warszawie odebrał wójt gminy Hażlach Grzegorz Sikorski.",
+      "link": "https://www.radio90.pl/hazlach-nagrodzony-rybnik-wyrozniony-gala-w-palacu-prezydenckim-w-warszawie.html",
+      "published": "2026-09-17T16:55",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
     },
     {
       "id": "8fc60345aa71d75527c240b77222879a1411a5bd",
@@ -560,6 +555,16 @@
       "link": "http://www.rybnik.com.pl/wiadomosci,bedzie-ladniej-na-sor-ze-ale-najpierw-utrudnienia-od-poniedzialku-wejscie-z-innej-strony,wia5-3266-66149.html",
       "published": "2026-09-17T16:00",
       "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "24cb59038a18bba9aab3526d92f4eb6b13d019d8",
+      "title": "Alarm przeciwpożarowy w muzeum w Rybniku",
+      "summary": "Chwile grozy w muzeum w Rybniku. Dziś (17.09) po godzinie drugiej w nocy interweniowali tam strażacy. Co się stało?",
+      "link": "https://www.radio90.pl/alarm-przeciwpozarowy-w-muzeum-w-rybniku.html",
+      "published": "2026-09-17T15:20",
+      "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "ALERT"
     },
@@ -604,16 +609,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "8cfb531bafcc32e748f3ce0577863a5d5d62e622",
-      "title": "Schronisko w Rybniku zaprasza na spotkanie przy kawie… z psiakami",
-      "summary": "W sobotę (19.09) spotkania przy kawie z psiakami. Schronisko w Rybniku zaprasza, by poznać adopciaki, czyli psy, które czekają na swój nowy dom.",
-      "link": "https://www.radio90.pl/schronisko-w-rybniku-zaprasza-na-spotkanie-przy-kawie-z-psiakami.html",
-      "published": "2026-09-17T10:32",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "60ffe9bd9afeaeb7e3f089727b7e3dfe2229a2b6",
       "title": "Rybniczanka przewodzi „Solidarności” w Biedronce. Po mediacjach zapowiada referendum",
       "summary": "Nie ma porozumienia między „Solidarnością” działającą w sieci Biedronka a przedstawicielami Jeronimo Martins Polska. Ostatnia runda mediacji, która odbyła się 16 września w Warszawie, zakończyła się bez przełomu. Związkowcy zapowiadają teraz referendum strajkowe. – Kontynuowanie negocjacji w takiej…",
@@ -634,21 +629,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "4fab95be661b969b0308fa936f953c3b9f47d341",
-      "title": "Bezpieczna przesyłka, zadowolony klient. Jak dobrać opakowanie do wysyłanego produktu?",
-      "summary": "Rozbity flakon perfum, zgniecione pudełko z butami czy uszkodzona elektronika to nie tylko reklamacja, koszt ponownej wysyłki i zniszczony produkt. To rozczarowany klient i ryzyko utraty zaufania do marki.",
-      "link": "https://www.radio90.pl/bezpieczna-przesylka-zadowolony-klient-jak-dobrac-opakowanie-do-wysylanego-produktu.html",
-      "published": "2026-09-17T08:57",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a97a83387614c7197901143a5cab15ebb1d03bad",
-      "title": "Na SOR w Rybniku od innej strony. Rusza remont pawilonu numer 3",
-      "summary": "Uwaga, zmiany w wejściu na SOR w Rybniku. Jak zapowiedział właśnie Wojewódzki Szpital Specjalistyczny Nr 3, w poniedziałek (21.09) rusza I etap prac w pawilonie nr 3 od strony Szpitalnego Oddziału Ratunkowego.",
-      "link": "https://www.radio90.pl/na-sor-w-rybniku-od-innej-strony-rusza-remont-pawilonu-numer-3.html",
-      "published": "2026-09-17T08:02",
+      "id": "8cfb531bafcc32e748f3ce0577863a5d5d62e622",
+      "title": "Schronisko w Rybniku zaprasza na spotkanie przy kawie… z psiakami",
+      "summary": "W sobotę (19.09) spotkania przy kawie z psiakami. Schronisko w Rybniku zaprasza, by poznać adopciaki, czyli psy, które czekają na swój nowy dom.",
+      "link": "https://www.radio90.pl/schronisko-w-rybniku-zaprasza-na-spotkanie-przy-kawie-z-psiakami.html",
+      "published": "2026-09-17T08:32",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -660,6 +645,26 @@
       "link": "http://www.rybnik.com.pl/wiadomosci,zamiast-sniadania-biznesowego-networking-na-luzie-bmh-zaprasza-na-wyjatkowy-wieczor-w-rybniku,wia5-3273-66138.html",
       "published": "2026-09-17T08:00",
       "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4fab95be661b969b0308fa936f953c3b9f47d341",
+      "title": "Bezpieczna przesyłka, zadowolony klient. Jak dobrać opakowanie do wysyłanego produktu?",
+      "summary": "Rozbity flakon perfum, zgniecione pudełko z butami czy uszkodzona elektronika to nie tylko reklamacja, koszt ponownej wysyłki i zniszczony produkt. To rozczarowany klient i ryzyko utraty zaufania do marki.",
+      "link": "https://www.radio90.pl/bezpieczna-przesylka-zadowolony-klient-jak-dobrac-opakowanie-do-wysylanego-produktu.html",
+      "published": "2026-09-17T06:57",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a97a83387614c7197901143a5cab15ebb1d03bad",
+      "title": "Na SOR w Rybniku od innej strony. Rusza remont pawilonu numer 3",
+      "summary": "Uwaga, zmiany w wejściu na SOR w Rybniku. Jak zapowiedział właśnie Wojewódzki Szpital Specjalistyczny Nr 3, w poniedziałek (21.09) rusza I etap prac w pawilonie nr 3 od strony Szpitalnego Oddziału Ratunkowego.",
+      "link": "https://www.radio90.pl/na-sor-w-rybniku-od-innej-strony-rusza-remont-pawilonu-numer-3.html",
+      "published": "2026-09-17T06:02",
+      "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -728,17 +733,7 @@
       "title": "Autostrada A4 bez opłat dla osobówek i motocykli. Za pół roku. W planach także trzeci pas",
       "summary": "Od 16 marca 2027, czyli dokładnie za pół roku, kierowcy samochodów osobowych i motocykli nie będą już płacić za przejazd autostradą A4 na odcinku Katowice–Kraków. Zarządzanie trasą przejmie Generalna Dyrekcja Dróg Krajowych i Autostrad.",
       "link": "https://www.radio90.pl/autostrada-a4-bez-oplat-dla-osobowek-i-motocykli-za-pol-roku-w-planach-takze-trzeci-pas.html",
-      "published": "2026-09-16T19:21",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "db00bb31db5ca29cd381626ff6a7524f30b4deb5",
-      "title": "Szukanie pomocy nie powinno być już tematem tabu. Każdy z nas może zostać pacjentem szpitala psychiatrycznego",
-      "summary": "Ponad 700 pacjentów leczonych jest w Klinicznym Szpitalu Psychiatrycznym w Rybniku. I właśnie z myślą o nich zorganizowano (15.09.) piknik „Jesień pod Wieżą – razem świętujemy, razem dbamy\".",
-      "link": "https://www.radio90.pl/szukanie-pomocy-nie-powinno-byc-juz-tematem-tabu-kazdy-z-nas-moze-zostac-pacjentem-szpitala-psychiatrycznego.html",
-      "published": "2026-09-16T17:15",
+      "published": "2026-09-16T17:21",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -754,11 +749,11 @@
       "priority": "ALERT"
     },
     {
-      "id": "1508206c5429b7164a561e53cc01f0d9f97f058c",
-      "title": "Mieszkańcy Niedobczyc mają swoją maskotkę. To malutka wiewiórka",
-      "summary": "Niedobczycką wiewiórkę, która hasa w Parku Czempiela, pokazuje Dom Kultury w Niedobczycach.",
-      "link": "https://www.radio90.pl/mieszkancy-niedobczyc-maja-swoja-maskotke-to-malutka-wiewiorka.html",
-      "published": "2026-09-16T15:45",
+      "id": "db00bb31db5ca29cd381626ff6a7524f30b4deb5",
+      "title": "Szukanie pomocy nie powinno być już tematem tabu. Każdy z nas może zostać pacjentem szpitala psychiatrycznego",
+      "summary": "Ponad 700 pacjentów leczonych jest w Klinicznym Szpitalu Psychiatrycznym w Rybniku. I właśnie z myślą o nich zorganizowano (15.09.) piknik „Jesień pod Wieżą – razem świętujemy, razem dbamy\".",
+      "link": "https://www.radio90.pl/szukanie-pomocy-nie-powinno-byc-juz-tematem-tabu-kazdy-z-nas-moze-zostac-pacjentem-szpitala-psychiatrycznego.html",
+      "published": "2026-09-16T15:15",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -774,11 +769,21 @@
       "priority": "ALERT"
     },
     {
+      "id": "1508206c5429b7164a561e53cc01f0d9f97f058c",
+      "title": "Mieszkańcy Niedobczyc mają swoją maskotkę. To malutka wiewiórka",
+      "summary": "Niedobczycką wiewiórkę, która hasa w Parku Czempiela, pokazuje Dom Kultury w Niedobczycach.",
+      "link": "https://www.radio90.pl/mieszkancy-niedobczyc-maja-swoja-maskotke-to-malutka-wiewiorka.html",
+      "published": "2026-09-16T13:45",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "6c67e530dba979459241b629f99881306c0ed89f",
       "title": "Paraliż, opóźnienia i wściekli pasażerowie. Awaria na kolei na Śląsku",
       "summary": "Takiej kolejowej awarii na Śląsku dawno nie było. Po dziewięciu godzinach udało się ja usunąć, ale przywracanie normalnego ruchu potrwa jeszcze co najmniej kilka godzin.",
       "link": "https://www.radio90.pl/paraliz-opoznienia-i-wsciekli-pasazerowie-awaria-na-kolei-na-slasku.html",
-      "published": "2026-09-16T14:15",
+      "published": "2026-09-16T12:15",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "ALERT"
@@ -788,17 +793,7 @@
       "title": "Mieszkaniec Rybnika stracił przez oszustów ćwierć miliona zł. Sam przekazał im pieniądze",
       "summary": "Oszuści znów w akcji. Tym razem mieszkaniec Rybnika stracił aż 242 tysiące złotych. Do 39-latka dzwonił najpierw rzekomy pracownik banku, później rzekomi policjanci.",
       "link": "https://www.radio90.pl/mieszkaniec-rybnika-stracil-przez-oszusta-cwierc-miliona-zl.html",
-      "published": "2026-09-16T11:30",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "55a929460f87d2e914ee619db1ff9d7e6073c119",
-      "title": "Jaki amplituner do kina domowego? Na co zwrócić uwagę przy 4K, 8K i Dolby Atmos?",
-      "summary": "Marzysz o prawdziwych kinowych emocjach we własnym salonie. Dobry sprzęt przeniesie cię w środek akcji za sprawą przestrzennego dźwięku i ostrego obrazu. Wybór serca takiego zestawu bywa wyzwaniem wobec wielu oznaczeń technicznych. Chcąc wykorzystać potencjał nowoczesnego telewizora, musisz poznać…",
-      "link": "https://www.radio90.pl/jaki-amplituner-do-kina-domowego-na-co-zwrocic-uwage-przy-4k-8k-i-dolby-atmos.html",
-      "published": "2026-09-16T09:43",
+      "published": "2026-09-16T09:30",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -814,11 +809,21 @@
       "priority": "ALERT"
     },
     {
+      "id": "55a929460f87d2e914ee619db1ff9d7e6073c119",
+      "title": "Jaki amplituner do kina domowego? Na co zwrócić uwagę przy 4K, 8K i Dolby Atmos?",
+      "summary": "Marzysz o prawdziwych kinowych emocjach we własnym salonie. Dobry sprzęt przeniesie cię w środek akcji za sprawą przestrzennego dźwięku i ostrego obrazu. Wybór serca takiego zestawu bywa wyzwaniem wobec wielu oznaczeń technicznych. Chcąc wykorzystać potencjał nowoczesnego telewizora, musisz poznać…",
+      "link": "https://www.radio90.pl/jaki-amplituner-do-kina-domowego-na-co-zwrocic-uwage-przy-4k-8k-i-dolby-atmos.html",
+      "published": "2026-09-16T07:43",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "8fad8ea29623834db327ec3bcad241e202c4612b",
       "title": "Koleje Śląskie: opóźnienia i odwołane pociągi w całym województwie [AKTUALIZACJA]",
       "summary": "Ogromne opóźnienia, odwołane pociągi – Koleje Śląskie informują o utrudnieniach. Od godz. 3:00 w nocy występują poważne problemy w ruchu pociągów w związku z awarią po stronie PKP PLK – brakiem zasilania urządzeń sterowania ruchem.",
       "link": "https://www.radio90.pl/koleje-slaskie-opoznienia-i-odwolane-pociagi-w-calym-wojewodztwie.html",
-      "published": "2026-09-16T08:00",
+      "published": "2026-09-16T06:00",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "ALERT"
@@ -828,7 +833,7 @@
       "title": "Rzeka Ruda w finale plebiscytu Śląska Lokacja Filmowa 2026",
       "summary": "Rzeka Ruda ma szansę zostać Śląską Lokacją Filmową 2026, głosować można jeszcze do piątku (18.09).",
       "link": "https://www.radio90.pl/rzeka-ruda-w-finale-plebiscytu-slaska-lokacja-filmowa-2026.html",
-      "published": "2026-09-16T06:45",
+      "published": "2026-09-16T04:45",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -1138,7 +1143,7 @@
       "title": "Czy duże przeszklenia bez strat ciepła są możliwe? Poznaj systemy przesuwne PVC od Kapica",
       "summary": "Duże przeszklenia tarasowe bez strat ciepła są w pełni możliwe do realizacji. Kluczem do sukcesu jest zastosowanie zaawansowanych profili wielokomorowych PVC oraz pakietów trzyszybowych. Nowoczesne",
       "link": "https://turybnik.pl/czy-duze-przeszklenia-bez-strat-ciepla-sa-mozliwe-poznaj-systemy-przesuwne-pvc-od-kapica",
-      "published": "2026-07-27T13:19",
+      "published": "2026-07-27T11:19",
       "source": "tuRybnik.pl",
       "category": "Dom i Ogród",
       "priority": "NORMAL"
@@ -1148,7 +1153,7 @@
       "title": "Jak nowocześnie kupować beton i kruszywa?",
       "summary": "Jeszcze niedawno zakup betonu albo kruszywa kojarzył się głównie z telefonami, czekaniem na transport i zamawianiem większych ilości, niż naprawdę były potrzebne. Dziś może",
       "link": "https://turybnik.pl/jak-nowoczesnie-kupowac-beton-i-kruszywa",
-      "published": "2026-07-24T11:23",
+      "published": "2026-07-24T09:23",
       "source": "tuRybnik.pl",
       "category": "Lifestyle",
       "priority": "NORMAL"
@@ -1158,7 +1163,7 @@
       "title": "Integracja systemu produkcyjnego z ERP – checklista przed wdrożeniem w zakładzie przemysłowym",
       "summary": "Integracja systemu produkcyjnego z ERP łączy technologię operacyjną (OT) z warstwą IT, dzięki czemu dane krążą między halą a biurem w czasie rzeczywistym. Pozwala to",
       "link": "https://turybnik.pl/integracja-systemu-produkcyjnego-z-erp-checklista-przed-wdrozeniem-w-zakladzie-przemyslowym",
-      "published": "2026-07-22T10:29",
+      "published": "2026-07-22T08:29",
       "source": "tuRybnik.pl",
       "category": "Biznes i Praca",
       "priority": "NORMAL"
@@ -1178,7 +1183,7 @@
       "title": "Drzewce i podstawy – kluczowe elementy każdego sztandaru",
       "summary": "Sztandar to jeden z najbardziej reprezentacyjnych symboli szkoły, jednostki, organizacji, stowarzyszenia, firmy czy instytucji publicznej. Najczęściej uwagę przyciąga jego haftowana płachta – godło, herb, nazwa,",
       "link": "https://turybnik.pl/drzewce-i-podstawy-kluczowe-elementy-kazdego-sztandaru",
-      "published": "2026-05-11T10:57",
+      "published": "2026-05-11T08:57",
       "source": "tuRybnik.pl",
       "category": "Dom i Ogród",
       "priority": "NORMAL"
@@ -1188,7 +1193,7 @@
       "title": "Wiosenny przegląd motocykla – 10 rzeczy, które musisz sprawdzić przed pierwszą jazdą",
       "summary": "Bezpieczna jazda motocyklem to coś więcej niż pasja – to przede wszystkim odpowiedzialność i regularna konserwacja. Ten przewodnik krok po kroku wyjaśnia, jak zadbać o",
       "link": "https://turybnik.pl/wiosenny-przeglad-motocykla-10-rzeczy-ktore-musisz-sprawdzic-przed-pierwsza-jazda",
-      "published": "2026-02-23T09:28",
+      "published": "2026-02-23T08:28",
       "source": "tuRybnik.pl",
       "category": "Motoryzacja",
       "priority": "NORMAL"
@@ -1198,7 +1203,7 @@
       "title": "Jak dopasować wzór CV do oferty pracy?",
       "summary": "Czy jeden wzór CV pasuje do każdej oferty pracy? Zdecydowanie nie! Tak jak nie ubierasz się w to samo na rozmowę o pracę i na",
       "link": "https://turybnik.pl/jak-dopasowac-wzor-cv-do-oferty-pracy",
-      "published": "2025-11-03T10:06",
+      "published": "2025-11-03T09:06",
       "source": "tuRybnik.pl",
       "category": "Biznes i Praca",
       "priority": "NORMAL"
