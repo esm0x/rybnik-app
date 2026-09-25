@@ -98,7 +98,7 @@ fun SupportScreen(onBack: () -> Unit) {
                     Text(
                         "Ta aplikacja jest darmowa, bez reklam i nie zbiera żadnych danych " +
                             "o Tobie. Powstaje po godzinach. Jeśli się przydaje, możesz " +
-                            "postawić kawę — ale naprawdę nie trzeba.",
+                            "postawić kawę, ale naprawdę nie trzeba.",
                         style = MaterialTheme.typography.bodyMedium,
                     )
                     Spacer(Modifier.height(14.dp))
@@ -115,7 +115,7 @@ fun SupportScreen(onBack: () -> Unit) {
             Spacer(Modifier.height(8.dp))
             Text(
                 "Zgłoszenie błędu albo brakującego wydarzenia pomaga tak samo jak kawa. " +
-                    "Kod jest otwarty — można też zajrzeć i poprawić samemu.",
+                    "Kod jest otwarty, można też zajrzeć i poprawić samemu.",
                 style = MaterialTheme.typography.bodyMedium,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
             )

@@ -8,6 +8,7 @@ import eu.rybnik.events.data.RemoteEventRepository
 import eu.rybnik.events.data.air.AirQualityRepository
 import eu.rybnik.events.data.news.NewsRepository
 import eu.rybnik.events.data.outages.OutageRepository
+import eu.rybnik.events.data.sport.SportRepository
 import eu.rybnik.events.data.transit.TransitDb
 import eu.rybnik.events.data.transit.TransitRepository
 import eu.rybnik.events.data.waste.WasteRepository
@@ -38,6 +39,7 @@ object Graph {
     lateinit var transitRepo: TransitRepository private set
     lateinit var airRepo: AirQualityRepository private set
     lateinit var outageRepo: OutageRepository private set
+    lateinit var sportRepo: SportRepository private set
     lateinit var prefs: UserPrefs private set
 
     val scope = CoroutineScope(SupervisorJob() + Dispatchers.Default)
@@ -55,16 +57,19 @@ object Graph {
         transitRepo = TransitRepository(appContext, db)
         airRepo = AirQualityRepository()
         outageRepo = OutageRepository()
+        sportRepo = SportRepository(appContext)
         prefs = UserPrefs(appContext)
 
         // Cached payloads first so a cold start renders real content instead of spinners.
         scope.launch {
-            listOf(eventRepo, wasteRepo, newsRepo, transitRepo).forEach { it.loadCache() }
+            listOf(eventRepo, wasteRepo, newsRepo, transitRepo, sportRepo)
+                .forEach { it.loadCache() }
             transitRepo.checkReady()
             eventRepo.refresh()
             wasteRepo.refresh()
             newsRepo.refresh()
             airRepo.refresh()
+            sportRepo.refresh()
         }
     }
 }

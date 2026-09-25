@@ -20,9 +20,11 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.outlined.Air
 import androidx.compose.material.icons.outlined.CalendarMonth
 import androidx.compose.material.icons.outlined.Bolt
+import androidx.compose.material.icons.outlined.Close
 import androidx.compose.material.icons.outlined.Delete
 import androidx.compose.material.icons.outlined.DirectionsBus
 import androidx.compose.material.icons.outlined.Refresh
+import androidx.compose.material.icons.outlined.SportsSoccer
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.ExperimentalMaterial3Api
@@ -55,6 +57,8 @@ import eu.rybnik.events.data.news.NewsItem
 import eu.rybnik.events.data.outages.Match
 import eu.rybnik.events.data.outages.Outage
 import eu.rybnik.events.data.outages.OutageKind
+import eu.rybnik.events.data.sport.Highlight
+import eu.rybnik.events.data.sport.Outcome
 import eu.rybnik.events.data.transit.Departure
 import eu.rybnik.events.data.waste.Collection
 import eu.rybnik.events.ui.common.DAY_FMT
@@ -82,6 +86,7 @@ data class HomeUi(
     val nextEvents: List<Event> = emptyList(),
     val alerts: List<NewsItem> = emptyList(),
     val outages: List<Outage> = emptyList(),
+    val sport: Highlight? = null,
     val refreshing: Boolean = false,
 )
 
@@ -113,6 +118,14 @@ class HomeViewModel : ViewModel() {
         }
     }
 
+    /** Dismissing from the dashboard also takes the item out of the news list. */
+    fun hideAlert(id: String) {
+        viewModelScope.launch {
+            Graph.prefs.hideNews(id)
+            _ui.update { ui -> ui.copy(alerts = ui.alerts.filterNot { it.id == id }) }
+        }
+    }
+
     fun refresh() {
         viewModelScope.launch {
             _ui.update { it.copy(refreshing = true) }
@@ -134,10 +147,13 @@ class HomeViewModel : ViewModel() {
                 .filter { !it.start.toLocalDate().isBefore(LocalDate.now()) }
                 .take(3)
 
-            val alerts = Graph.newsRepo.currentAlerts()
+            val alerts = Graph.newsRepo.currentAlerts(settings.hiddenNewsIds)
 
             Graph.outageRepo.refresh(settings.wasteAddress)
             val outages = Graph.outageRepo.state.value.outages
+
+            Graph.sportRepo.refresh()
+            val sport = Graph.sportRepo.highlight()
 
             _ui.update {
                 it.copy(
@@ -148,6 +164,7 @@ class HomeViewModel : ViewModel() {
                     nextEvents = events,
                     alerts = alerts,
                     outages = outages,
+                    sport = sport,
                     refreshing = false,
                 )
             }
@@ -163,6 +180,7 @@ fun HomeScreen(
     onOpenEvents: () -> Unit,
     onOpenNews: () -> Unit,
     onOpenAir: () -> Unit,
+    onOpenSport: () -> Unit,
     onEventClick: (String) -> Unit,
 ) {
     val vm: HomeViewModel = viewModel()
@@ -208,7 +226,7 @@ fun HomeScreen(
 
             if (ui.alerts.isNotEmpty()) {
                 item {
-                    AlertCarousel(ui.alerts, onOpenNews)
+                    AlertCarousel(ui.alerts, onOpenNews, vm::hideAlert)
                 }
             }
 
@@ -217,6 +235,8 @@ fun HomeScreen(
             item { TransitCard(ui.favouriteStop, ui.departures, onOpenTransit) }
 
             item { EventsCard(ui.nextEvents, onEventClick, onOpenEvents) }
+
+            ui.sport?.let { item { SportCard(it, onOpenSport) } }
         }
     }
 }
@@ -251,20 +271,71 @@ private fun OutageCard(outage: Outage) {
                     append(outage.from.toLocalDate().humanLabel())
                     append(", ")
                     append(outage.from.toLocalTime().format(TIME_FMT))
-                    outage.to?.let { append(" – ${it.toLocalTime().format(TIME_FMT)}") }
+                    outage.to?.let { append("-${it.toLocalTime().format(TIME_FMT)}") }
                 },
                 style = MaterialTheme.typography.titleSmall,
             )
             if (outage.match == Match.STREET) {
                 Spacer(Modifier.height(4.dp))
                 Text(
-                    "Wymieniono Twoją ulicę, ale nie udało się odczytać numerów — " +
-                        "sprawdź opis.",
+                    "Wymieniono Twoją ulicę, ale nie udało się odczytać numerów. " +
+                        "Sprawdź opis.",
                     style = MaterialTheme.typography.labelSmall,
                 )
             }
             Spacer(Modifier.height(6.dp))
             Text(outage.message, style = MaterialTheme.typography.bodySmall, maxLines = 3)
+        }
+    }
+}
+
+/**
+ * One line about the local clubs. A result stays up for a few days after the match,
+ * then the next kick-off takes over; between seasons it says so instead of passing a
+ * months-old score off as news.
+ */
+@Composable
+private fun SportCard(highlight: Highlight, onClick: () -> Unit) {
+    val match = highlight.match
+    val stale = highlight.isResult && match.date.isBefore(LocalDate.now().minusDays(7))
+
+    HomeCard(Icons.Outlined.SportsSoccer, highlight.team.kind.label, onClick) {
+        Row(verticalAlignment = Alignment.CenterVertically) {
+            Column(Modifier.weight(1f)) {
+                Text(
+                    "${highlight.team.name} ${if (match.isHome) "vs" else "u"} ${match.opponent}",
+                    style = MaterialTheme.typography.titleSmall,
+                )
+                Spacer(Modifier.height(2.dp))
+                Text(
+                    when {
+                        stale -> "Ostatni mecz sezonu, ${match.date.format(SHORT_DAY_FMT)}"
+                        highlight.isResult -> listOfNotNull(
+                            match.date.humanLabel(),
+                            match.competition,
+                        ).joinToString(" · ")
+                        else -> listOfNotNull(
+                            match.date.humanLabel(),
+                            match.time?.format(TIME_FMT),
+                            match.competition,
+                        ).joinToString(" · ")
+                    },
+                    style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
+            }
+            match.scoreLabel?.let {
+                Spacer(Modifier.width(10.dp))
+                Text(
+                    it,
+                    style = MaterialTheme.typography.titleLarge,
+                    color = when (match.outcome) {
+                        Outcome.WIN -> MaterialTheme.colorScheme.primary
+                        Outcome.LOSS -> MaterialTheme.colorScheme.error
+                        else -> MaterialTheme.colorScheme.onSurfaceVariant
+                    },
+                )
+            }
         }
     }
 }
@@ -328,7 +399,11 @@ private fun AirCard(air: AirState, onClick: () -> Unit) {
  * days buries the rest. This cycles through them instead.
  */
 @Composable
-private fun AlertCarousel(alerts: List<NewsItem>, onClick: () -> Unit) {
+private fun AlertCarousel(
+    alerts: List<NewsItem>,
+    onClick: () -> Unit,
+    onHide: (String) -> Unit,
+) {
     var index by remember(alerts) { mutableIntStateOf(0) }
 
     LaunchedEffect(alerts) {
@@ -339,15 +414,22 @@ private fun AlertCarousel(alerts: List<NewsItem>, onClick: () -> Unit) {
         }
     }
 
+    val item = alerts[index.coerceIn(alerts.indices)]
     AlertCard(
-        item = alerts[index.coerceIn(alerts.indices)],
+        item = item,
         position = if (alerts.size > 1) "${index + 1}/${alerts.size}" else null,
         onClick = onClick,
+        onHide = { onHide(item.id) },
     )
 }
 
 @Composable
-private fun AlertCard(item: NewsItem, position: String?, onClick: () -> Unit) {
+private fun AlertCard(
+    item: NewsItem,
+    position: String?,
+    onClick: () -> Unit,
+    onHide: () -> Unit,
+) {
     Card(
         onClick = onClick,
         modifier = Modifier
@@ -368,6 +450,13 @@ private fun AlertCard(item: NewsItem, position: String?, onClick: () -> Unit) {
                 )
                 if (position != null) {
                     Text(position, style = MaterialTheme.typography.labelSmall)
+                }
+                IconButton(onClick = onHide, modifier = Modifier.size(28.dp)) {
+                    Icon(
+                        Icons.Outlined.Close,
+                        contentDescription = "Ukryj komunikat",
+                        modifier = Modifier.size(18.dp),
+                    )
                 }
             }
             Spacer(Modifier.height(4.dp))

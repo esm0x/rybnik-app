@@ -86,7 +86,7 @@ abstract class CachedRemoteSource<T>(
 
     suspend fun refresh(): Result<T> = withContext(Dispatchers.IO) {
         if (!RemoteConfig.isConfigured) {
-            val msg = "Ustaw GH_USER w RemoteConfig.kt — apka nie wie, skąd pobrać dane."
+            val msg = "Ustaw GH_USER w RemoteConfig.kt. Apka nie wie, skąd pobrać dane."
             _state.value = _state.value.copy(loading = false, error = msg)
             return@withContext Result.failure(IllegalStateException(msg))
         }

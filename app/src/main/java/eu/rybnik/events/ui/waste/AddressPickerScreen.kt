@@ -122,7 +122,7 @@ class AddressPickerViewModel : ViewModel() {
         val district = s.district ?: return
         val street = s.street ?: return
         if (s.number.isBlank()) {
-            _ui.update { it.copy(error = "Podaj numer domu — od niego zależy rejon.") }
+            _ui.update { it.copy(error = "Podaj numer domu, od niego zależy rejon.") }
             return
         }
         val rejon = Graph.wasteRepo.schedule()
@@ -187,7 +187,7 @@ fun AddressPickerScreen(onDone: () -> Unit, onBack: () -> Unit) {
                 Step.HOUSE_TYPE -> {
                     SectionHeader("Typ zabudowy w ${ui.district}")
                     Text(
-                        "Domy jednorodzinne i bloki mają w Rybniku osobne harmonogramy — " +
+                        "Domy jednorodzinne i bloki mają w Rybniku osobne harmonogramy, " +
                             "ten sam adres może występować w obu.",
                         style = MaterialTheme.typography.bodySmall,
                         color = MaterialTheme.colorScheme.onSurfaceVariant,

@@ -21,6 +21,7 @@ import androidx.compose.material.icons.outlined.Coffee
 import androidx.compose.material.icons.outlined.Delete
 import androidx.compose.material.icons.outlined.Newspaper
 import androidx.compose.material.icons.outlined.Settings
+import androidx.compose.material.icons.outlined.SportsSoccer
 import androidx.compose.material.icons.outlined.Star
 import androidx.compose.material3.Card
 import androidx.compose.material3.ExperimentalMaterial3Api
@@ -66,6 +67,7 @@ import kotlinx.coroutines.launch
 fun MoreScreen(
     onOpenNews: () -> Unit,
     onOpenAir: () -> Unit,
+    onOpenSport: () -> Unit,
     onOpenFavourites: () -> Unit,
     onOpenSettings: () -> Unit,
     onOpenSupport: () -> Unit,
@@ -74,6 +76,7 @@ fun MoreScreen(
         Column(Modifier.padding(padding).fillMaxSize()) {
             MoreRow(Icons.Outlined.Newspaper, "Wiadomości", "Lokalne newsy i komunikaty", onOpenNews)
             MoreRow(Icons.Outlined.Air, "Jakość powietrza", "Dane GIOŚ, stacja Rybnik-Borki", onOpenAir)
+            MoreRow(Icons.Outlined.SportsSoccer, "Sport", "ROW 1964, żużel, piłka kobiet", onOpenSport)
             MoreRow(Icons.Outlined.Star, "Ulubione wydarzenia", "Zapisane wydarzenia", onOpenFavourites)
             MoreRow(Icons.Outlined.Settings, "Ustawienia", "Adres, powiadomienia", onOpenSettings)
             MoreRow(Icons.Outlined.Coffee, "Wesprzyj projekt", "Postaw kawę albo zgłoś błąd", onOpenSupport)

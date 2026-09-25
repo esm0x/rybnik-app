@@ -123,7 +123,7 @@ class DailyReminderWorker(
         Reminders.notify(
             applicationContext, Reminders.CHANNEL_WASTE, NOTIF_WASTE,
             "Jutro wywóz odpadów",
-            next.types.joinToString(", ") { it.label } + " — ${address.pretty}",
+            next.types.joinToString(", ") { it.label } + " · ${address.pretty}",
         )
     }
 
@@ -137,7 +137,7 @@ class DailyReminderWorker(
         if (due.isEmpty()) return
 
         val text = due.joinToString("\n") {
-            "${it.start.toLocalTime()} — ${it.title}"
+            "${it.start.toLocalTime()} · ${it.title}"
         }
         Reminders.notify(
             applicationContext, Reminders.CHANNEL_EVENTS, NOTIF_EVENTS,
@@ -161,7 +161,9 @@ class DailyReminderWorker(
 
     private suspend fun checkAlerts() {
         Graph.newsRepo.refresh()
-        val newest = Graph.newsRepo.items().firstOrNull { it.isAlert } ?: return
+        // A dismissed alert should not come back as a notification.
+        val hidden = Graph.prefs.settings.first().hiddenNewsIds
+        val newest = Graph.newsRepo.items(hidden).firstOrNull { it.isAlert } ?: return
         if (newest.published.toLocalDate() != LocalDate.now()) return
 
         Reminders.notify(
@@ -183,7 +185,7 @@ class DailyReminderWorker(
             applicationContext, Reminders.CHANNEL_OUTAGES, NOTIF_OUTAGES,
             if (next.kind == OutageKind.PLANNED) "Planowane wyłączenie prądu"
             else "Awaria zasilania",
-            "${next.from.toLocalDate()} ${next.from.toLocalTime()} — ${address.pretty}",
+            "${next.from.toLocalDate()} ${next.from.toLocalTime()} · ${address.pretty}",
         )
     }
 

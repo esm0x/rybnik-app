@@ -54,21 +54,33 @@ class NewsRepository(context: Context) :
 
     override fun parse(body: String): NewsPayload = sharedJson.decodeFromString(body)
 
-    /** Alerts float to the top regardless of age — that is the whole point of the flag. */
-    fun items(): List<NewsItem> = (data.value?.items ?: emptyList())
-        .mapNotNull { it.toDomainOrNull() }
+    /** Alerts float to the top regardless of age, that is the whole point of the flag. */
+    fun items(hidden: Set<String> = emptySet()): List<NewsItem> = all()
+        .filter { it.id !in hidden }
         .sortedWith(compareByDescending<NewsItem> { it.isAlert }.thenByDescending { it.published })
 
-    fun categories(): List<String> = items().mapNotNull { it.category }.distinct().sorted()
+    /** The ones the user dismissed, newest first, so they can be restored. */
+    fun hiddenItems(hidden: Set<String>): List<NewsItem> = all()
+        .filter { it.id in hidden }
+        .sortedByDescending { it.published }
+
+    /** Every id in the feed, hidden included. Lets the prefs prune stale dismissals. */
+    fun allIds(): Set<String> = (data.value?.items ?: emptyList()).map { it.id }.toSet()
+
+    private fun all(): List<NewsItem> =
+        (data.value?.items ?: emptyList()).mapNotNull { it.toDomainOrNull() }
+
+    fun categories(hidden: Set<String> = emptySet()): List<String> =
+        items(hidden).mapNotNull { it.category }.distinct().sorted()
 
     /**
      * Alerts worth putting on the home screen. Age matters here: a roadworks notice from
      * June is still technically an alert and would otherwise sit on the dashboard for
      * months, so anything older than [maxAgeDays] stays in the news list only.
      */
-    fun currentAlerts(maxAgeDays: Long = 14): List<NewsItem> {
+    fun currentAlerts(hidden: Set<String> = emptySet(), maxAgeDays: Long = 14): List<NewsItem> {
         val cutoff = LocalDateTime.now().minusDays(maxAgeDays)
-        return items()
+        return items(hidden)
             .filter { it.isAlert && it.published.isAfter(cutoff) }
             .sortedByDescending { it.published }
     }

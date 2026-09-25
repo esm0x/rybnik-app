@@ -150,6 +150,52 @@ Sortowanie: malejąco po `published`.
 
 ---
 
+## sport.json
+
+```json
+{
+  "generated_at": "...", "count": 58, "failures": [],
+  "teams": [
+    {
+      "id": "row-1964",
+      "name": "ROW 1964 Rybnik",
+      "sport": "FOOTBALL",
+      "league": "III liga, gr. III",
+      "url": "http://www.90minut.pl/skarb.php?id_klub=18912"
+    }
+  ],
+  "matches": [
+    {
+      "id": "row-1964-2026-09-26-stal-brzeg",
+      "teamId": "row-1964",
+      "competition": "III liga, Kolejka 10",
+      "date": "2026-09-26",
+      "time": "18:00",
+      "home": "ROW 1964 Rybnik",
+      "away": "Stal Brzeg",
+      "isHome": true,
+      "homeScore": null,
+      "awayScore": null,
+      "scoreNote": null,
+      "status": "SCHEDULED"
+    }
+  ]
+}
+```
+
+- `sport`: `FOOTBALL` | `FOOTBALL_W` | `SPEEDWAY`.
+- `status`: `SCHEDULED` | `FINISHED`. `FINISHED` zawsze ma oba wyniki, `SCHEDULED` oba `null`.
+- `date` — `YYYY-MM-DD`. `time` — `HH:MM` albo **`null`**: wiosenne kolejki mają
+  wyznaczoną datę, ale jeszcze nie godzinę, i nie wolno tego udawać jako 00:00.
+- `isHome` — czy rybnicka drużyna jest gospodarzem. Liczone przy scrapowaniu, bo
+  nazwy w źródłach są niestabilne (`INNPRO ROW Rybnik`, `ROW 1964 Rybnik`, `ROW Rybnik (k)`).
+- `scoreNote` — wszystko poza gołym wynikiem: `"wo"` (walkower), `"k. 6-7"` (karne).
+  Zwykły mecz ma tu `null`.
+- `teamId` wskazuje na `teams[].id`. Mecz bez pasującej drużyny apka pomija.
+- Sortowanie: rosnąco po `date`, potem `time` (brak godziny idzie na koniec dnia).
+
+---
+
 ## transit_meta.json
 
 Rozkład jest za duży na JSON — apka pobiera `gtfs.zip` bezpośrednio.

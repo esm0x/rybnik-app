@@ -3,7 +3,7 @@
 Natywna aplikacja Android dla mieszkańców Rybnika: wydarzenia, harmonogram odpadów,
 rozkład jazdy, lokalne wiadomości i jakość powietrza.
 
-## Stan obecny (v0.4)
+## Stan obecny (v0.5)
 
 Wszystkie moduły działają na realnych danych.
 
@@ -16,10 +16,16 @@ Wszystkie moduły działają na realnych danych.
 | **Wiadomości** | Radio 90, rybnik.com.pl, rybnik.eu, nowiny.pl, tuRybnik | 120 pozycji, alerty na górze |
 | **Powietrze** | GIOŚ, stacja Rybnik-Borki (834) | PM10, PM2,5 + indeks jakości |
 | **Wyłączenia prądu** | Tauron (publiczne API `waapi`) | dopasowane do numeru domu |
+| **Sport** | 90minut.pl + row.rybnik.com.pl | 3 kluby, 58 meczów w sezonie |
 
 Powiadomienia: wywóz odpadów (wieczór przed), ulubione wydarzenie (dzień przed),
 alert smogowy (próg do ustawienia), komunikaty miejskie oraz wyłączenia prądu
 pod zapisanym adresem.
+
+Wiadomości i komunikaty można ukryć pojedynczo — alertów nie kasuje ani wiek, ani
+limit 120 pozycji, więc bez tego remont ulicy potrafił wisieć na górze tygodniami.
+Ukryte siedzą w DataStore, da się je przejrzeć i przywrócić, i nie wracają jako
+powiadomienie.
 
 Motyw: jasny / ciemny / jak system, przełączany w Ustawieniach.
 Ekran „Wesprzyj projekt" w zakładce Więcej: buycoffee, link do repo i zgłaszanie błędów.
@@ -49,8 +55,9 @@ app/src/main/java/eu/rybnik/events/
     transit/                   Room, import GTFS, wyszukiwanie odjazdów
     news/, air/
     outages/                   Tauron + parser adresów z testami
+    sport/                     mecze 3 klubów + wybór kafla z testami
   ui/
-    home/  events/  waste/  transit/  news/  more/  common/  theme/
+    home/  events/  waste/  transit/  news/  sport/  more/  common/  theme/
     more/SupportScreen.kt      wsparcie projektu + wersja aplikacji
   work/Reminders.kt            WorkManager + kanały powiadomień
 
@@ -59,6 +66,7 @@ scraper/
   scraper.py                   wydarzenia (wiele źródeł)
   waste.py                     parser PDF-ów z harmonogramami
   news.py                      RSS + scraping rybnik.eu
+  sport.py                     90minut (piłka) + oficjalna strona żużla
   transit.py                   rozwiązuje adres aktualnego GTFS
   data/*.json                  generowane, commitowane przez CI
   data/manual_events.json      JEDYNY plik edytowany ręcznie (kluby z FB)
@@ -121,6 +129,13 @@ Kotlin deserializuje je 1:1.
   przystankach, więc bez odfiltrowania pojawiały się w tablicy odjazdów. Import ją
   pomija. **Uwaga: linia `A` to co innego** — prawdziwa linia z 54 kursami przez
   Zamysłów i Smolną, która po prostu nie ma nazwy długiej. Nie wyrzucać.
+- **90minut.pl**: jedzie po **HTTP** — port 443 odrzuca połączenie, więc wymuszenie
+  HTTPS kończy się `ECONNREFUSED` — i serwuje **ISO-8859-2**. `id_sezon` rośnie o 2 co
+  sezon (2021/22 = 99 … 2026/27 = 109), a strona klubu **nie linkuje trwającego sezonu**,
+  więc nie da się go wyskrobać stamtąd: numer jest liczony i weryfikowany datami meczów,
+  z sąsiednimi id jako zapasem. Wynik bywa `0-3 (wo)` albo `0-0k. 6-7` — gołe `\d+-\d+`
+  to za mało. Wiosenne kolejki mają datę bez godziny, więc `time` jest nullowalne,
+  a nie udawane jako 00:00.
 - **rybnik.com.pl**: potrafi zwrócić 403 w GitHub Actions, serwując ten sam adres
   bez problemu z łącza domowego. Blokada jest na zakresie IP centrów danych, nie na
   User-Agencie (sprawdzone: bot UA dostaje 200 z adresu domowego). Scraper ponawia
@@ -149,6 +164,14 @@ Kotlin deserializuje je 1:1.
   Publikują tylko na Facebooku, a API wydarzeń stron Meta nie istnieje od 2018 —
   scrapowanie łamałoby regulamin i i tak psułoby się co chwilę. Dlatego wchodzą
   przez `scraper/data/manual_events.json`.
+- **Żużel bez play-offów.** Oficjalny terminarz klubu jest zatytułowany „rundy
+  zasadniczej" i kończy się na 14. rundzie; slider wyników na stronie głównej stoi na
+  tej samej dacie. Półfinał z PSŻ Poznań (23.08 i 06.09.2026) istnieje na stronie
+  wyłącznie jako podpis pod galerią zdjęć, bez wyniku. Sprawdzone alternatywy:
+  sportowefakty.wp.pl nie ma wierszy play-off w markupie, a strona klubu na
+  zuzelend.com to feed newsów z datami względnymi („3 lata temu"), nie terminarz.
+  Dlatego apka po zakończeniu rundy zasadniczej mówi „ostatni mecz sezonu" zamiast
+  podawać sześciotygodniowy wynik jako świeży.
 - **Going API ignoruje parametr `place`** — `events?place=999999` zwraca te same
   24 pozycje co dla realnych klubów, w dodatku warszawskie. Nie nadaje się do
   filtrowania po miejscu i celowo nie jest podpięte.
@@ -164,14 +187,15 @@ Kotlin deserializuje je 1:1.
 2. ✅ v0.2 — realne wydarzenia z TZR
 3. ✅ v0.3 — wszystkie moduły na realnych danych + powiadomienia + smog
 4. ✅ v0.4 — wyłączenia prądu wg adresu, ciemny motyw, Radio 90, ekran wsparcia
-5. ⏭️ Mapa przystanków i tras (OSM, bo GTFS nie ma geometrii)
-6. ❌ Odjazdy na żywo — odrzucone: KM Rybnik nie ma danych GPS (patrz ograniczenia)
-7. ✅ Ciemny motyw + przełącznik jasny / ciemny / jak system
-8. ⏭️ Widget na pulpit: najbliższy wywóz + smog
-9. ⏭️ Wyszukiwarka połączeń skąd–dokąd na danych GTFS
-10. ⏭️ PSZOK / GPZON + „gdzie wyrzucić X"
-11. ⏭️ Zgłaszanie usterek do miasta (wymaga backendu)
-12. ❌ Apteki dyżurne — odrzucone: Rybnik nie publikuje grafiku dyżurów,
+5. ✅ v0.5 — sport (ROW 1964, żużel, piłka kobiet) + ukrywanie komunikatów
+6. ⏭️ Mapa przystanków i tras (OSM, bo GTFS nie ma geometrii)
+7. ❌ Odjazdy na żywo — odrzucone: KM Rybnik nie ma danych GPS (patrz ograniczenia)
+8. ✅ Ciemny motyw + przełącznik jasny / ciemny / jak system
+9. ⏭️ Widget na pulpit: najbliższy wywóz + smog
+10. ⏭️ Wyszukiwarka połączeń skąd–dokąd na danych GTFS
+11. ⏭️ PSZOK / GPZON + „gdzie wyrzucić X"
+12. ⏭️ Zgłaszanie usterek do miasta (wymaga backendu)
+13. ❌ Apteki dyżurne — odrzucone: Rybnik nie publikuje grafiku dyżurów,
     a w mieście nie ma apteki całodobowej
 
 ## Notatki projektowe

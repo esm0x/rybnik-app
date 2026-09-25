@@ -40,6 +40,10 @@ jobs:
         run: python scraper/news.py
         continue-on-error: true
 
+      - name: Sport
+        run: python scraper/sport.py
+        continue-on-error: true
+
       - name: Transit metadata
         run: python scraper/transit.py
         continue-on-error: true

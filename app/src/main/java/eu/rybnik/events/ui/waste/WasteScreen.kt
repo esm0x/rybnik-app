@@ -138,7 +138,7 @@ fun WasteScreen(onPickAddress: () -> Unit) {
                 EmptyState(
                     icon = Icons.Outlined.Delete,
                     title = "Nie znamy jeszcze Twojego adresu",
-                    subtitle = "Harmonogram zależy od ulicy i numeru domu — w Rybniku sąsiednie " +
+                    subtitle = "Harmonogram zależy od ulicy i numeru domu. W Rybniku sąsiednie " +
                         "numery potrafią trafić do innych rejonów.",
                     action = { Button(onClick = onPickAddress) { Text("Wybierz adres") } },
                 )

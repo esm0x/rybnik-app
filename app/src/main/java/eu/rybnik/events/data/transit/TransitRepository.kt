@@ -74,7 +74,7 @@ class TransitRepository(
 
         val url = data.value?.gtfs_url ?: refresh().getOrNull()?.gtfs_url
         if (url == null) {
-            val msg = "Nie znam adresu rozkładu — sprawdź transit_meta.json w repo."
+            val msg = "Nie znam adresu rozkładu. Sprawdź transit_meta.json w repo."
             _status.value = TransitStatus(importing = false, error = msg)
             return Result.failure(IllegalStateException(msg))
         }

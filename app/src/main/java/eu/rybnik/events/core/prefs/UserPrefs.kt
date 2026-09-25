@@ -37,6 +37,8 @@ data class Settings(
     val wasteAddress: WasteAddress? = null,
     val favouriteEventIds: Set<String> = emptySet(),
     val favouriteStopIds: Set<String> = emptySet(),
+    /** News the user dismissed by hand. Kept out of the list, the dashboard and alerts. */
+    val hiddenNewsIds: Set<String> = emptySet(),
     val notifyWaste: Boolean = true,
     val notifyEvents: Boolean = true,
     val notifySmog: Boolean = true,
@@ -61,6 +63,7 @@ class UserPrefs(private val context: Context) {
             wasteAddress = readAddress(p),
             favouriteEventIds = p[KEY_FAV_EVENTS] ?: emptySet(),
             favouriteStopIds = p[KEY_FAV_STOPS] ?: emptySet(),
+            hiddenNewsIds = p[KEY_HIDDEN_NEWS] ?: emptySet(),
             notifyWaste = p[KEY_NOTIFY_WASTE] ?: true,
             notifyEvents = p[KEY_NOTIFY_EVENTS] ?: true,
             notifySmog = p[KEY_NOTIFY_SMOG] ?: true,
@@ -107,6 +110,35 @@ class UserPrefs(private val context: Context) {
         }
     }
 
+    /**
+     * The scraper never drops an ALERT by age or by the 120-item cap, so a roadworks
+     * notice can sit at the top of the list for months. Hiding is the user's own escape
+     * hatch: local, per device, and reversible.
+     */
+    suspend fun hideNews(id: String) = context.dataStore.edit { p ->
+        p[KEY_HIDDEN_NEWS] = (p[KEY_HIDDEN_NEWS] ?: emptySet()) + id
+    }
+
+    suspend fun unhideNews(id: String) = context.dataStore.edit { p ->
+        p[KEY_HIDDEN_NEWS] = (p[KEY_HIDDEN_NEWS] ?: emptySet()) - id
+    }
+
+    suspend fun clearHiddenNews() = context.dataStore.edit { p -> p.remove(KEY_HIDDEN_NEWS) }
+
+    /**
+     * Forget ids that fell out of the feed, so the set does not grow without bound.
+     * An empty [alive] means the fetch failed, not that the feed is empty — pruning
+     * against it would silently unhide everything.
+     */
+    suspend fun pruneHiddenNews(alive: Set<String>) {
+        if (alive.isEmpty()) return
+        context.dataStore.edit { p ->
+            val current = p[KEY_HIDDEN_NEWS] ?: return@edit
+            val kept = current intersect alive
+            if (kept.size != current.size) p[KEY_HIDDEN_NEWS] = kept
+        }
+    }
+
     suspend fun setNotify(which: NotifyChannel, enabled: Boolean) = context.dataStore.edit { p ->
         p[which.key] = enabled
     }
@@ -139,6 +171,7 @@ private val KEY_ADDR_TYPE = stringPreferencesKey("addr_type")
 private val KEY_ADDR_REJON = stringPreferencesKey("addr_rejon")
 private val KEY_FAV_EVENTS = stringSetPreferencesKey("fav_events")
 private val KEY_FAV_STOPS = stringSetPreferencesKey("fav_stops")
+private val KEY_HIDDEN_NEWS = stringSetPreferencesKey("hidden_news")
 private val KEY_NOTIFY_WASTE = booleanPreferencesKey("notify_waste")
 private val KEY_NOTIFY_EVENTS = booleanPreferencesKey("notify_events")
 private val KEY_NOTIFY_SMOG = booleanPreferencesKey("notify_smog")
