@@ -2,6 +2,7 @@ package eu.rybnik.events.data.transit
 
 import android.content.Context
 import eu.rybnik.events.core.net.CachedRemoteSource
+import eu.rybnik.events.core.net.friendlyNetworkError
 import eu.rybnik.events.core.net.RemoteConfig
 import eu.rybnik.events.core.net.sharedJson
 import kotlinx.coroutines.Dispatchers
@@ -86,7 +87,7 @@ class TransitRepository(
         }.onFailure { e ->
             _status.value = TransitStatus(
                 importing = false,
-                error = e.message ?: "Nie udało się wczytać rozkładu",
+                error = friendlyNetworkError(e, "Nie udało się wczytać rozkładu"),
             )
         }
     }

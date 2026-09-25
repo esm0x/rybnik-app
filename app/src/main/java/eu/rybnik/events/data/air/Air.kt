@@ -2,6 +2,7 @@ package eu.rybnik.events.data.air
 
 import android.util.Log
 import eu.rybnik.events.core.net.sharedHttp
+import eu.rybnik.events.core.net.friendlyNetworkError
 import eu.rybnik.events.core.net.sharedJson
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.async
@@ -52,7 +53,10 @@ class AirQualityRepository {
             ).also { _state.value = it }
         }.onFailure { e ->
             Log.w(TAG, "air refresh failed", e)
-            _state.value = _state.value.copy(loading = false, error = e.message ?: "Błąd pobierania")
+            _state.value = _state.value.copy(
+                loading = false,
+                error = friendlyNetworkError(e, "Błąd pobierania"),
+            )
         }
     }
 

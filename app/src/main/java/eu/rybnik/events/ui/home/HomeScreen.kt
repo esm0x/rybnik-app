@@ -302,19 +302,28 @@ private fun SportCard(highlight: Highlight, onClick: () -> Unit) {
     HomeCard(Icons.Outlined.SportsSoccer, highlight.team.kind.label, onClick) {
         Row(verticalAlignment = Alignment.CenterVertically) {
             Column(Modifier.weight(1f)) {
+                // Club names cannot be declined, so "ROW Rybnik u Płomień" would be broken
+                // Polish. Naming the opponent and tagging home or away sidesteps grammar
+                // and matches how the Sport screen lists the same match.
                 Text(
-                    "${highlight.team.name} ${if (match.isHome) "vs" else "u"} ${match.opponent}",
+                    match.opponent,
                     style = MaterialTheme.typography.titleSmall,
                 )
                 Spacer(Modifier.height(2.dp))
                 Text(
                     when {
-                        stale -> "Ostatni mecz sezonu, ${match.date.format(SHORT_DAY_FMT)}"
+                        stale -> listOfNotNull(
+                            if (match.isHome) "u siebie" else "wyjazd",
+                            "ostatni mecz sezonu",
+                            match.date.format(SHORT_DAY_FMT),
+                        ).joinToString(" · ")
                         highlight.isResult -> listOfNotNull(
+                            if (match.isHome) "u siebie" else "wyjazd",
                             match.date.humanLabel(),
                             match.competition,
                         ).joinToString(" · ")
                         else -> listOfNotNull(
+                            if (match.isHome) "u siebie" else "wyjazd",
                             match.date.humanLabel(),
                             match.time?.format(TIME_FMT),
                             match.competition,

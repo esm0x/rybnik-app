@@ -11,6 +11,10 @@ import kotlinx.serialization.json.Json
 import okhttp3.OkHttpClient
 import okhttp3.Request
 import java.io.File
+import java.net.ConnectException
+import java.net.SocketTimeoutException
+import java.net.UnknownHostException
+import javax.net.ssl.SSLException
 import java.util.concurrent.TimeUnit
 
 /**
@@ -46,6 +50,23 @@ val sharedJson: Json by lazy {
         isLenient = true
         explicitNulls = false
     }
+}
+
+/**
+ * Exception messages are written for developers: a failed handshake surfaces as
+ * "java.security.cert.CertPathValidatorException: Trust anchor for certification path not
+ * found", which tells a user nothing and looks broken on a release build. This maps the
+ * handful of failures that actually happen in the field onto something actionable, and
+ * leaves anything unexpected to the caller's own fallback.
+ */
+fun friendlyNetworkError(e: Throwable, fallback: String): String = when {
+    e is UnknownHostException || e is ConnectException ->
+        "Brak połączenia z internetem"
+    e is SocketTimeoutException ->
+        "Serwer nie odpowiada, spróbuj ponownie"
+    e is SSLException || e.cause is SSLException ->
+        "Serwer źródła ma problem z certyfikatem, spróbuj ponownie później"
+    else -> e.message ?: fallback
 }
 
 /** What the UI needs to know about a background load, beyond the data itself. */
@@ -104,7 +125,10 @@ abstract class CachedRemoteSource<T>(
             parsed
         }.onFailure { e ->
             Log.w(TAG, "refresh($url) failed", e)
-            _state.value = _state.value.copy(loading = false, error = e.message ?: "Błąd pobierania")
+            _state.value = _state.value.copy(
+                loading = false,
+                error = friendlyNetworkError(e, "Błąd pobierania"),
+            )
         }
     }
 

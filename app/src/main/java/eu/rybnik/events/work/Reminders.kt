@@ -16,7 +16,6 @@ import androidx.work.WorkManager
 import androidx.work.WorkerParameters
 import eu.rybnik.events.Graph
 import eu.rybnik.events.R
-import eu.rybnik.events.data.air.AirSeverity
 import eu.rybnik.events.data.outages.OutageKind
 import kotlinx.coroutines.flow.first
 import java.time.Duration
@@ -152,10 +151,14 @@ class DailyReminderWorker(
         val pm10 = state.pm10 ?: return
         if (pm10.value < threshold) return
 
+        // The user's own threshold can sit below the official information level, so the
+        // index may still read "Dobre" when this fires. Announcing "Smog w Rybniku: Dobre"
+        // contradicts itself, so the headline states the measurement and the body explains
+        // why it arrived.
         Reminders.notify(
             applicationContext, Reminders.CHANNEL_SMOG, NOTIF_SMOG,
-            "Smog w Rybniku: ${state.severity.label}",
-            "PM10 ${pm10.value.toInt()} µg/m³ (${AirSeverity.entries.first { it == state.severity }.label})",
+            "PM10 ${pm10.value.toInt()} µg/m³ w Rybniku",
+            "Powyżej Twojego progu $threshold µg/m³. Jakość powietrza: ${state.severity.label}.",
         )
     }
 

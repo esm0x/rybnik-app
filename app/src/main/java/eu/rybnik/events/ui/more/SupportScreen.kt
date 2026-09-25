@@ -1,6 +1,7 @@
 package eu.rybnik.events.ui.more
 
 import android.content.Intent
+import android.os.Build
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -18,6 +19,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.outlined.Code
 import androidx.compose.material.icons.outlined.Coffee
+import androidx.compose.material.icons.outlined.MailOutline
 import androidx.compose.material3.Button
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
@@ -40,6 +42,7 @@ import androidx.core.net.toUri
 
 private const val COFFEE_URL = "https://buycoffee.to/esm0x"
 private const val REPO_URL = "https://github.com/esm0x/rybnik-app"
+private const val CONTACT_EMAIL = "office@admin-stack.com"
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -55,6 +58,25 @@ fun SupportScreen(onBack: () -> Unit) {
 
     fun open(url: String) {
         runCatching { context.startActivity(Intent(Intent.ACTION_VIEW, url.toUri())) }
+    }
+
+    /**
+     * ACTION_SENDTO with a mailto: URI, not a hand-built query string — the subject and
+     * body travel as extras, so nothing has to be percent-encoded by hand, and only mail
+     * apps offer to handle it. The build and device go in the body because that is the
+     * first thing anyone needs when a bug report lands.
+     */
+    fun writeEmail() {
+        val intent = Intent(Intent.ACTION_SENDTO, "mailto:$CONTACT_EMAIL".toUri()).apply {
+            putExtra(Intent.EXTRA_SUBJECT, "Rybnik $appVersion: kontakt")
+            putExtra(
+                Intent.EXTRA_TEXT,
+                "\n\n---\nAplikacja $appVersion\n" +
+                    "Android ${Build.VERSION.RELEASE} (API ${Build.VERSION.SDK_INT})\n" +
+                    "${Build.MANUFACTURER} ${Build.MODEL}",
+            )
+        }
+        runCatching { context.startActivity(intent) }
     }
 
     Scaffold(
@@ -115,8 +137,21 @@ fun SupportScreen(onBack: () -> Unit) {
             Spacer(Modifier.height(8.dp))
             Text(
                 "Zgłoszenie błędu albo brakującego wydarzenia pomaga tak samo jak kawa. " +
-                    "Kod jest otwarty, można też zajrzeć i poprawić samemu.",
+                    "Napisz maila, a jeśli wolisz GitHuba, kod jest otwarty i można " +
+                    "zajrzeć oraz poprawić samemu.",
                 style = MaterialTheme.typography.bodyMedium,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+            )
+            Spacer(Modifier.height(12.dp))
+            Button(onClick = { writeEmail() }, modifier = Modifier.fillMaxWidth()) {
+                Icon(Icons.Outlined.MailOutline, null, Modifier.size(18.dp))
+                Spacer(Modifier.width(6.dp))
+                Text("Napisz do nas")
+            }
+            Spacer(Modifier.height(4.dp))
+            Text(
+                CONTACT_EMAIL,
+                style = MaterialTheme.typography.labelSmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
             )
             Spacer(Modifier.height(12.dp))
@@ -127,7 +162,7 @@ fun SupportScreen(onBack: () -> Unit) {
                     Text("Kod na GitHubie")
                 }
                 OutlinedButton(onClick = { open("$REPO_URL/issues/new") }) {
-                    Text("Zgłoś błąd")
+                    Text("Zgłoś na GitHubie")
                 }
             }
 

@@ -2,6 +2,7 @@ package eu.rybnik.events.data.outages
 
 import android.util.Log
 import eu.rybnik.events.core.net.sharedHttp
+import eu.rybnik.events.core.net.friendlyNetworkError
 import eu.rybnik.events.core.net.sharedJson
 import eu.rybnik.events.core.prefs.WasteAddress
 import kotlinx.coroutines.Dispatchers
@@ -96,7 +97,7 @@ class OutageRepository {
             Log.w(TAG, "outage refresh failed", e)
             _state.value = _state.value.copy(
                 loading = false,
-                error = e.message ?: "Nie udało się sprawdzić wyłączeń",
+                error = friendlyNetworkError(e, "Nie udało się sprawdzić wyłączeń"),
             )
         }
     }
