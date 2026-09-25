@@ -9,6 +9,9 @@ app/debug/
 
 # Local config — machine specific, never commit
 local.properties
+keystore.properties
+*.jks
+*.keystore
 
 # Android Studio / IntelliJ
 .idea/

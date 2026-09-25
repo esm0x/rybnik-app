@@ -136,6 +136,14 @@ Kotlin deserializuje je 1:1.
   z sąsiednimi id jako zapasem. Wynik bywa `0-3 (wo)` albo `0-0k. 6-7` — gołe `\d+-\d+`
   to za mało. Wiosenne kolejki mają datę bez godziny, więc `time` jest nullowalne,
   a nie udawane jako 00:00.
+- **Certum Trusted Root CA**: `api.gios.gov.pl`, `km.rybnik.pl` i
+  `www.tauron-dystrybucja.pl` kończą łańcuch na tym roocie, którego **nie ma w starszych
+  Androidach** — sprawdzone: obraz API 33 wozi `Certum Trusted Network CA` i `Network CA 2`,
+  ale nie ten, a API 37 już tak. Efekt: na starszym telefonie rozkład jazdy nie pobierał się
+  wcale, a powietrze i wyłączenia prądu cicho pustoszały, podczas gdy ten sam build działał
+  na nowszym. Root jedzie więc z apką (`res/raw/certum_trusted_root.pem` +
+  `network_security_config.xml`), ograniczony do tych trzech domen. Wysyłanie roota w
+  łańcuchu, co robi km.rybnik.pl, nic nie daje: niezaufany root jest ignorowany.
 - **rybnik.com.pl**: potrafi zwrócić 403 w GitHub Actions, serwując ten sam adres
   bez problemu z łącza domowego. Blokada jest na zakresie IP centrów danych, nie na
   User-Agencie (sprawdzone: bot UA dostaje 200 z adresu domowego). Scraper ponawia
@@ -187,7 +195,8 @@ Kotlin deserializuje je 1:1.
 2. ✅ v0.2 — realne wydarzenia z TZR
 3. ✅ v0.3 — wszystkie moduły na realnych danych + powiadomienia + smog
 4. ✅ v0.4 — wyłączenia prądu wg adresu, ciemny motyw, Radio 90, ekran wsparcia
-5. ✅ v0.5 — sport (ROW 1964, żużel, piłka kobiet) + ukrywanie komunikatów
+5. ✅ v0.5 — sport (ROW 1964, żużel, piłka kobiet), ukrywanie komunikatów,
+   przygotowanie do Google Play (patrz `play/`)
 6. ⏭️ Mapa przystanków i tras (OSM, bo GTFS nie ma geometrii)
 7. ❌ Odjazdy na żywo — odrzucone: KM Rybnik nie ma danych GPS (patrz ograniczenia)
 8. ✅ Ciemny motyw + przełącznik jasny / ciemny / jak system
