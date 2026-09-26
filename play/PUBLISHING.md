@@ -70,8 +70,30 @@ nie ma jak go wciągnąć, nawet przez pomyłkę:
 "C:/Users/Marcin/.jdks/jbr-21.0.11/bin/keytool.exe" -genkeypair -v -keystore "C:/Users/Marcin/Documents/APKA/files/rybnik-app/rybnik-release.jks" -keyalg RSA -keysize 4096 -validity 10000 -alias rybnik
 ```
 
-Zapyta o hasło i dane właściciela. Zapisz plik `.jks` **i oba hasła** w menedżerze
-haseł oraz w drugim, niezależnym miejscu (kopia offline).
+Zapyta o hasło i dane właściciela. Zapisz plik `.jks` **i hasło** w menedżerze haseł
+oraz w drugim, niezależnym miejscu (kopia offline).
+
+> **Hasło klucza musi być identyczne z hasłem magazynu.** `keytool` tworzy dziś magazyny
+> w formacie **PKCS12**, a ten nie obsługuje osobnych haseł: jeśli przy pytaniu „Enter
+> key password (RETURN if same as keystore password)" podasz inne, zostanie **po cichu
+> zignorowane**. Klucz i tak dostanie hasło magazynu, a `keytool` nawet o tym nie
+> wspomni przy tworzeniu — powie dopiero przy imporcie:
+> `Different store and key passwords not supported for PKCS12 KeyStores`.
+>
+> Gradle żadnego fallbacku nie ma, więc wpisanie w `keystore.properties` tego drugiego,
+> zignorowanego hasła kończy build komunikatem, który niczego nie sugeruje:
+>
+> ```
+> Failed to read key rybnik from store "...": Get Key failed:
+> Given final block not properly padded.
+> ```
+>
+> To znaczy po prostu: **złe hasło klucza**. Wpisz w `keyPassword` to samo, co
+> w `storePassword`.
+>
+> Uwaga przy diagnozie: `keytool` przy odczycie klucza sam podstawia hasło magazynu,
+> więc `keytool -list` czy `-importkeystore` „przejdą" nawet z zupełnie błędnym
+> `-keypass`. Nie da się nimi potwierdzić, że hasło klucza jest poprawne.
 
 Następnie utwórz `keystore.properties` w katalogu głównym projektu (obok
 `settings.gradle.kts`):
@@ -80,7 +102,7 @@ Następnie utwórz `keystore.properties` w katalogu głównym projektu (obok
 storeFile=C:/Users/Marcin/Documents/APKA/files/rybnik-app/rybnik-release.jks
 storePassword=TWOJE_HASLO
 keyAlias=rybnik
-keyPassword=TWOJE_HASLO_KLUCZA
+keyPassword=TWOJE_HASLO
 ```
 
 Ścieżka bezwzględna, z ukośnikami w przód, i dokładnie ta sama co w `keytool` wyżej.
@@ -88,8 +110,9 @@ keyPassword=TWOJE_HASLO_KLUCZA
 tego, w którym akurat stoisz — a to jest dokładnie ten rodzaj szczegółu, który wychodzi
 dopiero przy pierwszym buildzie.
 
-Hasła muszą się zgadzać z tym, co podałeś w `keytool`. Jeśli plik powstał wcześniej z
-szablonu, podmień w nim `TWOJE_HASLO` na prawdziwe, inaczej Gradle zgłosi błędne hasło.
+Oba hasła są tu **celowo takie same** — patrz ramka wyżej o PKCS12. Muszą się zgadzać
+z tym, co podałeś w `keytool`; jeśli plik powstał z szablonu, podmień `TWOJE_HASLO` na
+prawdziwe, inaczej Gradle zgłosi błędne hasło.
 
 **Dopóki plik `.jks` nie istnieje, a `keystore.properties` już tak, każdy
 `bundleRelease` kończy się:**
