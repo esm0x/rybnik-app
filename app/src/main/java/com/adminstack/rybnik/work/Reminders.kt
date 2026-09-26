@@ -3,7 +3,9 @@ package com.adminstack.rybnik.work
 import android.Manifest
 import android.app.NotificationChannel
 import android.app.NotificationManager
+import android.app.PendingIntent
 import android.content.Context
+import android.content.Intent
 import android.content.pm.PackageManager
 import android.os.Build
 import androidx.core.app.NotificationCompat
@@ -15,6 +17,7 @@ import androidx.work.PeriodicWorkRequestBuilder
 import androidx.work.WorkManager
 import androidx.work.WorkerParameters
 import com.adminstack.rybnik.Graph
+import com.adminstack.rybnik.MainActivity
 import com.adminstack.rybnik.R
 import com.adminstack.rybnik.data.outages.OutageKind
 import kotlinx.coroutines.flow.first
@@ -50,6 +53,14 @@ object Reminders {
         }
     }
 
+    /** Which screen a tapped reminder should open. Read by MainActivity. */
+    const val EXTRA_DESTINATION = "rybnik.destination"
+    const val DEST_HOME = "home"
+    const val DEST_WASTE = "waste"
+    const val DEST_EVENTS = "events"
+    const val DEST_NEWS = "news"
+    const val DEST_AIR = "air"
+
     fun rescheduleAll(context: Context) {
         val wm = WorkManager.getInstance(context)
         wm.enqueueUniquePeriodicWork(
@@ -68,7 +79,17 @@ object Reminders {
         return Duration.between(now, next).toMinutes().coerceAtLeast(1)
     }
 
-    fun notify(context: Context, channel: String, id: Int, title: String, text: String) {
+    /**
+     * @param destination which screen the tap should open, one of the DEST_ constants.
+     */
+    fun notify(
+        context: Context,
+        channel: String,
+        id: Int,
+        title: String,
+        text: String,
+        destination: String,
+    ) {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU &&
             ContextCompat.checkSelfPermission(context, Manifest.permission.POST_NOTIFICATIONS) !=
             PackageManager.PERMISSION_GRANTED
@@ -80,9 +101,32 @@ object Reminders {
             .setContentText(text)
             .setStyle(NotificationCompat.BigTextStyle().bigText(text))
             .setAutoCancel(true)
+            .setContentIntent(openApp(context, id, destination))
             .build()
 
         runCatching { NotificationManagerCompat.from(context).notify(id, notification) }
+    }
+
+    /**
+     * Without this a reminder is a dead end: tapping it does nothing at all, and even
+     * setAutoCancel has no effect, because there is no click for it to follow.
+     *
+     * [id] doubles as the request code. PendingIntents are matched on requestCode, action
+     * and data, and *not* on extras — reuse one code for every reminder and Android hands
+     * back the first PendingIntent it made, so the smog notification would open whichever
+     * screen the waste one asked for.
+     */
+    private fun openApp(context: Context, id: Int, destination: String): PendingIntent {
+        val intent = Intent(context, MainActivity::class.java).apply {
+            flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP
+            putExtra(EXTRA_DESTINATION, destination)
+        }
+        return PendingIntent.getActivity(
+            context,
+            id,
+            intent,
+            PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE,
+        )
     }
 }
 
@@ -123,6 +167,7 @@ class DailyReminderWorker(
             applicationContext, Reminders.CHANNEL_WASTE, NOTIF_WASTE,
             "Jutro wywóz odpadów",
             next.types.joinToString(", ") { it.label } + " · ${address.pretty}",
+            Reminders.DEST_WASTE,
         )
     }
 
@@ -142,6 +187,7 @@ class DailyReminderWorker(
             applicationContext, Reminders.CHANNEL_EVENTS, NOTIF_EVENTS,
             if (due.size == 1) "Jutro: ${due.first().title}" else "Jutro ${due.size} wydarzenia",
             text,
+            Reminders.DEST_EVENTS,
         )
     }
 
@@ -159,6 +205,7 @@ class DailyReminderWorker(
             applicationContext, Reminders.CHANNEL_SMOG, NOTIF_SMOG,
             "PM10 ${pm10.value.toInt()} µg/m³ w Rybniku",
             "Powyżej Twojego progu $threshold µg/m³. Jakość powietrza: ${state.severity.label}.",
+            Reminders.DEST_AIR,
         )
     }
 
@@ -172,6 +219,7 @@ class DailyReminderWorker(
         Reminders.notify(
             applicationContext, Reminders.CHANNEL_ALERTS, NOTIF_ALERTS,
             "Komunikat: ${newest.source}", newest.title,
+            Reminders.DEST_NEWS,
         )
     }
 
@@ -189,6 +237,7 @@ class DailyReminderWorker(
             if (next.kind == OutageKind.PLANNED) "Planowane wyłączenie prądu"
             else "Awaria zasilania",
             "${next.from.toLocalDate()} ${next.from.toLocalTime()} · ${address.pretty}",
+            Reminders.DEST_HOME,
         )
     }
 

@@ -129,6 +129,16 @@ Błąd, brakujące wydarzenie albo pomysł na nową funkcję: office@admin-stack
 
 ## Co nowego (release notes, max 500 znaków)
 
+Przy aktualizacji 1.1.1 podmień treść na:
+
+```
+Kliknięcie powiadomienia otwiera teraz aplikację na właściwym ekranie: komunikat
+w Wiadomościach, przypomnienie o wywozie w Odpadach, alert smogowy w Jakości
+powietrza. Wcześniej nie działo się nic.
+```
+
+Poniżej treść dla pierwszego wydania:
+
 ```
 Pierwsze wydanie w Google Play.
 

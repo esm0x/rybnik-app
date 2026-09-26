@@ -1,6 +1,7 @@
 package com.adminstack.rybnik
 
 import android.Manifest
+import android.content.Intent
 import android.content.pm.PackageManager
 import android.os.Build
 import android.os.Bundle
@@ -18,13 +19,24 @@ import androidx.lifecycle.lifecycleScope
 import com.adminstack.rybnik.core.prefs.Settings
 import com.adminstack.rybnik.core.prefs.ThemeMode
 import com.adminstack.rybnik.ui.theme.RybnikTheme
+import com.adminstack.rybnik.work.Reminders
+import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.stateIn
 
 class MainActivity : ComponentActivity() {
+
+    /**
+     * Screen requested by a tapped notification. A flow rather than a one-off read of
+     * the launch intent, because the activity is singleTop: when the app is already open
+     * the tap arrives through onNewIntent and onCreate never runs again.
+     */
+    private val notificationDestination = MutableStateFlow<String?>(null)
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
+        notificationDestination.value = intent?.getStringExtra(Reminders.EXTRA_DESTINATION)
 
         val settings = Graph.prefs.settings
             .stateIn(lifecycleScope, SharingStarted.Eagerly, Settings())
@@ -39,10 +51,21 @@ class MainActivity : ComponentActivity() {
 
             RequestNotificationPermissionOnce()
 
+            val destination by notificationDestination.collectAsState()
+
             RybnikTheme(darkTheme = dark) {
-                RybnikApp()
+                RybnikApp(
+                    notificationDestination = destination,
+                    onDestinationHandled = { notificationDestination.value = null },
+                )
             }
         }
+    }
+
+    override fun onNewIntent(intent: Intent) {
+        super.onNewIntent(intent)
+        setIntent(intent)
+        notificationDestination.value = intent.getStringExtra(Reminders.EXTRA_DESTINATION)
     }
 }
 

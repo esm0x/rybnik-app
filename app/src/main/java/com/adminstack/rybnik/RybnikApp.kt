@@ -13,6 +13,7 @@ import androidx.compose.material3.NavigationBarItem
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
@@ -35,6 +36,7 @@ import com.adminstack.rybnik.ui.sport.SportScreen
 import com.adminstack.rybnik.ui.transit.TransitScreen
 import com.adminstack.rybnik.ui.waste.AddressPickerScreen
 import com.adminstack.rybnik.ui.waste.WasteScreen
+import com.adminstack.rybnik.work.Reminders
 
 private sealed class Tab(val route: String, val label: String, val icon: ImageVector) {
     data object Home : Tab("home", "Start", Icons.Outlined.Home)
@@ -60,13 +62,30 @@ private object Routes {
 }
 
 @Composable
-fun RybnikApp() {
+fun RybnikApp(
+    notificationDestination: String? = null,
+    onDestinationHandled: () -> Unit = {},
+) {
     val navController = rememberNavController()
     val backStack by navController.currentBackStackEntryAsState()
     val currentRoute = backStack?.destination?.route
 
     // The bottom bar is for the five tabs only; detail screens own their whole viewport.
     val showBottomBar = currentRoute in tabs.map { it.route }
+
+    // A tapped reminder should land where it is about, not just anywhere in the app.
+    // Cleared once handled, otherwise returning to this screen would navigate again.
+    LaunchedEffect(notificationDestination) {
+        when (notificationDestination) {
+            null -> return@LaunchedEffect
+            Reminders.DEST_WASTE -> navController.switchTab(Tab.Waste.route)
+            Reminders.DEST_EVENTS -> navController.switchTab(Tab.Events.route)
+            Reminders.DEST_NEWS -> navController.navigate(Routes.NEWS)
+            Reminders.DEST_AIR -> navController.navigate(Routes.AIR)
+            else -> navController.switchTab(Tab.Home.route)
+        }
+        onDestinationHandled()
+    }
 
     Scaffold(
         bottomBar = {
