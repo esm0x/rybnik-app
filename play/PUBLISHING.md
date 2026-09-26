@@ -89,11 +89,25 @@ Wynik: `app/build/outputs/bundle/release/app-release.aab`.
 > Gradle 8.9 nie obsługuje, a na PATH siedzi Java 8. Z Android Studio zbudujesz przez
 > **Build → Generate Signed App Bundle** i nic nie trzeba ustawiać.
 
-Sprawdź, czy AAB jest podpisany:
+Sprawdź, czy AAB jest podpisany. **Nie używaj do tego `apksigner`** — to narzędzie
+obsługuje wyłącznie APK i na bundlu wywala się z `ApkFormatException: Missing
+AndroidManifest.xml`, bo w AAB manifest leży pod `base/manifest/AndroidManifest.xml`,
+a nie w korzeniu archiwum. Bundle podpisuje się schematem JAR, więc sprawdza go
+`jarsigner` z JDK:
 
 ```bash
-"C:/Users/Marcin/AppData/Local/Android/Sdk/build-tools/36.0.0/apksigner.bat" verify --print-certs app/build/outputs/bundle/release/app-release.aab
+"/c/Users/Marcin/.jdks/jbr-21.0.11/bin/jarsigner" -verify -verbose:summary -certs app/build/outputs/bundle/release/app-release.aab
 ```
+
+Czego się spodziewać:
+
+- podpisany: `jar verified.` plus linia `Signed by "CN=..."` z Twoim kluczem, więc od
+  razu widać, **którym** kluczem,
+- niepodpisany: `no manifest.` — to znaczy, że nie ma `keystore.properties` albo Gradle
+  go nie znalazł.
+
+Ostrzeżenia o certyfikacie self-signed i braku znacznika czasu są normalne i nie
+przeszkadzają w wysyłce: Play i tak podpisuje wydanie własnym kluczem.
 
 ## Krok 4. Utwórz aplikację w Play Console
 
