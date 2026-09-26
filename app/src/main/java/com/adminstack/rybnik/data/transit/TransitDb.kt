@@ -65,6 +65,26 @@ data class DepartureRow(
 
 data class StopSuggestion(val id: String, val name: String, val lat: Double, val lon: Double)
 
+/** A trip that can be boarded at a given platform, and where in the trip that happens. */
+data class BoardingRow(
+    val tripId: String,
+    val stopId: String,
+    val departure: Int,
+    val seq: Int,
+    val shortName: String,
+    val headsign: String,
+)
+
+data class TripStopRow(
+    val tripId: String,
+    val stopId: String,
+    val stopName: String,
+    val departure: Int,
+    val seq: Int,
+    val shortName: String,
+    val headsign: String,
+)
+
 @Dao
 interface TransitDao {
 
@@ -103,6 +123,14 @@ interface TransitDao {
     @Query("SELECT id, name, lat, lon FROM stops WHERE id IN (:ids)")
     suspend fun stopsByIds(ids: List<String>): List<StopSuggestion>
 
+    /**
+     * Every platform whose name contains the text. People ask for connections between
+     * districts, not between platforms: "Boguszowice Stare" is 23 stops and "Kamień" is 14,
+     * so matching loosely here is what makes the search answer the question actually asked.
+     */
+    @Query("SELECT id FROM stops WHERE name LIKE '%' || :q || '%'")
+    suspend fun stopIdsMatching(q: String): List<String>
+
     /** Sibling platforms of the same physical stop live under separate ids. */
     @Query("SELECT id, name, lat, lon FROM stops WHERE name = :name")
     suspend fun stopsNamed(name: String): List<StopSuggestion>
@@ -125,6 +153,58 @@ interface TransitDao {
         afterSeconds: Int,
         limit: Int = 40,
     ): List<DepartureRow>
+
+    /**
+     * Trips leaving the given platforms inside a time window. The window keeps the journey
+     * search bounded: without it every trip of the day would be a candidate.
+     */
+    @Query(
+        """
+        SELECT st.tripId AS tripId, st.stopId AS stopId, st.departure AS departure,
+               st.seq AS seq, r.shortName AS shortName, t.headsign AS headsign
+        FROM stop_times st
+        JOIN trips t ON st.tripId = t.id
+        JOIN routes r ON t.routeId = r.id
+        JOIN service_dates sd ON sd.serviceId = t.serviceId
+        WHERE st.stopId IN (:stopIds) AND sd.date = :date
+          AND st.departure >= :afterSeconds AND st.departure <= :untilSeconds
+        ORDER BY st.departure LIMIT :limit
+        """
+    )
+    suspend fun boardings(
+        stopIds: List<String>,
+        date: String,
+        afterSeconds: Int,
+        untilSeconds: Int,
+        limit: Int = 120,
+    ): List<BoardingRow>
+
+    /** Ids of trips that call at the destination on a given service day. */
+    @Query(
+        """
+        SELECT DISTINCT st.tripId FROM stop_times st
+        JOIN trips t ON st.tripId = t.id
+        JOIN service_dates sd ON sd.serviceId = t.serviceId
+        WHERE st.stopId IN (:stopIds) AND sd.date = :date
+        """
+    )
+    suspend fun tripsCalling(stopIds: List<String>, date: String): List<String>
+
+    /** Every stop of the given trips, in order, with the line they belong to. */
+    @Query(
+        """
+        SELECT st.tripId AS tripId, st.stopId AS stopId, s.name AS stopName,
+               st.departure AS departure, st.seq AS seq,
+               r.shortName AS shortName, t.headsign AS headsign
+        FROM stop_times st
+        JOIN stops s ON s.id = st.stopId
+        JOIN trips t ON st.tripId = t.id
+        JOIN routes r ON t.routeId = r.id
+        WHERE st.tripId IN (:tripIds)
+        ORDER BY st.tripId, st.seq
+        """
+    )
+    suspend fun stopTimesOfTrips(tripIds: List<String>): List<TripStopRow>
 
     @Query("SELECT id, shortName, longName FROM routes ORDER BY CAST(shortName AS INTEGER), shortName")
     suspend fun allRoutes(): List<RouteEntity>

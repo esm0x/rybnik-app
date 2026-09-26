@@ -17,6 +17,7 @@ import androidx.compose.material.icons.filled.Star
 import androidx.compose.material.icons.outlined.DirectionsBus
 import androidx.compose.material.icons.outlined.Refresh
 import androidx.compose.material.icons.outlined.StarBorder
+import androidx.compose.material.icons.outlined.SwapVert
 import androidx.compose.material3.Button
 import androidx.compose.material3.Card
 import androidx.compose.material3.ExperimentalMaterial3Api
@@ -48,6 +49,7 @@ import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.adminstack.rybnik.Graph
 import com.adminstack.rybnik.data.transit.Departure
+import com.adminstack.rybnik.data.transit.Journey
 import com.adminstack.rybnik.data.transit.RouteEntity
 import com.adminstack.rybnik.data.transit.StopSuggestion
 import com.adminstack.rybnik.ui.common.EmptyState
@@ -59,6 +61,12 @@ import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
+
+enum class TransitMode(val label: String) {
+    STOPS("Przystanki"),
+    ROUTES("Linie"),
+    JOURNEYS("Połączenia"),
+}
 
 data class TransitUi(
     val query: String = "",
@@ -73,6 +81,12 @@ data class TransitUi(
     val progress: String? = null,
     val error: String? = null,
     val ready: Boolean = false,
+    val fromQuery: String = "",
+    val toQuery: String = "",
+    val suggestions: List<String> = emptyList(),
+    val journeys: List<Journey> = emptyList(),
+    val searching: Boolean = false,
+    val searched: Boolean = false,
 )
 
 class TransitViewModel : ViewModel() {
@@ -162,6 +176,45 @@ class TransitViewModel : ViewModel() {
     fun toggleFavourite(stopName: String) {
         viewModelScope.launch { Graph.prefs.toggleFavouriteStop(stopName) }
     }
+
+    fun setFrom(q: String) {
+        _ui.update { it.copy(fromQuery = q, searched = false) }
+        suggest(q)
+    }
+
+    fun setTo(q: String) {
+        _ui.update { it.copy(toQuery = q, searched = false) }
+        suggest(q)
+    }
+
+    fun clearSuggestions() = _ui.update { it.copy(suggestions = emptyList()) }
+
+    /** Suggestions are stop names, not platforms: the same name covers both directions. */
+    private fun suggest(q: String) {
+        if (q.length < 3) {
+            clearSuggestions()
+            return
+        }
+        viewModelScope.launch {
+            val names = Graph.transitRepo.searchStops(q).map { it.name }.distinct().take(8)
+            _ui.update { it.copy(suggestions = names) }
+        }
+    }
+
+    fun swapEnds() = _ui.update {
+        it.copy(fromQuery = it.toQuery, toQuery = it.fromQuery, searched = false, journeys = emptyList())
+    }
+
+    fun findJourneys() {
+        val from = _ui.value.fromQuery.trim()
+        val to = _ui.value.toQuery.trim()
+        if (from.isBlank() || to.isBlank()) return
+        viewModelScope.launch {
+            _ui.update { it.copy(searching = true, journeys = emptyList(), suggestions = emptyList()) }
+            val found = runCatching { Graph.transitRepo.planJourneys(from, to) }.getOrDefault(emptyList())
+            _ui.update { it.copy(journeys = found, searching = false, searched = true) }
+        }
+    }
 }
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -169,7 +222,7 @@ class TransitViewModel : ViewModel() {
 fun TransitScreen() {
     val vm: TransitViewModel = viewModel()
     val ui by vm.ui.collectAsState()
-    var showRoutes by remember { mutableStateOf(false) }
+    var mode by remember { mutableStateOf(TransitMode.STOPS) }
 
     // Re-query while a stop is open so the countdown ticks down and departed buses drop
     // off without the user reaching for refresh. Keyed on the stop, so it stops by itself
@@ -246,19 +299,34 @@ fun TransitScreen() {
                     SingleChoiceSegmentedButtonRow(
                         Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 8.dp)
                     ) {
-                        SegmentedButton(
-                            selected = !showRoutes,
-                            onClick = { showRoutes = false },
-                            shape = SegmentedButtonDefaults.itemShape(0, 2),
-                        ) { Text("Przystanki") }
-                        SegmentedButton(
-                            selected = showRoutes,
-                            onClick = { showRoutes = true },
-                            shape = SegmentedButtonDefaults.itemShape(1, 2),
-                        ) { Text("Linie") }
+                        TransitMode.entries.forEachIndexed { index, entry ->
+                            SegmentedButton(
+                                selected = mode == entry,
+                                onClick = { mode = entry },
+                                shape = SegmentedButtonDefaults.itemShape(
+                                    index, TransitMode.entries.size
+                                ),
+                            ) { Text(entry.label) }
+                        }
                     }
 
-                    if (showRoutes) {
+                    if (mode == TransitMode.JOURNEYS) {
+                        JourneySearch(
+                            ui = ui,
+                            onFrom = vm::setFrom,
+                            onTo = vm::setTo,
+                            onSwap = vm::swapEnds,
+                            onSearch = vm::findJourneys,
+                            onPickSuggestion = { name ->
+                                if (ui.fromQuery.isBlank() || ui.toQuery.isNotBlank()) {
+                                    vm.setFrom(name)
+                                } else {
+                                    vm.setTo(name)
+                                }
+                                vm.clearSuggestions()
+                            },
+                        )
+                    } else if (mode == TransitMode.ROUTES) {
                         LazyColumn {
                             items(ui.routes, key = { it.id }) { route ->
                                 Card(
@@ -311,6 +379,148 @@ fun TransitScreen() {
                         }
                     }
                 }
+            }
+        }
+    }
+}
+
+/**
+ * Skąd/dokąd over the imported timetable. The fields match loosely on purpose: typing a
+ * district like "Boguszowice Stare" searches from all of its platforms at once, which is
+ * how people phrase the question, while picking a suggestion narrows it to one stop.
+ */
+@Composable
+private fun JourneySearch(
+    ui: TransitUi,
+    onFrom: (String) -> Unit,
+    onTo: (String) -> Unit,
+    onSwap: () -> Unit,
+    onSearch: () -> Unit,
+    onPickSuggestion: (String) -> Unit,
+) {
+    Column(Modifier.fillMaxSize()) {
+        Row(
+            Modifier.padding(horizontal = 16.dp),
+            verticalAlignment = Alignment.CenterVertically,
+        ) {
+            Column(Modifier.weight(1f)) {
+                OutlinedTextField(
+                    value = ui.fromQuery,
+                    onValueChange = onFrom,
+                    label = { Text("Skąd") },
+                    singleLine = true,
+                    modifier = Modifier.fillMaxWidth(),
+                )
+                Spacer(Modifier.height(8.dp))
+                OutlinedTextField(
+                    value = ui.toQuery,
+                    onValueChange = onTo,
+                    label = { Text("Dokąd") },
+                    singleLine = true,
+                    modifier = Modifier.fillMaxWidth(),
+                )
+            }
+            IconButton(onClick = onSwap, modifier = Modifier.padding(start = 4.dp)) {
+                Icon(Icons.Outlined.SwapVert, contentDescription = "Zamień miejscami")
+            }
+        }
+
+        // The button sits above the suggestions on purpose: with the list under the fields
+        // it was pushed off screen as soon as anyone started typing.
+        Spacer(Modifier.height(8.dp))
+        Button(
+            onClick = onSearch,
+            enabled = ui.fromQuery.isNotBlank() && ui.toQuery.isNotBlank() && !ui.searching,
+            modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp),
+        ) { Text(if (ui.searching) "Szukam…" else "Szukaj połączeń") }
+
+        if (ui.suggestions.isNotEmpty()) {
+            Column(Modifier.padding(horizontal = 16.dp, vertical = 4.dp)) {
+                ui.suggestions.take(4).forEach { name ->
+                    Text(
+                        name,
+                        style = MaterialTheme.typography.bodyMedium,
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .clickable { onPickSuggestion(name) }
+                            .padding(vertical = 8.dp),
+                    )
+                }
+            }
+        }
+
+        Spacer(Modifier.height(8.dp))
+
+        when {
+            ui.searching -> LinearProgressIndicator(Modifier.fillMaxWidth())
+            ui.searched && ui.journeys.isEmpty() -> EmptyState(
+                icon = Icons.Outlined.DirectionsBus,
+                title = "Brak połączeń",
+                subtitle = "W ciągu najbliższych trzech godzin nic tędy nie jedzie, także " +
+                    "z jedną przesiadką. Sprawdź pisownię przystanku albo spróbuj później.",
+            )
+            else -> LazyColumn {
+                items(ui.journeys, key = { it.departure.toString() + it.arrival }) { journey ->
+                    JourneyCard(journey)
+                }
+                item { Spacer(Modifier.height(16.dp)) }
+            }
+        }
+    }
+}
+
+@Composable
+private fun JourneyCard(journey: Journey) {
+    Card(
+        modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 4.dp),
+    ) {
+        Column(Modifier.padding(14.dp)) {
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Text(
+                    "${journey.departureTime.format(TIME_FMT)} " +
+                        "→ ${journey.arrivalTime.format(TIME_FMT)}",
+                    style = MaterialTheme.typography.titleMedium,
+                    fontWeight = FontWeight.SemiBold,
+                )
+                Spacer(Modifier.weight(1f))
+                Text(
+                    "${journey.totalMinutes} min",
+                    style = MaterialTheme.typography.labelLarge,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
+            }
+
+            journey.legs.forEach { leg ->
+                Spacer(Modifier.height(8.dp))
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    Text(
+                        leg.line,
+                        style = MaterialTheme.typography.titleSmall,
+                        fontWeight = FontWeight.Bold,
+                        color = MaterialTheme.colorScheme.primary,
+                        modifier = Modifier.width(44.dp),
+                    )
+                    Column(Modifier.weight(1f)) {
+                        Text(
+                            "${leg.departureTime.format(TIME_FMT)} ${leg.fromStop}",
+                            style = MaterialTheme.typography.bodySmall,
+                        )
+                        Text(
+                            "${leg.arrivalTime.format(TIME_FMT)} ${leg.toStop}",
+                            style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        )
+                    }
+                }
+            }
+
+            journey.transferWaitMinutes?.let { wait ->
+                Spacer(Modifier.height(6.dp))
+                Text(
+                    "Przesiadka: ${journey.transferStop}, $wait min oczekiwania",
+                    style = MaterialTheme.typography.labelSmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
             }
         }
     }

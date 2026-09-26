@@ -51,6 +51,11 @@ Pełny rozkład jazdy Komunikacji Miejskiej Rybnik: 626 przystanków, 44 linie, 
 70 tysięcy odjazdów. Odliczanie do najbliższego autobusu, ulubione przystanki i
 podgląd trasy linii. Rozkład zapisuje się na telefonie, więc działa też bez internetu.
 
+Wyszukiwarka połączeń
+Wpisz skąd i dokąd, a aplikacja pokaże konkretne kursy z godzinami, również z
+przesiadką: którą linią jechać, gdzie się przesiąść i ile poczekać. Możesz podać całą
+dzielnicę zamiast konkretnego przystanku.
+
 Odpady
 Harmonogram wywozu dla Twojego adresu. W Rybniku terminy zależą od ulicy, numeru domu
 i typu zabudowy, a nie od dzielnicy, więc aplikacja pyta o konkretny numer i pokazuje
@@ -98,7 +103,7 @@ gwarantujemy ich poprawności ani aktualności. W sprawach urzędowych zawsze sp
 Błąd, brakujące wydarzenie albo pomysł na nową funkcję: office@admin-stack.com
 ```
 
-*(2969 znaków.)*
+*(3198 znaków.)*
 
 ---
 
@@ -117,9 +122,10 @@ Błąd, brakujące wydarzenie albo pomysł na nową funkcję: office@admin-stack
 ```
 Pierwsze wydanie w Google Play.
 
-Wydarzenia, rozkład jazdy KM Rybnik, harmonogram odpadów pod konkretny adres,
-lokalne wiadomości, jakość powietrza, wyłączenia prądu Tauron i wyniki rybnickich
-drużyn. Powiadomienia o wywozie, smogu i awariach. Jasny i ciemny motyw.
+Wydarzenia, rozkład jazdy KM Rybnik z wyszukiwarką połączeń skąd-dokąd, harmonogram
+odpadów pod konkretny adres, lokalne wiadomości, jakość powietrza, wyłączenia prądu
+Tauron i wyniki rybnickich drużyn. Powiadomienia o wywozie, smogu i awariach. Jasny
+i ciemny motyw.
 ```
 
 ---

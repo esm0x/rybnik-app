@@ -132,6 +132,77 @@ class TransitRepository(
             .take(limit)
     }
 
+    /**
+     * Point-to-point search. Trips running past midnight belong to the previous service day
+     * and are stored as >24 h, so a search late in the evening has to look at yesterday's
+     * calendar too, exactly like [nextDepartures].
+     */
+    suspend fun planJourneys(
+        fromName: String,
+        toName: String,
+        now: LocalDateTime = LocalDateTime.now(),
+        limit: Int = 6,
+    ): List<Journey> = withContext(Dispatchers.IO) {
+        val originIds = dao.stopIdsMatching(fromName.trim())
+        val destinationIds = dao.stopIdsMatching(toName.trim())
+        if (originIds.isEmpty() || destinationIds.isEmpty()) return@withContext emptyList()
+        if (originIds.toSet() == destinationIds.toSet()) return@withContext emptyList()
+
+        val today = now.toLocalDate()
+        val seconds = now.toLocalTime().toSecondOfDay()
+
+        val plans = listOf(today.toString() to seconds, today.minusDays(1).toString() to seconds + DAY)
+            .flatMap { (date, from) -> planOnDay(originIds, destinationIds, date, from, limit) }
+
+        plans.sortedWith(compareBy({ it.departure }, { it.arrival })).take(limit)
+    }
+
+    private suspend fun planOnDay(
+        originIds: List<String>,
+        destinationIds: List<String>,
+        date: String,
+        fromSeconds: Int,
+        limit: Int,
+    ): List<Journey> {
+        val boardings = dao.boardings(
+            stopIds = originIds,
+            date = date,
+            afterSeconds = fromSeconds,
+            untilSeconds = fromSeconds + SEARCH_WINDOW,
+        )
+        if (boardings.isEmpty()) return emptyList()
+
+        val boardable = dao.stopTimesOfTrips(boardings.map { it.tripId }.distinct()).toPlanTrips()
+        val destinationTrips = dao.stopTimesOfTrips(dao.tripsCalling(destinationIds, date)).toPlanTrips()
+
+        return JourneyPlanner.plan(
+            boardable = boardable,
+            originIds = originIds.toSet(),
+            destinationIds = destinationIds.toSet(),
+            toDestination = destinationTrips,
+            earliest = fromSeconds,
+            limit = limit,
+        )
+    }
+
+    private fun List<TripStopRow>.toPlanTrips(): List<PlanTrip> = groupBy { it.tripId }
+        .map { (tripId, rows) ->
+            val ordered = rows.sortedBy { it.seq }
+            PlanTrip(
+                tripId = tripId,
+                line = ordered.first().shortName,
+                headsign = ordered.first().headsign,
+                stops = ordered.map {
+                    PlanStopTime(
+                        stopId = it.stopId,
+                        stopName = it.stopName,
+                        time = it.departure,
+                        seq = it.seq,
+                    )
+                },
+            )
+        }
+
     private fun DepartureRow.toDeparture(now: LocalDateTime, fromYesterday: Boolean): Departure {
         val base = if (fromYesterday) now.toLocalDate().minusDays(1) else now.toLocalDate()
         val at = base.atStartOfDay().plusSeconds(departure.toLong())
@@ -147,5 +218,8 @@ class TransitRepository(
 
     private companion object {
         const val DAY = 24 * 3600
+
+        /** How far ahead to look for a first bus. Longer just means slower and noisier. */
+        const val SEARCH_WINDOW = 3 * 3600
     }
 }

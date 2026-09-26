@@ -3,7 +3,7 @@
 Natywna aplikacja Android dla mieszkańców Rybnika: wydarzenia, harmonogram odpadów,
 rozkład jazdy, lokalne wiadomości i jakość powietrza.
 
-## Stan obecny (v0.5)
+## Stan obecny (v1.0)
 
 Wszystkie moduły działają na realnych danych.
 
@@ -11,7 +11,7 @@ Wszystkie moduły działają na realnych danych.
 |---|---|---|
 | **Start** | agregat pozostałych modułów | dashboard „co dziś ważnego" |
 | **Wydarzenia** | TZR, iRybnik, biletyna.pl, 3 domy kultury, ROW + wpisy ręczne | ~131 wydarzeń |
-| **Transport** | GTFS z KM Rybnik | 626 przystanków, 44 linie, 71 tys. odjazdów |
+| **Transport** | GTFS z KM Rybnik | 626 przystanków, 44 linie, 71 tys. odjazdów, wyszukiwarka połączeń |
 | **Śmieci** | 16 PDF-ów z rybnik.eu (EKO Sp. z o.o.) | 98 rejonów, 880 ulic, 27 dzielnic |
 | **Wiadomości** | Radio 90, rybnik.com.pl, rybnik.eu, nowiny.pl, tuRybnik | 120 pozycji, alerty na górze |
 | **Powietrze** | GIOŚ, stacja Rybnik-Borki (834) | PM10, PM2,5 + indeks jakości |
@@ -52,7 +52,7 @@ app/src/main/java/com/adminstack/rybnik/
   data/
     Event.kt, RemoteEventRepository.kt
     waste/                     model + dopasowanie adresu + reguły tygodniowe
-    transit/                   Room, import GTFS, wyszukiwanie odjazdów
+    transit/                   Room, import GTFS, odjazdy, planer połączeń skąd-dokąd
     news/, air/
     outages/                   Tauron + parser adresów z testami
     sport/                     mecze 3 klubów + wybór kafla z testami
@@ -101,6 +101,15 @@ Kotlin deserializuje je 1:1.
   Zabudowa jedno- i wielorodzinna to dwa różne modele — pierwsza ma konkretne daty,
   druga reguły typu „piątek tydzień nieparzysty". W PDF-ach puste miesiące renderują się
   jako `-`, więc tokeny trzeba wiązać z kolumnami po współrzędnej X, nie dzielić stringa.
+- **Sieć jest gwiaździsta, nie kratowa.** Między Boguszowicami Starymi a Kamieniem nie ma
+  **ani jednego** bezpośredniego kursu, a obie dzielnice spotykają się tylko na pięciu
+  przystankach, wszystkich w Śródmieściu albo na Północy Karolince. Dlatego wyszukiwarka
+  połączeń musi umieć przesiadkę: wersja licząca tylko bezpośrednie odpowiadałaby „brak
+  połączenia" dokładnie na pytania, które ludzie zadają. Druga przesiadka jest świadomie
+  pominięta, bo z samych Boguszowic Starych 104 przystanki są osiągalne bez zmiany, a
+  reszta po jednej.
+- **`arrival_time` równa się `departure_time`** we wszystkich 71 116 wierszach `stop_times`,
+  więc baza trzyma jedną kolumnę i nic przez to nie traci.
 - **GIOŚ**: wysłanie nagłówka `Accept: application/json` powoduje HTTP 406.
   Klucze JSON są polskimi zdaniami. Progi PM10: informowanie 100, alarm 150 µg/m³
   (starsze źródła podają nieaktualne 200/300). Jeden wskaźnik potrafi mieć **kilka
@@ -197,11 +206,11 @@ Kotlin deserializuje je 1:1.
 4. ✅ v0.4 — wyłączenia prądu wg adresu, ciemny motyw, Radio 90, ekran wsparcia
 5. ✅ v0.5 — sport (ROW 1964, żużel, piłka kobiet), ukrywanie komunikatów,
    przygotowanie do Google Play (patrz `play/`)
-6. ⏭️ Mapa przystanków i tras (OSM, bo GTFS nie ma geometrii)
-7. ❌ Odjazdy na żywo — odrzucone: KM Rybnik nie ma danych GPS (patrz ograniczenia)
-8. ✅ Ciemny motyw + przełącznik jasny / ciemny / jak system
-9. ⏭️ Widget na pulpit: najbliższy wywóz + smog
-10. ⏭️ Wyszukiwarka połączeń skąd–dokąd na danych GTFS
+6. ✅ v1.0 — wyszukiwarka połączeń skąd-dokąd z jedną przesiadką
+7. ⏭️ Mapa przystanków i tras (OSM, bo GTFS nie ma geometrii)
+8. ❌ Odjazdy na żywo — odrzucone: KM Rybnik nie ma danych GPS (patrz ograniczenia)
+9. ✅ Ciemny motyw + przełącznik jasny / ciemny / jak system
+10. ⏭️ Widget na pulpit: najbliższy wywóz + smog
 11. ⏭️ PSZOK / GPZON + „gdzie wyrzucić X"
 12. ⏭️ Zgłaszanie usterek do miasta (wymaga backendu)
 13. ❌ Apteki dyżurne — odrzucone: Rybnik nie publikuje grafiku dyżurów,
