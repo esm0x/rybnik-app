@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T15:32:26",
+  "generated_at": "2026-09-26T16:25:41",
   "count": 58,
   "failures": [],
   "teams": [
@@ -427,10 +427,10 @@
       "home": "Płomień Kuźnica Marianowa (Częstochowa) (k)",
       "away": "ROW Rybnik (k)",
       "isHome": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 1,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "FINISHED"
     },
     {
       "id": "row-1964-2026-09-26-stal-brzeg",

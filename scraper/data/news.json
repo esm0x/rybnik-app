@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T15:32:16",
+  "generated_at": "2026-09-26T16:25:32",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,16 @@
     }
   ],
   "items": [
+    {
+      "id": "e388843b45cd8960b2ac5cfe0172bcaed671091c",
+      "title": "„Greenwashing” czyli „ekościema”. Zmiany w prawie mają pomóc konsumentom",
+      "summary": "Od 27 września 2026 roku mają zacząć obowiązywać nowe zasady dotyczące komunikowania ekologicznych cech produktów i usług. To efekt wdrażania unijnej dyrektywy, która ma ograniczyć greenwashing. Wprowadza ona zakaz stosowania ogólnych twierdzeń środowiskowych, takich jak „ekologiczny” czy…",
+      "link": "https://www.radio90.pl/greenwashing-czyli-ekosciema-zmiany-w-prawie-maja-pomoc-konsumentom.html",
+      "published": "2026-09-26T16:16",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "f0261c68e70bd2b6ca48e701bb14330f4c269c4b",
       "title": "Przedsiębiorcy spotkają się na kolejnym śniadaniu IPH ROP w Rybniku",
@@ -594,16 +604,6 @@
       "summary": "Rybniccy radni zaczynają wrześniowe obrady. Dzisiaj o godz. 12:00 rozpoczęła się kolejna sesja Rady Miasta Rybnika. Możecie przyglądać się na żywo temu, co dzieje się w Urzędzie Miasta Rybnika. Oglądajcie u nas transmisję online!",
       "link": "http://www.rybnik.com.pl/wiadomosci,radni-obraduja-ruszyla-sesja-rady-miasta-rybnika-transmisja-online,wia5-3266-66214.html",
       "published": "2026-09-24T12:01",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "86d03686c4792c02373298754d9aad90841fc047",
-      "title": "Czas na niezależność energetyczną. O przyszłości domowej energetyki porozmawiają w Rybniku",
-      "summary": "Rosnące rachunki za prąd, wyzwania związane z taryfami dynamicznymi i potrzeba zagwarantowania bezpieczeństwa energetycznego własnego domu – to tematy, które coraz częściej zaprzątają głowy mieszkańców naszego regionu. Jak efektywnie wykorzystać prąd z fotowoltaiki i zabezpieczyć się na wypadek…",
-      "link": "http://www.rybnik.com.pl/wiadomosci,czas-na-niezaleznosc-energetyczna-o-przyszlosci-domowej-energetyki-porozmawiaja-w-rybniku,wia5-3273-66201.html",
-      "published": "2026-09-24T12:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
