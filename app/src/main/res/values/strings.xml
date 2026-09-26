@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mój Rybnik</string>
+    <string name="widget_description">Najbliższy wywóz odpadów i jakość powietrza</string>
 </resources>

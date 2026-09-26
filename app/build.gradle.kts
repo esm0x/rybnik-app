@@ -24,8 +24,8 @@ android {
         applicationId = "com.adminstack.rybnik"
         minSdk = 26
         targetSdk = 35
-        versionCode = 6
-        versionName = "1.0.0"
+        versionCode = 7
+        versionName = "1.1.0"
     }
 
     signingConfigs {
@@ -90,6 +90,10 @@ dependencies {
 
     // DataStore — user settings: address, favourites, notification toggles
     implementation("androidx.datastore:datastore-preferences:1.1.1")
+
+    // Glance — the home-screen widget. Its own composable world, not Compose UI.
+    implementation("androidx.glance:glance-appwidget:1.1.1")
+    implementation("androidx.glance:glance-material3:1.1.1")
 
     // WorkManager — waste/event/smog reminders
     implementation("androidx.work:work-runtime-ktx:2.9.1")

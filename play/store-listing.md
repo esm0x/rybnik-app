@@ -63,9 +63,18 @@ dokładnie Twój rejon, w formie listy albo kalendarza. Przypomnienie przychodzi
 wieczorem dnia poprzedniego.
 
 Wiadomości i komunikaty
-Lokalne newsy z Radia 90, rybnik.com.pl, rybnik.eu, nowin i tuRybnika. Awarie,
-utrudnienia i ostrzeżenia trafiają na górę listy i na ekran główny. Komunikat, który
-Cię nie dotyczy, możesz ukryć jednym kliknięciem.
+Lokalne newsy z Radia 90, rybnik.com.pl, rybnik.eu, nowin i tuRybnika, a do tego
+oficjalne ostrzeżenia IMGW dla Rybnika. Awarie, utrudnienia i ostrzeżenia trafiają na
+górę listy i na ekran główny. Komunikat, który Cię nie dotyczy, możesz ukryć jednym
+kliknięciem.
+
+Gdzie wyrzucić
+Wpisz przedmiot, a aplikacja powie, do którego pojemnika trafia i dlaczego: baterie,
+styropian, choinka, paragon, żarówka. Do tego adresy i godziny obu rybnickich PSZOK-ów
+oraz punktu odpadów niebezpiecznych GPZON, razem z listą tego, co przyjmują.
+
+Widget na pulpicie
+Najbliższy wywóz i aktualne PM10 bez otwierania aplikacji.
 
 Jakość powietrza
 Pomiary PM10 i PM2,5 ze stacji GIOŚ Rybnik-Borki wraz z indeksem jakości. Możesz
@@ -91,9 +100,10 @@ systemu.
 
 ŹRÓDŁA DANYCH
 
-KM Rybnik (rozkład jazdy), EKO Sp. z o.o. i Miasto Rybnik (odpady), Główny Inspektorat
-Ochrony Środowiska (powietrze), Tauron Dystrybucja (wyłączenia prądu), lokalne redakcje
-i instytucje kultury (wydarzenia i wiadomości), 90minut.pl i kluby (sport).
+KM Rybnik (rozkład jazdy), EKO Sp. z o.o. i Miasto Rybnik (odpady, PSZOK, GPZON),
+Główny Inspektorat Ochrony Środowiska (powietrze), IMGW (ostrzeżenia), Tauron
+Dystrybucja (wyłączenia prądu), lokalne redakcje i instytucje kultury (wydarzenia
+i wiadomości), 90minut.pl i kluby (sport).
 
 Aplikacja jest projektem niezależnym i nie jest oficjalnym produktem Miasta Rybnik ani
 żadnej z wymienionych instytucji. Dane prezentujemy w dobrej wierze, ale nie
@@ -103,7 +113,7 @@ gwarantujemy ich poprawności ani aktualności. W sprawach urzędowych zawsze sp
 Błąd, brakujące wydarzenie albo pomysł na nową funkcję: office@admin-stack.com
 ```
 
-*(3198 znaków.)*
+*(3626 znaków.)*
 
 ---
 
@@ -123,9 +133,10 @@ Błąd, brakujące wydarzenie albo pomysł na nową funkcję: office@admin-stack
 Pierwsze wydanie w Google Play.
 
 Wydarzenia, rozkład jazdy KM Rybnik z wyszukiwarką połączeń skąd-dokąd, harmonogram
-odpadów pod konkretny adres, lokalne wiadomości, jakość powietrza, wyłączenia prądu
-Tauron i wyniki rybnickich drużyn. Powiadomienia o wywozie, smogu i awariach. Jasny
-i ciemny motyw.
+odpadów pod konkretny adres, wyszukiwarka „gdzie wyrzucić" z PSZOK-ami, lokalne
+wiadomości i ostrzeżenia IMGW, jakość powietrza, wyłączenia prądu Tauron oraz wyniki
+rybnickich drużyn. Widget na pulpit z najbliższym wywozem i smogiem. Powiadomienia
+o wywozie, smogu i awariach. Jasny i ciemny motyw.
 ```
 
 ---

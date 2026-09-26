@@ -5,6 +5,9 @@ Sources:
   * rybnik.com.pl  — RSS 2.0, big and fresh (~300 items), no <category>
   * turybnik.pl    — RSS 2.0, has <category>, heavily advertorial → capped
   * nowiny.pl      — RSS 2.0, regional (Raciborz/Wodzislaw/Rybnik/Zory)
+  * IMGW          — public JSON API with the official weather warnings that halo!
+                     RYBNIK carries via RSO and we did not. Filtered to Rybnik by its
+                     TERYT powiat code, so a warning for the coast does not show here.
   * rybnik.eu      — NO RSS at all (every feed path 404s), so the TYPO3 news
                      lists are scraped directly. This is the official city
                      source and carries the outage/disruption notices, which
@@ -55,6 +58,13 @@ POLITE_DELAY = 0.3
 # NORMAL items older than this are dropped (turybnik.pl's feed still carries
 # year-old SEO filler). ALERTs are never age-filtered.
 MAX_AGE_DAYS = 365
+
+# IMGW publishes warnings per powiat. Rybnik is a city with powiat rights in Silesia,
+# TERYT 2473 — verified against the GUS register, not guessed from the voivodeship code.
+IMGW_TERYT = "2473"
+IMGW_METEO = "https://danepubliczne.imgw.pl/api/data/warningsmeteo"
+IMGW_HYDRO = "https://danepubliczne.imgw.pl/api/data/warningshydro"
+IMGW_VOIVODESHIP = "śląskie"
 
 # --------------------------------------------------------------------------
 # ALERT detection — ONE list, tuned by hand. Matched against a diacritic-folded
@@ -390,6 +400,103 @@ def parse_eu_section(section: EuSection, teaser_cache: dict[str, str]) -> list[N
 # merge
 # --------------------------------------------------------------------------
 
+def parse_imgw() -> list[NewsItem]:
+    """Official IMGW warnings, filtered to Rybnik.
+
+    Two endpoints with different shapes, and the difference matters:
+
+      * meteo warnings carry `teryt`, a list of powiat codes, so they can be matched to
+        Rybnik exactly. A gale warning for the coast lists dozens of codes and simply
+        will not contain 2473.
+      * hydro warnings carry `obszary` with catchment codes instead, which cannot be
+        resolved to a city without a river map. They are matched on the voivodeship and
+        labelled as regional in the title, rather than pretending to be local.
+
+    Warnings that have already expired are dropped: `obowiazuje_do` is what makes an
+    alert current, and the news module has no other way to age these out.
+    """
+    now = datetime.now()
+    items: list[NewsItem] = []
+
+    for raw in _imgw_json(IMGW_METEO):
+        teryt = raw.get("teryt") or []
+        if IMGW_TERYT not in teryt:
+            continue
+        item = _imgw_item(
+            raw=raw,
+            title=f"IMGW: {raw.get('nazwa_zdarzenia', 'ostrzeżenie')}",
+            link=IMGW_METEO,
+            now=now,
+        )
+        if item:
+            items.append(item)
+
+    for raw in _imgw_json(IMGW_HYDRO):
+        areas = raw.get("obszary") or []
+        if not any(a.get("wojewodztwo") == IMGW_VOIVODESHIP for a in areas):
+            continue
+        item = _imgw_item(
+            raw=raw,
+            title=f"IMGW (region): {raw.get('zdarzenie', 'ostrzeżenie hydrologiczne')}",
+            link=IMGW_HYDRO,
+            now=now,
+        )
+        if item:
+            items.append(item)
+
+    return items
+
+
+def _imgw_json(url: str) -> list[dict]:
+    """The API answers 200 with a dict message when there is nothing to report."""
+    payload = http_get(url).json()
+    return payload if isinstance(payload, list) else []
+
+
+def _imgw_item(raw: dict, title: str, link: str, now: datetime) -> Optional[NewsItem]:
+    until = raw.get("obowiazuje_do") or raw.get("data_do") or ""
+    if until and not until.startswith("9999"):
+        try:
+            if datetime.strptime(until[:19], "%Y-%m-%d %H:%M:%S") < now:
+                return None
+        except ValueError:
+            pass
+
+    # IMGW marks open-ended warnings, mostly droughts, with the year 9999. Printing that
+    # date verbatim reads like a bug, so an open-ended warning simply says nothing.
+    open_ended = until.startswith("9999")
+
+    published = (raw.get("opublikowano") or "")[:16].replace(" ", "T")
+    if len(published) != 16:
+        published = now.isoformat(timespec="minutes")
+
+    level = raw.get("stopien") or raw.get("stopień") or ""
+    body = strip_html(raw.get("tresc") or raw.get("przebieg") or "")
+    summary = truncate(
+        " ".join(filter(None, [
+            f"Stopień {level}." if level and level.isdigit() else "",
+            f"Obowiązuje do {until[:16]}." if until and not open_ended else "",
+            body,
+        ])).strip()
+    )
+
+    # The id has to stay stable between runs, and IMGW's own id does exactly that.
+    identifier = raw.get("id") or hashlib.sha1(
+        (title + published).encode("utf-8")
+    ).hexdigest()
+
+    return NewsItem(
+        id=f"imgw-{identifier}",
+        title=title,
+        summary=summary,
+        link=link,
+        published=published,
+        source="IMGW",
+        category="Ostrzeżenia",
+        priority=PRIORITY_ALERT,
+    )
+
+
 def dedupe(items: Iterable[NewsItem]) -> list[NewsItem]:
     """First occurrence wins; ALERTs are processed first so they survive a clash."""
     ordered = sorted(items, key=lambda i: i.published, reverse=True)
@@ -561,6 +668,13 @@ def main() -> int:
         except Exception as e:  # noqa: BLE001
             print(f"[error] rybnik.eu {section.path}: {e}", file=sys.stderr)
             failures.append({"source": f"rybnik.eu{section.path}", "error": str(e)})
+
+    try:
+        print("[info] fetching IMGW warnings", file=sys.stderr)
+        collected.extend(parse_imgw())
+    except Exception as e:  # noqa: BLE001 — a dead warning feed must not kill the run
+        print(f"[error] IMGW: {e}", file=sys.stderr)
+        failures.append({"source": "IMGW", "error": str(e)})
 
     collected += carry_over_failed(collected, failures, out_path)
 

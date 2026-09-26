@@ -3,7 +3,7 @@
 Natywna aplikacja Android dla mieszkańców Rybnika: wydarzenia, harmonogram odpadów,
 rozkład jazdy, lokalne wiadomości i jakość powietrza.
 
-## Stan obecny (v1.0)
+## Stan obecny (v1.1)
 
 Wszystkie moduły działają na realnych danych.
 
@@ -17,6 +17,8 @@ Wszystkie moduły działają na realnych danych.
 | **Powietrze** | GIOŚ, stacja Rybnik-Borki (834) | PM10, PM2,5 + indeks jakości |
 | **Wyłączenia prądu** | Tauron (publiczne API `waapi`) | dopasowane do numeru domu |
 | **Sport** | 90minut.pl + row.rybnik.com.pl | 3 kluby, 58 meczów w sezonie |
+| **Gdzie wyrzucić** | rybnik.eu + słownik ręczny | 2 PSZOK-i, GPZON, 59 haseł |
+| **Ostrzeżenia** | IMGW (publiczne API) | meteo po TERYT 2473, hydro regionalnie |
 
 Powiadomienia: wywóz odpadów (wieczór przed), ulubione wydarzenie (dzień przed),
 alert smogowy (próg do ustawienia), komunikaty miejskie oraz wyłączenia prądu
@@ -55,11 +57,13 @@ app/src/main/java/com/adminstack/rybnik/
     transit/                   Room, import GTFS, odjazdy, planer połączeń skąd-dokąd
     news/, air/
     outages/                   Tauron + parser adresów z testami
+    points/                    PSZOK, GPZON, słownik odpadów
     sport/                     mecze 3 klubów + wybór kafla z testami
   ui/
-    home/  events/  waste/  transit/  news/  sport/  more/  common/  theme/
+    home/  events/  waste/  transit/  news/  sport/  points/  more/  common/  theme/
     more/SupportScreen.kt      wsparcie projektu + wersja aplikacji
   work/Reminders.kt            WorkManager + kanały powiadomień
+  widget/WasteWidget.kt        widget: najbliższy wywóz + PM10 (Glance)
 
 scraper/
   CONTRACT.md                  wiążący kontrakt JSON <-> Kotlin
@@ -101,6 +105,20 @@ Kotlin deserializuje je 1:1.
   Zabudowa jedno- i wielorodzinna to dwa różne modele — pierwsza ma konkretne daty,
   druga reguły typu „piątek tydzień nieparzysty". W PDF-ach puste miesiące renderują się
   jako `-`, więc tokeny trzeba wiązać z kolumnami po współrzędnej X, nie dzielić stringa.
+- **IMGW: dwa endpointy, dwa różne kształty.** Ostrzeżenia meteo mają `teryt` (lista
+  kodów powiatowych), więc da się je dopasować do Rybnika dokładnie — kod **2473**,
+  sprawdzony w rejestrze GUS, nie zgadnięty z kodu województwa. Hydrologiczne mają
+  zamiast tego `obszary` z kodami zlewni, których bez mapy rzek nie da się sprowadzić do
+  miasta, więc filtrujemy je po województwie i oznaczamy w tytule jako regionalne.
+  Ostrzeżenia bezterminowe (głównie susze) mają datę końca **9999-12-31** — wypisana
+  wprost wygląda jak błąd, więc jest pomijana.
+- **PSZOK/GPZON: menu strony też siedzi w `<li>`.** Na obu stronach rybnik.eu nawigacja,
+  okruszki, tytuł i godziny otwarcia są elementami listy w tym samym kontenerze co
+  prawdziwa lista frakcji. Ani pozycja, ani długość ich nie odróżni: lista przyjmowanych
+  odpadów to elementy **po nagłówku „Rodzaje … odpadów"** i na tym kotwiczy się parser.
+  Uwaga na filtry długości — „szkło" ma dokładnie 5 znaków i próg `> 5` po cichu je zjadł.
+- **Godziny PSZOK-u zostają surowym tekstem.** Miasto pisze je prozą, z literówką
+  („piatek"), a normalizacja dokłada precyzję, której w źródle nie ma.
 - **Sieć jest gwiaździsta, nie kratowa.** Między Boguszowicami Starymi a Kamieniem nie ma
   **ani jednego** bezpośredniego kursu, a obie dzielnice spotykają się tylko na pięciu
   przystankach, wszystkich w Śródmieściu albo na Północy Karolince. Dlatego wyszukiwarka
@@ -207,13 +225,12 @@ Kotlin deserializuje je 1:1.
 5. ✅ v0.5 — sport (ROW 1964, żużel, piłka kobiet), ukrywanie komunikatów,
    przygotowanie do Google Play (patrz `play/`)
 6. ✅ v1.0 — wyszukiwarka połączeń skąd-dokąd z jedną przesiadką
-7. ⏭️ Mapa przystanków i tras (OSM, bo GTFS nie ma geometrii)
-8. ❌ Odjazdy na żywo — odrzucone: KM Rybnik nie ma danych GPS (patrz ograniczenia)
-9. ✅ Ciemny motyw + przełącznik jasny / ciemny / jak system
-10. ⏭️ Widget na pulpit: najbliższy wywóz + smog
-11. ⏭️ PSZOK / GPZON + „gdzie wyrzucić X"
-12. ⏭️ Zgłaszanie usterek do miasta (wymaga backendu)
-13. ❌ Apteki dyżurne — odrzucone: Rybnik nie publikuje grafiku dyżurów,
+7. ✅ v1.1 — widget na pulpit, PSZOK/GPZON + „gdzie wyrzucić X", ostrzeżenia IMGW
+8. ⏭️ Mapa przystanków i tras (OSM, bo GTFS nie ma geometrii)
+9. ❌ Odjazdy na żywo — odrzucone: KM Rybnik nie ma danych GPS (patrz ograniczenia)
+10. ✅ Ciemny motyw + przełącznik jasny / ciemny / jak system
+11. ⏭️ Zgłaszanie usterek do miasta (wymaga backendu)
+12. ❌ Apteki dyżurne — odrzucone: Rybnik nie publikuje grafiku dyżurów,
     a w mieście nie ma apteki całodobowej
 
 ## Notatki projektowe

@@ -68,6 +68,7 @@ fun MoreScreen(
     onOpenNews: () -> Unit,
     onOpenAir: () -> Unit,
     onOpenSport: () -> Unit,
+    onOpenPoints: () -> Unit,
     onOpenFavourites: () -> Unit,
     onOpenSettings: () -> Unit,
     onOpenSupport: () -> Unit,
@@ -77,6 +78,12 @@ fun MoreScreen(
             MoreRow(Icons.Outlined.Newspaper, "Wiadomości", "Lokalne newsy i komunikaty", onOpenNews)
             MoreRow(Icons.Outlined.Air, "Jakość powietrza", "Dane GIOŚ, stacja Rybnik-Borki", onOpenAir)
             MoreRow(Icons.Outlined.SportsSoccer, "Sport", "ROW 1964, żużel, piłka kobiet", onOpenSport)
+            MoreRow(
+                Icons.Outlined.Delete,
+                "Gdzie wyrzucić",
+                "Słownik odpadów, PSZOK i GPZON",
+                onOpenPoints,
+            )
             MoreRow(Icons.Outlined.Star, "Ulubione wydarzenia", "Zapisane wydarzenia", onOpenFavourites)
             MoreRow(Icons.Outlined.Settings, "Ustawienia", "Adres, powiadomienia", onOpenSettings)
             MoreRow(Icons.Outlined.Coffee, "Wesprzyj projekt", "Postaw kawę albo zgłoś błąd", onOpenSupport)

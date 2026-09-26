@@ -1,0 +1,676 @@
+{
+  "generated_at": "2026-09-26T17:13:12",
+  "count": 3,
+  "failures": [],
+  "points": [
+    {
+      "id": "pszok-kolberga",
+      "name": "PSZOK Boguszowice Stare",
+      "kind": "PSZOK",
+      "address": "ul. Oskara Kolberga 67",
+      "district": "Boguszowice Stare",
+      "phone": "(32) 42 55 777",
+      "email": "info@skladowisko.rybnik.pl",
+      "hours": "poniedziałek - piatek: 7.00-19.00, sobota: 8.00-15.00",
+      "accepted": [
+        "papier i tektura",
+        "metale",
+        "tworzywa sztuczne",
+        "szkło",
+        "odpady opakowaniowe wielomateriałowe",
+        "odpady ulegające biodegradacji",
+        "odpady kuchenne ulegające biodegradacji",
+        "zużyte opony ( z wyjątkiem opon z pojazdów ciężarowych, sprzętu budowlanego i urządzeń przemysłowych)",
+        "meble i inne odpady wielkogabarytowe",
+        "odzież",
+        "tekstylia",
+        "odpady budowlane i rozbiórkowe"
+      ],
+      "note": "Odpady muszą być posegregowane, inaczej obsługa odmówi przyjęcia.",
+      "url": "https://www.rybnik.eu/dla-mieszkancow/odpady-komunalne/punkty-zbiorki-odpadow-pszok"
+    },
+    {
+      "id": "pszok-sportowa",
+      "name": "PSZOK Niewiadom",
+      "kind": "PSZOK",
+      "address": "ul. Sportowa",
+      "district": "Niewiadom",
+      "phone": "797 848 337",
+      "email": "info@skladowisko.rybnik.pl",
+      "hours": "poniedziałek - piatek: 7.00-19.00 sobota: 8.00-15.00",
+      "accepted": [
+        "papier i tektura",
+        "metale",
+        "tworzywa sztuczne",
+        "szkło",
+        "odpady opakowaniowe wielomateriałowe",
+        "odpady ulegające biodegradacji",
+        "odpady kuchenne ulegające biodegradacji",
+        "zużyte opony ( z wyjątkiem opon z pojazdów ciężarowych, sprzętu budowlanego i urządzeń przemysłowych)",
+        "meble i inne odpady wielkogabarytowe",
+        "odzież",
+        "tekstylia",
+        "odpady budowlane i rozbiórkowe"
+      ],
+      "note": "Odpady muszą być posegregowane, inaczej obsługa odmówi przyjęcia.",
+      "url": "https://www.rybnik.eu/dla-mieszkancow/odpady-komunalne/punkty-zbiorki-odpadow-pszok"
+    },
+    {
+      "id": "gpzon",
+      "name": "GPZON, odpady niebezpieczne",
+      "kind": "GPZON",
+      "address": "ul. Jankowicka 41B",
+      "district": "Śródmieście",
+      "phone": "32 4329540",
+      "email": null,
+      "hours": "poniedziałek - piątek: 8.00-16.00",
+      "accepted": [
+        "rozpuszczalniki (np. rozcieńczalniki, benzyna lakowa, benzyna ekstrakcyjna)",
+        "środki ochrony roślin I i II klasy (np. herbicydy, środki do zwalczania szkodników)",
+        "lampy fluorescencyjne i inne odpady zawierające rtęć (np. świetlówki, jarzeniówki, termometry)",
+        "farby, tusze, kleje, żywice nie zawierające substancji niebezpiecznych",
+        "leki (wyłączając leki cytostatyczne i cytotoksyczne oraz igły, strzykawki, opatrunki, aerozole)",
+        "baterie i akumulatory ołowiowe, niklowo-kadmowe, zawierające rtęć oraz inne",
+        "tonery i kartridże",
+        "oleje inne niż spożywcze",
+        "urządzenia elektroniczne - telewizory, monitory, komputery i inne",
+        "urządzenia AGD - lodówki, pralki i inne",
+        "osoby fizyczne mogą dostarczać takie odpady w godzinach otwarcia Gminnego Punktu Zbiórki Odpadów Niebezpiecznych",
+        "Osiedle Południe 48 (Boguszowice Osiedle)",
+        "ul. Rejewskiego 2, ul. Małachowskiego 21, ul. Karskiego naprzeciwko nr 20 (Boguszowice Stare)",
+        "ul. Pukowca 12 i ul. Śląska 13 (Chwałowice)",
+        "ul. Czecha 56 (Chwałęcice)",
+        "ul. Sygnały 50 (Gotartowice)",
+        "ul. Hotelowa 11, ul. Robotnicza 97 (Kamień)",
+        "ul. Poligonowa 17A (Kłokocin)",
+        "ul. Ks. Jośki 44 (Maroko-Nowiny)",
+        "ul. Górnośląska 21, ul. Wiertnicza 20, ul. Wrębowa 1 (Niedobczyce)",
+        "ul. Łukowa (Ochojec)",
+        "ul. Okulickiego za nr 12 (Popielów)",
+        "ul. Mglista/Kuźnicka (Rybnicka Kuźnia)",
+        "ul. Kilińskiego 29 (Smolna)",
+        "ul. Buhla 3 (Zebrzydowice)",
+        "Apteka „Pod Lwem” – Plac Wolności oraz ul. Św. Józefa 16",
+        "Apteka „ARONA” – ul. Wyzwolenia 37",
+        "Apteka Św. Anny – ul. Kardynała Kominka 13",
+        "Apteka Słoneczna – ul. Energetyków 46",
+        "Apteka Dbam o zdrowie – ul. Kotucza 100 (budynek Auchan)",
+        "Apteka „AVE” – ul. Małachowskiego 18",
+        "Apteka „TOP FARM” – ul. Patriotów 11",
+        "Apteka Elektrownia – ul. Podmiejska 48",
+        "Apteka „Chwałowice” – ul. 1 Maja 93",
+        "Apteka „W Golejowie” – ul. Komisji Edukacji Narodowej 20",
+        "Apteka „Przy Bazylice” – ul. Mikołowska 1",
+        "Apteka Niewiadom – ul. Mościckiego 3",
+        "Apteka ZIKO – ul. Bolesława Chrobrego 1 (budynek Focus Park)",
+        "Apteka „Na Parkowej” – ul. Parkowa 4a",
+        "Apteka – ul. Reymonta 60",
+        "Apteka Dr. MAX – ul. Żorska 2 (budynek Tesco)",
+        "Apteka Zdrowit – ul. Patriotów 23",
+        "Apteka – ul. Gliwicka 45 (budynek Carrefour)",
+        "Apteka – ul. Kupiecka 8",
+        "Apteka Galen – ul. Józefa Rymera 8",
+        "Apteka Dbam o zdrowie – ul. Zebrzydowicka 1",
+        "Apteka Passiflora – ul. Zofii Nałkowskiej 3",
+        "Apteka Zdrowit + – Rynek 8"
+      ],
+      "note": "Trzeba okazać dokument z imieniem, nazwiskiem i adresem zamieszkania. Przyjmowane tylko od mieszkańców Rybnika.",
+      "url": "https://www.rybnik.eu/dla-mieszkancow/odpady-komunalne/odpady-niebezpieczne-gpzon"
+    }
+  ],
+  "guide": [
+    {
+      "item": "aerozol, opakowanie",
+      "where": "GPZON",
+      "note": "Opakowań po aerozolach nie wolno wrzucać do żółtego.",
+      "keywords": [
+        "spray",
+        "dezodorant"
+      ]
+    },
+    {
+      "item": "akumulator samochodowy",
+      "where": "GPZON",
+      "note": "Akumulatory ołowiowe przyjmuje GPZON.",
+      "keywords": [
+        "akumulatory",
+        "ołowiowy"
+      ]
+    },
+    {
+      "item": "baterie",
+      "where": "GPZON",
+      "note": "Do żółtego nie wolno. GPZON przyjmuje wszystkie rodzaje.",
+      "keywords": [
+        "bateria",
+        "paluszki",
+        "guzikowe"
+      ]
+    },
+    {
+      "item": "butelka PET",
+      "where": "PLASTIK",
+      "note": "Zgnieć przed wyrzuceniem.",
+      "keywords": [
+        "plastikowa butelka",
+        "pet"
+      ]
+    },
+    {
+      "item": "butelka szklana",
+      "where": "SZKLO",
+      "note": null,
+      "keywords": [
+        "butelki",
+        "słoik"
+      ]
+    },
+    {
+      "item": "ceramika, fajans, porcelana",
+      "where": "ZMIESZANE",
+      "note": "Mimo wyglądu to nie jest szkło.",
+      "keywords": [
+        "talerz",
+        "kubek",
+        "doniczka ceramiczna"
+      ]
+    },
+    {
+      "item": "choinka",
+      "where": "BIO",
+      "note": "Żywa choinka to bioodpad. Sztuczna idzie jako gabaryt.",
+      "keywords": [
+        "choinka",
+        "drzewko"
+      ]
+    },
+    {
+      "item": "chusteczki higieniczne",
+      "where": "ZMIESZANE",
+      "note": "Artykuły higieniczne nie idą do papieru.",
+      "keywords": [
+        "chusteczki",
+        "ręcznik papierowy"
+      ]
+    },
+    {
+      "item": "czajnik elektryczny",
+      "where": "PSZOK",
+      "note": "Zużyty sprzęt AGD, nie do żółtego worka.",
+      "keywords": [
+        "agd",
+        "elektryczny"
+      ]
+    },
+    {
+      "item": "doniczka plastikowa",
+      "where": "PLASTIK",
+      "note": null,
+      "keywords": [
+        "doniczki"
+      ]
+    },
+    {
+      "item": "farby i lakiery",
+      "where": "GPZON",
+      "note": "Także tusze, kleje i żywice.",
+      "keywords": [
+        "farba",
+        "lakier",
+        "puszka po farbie"
+      ]
+    },
+    {
+      "item": "folia aluminiowa",
+      "where": "PLASTIK",
+      "note": null,
+      "keywords": [
+        "alufolia"
+      ]
+    },
+    {
+      "item": "fusy po kawie i herbacie",
+      "where": "BIO",
+      "note": null,
+      "keywords": [
+        "kawa",
+        "herbata",
+        "fusy"
+      ]
+    },
+    {
+      "item": "gazety i czasopisma",
+      "where": "PAPIER",
+      "note": null,
+      "keywords": [
+        "gazeta",
+        "prasa",
+        "ulotki"
+      ]
+    },
+    {
+      "item": "gałęzie",
+      "where": "BIO",
+      "note": "Drobne gałązki do brązowego, grubsze do PSZOK-u.",
+      "keywords": [
+        "gałęzie",
+        "przycinka żywopłotu"
+      ]
+    },
+    {
+      "item": "gruz i odpady budowlane",
+      "where": "PSZOK",
+      "note": "Przyjmowane w obu PSZOK-ach.",
+      "keywords": [
+        "gruz",
+        "remont",
+        "rozbiórka"
+      ]
+    },
+    {
+      "item": "igły i strzykawki",
+      "where": "ZMIESZANE",
+      "note": "GPZON ich nie przyjmuje. Zabezpiecz przed ukłuciem.",
+      "keywords": [
+        "igła",
+        "strzykawka",
+        "insulina"
+      ]
+    },
+    {
+      "item": "kapsle i pokrywki",
+      "where": "PLASTIK",
+      "note": "Metal idzie do żółtego razem z tworzywami.",
+      "keywords": [
+        "kapsel",
+        "zakrętka metalowa"
+      ]
+    },
+    {
+      "item": "karton po mleku lub soku",
+      "where": "PLASTIK",
+      "note": "Opakowania wielomateriałowe do żółtego, nie do papieru.",
+      "keywords": [
+        "tetrapak",
+        "karton po soku"
+      ]
+    },
+    {
+      "item": "kartony i pudła",
+      "where": "PAPIER",
+      "note": "Złóż, żeby nie zajmowały miejsca.",
+      "keywords": [
+        "karton",
+        "tektura",
+        "pudełko"
+      ]
+    },
+    {
+      "item": "koperty",
+      "where": "PAPIER",
+      "note": null,
+      "keywords": [
+        "koperta",
+        "listy"
+      ]
+    },
+    {
+      "item": "kości i resztki mięsa",
+      "where": "ZMIESZANE",
+      "note": "Do brązowego nie wolno.",
+      "keywords": [
+        "mięso",
+        "kości",
+        "wędlina"
+      ]
+    },
+    {
+      "item": "kryształ i szkło stołowe",
+      "where": "ZMIESZANE",
+      "note": "To inny rodzaj szkła niż opakowaniowe.",
+      "keywords": [
+        "kieliszek",
+        "szklanka",
+        "waza"
+      ]
+    },
+    {
+      "item": "książki",
+      "where": "PAPIER",
+      "note": null,
+      "keywords": [
+        "książka",
+        "zeszyt",
+        "podręcznik"
+      ]
+    },
+    {
+      "item": "leki przeterminowane",
+      "where": "GPZON",
+      "note": "Bez leków cytostatycznych, igieł, strzykawek, opatrunków i aerozoli.",
+      "keywords": [
+        "lekarstwa",
+        "tabletki",
+        "syrop"
+      ]
+    },
+    {
+      "item": "liście i trawa",
+      "where": "BIO",
+      "note": null,
+      "keywords": [
+        "liście",
+        "skoszona trawa",
+        "chwasty"
+      ]
+    },
+    {
+      "item": "lustro",
+      "where": "ZMIESZANE",
+      "note": "Lustra nie idą do zielonego pojemnika.",
+      "keywords": [
+        "lusterko"
+      ]
+    },
+    {
+      "item": "meble",
+      "where": "GABARYTY",
+      "note": "Także odbiór w terminie wielkogabarytów albo PSZOK.",
+      "keywords": [
+        "szafa",
+        "kanapa",
+        "krzesło",
+        "wersalka"
+      ]
+    },
+    {
+      "item": "naczynia jednorazowe plastikowe",
+      "where": "PLASTIK",
+      "note": "Opłucz z resztek jedzenia.",
+      "keywords": [
+        "kubeczki",
+        "sztućce plastikowe"
+      ]
+    },
+    {
+      "item": "obierki warzyw i owoców",
+      "where": "BIO",
+      "note": null,
+      "keywords": [
+        "obierki",
+        "resztki warzyw"
+      ]
+    },
+    {
+      "item": "odchody zwierzęce i żwirek",
+      "where": "ZMIESZANE",
+      "note": "Do brązowego nie wolno.",
+      "keywords": [
+        "żwirek",
+        "kuweta",
+        "psie odchody"
+      ]
+    },
+    {
+      "item": "odzież i tekstylia",
+      "where": "PSZOK",
+      "note": "Przyjmowane w PSZOK-u. Rzeczy w dobrym stanie lepiej oddać dalej.",
+      "keywords": [
+        "ubrania",
+        "ciuchy",
+        "tekstylia",
+        "buty"
+      ]
+    },
+    {
+      "item": "olej spożywczy",
+      "where": "ZMIESZANE",
+      "note": "Zamknij w butelce. Nie wylewaj do zlewu.",
+      "keywords": [
+        "olej z frytkownicy",
+        "smalec"
+      ]
+    },
+    {
+      "item": "oleje silnikowe",
+      "where": "GPZON",
+      "note": "Oleje inne niż spożywcze.",
+      "keywords": [
+        "olej silnikowy",
+        "przepracowany olej"
+      ]
+    },
+    {
+      "item": "opakowania po kosmetykach",
+      "where": "SZKLO",
+      "note": "Dotyczy opakowań szklanych.",
+      "keywords": [
+        "słoiczek po kremie",
+        "perfumy"
+      ]
+    },
+    {
+      "item": "opakowania po lekach",
+      "where": "ZMIESZANE",
+      "note": "Do żółtego nie wolno.",
+      "keywords": [
+        "blister",
+        "listek po tabletkach"
+      ]
+    },
+    {
+      "item": "opony",
+      "where": "PSZOK",
+      "note": "Bez opon z ciężarówek, sprzętu budowlanego i maszyn przemysłowych.",
+      "keywords": [
+        "opona",
+        "koła"
+      ]
+    },
+    {
+      "item": "papier zatłuszczony",
+      "where": "ZMIESZANE",
+      "note": "Zabrudzony papier psuje całą partię surowca.",
+      "keywords": [
+        "papier po pizzy",
+        "tłusty papier"
+      ]
+    },
+    {
+      "item": "paragon",
+      "where": "ZMIESZANE",
+      "note": "Papier termiczny nie nadaje się do recyklingu.",
+      "keywords": [
+        "paragony",
+        "papier termiczny",
+        "faks"
+      ]
+    },
+    {
+      "item": "pieluchy",
+      "where": "ZMIESZANE",
+      "note": null,
+      "keywords": [
+        "pampersy",
+        "pielucha"
+      ]
+    },
+    {
+      "item": "popiół z pieca",
+      "where": "POPIOLY",
+      "note": "Tylko do pojemnika, nigdy do worka, i tylko wystudzony.",
+      "keywords": [
+        "popiół",
+        "żużel",
+        "węgiel"
+      ]
+    },
+    {
+      "item": "puszka aluminiowa",
+      "where": "PLASTIK",
+      "note": "Zgnieć przed wyrzuceniem.",
+      "keywords": [
+        "puszka",
+        "napój"
+      ]
+    },
+    {
+      "item": "puszka po farbie",
+      "where": "GPZON",
+      "note": "Do żółtego nie wolno.",
+      "keywords": [
+        "puszka po farbie"
+      ]
+    },
+    {
+      "item": "reklamówki i worki foliowe",
+      "where": "PLASTIK",
+      "note": null,
+      "keywords": [
+        "reklamówka",
+        "siatka",
+        "folia"
+      ]
+    },
+    {
+      "item": "resztki kwiatów",
+      "where": "BIO",
+      "note": "Ciętych i doniczkowych.",
+      "keywords": [
+        "kwiaty",
+        "bukiet"
+      ]
+    },
+    {
+      "item": "rozpuszczalnik",
+      "where": "GPZON",
+      "note": "Także rozcieńczalniki i benzyna ekstrakcyjna.",
+      "keywords": [
+        "rozcieńczalnik",
+        "benzyna lakowa",
+        "aceton"
+      ]
+    },
+    {
+      "item": "skorupki jaj",
+      "where": "BIO",
+      "note": null,
+      "keywords": [
+        "jajka",
+        "skorupki"
+      ]
+    },
+    {
+      "item": "sprzęt elektroniczny",
+      "where": "PSZOK",
+      "note": "Telewizory, komputery, AGD. Nie do żółtego.",
+      "keywords": [
+        "elektrośmieci",
+        "rtv",
+        "agd",
+        "telewizor",
+        "pralka",
+        "komputer"
+      ]
+    },
+    {
+      "item": "styropian budowlany",
+      "where": "PSZOK",
+      "note": "Jako odpad budowlany.",
+      "keywords": [
+        "ocieplenie",
+        "styropian z remontu"
+      ]
+    },
+    {
+      "item": "styropian opakowaniowy",
+      "where": "ZMIESZANE",
+      "note": "Do żółtego nie wolno.",
+      "keywords": [
+        "styropian"
+      ]
+    },
+    {
+      "item": "szkło zbrojone i szyby",
+      "where": "PSZOK",
+      "note": "Szyby samochodowe nie idą do zielonego.",
+      "keywords": [
+        "szyba",
+        "okno"
+      ]
+    },
+    {
+      "item": "tapeta",
+      "where": "ZMIESZANE",
+      "note": "Do niebieskiego nie wolno.",
+      "keywords": [
+        "tapety"
+      ]
+    },
+    {
+      "item": "toner i kartridż",
+      "where": "GPZON",
+      "note": null,
+      "keywords": [
+        "tusz do drukarki",
+        "kartridż"
+      ]
+    },
+    {
+      "item": "worki po materiałach budowlanych",
+      "where": "ZMIESZANE",
+      "note": "Do niebieskiego nie wolno.",
+      "keywords": [
+        "worek po cemencie"
+      ]
+    },
+    {
+      "item": "zabawki",
+      "where": "ZMIESZANE",
+      "note": "Do żółtego nie wolno. Duże idą jako gabaryty.",
+      "keywords": [
+        "zabawka",
+        "klocki"
+      ]
+    },
+    {
+      "item": "ziemia i kamienie",
+      "where": "PSZOK",
+      "note": "Do brązowego nie wolno.",
+      "keywords": [
+        "ziemia",
+        "kamienie",
+        "gleba"
+      ]
+    },
+    {
+      "item": "środki ochrony roślin",
+      "where": "GPZON",
+      "note": "Herbicydy i środki na szkodniki, I i II klasa.",
+      "keywords": [
+        "opryski",
+        "herbicyd",
+        "pestycydy"
+      ]
+    },
+    {
+      "item": "świetlówka",
+      "where": "GPZON",
+      "note": "Zawiera rtęć. Także jarzeniówki i termometry rtęciowe.",
+      "keywords": [
+        "jarzeniówka",
+        "żarówka energooszczędna",
+        "rtęć",
+        "termometr"
+      ]
+    },
+    {
+      "item": "żarówka zwykła",
+      "where": "ZMIESZANE",
+      "note": "Żarówki nie idą do szkła. Energooszczędne i świetlówki do GPZON.",
+      "keywords": [
+        "żarówka"
+      ]
+    }
+  ]
+}

@@ -44,6 +44,12 @@ jobs:
         run: python scraper/sport.py
         continue-on-error: true
 
+      # PSZOK/GPZON change about once a contract, so this rides along with the rest
+      # rather than getting its own cadence.
+      - name: Waste points
+        run: python scraper/points.py
+        continue-on-error: true
+
       - name: Transit metadata
         run: python scraper/transit.py
         continue-on-error: true

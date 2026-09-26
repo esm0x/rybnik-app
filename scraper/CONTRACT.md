@@ -196,6 +196,54 @@ Sortowanie: malejąco po `published`.
 
 ---
 
+## waste_points.json
+
+```json
+{
+  "generated_at": "...", "count": 3, "failures": [],
+  "points": [
+    {
+      "id": "pszok-kolberga",
+      "name": "PSZOK Boguszowice Stare",
+      "kind": "PSZOK",
+      "address": "ul. Oskara Kolberga 67",
+      "district": "Boguszowice Stare",
+      "phone": "(32) 42 55 777",
+      "email": "info@skladowisko.rybnik.pl",
+      "hours": "poniedziałek - piatek: 7.00-19.00, sobota: 8.00-15.00",
+      "accepted": ["papier i tektura", "metale", "szkło"],
+      "note": "Odpady muszą być posegregowane...",
+      "url": "https://www.rybnik.eu/..."
+    }
+  ],
+  "guide": [
+    { "item": "baterie", "where": "GPZON", "note": "Do żółtego nie wolno.", "keywords": ["bateria"] }
+  ]
+}
+```
+
+- `kind`: `PSZOK` | `GPZON`.
+- `hours` — **surowa linia ze strony miasta**, razem z jej literówkami („piatek"). Miasto
+  zapisuje godziny prozą, a każda próba normalizacji dokłada precyzję, której w źródle
+  nie ma. Apka pokazuje to tak, jak stoi.
+- `accepted` — lista frakcji spod nagłówka „Rodzaje … odpadów". Pusta lista oznacza, że
+  strona zmieniła układ; scraper wtedy krzyczy `[warn]`, ale nie przerywa.
+- `where` w `guide` MUSI być jednym z: `ZMIESZANE`, `BIO`, `PAPIER`, `SZKLO`, `PLASTIK`,
+  `POPIOLY`, `GABARYTY`, `PSZOK`, `GPZON`. Nieznana wartość spada w apce do `INNE`.
+- `keywords` — dodatkowe formy do wyszukiwania. Apka składa je z `item` i `note` w jeden
+  worek, składa polskie znaki do ASCII i szuka po fragmencie, więc „zarowka" znajdzie
+  „żarówkę".
+
+### waste_guide_manual.json (wejście, nie wyjście)
+
+Drugi po `manual_events.json` plik w `scraper/data/`, który **edytuje człowiek**.
+Miasto publikuje zasady segregacji prozą i w PDF-ie, bez listy per przedmiot, więc
+słownik „gdzie wyrzucić X" powstaje ręcznie na podstawie oficjalnych list
+„wrzucamy / nie wrzucamy". `points.py` tylko go czyta i nigdy do niego nie pisze.
+Wpis bez `item` albo `where` jest pomijany z ostrzeżeniem.
+
+---
+
 ## transit_meta.json
 
 Rozkład jest za duży na JSON — apka pobiera `gtfs.zip` bezpośrednio.

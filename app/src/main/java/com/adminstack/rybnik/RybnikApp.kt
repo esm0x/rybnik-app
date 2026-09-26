@@ -30,6 +30,7 @@ import com.adminstack.rybnik.ui.more.MoreScreen
 import com.adminstack.rybnik.ui.more.SettingsScreen
 import com.adminstack.rybnik.ui.more.SupportScreen
 import com.adminstack.rybnik.ui.news.NewsScreen
+import com.adminstack.rybnik.ui.points.WastePointsScreen
 import com.adminstack.rybnik.ui.sport.SportScreen
 import com.adminstack.rybnik.ui.transit.TransitScreen
 import com.adminstack.rybnik.ui.waste.AddressPickerScreen
@@ -53,6 +54,7 @@ private object Routes {
     const val ADDRESS = "address"
     const val SUPPORT = "support"
     const val SPORT = "sport"
+    const val POINTS = "points"
     const val EVENT_DETAIL = "event/{id}"
     fun event(id: String) = "event/$id"
 }
@@ -120,6 +122,7 @@ fun RybnikApp() {
                     onOpenNews = { navController.navigate(Routes.NEWS) },
                     onOpenAir = { navController.navigate(Routes.AIR) },
                     onOpenSport = { navController.navigate(Routes.SPORT) },
+                    onOpenPoints = { navController.navigate(Routes.POINTS) },
                     onOpenFavourites = { navController.navigate(Routes.FAVOURITES) },
                     onOpenSettings = { navController.navigate(Routes.SETTINGS) },
                     onOpenSupport = { navController.navigate(Routes.SUPPORT) },
@@ -129,6 +132,10 @@ fun RybnikApp() {
             composable(Routes.NEWS) { NewsScreen() }
 
             composable(Routes.SPORT) { SportScreen(onBack = { navController.popBackStack() }) }
+
+            composable(Routes.POINTS) {
+                WastePointsScreen(onBack = { navController.popBackStack() })
+            }
 
             composable(Routes.SUPPORT) { SupportScreen(onBack = { navController.popBackStack() }) }
 

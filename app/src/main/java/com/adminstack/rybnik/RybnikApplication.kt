@@ -2,20 +2,25 @@ package com.adminstack.rybnik
 
 import android.app.Application
 import android.content.Context
+import androidx.glance.appwidget.updateAll
 import androidx.room.Room
 import com.adminstack.rybnik.core.prefs.UserPrefs
 import com.adminstack.rybnik.data.RemoteEventRepository
 import com.adminstack.rybnik.data.air.AirQualityRepository
 import com.adminstack.rybnik.data.news.NewsRepository
 import com.adminstack.rybnik.data.outages.OutageRepository
+import com.adminstack.rybnik.data.points.WastePointsRepository
 import com.adminstack.rybnik.data.sport.SportRepository
 import com.adminstack.rybnik.data.transit.TransitDb
 import com.adminstack.rybnik.data.transit.TransitRepository
 import com.adminstack.rybnik.data.waste.WasteRepository
+import com.adminstack.rybnik.widget.WasteWidget
 import com.adminstack.rybnik.work.Reminders
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.SupervisorJob
+import kotlinx.coroutines.flow.distinctUntilChanged
+import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.launch
 
 class RybnikApplication : Application() {
@@ -40,6 +45,7 @@ object Graph {
     lateinit var airRepo: AirQualityRepository private set
     lateinit var outageRepo: OutageRepository private set
     lateinit var sportRepo: SportRepository private set
+    lateinit var pointsRepo: WastePointsRepository private set
     lateinit var prefs: UserPrefs private set
 
     val scope = CoroutineScope(SupervisorJob() + Dispatchers.Default)
@@ -58,11 +64,22 @@ object Graph {
         airRepo = AirQualityRepository()
         outageRepo = OutageRepository()
         sportRepo = SportRepository(appContext)
+        pointsRepo = WastePointsRepository(appContext)
         prefs = UserPrefs(appContext)
+
+        // A widget only redraws on its own half-hourly tick, so without this someone picks
+        // an address, goes back to the home screen and finds "wybierz adres" still there.
+        // The first emission also refreshes it whenever the app is opened.
+        scope.launch {
+            prefs.settings
+                .map { it.wasteAddress }
+                .distinctUntilChanged()
+                .collect { runCatching { WasteWidget().updateAll(appContext) } }
+        }
 
         // Cached payloads first so a cold start renders real content instead of spinners.
         scope.launch {
-            listOf(eventRepo, wasteRepo, newsRepo, transitRepo, sportRepo)
+            listOf(eventRepo, wasteRepo, newsRepo, transitRepo, sportRepo, pointsRepo)
                 .forEach { it.loadCache() }
             transitRepo.checkReady()
             eventRepo.refresh()
@@ -70,6 +87,9 @@ object Graph {
             newsRepo.refresh()
             airRepo.refresh()
             sportRepo.refresh()
+            pointsRepo.refresh()
+            // Fresh air reading and schedule: worth one more widget redraw.
+            runCatching { WasteWidget().updateAll(appContext) }
         }
     }
 }
