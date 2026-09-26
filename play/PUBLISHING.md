@@ -5,6 +5,18 @@ zrobione: konfiguracja podpisywania, minifikacja, ikona, grafika promocyjna, zrz
 ekranu, opisy i polityka prywatności. Poniżej to, co musisz zrobić Ty, bo wymaga
 Twojego konta, Twojego klucza albo Twojej decyzji.
 
+> **Komendy są napisane pod `cmd.exe`**, bo w nim pracujesz. Dwie rzeczy, które na tej
+> maszynie zaskakują:
+>
+> * `keytool`, `jarsigner` i `java` **nie są na PATH** — jest tam tylko Java 8, która
+>   i tak nie wystarczy. Dlatego niżej wszędzie są pełne ścieżki do JDK 21.
+> * Zmienna `NoDefaultCurrentDirectoryInExePath=1` sprawia, że cmd **nie szuka programów
+>   w bieżącym katalogu**, więc samo `gradlew.bat` kończy się „is not recognized".
+>   Musi być `.\gradlew.bat`.
+>
+> W Git Bashu te same komendy wyglądają inaczej (`export JAVA_HOME=...`, `./gradlew`).
+> Ścieżki w cudzysłowie z ukośnikami w przód działają w obu powłokach.
+
 ---
 
 ## Zanim zaczniesz: dwie decyzje nie do cofnięcia
@@ -51,8 +63,11 @@ odróżniają „niezależny projekt" od „podszywania się pod urząd".
 Klucz jest tożsamością aplikacji. **Zgubienie go = brak możliwości wydania
 aktualizacji.** Nigdy nie trafia do repozytorium — `.gitignore` już go blokuje.
 
+Generujemy go **poza repozytorium**, w folderze nadrzędnym. Dzięki temu żaden `git add`
+nie ma jak go wciągnąć, nawet przez pomyłkę:
+
 ```bash
-keytool -genkeypair -v -keystore rybnik-release.jks -keyalg RSA -keysize 4096 -validity 10000 -alias rybnik
+"C:/Users/Marcin/.jdks/jbr-21.0.11/bin/keytool.exe" -genkeypair -v -keystore "C:/Users/Marcin/Documents/APKA/files/rybnik-app/rybnik-release.jks" -keyalg RSA -keysize 4096 -validity 10000 -alias rybnik
 ```
 
 Zapyta o hasło i dane właściciela. Zapisz plik `.jks` **i oba hasła** w menedżerze
@@ -62,11 +77,28 @@ Następnie utwórz `keystore.properties` w katalogu głównym projektu (obok
 `settings.gradle.kts`):
 
 ```properties
-storeFile=../rybnik-release.jks
+storeFile=C:/Users/Marcin/Documents/APKA/files/rybnik-app/rybnik-release.jks
 storePassword=TWOJE_HASLO
 keyAlias=rybnik
 keyPassword=TWOJE_HASLO_KLUCZA
 ```
+
+Ścieżka bezwzględna, z ukośnikami w przód, i dokładnie ta sama co w `keytool` wyżej.
+Ścieżka względna też zadziała, ale liczy się od katalogu z `settings.gradle.kts`, nie od
+tego, w którym akurat stoisz — a to jest dokładnie ten rodzaj szczegółu, który wychodzi
+dopiero przy pierwszym buildzie.
+
+Hasła muszą się zgadzać z tym, co podałeś w `keytool`. Jeśli plik powstał wcześniej z
+szablonu, podmień w nim `TWOJE_HASLO` na prawdziwe, inaczej Gradle zgłosi błędne hasło.
+
+**Dopóki plik `.jks` nie istnieje, a `keystore.properties` już tak, każdy
+`bundleRelease` kończy się:**
+
+```
+Keystore file '...rybnik-release.jks' not found for signing config 'release'
+```
+
+To nie jest awaria konfiguracji, tylko informacja, że brakuje jeszcze samego klucza.
 
 Plik jest w `.gitignore`. Gradle sam go wykryje: jeśli istnieje, build release zostanie
 podpisany; jeśli nie, powstanie APK bez podpisu i nic się nie wysypie.
@@ -80,13 +112,22 @@ zgubisz swój, da się go zresetować. Bez tego nie ma odwrotu.
 Google Play przyjmuje **Android App Bundle**, nie APK.
 
 ```bash
-cd "C:/Users/Marcin/Documents/APKA/files/rybnik-app/rybnik-app" && JAVA_HOME="/c/Users/Marcin/.jdks/jbr-21.0.11" ./gradlew bundleRelease
+cd /d C:\Users\Marcin\Documents\APKA\files\rybnik-app\rybnik-app
+```
+
+```bash
+set JAVA_HOME=C:\Users\Marcin\.jdks\jbr-21.0.11
+```
+
+```bash
+.\gradlew.bat bundleRelease
 ```
 
 Wynik: `app/build/outputs/bundle/release/app-release.aab`.
 
 > `JAVA_HOME` jest tu potrzebne, bo JBR w Android Studio to już JDK 25, którego
-> Gradle 8.9 nie obsługuje, a na PATH siedzi Java 8. Z Android Studio zbudujesz przez
+> Gradle 8.9 nie obsługuje, a na PATH siedzi Java 8. `set` działa tylko w tym jednym
+> oknie konsoli, więc po jego zamknięciu trzeba je powtórzyć. Z Android Studio zbudujesz przez
 > **Build → Generate Signed App Bundle** i nic nie trzeba ustawiać.
 
 Sprawdź, czy AAB jest podpisany. **Nie używaj do tego `apksigner`** — to narzędzie
@@ -96,14 +137,14 @@ a nie w korzeniu archiwum. Bundle podpisuje się schematem JAR, więc sprawdza g
 `jarsigner` z JDK:
 
 ```bash
-"/c/Users/Marcin/.jdks/jbr-21.0.11/bin/jarsigner" -verify -verbose:summary -certs app/build/outputs/bundle/release/app-release.aab
+"C:/Users/Marcin/.jdks/jbr-21.0.11/bin/jarsigner.exe" -verify -verbose:summary -certs app/build/outputs/bundle/release/app-release.aab
 ```
 
 Czego się spodziewać:
 
 - podpisany: `jar verified.` plus linia `Signed by "CN=..."` z Twoim kluczem, więc od
   razu widać, **którym** kluczem,
-- niepodpisany: `no manifest.` — to znaczy, że nie ma `keystore.properties` albo Gradle
+- niepodpisany: `no manifest.` i `jar is unsigned.` — to znaczy, że nie ma `keystore.properties` albo Gradle
   go nie znalazł.
 
 Ostrzeżenia o certyfikacie self-signed i braku znacznika czasu są normalne i nie
