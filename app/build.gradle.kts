@@ -17,11 +17,11 @@ val keystoreProps = Properties().apply {
 }
 
 android {
-    namespace = "eu.rybnik.events"
+    namespace = "com.adminstack.rybnik"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "eu.rybnik.events"
+        applicationId = "com.adminstack.rybnik"
         minSdk = 26
         targetSdk = 35
         versionCode = 5

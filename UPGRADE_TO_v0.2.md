@@ -17,7 +17,7 @@ scraper/
 app/
   build.gradle.kts                                 ← nowe zależności (OkHttp, kotlinx.serialization)
   src/main/AndroidManifest.xml                     ← android:name=".RybnikApplication"
-  src/main/java/eu/rybnik/events/
+  src/main/java/com/adminstack/rybnik/
     RybnikApplication.kt                           ← nowy
     data/RemoteEventRepository.kt                  ← nowy
     ui/events/EventListScreen.kt                   ← nadpisany (loading/error/refresh)
@@ -30,7 +30,7 @@ app/
 
 Wypakuj ten ZIP do folderu `rybnik-app/` (tego, który otwierasz w Android Studio). Foldery `scraper/`, `.github/` powstaną na nowo, pliki w `app/` — nadpiszą stare.
 
-Stary `MockEventRepository` możesz zostawić — nie jest już używany, ale nie przeszkadza. Chcesz go usunąć — usuń `app/src/main/java/eu/rybnik/events/data/Event.kt`… nie, wait. `Event.kt` zawiera też model + enum + interface. **Zostaw `Event.kt`, tylko usuń z niego klasę `MockEventRepository` i listę `sampleEvents`.** Wszystko inne jest nadal potrzebne.
+Stary `MockEventRepository` możesz zostawić — nie jest już używany, ale nie przeszkadza. Chcesz go usunąć — usuń `app/src/main/java/com/adminstack/rybnik/data/Event.kt`… nie, wait. `Event.kt` zawiera też model + enum + interface. **Zostaw `Event.kt`, tylko usuń z niego klasę `MockEventRepository` i listę `sampleEvents`.** Wszystko inne jest nadal potrzebne.
 
 ### 2. Wrzuć projekt na GitHub
 

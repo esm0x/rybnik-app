@@ -43,7 +43,7 @@ Ekran „Wesprzyj projekt" w zakładce Więcej: buycoffee, link do repo i zgłas
 ## Układ projektu
 
 ```
-app/src/main/java/eu/rybnik/events/
+app/src/main/java/com/adminstack/rybnik/
   RybnikApp.kt                 nawigacja: 5 zakładek + ekrany szczegółowe
   RybnikApplication.kt         object Graph — ręczne DI
   core/
@@ -75,7 +75,7 @@ scraper/
 ## Uruchamianie
 
 1. Otwórz **ten** folder (ten z `settings.gradle.kts`) w Android Studio.
-2. W `app/src/main/java/eu/rybnik/events/core/net/Remote.kt` ustaw `GH_USER`
+2. W `app/src/main/java/com/adminstack/rybnik/core/net/Remote.kt` ustaw `GH_USER`
    na swoją nazwę użytkownika GitHub.
 3. Gradle sync → Run na urządzeniu z API 26+.
 
@@ -213,5 +213,6 @@ Kotlin deserializuje je 1:1.
   Dynamic color jest wyłączony, żeby apka wyglądała tak samo na każdym telefonie.
 - Kolory kategorii i typów odpadów siedzą na enumach, więc dodanie wartości to
   zmiana w jednej linii, a kolor propaguje się na filtry, kafelki i kropki w kalendarzu.
-- Pakiet nazywa się `eu.rybnik.events` z czasów, gdy apka robiła tylko wydarzenia.
-  Zmiana wymaga przepisania `applicationId` i przeinstalowania — świadomie odłożone.
+- Pakiet to `com.adminstack.rybnik`, przemianowany przed publikacją z `eu.rybnik.events`.
+  Krótkie `eu.rybnik` odpadło, bo należy do oficjalnego halo! RYBNIK, a identyfikatory
+  są globalnie unikalne. Prefiks firmowy skaluje się na kolejne miasta.

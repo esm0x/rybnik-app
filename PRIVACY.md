@@ -1,7 +1,7 @@
 # Polityka prywatności — Mój Rybnik
 
 Obowiązuje od 26 września 2026. Dotyczy aplikacji Android **Mój Rybnik**
-(identyfikator pakietu `eu.rybnik.events`).
+(identyfikator pakietu `com.adminstack.rybnik`).
 
 ## Krótko
 

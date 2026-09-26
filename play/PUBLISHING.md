@@ -9,24 +9,19 @@ Twojego konta, Twojego klucza albo Twojej decyzji.
 
 ## Zanim zaczniesz: dwie decyzje nie do cofnięcia
 
-### 1. Identyfikator pakietu
+### 1. Identyfikator pakietu — ustalony
 
-Obecnie: **`eu.rybnik.events`**.
+**`com.adminstack.rybnik`**. Po pierwszej publikacji nie da się go zmienić: zmiana
+oznaczałaby nową, osobną pozycję w sklepie i utratę instalacji oraz ocen.
 
-Po pierwszej publikacji **nie da się go zmienić** — zmiana oznacza nową, osobną
-pozycję w sklepie i utratę wszystkich instalacji i ocen. Dwie rzeczy warte przemyślenia
-teraz:
+Rozważaliśmy `eu.rybnik` i **odpada**: ten pakiet należy do oficjalnego halo! RYBNIK
+(wydawca netkoncept.com), a identyfikatory są globalnie unikalne, więc Google po prostu
+odrzuciłby upload. Poprzednie `eu.rybnik.events` działałoby, ale wyglądało jak podgałąź
+pakietu miasta, czym nie jesteśmy, a człon `events` został z czasów, gdy aplikacja
+robiła tylko wydarzenia.
 
-- Człon `events` został z czasów, gdy aplikacja robiła tylko wydarzenia. Dziś robi
-  siedem modułów.
-- Przestrzeń `eu.rybnik` należy w praktyce do oficjalnej aplikacji miasta
-  (halo! RYBNIK, pakiet `eu.rybnik`, wydawca netkoncept.com). Google tego nie
-  weryfikuje i nie zablokuje publikacji, ale nasz pakiet wygląda jak jego podgałąź,
-  czego nie jesteśmy.
-
-Jeśli chcesz zmienić, zrób to **przed** pierwszym uploadem. To zmiana `applicationId`
-i `namespace` w `app/build.gradle.kts` plus przeniesienie katalogów pakietu —
-kilkanaście minut roboty. Jeśli zostawiamy jak jest, po prostu idź dalej.
+Prefiks firmowy skaluje się też na kolejne miasta: `com.adminstack.zory`,
+`com.adminstack.gliwice`.
 
 ### 2. Nazwa i ryzyko „podszywania się"
 
