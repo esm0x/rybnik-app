@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-09-26T17:09:36",
+  "generated_at": "2026-09-26T15:32:16",
   "count": 120,
-  "failures": [],
+  "failures": [
+    {
+      "source": "rybnik.com.pl",
+      "error": "403 Client Error: Forbidden for url: https://www.rybnik.com.pl/feed,feed0.html"
+    }
+  ],
   "items": [
     {
       "id": "f0261c68e70bd2b6ca48e701bb14330f4c269c4b",
@@ -28,7 +33,7 @@
       "title": "Kolorowe Święto Latawca w Radlinie. Było mnóstwo rodzinnej zabawy [ZDJĘCIA]",
       "summary": "Kolorowe latawce, cyrkowe warsztaty, pokazy modeli latających i atrakcje przygotowane przez strażaków – tak wyglądało tegoroczne Święto Latawca w Radlinie. W sobotę, 26 września, na terenie zielonym za Przedszkolem Publicznym nr 1 w Głożynach spotkały się dzieci wraz z rodzicami, by wspólnie…",
       "link": "https://www.nowiny.pl/wiadomosci/251178-kolorowe-swieto-latawca-w-radlinie-bylo-mnostwo-rodzinnej-zabawy-zdjecia.html",
-      "published": "2026-09-26T13:12",
+      "published": "2026-09-26T11:12",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -38,29 +43,9 @@
       "title": "Prezydent Wojciechowicz powiedział przedsiębiorcom: nie mamy jeszcze zgody na papierze na likwidację torów na Dębiczu [Droga Racibórz-Pszczyna]",
       "summary": "Wyjaśnienia ze strony włodarza miasta przedstawiono na prośbę uczestników śniadania biznesowego Raciborskiej Izby Gospodarczej. Jacek Wojciechowicz liczy, że jesienią 2027 roku będzie mógł wystąpić o pozwolenie na budowę raciborskiego odcinka drogi regionalnej. 12 biur projektowych zgłosiło się po…",
       "link": "https://www.nowiny.pl/wiadomosci/251179-prezydent-wojciechowicz-powiedzial-przedsiebiorcom-nie-mamy-jeszcze-zgody-na-papierze-na-likwidacje-torow-na-debiczu-droga-raciborz-pszczyna.html",
-      "published": "2026-09-26T13:06",
+      "published": "2026-09-26T11:06",
       "source": "nowiny.pl",
       "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "416fd7ec642e2980f0d59e0def363e7ab29d973d",
-      "title": "Zamiast łyżew – szachownice! Memoriał Alfreda Chrobaka w Hali Piastor [ZDJĘCIA]",
-      "summary": "W sobotę, 26 września, Hala Piastor przy ul. Zamkowej w Raciborzu zamieniła się w arenę szachowych zmagań. To właśnie tam rozegrano VII Międzynarodowy Memoriał Szachowy Alfreda Chrobaka w szachach szybkich. Po raz pierwszy turniej zorganizowano na terenie ośrodka sportu, w hali, która w sezonie…",
-      "link": "https://www.nowiny.pl/wiadomosci/251115-zamiast-lyzew-szachownice-memorial-alfreda-chrobaka-w-hali-piastor-zdjecia.html",
-      "published": "2026-09-26T11:50",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "346bf49ddd5b6c9ffeb5d01d6888a852bb2f006b",
-      "title": "Zespół Szkół Budowlanych w Rybniku: klasy o profilu technik geodeta zostały objęte patronatem Politechniki Śląskiej",
-      "summary": "Rybnicki Zespół Szkół Budowlanych znalazł się w gronie szkół, z którymi weszła we współpracę gliwicka Politechnika Śląska. Jak przekazali przedstawiciele \"Budowlanki\", w ostatnim czasie podpisano umowę patronacką z uczelnią. Objęte zostały nią klasy o profilu technik geodeta.",
-      "link": "https://www.radio90.pl/zespol-szkol-budowlanych-w-rybniku-klasy-o-profilu-technik-geodeta-zostaly-objete-patronatem-politechniki-slaskiej.html",
-      "published": "2026-09-26T11:28",
-      "source": "Radio 90",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -74,31 +59,21 @@
       "priority": "ALERT"
     },
     {
-      "id": "1f42515303861ab847ad8ac3e4c95d38a16cb167",
-      "title": "Łzy świętowały 30-lecie w Pszowie. Podwójne urodziny i koncert pełen wspomnień [ZDJĘCIA]",
-      "summary": "Około 400 fanów zespołu Łzy pojawiło się w pszowskim Miejskim Ośrodku Kultury, by wspólnie świętować wyjątkowy jubileusz. Grupa obchodzi w tym roku 30-lecie istnienia, a swoje 25. urodziny świętuje także ich fan club.",
-      "link": "https://www.nowiny.pl/wiadomosci/251177-lzy-swietowaly-30-lecie-w-pszowie-podwojne-urodziny-i-koncert-pelen-wspomnien-zdjecia.html",
-      "published": "2026-09-26T10:34",
+      "id": "416fd7ec642e2980f0d59e0def363e7ab29d973d",
+      "title": "Zamiast łyżew – szachownice! Memoriał Alfreda Chrobaka w Hali Piastor [ZDJĘCIA]",
+      "summary": "W sobotę, 26 września, Hala Piastor przy ul. Zamkowej w Raciborzu zamieniła się w arenę szachowych zmagań. To właśnie tam rozegrano VII Międzynarodowy Memoriał Szachowy Alfreda Chrobaka w szachach szybkich. Po raz pierwszy turniej zorganizowano na terenie ośrodka sportu, w hali, która w sezonie…",
+      "link": "https://www.nowiny.pl/wiadomosci/251115-zamiast-lyzew-szachownice-memorial-alfreda-chrobaka-w-hali-piastor-zdjecia.html",
+      "published": "2026-09-26T09:50",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
     },
     {
-      "id": "1e72fc005c233eb2eb3b066dc0f90be3cd85f4ba",
-      "title": "Nagrody Marszałka w dziedzinie kultury: trwa nabór do tego wyróżnienia",
-      "summary": "Do 14 października 2026 r. można składać wnioski o przyznanie nagród Marszałka Województwa Śląskiego za osiągnięcia w dziedzinie twórczości artystycznej, upowszechniania i ochrony dóbr kultury.",
-      "link": "https://www.radio90.pl/nagrody-marszalka-w-dziedzinie-kultury-trwa-nabor-do-tego-wyroznienia.html",
-      "published": "2026-09-26T10:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a484c088113731c1548535d871caebf9361f4cb2",
-      "title": "Remont ulicy Mikołowskiej w Rybniku trwa. Od poniedziałku ruch wahadłowy przeniesie się w inne miejsce tej drogi. Gdzie?",
-      "summary": "Obowiązujący na jednym z jej fragmentów - ruch wahadłowy - pozostanie, ale zostanie przeniesiony w inne miejsce. Od poniedziałku (28.09) drogowcy pracujący przy remoncie ulicy Mikołowskiej w Rybniku przeniosą się w kierunku Rybnika. Kierowcy jeden pas ruchu do dyspozycji będą mieli na odcinku…",
-      "link": "https://www.radio90.pl/remont-ulicy-mikolowskiej-w-rybniku-trwa-od-poniedzialku-ruch-wahadlowy-przeniesie-sie-w-inne-miejsce-tej-drogi-gdzie.html",
-      "published": "2026-09-26T09:10",
+      "id": "346bf49ddd5b6c9ffeb5d01d6888a852bb2f006b",
+      "title": "Zespół Szkół Budowlanych w Rybniku: klasy o profilu technik geodeta zostały objęte patronatem Politechniki Śląskiej",
+      "summary": "Rybnicki Zespół Szkół Budowlanych znalazł się w gronie szkół, z którymi weszła we współpracę gliwicka Politechnika Śląska. Jak przekazali przedstawiciele \"Budowlanki\", w ostatnim czasie podpisano umowę patronacką z uczelnią. Objęte zostały nią klasy o profilu technik geodeta.",
+      "link": "https://www.radio90.pl/zespol-szkol-budowlanych-w-rybniku-klasy-o-profilu-technik-geodeta-zostaly-objete-patronatem-politechniki-slaskiej.html",
+      "published": "2026-09-26T09:28",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -114,11 +89,41 @@
       "priority": "NORMAL"
     },
     {
+      "id": "1f42515303861ab847ad8ac3e4c95d38a16cb167",
+      "title": "Łzy świętowały 30-lecie w Pszowie. Podwójne urodziny i koncert pełen wspomnień [ZDJĘCIA]",
+      "summary": "Około 400 fanów zespołu Łzy pojawiło się w pszowskim Miejskim Ośrodku Kultury, by wspólnie świętować wyjątkowy jubileusz. Grupa obchodzi w tym roku 30-lecie istnienia, a swoje 25. urodziny świętuje także ich fan club.",
+      "link": "https://www.nowiny.pl/wiadomosci/251177-lzy-swietowaly-30-lecie-w-pszowie-podwojne-urodziny-i-koncert-pelen-wspomnien-zdjecia.html",
+      "published": "2026-09-26T08:34",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1e72fc005c233eb2eb3b066dc0f90be3cd85f4ba",
+      "title": "Nagrody Marszałka w dziedzinie kultury: trwa nabór do tego wyróżnienia",
+      "summary": "Do 14 października 2026 r. można składać wnioski o przyznanie nagród Marszałka Województwa Śląskiego za osiągnięcia w dziedzinie twórczości artystycznej, upowszechniania i ochrony dóbr kultury.",
+      "link": "https://www.radio90.pl/nagrody-marszalka-w-dziedzinie-kultury-trwa-nabor-do-tego-wyroznienia.html",
+      "published": "2026-09-26T08:00",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a484c088113731c1548535d871caebf9361f4cb2",
+      "title": "Remont ulicy Mikołowskiej w Rybniku trwa. Od poniedziałku ruch wahadłowy przeniesie się w inne miejsce tej drogi. Gdzie?",
+      "summary": "Obowiązujący na jednym z jej fragmentów - ruch wahadłowy - pozostanie, ale zostanie przeniesiony w inne miejsce. Od poniedziałku (28.09) drogowcy pracujący przy remoncie ulicy Mikołowskiej w Rybniku przeniosą się w kierunku Rybnika. Kierowcy jeden pas ruchu do dyspozycji będą mieli na odcinku…",
+      "link": "https://www.radio90.pl/remont-ulicy-mikolowskiej-w-rybniku-trwa-od-poniedzialku-ruch-wahadlowy-przeniesie-sie-w-inne-miejsce-tej-drogi-gdzie.html",
+      "published": "2026-09-26T07:10",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "9e87d574dde9f5cece0feefbabc2d44c58156c17",
       "title": "„Głosy dla Hospicjum” w Raciborzu. Dobroczynny koncert już 16 października",
       "summary": "Muzyka, pomoc i wsparcie dla osób potrzebujących opieki hospicyjnej. 16 października w Raciborzu odbędzie się dobroczynny koncert „Głosy dla Hospicjum” – informuje redakcję Nowin Hospicjum im. św. Józefa w Raciborzu.",
       "link": "https://www.nowiny.pl/wiadomosci/251143-glosy-dla-hospicjum-w-raciborzu-dobroczynny-koncert-juz-16-pazdziernika.html",
-      "published": "2026-09-26T08:35",
+      "published": "2026-09-26T06:35",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -128,7 +133,7 @@
       "title": "Schronisko w Wodzisławiu prowadzi zbiórkę. Potrzebna jest pomoc na leczenie i karmę",
       "summary": "„Koty, Psy i My – Razem dla tych, którzy czekają” – pod takim hasłem prowadzona jest zbiórka pieniędzy na rzecz zwierząt znajdujących się pod opieką wodzisławskiego schroniska.",
       "link": "https://www.nowiny.pl/wiadomosci/251176-schronisko-w-wodzislawiu-prowadzi-zbiorke-potrzebna-jest-pomoc-na-leczenie-i-karme.html",
-      "published": "2026-09-26T08:30",
+      "published": "2026-09-26T06:30",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -138,7 +143,7 @@
       "title": "Kuchnia Radia 90: aksamitna zupa z dyni z dodatkiem imbiru i soku z pomarańczy",
       "summary": "Wrzesień w kuchni oznacza, że czas na dynię. Dziś u nas rewelacyjny przepis na zupę, w której dynia występuje z zaskakującymi dodatkami: z imbirem i pomarańczą. Panie i panowie, zupa z dyni!",
       "link": "https://www.radio90.pl/kuchnia-radia-90-aksamitna-zupa-z-dyni-z-dodatkiem-imbiru-i-soku-z-pomaranczy.html",
-      "published": "2026-09-26T08:00",
+      "published": "2026-09-26T06:00",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -148,7 +153,7 @@
       "title": "Noc Bibliotek w Raciborzu z historiami Ślązaków na emigracji. Kevin Pyrek opowie o swojej książce",
       "summary": "Miejska i Powiatowa Biblioteka Publiczna im. Ryszarda Kincla w Raciborzu zaprasza na spotkanie autorskie z Kevinem Pyrkiem. Wydarzenie odbędzie się w ramach Nocy Bibliotek w piątek, 16 października, o godz. 18.00 w bibliotece przy ul. Kasprowicza 12.",
       "link": "https://www.nowiny.pl/wiadomosci/251141-noc-bibliotek-w-raciborzu-z-historiami-slazakow-na-emigracji-kevin-pyrek-opowie-o-swojej-ksiazce.html",
-      "published": "2026-09-26T07:30",
+      "published": "2026-09-26T05:30",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -158,26 +163,6 @@
       "title": "Złote Serca rozdane. Wyróżniono osoby zaangażowane w życie gminy Gorzyce [ZDJĘCIA]",
       "summary": "W piątek, 25 września, w Gminnym Centrum Kultury w Gorzycach odbyła się uroczystość wręczenia tegorocznych tytułów „Złote Serce”. Wyróżnienia otrzymały osoby, których działalność na rzecz innych mieszkańców gminy Gorzyce od lat związana była z zaangażowaniem, serdecznością i bezinteresowną pomocą.",
       "link": "https://www.nowiny.pl/wiadomosci/251174-zlote-serca-rozdane-wyrozniono-osoby-zaangazowane-w-zycie-gminy-gorzyce-zdjecia.html",
-      "published": "2026-09-25T22:47",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8597d2a1727e7ee7989274cd06fe706244a9d598",
-      "title": "Muzyka, teatr i taniec. Tak wyglądał niezwykły wieczór podczas OFF-ki W Raciborzu [ZDJĘCIA, WIDEO]",
-      "summary": "Drugi dzień V Ogólnopolskiego Festiwalu Teatralnego OFF-ka w Raciborzu przyniósł publiczności niezwykłe spotkanie z muzyką, teatrem, opowieścią i tradycją. W piątkowy wieczór, 25 września, na scenie Raciborskiego Centrum Kultury zaprezentowano spektakl muzyczny „Rarytas”. Po przedstawieniu…",
-      "link": "https://www.nowiny.pl/wiadomosci/251173-muzyka-teatr-i-taniec-tak-wygladal-niezwykly-wieczor-podczas-off-ki-w-raciborzu-zdjecia-wideo.html",
-      "published": "2026-09-25T21:44",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "bb3d283c571f3913d48236af521b626749a78e06",
-      "title": "„Mandacikiem bym pomachał”. Nestor rady miasta też ma dosyć nowego wysypiska w Ocicach",
-      "summary": "Po tym jak przed wakacjami wątek śmietniska przy nowym centrum handlowym poruszył Dariusz Polowy, we wrześniu zajął się nim sąsiad z dzielnicy - Henryk Mainusz. Podirytowało go, że mijają kolejne miesiące, a nikt nie sprząta odpadów z budowy.",
-      "link": "https://www.nowiny.pl/wiadomosci/251172-mandacikiem-bym-pomachal-nestor-rady-miasta-tez-ma-dosyc-nowego-wysypiska-w-ocicach.html",
       "published": "2026-09-25T20:47",
       "source": "nowiny.pl",
       "category": "Region",
@@ -194,21 +179,21 @@
       "priority": "NORMAL"
     },
     {
-      "id": "c4be09e351c79e0c57add5ce2aaa2405d9ba7ad2",
-      "title": "Ekoprzedszkolak w całym województwie. Dofinansowanie trafiło też do przedszkoli w naszym regionie",
-      "summary": "Były już pieniądz na ekopracownie, na klasy „pod chmurką”, teraz kolejne placówki mogły zdobyć dofinansowanie na zielone miejsca nauki. Tym razem skorzystały przedszkola.",
-      "link": "https://www.radio90.pl/ekoprzedszkolak-w-calym-wojewodztwie-dofinansowanie-trafilo-tez-do-przedszkoli-w-naszym-regionie.html",
-      "published": "2026-09-25T19:20",
-      "source": "Radio 90",
-      "category": "Wiadomości",
+      "id": "8597d2a1727e7ee7989274cd06fe706244a9d598",
+      "title": "Muzyka, teatr i taniec. Tak wyglądał niezwykły wieczór podczas OFF-ki W Raciborzu [ZDJĘCIA, WIDEO]",
+      "summary": "Drugi dzień V Ogólnopolskiego Festiwalu Teatralnego OFF-ka w Raciborzu przyniósł publiczności niezwykłe spotkanie z muzyką, teatrem, opowieścią i tradycją. W piątkowy wieczór, 25 września, na scenie Raciborskiego Centrum Kultury zaprezentowano spektakl muzyczny „Rarytas”. Po przedstawieniu…",
+      "link": "https://www.nowiny.pl/wiadomosci/251173-muzyka-teatr-i-taniec-tak-wygladal-niezwykly-wieczor-podczas-off-ki-w-raciborzu-zdjecia-wideo.html",
+      "published": "2026-09-25T19:44",
+      "source": "nowiny.pl",
+      "category": "Region",
       "priority": "NORMAL"
     },
     {
-      "id": "d6aeacb540f2594d6f19d9b90f1eb80f253891c8",
-      "title": "59 nowych funkcjonariuszy Śląskiego Oddziału Straży Granicznej ślubowało na Zamku w Raciborzu",
-      "summary": "Uroczyste ślubowanie nowych funkcjonariuszy Śląskiego Oddziału SG oraz wręczenie aktów mianowań na pierwszy stopień w korpusie podoficerskim odbyło się 24 września na dziedzińcu Zamku Piastowskiego w Raciborzu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251171-59-nowych-funkcjonariuszy-slaskiego-oddzialu-strazy-granicznej-slubowalo-na-zamku-w-raciborzu.html",
-      "published": "2026-09-25T19:01",
+      "id": "bb3d283c571f3913d48236af521b626749a78e06",
+      "title": "„Mandacikiem bym pomachał”. Nestor rady miasta też ma dosyć nowego wysypiska w Ocicach",
+      "summary": "Po tym jak przed wakacjami wątek śmietniska przy nowym centrum handlowym poruszył Dariusz Polowy, we wrześniu zajął się nim sąsiad z dzielnicy - Henryk Mainusz. Podirytowało go, że mijają kolejne miesiące, a nikt nie sprząta odpadów z budowy.",
+      "link": "https://www.nowiny.pl/wiadomosci/251172-mandacikiem-bym-pomachal-nestor-rady-miasta-tez-ma-dosyc-nowego-wysypiska-w-ocicach.html",
+      "published": "2026-09-25T18:47",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -224,23 +209,23 @@
       "priority": "NORMAL"
     },
     {
-      "id": "e531076061ebfc55be932c2b42742790a6f6f6b8",
-      "title": "Od rannych górników po chirurgię z robotem. Szpital w Jastrzębiu-Zdroju ma 50 lat",
-      "summary": "To nie tylko jubileusz szpitala, ale także ważny fragment historii Jastrzębia-Zdroju. Wojewódzki Szpital Specjalistyczny obchodzi 50-lecie działalności, przypominając o pół wieku leczenia mieszkańców miasta i całego regionu.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251170-od-rannych-gornikow-po-chirurgie-z-robotem-szpital-w-jastrzebiu-zdroju-ma-50-lat.html",
-      "published": "2026-09-25T17:26",
-      "source": "nowiny.pl",
-      "category": "Region",
+      "id": "c4be09e351c79e0c57add5ce2aaa2405d9ba7ad2",
+      "title": "Ekoprzedszkolak w całym województwie. Dofinansowanie trafiło też do przedszkoli w naszym regionie",
+      "summary": "Były już pieniądz na ekopracownie, na klasy „pod chmurką”, teraz kolejne placówki mogły zdobyć dofinansowanie na zielone miejsca nauki. Tym razem skorzystały przedszkola.",
+      "link": "https://www.radio90.pl/ekoprzedszkolak-w-calym-wojewodztwie-dofinansowanie-trafilo-tez-do-przedszkoli-w-naszym-regionie.html",
+      "published": "2026-09-25T17:20",
+      "source": "Radio 90",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
-      "id": "54b2eb2496b11d736fc78f64b5f7b0b894a37f53",
-      "title": "Dzieje się w Rybniku: trwa jubileuszowa OFPA i głosowanie w Budżecie Obywatelskim. W niedzielę spacer na Ignacym",
-      "summary": "Koncerty w ramach Ogólnopolskiego Festiwalu Piosenki Artystycznej. Ciąg dalszy Europejskich Dni Dziedzictwa. Do tego sportowe emocje związane z meczem piłkarzy. Jak co tydzień sporo dzieje się w Rybniku! Jakie wydarzenia zaplanowano na najbliższy weekend od piątku (25.09) do niedzieli (27.09)?",
-      "link": "https://www.radio90.pl/dzieje-sie-w-rybniku-trwa-jubileuszowa-ofpa-i-glosowanie-w-budzecie-obywatelskim-w-niedziele-spacer-na-ignacym.html",
-      "published": "2026-09-25T16:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
+      "id": "d6aeacb540f2594d6f19d9b90f1eb80f253891c8",
+      "title": "59 nowych funkcjonariuszy Śląskiego Oddziału Straży Granicznej ślubowało na Zamku w Raciborzu",
+      "summary": "Uroczyste ślubowanie nowych funkcjonariuszy Śląskiego Oddziału SG oraz wręczenie aktów mianowań na pierwszy stopień w korpusie podoficerskim odbyło się 24 września na dziedzińcu Zamku Piastowskiego w Raciborzu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251171-59-nowych-funkcjonariuszy-slaskiego-oddzialu-strazy-granicznej-slubowalo-na-zamku-w-raciborzu.html",
+      "published": "2026-09-25T17:01",
+      "source": "nowiny.pl",
+      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -254,42 +239,12 @@
       "priority": "NORMAL"
     },
     {
-      "id": "1c764ac8344f0beb92fdb81887ef396ddf90c067",
-      "title": "Projektowanie kolei dla Jastrzębia zakończone, a MZK rozszerzy się o 3 samorządy. Konferencja w jastrzębskim magistracie [WIDEO]",
-      "summary": "Podczas tradycyjnej konferencji prasowej prezydenta Michała Urgoła po sesji rady miasta padła ważna informacja o zakończeniu prac projektowych nad linią kolejową pomiędzy Jastrzębiem-Zdrojem i Żorami. To jeden z tematów, które padły podczas piątkowego spotkania z dziennikarzami.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251161-projektowanie-kolei-dla-jastrzebia-zakonczone-a-mzk-rozszerzy-sie-o-3-samorzady-konferencja-w-jastrzebskim-magistracie-wideo.html",
-      "published": "2026-09-25T16:30",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "cd1523227f5684d6c0b382dedc282390d8260259",
-      "title": "Głośne nazwiska prawicy na Zamku Piastowskim. Konferencja o „energetycznym wariactwie” dla przeciwników Zielonego Ładu UE [ZDJĘCIA][WIDEO]",
-      "summary": "W piątek, 25 września, na Zamku Piastowskim w Raciborzu odbyła się konferencja „Transformacja energetyczna w UE – BILANS”. W pierwszej części spotkania głos zabrali m.in. była premier Beata Szydło oraz europoseł Patryk Jaki, którzy przedstawili krytyczne stanowisko wobec kierunku unijnej polityki…",
-      "link": "https://www.nowiny.pl/wiadomosci/251169-glosne-nazwiska-prawicy-na-zamku-piastowskim-konferencja-o-energetycznym-wariactwie-dla-przeciwnikow-zielonego-ladu-ue-zdjecia-wideo.html",
-      "published": "2026-09-25T16:26",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "58c007a9778e228371cfd8c1cd33e2bc68a6dcf8",
       "title": "Galeria Wiślanka - zakupy i moc rozrywki",
       "summary": "Ponad 80 sklepów i punktów usługowych, jedyne w regionie wielosalowe kino Helios, duża sala zabaw oraz bogata oferta gastronomiczna sprawiają, że Galeria Wiślanka jest miejscem, w którym zakupy łączą się z rozrywką, dobrym jedzeniem i spotkaniami z bliskimi. Wiślanka cały czas się rozwija…",
       "link": "http://www.rybnik.com.pl/wiadomosci,galeria-wislanka-zakupy-i-moc-rozrywki,wia5-3266-66213.html",
       "published": "2026-09-25T16:00",
       "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "53318a6286dab2ec3ea7f9e87c991f51583bb4c6",
-      "title": "Urząd Miasta w Rybniku: w sali sesyjnej zawisł ponad stuletni krzyż. Przez lata wisiał w… sypialni urzędnika, który uratował go w trakcie wojny",
-      "summary": "Ponad stuletni krucyfiks wrócił do reprezentacyjnej sali sesyjnej rybnickiego magistratu. Jego historia jest dość niezwykła, sięga 1922 roku, kiedy ówczesne władze miasta kupiły go i powiesiły w miejskiej kasie.",
-      "link": "https://www.radio90.pl/urzad-miasta-w-rybniku-w-sali-sesyjnej-zawisl-ponad-stuletni-krzyz-przez-lata-wisial-w-sypialni-urzednika-ktory-uratowal-go-w-trakcie-wojny.html",
-      "published": "2026-09-25T15:55",
-      "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -304,21 +259,41 @@
       "priority": "NORMAL"
     },
     {
-      "id": "e3afe6718e50fed94893eef8e3c5d4e7a8b3ed77",
-      "title": "Trwa Europejski Tydzień Urologii. W rybnickim Focusie za darmo można się przebadać. Chętnych jest sporo [ZDJĘCIA]",
-      "summary": "Kolejka na badania urologiczne. W centrum handlowym Focus Park w centrum Rybnika ruszyła akcja bezpłatnych badań i konsultacji.",
-      "link": "https://www.radio90.pl/trwa-europejski-tydzien-urologii-w-rybnickim-focusie-za-darmo-mozna-sie-przebadac-chetnych-jest-sporo-zdjecia.html",
-      "published": "2026-09-25T15:03",
+      "id": "e531076061ebfc55be932c2b42742790a6f6f6b8",
+      "title": "Od rannych górników po chirurgię z robotem. Szpital w Jastrzębiu-Zdroju ma 50 lat",
+      "summary": "To nie tylko jubileusz szpitala, ale także ważny fragment historii Jastrzębia-Zdroju. Wojewódzki Szpital Specjalistyczny obchodzi 50-lecie działalności, przypominając o pół wieku leczenia mieszkańców miasta i całego regionu.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251170-od-rannych-gornikow-po-chirurgie-z-robotem-szpital-w-jastrzebiu-zdroju-ma-50-lat.html",
+      "published": "2026-09-25T15:26",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "54b2eb2496b11d736fc78f64b5f7b0b894a37f53",
+      "title": "Dzieje się w Rybniku: trwa jubileuszowa OFPA i głosowanie w Budżecie Obywatelskim. W niedzielę spacer na Ignacym",
+      "summary": "Koncerty w ramach Ogólnopolskiego Festiwalu Piosenki Artystycznej. Ciąg dalszy Europejskich Dni Dziedzictwa. Do tego sportowe emocje związane z meczem piłkarzy. Jak co tydzień sporo dzieje się w Rybniku! Jakie wydarzenia zaplanowano na najbliższy weekend od piątku (25.09) do niedzieli (27.09)?",
+      "link": "https://www.radio90.pl/dzieje-sie-w-rybniku-trwa-jubileuszowa-ofpa-i-glosowanie-w-budzecie-obywatelskim-w-niedziele-spacer-na-ignacym.html",
+      "published": "2026-09-25T14:40",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
-      "id": "11ac90f7869178d1dc7d2ea3ab494f6e6e4ee80f",
-      "title": "Filmowy początek jesieni w kinach Helios",
-      "summary": "W najbliższych dniach widzowie kin Helios mogą spodziewać się wielu filmowych wrażeń. Na wielkich ekranach pojawi się wyczekiwana polska premiera – „Lalka”, jak też animacja „Luna i rozgadana świnka”. Do kin powróci też kultowy „Avengers: Koniec Gry”, a w repertuarze znajdą się hity ostatnich…",
-      "link": "https://www.nowiny.pl/wiadomosci/251168-filmowy-poczatek-jesieni-w-kinach-helios.html",
+      "id": "1c764ac8344f0beb92fdb81887ef396ddf90c067",
+      "title": "Projektowanie kolei dla Jastrzębia zakończone, a MZK rozszerzy się o 3 samorządy. Konferencja w jastrzębskim magistracie [WIDEO]",
+      "summary": "Podczas tradycyjnej konferencji prasowej prezydenta Michała Urgoła po sesji rady miasta padła ważna informacja o zakończeniu prac projektowych nad linią kolejową pomiędzy Jastrzębiem-Zdrojem i Żorami. To jeden z tematów, które padły podczas piątkowego spotkania z dziennikarzami.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251161-projektowanie-kolei-dla-jastrzebia-zakonczone-a-mzk-rozszerzy-sie-o-3-samorzady-konferencja-w-jastrzebskim-magistracie-wideo.html",
       "published": "2026-09-25T14:30",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "cd1523227f5684d6c0b382dedc282390d8260259",
+      "title": "Głośne nazwiska prawicy na Zamku Piastowskim. Konferencja o „energetycznym wariactwie” dla przeciwników Zielonego Ładu UE [ZDJĘCIA][WIDEO]",
+      "summary": "W piątek, 25 września, na Zamku Piastowskim w Raciborzu odbyła się konferencja „Transformacja energetyczna w UE – BILANS”. W pierwszej części spotkania głos zabrali m.in. była premier Beata Szydło oraz europoseł Patryk Jaki, którzy przedstawili krytyczne stanowisko wobec kierunku unijnej polityki…",
+      "link": "https://www.nowiny.pl/wiadomosci/251169-glosne-nazwiska-prawicy-na-zamku-piastowskim-konferencja-o-energetycznym-wariactwie-dla-przeciwnikow-zielonego-ladu-ue-zdjecia-wideo.html",
+      "published": "2026-09-25T14:26",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -334,11 +309,21 @@
       "priority": "NORMAL"
     },
     {
-      "id": "edbca12b4da494474c9a479544ba6b0ed4a62a4d",
-      "title": "Kolagen dla mężczyzn – co warto wiedzieć o pielęgnacji skóry i włosów od wewnątrz?",
-      "summary": "Kolagen jest jednym z głównych białek budujących skórę, a jego ilość w organizmie zmniejsza się wraz z wiekiem. Na wygląd skóry i włosów wpływa jednak znacznie więcej czynników – m.in. sposób odżywiania, ochrona przed słońcem i codzienna pielęgnacja. Dlatego dbanie o nie od wewnątrz warto zacząć od…",
-      "link": "https://www.radio90.pl/kolagen-dla-mezczyzn-co-warto-wiedziec-o-pielegnacji-skory-i-wlosow-od-wewnatrz.html",
-      "published": "2026-09-25T13:05",
+      "id": "53318a6286dab2ec3ea7f9e87c991f51583bb4c6",
+      "title": "Urząd Miasta w Rybniku: w sali sesyjnej zawisł ponad stuletni krzyż. Przez lata wisiał w… sypialni urzędnika, który uratował go w trakcie wojny",
+      "summary": "Ponad stuletni krucyfiks wrócił do reprezentacyjnej sali sesyjnej rybnickiego magistratu. Jego historia jest dość niezwykła, sięga 1922 roku, kiedy ówczesne władze miasta kupiły go i powiesiły w miejskiej kasie.",
+      "link": "https://www.radio90.pl/urzad-miasta-w-rybniku-w-sali-sesyjnej-zawisl-ponad-stuletni-krzyz-przez-lata-wisial-w-sypialni-urzednika-ktory-uratowal-go-w-trakcie-wojny.html",
+      "published": "2026-09-25T13:55",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e3afe6718e50fed94893eef8e3c5d4e7a8b3ed77",
+      "title": "Trwa Europejski Tydzień Urologii. W rybnickim Focusie za darmo można się przebadać. Chętnych jest sporo [ZDJĘCIA]",
+      "summary": "Kolejka na badania urologiczne. W centrum handlowym Focus Park w centrum Rybnika ruszyła akcja bezpłatnych badań i konsultacji.",
+      "link": "https://www.radio90.pl/trwa-europejski-tydzien-urologii-w-rybnickim-focusie-za-darmo-mozna-sie-przebadac-chetnych-jest-sporo-zdjecia.html",
+      "published": "2026-09-25T13:03",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -354,13 +339,13 @@
       "priority": "NORMAL"
     },
     {
-      "id": "72326ba46eacdf47cdb0ba3926735b6c3bea4b43",
-      "title": "Krajowy System Zarządzania Ruchem: trwają testy tablic na drodze ekspresowej i autostradach",
-      "summary": "Kierowcy podróżujący śląskim odcinkiem drogi ekspresowej S1 mogą od kilku dni zauważyć nietypowe komunikaty na tablicach zmiennej treści. Nie jest to błąd ani nowe ograniczenie obowiązujące na trasie. GDDKiA prowadzi testy Krajowego Systemu Zarządzania Ruchem.",
-      "link": "https://www.radio90.pl/krajowy-system-zarzadzania-ruchem-trwaja-testy-tablic-na-drodze-ekspresowej-i-autostradach.html",
-      "published": "2026-09-25T12:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
+      "id": "11ac90f7869178d1dc7d2ea3ab494f6e6e4ee80f",
+      "title": "Filmowy początek jesieni w kinach Helios",
+      "summary": "W najbliższych dniach widzowie kin Helios mogą spodziewać się wielu filmowych wrażeń. Na wielkich ekranach pojawi się wyczekiwana polska premiera – „Lalka”, jak też animacja „Luna i rozgadana świnka”. Do kin powróci też kultowy „Avengers: Koniec Gry”, a w repertuarze znajdą się hity ostatnich…",
+      "link": "https://www.nowiny.pl/wiadomosci/251168-filmowy-poczatek-jesieni-w-kinach-helios.html",
+      "published": "2026-09-25T12:30",
+      "source": "nowiny.pl",
+      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -394,6 +379,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "edbca12b4da494474c9a479544ba6b0ed4a62a4d",
+      "title": "Kolagen dla mężczyzn – co warto wiedzieć o pielęgnacji skóry i włosów od wewnątrz?",
+      "summary": "Kolagen jest jednym z głównych białek budujących skórę, a jego ilość w organizmie zmniejsza się wraz z wiekiem. Na wygląd skóry i włosów wpływa jednak znacznie więcej czynników – m.in. sposób odżywiania, ochrona przed słońcem i codzienna pielęgnacja. Dlatego dbanie o nie od wewnątrz warto zacząć od…",
+      "link": "https://www.radio90.pl/kolagen-dla-mezczyzn-co-warto-wiedziec-o-pielegnacji-skory-i-wlosow-od-wewnatrz.html",
+      "published": "2026-09-25T11:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "97430273de9b580a9acdf2e91fb1b3d35e9b080e",
       "title": "Używane kompresory jako elastyczne rozwiązanie dla firm",
       "summary": "Używany kompresor może być dobrym i tańszym rozwiązaniem niż zakup nowego sprzętu, szczególnie wtedy, gdy warsztat, gospodarstwo lub zakład produkcyjny potrzebuje dodatkowej wydajności bez angażowania dużego kapitału. Przy wyborze warto patrzeć nie tylko na cenę, ale przede wszystkim na to, czy…",
@@ -410,6 +405,16 @@
       "link": "http://www.rybnik.com.pl/wiadomosci,gpzon-przy-jankowickiej-jednak-nie-zniknie-rada-przyjela-plan-wiceprezydent-decyzje-beda-pozniej,wia5-3266-66226.html",
       "published": "2026-09-25T11:00",
       "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "72326ba46eacdf47cdb0ba3926735b6c3bea4b43",
+      "title": "Krajowy System Zarządzania Ruchem: trwają testy tablic na drodze ekspresowej i autostradach",
+      "summary": "Kierowcy podróżujący śląskim odcinkiem drogi ekspresowej S1 mogą od kilku dni zauważyć nietypowe komunikaty na tablicach zmiennej treści. Nie jest to błąd ani nowe ograniczenie obowiązujące na trasie. GDDKiA prowadzi testy Krajowego Systemu Zarządzania Ruchem.",
+      "link": "https://www.radio90.pl/krajowy-system-zarzadzania-ruchem-trwaja-testy-tablic-na-drodze-ekspresowej-i-autostradach.html",
+      "published": "2026-09-25T10:00",
+      "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -524,16 +529,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "9786a2e206944ec4a958652748af7b8850a598d6",
-      "title": "MKKS Rybnik gromi na inaugurację sezonu",
-      "summary": "To był prawdziwy pogrom. Koszykarze drugoligowego MKKS-u Rybnik wygrali inauguracyjny mecz nowego sezonu różnicą aż 60 punktów!",
-      "link": "https://www.radio90.pl/mkks-rybnik-gromi-na-inauguracje-sezonu.html",
-      "published": "2026-09-24T16:35",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "54c08e8f7e2b639aeae64c6732f3109e8fddef48",
       "title": "Mieszkańcy bloków pytają, kiedy ruszy sezon grzewczy w Rybniku? RSM: to się już dzieje",
       "summary": "Ten tydzień zostanie zapamiętany jako deszczowy i chłodny – zwłaszcza nocą. Otrzymujemy pytania od mieszkańców bloków w Rybniku, kiedy spółdzielnie mieszkaniowe zamierzają rozpocząć sezon grzewczy. Jak dowiadujemy się dzisiaj w RSM – grzanie już się zaczęło, choć jeszcze z różnym skutkiem.",
@@ -554,11 +549,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "93be5ab20a89dbe6cd308cd03f183d92668e61c6",
-      "title": "Zarząd sukcesyjny. Doradca podatkowy radzi",
-      "summary": "Zarząd sukcesyjny to temat kolejnego spotkania z doradcą podatkowym w Radiu 90. Tym razem nasz ekspert, Dariusz Graczyk przybliży temat zarządu sukcesyjnego.",
-      "link": "https://www.radio90.pl/zarzad-sukcesyjny-doradca-podatkowy-radzi.html",
-      "published": "2026-09-24T14:15",
+      "id": "9786a2e206944ec4a958652748af7b8850a598d6",
+      "title": "MKKS Rybnik gromi na inaugurację sezonu",
+      "summary": "To był prawdziwy pogrom. Koszykarze drugoligowego MKKS-u Rybnik wygrali inauguracyjny mecz nowego sezonu różnicą aż 60 punktów!",
+      "link": "https://www.radio90.pl/mkks-rybnik-gromi-na-inauguracje-sezonu.html",
+      "published": "2026-09-24T14:35",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -584,21 +579,11 @@
       "priority": "ALERT"
     },
     {
-      "id": "c147ea44bf9e25864f452e784e8eaa0008cf17dc",
-      "title": "OFPA po raz trzydziesty. Rybnik jesienią brzmi piosenką artystyczną",
-      "summary": "Po raz 30. przyjechali do Rybnika, by zaśpiewać na Ogólnopolskim Festiwalu Piosenki Artystycznej OFPA 2026.",
-      "link": "https://www.radio90.pl/ofpa-po-raz-trzydziesty-rybnik-jesienia-brzmi-piosenka-artystyczna.html",
-      "published": "2026-09-24T13:15",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0031cc7af1701b197ee8c90af6ccfe41b9165388",
-      "title": "Łzy w Radiu 90. To nasza stacja grała ich jako pierwsza",
-      "summary": "\"Pierwsze grało nas Radio 90\" - mówią muzycy zespołu Łzy, który obchodzi właśnie 30-lecie swojej działalności.",
-      "link": "https://www.radio90.pl/lzy-w-radiu-90-to-nasza-stacja-grala-ich-jako-pierwsza.html",
-      "published": "2026-09-24T12:25",
+      "id": "93be5ab20a89dbe6cd308cd03f183d92668e61c6",
+      "title": "Zarząd sukcesyjny. Doradca podatkowy radzi",
+      "summary": "Zarząd sukcesyjny to temat kolejnego spotkania z doradcą podatkowym w Radiu 90. Tym razem nasz ekspert, Dariusz Graczyk przybliży temat zarządu sukcesyjnego.",
+      "link": "https://www.radio90.pl/zarzad-sukcesyjny-doradca-podatkowy-radzi.html",
+      "published": "2026-09-24T12:15",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -624,11 +609,31 @@
       "priority": "NORMAL"
     },
     {
+      "id": "c147ea44bf9e25864f452e784e8eaa0008cf17dc",
+      "title": "OFPA po raz trzydziesty. Rybnik jesienią brzmi piosenką artystyczną",
+      "summary": "Po raz 30. przyjechali do Rybnika, by zaśpiewać na Ogólnopolskim Festiwalu Piosenki Artystycznej OFPA 2026.",
+      "link": "https://www.radio90.pl/ofpa-po-raz-trzydziesty-rybnik-jesienia-brzmi-piosenka-artystyczna.html",
+      "published": "2026-09-24T11:15",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0031cc7af1701b197ee8c90af6ccfe41b9165388",
+      "title": "Łzy w Radiu 90. To nasza stacja grała ich jako pierwsza",
+      "summary": "\"Pierwsze grało nas Radio 90\" - mówią muzycy zespołu Łzy, który obchodzi właśnie 30-lecie swojej działalności.",
+      "link": "https://www.radio90.pl/lzy-w-radiu-90-to-nasza-stacja-grala-ich-jako-pierwsza.html",
+      "published": "2026-09-24T10:25",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "4442dcbdee9ae5053904d181bbef304b6cbbcc10",
       "title": "Jesienna metamorfoza wnętrz dzięki nowoczesnym dodatkom i roślinom",
       "summary": "Kiedy za oknem dni stają się coraz krótsze, a złote liście powoli ustępują miejsca chłodnym, deszczowym popołudniom, nasze mieszkania naturalnie domagają się ciepłej, otulającej metamorfozy. Jesień wcale nie musi oznaczać ponurej stagnacji, lecz może stać się doskonałym pretekstem do odświeżenia…",
       "link": "https://www.radio90.pl/jesienna-metamorfoza-wnetrz-dzieki-nowoczesnym-dodatkom-i-roslinom.html",
-      "published": "2026-09-24T11:05",
+      "published": "2026-09-24T09:05",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -638,7 +643,7 @@
       "title": "Światowy Dzień Morza. Czy można go świętować w Rybniku? Oczywiście!",
       "summary": "24 września- Światowy Dzień Morza. Nad nasz Bałtyk mamy ponad 600 kilometrów, bardzo blisko jest jednak inne \"morze\"- Rybnickie Morze - tak często określa się Zalew Rybnicki.",
       "link": "https://www.radio90.pl/swiatowy-dzien-morza-czy-mozna-go-swietowac-w-rybniku-oczywiscie.html",
-      "published": "2026-09-24T10:20",
+      "published": "2026-09-24T08:20",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -648,7 +653,7 @@
       "title": "Znakowanie drzew w regionie. To akcja TreeTag. Także w Rybniku",
       "summary": "Chcą pokazać, jak ważne są dla nas drzewa. Rybnik po raz drugi włączył się do akcji #EUTreeTag. W całej Europie ponad tysiąc drzew zostało oznaczonych specjalnymi etykietami-plakatami TreeTag.",
       "link": "https://www.radio90.pl/znakowanie-drzew-w-regionie-to-akcja-treetag-takze-w-rybniku.html",
-      "published": "2026-09-24T09:40",
+      "published": "2026-09-24T07:40",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -658,17 +663,7 @@
       "title": "Najnowsze dane ze śląskich dróg. Policja podsumowała dobę",
       "summary": "Do 134 zdarzeń doszło wczoraj (23.09) na trasach regionu. Jak podała właśnie śląska drogówka, w wypadkach rannych zostało 8 osób.",
       "link": "https://www.radio90.pl/najnowsze-dane-ze-slaskich-drog-policja-podsumowala-dobe.html",
-      "published": "2026-09-24T08:43",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "cbd6a5f65e962ee37134bf04e55f6b2a7021e013",
-      "title": "Przekształcenie spółki komandytowej w spółkę z o.o. – zasady, etapy i koszty",
-      "summary": "Przekształcenie spółki komandytowej w spółkę z ograniczoną odpowiedzialnością jest częstym kierunkiem reorganizacji działalności. Pozwala zachować ciągłość przedsiębiorstwa i przejść na model spółki kapitałowej – z osobowością prawną, kapitałem zakładowym i zarządem. Decyzja powinna jednak wynikać…",
-      "link": "https://www.radio90.pl/przeksztalcenie-spolki-komandytowej-w-spolke-z-o-o-zasady-etapy-i-koszty.html",
-      "published": "2026-09-24T00:05",
+      "published": "2026-09-24T06:43",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -744,11 +739,21 @@
       "priority": "NORMAL"
     },
     {
+      "id": "cbd6a5f65e962ee37134bf04e55f6b2a7021e013",
+      "title": "Przekształcenie spółki komandytowej w spółkę z o.o. – zasady, etapy i koszty",
+      "summary": "Przekształcenie spółki komandytowej w spółkę z ograniczoną odpowiedzialnością jest częstym kierunkiem reorganizacji działalności. Pozwala zachować ciągłość przedsiębiorstwa i przejść na model spółki kapitałowej – z osobowością prawną, kapitałem zakładowym i zarządem. Decyzja powinna jednak wynikać…",
+      "link": "https://www.radio90.pl/przeksztalcenie-spolki-komandytowej-w-spolke-z-o-o-zasady-etapy-i-koszty.html",
+      "published": "2026-09-23T22:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "f1cf793f88671236b9d6de052b66caaa2f1ea231",
       "title": "Rybki Rybnik będą świętować jubileusz 25-lecia. Potrzebna jest jednak pomoc przy organizacji zawodów",
       "summary": "Rybki Rybnik potrzebują wsparcia przy okazji organizowanego przez klub jubileuszu 25-lecia jego istnienia. Jak informują przedstawiciele klubu, poszukiwanych jest kilka osób, które będą pełnić rolę funkcyjnych. - Przed i w trakcie zawodów - wskazują w klubie, dodając, że do zadań osób funkcyjnych…",
       "link": "https://www.radio90.pl/rybki-rybnik-beda-swietowac-jubileusz-25-lecia-potrzebna-jest-jednak-pomoc-przy-organizacji-zawodow.html",
-      "published": "2026-09-23T20:00",
+      "published": "2026-09-23T18:00",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -758,7 +763,7 @@
       "title": "Piknik górniczy w Czernicy. Wszystko z okazji 220. rocznicy powstania kopalni Charlotte [WIDEO]",
       "summary": "\"Czernica Szkicowana Węglem od 1797 roku\". To hasło pikniku szykowanego na piątek (25.09) w Ośrodku Kultury Zameczek w Czernicy.",
       "link": "https://www.radio90.pl/piknik-gorniczy-w-czernicy-wszystko-z-okazji-220-rocznicy-powstania-kopalni-charlotte-wideo.html",
-      "published": "2026-09-23T19:20",
+      "published": "2026-09-23T17:20",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -768,7 +773,7 @@
       "title": "Azyl w Rybniku: Kolejne zwierzęta zostały z niego odebrane. Dwie małpy trafiły do specjalistycznego ośrodka",
       "summary": "Kapucynka i makak - dwie małpy zostały odebrane rybniczanom. Rybnicka prokuratura zrobiła kolejny krok w głośnej sprawie z marca tego roku, kiedy to śledczy z nielegalnego azylu odebrali między innymi lemura, nutrie i sowę śnieżną.",
       "link": "https://www.radio90.pl/azyl-w-rybniku-kolejne-zwierzeta-zostaly-z-niego-odebrane-dwie-malpy-trafily-do-specjalistycznego-osrodka.html",
-      "published": "2026-09-23T19:00",
+      "published": "2026-09-23T17:00",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -778,7 +783,7 @@
       "title": "Koniec utrudnień. Przejazdy kolejowe w Czerwionce znowu są przejezdne. Zyskały nowe szyny, nowe płyty przejazdowe",
       "summary": "Przejazdy kolejowe w Czerwionce-Leszczynach w końcu przejezdne. Z kilkudniowym poślizgiem udało się je oddać do użytku i przeprowadzić część prac na torach. Co do tej pory zrobiono i co jeszcze w planach?",
       "link": "https://www.radio90.pl/koniec-utrudnien-przejazdy-kolejowe-w-czerwionce-znowu-sa-przejezdne-zyskaly-nowe-szyny-nowe-plyty-przejazdowe.html",
-      "published": "2026-09-23T17:20",
+      "published": "2026-09-23T15:20",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -788,7 +793,7 @@
       "title": "Jesień w kalendarzu, jesień za oknem. Lubicie tę porę roku? [SONDA]",
       "summary": "Koniec lata, w kalendarzach 23 września a to oznacza, że nadeszła jesień, i ta astronomiczna i kalendarzowa. Co wy na to?",
       "link": "https://www.radio90.pl/jesien-w-kalendarzu-jesien-za-oknem-lubicie-te-pore-roku-sonda.html",
-      "published": "2026-09-23T15:20",
+      "published": "2026-09-23T13:20",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -798,7 +803,7 @@
       "title": "Raciborska w Rydułtowach: trwa przebudowa trasy, jest wahadło, są utrudnienia [ZDJĘCIA]",
       "summary": "O pracach i utrudnieniach na ulicy Raciborskiej informują nasi słuchacze. Posyłają też zdjęcia.",
       "link": "https://www.radio90.pl/raciborska-w-rydultowach-trwa-przebudowa-trasy-jest-wahadlo-sa-utrudnienia-zdjecia.html",
-      "published": "2026-09-23T15:05",
+      "published": "2026-09-23T13:05",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "ALERT"
@@ -808,7 +813,7 @@
       "title": "MKKS Rybnik rozpoczyna sezon. Dziś mecz rybnickich koszykarzy z Siarką Tarnobrzeg. Pod wodzą nowego trenera",
       "summary": "To już dzisiaj (23.09) - rozgrywki nowego sezonu rozpoczynają koszykarze drugoligowego MKKS-u Rybnik. Na ławce trenerskiej nowy szkoleniowiec, w składzie nowi gracze.",
       "link": "https://www.radio90.pl/mkks-rybnik-rozpoczyna-sezon-dzis-mecz-rybnickich-koszykarzy-z-siarka-tarnobrzeg-pod-wodza-nowego-trenera.html",
-      "published": "2026-09-23T12:40",
+      "published": "2026-09-23T10:40",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -1138,7 +1143,7 @@
       "title": "Czy duże przeszklenia bez strat ciepła są możliwe? Poznaj systemy przesuwne PVC od Kapica",
       "summary": "Duże przeszklenia tarasowe bez strat ciepła są w pełni możliwe do realizacji. Kluczem do sukcesu jest zastosowanie zaawansowanych profili wielokomorowych PVC oraz pakietów trzyszybowych. Nowoczesne",
       "link": "https://turybnik.pl/czy-duze-przeszklenia-bez-strat-ciepla-sa-mozliwe-poznaj-systemy-przesuwne-pvc-od-kapica",
-      "published": "2026-07-27T13:19",
+      "published": "2026-07-27T11:19",
       "source": "tuRybnik.pl",
       "category": "Dom i Ogród",
       "priority": "NORMAL"
@@ -1148,7 +1153,7 @@
       "title": "Jak nowocześnie kupować beton i kruszywa?",
       "summary": "Jeszcze niedawno zakup betonu albo kruszywa kojarzył się głównie z telefonami, czekaniem na transport i zamawianiem większych ilości, niż naprawdę były potrzebne. Dziś może",
       "link": "https://turybnik.pl/jak-nowoczesnie-kupowac-beton-i-kruszywa",
-      "published": "2026-07-24T11:23",
+      "published": "2026-07-24T09:23",
       "source": "tuRybnik.pl",
       "category": "Lifestyle",
       "priority": "NORMAL"
@@ -1158,7 +1163,7 @@
       "title": "Integracja systemu produkcyjnego z ERP – checklista przed wdrożeniem w zakładzie przemysłowym",
       "summary": "Integracja systemu produkcyjnego z ERP łączy technologię operacyjną (OT) z warstwą IT, dzięki czemu dane krążą między halą a biurem w czasie rzeczywistym. Pozwala to",
       "link": "https://turybnik.pl/integracja-systemu-produkcyjnego-z-erp-checklista-przed-wdrozeniem-w-zakladzie-przemyslowym",
-      "published": "2026-07-22T10:29",
+      "published": "2026-07-22T08:29",
       "source": "tuRybnik.pl",
       "category": "Biznes i Praca",
       "priority": "NORMAL"
@@ -1178,7 +1183,7 @@
       "title": "Drzewce i podstawy – kluczowe elementy każdego sztandaru",
       "summary": "Sztandar to jeden z najbardziej reprezentacyjnych symboli szkoły, jednostki, organizacji, stowarzyszenia, firmy czy instytucji publicznej. Najczęściej uwagę przyciąga jego haftowana płachta – godło, herb, nazwa,",
       "link": "https://turybnik.pl/drzewce-i-podstawy-kluczowe-elementy-kazdego-sztandaru",
-      "published": "2026-05-11T10:57",
+      "published": "2026-05-11T08:57",
       "source": "tuRybnik.pl",
       "category": "Dom i Ogród",
       "priority": "NORMAL"
@@ -1188,7 +1193,7 @@
       "title": "Wiosenny przegląd motocykla – 10 rzeczy, które musisz sprawdzić przed pierwszą jazdą",
       "summary": "Bezpieczna jazda motocyklem to coś więcej niż pasja – to przede wszystkim odpowiedzialność i regularna konserwacja. Ten przewodnik krok po kroku wyjaśnia, jak zadbać o",
       "link": "https://turybnik.pl/wiosenny-przeglad-motocykla-10-rzeczy-ktore-musisz-sprawdzic-przed-pierwsza-jazda",
-      "published": "2026-02-23T09:28",
+      "published": "2026-02-23T08:28",
       "source": "tuRybnik.pl",
       "category": "Motoryzacja",
       "priority": "NORMAL"
@@ -1198,7 +1203,7 @@
       "title": "Jak dopasować wzór CV do oferty pracy?",
       "summary": "Czy jeden wzór CV pasuje do każdej oferty pracy? Zdecydowanie nie! Tak jak nie ubierasz się w to samo na rozmowę o pracę i na",
       "link": "https://turybnik.pl/jak-dopasowac-wzor-cv-do-oferty-pracy",
-      "published": "2025-11-03T10:06",
+      "published": "2025-11-03T09:06",
       "source": "tuRybnik.pl",
       "category": "Biznes i Praca",
       "priority": "NORMAL"
