@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T16:25:32",
+  "generated_at": "2026-09-26T21:12:46",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,66 @@
     }
   ],
   "items": [
+    {
+      "id": "a3d4ec1a1919353e404694df899959cff2e266de",
+      "title": "GDDKiA podała termin ustawienia świateł na skrzyżowaniu Głubczycka-Starowiejska-Cegielniana",
+      "summary": "Wskazywane od lat jako problematyczne, z wciąż rosnącym natężeniem ruchu skrzyżowanie przy mleczarni w Raciborzu ma zyskać sygnalizację świetlną. Zarządzająca drogą krajową nr 45 Generalna Dyrekcja Dróg Krajowych i Autostrad poinformowała o planowanej dacie instalacji świateł w tym miejscu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251184-gddkia-podala-termin-ustawienia-swiatel-na-skrzyzowaniu-glubczycka-starowiejska-cegielniana.html",
+      "published": "2026-09-26T20:34",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "38365b89786f5ab3df4ba02be52a80299c38d2da",
+      "title": "Koty umierają w krzakach, można temu zapobiec",
+      "summary": "Stowarzyszenie Koty Sieroty prowadzi internetową zbiórkę na portalu Ratujemy Zwierzaki. Cel jest prosty i jednocześnie absolutnie kluczowy: pozyskać środki na kastracje wolno żyjących kotów, zanim pojawią się kolejne mioty, których nikt nie chce, nikt nie adoptuje, a które w większości nie przeżyją…",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251183-koty-umieraja-w-krzakach-mozna-temu-zapobiec.html",
+      "published": "2026-09-26T20:17",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "aeb8c25ef54a03853897ba051b5e49b969113c5a",
+      "title": "Kiedy stary szpital w Raciborzu zmieni się w ośrodek kuratorski sądu rejonowego?",
+      "summary": "Do resortu sprawiedliwości trafiło zapytanie o realizację inwestycji prowadzonej przy ul. Bema 5 w Raciborzu. Chodzi o utworzenie siedziby Ośrodka Kuratorskiego przy Sądzie Rejonowym w Raciborzu. Pod tym adresem miałby się także ulokować Opiniodawczy Zespół Specjalistów Sądowych oraz archiwum dla…",
+      "link": "https://www.nowiny.pl/wiadomosci/251182-kiedy-stary-szpital-w-raciborzu-zmieni-sie-w-osrodek-kuratorski-sadu-rejonowego.html",
+      "published": "2026-09-26T19:47",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "24511325cb92d527dc8a3e248db1be509e7753f3",
+      "title": "ROW Rybnik wygrywa ze Stalą Brzeg. Mimo wysokiego prowadzenia, końcówka nie była spokojna…",
+      "summary": "Na przerwę schodzili z trzema bramkami przewagi (3:0). Tuż po zmianie stron dołożyli czwartego gola i wydawać się mogło, że piłkarze ROW-u Rybnik w rozgrywanym w sobotę (26.09) domowym starciu ze Stalą Brzeg bez problemu zainkasują trzy oczka. Ostatecznie punkty zostały w Rybniku, lecz rywale…",
+      "link": "https://www.radio90.pl/row-rybnik-wygrywa-ze-stala-brzeg-mimo-wysokiego-prowadzenia-koncowka-nie-byla-spokojna.html",
+      "published": "2026-09-26T18:36",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "670ff707bf670126cd98777bc37647c140ddbba7",
+      "title": "„Pauza u Glinki” przyciągnęła kierowców i miłośników motoryzacji. W niedzielę ostatni dzień imprezy [ZDJĘCIA]",
+      "summary": "Teren wydarzenia „Pauza u Glinki” w Mszanie wypełnił się ciężarówkami, samochodami, motocyklami, pojazdami zabytkowymi, maszynami rolniczymi i sprzętem budowlanym. Spotkanie przyciągnęło kierowców, pasjonatów motoryzacji, rodziny oraz przedstawicieli firm związanych z transportem.",
+      "link": "https://www.nowiny.pl/wiadomosci/251181-pauza-u-glinki-przyciagnela-kierowcow-i-milosnikow-motoryzacji-w-niedziele-ostatni-dzien-imprezy-zdjecia.html",
+      "published": "2026-09-26T18:32",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a49f2b5378026d1bbcb7544d2bc9b5bd732b8d6c",
+      "title": "Prawdziwa historia, która trafiła na scenę. „Zły” w Raciborzu 2026 [ZDJĘCIA, WIDEO]",
+      "summary": "W sobotnie popołudnie, 26 września, na scenie Raciborskiego Centrum Kultury pojawiła się Scena InVitro z Lublina ze spektaklem „Zły” w reżyserii Łukasza Witta-Michałowskiego. Przedstawienie było oparte na niezwykłej, osobistej historii Dariusza Jeża – człowieka, który po latach związanych z…",
+      "link": "https://www.nowiny.pl/wiadomosci/251180-prawdziwa-historia-ktora-trafila-na-scene-zly-w-raciborzu-2026-zdjecia-wideo.html",
+      "published": "2026-09-26T17:48",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "e388843b45cd8960b2ac5cfe0172bcaed671091c",
       "title": "„Greenwashing” czyli „ekościema”. Zmiany w prawie mają pomóc konsumentom",
@@ -229,16 +289,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "d6aeacb540f2594d6f19d9b90f1eb80f253891c8",
-      "title": "59 nowych funkcjonariuszy Śląskiego Oddziału Straży Granicznej ślubowało na Zamku w Raciborzu",
-      "summary": "Uroczyste ślubowanie nowych funkcjonariuszy Śląskiego Oddziału SG oraz wręczenie aktów mianowań na pierwszy stopień w korpusie podoficerskim odbyło się 24 września na dziedzińcu Zamku Piastowskiego w Raciborzu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251171-59-nowych-funkcjonariuszy-slaskiego-oddzialu-strazy-granicznej-slubowalo-na-zamku-w-raciborzu.html",
-      "published": "2026-09-25T17:01",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a1e8e527a69369e2e59e1676a4fd015debce7ad2",
       "title": "„Czy żadnych Polaków nie było?”. Radni spierali się o pomnik Hermanna Müllera w Rybniku",
       "summary": "Hermann Müller, przedsiębiorca, właściciel rybnickiego browaru i wieloletni radny, zostanie upamiętniony pełnoplastycznym posągiem przed dawną słodownią. Rada Miasta Rybnika wyraziła wczoraj (24 września) na to zgodę, ale głosowanie poprzedziła długa dyskusja. Część radnych pytała, czy Rybnik…",
@@ -269,16 +319,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "e531076061ebfc55be932c2b42742790a6f6f6b8",
-      "title": "Od rannych górników po chirurgię z robotem. Szpital w Jastrzębiu-Zdroju ma 50 lat",
-      "summary": "To nie tylko jubileusz szpitala, ale także ważny fragment historii Jastrzębia-Zdroju. Wojewódzki Szpital Specjalistyczny obchodzi 50-lecie działalności, przypominając o pół wieku leczenia mieszkańców miasta i całego regionu.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251170-od-rannych-gornikow-po-chirurgie-z-robotem-szpital-w-jastrzebiu-zdroju-ma-50-lat.html",
-      "published": "2026-09-25T15:26",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "54b2eb2496b11d736fc78f64b5f7b0b894a37f53",
       "title": "Dzieje się w Rybniku: trwa jubileuszowa OFPA i głosowanie w Budżecie Obywatelskim. W niedzielę spacer na Ignacym",
       "summary": "Koncerty w ramach Ogólnopolskiego Festiwalu Piosenki Artystycznej. Ciąg dalszy Europejskich Dni Dziedzictwa. Do tego sportowe emocje związane z meczem piłkarzy. Jak co tydzień sporo dzieje się w Rybniku! Jakie wydarzenia zaplanowano na najbliższy weekend od piątku (25.09) do niedzieli (27.09)?",
@@ -286,26 +326,6 @@
       "published": "2026-09-25T14:40",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "1c764ac8344f0beb92fdb81887ef396ddf90c067",
-      "title": "Projektowanie kolei dla Jastrzębia zakończone, a MZK rozszerzy się o 3 samorządy. Konferencja w jastrzębskim magistracie [WIDEO]",
-      "summary": "Podczas tradycyjnej konferencji prasowej prezydenta Michała Urgoła po sesji rady miasta padła ważna informacja o zakończeniu prac projektowych nad linią kolejową pomiędzy Jastrzębiem-Zdrojem i Żorami. To jeden z tematów, które padły podczas piątkowego spotkania z dziennikarzami.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251161-projektowanie-kolei-dla-jastrzebia-zakonczone-a-mzk-rozszerzy-sie-o-3-samorzady-konferencja-w-jastrzebskim-magistracie-wideo.html",
-      "published": "2026-09-25T14:30",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "cd1523227f5684d6c0b382dedc282390d8260259",
-      "title": "Głośne nazwiska prawicy na Zamku Piastowskim. Konferencja o „energetycznym wariactwie” dla przeciwników Zielonego Ładu UE [ZDJĘCIA][WIDEO]",
-      "summary": "W piątek, 25 września, na Zamku Piastowskim w Raciborzu odbyła się konferencja „Transformacja energetyczna w UE – BILANS”. W pierwszej części spotkania głos zabrali m.in. była premier Beata Szydło oraz europoseł Patryk Jaki, którzy przedstawili krytyczne stanowisko wobec kierunku unijnej polityki…",
-      "link": "https://www.nowiny.pl/wiadomosci/251169-glosne-nazwiska-prawicy-na-zamku-piastowskim-konferencja-o-energetycznym-wariactwie-dla-przeciwnikow-zielonego-ladu-ue-zdjecia-wideo.html",
-      "published": "2026-09-25T14:26",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -346,16 +366,6 @@
       "published": "2026-09-25T13:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "11ac90f7869178d1dc7d2ea3ab494f6e6e4ee80f",
-      "title": "Filmowy początek jesieni w kinach Helios",
-      "summary": "W najbliższych dniach widzowie kin Helios mogą spodziewać się wielu filmowych wrażeń. Na wielkich ekranach pojawi się wyczekiwana polska premiera – „Lalka”, jak też animacja „Luna i rozgadana świnka”. Do kin powróci też kultowy „Avengers: Koniec Gry”, a w repertuarze znajdą się hity ostatnich…",
-      "link": "https://www.nowiny.pl/wiadomosci/251168-filmowy-poczatek-jesieni-w-kinach-helios.html",
-      "published": "2026-09-25T12:30",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -807,16 +817,6 @@
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "ALERT"
-    },
-    {
-      "id": "436a67f54b008536f2b2a925751a035e49064398",
-      "title": "MKKS Rybnik rozpoczyna sezon. Dziś mecz rybnickich koszykarzy z Siarką Tarnobrzeg. Pod wodzą nowego trenera",
-      "summary": "To już dzisiaj (23.09) - rozgrywki nowego sezonu rozpoczynają koszykarze drugoligowego MKKS-u Rybnik. Na ławce trenerskiej nowy szkoleniowiec, w składzie nowi gracze.",
-      "link": "https://www.radio90.pl/mkks-rybnik-rozpoczyna-sezon-dzis-mecz-rybnickich-koszykarzy-z-siarka-tarnobrzeg-pod-wodza-nowego-trenera.html",
-      "published": "2026-09-23T10:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
     },
     {
       "id": "b2748eaf7ec99e67297a10e95738e2a218c2121c",
