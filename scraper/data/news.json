@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T17:00:12",
+  "generated_at": "2026-09-27T21:23:00",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,46 @@
     }
   ],
   "items": [
+    {
+      "id": "b7cb60c7d5059cb8f4231c0fb05f5c33a63c55b6",
+      "title": "Rowery, kajaki, konie i ognisko. W Jastrzębiu może być ciekawie [ZDJĘCIA]",
+      "summary": "Były kajaki na Szotkówce, rajd rowerowy, przejażdżki konne, konkurs historyczny i wspólne ognisko. Mieszkańcy Jastrzębia-Zdroju aktywnie uczcili Światowy Dzień Turystyki, biorąc udział w wydarzeniu zorganizowanym przez Fundację Wodna Pasja we współpracy z Miastem Jastrzębie-Zdrój.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251195-rowery-kajaki-konie-i-ognisko-w-jastrzebiu-moze-byc-ciekawie-zdjecia.html",
+      "published": "2026-09-27T20:03",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7bb63b3b3ec2604e72de7f94e4c41b6bfd19ec53",
+      "title": "Odnowiony pomnik św. Jana Nepomucena poświęcony w Bluszczowie [ZDJĘCIA]",
+      "summary": "W niedzielne popołudnie, 27 września, w Bluszczowie odbyło się uroczyste poświęcenie odnowionego pomnika św. Jana Nepomucena. Była to okazja do wspólnej modlitwy, spotkania mieszkańców oraz przypomnienia o lokalnej historii.",
+      "link": "https://www.nowiny.pl/wiadomosci/251194-odnowiony-pomnik-sw-jana-nepomucena-poswiecony-w-bluszczowie-zdjecia.html",
+      "published": "2026-09-27T19:04",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b64cdad5f11bef7df5f91fa55926bc6b31160371",
+      "title": "Zasłonił kolegę własnym ciałem. Lekarz z Jastrzębia odznaczony przez Prezydenta RP",
+      "summary": "To był jeden z najbardziej poruszających momentów obchodów 50-lecia Wojewódzkiego Szpitala Specjalistycznego nr 2 w Jastrzębiu-Zdroju. Dr Wiesław Folwarczny odebrał Medal za Ofiarność i Odwagę, przyznany przez Prezydenta RP Karola Nawrockiego.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251193-zaslonil-kolege-wlasnym-cialem-lekarz-z-jastrzebia-odznaczony-przez-prezydenta-rp.html",
+      "published": "2026-09-27T18:28",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ed3cb06413406afb70dd9064cc1e19943dcec8b5",
+      "title": "Turze ma swój kościół od 125 lat. Zanim powstał, mieszkańcy przeprawiali się przez Odrę. Jedna z tych przepraw zakończyła się tragedią, zginęły 43 osoby [ZDJĘCIA]",
+      "summary": "Turze (gm. Kuźnia Raciborska) świętuje 125. rocznicę poświęcenia kościoła pw. Najświętszego Serca Pana Jezusa . Zanim jednak mieszkańcy doczekali się własnej świątyni, przez lata musieli przeprawiać się przez Odrę, by dotrzeć do kościoła w Sławikowie. Jedna z takich przepraw zakończyła się…",
+      "link": "https://www.nowiny.pl/wiadomosci/251192-turze-ma-swoj-kosciol-od-125-lat-zanim-powstal-mieszkancy-przeprawiali-sie-przez-odre-jedna-z-tych-przepraw-zakonczyla-sie-tragedia-zginely-43-osoby-zdjecia.html",
+      "published": "2026-09-27T17:22",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "09f1bd02a7dbec08b8c1f114a705426d821c7635",
       "title": "Trwa rozbudowa ul. Grota-Roweckiego w Rybniku. Kanalizacja deszczowa już gotowa, teraz prace brukarskie [ZDJĘCIA]",
@@ -39,10 +79,10 @@
       "priority": "NORMAL"
     },
     {
-      "id": "66ea5942ab21b8ff5e211711ab1fc1bac63a3645",
+      "id": "695b746e206611e4830488ab3db70721e9b60bc2",
       "title": "Jarmark staroci w Pszowie. Przyjechali pasjonaci i wystawcy z całego regionu [ZDJĘCIA]",
       "summary": "W niedzielę, 27 września w Pszowie odbył się kolejny jarmark staroci i rękodzieła. Wydarzenie zorganizowało stowarzyszenie Razem dla Śląska.",
-      "link": "https://www.nowiny.pl/wiadomosci/251190-jarmark-staroci-w-pszowie-przyjechali-pasjonaci-i-wystawcy-z-calego-regionu-zdjecia.html",
+      "link": "https://ezory.pl/wiadomosci/251190-jarmark-staroci-w-pszowie-przyjechali-pasjonaci-i-wystawcy-z-calego-regionu-zdjecia.html",
       "published": "2026-09-27T11:48",
       "source": "nowiny.pl",
       "category": "Region",
@@ -169,26 +209,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "38365b89786f5ab3df4ba02be52a80299c38d2da",
-      "title": "Koty umierają w krzakach, można temu zapobiec",
-      "summary": "Stowarzyszenie Koty Sieroty prowadzi internetową zbiórkę na portalu Ratujemy Zwierzaki. Cel jest prosty i jednocześnie absolutnie kluczowy: pozyskać środki na kastracje wolno żyjących kotów, zanim pojawią się kolejne mioty, których nikt nie chce, nikt nie adoptuje, a które w większości nie przeżyją…",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251183-koty-umieraja-w-krzakach-mozna-temu-zapobiec.html",
-      "published": "2026-09-26T20:17",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "aeb8c25ef54a03853897ba051b5e49b969113c5a",
-      "title": "Kiedy stary szpital w Raciborzu zmieni się w ośrodek kuratorski sądu rejonowego?",
-      "summary": "Do resortu sprawiedliwości trafiło zapytanie o realizację inwestycji prowadzonej przy ul. Bema 5 w Raciborzu. Chodzi o utworzenie siedziby Ośrodka Kuratorskiego przy Sądzie Rejonowym w Raciborzu. Pod tym adresem miałby się także ulokować Opiniodawczy Zespół Specjalistów Sądowych oraz archiwum dla…",
-      "link": "https://www.nowiny.pl/wiadomosci/251182-kiedy-stary-szpital-w-raciborzu-zmieni-sie-w-osrodek-kuratorski-sadu-rejonowego.html",
-      "published": "2026-09-26T19:47",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "24511325cb92d527dc8a3e248db1be509e7753f3",
       "title": "ROW Rybnik wygrywa ze Stalą Brzeg. Mimo wysokiego prowadzenia, końcówka nie była spokojna…",
       "summary": "Na przerwę schodzili z trzema bramkami przewagi (3:0). Tuż po zmianie stron dołożyli czwartego gola i wydawać się mogło, że piłkarze ROW-u Rybnik w rozgrywanym w sobotę (26.09) domowym starciu ze Stalą Brzeg bez problemu zainkasują trzy oczka. Ostatecznie punkty zostały w Rybniku, lecz rywale…",
@@ -196,26 +216,6 @@
       "published": "2026-09-26T18:36",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "670ff707bf670126cd98777bc37647c140ddbba7",
-      "title": "„Pauza u Glinki” przyciągnęła kierowców i miłośników motoryzacji. W niedzielę ostatni dzień imprezy [ZDJĘCIA]",
-      "summary": "Teren wydarzenia „Pauza u Glinki” w Mszanie wypełnił się ciężarówkami, samochodami, motocyklami, pojazdami zabytkowymi, maszynami rolniczymi i sprzętem budowlanym. Spotkanie przyciągnęło kierowców, pasjonatów motoryzacji, rodziny oraz przedstawicieli firm związanych z transportem.",
-      "link": "https://www.nowiny.pl/wiadomosci/251181-pauza-u-glinki-przyciagnela-kierowcow-i-milosnikow-motoryzacji-w-niedziele-ostatni-dzien-imprezy-zdjecia.html",
-      "published": "2026-09-26T18:32",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a49f2b5378026d1bbcb7544d2bc9b5bd732b8d6c",
-      "title": "Prawdziwa historia, która trafiła na scenę. „Zły” w Raciborzu 2026 [ZDJĘCIA, WIDEO]",
-      "summary": "W sobotnie popołudnie, 26 września, na scenie Raciborskiego Centrum Kultury pojawiła się Scena InVitro z Lublina ze spektaklem „Zły” w reżyserii Łukasza Witta-Michałowskiego. Przedstawienie było oparte na niezwykłej, osobistej historii Dariusza Jeża – człowieka, który po latach związanych z…",
-      "link": "https://www.nowiny.pl/wiadomosci/251180-prawdziwa-historia-ktora-trafila-na-scene-zly-w-raciborzu-2026-zdjecia-wideo.html",
-      "published": "2026-09-26T17:48",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {

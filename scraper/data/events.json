@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T16:58:35",
+  "generated_at": "2026-09-27T21:21:30",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,31 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 150,
+  "count": 148,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-kawa-z-psychoterapeuta",
-      "title": "Kawa z psychoterapeutą",
-      "category": "Warsztaty",
-      "start": "2026-09-27T15:00",
-      "end": null,
-      "venue": "Halo! Rybnik",
-      "description": "W halo! Rybnik odbędzie się edukacyjno-konsultacyjne spotkanie w nieformalnej atmosferze. Uczestnicy będą mogli porozmawiać z terapeutą i zadać pytania dotyczące psychoterapii oraz tematów związanych ze zdrowiem psychicznym. Spotkanie będzie miało formę edukacyjno-konsultacyjną. Jego uczestnicy będą mogli w swobodnej atmosferze zadawać pytania terapeucie i uzyskać odpowiedzi na interesujące ich kwestie. Wydarzenie poprowadzi Katarzyna Bluszcz (Kadłubka15) . Spotkanie zostało zaplanowane jako okazja do rozmowy i zdobycia wiedzy w bezpośrednim kontakcie ze specjalistką. Wrzesień w Rybniku nabiera tempa - sześć spotkań i warsztatów",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/kawa-z-psychoterapeuta"
-    },
-    {
-      "id": "tzr-koncert-laureatow-30ofpa-i-koncert-galowy-w-wykonaniu-andrzeja-piasecznego-z-zespolem-i-goscinnym-udzialem-kasi-wilk",
-      "title": "Koncert Laureatów 30.OFPA i Koncert Galowy w wykonaniu Andrzeja Piasecznego z zespołem i gościnnym udziałem Kasi Wilk",
-      "category": "Koncert",
-      "start": "2026-09-27T17:00",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Zapraszamy na Koncert Galowy 30. Ogólnopolskiego Festiwalu Piosenki Artystycznej OFPA 2026. Podczas koncertu wystąpią Laureaci Finału Konkursu Krajowego, natomiast gwiazdą wieczoru będzie Andrzej Piaseczny z zespołem i gościnnym udziałem Kasi Wilk.",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/koncert-laureatow-30ofpa-i-koncert-galowy-w-wykonaniu-andrzeja-piasecznego-z-zespolem-i-goscinnym-udzialem-kasi-wilk.html"
-    },
     {
       "id": "iryb-robert-kasprzycki-rybnik-koncert-na-zywo",
       "title": "Robert Kasprzycki | Rybnik – koncert na żywo",
