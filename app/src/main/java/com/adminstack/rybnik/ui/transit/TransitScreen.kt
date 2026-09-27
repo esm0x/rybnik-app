@@ -42,6 +42,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.focus.onFocusChanged
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.ViewModel
@@ -61,6 +62,9 @@ import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
+
+/** Which end of the journey the suggestion list belongs to. */
+enum class JourneyField { FROM, TO }
 
 enum class TransitMode(val label: String) {
     STOPS("Przystanki"),
@@ -84,6 +88,7 @@ data class TransitUi(
     val fromQuery: String = "",
     val toQuery: String = "",
     val suggestions: List<String> = emptyList(),
+    val activeField: JourneyField = JourneyField.FROM,
     val journeys: List<Journey> = emptyList(),
     val searching: Boolean = false,
     val searched: Boolean = false,
@@ -178,13 +183,33 @@ class TransitViewModel : ViewModel() {
     }
 
     fun setFrom(q: String) {
-        _ui.update { it.copy(fromQuery = q, searched = false) }
+        _ui.update { it.copy(fromQuery = q, searched = false, activeField = JourneyField.FROM) }
         suggest(q)
     }
 
     fun setTo(q: String) {
-        _ui.update { it.copy(toQuery = q, searched = false) }
+        _ui.update { it.copy(toQuery = q, searched = false, activeField = JourneyField.TO) }
         suggest(q)
+    }
+
+    /**
+     * Tapping into a field makes it the target for the suggestion list, and re-runs the
+     * lookup for whatever that field already contains — otherwise the list would still be
+     * showing matches for the other end of the journey.
+     */
+    fun focusField(field: JourneyField) {
+        if (_ui.value.activeField == field) return
+        _ui.update { it.copy(activeField = field) }
+        suggest(if (field == JourneyField.FROM) _ui.value.fromQuery else _ui.value.toQuery)
+    }
+
+    fun pickSuggestion(name: String) {
+        if (_ui.value.activeField == JourneyField.FROM) {
+            _ui.update { it.copy(fromQuery = name, searched = false) }
+        } else {
+            _ui.update { it.copy(toQuery = name, searched = false) }
+        }
+        clearSuggestions()
     }
 
     fun clearSuggestions() = _ui.update { it.copy(suggestions = emptyList()) }
@@ -317,14 +342,8 @@ fun TransitScreen() {
                             onTo = vm::setTo,
                             onSwap = vm::swapEnds,
                             onSearch = vm::findJourneys,
-                            onPickSuggestion = { name ->
-                                if (ui.fromQuery.isBlank() || ui.toQuery.isNotBlank()) {
-                                    vm.setFrom(name)
-                                } else {
-                                    vm.setTo(name)
-                                }
-                                vm.clearSuggestions()
-                            },
+                            onFocusField = vm::focusField,
+                            onPickSuggestion = vm::pickSuggestion,
                         )
                     } else if (mode == TransitMode.ROUTES) {
                         LazyColumn {
@@ -396,6 +415,7 @@ private fun JourneySearch(
     onTo: (String) -> Unit,
     onSwap: () -> Unit,
     onSearch: () -> Unit,
+    onFocusField: (JourneyField) -> Unit,
     onPickSuggestion: (String) -> Unit,
 ) {
     Column(Modifier.fillMaxSize()) {
@@ -409,7 +429,9 @@ private fun JourneySearch(
                     onValueChange = onFrom,
                     label = { Text("Skąd") },
                     singleLine = true,
-                    modifier = Modifier.fillMaxWidth(),
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .onFocusChanged { if (it.isFocused) onFocusField(JourneyField.FROM) },
                 )
                 Spacer(Modifier.height(8.dp))
                 OutlinedTextField(
@@ -417,7 +439,9 @@ private fun JourneySearch(
                     onValueChange = onTo,
                     label = { Text("Dokąd") },
                     singleLine = true,
-                    modifier = Modifier.fillMaxWidth(),
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .onFocusChanged { if (it.isFocused) onFocusField(JourneyField.TO) },
                 )
             }
             IconButton(onClick = onSwap, modifier = Modifier.padding(start = 4.dp)) {
@@ -436,6 +460,12 @@ private fun JourneySearch(
 
         if (ui.suggestions.isNotEmpty()) {
             Column(Modifier.padding(horizontal = 16.dp, vertical = 4.dp)) {
+                // Saying where a tap will land removes the guesswork the old version had.
+                Text(
+                    if (ui.activeField == JourneyField.FROM) "Wstaw do: Skąd" else "Wstaw do: Dokąd",
+                    style = MaterialTheme.typography.labelSmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
                 ui.suggestions.take(4).forEach { name ->
                     Text(
                         name,
