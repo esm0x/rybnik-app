@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T21:12:46",
+  "generated_at": "2026-09-27T05:19:52",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,26 @@
     }
   ],
   "items": [
+    {
+      "id": "f390e80fa0d76d31e799af476c20975f5ba8c2a7",
+      "title": "Miłośnicy motocykli spotkali się w Turzu. Wspólnie podziękowali Bogu za przejechane kilometry [ZDJĘCIA]",
+      "summary": "Motocykliści spotkali się w Turzu, by wspólnie zakończyć tegoroczny sezon. Grupa „Family Ghost” przygotowała wydarzenie, podczas którego uczestnicy wzięli udział w części religijnej i motocyklowej pielgrzymce, a na zakończenie spotkali się przy ognisku.",
+      "link": "https://www.nowiny.pl/wiadomosci/251116-milosnicy-motocykli-spotkali-sie-w-turzu-wspolnie-podziekowali-bogu-za-przejechane-kilometry-zdjecia.html",
+      "published": "2026-09-27T01:27",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b019467b572a3bd34b471e789e125fb0b9244689",
+      "title": "Naszą teraźniejszość trzeba obronić przed zapomnieniem. Kornelia Lach o projekcie „Nieodkryte skarby pogranicza”",
+      "summary": "Dr Kornelia Lach, długoletnia dyrektor szkoły w Krzanowicach i jedna z najbardziej rozpoznawalnych regionalistek na ziemi raciborskiej wzięła udział w konferencji inaugurującej projekt Wydawnictwa Nowiny „Nieodkryte skarby pogranicza” realizowany przy wsparciu finansowym Ministerstwa Kultury i…",
+      "link": "https://www.nowiny.pl/wiadomosci/251185-nasza-terazniejszosc-trzeba-obronic-przed-zapomnieniem-kornelia-lach-o-projekcie-nieodkryte-skarby-pogranicza.html",
+      "published": "2026-09-26T21:23",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "a3d4ec1a1919353e404694df899959cff2e266de",
       "title": "GDDKiA podała termin ustawienia świateł na skrzyżowaniu Głubczycka-Starowiejska-Cegielniana",
@@ -246,26 +266,6 @@
       "published": "2026-09-25T20:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8597d2a1727e7ee7989274cd06fe706244a9d598",
-      "title": "Muzyka, teatr i taniec. Tak wyglądał niezwykły wieczór podczas OFF-ki W Raciborzu [ZDJĘCIA, WIDEO]",
-      "summary": "Drugi dzień V Ogólnopolskiego Festiwalu Teatralnego OFF-ka w Raciborzu przyniósł publiczności niezwykłe spotkanie z muzyką, teatrem, opowieścią i tradycją. W piątkowy wieczór, 25 września, na scenie Raciborskiego Centrum Kultury zaprezentowano spektakl muzyczny „Rarytas”. Po przedstawieniu…",
-      "link": "https://www.nowiny.pl/wiadomosci/251173-muzyka-teatr-i-taniec-tak-wygladal-niezwykly-wieczor-podczas-off-ki-w-raciborzu-zdjecia-wideo.html",
-      "published": "2026-09-25T19:44",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "bb3d283c571f3913d48236af521b626749a78e06",
-      "title": "„Mandacikiem bym pomachał”. Nestor rady miasta też ma dosyć nowego wysypiska w Ocicach",
-      "summary": "Po tym jak przed wakacjami wątek śmietniska przy nowym centrum handlowym poruszył Dariusz Polowy, we wrześniu zajął się nim sąsiad z dzielnicy - Henryk Mainusz. Podirytowało go, że mijają kolejne miesiące, a nikt nie sprząta odpadów z budowy.",
-      "link": "https://www.nowiny.pl/wiadomosci/251172-mandacikiem-bym-pomachal-nestor-rady-miasta-tez-ma-dosyc-nowego-wysypiska-w-ocicach.html",
-      "published": "2026-09-25T18:47",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
