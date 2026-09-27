@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T12:02:09",
+  "generated_at": "2026-09-27T16:58:35",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,20 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 151,
+  "count": 150,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-21-kamien-extreme-w-rybniku",
-      "title": "21. KAMIEŃ EXTREME w Rybniku",
-      "category": "Sport",
-      "start": "2026-09-27T12:00",
-      "end": null,
-      "venue": "Biegowe Grand Prix Rybnika - BGPR, Ośrodek MOSiR Rybnik w Kamieniu",
-      "description": "Błoto, woda, las, opony i około 5 kilometrów wymagającego crossu – 21. KAMIEŃ EXTREME ponownie zamieni tereny Ośrodka w Kamieniu w pełen niespodzianek tor biegu. Wydarzenie odbędzie się 27 września 2026 roku i będzie częścią Biegowego Grand Prix Rybnika. Warto przygotować sportowe buty i sprawdzić swoje możliwości na trasie. Trasa nie jest atestowana. Szczegóły dotyczące organizacji wydarzenia oraz późniejsze informacje o biegach dla dzieci będą publikowane na stronie mosir.rybnik.pl . Kamień Extreme nie jest typowym biegiem OCR, choć z pewnością będzie miał jego charakterystyczne elementy. Najważniejszy pozostaje bieg, dlatego wydarzenie jest częścią Biegowego Grand Prix Rybnika. Na uczestników czeka urozmaicona trasa prowadząca przez:",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/21-kamien-extreme-w-rybniku"
-    },
     {
       "id": "iryb-kawa-z-psychoterapeuta",
       "title": "Kawa z psychoterapeutą",
@@ -37,7 +26,7 @@
       "title": "Koncert Laureatów 30.OFPA i Koncert Galowy w wykonaniu Andrzeja Piasecznego z zespołem i gościnnym udziałem Kasi Wilk",
       "category": "Koncert",
       "start": "2026-09-27T17:00",
-      "end": "2026-09-27T18:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Zapraszamy na Koncert Galowy 30. Ogólnopolskiego Festiwalu Piosenki Artystycznej OFPA 2026. Podczas koncertu wystąpią Laureaci Finału Konkursu Krajowego, natomiast gwiazdą wieczoru będzie Andrzej Piaseczny z zespołem i gościnnym udziałem Kasi Wilk.",
       "sourceName": "TZR",

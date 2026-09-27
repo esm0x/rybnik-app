@@ -1,29 +1,43 @@
 {
-  "generated_at": "2026-09-27T12:02:25",
+  "generated_at": "2026-09-27T17:00:12",
   "count": 120,
   "failures": [
     {
       "source": "rybnik.com.pl",
       "error": "403 Client Error: Forbidden for url: https://www.rybnik.com.pl/feed,feed0.html"
-    },
-    {
-      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikaty",
-      "error": "415 Client Error: Unsupported Media Type for url: https://www.rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikaty"
-    },
-    {
-      "source": "rybnik.eu/dla-mieszkancow/aktualnosci",
-      "error": "415 Client Error: Unsupported Media Type for url: https://www.rybnik.eu/dla-mieszkancow/aktualnosci"
-    },
-    {
-      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikacja",
-      "error": "415 Client Error: Unsupported Media Type for url: https://www.rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikacja"
-    },
-    {
-      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/inwestycje",
-      "error": "415 Client Error: Unsupported Media Type for url: https://www.rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/inwestycje"
     }
   ],
   "items": [
+    {
+      "id": "09f1bd02a7dbec08b8c1f114a705426d821c7635",
+      "title": "Trwa rozbudowa ul. Grota-Roweckiego w Rybniku. Kanalizacja deszczowa już gotowa, teraz prace brukarskie [ZDJĘCIA]",
+      "summary": "Wszyscy użytkownicy ruchu drogowego - kierowcy, rowerzyści oraz piesi - mają skorzystać na drogowej inwestycji, jaka aktualnie realizowana jest w rybnickiej dzielnicy Niewiadom. Trwa tam rozbudowa ulicy Grota-Roweckiego. Jak informują w rybnickim magistracie, jest to już drugi etap rozbudowy tej…",
+      "link": "https://www.radio90.pl/trwa-rozbudowa-ul-grota-roweckiego-w-rybniku-kanalizacja-deszczowa-juz-gotowa-teraz-prace-brukarskie-zdjecia.html",
+      "published": "2026-09-27T16:30",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d84c8054d258c1490e3fb2bce4ccc469dc80a155",
+      "title": "Adrenalina od pierwszego startu! Tak zawodnicy walczyli w Bike Race Racibórz 2026 [ZDJĘCIA]",
+      "summary": "27 września 2026 roku w Raciborzu odbyła się trzecia edycja Bike Race Racibórz – Ligi Rowerowej MTB. Wydarzenie zgromadziło miłośników kolarstwa górskiego, zarówno doświadczonych zawodników, jak i amatorów oraz najmłodszych uczestników.",
+      "link": "https://www.nowiny.pl/wiadomosci/251191-adrenalina-od-pierwszego-startu-tak-zawodnicy-walczyli-w-bike-race-raciborz-2026-zdjecia.html",
+      "published": "2026-09-27T14:44",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "abf41704445863f16438ef378183d51992863840",
+      "title": "Park w centrum Rybnika pięknieje. Zostanie oddany do użytku do końca roku",
+      "summary": "Park imienia świętego Jana Sarkandra przy ulicach Gliwickiej i Cegielnianej w Rybniku przechodzi renowację.",
+      "link": "https://www.radio90.pl/park-w-centrum-rybnika-pieknieje-zostanie-oddany-do-uzytku-do-konca-roku.html",
+      "published": "2026-09-27T13:00",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "66ea5942ab21b8ff5e211711ab1fc1bac63a3645",
       "title": "Jarmark staroci w Pszowie. Przyjechali pasjonaci i wystawcy z całego regionu [ZDJĘCIA]",
@@ -232,16 +246,6 @@
       "published": "2026-09-26T14:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "2a0dc7ad4c04ff03f5f534061769c8a411cf944a",
-      "title": "Kolorowe Święto Latawca w Radlinie. Było mnóstwo rodzinnej zabawy [ZDJĘCIA]",
-      "summary": "Kolorowe latawce, cyrkowe warsztaty, pokazy modeli latających i atrakcje przygotowane przez strażaków – tak wyglądało tegoroczne Święto Latawca w Radlinie. W sobotę, 26 września, na terenie zielonym za Przedszkolem Publicznym nr 1 w Głożynach spotkały się dzieci wraz z rodzicami, by wspólnie…",
-      "link": "https://www.nowiny.pl/wiadomosci/251178-kolorowe-swieto-latawca-w-radlinie-bylo-mnostwo-rodzinnej-zabawy-zdjecia.html",
-      "published": "2026-09-26T11:12",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -475,22 +479,22 @@
       "priority": "NORMAL"
     },
     {
-      "id": "72326ba46eacdf47cdb0ba3926735b6c3bea4b43",
-      "title": "Krajowy System Zarządzania Ruchem: trwają testy tablic na drodze ekspresowej i autostradach",
-      "summary": "Kierowcy podróżujący śląskim odcinkiem drogi ekspresowej S1 mogą od kilku dni zauważyć nietypowe komunikaty na tablicach zmiennej treści. Nie jest to błąd ani nowe ograniczenie obowiązujące na trasie. GDDKiA prowadzi testy Krajowego Systemu Zarządzania Ruchem.",
-      "link": "https://www.radio90.pl/krajowy-system-zarzadzania-ruchem-trwaja-testy-tablic-na-drodze-ekspresowej-i-autostradach.html",
-      "published": "2026-09-25T10:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "9eac55269344a69eb5b997ffe643dbdbf5a28ded",
       "title": "Mobilność bez barier. DPS w Lyskach ma nowy samochód (foto)",
       "summary": "Dom Pomocy Społecznej w Lyskach wzbogacił się o fabrycznie nowy pojazd przystosowany do przewozu osób z niepełnosprawnościami. Nowy samochód znacząco ułatwi codzienne funkcjonowanie mieszkańcom placówki, zapewniając im komfort, bezpieczeństwo oraz bezstresowy dojazd na wizyty lekarskie i wycieczki.",
       "link": "http://www.rybnik.com.pl/wiadomosci,mobilnosc-bez-barier-dps-w-lyskach-ma-nowy-samochod-foto,wia5-3266-66225.html",
       "published": "2026-09-25T10:00",
       "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "72326ba46eacdf47cdb0ba3926735b6c3bea4b43",
+      "title": "Krajowy System Zarządzania Ruchem: trwają testy tablic na drodze ekspresowej i autostradach",
+      "summary": "Kierowcy podróżujący śląskim odcinkiem drogi ekspresowej S1 mogą od kilku dni zauważyć nietypowe komunikaty na tablicach zmiennej treści. Nie jest to błąd ani nowe ograniczenie obowiązujące na trasie. GDDKiA prowadzi testy Krajowego Systemu Zarządzania Ruchem.",
+      "link": "https://www.radio90.pl/krajowy-system-zarzadzania-ruchem-trwaja-testy-tablic-na-drodze-ekspresowej-i-autostradach.html",
+      "published": "2026-09-25T10:00",
+      "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -805,36 +809,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "f1cf793f88671236b9d6de052b66caaa2f1ea231",
-      "title": "Rybki Rybnik będą świętować jubileusz 25-lecia. Potrzebna jest jednak pomoc przy organizacji zawodów",
-      "summary": "Rybki Rybnik potrzebują wsparcia przy okazji organizowanego przez klub jubileuszu 25-lecia jego istnienia. Jak informują przedstawiciele klubu, poszukiwanych jest kilka osób, które będą pełnić rolę funkcyjnych. - Przed i w trakcie zawodów - wskazują w klubie, dodając, że do zadań osób funkcyjnych…",
-      "link": "https://www.radio90.pl/rybki-rybnik-beda-swietowac-jubileusz-25-lecia-potrzebna-jest-jednak-pomoc-przy-organizacji-zawodow.html",
-      "published": "2026-09-23T18:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8064ae9c372dc9fda2991e3e334995516653434b",
-      "title": "Piknik górniczy w Czernicy. Wszystko z okazji 220. rocznicy powstania kopalni Charlotte [WIDEO]",
-      "summary": "\"Czernica Szkicowana Węglem od 1797 roku\". To hasło pikniku szykowanego na piątek (25.09) w Ośrodku Kultury Zameczek w Czernicy.",
-      "link": "https://www.radio90.pl/piknik-gorniczy-w-czernicy-wszystko-z-okazji-220-rocznicy-powstania-kopalni-charlotte-wideo.html",
-      "published": "2026-09-23T17:20",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8144b7cfcfe7732cb19f008f2fdaaf6e7987c454",
-      "title": "Raciborska w Rydułtowach: trwa przebudowa trasy, jest wahadło, są utrudnienia [ZDJĘCIA]",
-      "summary": "O pracach i utrudnieniach na ulicy Raciborskiej informują nasi słuchacze. Posyłają też zdjęcia.",
-      "link": "https://www.radio90.pl/raciborska-w-rydultowach-trwa-przebudowa-trasy-jest-wahadlo-sa-utrudnienia-zdjecia.html",
-      "published": "2026-09-23T13:05",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "ALERT"
-    },
-    {
       "id": "b2748eaf7ec99e67297a10e95738e2a218c2121c",
       "title": "Podwójny sukces rybnickiej kultury",
       "summary": "Galeria Sztuki Rzeczna po raz kolejny udowadnia, że sztuka może być w pełni dostępna i otwarta dla każdego, niezależnie od indywidualnych potrzeb czy barier architektonicznych.",
@@ -1093,6 +1067,16 @@
       "source": "IMGW",
       "category": "Ostrzeżenia",
       "priority": "ALERT"
+    },
+    {
+      "id": "91a3d0dbafd83e824841679cf34efb3a582e2be1",
+      "title": "BUDOWA ELEKTROWNI PGE NOWY RYBNIK WCHODZI W KOLEJNY ETAP REALIZACJI",
+      "summary": "W dniach 4-7 września, w godzinach 9:00-17:00, na terenie budowy bloku gazowo-parowego PGE Nowy Rybnik będą prowadzone prace związane z przedmuchem gazociągu, jak informuje PGE Nowy Rybnik.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/budowa-elektrowni-pge-nowy-rybnik-wchodzi-w-kolejny-etap-realizacji",
+      "published": "2026-09-04T00:00",
+      "source": "rybnik.eu",
+      "category": "Komunikaty",
+      "priority": "NORMAL"
     },
     {
       "id": "693b3479108e81ac0323a8bdcd7c4c8721440a12",
