@@ -1,13 +1,129 @@
 {
-  "generated_at": "2026-09-27T05:19:52",
+  "generated_at": "2026-09-27T12:02:25",
   "count": 120,
   "failures": [
     {
       "source": "rybnik.com.pl",
       "error": "403 Client Error: Forbidden for url: https://www.rybnik.com.pl/feed,feed0.html"
+    },
+    {
+      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikaty",
+      "error": "415 Client Error: Unsupported Media Type for url: https://www.rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikaty"
+    },
+    {
+      "source": "rybnik.eu/dla-mieszkancow/aktualnosci",
+      "error": "415 Client Error: Unsupported Media Type for url: https://www.rybnik.eu/dla-mieszkancow/aktualnosci"
+    },
+    {
+      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikacja",
+      "error": "415 Client Error: Unsupported Media Type for url: https://www.rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikacja"
+    },
+    {
+      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/inwestycje",
+      "error": "415 Client Error: Unsupported Media Type for url: https://www.rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/inwestycje"
     }
   ],
   "items": [
+    {
+      "id": "66ea5942ab21b8ff5e211711ab1fc1bac63a3645",
+      "title": "Jarmark staroci w Pszowie. Przyjechali pasjonaci i wystawcy z całego regionu [ZDJĘCIA]",
+      "summary": "W niedzielę, 27 września w Pszowie odbył się kolejny jarmark staroci i rękodzieła. Wydarzenie zorganizowało stowarzyszenie Razem dla Śląska.",
+      "link": "https://www.nowiny.pl/wiadomosci/251190-jarmark-staroci-w-pszowie-przyjechali-pasjonaci-i-wystawcy-z-calego-regionu-zdjecia.html",
+      "published": "2026-09-27T11:48",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0796e0e1530a7ec9e6a73bb301959767d5cdff51",
+      "title": "Wodzisław uczcił rocznicę powstania Polskiego Państwa Podziemnego [ZDJĘCIA]",
+      "summary": "W niedzielę, 27 września, w Wodzisławiu Śląskim odbyły się uroczystości upamiętniające 87. rocznicę powstania Polskiego Państwa Podziemnego. Wydarzenie rozpoczęła msza święta w kościele WNMP.",
+      "link": "https://www.nowiny.pl/wiadomosci/251189-wodzislaw-uczcil-rocznice-powstania-polskiego-panstwa-podziemnego-zdjecia.html",
+      "published": "2026-09-27T11:47",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "810c66c968cfec71482439aa4c0231eb73a78285",
+      "title": "Msza dożynkowa w Zawadzie. Parafia dziękowała Bogu za plony [ZDJECIA]",
+      "summary": "Chleb, ciasto i tegoroczne plony znalazły się w centrum mszy dożynkowej w parafii Podwyższenia Krzyża Świętego w wodzisławskiej Zawadzie. Eucharystii przewodniczył ks. proboszcz Roman Imiołczyk, który w kazaniu mówił o wdzięczności za dary ziemi i odpowiedzialności człowieka za to, co otrzymał.",
+      "link": "https://agronowiny.pl/wiadomosci/251188-msza-dozynkowa-w-zawadzie-parafia-dziekowala-bogu-za-plony-zdjecia.html",
+      "published": "2026-09-27T11:30",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1b983318b5c8fd62e85061890cb99e9c8a62bc1d",
+      "title": "Rekpol Group Unia Turza Śląska pokonuje Przemszę Siewierz [ZDJĘCIA]",
+      "summary": "Unici po raz ósmy w tym sezonie zgarnęli komplet punktów. Turzanie pokonali Przemszę Siewierz, a spotkanie zakończyli z kolejnym czystym kontem. W końcówce gospodarze mieli jeszcze rzut karny, którego nie wykorzystał Mateusz Słodowy.",
+      "link": "https://sport.nowiny.pl/sport/251187-rekpol-group-unia-turza-slaska-pokonuje-przemsze-siewierz-zdjecia.html",
+      "published": "2026-09-27T08:57",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "06e2b0b3fca6f9f9d52a10636aaf8f2912646465",
+      "title": "Bramki na A4: wybrano firmę, która zlikwiduje miejsca poboru opłat",
+      "summary": "Bramki w zachodniej części A4 do likwidacji, już bliżej niż dalej. Jest firma, która wykona to zadanie.",
+      "link": "https://www.radio90.pl/bramki-na-a4-wybrano-firme-ktora-zlikwiduje-miejsca-poboru-oplat.html",
+      "published": "2026-09-27T08:24",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2470d5a38bb2d8de1fb41cf21218aa8414323dc2",
+      "title": "Ogólnopolski Festiwal Piosenki Artystycznej w Rybniku: jubileuszową edycję zwyciężyła Anna Drewniok [WIDEO, ZDJĘCIA]",
+      "summary": "Rybniczanka, Anna Drewniok została zwyciężczynią odbywającego się w Rybniku już po raz kolejny - dokładnie po raz 30. - Ogólnopolskiego Festiwalu Piosenki Artystycznej (OFPA). Spośród kilkudziesięciu uczestników festiwalu, to właśnie występy Anny Drewniok najbardziej przypadły do gustu, jury…",
+      "link": "https://www.radio90.pl/ogolnopolski-festiwal-piosenki-artystycznej-w-rybniku-jubileuszowa-edycje-zwyciezyla-anna-drewniok-wideo-zdjecia.html",
+      "published": "2026-09-27T07:57",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8041874e121c29b4769a1e8a7689dde5c5f13a41",
+      "title": "Dlaczego w Parku Zdrojowym nie ma gdzie przypiąć rowerów?",
+      "summary": "Brak wystarczającej liczby stojaków rowerowych w Parku Zdrojowym od lat jest problemem zgłaszanym przez mieszkańców i rowerzystów. Tematem zainteresował się radny Grzegorz Mosoń, który zwrócił się do władz miasta z pytaniem o możliwość zwiększenia liczby miejsc do bezpiecznego parkowania rowerów.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251186-dlaczego-w-parku-zdrojowym-nie-ma-gdzie-przypiac-rowerow.html",
+      "published": "2026-09-27T07:24",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "39b1d5311ab0c8e38d6c2f40194f56f732abf463",
+      "title": "Eko Patrol Radia 90 – odcinek 38/2026. Liczenie drzew w Rybniku. Czerwionka-Leszczyny zadba o swoje starodrzewy",
+      "summary": "Dzisiejszy program poświęcimy w całości drzewom i ich znaczeniu dla naszego otoczenia. Powiemy o europejskiej akcji #EUTreeTag, w której po raz kolejny bierze udział Rybnik, a także o tym, co można wyczytać ze specjalnych etykiet umieszczonych na drzewach. Zajrzymy również do Czerwionki-Leszczyn…",
+      "link": "https://www.radio90.pl/eko-patrol-radia-90-odcinek-38-2026-liczenie-drzew-w-rybniku-czerwionka-leszczyny-zadba-o-swoje-starodrzewy.html",
+      "published": "2026-09-27T06:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "65b6d81610df476a1134c3dd309d4ae6d206bc80",
+      "title": "Czy transformacja energetyczna UE zmierza w dobrym kierunku? Debata na Zamku Piastowskim [ZDJĘCIA]",
+      "summary": "W ramach wydarzenia \"Transformacja energetyczna w UE - Bilans\" odbyła się debata na temat \"Czy transformacja energetyczna UE zmierza we właściwym kierunku\". Paneliści zaprezentowali swój punkt widzenia na politykę energetyczną Unii Europejskiej i idące za nią zagrożenia dla polskiej gospodarki.",
+      "link": "https://www.nowiny.pl/wiadomosci/251175-czy-transformacja-energetyczna-ue-zmierza-w-dobrym-kierunku-debata-na-zamku-piastowskim-zdjecia.html",
+      "published": "2026-09-27T06:07",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1cfbad9d88c4b70fc3af4d8524b6446508b14538",
+      "title": "Kto zabił? Morderstwo w bibliotece podczas Nocy Bibliotek w Raciborzu. Uczestnicy wcielą się w role śledczych",
+      "summary": "Tajemnicza kolacja, ukryte sekrety i morderstwo, które trzeba będzie rozwikłać. Miejska i Powiatowa Biblioteka Publiczna w Raciborzu zaprasza w ramach Nocy Bibliotek na grę fabularno-dedukcyjną, podczas której uczestnicy wcielą się w role bohaterów kryminalnej historii i spróbują odpowiedzieć na…",
+      "link": "https://www.nowiny.pl/wiadomosci/251142-kto-zabil-morderstwo-w-bibliotece-podczas-nocy-bibliotek-w-raciborzu-uczestnicy-wciela-sie-w-role-sledczych.html",
+      "published": "2026-09-27T05:30",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "f390e80fa0d76d31e799af476c20975f5ba8c2a7",
       "title": "Miłośnicy motocykli spotkali się w Turzu. Wspólnie podziękowali Bogu za przejechane kilometry [ZDJĘCIA]",
@@ -129,16 +245,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "ca21dc0bcf292fcfcd78b126adc26da1ea439a10",
-      "title": "Prezydent Wojciechowicz powiedział przedsiębiorcom: nie mamy jeszcze zgody na papierze na likwidację torów na Dębiczu [Droga Racibórz-Pszczyna]",
-      "summary": "Wyjaśnienia ze strony włodarza miasta przedstawiono na prośbę uczestników śniadania biznesowego Raciborskiej Izby Gospodarczej. Jacek Wojciechowicz liczy, że jesienią 2027 roku będzie mógł wystąpić o pozwolenie na budowę raciborskiego odcinka drogi regionalnej. 12 biur projektowych zgłosiło się po…",
-      "link": "https://www.nowiny.pl/wiadomosci/251179-prezydent-wojciechowicz-powiedzial-przedsiebiorcom-nie-mamy-jeszcze-zgody-na-papierze-na-likwidacje-torow-na-debiczu-droga-raciborz-pszczyna.html",
-      "published": "2026-09-26T11:06",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "d9b1389a70d26e96ad775ae894d7c465b78bdb04",
       "title": "Koniec utrudnień w Czuchowie. Nowy most przy ul. Granicznej otwarty dla kierowców (foto)",
       "summary": "Kierowcy i mieszkańcy Czerwionki-Leszczyn mogą wreszcie odetchnąć z ulgą i zapomnieć o uciążliwych objazdach. Zakończyła się gruntowna przebudowa mostu drogowego w ciągu ulicy Granicznej w dzielnicy Czuchów. Nowa, bezpieczna i funkcjonalna przeprawa nad rzeką Bierawką od piątkowego popołudnia jest…",
@@ -147,16 +253,6 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
-    },
-    {
-      "id": "416fd7ec642e2980f0d59e0def363e7ab29d973d",
-      "title": "Zamiast łyżew – szachownice! Memoriał Alfreda Chrobaka w Hali Piastor [ZDJĘCIA]",
-      "summary": "W sobotę, 26 września, Hala Piastor przy ul. Zamkowej w Raciborzu zamieniła się w arenę szachowych zmagań. To właśnie tam rozegrano VII Międzynarodowy Memoriał Szachowy Alfreda Chrobaka w szachach szybkich. Po raz pierwszy turniej zorganizowano na terenie ośrodka sportu, w hali, która w sezonie…",
-      "link": "https://www.nowiny.pl/wiadomosci/251115-zamiast-lyzew-szachownice-memorial-alfreda-chrobaka-w-hali-piastor-zdjecia.html",
-      "published": "2026-09-26T09:50",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
     },
     {
       "id": "346bf49ddd5b6c9ffeb5d01d6888a852bb2f006b",
@@ -176,16 +272,6 @@
       "published": "2026-09-26T09:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "1f42515303861ab847ad8ac3e4c95d38a16cb167",
-      "title": "Łzy świętowały 30-lecie w Pszowie. Podwójne urodziny i koncert pełen wspomnień [ZDJĘCIA]",
-      "summary": "Około 400 fanów zespołu Łzy pojawiło się w pszowskim Miejskim Ośrodku Kultury, by wspólnie świętować wyjątkowy jubileusz. Grupa obchodzi w tym roku 30-lecie istnienia, a swoje 25. urodziny świętuje także ich fan club.",
-      "link": "https://www.nowiny.pl/wiadomosci/251177-lzy-swietowaly-30-lecie-w-pszowie-podwojne-urodziny-i-koncert-pelen-wspomnien-zdjecia.html",
-      "published": "2026-09-26T08:34",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -209,26 +295,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "9e87d574dde9f5cece0feefbabc2d44c58156c17",
-      "title": "„Głosy dla Hospicjum” w Raciborzu. Dobroczynny koncert już 16 października",
-      "summary": "Muzyka, pomoc i wsparcie dla osób potrzebujących opieki hospicyjnej. 16 października w Raciborzu odbędzie się dobroczynny koncert „Głosy dla Hospicjum” – informuje redakcję Nowin Hospicjum im. św. Józefa w Raciborzu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251143-glosy-dla-hospicjum-w-raciborzu-dobroczynny-koncert-juz-16-pazdziernika.html",
-      "published": "2026-09-26T06:35",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "992619c9d4fd323ae0c9d900a84868f041fe5f8f",
-      "title": "Schronisko w Wodzisławiu prowadzi zbiórkę. Potrzebna jest pomoc na leczenie i karmę",
-      "summary": "„Koty, Psy i My – Razem dla tych, którzy czekają” – pod takim hasłem prowadzona jest zbiórka pieniędzy na rzecz zwierząt znajdujących się pod opieką wodzisławskiego schroniska.",
-      "link": "https://www.nowiny.pl/wiadomosci/251176-schronisko-w-wodzislawiu-prowadzi-zbiorke-potrzebna-jest-pomoc-na-leczenie-i-karme.html",
-      "published": "2026-09-26T06:30",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a67c389ca51a76a695059756766863de474d645e",
       "title": "Kuchnia Radia 90: aksamitna zupa z dyni z dodatkiem imbiru i soku z pomarańczy",
       "summary": "Wrzesień w kuchni oznacza, że czas na dynię. Dziś u nas rewelacyjny przepis na zupę, w której dynia występuje z zaskakującymi dodatkami: z imbirem i pomarańczą. Panie i panowie, zupa z dyni!",
@@ -236,26 +302,6 @@
       "published": "2026-09-26T06:00",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "2e97b72dd45127ab1a33b73b29529a5c7dcdd33e",
-      "title": "Noc Bibliotek w Raciborzu z historiami Ślązaków na emigracji. Kevin Pyrek opowie o swojej książce",
-      "summary": "Miejska i Powiatowa Biblioteka Publiczna im. Ryszarda Kincla w Raciborzu zaprasza na spotkanie autorskie z Kevinem Pyrkiem. Wydarzenie odbędzie się w ramach Nocy Bibliotek w piątek, 16 października, o godz. 18.00 w bibliotece przy ul. Kasprowicza 12.",
-      "link": "https://www.nowiny.pl/wiadomosci/251141-noc-bibliotek-w-raciborzu-z-historiami-slazakow-na-emigracji-kevin-pyrek-opowie-o-swojej-ksiazce.html",
-      "published": "2026-09-26T05:30",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "daa233280eeb657c78fcbc6bdc44598cd70b6ace",
-      "title": "Złote Serca rozdane. Wyróżniono osoby zaangażowane w życie gminy Gorzyce [ZDJĘCIA]",
-      "summary": "W piątek, 25 września, w Gminnym Centrum Kultury w Gorzycach odbyła się uroczystość wręczenia tegorocznych tytułów „Złote Serce”. Wyróżnienia otrzymały osoby, których działalność na rzecz innych mieszkańców gminy Gorzyce od lat związana była z zaangażowaniem, serdecznością i bezinteresowną pomocą.",
-      "link": "https://www.nowiny.pl/wiadomosci/251174-zlote-serca-rozdane-wyrozniono-osoby-zaangazowane-w-zycie-gminy-gorzyce-zdjecia.html",
-      "published": "2026-09-25T20:47",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -774,36 +820,6 @@
       "summary": "\"Czernica Szkicowana Węglem od 1797 roku\". To hasło pikniku szykowanego na piątek (25.09) w Ośrodku Kultury Zameczek w Czernicy.",
       "link": "https://www.radio90.pl/piknik-gorniczy-w-czernicy-wszystko-z-okazji-220-rocznicy-powstania-kopalni-charlotte-wideo.html",
       "published": "2026-09-23T17:20",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d34fd489e685c439d31dd4f6596531c4913344d5",
-      "title": "Azyl w Rybniku: Kolejne zwierzęta zostały z niego odebrane. Dwie małpy trafiły do specjalistycznego ośrodka",
-      "summary": "Kapucynka i makak - dwie małpy zostały odebrane rybniczanom. Rybnicka prokuratura zrobiła kolejny krok w głośnej sprawie z marca tego roku, kiedy to śledczy z nielegalnego azylu odebrali między innymi lemura, nutrie i sowę śnieżną.",
-      "link": "https://www.radio90.pl/azyl-w-rybniku-kolejne-zwierzeta-zostaly-z-niego-odebrane-dwie-malpy-trafily-do-specjalistycznego-osrodka.html",
-      "published": "2026-09-23T17:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "43a03f9e314fe560f8c84862204bc86f942fdab0",
-      "title": "Koniec utrudnień. Przejazdy kolejowe w Czerwionce znowu są przejezdne. Zyskały nowe szyny, nowe płyty przejazdowe",
-      "summary": "Przejazdy kolejowe w Czerwionce-Leszczynach w końcu przejezdne. Z kilkudniowym poślizgiem udało się je oddać do użytku i przeprowadzić część prac na torach. Co do tej pory zrobiono i co jeszcze w planach?",
-      "link": "https://www.radio90.pl/koniec-utrudnien-przejazdy-kolejowe-w-czerwionce-znowu-sa-przejezdne-zyskaly-nowe-szyny-nowe-plyty-przejazdowe.html",
-      "published": "2026-09-23T15:20",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "85ffdf9aa35f6f9ee89731dc86c1966e58589aa1",
-      "title": "Jesień w kalendarzu, jesień za oknem. Lubicie tę porę roku? [SONDA]",
-      "summary": "Koniec lata, w kalendarzach 23 września a to oznacza, że nadeszła jesień, i ta astronomiczna i kalendarzowa. Co wy na to?",
-      "link": "https://www.radio90.pl/jesien-w-kalendarzu-jesien-za-oknem-lubicie-te-pore-roku-sonda.html",
-      "published": "2026-09-23T13:20",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
