@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T13:55:48",
+  "generated_at": "2026-09-28T23:19:10",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,76 @@
     }
   ],
   "items": [
+    {
+      "id": "e9d47304a3e4a43575677b2668d16aa7c4d326fd",
+      "title": "Czas trudnych decyzji w JSW. Jest Program Naprawczy na lata 2026-2035",
+      "summary": "Nie ma już mowy o przeczekaniu kryzysu. JSW zapowiada cięcia kosztów, ograniczenie inwestycji i zmiany w zatrudnieniu. Zarząd przekonuje, że bez tych działań przyszłość spółki byłaby jeszcze bardziej niepewna. Spółka przedstawiła Program Naprawczy na lata 2026-2035.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251222-czas-trudnych-decyzji-w-jsw-jest-program-naprawczy-na-lata-2026-2035.html",
+      "published": "2026-09-28T21:46",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "afc789755e37ae8dfd433cb5f82892c776ed4cb0",
+      "title": "Jest nowa instrukcja MSWiA. Wskazuje, gdzie szukać schronienia podczas ataku z powietrza",
+      "summary": "Gdzie schować się podczas ataku z powietrza? Co zrobić po usłyszeniu syren alarmowych? MSWiA opublikowało nową instrukcję, która podpowiada, jak zachować się w sytuacji zagrożenia. 12-stronicowy dokument pokazuje m.in., jakie miejsce w domu może zapewnić najlepszą ochronę i czego unikać. Instrukcja…",
+      "link": "https://www.nowiny.pl/wiadomosci/251221-jest-nowa-instrukcja-mswia-wskazuje-gdzie-szukac-schronienia-podczas-ataku-z-powietrza.html",
+      "published": "2026-09-28T18:55",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "ALERT"
+    },
+    {
+      "id": "f5e79088cfbc7c825a3897caf096bcc2a8ad6063",
+      "title": "Rodzinnie, rowerowo i rekordowo – za nami wakacje z Kolejami Śląskimi",
+      "summary": "Ponad 45 tys. podróży z rowerami i o ponad jedną trzecią większe zainteresowanie wakacyjną ofertą – tegoroczne lato w Kolejach Śląskich upłynęło pod znakiem aktywnych i rodzinnych wyjazdów.",
+      "link": "https://www.radio90.pl/rodzinnie-rowerowo-i-rekordowo-za-nami-wakacje-z-kolejami-slaskimi.html",
+      "published": "2026-09-28T18:27",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a22dc44a112466fca1781ffeb8d21a4b2688253f",
+      "title": "Ocieplali kartonowe domki i sprawdzali je kamerą. Tak uczniowie z Budzisk uczyli się o energii [ZDJĘCIA]",
+      "summary": "Jak zatrzymać ciepło w budynku? Co pokazuje kamera termowizyjna? Jak działają panele solarne i turbiny wiatrowe? Tego uczniowie Społecznej Szkoły Podstawowej w Budziskach nie tylko dowiedzieli się podczas zajęć, ale mogli też sprawdzić samodzielnie. 14 września w szkole odbyły się warsztaty…",
+      "link": "https://www.nowiny.pl/ekonowiny/251220-ocieplali-kartonowe-domki-i-sprawdzali-je-kamera-tak-uczniowie-z-budzisk-uczyli-sie-o-energii-zdjecia.html",
+      "published": "2026-09-28T18:17",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f1f32c6252fa431a08118bbb1f2747a2cfa6fe01",
+      "title": "Młodzi kierowcy pędzili przez powiat raciborski. Rekordzista miał na liczniku 158 km/h",
+      "summary": "Aż czterech młodych kierowców straciło prawa jazdy na trzy miesiące po tym, jak podczas minionego weekendu policjanci zatrzymali ich za przekroczenie prędkości o więcej niż 50 km/h. Rekordzista pędził w Bieńkowicach aż 158 km/h, mimo że obowiązywało tam ograniczenie do 90 km/h.",
+      "link": "https://www.nowiny.pl/wiadomosci/251219-mlodzi-kierowcy-pedzili-przez-powiat-raciborski-rekordzista-mial-na-liczniku-158-km-h.html",
+      "published": "2026-09-28T18:03",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7805558abe35d447e4adc8623f412908fb0b7947",
+      "title": "Raciborskie akcenty na forum Rozwoju Plus. Stowarzyszenie Morawieckiego zaprosiło samorządowców z całej Polski",
+      "summary": "Na zorganizowanym w sobotę, 26 września, w Tomaszowie Mazowieckim Ogólnopolskim Forum Samorządowym Stowarzyszenia Rozwój Plus wystąpił w roli panelisty były prezydent Raciborza - Dariusz Polowy. Forum odbyło się pod przewodnictwem byłego premiera Mateusza Morawieckiego. Organizatorzy podali, że na…",
+      "link": "https://www.nowiny.pl/wiadomosci/251218-raciborskie-akcenty-na-forum-rozwoju-plus-stowarzyszenie-morawieckiego-zaprosilo-samorzadowcow-z-calej-polski.html",
+      "published": "2026-09-28T17:31",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d2962f748ea1410aa217eb6aa8014215a13d6083",
+      "title": "El Alamein czy Hurghada? – sprawdź, jakie atrakcje czekają na Ciebie podczas wakacji w Egipcie",
+      "summary": "Pierwsze skojarzenie z Egiptem to zwykle piramidy i Sfinks, zaraz po nim kurorty nad Morzem Czerwonym. Jednak Egipt ma więcej niż jedno turystyczne oblicze – drugie to Morze Śródziemne i El Alamein. I w tym momencie rodzi się pytanie – co wybrać, gdzie odpocznę lepiej, gdzie czeka więcej atrakcji?…",
+      "link": "https://www.radio90.pl/el-alamein-czy-hurghada-sprawdz-jakie-atrakcje-czekaja-na-ciebie-podczas-wakacji-w-egipcie.html",
+      "published": "2026-09-28T15:20",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "3d0b3a12af446b95f55eba7d9b82dd03fa255919",
       "title": "Park Bukówka: jak ma wyglądać to miejsce za kilka lat?",
@@ -179,46 +249,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "9a35b62c5d05de1eee344fa97bf583b17a83631d",
-      "title": "Otwór pod umywalkę nablatową - jak zaplanować go dobrze i uniknąć kosztownych poprawek?",
-      "summary": "Wybór umywalki nablatowej często zaczyna się od wyglądu. Kształt, kolor czy efektowna misa przyciągają uwagę jako pierwsze. Przy montażu okazuje się jednak, że równie ważny jest dobrze przygotowany otwór pod umywalkę nablatową. Od jego średnicy, położenia i dopasowania do odpływu zależy nie tylko…",
-      "link": "https://www.nowiny.pl/wiadomosci/251202-otwor-pod-umywalke-nablatowa-jak-zaplanowac-go-dobrze-i-uniknac-kosztownych-poprawek.html",
-      "published": "2026-09-28T07:27",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "4b7cdc006ca7b8b3f1744ac03fa737cddc0d621f",
-      "title": "Kontrola Mercedesa w Raciborzu zakończyła się poważnymi zarzutami. 24-latek odpowie przed sądem",
-      "summary": "Miał ponad promil alkoholu, a mimo to wsiadł za kierownicę. 24-letni mieszkaniec Raciborza został zatrzymany przez policjantów na ulicy Karola Miarki. Jak się okazało, mężczyzna miał również sądowy zakaz prowadzenia pojazdów i cofnięte uprawnienia.",
-      "link": "https://www.nowiny.pl/wiadomosci/251201-kontrola-mercedesa-w-raciborzu-zakonczyla-sie-powaznymi-zarzutami-24-latek-odpowie-przed-sadem.html",
-      "published": "2026-09-28T07:16",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "4dffe4ae415274c6c36054737d7d81c6ad4ddadd",
-      "title": "Kradli kawę, noże i nie tylko. Dwóch mężczyzn zatrzymanych w Żorach",
-      "summary": "Policjanci z Żor zatrzymali dwóch mężczyzn podejrzanych o kradzieże. 39-latek miał działać w warunkach recydywy, a jego 25-letni wspólnik po zatrzymaniu trafił do aresztu. O sprawie informuje Komenda Miejska Policji w Żorach.",
-      "link": "https://ezory.pl/wiadomosci/251200-kradli-kawe-noze-i-nie-tylko-dwoch-mezczyzn-zatrzymanych-w-zorach.html",
-      "published": "2026-09-28T07:09",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d751bce0ea7766217d4fc84801804fed671d995e",
-      "title": "Na cmentarzu komunalnym w Wodzisławiu Śląskim powstają nowe miejsca na urny. Pierwszy etap kosztuje blisko 800 tys. zł [WIZUALIZACJE]",
-      "summary": "Ponad 100 nowych nisz urnowych powstanie jeszcze w tym roku na cmentarzu komunalnym w Wodzisławiu Śląskim. Trwa pierwszy etap budowy kolumbarium, w ramach którego powstaje największy z trzech planowanych murów. Prace o wartości blisko 800 tys. zł brutto mają zakończyć się przed 1 listopada…",
-      "link": "https://www.nowiny.pl/wiadomosci/251199-na-cmentarzu-komunalnym-w-wodzislawiu-slaskim-powstaja-nowe-miejsca-na-urny-pierwszy-etap-kosztuje-blisko-800-tys-zl-wizualizacje.html",
-      "published": "2026-09-28T07:03",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "d09b8ac12a3c7cc19eb5e8291bfcca94a6bd7922",
       "title": "TS Volley Rybnik zaczął sezon. Syguła: „Chcemy wygrywać wszystko”",
       "summary": "Od zwycięstwa rozpoczęli sezon siatkarze drugoligowego Volleya Rybnik. Rybniczanie pokonali we własnej hali 3:0 AZS AGH Kraków.",
@@ -226,16 +256,6 @@
       "published": "2026-09-28T07:00",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "93468d74c96e1b4e78441a8883c1fce13bd08a17",
-      "title": "Fani motoryzacji spotkają się w Zabełkowie [ZAPOWIEDŹ]",
-      "summary": "Miłośnicy samochodów i motocykli spotkają się 3 października na boisku LKS Zabełków (gm. Krzyżanowice). Zaplanowano tam zakończenie sezonu motoryzacyjnego, w ramach którego uczestnicy zaprezentują swoje pojazdy, przejadą trasą widokową, a na koniec odbiorą nagrody.",
-      "link": "https://www.nowiny.pl/wiadomosci/251198-fani-motoryzacji-spotkaja-sie-w-zabelkowie-zapowiedz.html",
-      "published": "2026-09-28T06:50",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -449,6 +469,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "f57eb7fceeea4020ddf24b11af18173762b125ee",
+      "title": "Frekwencyjny sukces Kolei Śląskich, jak z Częstochowy do Krakowa",
+      "summary": "W ciągu pierwszego roku funkcjonowania bezpośrednich połączeń pomiędzy Częstochową a Krakowem, Koleje Śląskie przewiozły na linii S34 ponad 650 tys. pasażerów. To frekwencyjny sukces i zasługa komfortowego oraz nowoczesnego taboru, a także konkurencyjnego czasu przejazdu, który jest o około pół…",
+      "link": "https://www.radio90.pl/frekwencyjny-sukces-kolei-slaskich-jak-z-czestochowy-do-krakowa.html",
+      "published": "2026-09-26T04:22",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "212801c9949fabace32489c5cfb942c9dcab78db",
       "title": "Od relacji do współpracy. Przedsiębiorcy spotkali się podczas wrześniowego BMH (foto)",
       "summary": "Nie tylko wizytówki i rozmowy o biznesie są ważne, ale przede wszystkim relacje, wymiana doświadczeń i wzajemna pomoc – tak wyglądało wrześniowe spotkanie przedsiębiorców w ramach Biznes Meeting Hub. Jednym z jego najważniejszych punktów była prelekcja Łukasza Dylika poświęcona motywacji w biznesie…",
@@ -465,16 +495,6 @@
       "link": "http://www.rybnik.com.pl/wiadomosci,tablice-na-wodzislawskiej-ozyly-wkrotce-beda-pomagac-kierowcom,wia5-3266-66231.html",
       "published": "2026-09-25T18:00",
       "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c4be09e351c79e0c57add5ce2aaa2405d9ba7ad2",
-      "title": "Ekoprzedszkolak w całym województwie. Dofinansowanie trafiło też do przedszkoli w naszym regionie",
-      "summary": "Były już pieniądz na ekopracownie, na klasy „pod chmurką”, teraz kolejne placówki mogły zdobyć dofinansowanie na zielone miejsca nauki. Tym razem skorzystały przedszkola.",
-      "link": "https://www.radio90.pl/ekoprzedszkolak-w-calym-wojewodztwie-dofinansowanie-trafilo-tez-do-przedszkoli-w-naszym-regionie.html",
-      "published": "2026-09-25T17:20",
-      "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -509,42 +529,12 @@
       "priority": "NORMAL"
     },
     {
-      "id": "54b2eb2496b11d736fc78f64b5f7b0b894a37f53",
-      "title": "Dzieje się w Rybniku: trwa jubileuszowa OFPA i głosowanie w Budżecie Obywatelskim. W niedzielę spacer na Ignacym",
-      "summary": "Koncerty w ramach Ogólnopolskiego Festiwalu Piosenki Artystycznej. Ciąg dalszy Europejskich Dni Dziedzictwa. Do tego sportowe emocje związane z meczem piłkarzy. Jak co tydzień sporo dzieje się w Rybniku! Jakie wydarzenia zaplanowano na najbliższy weekend od piątku (25.09) do niedzieli (27.09)?",
-      "link": "https://www.radio90.pl/dzieje-sie-w-rybniku-trwa-jubileuszowa-ofpa-i-glosowanie-w-budzecie-obywatelskim-w-niedziele-spacer-na-ignacym.html",
-      "published": "2026-09-25T14:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "05749b0a8f753a483c81cf36f14f7cf4ade59605",
       "title": "Zaskakująca reorganizacja w rybnickim magistracie? Dyrektor Sylwia Brzezicka-Tesarczyk \"na wylocie\"",
       "summary": "Reorganizacja Urzędu Miasta Rybnika i względy ekonomiczne – to oficjalne powody wniosku o odwołanie ze stanowiska Sylwii Brzezickiej-Tesarczyk, Dyrektor Centrum Zrównoważonej Gospodarki Miejskiej. O zgodę na rozwiązanie umowy z szefową kluczowej jednostki Prezydent Miasta Piotr Kuczera zwrócił się…",
       "link": "http://www.rybnik.com.pl/wiadomosci,zaskakujaca-reorganizacja-w-rybnickim-magistracie-dyrektor-sylwia-brzezicka-tesarczyk-na-wylocie,wia5-3266-66227.html",
       "published": "2026-09-25T14:00",
       "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "53318a6286dab2ec3ea7f9e87c991f51583bb4c6",
-      "title": "Urząd Miasta w Rybniku: w sali sesyjnej zawisł ponad stuletni krzyż. Przez lata wisiał w… sypialni urzędnika, który uratował go w trakcie wojny",
-      "summary": "Ponad stuletni krucyfiks wrócił do reprezentacyjnej sali sesyjnej rybnickiego magistratu. Jego historia jest dość niezwykła, sięga 1922 roku, kiedy ówczesne władze miasta kupiły go i powiesiły w miejskiej kasie.",
-      "link": "https://www.radio90.pl/urzad-miasta-w-rybniku-w-sali-sesyjnej-zawisl-ponad-stuletni-krzyz-przez-lata-wisial-w-sypialni-urzednika-ktory-uratowal-go-w-trakcie-wojny.html",
-      "published": "2026-09-25T13:55",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e3afe6718e50fed94893eef8e3c5d4e7a8b3ed77",
-      "title": "Trwa Europejski Tydzień Urologii. W rybnickim Focusie za darmo można się przebadać. Chętnych jest sporo [ZDJĘCIA]",
-      "summary": "Kolejka na badania urologiczne. W centrum handlowym Focus Park w centrum Rybnika ruszyła akcja bezpłatnych badań i konsultacji.",
-      "link": "https://www.radio90.pl/trwa-europejski-tydzien-urologii-w-rybnickim-focusie-za-darmo-mozna-sie-przebadac-chetnych-jest-sporo-zdjecia.html",
-      "published": "2026-09-25T13:03",
-      "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -987,6 +977,16 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
+    },
+    {
+      "id": "7775620033b210353f129f5eecfe07a22fb496c1",
+      "title": "Kochasz śpiewać? Już dziś nabór do Zespołu Wokalnego PERSPEKTYWA!",
+      "summary": "Uwielbiasz śpiewać, marzysz o występach na scenie, a może chcesz po prostu szlifować swój warsztat pod okiem doświadczonych instruktorów? Działający przy Raciborskim Centrum Kultury Zespół Wokalny Perspektywa otwiera swoje drzwi na nowy sezon artystyczny. Poszukiwani są pasjonaci muzyki…",
+      "link": "https://www.nowiny.pl/wiadomosci/250888-kochasz-spiewac-juz-dzis-nabor-do-zespolu-wokalnego-perspektywa.html",
+      "published": "2026-09-11T07:52",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
     },
     {
       "id": "53a9be53b8a68795cc81c2a6552e64bba02ce82d",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T13:53:40",
+  "generated_at": "2026-09-28T23:17:06",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,42 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 147,
+  "count": 150,
   "failures": [],
   "events": [
-    {
-      "id": "tzr-zaproszenie-kntds",
-      "title": "Zaproszenie",
-      "category": "Film",
-      "start": "2026-09-28T15:30",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Joe i Angela są małżeństwem z kilkunastoletnim stażem. Z pozoru ich związek wydaje się wręcz wzorcowy: zgodne, spokojne życie w porządnej dzielnicy, udane dziecko, niezły status materialny. Jednak pod powierzchnią kryją się wzajemne pretensje, drobne konflikty, a przede wszystkim nuda i rutyna. Gdy pewnego wieczoru Joe i Angela zapraszają na kolację parę tajemniczych sąsiadów, swobodna i przyjacielska rozmowa zaczyna zmieniać się w pełną dwuznaczności grę. To, co dotąd skrywane, wychodzi na jaw, a niewypowiedziane pragnienia ducha i ciała zaczynają nabierać niebezpiecznie realnych kształtów. Czy obie pary pójdą dziś spać we własnych łóżkach?",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/zaproszenie-kntds.html"
-    },
-    {
-      "id": "iryb-pogadajmy-o-historii-szack-1939-epizod-wojny-na-kresach",
-      "title": "POGADAJmy o historii... Szack 1939. Epizod wojny na Kresach",
-      "category": "Inne",
-      "start": "2026-09-28T16:30",
-      "end": null,
-      "venue": "Halo! Rybnik",
-      "description": "28 września w halo! Rybnik odbędzie się kolejne spotkanie z cyklu historycznego prowadzonego przez Rafała Lodzińskiego. Tym razem uczestnicy poznają wydarzenia związane z bitwą w Lesie Stockim, walkami pod Szackiem w 1939 roku oraz wojną na Kresach. Podczas spotkania będzie można usłyszeć o sytuacji na Polesiu i Wołyniu, a także o losach żołnierzy Korpusu Ochrony Pogranicza. To opowieść o jednym z epizodów wojny, który rozgrywał się na wschodnich terenach II Rzeczypospolitej. Rafał Lodziński przedstawi historię bitwy w Lesie Stockim oraz wydarzenia określane jako Szack 1939. W centrum opowieści znajdą się działania wojenne na Kresach, w tym wydarzenia rozgrywające się na Polesiu i Wołyniu. Uczestnicy poznają również losy żołnierzy Korpusu Ochrony Pogranicza, którzy we wrześniu 1939 roku brali udział w walkach na wschodnich rubieżach kraju. Spotkanie ma przybliżyć zarówno szerszy kontekst wojny, jak i konkretne wydarzenia związane z Szackiem oraz Lasem Stockim.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/pogadajmy-o-historii-szack-1939-epizod-wojny-na-kresach"
-    },
-    {
-      "id": "tzr-gorzkie-swieta",
-      "title": "Gorzkie święta",
-      "category": "Film",
-      "start": "2026-09-28T19:00",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Po śmierci matki Elza rzuca się w wir pracy, nie pozwalając sobie na przeżycie żałoby. Dopiero atak paniki daje jej impuls do zatrzymania się oraz dalekiej podróży.",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/gorzkie-swieta.html"
-    },
     {
       "id": "iryb-dzien-kultury-w-ramach-iv-rybnickiego-tygodnia-senioralnego",
       "title": "Dzień Kultury w ramach IV Rybnickiego Tygodnia Senioralnego",
@@ -108,6 +75,17 @@
       "description": "W Bibliotece Głównej w Rybniku dzieci mogą poznawać jogę bez presji i „siedzenia grzecznie”. Yoga Dzikich Dzieci łączy ruch, oddech, zabawę i chwile wyciszenia — w sam raz dla młodych osób, które mają mnóstwo energii albo potrzebują odpocząć od ekranów. Kiedy: 30 września 2026 roku (środa), godz. 17:30–20:30 Gdzie: Biblioteka Główna, ul. ks. Józefa Szafranka 7, Rybnik Cena: nie podano informacji o cenie. Zapisy i pytania: 693 383 777; można wysłać SMS z imieniem dziecka i dopiskiem „środa 17:30”. Zajęcia prowadzi Elwira Zembrzuska z YogaRybnik.com. Warto zabrać matę, jeśli jest dostępna; w razie jej braku można ustalić inną możliwość telefonicznie. Podczas spotkania dzieci poznają pozycje inspirowane zwierzętami, poruszają się, słuchają historii i ćwiczą oddech. Nie ma oceniania ani rywalizacji — ważniejsze są swoboda, ciekawość i dobra zabawa. Na zakończenie przewidziano moment wyciszenia.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/yoga-dzikich-dzieci-w-rybniku"
+    },
+    {
+      "id": "iryb-dzien-otwarty-w-sali-sesyjnej",
+      "title": "Dzień otwarty w sali sesyjnej",
+      "category": "Inne",
+      "start": "2026-10-01T08:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Odnowiona sala sesyjna Urzędu Miasta Rybnika będzie dostępna dla mieszkańców podczas dnia otwartego. To okazja, by zobaczyć wnętrze, w którym zachowały się historyczne detale. Wydarzenie zaplanowano na 1 października 2026 roku , w godzinach od 8:00 do 18:00 . Mieszkańcy będą mogli odwiedzić Salę sesyjną im. Władysława Webera w Urzędzie Miasta Rybnika . Podczas wizyty będzie można przyjrzeć się historycznym elementom wnętrza. Wśród nich są mosiężny żyrandol w stylu art déco oraz krucyfiks, który ma ponad sto lat. Sala została odnowiona i zostanie udostępniona mieszkańcom na czas wydarzenia. Organizatorem dnia otwartego jest Urząd Miasta Rybnika . Wstęp do sali jest otwarty dla wszystkich mieszkańców.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/dzien-otwarty-w-sali-sesyjnej"
     },
     {
       "id": "iryb-warsztaty-florystyczne-dla-pan-dynia-pelna-jesieni",
@@ -1375,6 +1353,28 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/40-silesian-jazz-meeting-kinga-glyk-na-zywo"
     },
     {
+      "id": "bilnya-30-rybnicka-jesien-kabaretowa-ryjek-2026-dzien-1-202611191730",
+      "title": "30.Rybnicka Jesień Kabaretowa RYJEK 2026 - Dzień 1",
+      "category": "Kabaret",
+      "start": "2026-11-19T17:30",
+      "end": "2026-11-19T19:00",
+      "venue": "Klub Energetyka, ul. Podmiejska 43",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/kabaret/30Rybnicka-Jesien-Kabaretowa-RYJEK-2026-Dzien-1?eid=708202#opis"
+    },
+    {
+      "id": "bilnya-30-rybnicka-jesien-kabaretowa-ryjek-2026-dzien-2-202611201730",
+      "title": "30.Rybnicka Jesień Kabaretowa RYJEK 2026 - Dzień 2",
+      "category": "Kabaret",
+      "start": "2026-11-20T17:30",
+      "end": "2026-11-20T19:00",
+      "venue": "Klub Energetyka, ul. Podmiejska 43",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/kabaret/30Rybnicka-Jesien-Kabaretowa-RYJEK-2026-Dzien-2?eid=708203#opis"
+    },
+    {
       "id": "iryb-bimber-i-marakasy-w-rybniku",
       "title": "Bimber i marakasy w Rybniku",
       "category": "Inne",
@@ -1419,6 +1419,17 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/warsztaty-wokalne-rock-voices-festival-2026-w-dk-boguszowice/"
     },
     {
+      "id": "bilnya-30-rybnicka-jesien-kabaretowa-ryjek-2026-dzien-3-202611211630",
+      "title": "30.Rybnicka Jesień Kabaretowa RYJEK 2026 - Dzień 3",
+      "category": "Kabaret",
+      "start": "2026-11-21T16:30",
+      "end": "2026-11-21T18:00",
+      "venue": "Klub Energetyka, ul. Podmiejska 43",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/kabaret/30Rybnicka-Jesien-Kabaretowa-RYJEK-2026-Dzien-3?eid=708205#opis"
+    },
+    {
       "id": "iryb-country-nad-nacyna-w-rybniku-koncert-drogi-na-ostroleke-i-im",
       "title": "COUNTRY nad Nacyną w Rybniku. Koncert Drogi Na Ostrołękę i impreza w Klubie Odyseja",
       "category": "Impreza",
@@ -1439,6 +1450,17 @@
       "description": "Przed nami finał Rock Voices Festival 2026, czyli koncert, w którym energia wielu głosów spotka się z mocą gitar, perkusji i prawdziwie rockowej sceny. Na jednej scenie wystąpią uczestnicy festiwalowych warsztatów, profesjonalny zespół rockowy oraz Gość Specjalny: Wojtek Cugowski. Publiczność usłyszy 11 legendarnych hitów w nowych, chóralno-rockowych aranżacjach. W programie znajdą się między innymi „Wehikuł Czasu”, „Africa”, „Sky Full of Stars” oraz kultowy „Zegarmistrz Światła”. To będzie energetyczny koncert pełen emocji, znanych melodii, które dostaną solidnego twista i zabrzmią ciężej, głośniej i bardziej bezkompromisowo. Chór złożony z dzieci, młodzieży i dorosłych, rockowy zespół oraz nasz Wyjątkowy Gość Specjalny stworzą finał, który zabrzmi mocno, szczerze i z charakterem. Rock Voices Festival 2026 to muzyczna petarda, spotkanie pokoleń i dowód na to, że rock w chóralnym wydaniu potrafi mieć naprawdę potężną siłę. Bilety:normalny – 65 złulgowy – 55 zł | Bilet ulgowy przysługuje uczniom, studentom, seniorom oraz posiadaczom karty Rybka. KUP BILETY! Rybnik rocks. Bądźcie z nami na finale!",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/rock-voices-festival-2026-koncert-finalowy-z-wojtkiem-cugowskim/"
+    },
+    {
+      "id": "bilnya-30-rybnicka-jesien-kabaretowa-ryjek-2026-dzien-4-202611221900",
+      "title": "30.Rybnicka Jesień Kabaretowa RYJEK 2026 - Dzień 4",
+      "category": "Kabaret",
+      "start": "2026-11-22T19:00",
+      "end": "2026-11-22T20:30",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/kabaret/30Rybnicka-Jesien-Kabaretowa-RYJEK-2026-Dzien-4?eid=708206#opis"
     },
     {
       "id": "iryb-bestfit-games-rx-scaled-2026-w-rybniku",
@@ -1472,6 +1494,17 @@
       "description": "Andrzejki to jedna z ostatnich okazji na taneczną zabawę przed adwentem. W OlimpiiRybnik zabrzmią przeboje od lat 70., 80. i 90. aż po najnowsze hity, a klimat jak za dawnych lat dopełni wideobudka 360°. To propozycja dla osób, które mają ochotę potańczyć przy dobrze znanych przebojach i nowszych hitach. Muzyczna podróż przez kilka dekad, andrzejkowy nastrój i wideobudka 360° mają stworzyć przestrzeń do wspólnej zabawy i pamiątkowych nagrań. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/andrzejkowa-dyskoteka-w-olimpiirybnik"
+    },
+    {
+      "id": "iryb-rybnik-w-swiatecznym-klimacie",
+      "title": "Rybnik w świątecznym klimacie",
+      "category": "Festiwal",
+      "start": "2026-12-04T00:00",
+      "end": null,
+      "venue": "Bazylika św. Antoniego w Rybniku",
+      "description": "Grudniowe centrum Rybnika wypełnią świąteczne jarmarki, rodzinne atrakcje i muzyka lokalnych wykonawców. Wydarzeniom towarzyszyć będzie Festiwal Grzańca, a na fasadzie bazyliki św. Antoniego zaplanowano mapping. Wydarzenie rozpocznie się 4 grudnia 2026 roku w centrum Rybnika. Obejmie rynek, rejon bazyliki św. Antoniego, deptak i przyległe ulice. W przekazanych informacjach nie podano godziny rozpoczęcia. W programie znajdą się stoiska z rękodziełem i regionalnymi produktami, a także atrakcje dla rodzin. Na wydarzeniu wystąpią lokalni muzycy. Jednym z punktów będzie mapping wyświetlany na fasadzie bazyliki św. Antoniego. Dwa jarmarki, 15 beczek i mapping bazyliki. Grudzień w Rybniku",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/rybnik-w-swiatecznym-klimacie"
     },
     {
       "id": "bilnya-selfie-czyli-milosc-na-pstryk-202612041900",
