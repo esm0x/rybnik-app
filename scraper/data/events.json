@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T21:21:30",
+  "generated_at": "2026-09-28T05:23:38",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,31 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 148,
+  "count": 146,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-robert-kasprzycki-rybnik-koncert-na-zywo",
-      "title": "Robert Kasprzycki | Rybnik – koncert na żywo",
-      "category": "Koncert",
-      "start": "2026-09-27T18:30",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Robert Kasprzycki przyjeżdża do Rybnika z piosenkami, które łączą poetycką wrażliwość z dużą dawką humoru. To spotkanie z artystą znanym z „Nieba do wynajęcia” i wielu utworów, które na stałe wpisały się w kanon polskiej piosenki poetyckiej. Kasprzycki to nie tylko śpiewający autor, ale również charyzmatyczny showman z wyjątkowym poczuciem humoru. Jego piosenki przez miesiące gościły na listach przebojów, a część z nich trafiła do śpiewników i stała się ważnym elementem polskiej piosenki poetyckiej. W dorobku artysty są także albumy „Gdy późno w noc” oraz „MAŁA ŁAZIENKOWA”, oba wydane w 2021 roku. Wieczór może zainteresować zarówno wieloletnich słuchaczy, jak i osoby, które dopiero odkrywają jego twórczość.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/robert-kasprzycki-rybnik-koncert-na-zywo"
-    },
-    {
-      "id": "dk-chw-dzien-kultury-w-ramach-iv-rybnickiego-tygodnia-senioralnego-20260928",
-      "title": "Dzień Kultury w ramach IV Rybnickiego Tygodnia Senioralnego",
-      "category": "Inne",
-      "start": "2026-09-28T00:00",
-      "end": null,
-      "venue": "Dom Kultury Rybnik-Chwałowice",
-      "description": "Już po raz czwarty wspólnie tworzymy Rybnicki Tydzień Senioralny! Wiele rybnickich organizacji i instytucji łączy siły, by przez cały tydzień w różnych częściach miasta działo się coś ważnego, ciekawego i dobrego dla seniorów.",
-      "sourceName": "DK Chwałowice",
-      "sourceUrl": "https://www.dkchwalowice.pl/?news=51903"
-    },
     {
       "id": "iryb-iv-rybnicki-tydzien-senioralny",
       "title": "IV Rybnicki Tydzień Senioralny",
@@ -83,7 +61,7 @@
       "start": "2026-09-29T11:00",
       "end": null,
       "venue": "Halo! Rybnik",
-      "description": "Dziecięca wyobraźnia potrafi nadać znanym obrazom zupełnie nowe znaczenie, a z własnych pomysłów stworzyć małe dzieła sztuki. Szósta edycja wystawy „Malowane wyobraźnią z obrazem w tle” prezentuje prace młodych artystów z SP7, które będzie można oglądać w halo! Rybnik. Młodzi artyści tworzyli na płótnach, czerpiąc inspirację zarówno ze znanych dzieł malarskich, jak i z własnych pomysłów oraz obserwacji otaczającego świata. Niektóre prace nawiązują do rozpoznawalnych obrazów, inne są autorskimi kompozycjami. Każda z nich jest inna i pokazuje, jak wiele może powstać dzięki kreatywności i swobodnemu spojrzeniu na sztukę. Wystawa to okazja, by zobaczyć, jak dzieci interpretują malarstwo i opowiadają obrazami własne historie.",
+      "description": "Dziecięca wyobraźnia potrafi nadać znanym obrazom zupełnie nowe znaczenie, a z własnych pomysłów stworzyć małe dzieła sztuki. Szósta edycja wystawy „Malowane wyobraźnią z obrazem w tle” prezentuje prace młodych artystów z SP7, które będzie można oglądać w halo! Rybnik. Młodzi artyści tworzyli na płótnach, czerpiąc inspirację zarówno ze znanych dzieł malarskich, jak i z własnych pomysłów oraz obserwacji otaczającego świata. Niektóre prace nawiązują do rozpoznawalnych obrazów, inne są autorskimi kompozycjami. Każda z nich jest inna i pokazuje, jak wiele może powstać dzięki kreatywności i swobodnemu spojrzeniu na sztukę. Wystawa to okazja, by zobaczyć, jak dzieci interpretują malarstwo i opowiadają obrazami własne historie. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/malowane-wyobraznia-wystawa-sp7"
     },
@@ -171,7 +149,7 @@
       "start": "2026-10-02T17:00",
       "end": null,
       "venue": "Rybnik",
-      "description": "Jesienny wieczór z kakao, świadomym oddechem i uważnością to propozycja dla osób, które chcą na chwilę zwolnić i odpocząć od codziennego pośpiechu. Spotkanie poprowadzi Aurora Mentis. W programie znajdą się trzy elementy: ceremonia kakao, ćwiczenia świadomego oddechu oraz praktyka mindfulness, czyli uważnego bycia w chwili obecnej. To spokojna przestrzeń na kontakt z własnymi odczuciami i odpoczynek bez presji, by cokolwiek osiągać czy robić „idealnie”. Nie trzeba mieć doświadczenia w medytacji ani pracy z oddechem. Spotkanie może zainteresować osoby, które chcą zwolnić tempo, przyjrzeć się swoim emocjom lub po prostu spędzić czas w atmosferze sprzyjającej wyciszeniu.",
+      "description": "Jesienny wieczór z kakao, świadomym oddechem i uważnością to propozycja dla osób, które chcą na chwilę zwolnić i odpocząć od codziennego pośpiechu. Spotkanie poprowadzi Aurora Mentis. W programie znajdą się trzy elementy: ceremonia kakao, ćwiczenia świadomego oddechu oraz praktyka mindfulness, czyli uważnego bycia w chwili obecnej. To spokojna przestrzeń na kontakt z własnymi odczuciami i odpoczynek bez presji, by cokolwiek osiągać czy robić „idealnie”. Nie trzeba mieć doświadczenia w medytacji ani pracy z oddechem. Spotkanie może zainteresować osoby, które chcą zwolnić tempo, przyjrzeć się swoim emocjom lub po prostu spędzić czas w atmosferze sprzyjającej wyciszeniu. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/ceremonia-kakao-oddech-i-mindfulness-w-rybniku"
     },
@@ -182,7 +160,7 @@
       "start": "2026-10-02T18:00",
       "end": null,
       "venue": "Rybnik",
-      "description": "Katarzyna Koch zaprasza do świata, w którym kobiece ciało i emocje splatają się z rytmem natury. Wernisaż wystawy malarstwa „4 pory… obecności” odbędzie się w Galerii Sztuki Rzeczna w Rybniku. Wystawa opowiada o kobiecej energii, która przybiera różne formy i nie daje się zamknąć w jednej definicji. Artystka traktuje cztery pory nie jako dosłowne sezony, lecz jako odmienne odsłony tego samego stanu obecności. Na obrazach ciało wyłania się z tła, przenika z kolorem albo rozpływa w mgle i cieniu. Złote nici, linie i smugi łączą postacie z otoczeniem, a zmieniające się barwy prowadzą przez różne emocjonalne nastroje. To propozycja dla osób, które cenią malarstwo skupione na symbolach, naturze i wielowymiarowym obrazie kobiecości.",
+      "description": "Katarzyna Koch zaprasza do świata, w którym kobiece ciało i emocje splatają się z rytmem natury. Wernisaż wystawy malarstwa „4 pory… obecności” odbędzie się w Galerii Sztuki Rzeczna w Rybniku. Wystawa opowiada o kobiecej energii, która przybiera różne formy i nie daje się zamknąć w jednej definicji. Artystka traktuje cztery pory nie jako dosłowne sezony, lecz jako odmienne odsłony tego samego stanu obecności. Na obrazach ciało wyłania się z tła, przenika z kolorem albo rozpływa w mgle i cieniu. Złote nici, linie i smugi łączą postacie z otoczeniem, a zmieniające się barwy prowadzą przez różne emocjonalne nastroje. To propozycja dla osób, które cenią malarstwo skupione na symbolach, naturze i wielowymiarowym obrazie kobiecości. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/4-pory-obecnosci-wernisaz-w-rybniku"
     },
@@ -248,7 +226,7 @@
       "start": "2026-10-03T15:00",
       "end": null,
       "venue": "Rybnik",
-      "description": "Jesienne popołudnie wśród suszonych roślin, kwiatów i naturalnych ozdób? W Rybniku odbędą się warsztaty, podczas których powstaną wianki inspirowane kolorami tej pory roku. W kameralnej atmosferze nie zabraknie też ciepłej herbaty i szarlotki od Arti Torti. Podczas spotkania uczestnicy będą tworzyć jesienne wianki z kwiatów, suszonych roślin i naturalnych dekoracji. To propozycja dla osób, które chcą spędzić spokojne, twórcze popołudnie i przygotować własną ozdobę na jesień. Do pracy w przytulnej atmosferze dołączą kubek ciepłej herbaty oraz porcja szarlotki od Arti Torti.",
+      "description": "Jesienne popołudnie wśród suszonych roślin, kwiatów i naturalnych ozdób? W Rybniku odbędą się warsztaty, podczas których powstaną wianki inspirowane kolorami tej pory roku. W kameralnej atmosferze nie zabraknie też ciepłej herbaty i szarlotki od Arti Torti. Podczas spotkania uczestnicy będą tworzyć jesienne wianki z kwiatów, suszonych roślin i naturalnych dekoracji. To propozycja dla osób, które chcą spędzić spokojne, twórcze popołudnie i przygotować własną ozdobę na jesień. Do pracy w przytulnej atmosferze dołączą kubek ciepłej herbaty oraz porcja szarlotki od Arti Torti. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/warsztaty-tworzenia-jesiennych-wiankow-w-rybniku"
     },
@@ -303,7 +281,7 @@
       "start": "2026-10-03T19:00",
       "end": null,
       "venue": "Rybnik",
-      "description": "Rybnik szykuje wieczór w czarującym klimacie! VI Rybnicki Sabat Czarownic będzie przebieraną imprezą z tańcami, konkursami i innymi atrakcjami dla czarownic, upiorów oraz wszystkich, którzy lubią halloweenową zabawę. ‍ Organizatorzy zapowiadają tematyczną, przebieraną imprezę, podczas której nie zabraknie tańców, konkursów i innych atrakcji. Szczegółowy program ma zostać podany wkrótce, dlatego na razie nie wiadomo, jakie dokładnie niespodzianki czekają na uczestników. To propozycja dla osób, które mają ochotę na wieczór w upiornym wydaniu — z kostiumem, dobrą muzyką i wspólną zabawą.",
+      "description": "Rybnik szykuje wieczór w czarującym klimacie! VI Rybnicki Sabat Czarownic będzie przebieraną imprezą z tańcami, konkursami i innymi atrakcjami dla czarownic, upiorów oraz wszystkich, którzy lubią halloweenową zabawę. ‍ Organizatorzy zapowiadają tematyczną, przebieraną imprezę, podczas której nie zabraknie tańców, konkursów i innych atrakcji. Szczegółowy program ma zostać podany wkrótce, dlatego na razie nie wiadomo, jakie dokładnie niespodzianki czekają na uczestników. To propozycja dla osób, które mają ochotę na wieczór w upiornym wydaniu — z kostiumem, dobrą muzyką i wspólną zabawą. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/vi-rybnicki-sabat-czarownic-impreza-w-rybniku"
     },
@@ -336,7 +314,7 @@
       "start": "2026-10-04T11:00",
       "end": null,
       "venue": "Rybnik",
-      "description": "Październikowy spacer po leśnych ścieżkach, mapa w dłoni i pies u boku — tak zapowiada się jesienny Dogtrekking w Rybniku. Do wyboru będą dwie trasy, rekreacyjna i na czas, a przy okazji będzie można spędzić dzień z psiakiem z rybnickiego schroniska. To propozycja dla osób w różnym tempie, więc można zabrać smycz i zaplanować wspólną wyprawę. Wydarzenie obejmuje dwie trasy na orientację. „Na luzie” to około 4 km i propozycja spokojnego spaceru lub lekkiego truchtu, bez presji czasu. „Na czas” liczy około 5 km i jest przeznaczona dla osób, które chcą sprawdzić swoje tempo oraz umiejętności nawigacyjne. W obu wariantach przewidziano około 200 m przewyższenia. Jesienna edycja ma także wymiar pomocowy: uczestnicy będą mogli przejść trasę w towarzystwie psa z Rybnickiego Schroniska dla Zwierząt. To okazja, by podarować schroniskowemu czworonogowi spacer pełen nowych zapachów i uwagi.",
+      "description": "Październikowy spacer po leśnych ścieżkach, mapa w dłoni i pies u boku — tak zapowiada się jesienny Dogtrekking w Rybniku. Do wyboru będą dwie trasy, rekreacyjna i na czas, a przy okazji będzie można spędzić dzień z psiakiem z rybnickiego schroniska. To propozycja dla osób w różnym tempie, więc można zabrać smycz i zaplanować wspólną wyprawę. Wydarzenie obejmuje dwie trasy na orientację. „Na luzie” to około 4 km i propozycja spokojnego spaceru lub lekkiego truchtu, bez presji czasu. „Na czas” liczy około 5 km i jest przeznaczona dla osób, które chcą sprawdzić swoje tempo oraz umiejętności nawigacyjne. W obu wariantach przewidziano około 200 m przewyższenia. Jesienna edycja ma także wymiar pomocowy: uczestnicy będą mogli przejść trasę w towarzystwie psa z Rybnickiego Schroniska dla Zwierząt. To okazja, by podarować schroniskowemu czworonogowi spacer pełen nowych zapachów i uwagi. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/dogtrekking-jesien-2026-w-rybniku"
     },
@@ -457,7 +435,7 @@
       "start": "2026-10-07T17:00",
       "end": null,
       "venue": "Halo! Rybnik",
-      "description": "Poezja wraca do halo! Rybnik — po kilkuletniej przerwie znów będzie można wspólnie czytać, rozmawiać i dzielić się własnymi tekstami. Spotkanie jest otwarte także dla osób, które dopiero zaczynają swoją przygodę z pisaniem. „Środa z Wytrychem” będzie okazją do prezentowania własnej twórczości, słuchania wierszy i rozmów o literaturze oraz sztuce. Nie trzeba mieć na koncie publikacji ani wieloletniego doświadczenia — wystarczy ciekawość i otwartość na słowa oraz emocje, które za nimi stoją. To propozycja zarówno dla osób piszących, jak i tych, które po prostu lubią słuchać poezji i spojrzeć na świat z innej perspektywy.",
+      "description": "Poezja wraca do halo! Rybnik — po kilkuletniej przerwie znów będzie można wspólnie czytać, rozmawiać i dzielić się własnymi tekstami. Spotkanie jest otwarte także dla osób, które dopiero zaczynają swoją przygodę z pisaniem. „Środa z Wytrychem” będzie okazją do prezentowania własnej twórczości, słuchania wierszy i rozmów o literaturze oraz sztuce. Nie trzeba mieć na koncie publikacji ani wieloletniego doświadczenia — wystarczy ciekawość i otwartość na słowa oraz emocje, które za nimi stoją. To propozycja zarówno dla osób piszących, jak i tych, które po prostu lubią słuchać poezji i spojrzeć na świat z innej perspektywy. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/sroda-z-wytrychem-poezja-w-rybniku"
     },
@@ -578,7 +556,7 @@
       "start": "2026-10-10T11:00",
       "end": null,
       "venue": "Rybnik",
-      "description": "W Rybnik Plaza pojawi się Pet Patrol Rybnik, a wraz z nim okazja, by wesprzeć potrzebujące zwierzaki. W programie są zbiórka karmy i żwirku, losowanie upominków oraz kolorowanki dla najmłodszych. Na stoisku Pet Patrol Rybnik będzie można przekazać karmę i żwirek dla podopiecznych fundacji. Dostępne będą także baloniki oraz gadżety z jej logo, które będzie można kupić. Osoby wspierające zbiórkę wezmą udział w losowaniu drobnych upominków — do wyboru będą cztery kategorie. Na dzieci czeka natomiast strefa z kolorowankami. To propozycja dla mieszkańców, którzy chcą poznać działalność Pet Patrol i dowiedzieć się, jak wygląda pomoc jego podopiecznym.",
+      "description": "W Rybnik Plaza pojawi się Pet Patrol Rybnik, a wraz z nim okazja, by wesprzeć potrzebujące zwierzaki. W programie są zbiórka karmy i żwirku, losowanie upominków oraz kolorowanki dla najmłodszych. Na stoisku Pet Patrol Rybnik będzie można przekazać karmę i żwirek dla podopiecznych fundacji. Dostępne będą także baloniki oraz gadżety z jej logo, które będzie można kupić. Osoby wspierające zbiórkę wezmą udział w losowaniu drobnych upominków — do wyboru będą cztery kategorie. Na dzieci czeka natomiast strefa z kolorowankami. To propozycja dla mieszkańców, którzy chcą poznać działalność Pet Patrol i dowiedzieć się, jak wygląda pomoc jego podopiecznym. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/pomozmy-razem-podopiecznym-pet-patrol-w-rybniku"
     },
@@ -622,7 +600,7 @@
       "start": "2026-10-10T19:00",
       "end": null,
       "venue": "Rybnik",
-      "description": "Żeglarski sezon w Rybniku zakończy się przy szantach, wspólnym śpiewaniu i solidnej porcji dobrej zabawy. GrOm wystąpi w Odyseji 10 października — to propozycja dla miłośników morskich pieśni i wieczorów z energią. Koncert GrOm ma być okazją do symbolicznego pożegnania sezonu żeglarskiego i wspólnego zaśpiewania szant. Organizatorzy zapowiadają wieczór pełen humoru i dobrej zabawy — w morskim klimacie, który najlepiej smakuje przy znanych żeglarskich pieśniach.",
+      "description": "Żeglarski sezon w Rybniku zakończy się przy szantach, wspólnym śpiewaniu i solidnej porcji dobrej zabawy. GrOm wystąpi w Odyseji 10 października — to propozycja dla miłośników morskich pieśni i wieczorów z energią. Koncert GrOm ma być okazją do symbolicznego pożegnania sezonu żeglarskiego i wspólnego zaśpiewania szant. Organizatorzy zapowiadają wieczór pełen humoru i dobrej zabawy — w morskim klimacie, który najlepiej smakuje przy znanych żeglarskich pieśniach. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/grom-koncert-szanty-w-rybniku"
     },
@@ -655,7 +633,7 @@
       "start": "2026-10-11T15:00",
       "end": null,
       "venue": "Halo! Rybnik",
-      "description": "Jesień może wejść do domu nie tylko za sprawą kolorowych liści — podczas spotkania „Coś z niczego” w halo! Rybnik Czesława Brańska pokaże, jak stworzyć sezonowe dekoracje z prostych materiałów. To twórcze popołudnie dla dzieci, dorosłych i seniorów. Uczestnicy będą tworzyć dekoracje, które pomogą wprowadzić do domu jesienny nastrój. Pomysł spotkania opiera się na wykorzystaniu tego, co jest pod ręką — nie trzeba mieć doświadczenia w rękodziele ani specjalnych umiejętności. Wystarczą chęci, odrobina wyobraźni i dobry humor. Spotkanie jest otwarte dla osób w każdym wieku, a jego prowadząca, Czesława Brańska, podpowie, jak dać zwykłym materiałom drugie życie. To propozycja dla tych, którzy chcą spędzić popołudnie kreatywnie i przygotować własną jesienną ozdobę.",
+      "description": "Jesień może wejść do domu nie tylko za sprawą kolorowych liści — podczas spotkania „Coś z niczego” w halo! Rybnik Czesława Brańska pokaże, jak stworzyć sezonowe dekoracje z prostych materiałów. To twórcze popołudnie dla dzieci, dorosłych i seniorów. Uczestnicy będą tworzyć dekoracje, które pomogą wprowadzić do domu jesienny nastrój. Pomysł spotkania opiera się na wykorzystaniu tego, co jest pod ręką — nie trzeba mieć doświadczenia w rękodziele ani specjalnych umiejętności. Wystarczą chęci, odrobina wyobraźni i dobry humor. Spotkanie jest otwarte dla osób w każdym wieku, a jego prowadząca, Czesława Brańska, podpowie, jak dać zwykłym materiałom drugie życie. To propozycja dla tych, którzy chcą spędzić popołudnie kreatywnie i przygotować własną jesienną ozdobę. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/cos-z-niczego-jesienne-ozdoby-w-rybniku"
     },
@@ -743,7 +721,7 @@
       "start": "2026-10-16T17:00",
       "end": null,
       "venue": "Halo! Rybnik",
-      "description": "W halo! Rybnik Adam Marek opowie o swojej najnowszej książce poetyckiej „Jej kolor włosów”. Spotkanie poprowadzi Rafał Lodziński, a rozmowa będzie okazją, by zajrzeć do świata poezji, w którym pytanie o tytułowy kolor staje się punktem wyjścia do refleksji o relacjach i kobiecości. Tytułowe pytanie nie dotyczy wyłącznie wyglądu — w interpretacji tomu otwiera rozmowę o próbie poznania drugiego człowieka i złożoności relacji. Książka ukazała się w 2026 roku nakładem Oficyny Wydawniczej FONT. Adam Marek mieszka i tworzy w Rybniku. Jest współzałożycielem Wolnej Inicjatywy Artystycznej Wytrych, członkiem Stowarzyszenia Pisarzy Polskich oraz autorem kilku tomów poezji. Jego wiersze publikowano m.in. w kwartalniku „Wytrych”, a także tłumaczono na angielski, włoski, bułgarski i ukraiński.",
+      "description": "W halo! Rybnik Adam Marek opowie o swojej najnowszej książce poetyckiej „Jej kolor włosów”. Spotkanie poprowadzi Rafał Lodziński, a rozmowa będzie okazją, by zajrzeć do świata poezji, w którym pytanie o tytułowy kolor staje się punktem wyjścia do refleksji o relacjach i kobiecości. Tytułowe pytanie nie dotyczy wyłącznie wyglądu — w interpretacji tomu otwiera rozmowę o próbie poznania drugiego człowieka i złożoności relacji. Książka ukazała się w 2026 roku nakładem Oficyny Wydawniczej FONT. Adam Marek mieszka i tworzy w Rybniku. Jest współzałożycielem Wolnej Inicjatywy Artystycznej Wytrych, członkiem Stowarzyszenia Pisarzy Polskich oraz autorem kilku tomów poezji. Jego wiersze publikowano m.in. w kwartalniku „Wytrych”, a także tłumaczono na angielski, włoski, bułgarski i ukraiński. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/spotkanie-autorskie-z-adamem-markiem-w-rybniku"
     },
@@ -765,7 +743,7 @@
       "start": "2026-10-16T18:00",
       "end": null,
       "venue": "Klub Odyseja, Raciborska 9a, Rybnik",
-      "description": "Rybnik tej jesieni zabrzmi rytmami ska! RybSKA | Klub Odyseja to wieczór z energiczną muzyką i klubowym klimatem, który może rozruszać nawet najbardziej pochmurny październikowy piątek. Warto zarezerwować sobie ten termin i dać się porwać ska. Organizatorzy zapowiadają muzyczną podróż w stronę ska — gatunku kojarzonego z charakterystycznym rytmem, taneczną energią i imprezową atmosferą. Nazwa RybSKA dobrze oddaje pomysł na ten wieczór: ma być żywo, rytmicznie i z klubowym pazurem To propozycja dla osób, które lubią koncerty, alternatywne brzmienia i wydarzenia, na których muzyka szybko zachęca do ruchu. Klub Odyseja przy Raciborskiej 9a stanie się miejscem spotkania fanów ska i wszystkich ciekawych nieco innego pomysłu na piątkowy wieczór",
+      "description": "Rybnik tej jesieni zabrzmi rytmami ska! RybSKA | Klub Odyseja to wieczór z energiczną muzyką i klubowym klimatem, który może rozruszać nawet najbardziej pochmurny październikowy piątek. Warto zarezerwować sobie ten termin i dać się porwać ska. Organizatorzy zapowiadają muzyczną podróż w stronę ska — gatunku kojarzonego z charakterystycznym rytmem, taneczną energią i imprezową atmosferą. Nazwa RybSKA dobrze oddaje pomysł na ten wieczór: ma być żywo, rytmicznie i z klubowym pazurem To propozycja dla osób, które lubią koncerty, alternatywne brzmienia i wydarzenia, na których muzyka szybko zachęca do ruchu. Klub Odyseja przy Raciborskiej 9a stanie się miejscem spotkania fanów ska i wszystkich ciekawych nieco innego pomysłu na piątkowy wieczór Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/rybska-klub-odyseja-w-rybniku"
     },
@@ -1062,7 +1040,7 @@
       "start": "2026-10-24T19:00",
       "end": null,
       "venue": "Klub Odyseja",
-      "description": "Ciężkie riffy, grunge’owa energia i dwa węgierskie zespoły na jednej scenie — tak zapowiada się sobotni wieczór w Klubie Odyseja. SLOWMESH i EiLEMA wystąpią w Rybniku w ramach wspólnej trasy koncertowej. SLOWMESH łączy południowy stoner rock z grunge’em, a EiLEMA sięga po alternatywne brzmienia lat 90. i rytmiczną odmianę grunge’u. Wspólny koncert zapowiada się jako wieczór pełen mocnych gitar, gęstego brzmienia i intensywnych występów na żywo. To propozycja dla osób, które lubią rockowe koncerty z dużą dawką energii i cięższym, alternatywnym charakterem. Rybnik będzie trzecim przystankiem wspólnej trasy obu zespołów.",
+      "description": "Ciężkie riffy, grunge’owa energia i dwa węgierskie zespoły na jednej scenie — tak zapowiada się sobotni wieczór w Klubie Odyseja. SLOWMESH i EiLEMA wystąpią w Rybniku w ramach wspólnej trasy koncertowej. SLOWMESH łączy południowy stoner rock z grunge’em, a EiLEMA sięga po alternatywne brzmienia lat 90. i rytmiczną odmianę grunge’u. Wspólny koncert zapowiada się jako wieczór pełen mocnych gitar, gęstego brzmienia i intensywnych występów na żywo. To propozycja dla osób, które lubią rockowe koncerty z dużą dawką energii i cięższym, alternatywnym charakterem. Rybnik będzie trzecim przystankiem wspólnej trasy obu zespołów. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/slowmesh-eilema-w-rybniku"
     },
@@ -1073,7 +1051,7 @@
       "start": "2026-10-24T21:00",
       "end": null,
       "venue": "Rybnik",
-      "description": "Face 2 Face w Rybniku świętuje dziesięciolecie i otwiera nową salę klubową. W sobotę 24 października na gości czekają koncert zespołu Power Play, muzyka na dwóch salach i urodzinowe niespodzianki — zapowiada się wieczór pełen wspomnień i nowej energii. Dziesiąte urodziny Face 2 Face będą jednocześnie pierwszą imprezą w nowej sali klubowej. Główną atrakcją wieczoru będzie koncert Power Play w sali dance, a w nowej przestrzeni zabrzmi muzyka serwowana przez DJ-ów. Zabawa ma toczyć się na dwóch salach. W programie zapowiedziano także urodzinowy tort, szampana, efekty specjalne i niespodzianki, których szczegółów klub na razie nie zdradza. Organizator, Face 2 Face, podkreśla, że nowa odsłona miejsca ma rozpocząć kolejny rozdział w jego historii — z udziałem osób, które przez lata tworzyły atmosferę klubu.",
+      "description": "Face 2 Face w Rybniku świętuje dziesięciolecie i otwiera nową salę klubową. W sobotę 24 października na gości czekają koncert zespołu Power Play, muzyka na dwóch salach i urodzinowe niespodzianki — zapowiada się wieczór pełen wspomnień i nowej energii. Dziesiąte urodziny Face 2 Face będą jednocześnie pierwszą imprezą w nowej sali klubowej. Główną atrakcją wieczoru będzie koncert Power Play w sali dance, a w nowej przestrzeni zabrzmi muzyka serwowana przez DJ-ów. Zabawa ma toczyć się na dwóch salach. W programie zapowiedziano także urodzinowy tort, szampana, efekty specjalne i niespodzianki, których szczegółów klub na razie nie zdradza. Organizator, Face 2 Face, podkreśla, że nowa odsłona miejsca ma rozpocząć kolejny rozdział w jego historii — z udziałem osób, które przez lata tworzyły atmosferę klubu. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/face-2-face-10-urodziny-i-nowa-sala"
     },
@@ -1161,7 +1139,7 @@
       "start": "2026-10-30T20:00",
       "end": null,
       "venue": "Rybnik",
-      "description": "Gooral rusza w trasę Beskid Calling Tour i 30 października zagra w Rybniku. Będzie energetycznie, góralsko i bardzo tanecznie — kto zna artystę z koncertów, ten wie, że spokojnie raczej nie będzie. Warto pojawić się pod sceną! Gooral od lat łączy nowoczesne brzmienia z muzyką inspirowaną folklorem góralskim. Jego koncerty to mieszanka elektroniki, mocnego rytmu i charakterystycznego beskidzkiego klimatu, który najlepiej działa na żywo. Rybniczan czeka muzyczne spotkanie pełne energii i swobodnej, koncertowej atmosfery. To propozycja zarówno dla osób, które regularnie śledzą twórczość Goorala, jak i dla tych, którzy dopiero chcą sprawdzić, jak brzmi jego scenowe połączenie tradycji z nowoczesnością.",
+      "description": "Gooral rusza w trasę Beskid Calling Tour i 30 października zagra w Rybniku. Będzie energetycznie, góralsko i bardzo tanecznie — kto zna artystę z koncertów, ten wie, że spokojnie raczej nie będzie. Warto pojawić się pod sceną! Gooral od lat łączy nowoczesne brzmienia z muzyką inspirowaną folklorem góralskim. Jego koncerty to mieszanka elektroniki, mocnego rytmu i charakterystycznego beskidzkiego klimatu, który najlepiej działa na żywo. Rybniczan czeka muzyczne spotkanie pełne energii i swobodnej, koncertowej atmosfery. To propozycja zarówno dla osób, które regularnie śledzą twórczość Goorala, jak i dla tych, którzy dopiero chcą sprawdzić, jak brzmi jego scenowe połączenie tradycji z nowoczesnością. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/gooral-beskid-calling-tour-w-rybniku"
     },
@@ -1216,7 +1194,7 @@
       "start": "2026-10-31T18:30",
       "end": null,
       "venue": "Klub Odyseja",
-      "description": "Rybnik szykuje głośny wieczór dla fanów młodej, niezależnej muzyki. STACJA B. x HAMULEC to wspólny przegląd kapel szkolnych z udziałem zespołów Rybnik , My Own Abyss oraz kolejnego składu, który zostanie ogłoszony. Wpadnij na koncert i sprawdź, jak brzmi nowa fala lokalnego grania. To pierwszy wspólny przegląd zespołów STACJA B. i HAMULEC , zapowiadany jako część większej trasy obejmującej 15 miast. Na scenie pojawią się młode składy, które dopiero budują swoją pozycję poza szkolnymi salami prób i lokalnymi koncertami. Wieczór zapowiada się różnorodnie: od cięższych, metalowych dźwięków po surową, bezpośrednią energię alternatywnej sceny. To propozycja dla osób, które lubią odkrywać nowe zespoły, zanim trafią do większych klubów.",
+      "description": "Rybnik szykuje głośny wieczór dla fanów młodej, niezależnej muzyki. STACJA B. x HAMULEC to wspólny przegląd kapel szkolnych z udziałem zespołów Rybnik , My Own Abyss oraz kolejnego składu, który zostanie ogłoszony. Wpadnij na koncert i sprawdź, jak brzmi nowa fala lokalnego grania. To pierwszy wspólny przegląd zespołów STACJA B. i HAMULEC , zapowiadany jako część większej trasy obejmującej 15 miast. Na scenie pojawią się młode składy, które dopiero budują swoją pozycję poza szkolnymi salami prób i lokalnymi koncertami. Wieczór zapowiada się różnorodnie: od cięższych, metalowych dźwięków po surową, bezpośrednią energię alternatywnej sceny. To propozycja dla osób, które lubią odkrywać nowe zespoły, zanim trafią do większych klubów. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/stacja-b-x-hamulec-przeglad-kapel"
     },
@@ -1238,7 +1216,7 @@
       "start": "2026-11-05T19:00",
       "end": "2026-11-05T20:30",
       "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Andrzej Poniedzielski przywozi do Rybnika program, w którym piosenki spotykają się z inteligentną satyrą, a poezja z łagodnym humorem. Wieczór „Dobry wieczór…?” będzie okazją, by usłyszeć zarówno znane utwory, jak i nowe teksty artysty. Program łączy koncert z wieczorem kabaretowym. Wśród piosenek i satyrycznych obserwacji pojawią się tematy bliskie twórczości Poniedzielskiego: marzenia, tęsknota i miłość — przedstawione z charakterystycznym dystansem i ciepłym humorem. Andrzej Poniedzielski jest poetą, satyrykiem i aktorem, a także autorem piosenek wykonywanych między innymi przez Grzegorza Turnaua, Edytę Geppert i Dawida Podsiadłę. W 2011 roku otrzymał tytuł Mistrza Mowy Polskiej, a pięć lat później został Ambasadorem Polszczyzny.",
+      "description": "Andrzej Poniedzielski przywozi do Rybnika program, w którym piosenki spotykają się z inteligentną satyrą, a poezja z łagodnym humorem. Wieczór „Dobry wieczór…?” będzie okazją, by usłyszeć zarówno znane utwory, jak i nowe teksty artysty. Program łączy koncert z wieczorem kabaretowym. Wśród piosenek i satyrycznych obserwacji pojawią się tematy bliskie twórczości Poniedzielskiego: marzenia, tęsknota i miłość — przedstawione z charakterystycznym dystansem i ciepłym humorem. Andrzej Poniedzielski jest poetą, satyrykiem i aktorem, a także autorem piosenek wykonywanych między innymi przez Grzegorza Turnaua, Edytę Geppert i Dawida Podsiadłę. W 2011 roku otrzymał tytuł Mistrza Mowy Polskiej, a pięć lat później został Ambasadorem Polszczyzny. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/dobry-wieczor-andrzej-poniedzielski-w-rybniku"
     },
@@ -1370,7 +1348,7 @@
       "start": "2026-11-14T19:00",
       "end": null,
       "venue": "Rybnik",
-      "description": "Po trzyletniej przerwie gale Silesian MMA wracają do Rybnika — i to w podwójnym wydaniu. 14 listopada 2026 roku jednego wieczoru odbędą się SILESIAN MMA 28 oraz WiP 18 „Walcz i Pomagaj”, łącząc sportowe pojedynki z ideą aktywnego udziału w wydarzeniu. SILESIAN MMA 28 ma przynieść mocne zestawienia, w których pojawią się zarówno młodzi zawodnicy, jak i bardziej doświadczeni fighterzy. Z kolei WiP 18, czyli „Walcz i Pomagaj”, stawia na sportową przygodę i możliwość sprawdzenia się w klatce. Szczegóły dotyczące karty walk, zawodników i biletów mają być ogłaszane w kolejnych tygodniach.",
+      "description": "Po trzyletniej przerwie gale Silesian MMA wracają do Rybnika — i to w podwójnym wydaniu. 14 listopada 2026 roku jednego wieczoru odbędą się SILESIAN MMA 28 oraz WiP 18 „Walcz i Pomagaj”, łącząc sportowe pojedynki z ideą aktywnego udziału w wydarzeniu. SILESIAN MMA 28 ma przynieść mocne zestawienia, w których pojawią się zarówno młodzi zawodnicy, jak i bardziej doświadczeni fighterzy. Z kolei WiP 18, czyli „Walcz i Pomagaj”, stawia na sportową przygodę i możliwość sprawdzenia się w klatce. Szczegóły dotyczące karty walk, zawodników i biletów mają być ogłaszane w kolejnych tygodniach. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/silesian-mma-28-wip-18-w-rybniku"
     },
@@ -1480,7 +1458,7 @@
       "start": "2026-11-28T19:00",
       "end": null,
       "venue": "Rybnik",
-      "description": "Andrzejki to jedna z ostatnich okazji na taneczną zabawę przed adwentem. W OlimpiiRybnik zabrzmią przeboje od lat 70., 80. i 90. aż po najnowsze hity, a klimat jak za dawnych lat dopełni wideobudka 360°. To propozycja dla osób, które mają ochotę potańczyć przy dobrze znanych przebojach i nowszych hitach. Muzyczna podróż przez kilka dekad, andrzejkowy nastrój i wideobudka 360° mają stworzyć przestrzeń do wspólnej zabawy i pamiątkowych nagrań.",
+      "description": "Andrzejki to jedna z ostatnich okazji na taneczną zabawę przed adwentem. W OlimpiiRybnik zabrzmią przeboje od lat 70., 80. i 90. aż po najnowsze hity, a klimat jak za dawnych lat dopełni wideobudka 360°. To propozycja dla osób, które mają ochotę potańczyć przy dobrze znanych przebojach i nowszych hitach. Muzyczna podróż przez kilka dekad, andrzejkowy nastrój i wideobudka 360° mają stworzyć przestrzeń do wspólnej zabawy i pamiątkowych nagrań. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/andrzejkowa-dyskoteka-w-olimpiirybnik"
     },
@@ -1524,7 +1502,7 @@
       "start": "2026-12-06T12:00",
       "end": null,
       "venue": "Rybnik",
-      "description": "Grudniowy Rybnik znów pobiegnie w barbórkowym klimacie — 22. Bieg Barbórkowy to propozycja dla tych, którzy lubią miejskie bieganie, atestowaną trasę i sportowy start w samym środku zimy. Jeśli masz ochotę poczuć atmosferę miasta w ruchu, to może być bardzo dobry plan na niedzielne południe ‍ To klasyczny miejski bieg z barbórkowym charakterem — bez kombinowania, za to z dobrą trasą i konkretnym dystansem. Organizatorzy podają, że bieg ma charakter uliczny i jest atestowany, a nawierzchnia to głównie asfalt oraz kostka brukowa, więc można spodziewać się typowo „miejskiego” biegania W opisie wydarzenia pojawia się też informacja o trasie około 5 km, dlatego przy zapisach warto zwrócić uwagę na szczegóły dotyczące dystansu i przebiegu trasy. To wydarzenie może zainteresować zarówno osoby szukające sportowego wyzwania, jak i tych, którzy po prostu lubią atmosferę dużych lokalnych startów.",
+      "description": "Grudniowy Rybnik znów pobiegnie w barbórkowym klimacie — 22. Bieg Barbórkowy to propozycja dla tych, którzy lubią miejskie bieganie, atestowaną trasę i sportowy start w samym środku zimy. Jeśli masz ochotę poczuć atmosferę miasta w ruchu, to może być bardzo dobry plan na niedzielne południe ‍ To klasyczny miejski bieg z barbórkowym charakterem — bez kombinowania, za to z dobrą trasą i konkretnym dystansem. Organizatorzy podają, że bieg ma charakter uliczny i jest atestowany, a nawierzchnia to głównie asfalt oraz kostka brukowa, więc można spodziewać się typowo „miejskiego” biegania W opisie wydarzenia pojawia się też informacja o trasie około 5 km, dlatego przy zapisach warto zwrócić uwagę na szczegóły dotyczące dystansu i przebiegu trasy. To wydarzenie może zainteresować zarówno osoby szukające sportowego wyzwania, jak i tych, którzy po prostu lubią atmosferę dużych lokalnych startów. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/22-bieg-barborkowy-w-rybniku-uliczny-start-na-10-km-juz-6-grudnia"
     },
