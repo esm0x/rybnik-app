@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T05:25:03",
+  "generated_at": "2026-09-28T13:55:48",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,266 @@
     }
   ],
   "items": [
+    {
+      "id": "3d0b3a12af446b95f55eba7d9b82dd03fa255919",
+      "title": "Park Bukówka: jak ma wyglądać to miejsce za kilka lat?",
+      "summary": "Mieszkańcy Rybnika będą mogli zdecydować, jak w przyszłości ma wyglądać park Bukówka. We wtorek spotkanie w tej sprawie.",
+      "link": "https://www.radio90.pl/park-bukowka-jak-ma-wygladac-to-miejsce-za-kilka-lat.html",
+      "published": "2026-09-28T12:00",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6da693e4d72bfcabbbc4913abb4cafc254c2eb21",
+      "title": "Grand Prix 30. OFPA dla Rybniczanki. Anna Drewniok wygrała jubileuszowy festiwal",
+      "summary": "",
+      "link": "https://www.nowiny.pl/wiadomosci/251217-grand-prix-30-ofpa-dla-rybniczanki-anna-drewniok-wygrala-jubileuszowy-festiwal.html",
+      "published": "2026-09-28T11:24",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "52e475217cca39550939d9bcc84dc13b3c5720b8",
+      "title": "Jechał pod prąd na rondzie i uderzył w znak. Był nietrzeźwy",
+      "summary": "Trzech nietrzeźwych uczestników ruchu drogowego zatrzymali w miniony weekend policjanci z Wodzisławia Śląskiego. Dwóch z nich kierowało samochodami, a jeden jechał rowerem. W dwóch przypadkach doszło do zdarzeń drogowych.",
+      "link": "https://www.nowiny.pl/wiadomosci/251216-jechal-pod-prad-na-rondzie-i-uderzyl-w-znak-byl-nietrzezwy.html",
+      "published": "2026-09-28T11:17",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "38c31f69630b9ad675a97794830f9ccb21a3651f",
+      "title": "Dlaczego dobre treści bez zasięgu nikogo nie obchodzą? Brutalna prawda o algorytmie Instagrama",
+      "summary": "Prowadzenie profilu na Instagramie wymaga czegoś więcej niż regularnego wrzucania zdjęć i rolek. Możesz mieć dobry pomysł, dopracowany montaż i wartościowe treści, a mimo to przez pierwsze tygodnie publikować niemal do pustej sali. Szczególnie trudno jest nowym kontom, które nie mają jeszcze…",
+      "link": "https://www.nowiny.pl/wiadomosci/251205-dlaczego-dobre-tresci-bez-zasiegu-nikogo-nie-obchodza-brutalna-prawda-o-algorytmie-instagrama.html",
+      "published": "2026-09-28T11:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a19f9ee11fabb81abc1cd6d6279b469983e07de6",
+      "title": "Zespół Szkół Mechaniczno-Elektrycznych w Rybniku i Koleje Śląskie nawiązały współpracę. Czego dotyczy?",
+      "summary": "Poznają specyfikę pracy maszynisty, a także będą mieli możliwość wzięcia udziału w programie stypendialnym. Między innymi takie możliwości otwiera przed uczniami rybnickiego Zespołu Szkół Mechaniczno-Elektrycznych, popularnego \"Mechanika\" współpraca, jaką placówka nawiązała z Kolejami Śląskimi.",
+      "link": "https://www.radio90.pl/zespol-szkol-mechaniczno-elektrycznych-w-rybniku-i-koleje-slaskie-nawiazaly-wspolprace-czego-dotyczy.html",
+      "published": "2026-09-28T10:50",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ce80d67925396ea9e2ce6e2f6a9677d6e750d3ff",
+      "title": "ROW Rybnik wygrywa. „Ważne trzy punkty” – mówi kapitan",
+      "summary": "Kolejne wygrana piłkarzy trzecioligowego ROW-u Rybnik. Tym razem na własnym stadionie pokonali 4:3 Stal Brzeg. Sobotni (26.09) mecz miał jednak dwa oblicza.",
+      "link": "https://www.radio90.pl/row-rybnik-wygrywa-wazne-trzy-punkty-mowi-kapitan.html",
+      "published": "2026-09-28T10:15",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d97c2429866f620066820806af58fad46a269baf",
+      "title": "Autostrada A4: były problemy z przejazdem po pożarze samochodu ciężarowego [AKTUALIZACJA]",
+      "summary": "To informacje dla kierowców na A4 w Gliwicach, jak ostrzegają słuchacze Radia 90, z powodu pożaru samochodu ciężarowego na DK88 zamknięty jest odcinek autostrady w obu kierunkach.",
+      "link": "https://www.radio90.pl/autostrada-a4-problemy-z-przejazdem-po-pozarze-samochodu-ciezarowego.html",
+      "published": "2026-09-28T10:10",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "eab16632fa0abd3aaa6cab86e8b0d8f7bd1521f3",
+      "title": "V OFFka, czyli święto Teatru w Raciborzu!",
+      "summary": "Pierwszy dzień V Ogólnopolskiego Festiwalu Teatralnego OFFka 2026, rozpoczął się 24 września uroczystą inauguracją i spektaklem „Anatomia Zdarzeń. Kieszenie pełne wspomnień” w wykonaniu Latającego Teatru Kantorowi. O godzinie 18:00 licznie przybyła publiczność festiwalowa została przywitana w holu…",
+      "link": "https://www.nowiny.pl/nie-przegap/251214-v-offka-czyli-swieto-teatru-w-raciborzu.html",
+      "published": "2026-09-28T09:43",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1906d2474a07ef2be0d652d26074c18f0a4bec79",
+      "title": "Weekend Seniora z Kulturą w Rybniku. Co przygotowano, jaki jest plan wydarzenia?",
+      "summary": "Weekend seniora z kulturą w halo!Rybnik. Punkt Informacji Miejskiej na deptaku w pierwszy weekend października dołącza do akcji zainicjowanej przez Ministerstwo Kultury i Dziedzictwa Narodowego.",
+      "link": "https://www.radio90.pl/weekend-seniora-z-kultura-w-rybniku-co-przygotowano-jaki-jest-plan-wydarzenia.html",
+      "published": "2026-09-28T09:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3580343cc4c592f0e7aedb689c945f706f996dc5",
+      "title": "Ten telefon od oszusta, kosztował go 800 tysięcy złotych! Policja ostrzega",
+      "summary": "To miała być akcja ratowania pieniędzy. Skończyło się ogromną stratą. 27-letni mieszkaniec powiatu rybnickiego padł ofiarą oszustów, którzy podszywali się pod pracowników banku i policjantów. Mężczyzna stracił około 800 tysięcy złotych.",
+      "link": "https://www.radio90.pl/ten-telefon-od-oszusta-kosztowal-go-800-tysiecy-zlotych-policja-ostrzega.html",
+      "published": "2026-09-28T09:10",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6616478b27e48f40eee311217d414b52e9d1ea12",
+      "title": "27-latek stracił około 800 tys. zł. Oszuści wmówili mu, że jego pieniądze są zagrożone",
+      "summary": "27-letni mieszkaniec powiatu rybnickiego padł ofiarą oszustów, którzy przekonali go, że jego pieniądze są zagrożone. Mężczyzna, wierząc, że bierze udział w policyjnej akcji mającej na celu ochronę jego oszczędności, zaciągnął kredyty w różnych bankach, a następnie przekazywał pieniądze zgodnie z…",
+      "link": "https://www.nowiny.pl/wiadomosci/251213-27-latek-stracil-okolo-800-tys-zl-oszusci-wmowili-mu-ze-jego-pieniadze-sa-zagrozone.html",
+      "published": "2026-09-28T09:06",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "cd28d2fcd45dc5581e008b37a302418721a527a0",
+      "title": "Powrót z Niemiec na święta albo urlop. Jak zaplanować go tak, żeby nie stracić dnia i pieniędzy",
+      "summary": "Powrót planuje się trudniej niż wyjazd. Data wyjazdu do pracy zwykle jest sztywna, a termin powrotu ustala się w ostatniej chwili - między grafikiem, obietnicą złożoną rodzinie i ceną biletu, która rośnie z każdym tygodniem zwłoki. Efekt bywa taki, że ktoś wraca do Rybnika czy Wodzisławia dobę…",
+      "link": "https://www.nowiny.pl/wiadomosci/251204-powrot-z-niemiec-na-swieta-albo-urlop-jak-zaplanowac-go-tak-zeby-nie-stracic-dnia-i-pieniedzy.html",
+      "published": "2026-09-28T09:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "29304ec0613691b1debb9a094a22498bc9454522",
+      "title": "Uwaga kierowcy! Zamknęli ważną drogę na trasie Racibórz–Rybnik",
+      "summary": "Spore utrudnienia czekają kierowców na trasie Racibórz–Rybnik. W Rzuchowie (gm. Kornowac) od dziś, 28 września, zamknięta jest ul. Rybnicka w ciągu DW 935. Ruch w obu kierunkach został wstrzymany.",
+      "link": "https://www.nowiny.pl/wiadomosci/251210-uwaga-kierowcy-zamkneli-wazna-droge-na-trasie-raciborz-rybnik.html",
+      "published": "2026-09-28T08:40",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "ALERT"
+    },
+    {
+      "id": "0f59276786227a854e1db0c0325102a8678eca9e",
+      "title": "Obrońcy drzew z Żółkiewskiego napisali petycję do władz. „Kategoryczny sprzeciw”",
+      "summary": "Wobec informacji magistratu o zgodzie na wycinkę drzew pod stację ładowania samochodów elektrycznych około stu Raciborzan z osiedla hetmańskiego podpisało się pod petycją i podtrzymało swój sprzeciw dla lokalizacji inwestycji. Mieszkańcy czują się rozczarowani wobec obietnic sprzed miesiąca, które…",
+      "link": "https://www.nowiny.pl/wiadomosci/251209-obroncy-drzew-z-zolkiewskiego-napisali-petycje-do-wladz-kategoryczny-sprzeciw.html",
+      "published": "2026-09-28T08:40",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4c5bbee77680229e3be2c36519e72bc0fab70a80",
+      "title": "Odra Wodzisław z kompletem punktów w Kokoszycach [ZDJĘCIA]",
+      "summary": "WTS Odra Wodzisław Śląski nie zwalnia tempa. W wyjazdowym spotkaniu z KS 25 Kokoszyce podopieczni trenera Jarosława Wieczorka zaprezentowali się ze świetnej strony, pewnie wygrywając 5:0.",
+      "link": "https://sport.nowiny.pl/sport/251208-odra-wodzislaw-z-kompletem-punktow-w-kokoszycach-zdjecia.html",
+      "published": "2026-09-28T08:36",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "fd5a977f75ac11c4190e638cf4af4c0eb8c84bc8",
+      "title": "Robert Myśliwy będzie dyrektorem MOSiR \"Centrum\" do końca października. \"To była jego decyzja\"",
+      "summary": "Robert Myśliwy zrezygnował z pracy na rzecz MOSiR \"Centrum\" w Wodzisławiu Śląskim, przyjmując propozycję prezydenta Raciborza, do objęcia funkcji sekretarza tamtejszego urzędu. Co dalej z Wodzisławskim ośrodkiem sportu?",
+      "link": "https://www.nowiny.pl/wiadomosci/251165-robert-mysliwy-bedzie-dyrektorem-mosir-centrum-do-konca-pazdziernika-to-byla-jego-decyzja.html",
+      "published": "2026-09-28T08:20",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c0d4f3ae02cfb664a36cea189aad30c03d14180f",
+      "title": "Czy burmistrz Krzanowic Andrzej Strzedulla otrzyma podwyżkę?",
+      "summary": "Temat pojawił się podczas posiedzenia komisji Budżetu, Promocji i Rozwoju Gminy. Według przedstawionych informacji chodzi o około 1400 zł brutto miesięcznie.",
+      "link": "https://www.nowiny.pl/wiadomosci/251207-czy-burmistrz-krzanowic-andrzej-strzedulla-otrzyma-podwyzke.html",
+      "published": "2026-09-28T07:52",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9a35b62c5d05de1eee344fa97bf583b17a83631d",
+      "title": "Otwór pod umywalkę nablatową - jak zaplanować go dobrze i uniknąć kosztownych poprawek?",
+      "summary": "Wybór umywalki nablatowej często zaczyna się od wyglądu. Kształt, kolor czy efektowna misa przyciągają uwagę jako pierwsze. Przy montażu okazuje się jednak, że równie ważny jest dobrze przygotowany otwór pod umywalkę nablatową. Od jego średnicy, położenia i dopasowania do odpływu zależy nie tylko…",
+      "link": "https://www.nowiny.pl/wiadomosci/251202-otwor-pod-umywalke-nablatowa-jak-zaplanowac-go-dobrze-i-uniknac-kosztownych-poprawek.html",
+      "published": "2026-09-28T07:27",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4b7cdc006ca7b8b3f1744ac03fa737cddc0d621f",
+      "title": "Kontrola Mercedesa w Raciborzu zakończyła się poważnymi zarzutami. 24-latek odpowie przed sądem",
+      "summary": "Miał ponad promil alkoholu, a mimo to wsiadł za kierownicę. 24-letni mieszkaniec Raciborza został zatrzymany przez policjantów na ulicy Karola Miarki. Jak się okazało, mężczyzna miał również sądowy zakaz prowadzenia pojazdów i cofnięte uprawnienia.",
+      "link": "https://www.nowiny.pl/wiadomosci/251201-kontrola-mercedesa-w-raciborzu-zakonczyla-sie-powaznymi-zarzutami-24-latek-odpowie-przed-sadem.html",
+      "published": "2026-09-28T07:16",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4dffe4ae415274c6c36054737d7d81c6ad4ddadd",
+      "title": "Kradli kawę, noże i nie tylko. Dwóch mężczyzn zatrzymanych w Żorach",
+      "summary": "Policjanci z Żor zatrzymali dwóch mężczyzn podejrzanych o kradzieże. 39-latek miał działać w warunkach recydywy, a jego 25-letni wspólnik po zatrzymaniu trafił do aresztu. O sprawie informuje Komenda Miejska Policji w Żorach.",
+      "link": "https://ezory.pl/wiadomosci/251200-kradli-kawe-noze-i-nie-tylko-dwoch-mezczyzn-zatrzymanych-w-zorach.html",
+      "published": "2026-09-28T07:09",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d751bce0ea7766217d4fc84801804fed671d995e",
+      "title": "Na cmentarzu komunalnym w Wodzisławiu Śląskim powstają nowe miejsca na urny. Pierwszy etap kosztuje blisko 800 tys. zł [WIZUALIZACJE]",
+      "summary": "Ponad 100 nowych nisz urnowych powstanie jeszcze w tym roku na cmentarzu komunalnym w Wodzisławiu Śląskim. Trwa pierwszy etap budowy kolumbarium, w ramach którego powstaje największy z trzech planowanych murów. Prace o wartości blisko 800 tys. zł brutto mają zakończyć się przed 1 listopada…",
+      "link": "https://www.nowiny.pl/wiadomosci/251199-na-cmentarzu-komunalnym-w-wodzislawiu-slaskim-powstaja-nowe-miejsca-na-urny-pierwszy-etap-kosztuje-blisko-800-tys-zl-wizualizacje.html",
+      "published": "2026-09-28T07:03",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d09b8ac12a3c7cc19eb5e8291bfcca94a6bd7922",
+      "title": "TS Volley Rybnik zaczął sezon. Syguła: „Chcemy wygrywać wszystko”",
+      "summary": "Od zwycięstwa rozpoczęli sezon siatkarze drugoligowego Volleya Rybnik. Rybniczanie pokonali we własnej hali 3:0 AZS AGH Kraków.",
+      "link": "https://www.radio90.pl/ts-volley-rybnik-zaczal-sezon-sygula-chcemy-wygrywac-wszystko.html",
+      "published": "2026-09-28T07:00",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "93468d74c96e1b4e78441a8883c1fce13bd08a17",
+      "title": "Fani motoryzacji spotkają się w Zabełkowie [ZAPOWIEDŹ]",
+      "summary": "Miłośnicy samochodów i motocykli spotkają się 3 października na boisku LKS Zabełków (gm. Krzyżanowice). Zaplanowano tam zakończenie sezonu motoryzacyjnego, w ramach którego uczestnicy zaprezentują swoje pojazdy, przejadą trasą widokową, a na koniec odbiorą nagrody.",
+      "link": "https://www.nowiny.pl/wiadomosci/251198-fani-motoryzacji-spotkaja-sie-w-zabelkowie-zapowiedz.html",
+      "published": "2026-09-28T06:50",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "27d92603f9252db7c1d4624b127875fb248557bc",
+      "title": "Śląska policja podsumowała miniony weekend na drogach. 208 zdarzeń i 9 osób rannych",
+      "summary": "W ubiegły weekend na śląskich drogach doszło do 208 zdarzeń, w wyniku których 9 osób zostało rannych.",
+      "link": "https://www.radio90.pl/slaska-policja-podsumowala-miniony-weekend-na-drogach-208-zdarzen-i-9-osob-rannych.html",
+      "published": "2026-09-28T06:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1b77d421fe24548959935a5f8b32e5f67a57d66f",
+      "title": "Śmiertelne zdarzenie na torach. Pociągi Żywiec-Rybnik z komunikacją zastępczą [AKTUALIZACJA]",
+      "summary": "Zastępcza komunikacja autobusowa na trasie Żywiec – Rybnik po porannym potrąceniu na torach w powiecie bielskim.",
+      "link": "https://www.radio90.pl/smiertelne-zdarzenie-na-torach-pociagi-zywiec-rybnik-z-komunikacja-zastepcza.html",
+      "published": "2026-09-28T06:28",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a43a7de48e25edd1fba9446fbe1a32de3d5d9d00",
+      "title": "RMKS Xbest Rybnik gromi Ostrovię",
+      "summary": "Okazałe zwycięstwo koszykarek RMKS-u Xbest Rybnik na inaugurację nowego sezonu. W minioną sobotę (26.09) pokonały we własnej hali KS Basket Ostrovię Ostrów Wielkopolski 96:53.",
+      "link": "https://www.radio90.pl/rmks-xbest-rybnik-gromi-ostrovie.html",
+      "published": "2026-09-28T05:50",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "011a531f4b27b63c7b38359006650c33eca9689a",
       "title": "OFPA: Anna Drewniok zwyciężczynią tegorocznej jubileuszowej edycji. „Przyjechałam do Rybnika zaśpiewać i wygrać”",
@@ -19,43 +279,23 @@
       "priority": "NORMAL"
     },
     {
-      "id": "b7cb60c7d5059cb8f4231c0fb05f5c33a63c55b6",
-      "title": "Rowery, kajaki, konie i ognisko. W Jastrzębiu może być ciekawie [ZDJĘCIA]",
-      "summary": "Były kajaki na Szotkówce, rajd rowerowy, przejażdżki konne, konkurs historyczny i wspólne ognisko. Mieszkańcy Jastrzębia-Zdroju aktywnie uczcili Światowy Dzień Turystyki, biorąc udział w wydarzeniu zorganizowanym przez Fundację Wodna Pasja we współpracy z Miastem Jastrzębie-Zdrój.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251195-rowery-kajaki-konie-i-ognisko-w-jastrzebiu-moze-byc-ciekawie-zdjecia.html",
-      "published": "2026-09-27T20:03",
-      "source": "nowiny.pl",
-      "category": "Region",
+      "id": "d94d019a141a1c824593f34c2c997e79d7837a0f",
+      "title": "Zobacz na własne oczy odnowioną salę sesyjną i poznaj jej niesamowitą historię",
+      "summary": "Już 1 października w godzinach 8:00–18:00 Urząd Miasta otwiera drzwi odrestaurowanej sali sesyjnej dla wszystkich mieszkańców. To wyjątkowa okazja, by z bliska przyjrzeć się historycznym detalom oraz poznać niezwykłe losy stuletniego krucyfiksu, który przetrwał wojnę i PRL.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zobacz-na-wlasne-oczy-odnowiona-sale-sesyjna-i-poznaj-jej-niesamowita-historie",
+      "published": "2026-09-28T00:00",
+      "source": "rybnik.eu",
+      "category": "Urząd Miasta",
       "priority": "NORMAL"
     },
     {
-      "id": "7bb63b3b3ec2604e72de7f94e4c41b6bfd19ec53",
-      "title": "Odnowiony pomnik św. Jana Nepomucena poświęcony w Bluszczowie [ZDJĘCIA]",
-      "summary": "W niedzielne popołudnie, 27 września, w Bluszczowie odbyło się uroczyste poświęcenie odnowionego pomnika św. Jana Nepomucena. Była to okazja do wspólnej modlitwy, spotkania mieszkańców oraz przypomnienia o lokalnej historii.",
-      "link": "https://www.nowiny.pl/wiadomosci/251194-odnowiony-pomnik-sw-jana-nepomucena-poswiecony-w-bluszczowie-zdjecia.html",
-      "published": "2026-09-27T19:04",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b64cdad5f11bef7df5f91fa55926bc6b31160371",
-      "title": "Zasłonił kolegę własnym ciałem. Lekarz z Jastrzębia odznaczony przez Prezydenta RP",
-      "summary": "To był jeden z najbardziej poruszających momentów obchodów 50-lecia Wojewódzkiego Szpitala Specjalistycznego nr 2 w Jastrzębiu-Zdroju. Dr Wiesław Folwarczny odebrał Medal za Ofiarność i Odwagę, przyznany przez Prezydenta RP Karola Nawrockiego.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251193-zaslonil-kolege-wlasnym-cialem-lekarz-z-jastrzebia-odznaczony-przez-prezydenta-rp.html",
-      "published": "2026-09-27T18:28",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ed3cb06413406afb70dd9064cc1e19943dcec8b5",
-      "title": "Turze ma swój kościół od 125 lat. Zanim powstał, mieszkańcy przeprawiali się przez Odrę. Jedna z tych przepraw zakończyła się tragedią, zginęły 43 osoby [ZDJĘCIA]",
-      "summary": "Turze (gm. Kuźnia Raciborska) świętuje 125. rocznicę poświęcenia kościoła pw. Najświętszego Serca Pana Jezusa . Zanim jednak mieszkańcy doczekali się własnej świątyni, przez lata musieli przeprawiać się przez Odrę, by dotrzeć do kościoła w Sławikowie. Jedna z takich przepraw zakończyła się…",
-      "link": "https://www.nowiny.pl/wiadomosci/251192-turze-ma-swoj-kosciol-od-125-lat-zanim-powstal-mieszkancy-przeprawiali-sie-przez-odre-jedna-z-tych-przepraw-zakonczyla-sie-tragedia-zginely-43-osoby-zdjecia.html",
-      "published": "2026-09-27T17:22",
-      "source": "nowiny.pl",
-      "category": "Region",
+      "id": "452956f14fb4755a2121d62d44c2cfb1b007c4e8",
+      "title": "Rybnik w świątecznym klimacie",
+      "summary": "W grudniu centrum miasta ponownie wypełni się świąteczną atmosferą. Antoniczek, rynek i okoliczne uliczki będą tętnić życiem, muzyką i zapachem regionalnych przysmaków. Trwa nabór wystawców i lokalnych przedsiębiorców.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/rybnik-w-swiatecznym-klimacie",
+      "published": "2026-09-28T00:00",
+      "source": "rybnik.eu",
+      "category": "Wydarzenia",
       "priority": "NORMAL"
     },
     {
@@ -69,16 +309,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "d84c8054d258c1490e3fb2bce4ccc469dc80a155",
-      "title": "Adrenalina od pierwszego startu! Tak zawodnicy walczyli w Bike Race Racibórz 2026 [ZDJĘCIA]",
-      "summary": "27 września 2026 roku w Raciborzu odbyła się trzecia edycja Bike Race Racibórz – Ligi Rowerowej MTB. Wydarzenie zgromadziło miłośników kolarstwa górskiego, zarówno doświadczonych zawodników, jak i amatorów oraz najmłodszych uczestników.",
-      "link": "https://www.nowiny.pl/wiadomosci/251191-adrenalina-od-pierwszego-startu-tak-zawodnicy-walczyli-w-bike-race-raciborz-2026-zdjecia.html",
-      "published": "2026-09-27T14:44",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "abf41704445863f16438ef378183d51992863840",
       "title": "Park w centrum Rybnika pięknieje. Zostanie oddany do użytku do końca roku",
       "summary": "Park imienia świętego Jana Sarkandra przy ulicach Gliwickiej i Cegielnianej w Rybniku przechodzi renowację.",
@@ -86,46 +316,6 @@
       "published": "2026-09-27T13:00",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "695b746e206611e4830488ab3db70721e9b60bc2",
-      "title": "Jarmark staroci w Pszowie. Przyjechali pasjonaci i wystawcy z całego regionu [ZDJĘCIA]",
-      "summary": "W niedzielę, 27 września w Pszowie odbył się kolejny jarmark staroci i rękodzieła. Wydarzenie zorganizowało stowarzyszenie Razem dla Śląska.",
-      "link": "https://ezory.pl/wiadomosci/251190-jarmark-staroci-w-pszowie-przyjechali-pasjonaci-i-wystawcy-z-calego-regionu-zdjecia.html",
-      "published": "2026-09-27T11:48",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0796e0e1530a7ec9e6a73bb301959767d5cdff51",
-      "title": "Wodzisław uczcił rocznicę powstania Polskiego Państwa Podziemnego [ZDJĘCIA]",
-      "summary": "W niedzielę, 27 września, w Wodzisławiu Śląskim odbyły się uroczystości upamiętniające 87. rocznicę powstania Polskiego Państwa Podziemnego. Wydarzenie rozpoczęła msza święta w kościele WNMP.",
-      "link": "https://www.nowiny.pl/wiadomosci/251189-wodzislaw-uczcil-rocznice-powstania-polskiego-panstwa-podziemnego-zdjecia.html",
-      "published": "2026-09-27T11:47",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "810c66c968cfec71482439aa4c0231eb73a78285",
-      "title": "Msza dożynkowa w Zawadzie. Parafia dziękowała Bogu za plony [ZDJECIA]",
-      "summary": "Chleb, ciasto i tegoroczne plony znalazły się w centrum mszy dożynkowej w parafii Podwyższenia Krzyża Świętego w wodzisławskiej Zawadzie. Eucharystii przewodniczył ks. proboszcz Roman Imiołczyk, który w kazaniu mówił o wdzięczności za dary ziemi i odpowiedzialności człowieka za to, co otrzymał.",
-      "link": "https://agronowiny.pl/wiadomosci/251188-msza-dozynkowa-w-zawadzie-parafia-dziekowala-bogu-za-plony-zdjecia.html",
-      "published": "2026-09-27T11:30",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "1b983318b5c8fd62e85061890cb99e9c8a62bc1d",
-      "title": "Rekpol Group Unia Turza Śląska pokonuje Przemszę Siewierz [ZDJĘCIA]",
-      "summary": "Unici po raz ósmy w tym sezonie zgarnęli komplet punktów. Turzanie pokonali Przemszę Siewierz, a spotkanie zakończyli z kolejnym czystym kontem. W końcówce gospodarze mieli jeszcze rzut karny, którego nie wykorzystał Mateusz Słodowy.",
-      "link": "https://sport.nowiny.pl/sport/251187-rekpol-group-unia-turza-slaska-pokonuje-przemsze-siewierz-zdjecia.html",
-      "published": "2026-09-27T08:57",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -149,16 +339,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "8041874e121c29b4769a1e8a7689dde5c5f13a41",
-      "title": "Dlaczego w Parku Zdrojowym nie ma gdzie przypiąć rowerów?",
-      "summary": "Brak wystarczającej liczby stojaków rowerowych w Parku Zdrojowym od lat jest problemem zgłaszanym przez mieszkańców i rowerzystów. Tematem zainteresował się radny Grzegorz Mosoń, który zwrócił się do władz miasta z pytaniem o możliwość zwiększenia liczby miejsc do bezpiecznego parkowania rowerów.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251186-dlaczego-w-parku-zdrojowym-nie-ma-gdzie-przypiac-rowerow.html",
-      "published": "2026-09-27T07:24",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "39b1d5311ab0c8e38d6c2f40194f56f732abf463",
       "title": "Eko Patrol Radia 90 – odcinek 38/2026. Liczenie drzew w Rybniku. Czerwionka-Leszczyny zadba o swoje starodrzewy",
       "summary": "Dzisiejszy program poświęcimy w całości drzewom i ich znaczeniu dla naszego otoczenia. Powiemy o europejskiej akcji #EUTreeTag, w której po raz kolejny bierze udział Rybnik, a także o tym, co można wyczytać ze specjalnych etykiet umieszczonych na drzewach. Zajrzymy również do Czerwionki-Leszczyn…",
@@ -166,56 +346,6 @@
       "published": "2026-09-27T06:40",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "65b6d81610df476a1134c3dd309d4ae6d206bc80",
-      "title": "Czy transformacja energetyczna UE zmierza w dobrym kierunku? Debata na Zamku Piastowskim [ZDJĘCIA]",
-      "summary": "W ramach wydarzenia \"Transformacja energetyczna w UE - Bilans\" odbyła się debata na temat \"Czy transformacja energetyczna UE zmierza we właściwym kierunku\". Paneliści zaprezentowali swój punkt widzenia na politykę energetyczną Unii Europejskiej i idące za nią zagrożenia dla polskiej gospodarki.",
-      "link": "https://www.nowiny.pl/wiadomosci/251175-czy-transformacja-energetyczna-ue-zmierza-w-dobrym-kierunku-debata-na-zamku-piastowskim-zdjecia.html",
-      "published": "2026-09-27T06:07",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "1cfbad9d88c4b70fc3af4d8524b6446508b14538",
-      "title": "Kto zabił? Morderstwo w bibliotece podczas Nocy Bibliotek w Raciborzu. Uczestnicy wcielą się w role śledczych",
-      "summary": "Tajemnicza kolacja, ukryte sekrety i morderstwo, które trzeba będzie rozwikłać. Miejska i Powiatowa Biblioteka Publiczna w Raciborzu zaprasza w ramach Nocy Bibliotek na grę fabularno-dedukcyjną, podczas której uczestnicy wcielą się w role bohaterów kryminalnej historii i spróbują odpowiedzieć na…",
-      "link": "https://www.nowiny.pl/wiadomosci/251142-kto-zabil-morderstwo-w-bibliotece-podczas-nocy-bibliotek-w-raciborzu-uczestnicy-wciela-sie-w-role-sledczych.html",
-      "published": "2026-09-27T05:30",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f390e80fa0d76d31e799af476c20975f5ba8c2a7",
-      "title": "Miłośnicy motocykli spotkali się w Turzu. Wspólnie podziękowali Bogu za przejechane kilometry [ZDJĘCIA]",
-      "summary": "Motocykliści spotkali się w Turzu, by wspólnie zakończyć tegoroczny sezon. Grupa „Family Ghost” przygotowała wydarzenie, podczas którego uczestnicy wzięli udział w części religijnej i motocyklowej pielgrzymce, a na zakończenie spotkali się przy ognisku.",
-      "link": "https://www.nowiny.pl/wiadomosci/251116-milosnicy-motocykli-spotkali-sie-w-turzu-wspolnie-podziekowali-bogu-za-przejechane-kilometry-zdjecia.html",
-      "published": "2026-09-27T01:27",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b019467b572a3bd34b471e789e125fb0b9244689",
-      "title": "Naszą teraźniejszość trzeba obronić przed zapomnieniem. Kornelia Lach o projekcie „Nieodkryte skarby pogranicza”",
-      "summary": "Dr Kornelia Lach, długoletnia dyrektor szkoły w Krzanowicach i jedna z najbardziej rozpoznawalnych regionalistek na ziemi raciborskiej wzięła udział w konferencji inaugurującej projekt Wydawnictwa Nowiny „Nieodkryte skarby pogranicza” realizowany przy wsparciu finansowym Ministerstwa Kultury i…",
-      "link": "https://www.nowiny.pl/wiadomosci/251185-nasza-terazniejszosc-trzeba-obronic-przed-zapomnieniem-kornelia-lach-o-projekcie-nieodkryte-skarby-pogranicza.html",
-      "published": "2026-09-26T21:23",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a3d4ec1a1919353e404694df899959cff2e266de",
-      "title": "GDDKiA podała termin ustawienia świateł na skrzyżowaniu Głubczycka-Starowiejska-Cegielniana",
-      "summary": "Wskazywane od lat jako problematyczne, z wciąż rosnącym natężeniem ruchu skrzyżowanie przy mleczarni w Raciborzu ma zyskać sygnalizację świetlną. Zarządzająca drogą krajową nr 45 Generalna Dyrekcja Dróg Krajowych i Autostrad poinformowała o planowanej dacie instalacji świateł w tym miejscu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251184-gddkia-podala-termin-ustawienia-swiatel-na-skrzyzowaniu-glubczycka-starowiejska-cegielniana.html",
-      "published": "2026-09-26T20:34",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -459,16 +589,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "edbca12b4da494474c9a479544ba6b0ed4a62a4d",
-      "title": "Kolagen dla mężczyzn – co warto wiedzieć o pielęgnacji skóry i włosów od wewnątrz?",
-      "summary": "Kolagen jest jednym z głównych białek budujących skórę, a jego ilość w organizmie zmniejsza się wraz z wiekiem. Na wygląd skóry i włosów wpływa jednak znacznie więcej czynników – m.in. sposób odżywiania, ochrona przed słońcem i codzienna pielęgnacja. Dlatego dbanie o nie od wewnątrz warto zacząć od…",
-      "link": "https://www.radio90.pl/kolagen-dla-mezczyzn-co-warto-wiedziec-o-pielegnacji-skory-i-wlosow-od-wewnatrz.html",
-      "published": "2026-09-25T11:05",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "97430273de9b580a9acdf2e91fb1b3d35e9b080e",
       "title": "Używane kompresory jako elastyczne rozwiązanie dla firm",
       "summary": "Używany kompresor może być dobrym i tańszym rozwiązaniem niż zakup nowego sprzętu, szczególnie wtedy, gdy warsztat, gospodarstwo lub zakład produkcyjny potrzebuje dodatkowej wydajności bez angażowania dużego kapitału. Przy wyborze warto patrzeć nie tylko na cenę, ale przede wszystkim na to, czy…",
@@ -499,16 +619,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "72326ba46eacdf47cdb0ba3926735b6c3bea4b43",
-      "title": "Krajowy System Zarządzania Ruchem: trwają testy tablic na drodze ekspresowej i autostradach",
-      "summary": "Kierowcy podróżujący śląskim odcinkiem drogi ekspresowej S1 mogą od kilku dni zauważyć nietypowe komunikaty na tablicach zmiennej treści. Nie jest to błąd ani nowe ograniczenie obowiązujące na trasie. GDDKiA prowadzi testy Krajowego Systemu Zarządzania Ruchem.",
-      "link": "https://www.radio90.pl/krajowy-system-zarzadzania-ruchem-trwaja-testy-tablic-na-drodze-ekspresowej-i-autostradach.html",
-      "published": "2026-09-25T10:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "aab17181028eb36f612bb84627c1815eb7beebe4",
       "title": "„Głębokie Doły” pod ochroną. Powstał nowy rezerwat przyrody pomiędzy Rybnikiem a Czerwionką-Leszczynami",
       "summary": "Nowy rezerwat przyrody „Głębokie Doły im. prof. Floriana Celińskiego” obejmie ochroną ponad 180 ha lasów Nadleśnictwa Rybnik. Zarządzenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach w sprawie utworzenia obiektu zacznie obowiązywać 6 października. - To finał wieloletnich starań o objęcie…",
@@ -525,7 +635,7 @@
       "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zmiana-organizacji-ruchu-na-mikolowskiej",
       "published": "2026-09-25T00:00",
       "source": "rybnik.eu",
-      "category": "Aktualności",
+      "category": "Komunikaty",
       "priority": "NORMAL"
     },
     {
@@ -629,16 +739,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "9786a2e206944ec4a958652748af7b8850a598d6",
-      "title": "MKKS Rybnik gromi na inaugurację sezonu",
-      "summary": "To był prawdziwy pogrom. Koszykarze drugoligowego MKKS-u Rybnik wygrali inauguracyjny mecz nowego sezonu różnicą aż 60 punktów!",
-      "link": "https://www.radio90.pl/mkks-rybnik-gromi-na-inauguracje-sezonu.html",
-      "published": "2026-09-24T14:35",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "f8acad24b480e3d11bb096cf80332e14b2193721",
       "title": "Galeria: OFPA 2026 wystartowała! Trwają przesłuchania konkursowe (foto)",
       "summary": "Jubileuszowa, 30. edycja Ogólnopolskiego Festiwalu Piosenki Artystycznej OFPA 2026 oficjalnie wystartowała! Tym razem wyjątkowemu świętu muzyki przyświeca hasło „Perła Polskiej Piosenki”. Byliśmy tam z naszym aparatem, aby uwiecznić emocje i wyjątkową atmosferę tego jubileuszu. Zapraszamy do…",
@@ -659,82 +759,12 @@
       "priority": "ALERT"
     },
     {
-      "id": "93be5ab20a89dbe6cd308cd03f183d92668e61c6",
-      "title": "Zarząd sukcesyjny. Doradca podatkowy radzi",
-      "summary": "Zarząd sukcesyjny to temat kolejnego spotkania z doradcą podatkowym w Radiu 90. Tym razem nasz ekspert, Dariusz Graczyk przybliży temat zarządu sukcesyjnego.",
-      "link": "https://www.radio90.pl/zarzad-sukcesyjny-doradca-podatkowy-radzi.html",
-      "published": "2026-09-24T12:15",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "e1853ede1ffd73884f2ea4be1d88e15c35b109e1",
       "title": "Radni obradują. Ruszyła sesja Rady Miasta Rybnika (transmisja online)",
       "summary": "Rybniccy radni zaczynają wrześniowe obrady. Dzisiaj o godz. 12:00 rozpoczęła się kolejna sesja Rady Miasta Rybnika. Możecie przyglądać się na żywo temu, co dzieje się w Urzędzie Miasta Rybnika. Oglądajcie u nas transmisję online!",
       "link": "http://www.rybnik.com.pl/wiadomosci,radni-obraduja-ruszyla-sesja-rady-miasta-rybnika-transmisja-online,wia5-3266-66214.html",
       "published": "2026-09-24T12:01",
       "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c147ea44bf9e25864f452e784e8eaa0008cf17dc",
-      "title": "OFPA po raz trzydziesty. Rybnik jesienią brzmi piosenką artystyczną",
-      "summary": "Po raz 30. przyjechali do Rybnika, by zaśpiewać na Ogólnopolskim Festiwalu Piosenki Artystycznej OFPA 2026.",
-      "link": "https://www.radio90.pl/ofpa-po-raz-trzydziesty-rybnik-jesienia-brzmi-piosenka-artystyczna.html",
-      "published": "2026-09-24T11:15",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0031cc7af1701b197ee8c90af6ccfe41b9165388",
-      "title": "Łzy w Radiu 90. To nasza stacja grała ich jako pierwsza",
-      "summary": "\"Pierwsze grało nas Radio 90\" - mówią muzycy zespołu Łzy, który obchodzi właśnie 30-lecie swojej działalności.",
-      "link": "https://www.radio90.pl/lzy-w-radiu-90-to-nasza-stacja-grala-ich-jako-pierwsza.html",
-      "published": "2026-09-24T10:25",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "4442dcbdee9ae5053904d181bbef304b6cbbcc10",
-      "title": "Jesienna metamorfoza wnętrz dzięki nowoczesnym dodatkom i roślinom",
-      "summary": "Kiedy za oknem dni stają się coraz krótsze, a złote liście powoli ustępują miejsca chłodnym, deszczowym popołudniom, nasze mieszkania naturalnie domagają się ciepłej, otulającej metamorfozy. Jesień wcale nie musi oznaczać ponurej stagnacji, lecz może stać się doskonałym pretekstem do odświeżenia…",
-      "link": "https://www.radio90.pl/jesienna-metamorfoza-wnetrz-dzieki-nowoczesnym-dodatkom-i-roslinom.html",
-      "published": "2026-09-24T09:05",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "143e8a29e23c34f10725e0f9f3cef8ab25542195",
-      "title": "Światowy Dzień Morza. Czy można go świętować w Rybniku? Oczywiście!",
-      "summary": "24 września- Światowy Dzień Morza. Nad nasz Bałtyk mamy ponad 600 kilometrów, bardzo blisko jest jednak inne \"morze\"- Rybnickie Morze - tak często określa się Zalew Rybnicki.",
-      "link": "https://www.radio90.pl/swiatowy-dzien-morza-czy-mozna-go-swietowac-w-rybniku-oczywiscie.html",
-      "published": "2026-09-24T08:20",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6c9b3f71ffbb951cd3a663ec494f8c15b71150cb",
-      "title": "Znakowanie drzew w regionie. To akcja TreeTag. Także w Rybniku",
-      "summary": "Chcą pokazać, jak ważne są dla nas drzewa. Rybnik po raz drugi włączył się do akcji #EUTreeTag. W całej Europie ponad tysiąc drzew zostało oznaczonych specjalnymi etykietami-plakatami TreeTag.",
-      "link": "https://www.radio90.pl/znakowanie-drzew-w-regionie-to-akcja-treetag-takze-w-rybniku.html",
-      "published": "2026-09-24T07:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "5cfc441240900473d7ef550dc28f78c33ae9b7ec",
-      "title": "Najnowsze dane ze śląskich dróg. Policja podsumowała dobę",
-      "summary": "Do 134 zdarzeń doszło wczoraj (23.09) na trasach regionu. Jak podała właśnie śląska drogówka, w wypadkach rannych zostało 8 osób.",
-      "link": "https://www.radio90.pl/najnowsze-dane-ze-slaskich-drog-policja-podsumowala-dobe.html",
-      "published": "2026-09-24T06:43",
-      "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -786,26 +816,6 @@
       "published": "2026-09-24T00:00",
       "source": "rybnik.eu",
       "category": "Urząd Miasta",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3a07126777c922f816893fb753e25d4702141599",
-      "title": "57. RYBNICKIE DNI LITERATURY",
-      "summary": "Spotkania z wybitnymi pisarzami i biografistkami, rozmowy o zapomnianych bohaterkach literatury, spotkania z autorami nominowanymi do Górnośląskiej Nagrody Literackiej „Juliusz”, Żywa Biblioteka, teatr, muzyka, wystawy i wielki finał, podczas którego poznamy laureata lub laureatkę najlepszej…",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/57-rybnickie-dni-literatury",
-      "published": "2026-09-24T00:00",
-      "source": "rybnik.eu",
-      "category": "Kultura",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "17f936b66e7784c773956d3bc802bcc66afb9e99",
-      "title": "Ekstremalne emocje w Kamieniu",
-      "summary": "Błoto, woda, piach, ściany i podesty - przed uczestnikami 21. Kamień Extreme około 5 kilometrów wymagającej trasy i seria przeszkód, które sprawdzą ich siłę, sprawność i wytrzymałość. W niedzielę, 27 września, warto zajrzeć do Kamienia i zobaczyć sportową rywalizację na żywo.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/ekstremalne-emocje-w-kamieniu",
-      "published": "2026-09-24T00:00",
-      "source": "rybnik.eu",
-      "category": "Wydarzenia",
       "priority": "NORMAL"
     },
     {
@@ -1067,16 +1077,6 @@
       "source": "IMGW",
       "category": "Ostrzeżenia",
       "priority": "ALERT"
-    },
-    {
-      "id": "91a3d0dbafd83e824841679cf34efb3a582e2be1",
-      "title": "BUDOWA ELEKTROWNI PGE NOWY RYBNIK WCHODZI W KOLEJNY ETAP REALIZACJI",
-      "summary": "W dniach 4-7 września, w godzinach 9:00-17:00, na terenie budowy bloku gazowo-parowego PGE Nowy Rybnik będą prowadzone prace związane z przedmuchem gazociągu, jak informuje PGE Nowy Rybnik.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/budowa-elektrowni-pge-nowy-rybnik-wchodzi-w-kolejny-etap-realizacji",
-      "published": "2026-09-04T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
     },
     {
       "id": "693b3479108e81ac0323a8bdcd7c4c8721440a12",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T05:23:38",
+  "generated_at": "2026-09-28T13:53:40",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,26 +7,15 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 146,
+  "count": 147,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-iv-rybnicki-tydzien-senioralny",
-      "title": "IV Rybnicki Tydzień Senioralny",
-      "category": "Inne",
-      "start": "2026-09-28T10:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Od 28 września do 2 października 2026 roku w Rybniku odbędzie się IV Rybnicki Tydzień Senioralny. Wydarzenie ma na celu pokazanie różnorodnych form aktywności seniorów, a także stworzenie okazji do spotkań, rozmów i wspólnego udziału w działaniach związanych ze zdrowiem, historią miasta oraz integracją. Wydarzenie rozpocznie się 28 września 2026 roku o godz. 10:00 . Poszczególne punkty programu zaplanowano w różnych miejscach Rybnika. Organizatorem wydarzenia jest Fundacja „Superfundacja” . Program IV Rybnickiego Tygodnia Senioralnego obejmuje kilka spotkań i inicjatyw skierowanych do seniorów oraz osób zainteresowanych aktywnym uczestnictwem w życiu lokalnej społeczności.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/iv-rybnicki-tydzien-senioralny"
-    },
     {
       "id": "tzr-zaproszenie-kntds",
       "title": "Zaproszenie",
       "category": "Film",
       "start": "2026-09-28T15:30",
-      "end": "2026-09-28T17:00",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Joe i Angela są małżeństwem z kilkunastoletnim stażem. Z pozoru ich związek wydaje się wręcz wzorcowy: zgodne, spokojne życie w porządnej dzielnicy, udane dziecko, niezły status materialny. Jednak pod powierzchnią kryją się wzajemne pretensje, drobne konflikty, a przede wszystkim nuda i rutyna. Gdy pewnego wieczoru Joe i Angela zapraszają na kolację parę tajemniczych sąsiadów, swobodna i przyjacielska rozmowa zaczyna zmieniać się w pełną dwuznaczności grę. To, co dotąd skrywane, wychodzi na jaw, a niewypowiedziane pragnienia ducha i ciała zaczynają nabierać niebezpiecznie realnych kształtów. Czy obie pary pójdą dziś spać we własnych łóżkach?",
       "sourceName": "TZR",
@@ -53,6 +42,17 @@
       "description": "Po śmierci matki Elza rzuca się w wir pracy, nie pozwalając sobie na przeżycie żałoby. Dopiero atak paniki daje jej impuls do zatrzymania się oraz dalekiej podróży.",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/gorzkie-swieta.html"
+    },
+    {
+      "id": "iryb-dzien-kultury-w-ramach-iv-rybnickiego-tygodnia-senioralnego",
+      "title": "Dzień Kultury w ramach IV Rybnickiego Tygodnia Senioralnego",
+      "category": "Inne",
+      "start": "2026-09-29T10:00",
+      "end": null,
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "Muzyka, śpiew i taniec w wykonaniu seniorów wypełnią program Dnia Kultury w Rybniku-Chwałowicach. Wydarzenie odbędzie się w ramach IV Rybnickiego Tygodnia Senioralnego. Podczas wydarzenia zaprezentują się seniorzy. W programie przewidziano występy artystyczne obejmujące muzykę, śpiew i taniec. Organizatorem Dnia Kultury jest SUPERFUNDACJA . Na wydarzenie zaplanowano trzy godziny programu. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/dzien-kultury-w-ramach-iv-rybnickiego-tygodnia-senioralnego"
     },
     {
       "id": "iryb-malowane-wyobraznia-wystawa-sp7",
@@ -471,6 +471,17 @@
       "description": "Bartosz Zalewski przyjeżdża do Rybnika z nowym, bezkompromisowym programem „Myślę więc pierdzę” . Będzie absurdalnie, dosadnie i z charakterystycznym dla komika spojrzeniem na codzienność, a na scenie pojawią się także M. Bieńkowski i W. Sumliński . Warto zarezerwować ten wieczór na solidną porcję stand-upu na żywo. Bartosz Zalewski występuje od 2010 roku i ma na koncie między innymi programy solowe, roasty, nagrania telewizyjne oraz podcasty. Tym razem zaprasza publiczność na godzinę scenicznego chaosu, obserwacji i humoru, który nie zawsze grzecznie mieści się w ramach codziennej rozmowy. „Myślę więc pierdzę” to program o ludzkiej naturze, życiowych absurdach i próbie odnalezienia sensu w świecie, który zdecydowanie nie zawsze zachowuje się logicznie. Sam tytuł dobrze zapowiada klimat wieczoru: będzie bez filtra, z dystansem i sporą dawką słownych niespodzianek. To propozycja dla dorosłej publiczności, która lubi stand-up oparty na obserwacjach, dygresjach i mocniejszym języku. Po występie przewidziano także wymianę przedmiotów z logo firmy Zaibatsu na inne, równie nietypowe gadżety.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/mysle-wiec-pierdze-stand-up-rybnik"
+    },
+    {
+      "id": "iryb-wieczor-pelen-przygod-z-harrym-potterem",
+      "title": "Wieczór pełen przygód z Harrym Potterem",
+      "category": "DlaDzieci",
+      "start": "2026-10-09T17:00",
+      "end": null,
+      "venue": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku",
+      "description": "Młodzi miłośnicy świata Harry’ego Pottera będą mogli spędzić wieczór wśród książek i czarodziejskich animacji. Powiatowa i Miejska Biblioteka Publiczna im. Konstantego Prusa w Rybniku zaprasza na wydarzenie dla dzieci w wieku od 8 do 12 lat. Spotkanie zaplanowano na 9 października 2026 roku o godz. 17:00 w Oddziale dla dzieci w Bibliotece Głównej przy ul. Józefa Szafranka 7 w Rybniku . Zapisy prowadzone są telefonicznie pod numerem 32 422 35 41, wew. 3 lub osobiście w Wypożyczalni dla dzieci. Program obejmuje głośne czytanie oraz czarodziejskie animacje . Spotkanie ma być okazją do wspólnego spędzenia czasu i zanurzenia się w przygodach inspirowanych światem Harry’ego Pottera.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/wieczor-pelen-przygod-z-harrym-potterem"
     },
     {
       "id": "iryb-apolonia-dwurnik-edward-dwurnik-autoportret-portret-w-rybnik",
