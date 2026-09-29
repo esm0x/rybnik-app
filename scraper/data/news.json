@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:55:04",
+  "generated_at": "2026-09-29T22:18:41",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,126 @@
     }
   ],
   "items": [
+    {
+      "id": "128cd6bcc5090b458f36b23a3eab7e6aa2c2609a",
+      "title": "Gmina Pietrowice Wielkie zmodernizowała swoje ujęcia wody. Inwestycja o wielu wymiarach za unijną dotację z KPO",
+      "summary": "Cieszy ten dzień, kiedy możemy powiedzieć, że udało się zrealizować dużą potrzebę społeczną w postaci modernizacji ujęć wody. Są to trzy ujęcia wody: Amandów, Samborowice i Maków, gdzie jesteśmy - mówił we wtorkowy poranek wójt Adam Wajda w Makowie. W obecności m.in. wicemarszałka Grzegorza…",
+      "link": "https://www.nowiny.pl/wiadomosci/251250-gmina-pietrowice-wielkie-zmodernizowala-swoje-ujecia-wody-inwestycja-o-wielu-wymiarach-za-unijna-dotacje-z-kpo.html",
+      "published": "2026-09-29T21:21",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8d41b6c40ddc4ef3a43570bb8abfb561e0fb06a5",
+      "title": "Z Samborowic do Bawarii. Andrzej Białas uhonorowany za badanie losów robotników przymusowych",
+      "summary": "Urodzony w Raciborzu i pochodzący z Samborowic Andrzej Marcin Białas otrzymał Medal „Opiekun Miejsc Pamięci Narodowej”. Od lat bada losy robotników przymusowych, a szczególne miejsce w jego działalności zajmuje pamięć o niemowlętach robotnic przymusowych w Bawarii i Austrii.",
+      "link": "https://www.nowiny.pl/wiadomosci/251246-z-samborowic-do-bawarii-andrzej-bialas-uhonorowany-za-badanie-losow-robotnikow-przymusowych.html",
+      "published": "2026-09-29T19:52",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "ALERT"
+    },
+    {
+      "id": "e8b7afb2e2a21c983591da1a799b6e5d7327fdb3",
+      "title": "Gmina Rudnik doceniła młode talenty. Kto znalazł się wśród nagrodzonych?",
+      "summary": "W roku szkolnym 2025/2026 uczniowie ze szkół podstawowych gminy Rudnik aktywnie rozwijali swoje zainteresowania, uczestniczyli w konkursach, zawodach sportowych oraz różnych przedsięwzięciach. Wielu z nich osiągnęło bardzo dobre wyniki w nauce i odniosło sukcesy w dziedzinach, które są ich pasją…",
+      "link": "https://www.nowiny.pl/wiadomosci/251244-gmina-rudnik-docenila-mlode-talenty-kto-znalazl-sie-wsrod-nagrodzonych.html",
+      "published": "2026-09-29T19:18",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "850dc87f87d609e0f6535bce7714b28da024de08",
+      "title": "Potrącenie rowerzystki na Boryńskiej w Żorach. 52-latka doznała obrażeń i głowy i trafiła do szpitala",
+      "summary": "52-latka prawidłowo przejeżdżała przez przejazd dla rowerzystów, gdy uderzył w nią samochód. Tak wynika ze wstępnych ustaleń żorskiej policji.",
+      "link": "https://ezory.pl/wiadomosci/251245-potracenie-rowerzystki-na-borynskiej-w-zorach-52-latka-doznala-obrazen-i-glowy-i-trafila-do-szpitala.html",
+      "published": "2026-09-29T19:06",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f55dd83478e8717b71fc0b144e3a2e3be328eb68",
+      "title": "Sprawdź, co będzie się działo na festiwalu DzieJesie(ń) 2026 w Wodzisławiu Śląskim [PROGRAM]",
+      "summary": "Marcin Sójka zakończy tegoroczny DzieJesie(ń) Festiwal w Wodzisławiu Śląskim. Wcześniej na rynku pojawi się Remigiusz Rączka, odbędzie się konkurs na szarlotkę, a przez kilka godzin działać będą warsztaty, planetarium i strefa wystawców.",
+      "link": "https://www.nowiny.pl/wiadomosci/251243-sprawdz-co-bedzie-sie-dzialo-na-festiwalu-dziejesien-2026-w-wodzislawiu-slaskim-program.html",
+      "published": "2026-09-29T18:52",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a7ee6e031d9da6059d56486b350807dae9e2c194",
+      "title": "Górnik Zabrze chce namieszać w Ekstraklasie. Kibice czekają na kolejne emocje",
+      "summary": "Górnik Zabrze od dekad pozostaje jedną z najbardziej rozpoznawalnych i utytułowanych marek w polskim futbolu, słynącą z bezkompromisowej gry, wielkiego śląskiego charakteru oraz niezwykle gorącego dopingu na stadionie przy ul. Roosevelta. 14-krotny mistrz Polski w bieżącym sezonie PKO BP…",
+      "link": "https://www.nowiny.pl/wiadomosci/251224-gornik-zabrze-chce-namieszac-w-ekstraklasie-kibice-czekaja-na-kolejne-emocje.html",
+      "published": "2026-09-29T18:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "da2367e761acc0fe20b566e6b02f45dd80925031",
+      "title": "Święto Dyni w Raciborzu. Cały dzień atrakcji w Ogródku Jordanowskim [PROGRAM]",
+      "summary": "Warsztaty, występy dzieci, muzyka, gry, pokazy i zupa dyniowa. W piątek, 2 października, w Ogródku Jordanowskim w Raciborzu odbędzie się Święto Dyni.",
+      "link": "https://www.nowiny.pl/wiadomosci/251238-swieto-dyni-w-raciborzu-caly-dzien-atrakcji-w-ogrodku-jordanowskim-program.html",
+      "published": "2026-09-29T17:27",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c9d80e8341780174028149fef4addbcd7059bc82",
+      "title": "Tragiczny wypadek w Rudach. Nie żyje 19-letnia pasażerka motocykla [AKTUALIZACJA]",
+      "summary": "Młoda kobieta zginęła we wtorek, 29 września, na drodze wojewódzkiej nr 919 w Rudach. Jechała jako pasażerka motocykla marki Honda. Kierowca trafił do szpitala.",
+      "link": "https://www.nowiny.pl/wiadomosci/251242-tragiczny-wypadek-w-rudach-nie-zyje-19-letnia-pasazerka-motocykla-aktualizacja.html",
+      "published": "2026-09-29T17:17",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b788b4d93a4e06d422ca6ba6c43301f46531ac3f",
+      "title": "Biblioteka w Rybniku poleca się nie tylko z okazji dnia głośnego czytania",
+      "summary": "29 września, w Dniu Głośnego Czytania polecamy cykl „Tu czytamy” w bibliotece w Rybniku, to rodzinne warsztaty literacko-plastyczne dla najmłodszych.",
+      "link": "https://www.radio90.pl/biblioteka-w-rybniku-poleca-sie-nie-tylko-z-okazji-dnia-glosnego-czytania.html",
+      "published": "2026-09-29T14:32",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5cb11b8e4ed54646bfc1060025eeba16ff3083ef",
+      "title": "Konkurs dla młodych, zdolnych, przedsiębiorczych na rybnicki Biznesplan",
+      "summary": "12 tysięcy złotych wynosi łączna pula nagród finansowych w konkursie Rybnicki Biznesplan. Kto może zdobyć kasę?",
+      "link": "https://www.radio90.pl/konkurs-dla-mlodych-zdolnych-przedsiebiorczych-na-rybnicki-biznesplan.html",
+      "published": "2026-09-29T13:50",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e85720f4164211a6c807f7fbdbdbbf83f3731fee",
+      "title": "Wypadek w Jastrzębiu-Zdroju. Sprawczynią nietrzeźwa 20-latka",
+      "summary": "Piątkowy wieczór przyniósł jastrzębskim policjantom dwie interwencje związane z młodymi kobietami, które zdecydowały się prowadzić samochód po alkoholu. Jedna z nich doprowadziła do wypadku, druga trafiła do tymczasowego aresztu.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251240-wypadek-w-jastrzebiu-zdroju-sprawczynia-nietrzezwa-20-latka.html",
+      "published": "2026-09-29T13:48",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b07508e0bc3a9ed8891fd3ccdcec991aac94881f",
+      "title": "Dyniowa Stacja Rudy. Mamy dla Was wejściówki [KONKURS w RADIU 90]",
+      "summary": "Tej jesieni rusza Dyniowa Stacja Rudy! Przez cały październik, w każdy weekend, zabytkowa stacja kolejki wąskotorowej zamieni się w pełne jesiennego klimatu miejsce, idealne na rodzinny wypad. W Radiu 90 mamy dla was bilety na wyjątkową przejażdżkę Dyniowym Ekspresem.",
+      "link": "https://www.radio90.pl/dyniowa-stacja-rudy-mamy-dla-was-wejsciowki-konkurs-w-radiu-90.html",
+      "published": "2026-09-29T13:00",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "5a0ca13129527b0f951aacfeba254933ebd19575",
       "title": "Kawa oznacza aromatyczny początek dnia. Jak znaleźć dobrą kawę, właściwie ją zaparzyć i delektować się smakiem? Dziś obchodzimy Dzień Kawy",
@@ -109,26 +229,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "0cafaf1e2254d63ec7e3be123a354203e82f78ea",
-      "title": "Robbie Williams rozgrzeje Ostravę. Festiwal Colours of Ostrava ogłasza pierwszą gwiazdę edycji 2027",
-      "summary": "Brytyjski wokalista, muzyk i jeden z największych showmanów swojego pokolenia wystąpi w środę 21 lipca 2027 roku na terenie industrialnych Dolních Vítkovic. Robbie Williams jest pierwszą ogłoszoną gwiazdą 24. edycji Colours of Ostrava, która odbędzie się w dniach 21–24 lipca. Do Ostrawy przywiezie…",
-      "link": "https://www.nowiny.pl/wiadomosci/251230-robbie-williams-rozgrzeje-ostrave-festiwal-colours-of-ostrava-oglasza-pierwsza-gwiazde-edycji-2027.html",
-      "published": "2026-09-29T09:31",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8b20b67112c63bde1bbe0978df912bb74013c019",
-      "title": "37 lat temu w Raciborzu zginęli twórcy kultowej „Sondy”",
-      "summary": "Mieli nagrywać kolejny odcinek „Sondy” w raciborskim Rafako. 29 września 1989 roku ich podróż zakończyła się tragicznym wypadkiem w Brzeziu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251228-37-lat-temu-w-raciborzu-zgineli-tworcy-kultowej-sondy.html",
-      "published": "2026-09-29T09:29",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "ca7b4ef65f7b2d70df4f2de5188787b3dfde6c4f",
       "title": "Śląska policja wyłapała kolejnych kierowców na podwójnym gazie",
       "summary": "179 zdarzeń, w których rannych zostało 5 osób. Te liczby znajdziemy w raporcie śląskiej drogówki z minionej doby.",
@@ -139,26 +239,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "ec8cea5bef4b353ae0752037aea75f22d32a1a28",
-      "title": "Cmentarz, który opowiada historię. Nekropolia przy Starowiejskiej wraca do pamięci",
-      "summary": "Nagrobek 16-letniego Georga Reimanna, pomnik wiceburmistrza Roberta Ellendta i granitowy denkmal ze 112 nazwiskami poległych. To część tego, co wolontariusze odsłonili spod bluszczu na cmentarzu przy Starowiejskiej.",
-      "link": "https://www.nowiny.pl/wiadomosci/251229-cmentarz-ktory-opowiada-historie-nekropolia-przy-starowiejskiej-wraca-do-pamieci.html",
-      "published": "2026-09-29T08:31",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a722299f2d1356356436acf397e7cdb1d233b091",
-      "title": "KOWR sprzedaje pałacyk w Szonowicach. Cena wywoławcza: 767 tys. zł",
-      "summary": "Pałacyk w Szonowicach został wystawiony na sprzedaż. Krajowy Ośrodek Wsparcia Rolnictwa chce za nieruchomość 767 tys. zł. Cały teren ma blisko 3 hektary. Są na nim także stajnia i budynki gospodarcze.",
-      "link": "https://www.nowiny.pl/wiadomosci/251227-kowr-sprzedaje-palacyk-w-szonowicach-cena-wywolawcza-767-tys-zl.html",
-      "published": "2026-09-29T08:06",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "0884b3ba642ba934bdeb9ab41984f11ab736a0e2",
       "title": "Dni Zdrowia Psychicznego w Rybniku. Sprawdźcie program wydarzenia, jest wiele ciekawych inspiracji [PATRONAT]",
       "summary": "Sztuka równoważenia - to hasło tegorocznych Dni Zdrowia Psychicznego w Rybniku, w październiku odbędą się warsztaty, które połączą sztukę, emocje i refleksję nad dobrostanem psychicznym.",
@@ -166,16 +246,6 @@
       "published": "2026-09-29T07:45",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "31ad8a343335cb725d1f8be65ac730def7a09161",
-      "title": "Kilka problemów z zębami naraz – od czego zacząć leczenie?",
-      "summary": "Brak zęba, krwawiące dziąsła i stara korona, która przestała pasować, mogą wymagać różnych zabiegów. Nie oznacza to jednak, że każdy problem warto rozwiązywać osobno. Stan przyzębia wpływa na możliwości odbudowy, a planowana protetyka może zmienić kolejność innych wizyt. Przy kilku potrzebach…",
-      "link": "https://www.nowiny.pl/wiadomosci/251225-kilka-problemow-z-zebami-naraz-od-czego-zaczac-leczenie.html",
-      "published": "2026-09-29T07:41",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -199,26 +269,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "e9d47304a3e4a43575677b2668d16aa7c4d326fd",
-      "title": "Czas trudnych decyzji w JSW. Jest Program Naprawczy na lata 2026-2035",
-      "summary": "Nie ma już mowy o przeczekaniu kryzysu. JSW zapowiada cięcia kosztów, ograniczenie inwestycji i zmiany w zatrudnieniu. Zarząd przekonuje, że bez tych działań przyszłość spółki byłaby jeszcze bardziej niepewna. Spółka przedstawiła Program Naprawczy na lata 2026-2035.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251222-czas-trudnych-decyzji-w-jsw-jest-program-naprawczy-na-lata-2026-2035.html",
-      "published": "2026-09-28T21:46",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "afc789755e37ae8dfd433cb5f82892c776ed4cb0",
-      "title": "Jest nowa instrukcja MSWiA. Wskazuje, gdzie szukać schronienia podczas ataku z powietrza",
-      "summary": "Gdzie schować się podczas ataku z powietrza? Co zrobić po usłyszeniu syren alarmowych? MSWiA opublikowało nową instrukcję, która podpowiada, jak zachować się w sytuacji zagrożenia. 12-stronicowy dokument pokazuje m.in., jakie miejsce w domu może zapewnić najlepszą ochronę i czego unikać. Instrukcja…",
-      "link": "https://www.nowiny.pl/wiadomosci/251221-jest-nowa-instrukcja-mswia-wskazuje-gdzie-szukac-schronienia-podczas-ataku-z-powietrza.html",
-      "published": "2026-09-28T18:55",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "ALERT"
-    },
-    {
       "id": "f5e79088cfbc7c825a3897caf096bcc2a8ad6063",
       "title": "Rodzinnie, rowerowo i rekordowo – za nami wakacje z Kolejami Śląskimi",
       "summary": "Ponad 45 tys. podróży z rowerami i o ponad jedną trzecią większe zainteresowanie wakacyjną ofertą – tegoroczne lato w Kolejach Śląskich upłynęło pod znakiem aktywnych i rodzinnych wyjazdów.",
@@ -226,26 +276,6 @@
       "published": "2026-09-28T18:27",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a22dc44a112466fca1781ffeb8d21a4b2688253f",
-      "title": "Ocieplali kartonowe domki i sprawdzali je kamerą. Tak uczniowie z Budzisk uczyli się o energii [ZDJĘCIA]",
-      "summary": "Jak zatrzymać ciepło w budynku? Co pokazuje kamera termowizyjna? Jak działają panele solarne i turbiny wiatrowe? Tego uczniowie Społecznej Szkoły Podstawowej w Budziskach nie tylko dowiedzieli się podczas zajęć, ale mogli też sprawdzić samodzielnie. 14 września w szkole odbyły się warsztaty…",
-      "link": "https://www.nowiny.pl/ekonowiny/251220-ocieplali-kartonowe-domki-i-sprawdzali-je-kamera-tak-uczniowie-z-budzisk-uczyli-sie-o-energii-zdjecia.html",
-      "published": "2026-09-28T18:17",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f1f32c6252fa431a08118bbb1f2747a2cfa6fe01",
-      "title": "Młodzi kierowcy pędzili przez powiat raciborski. Rekordzista miał na liczniku 158 km/h",
-      "summary": "Aż czterech młodych kierowców straciło prawa jazdy na trzy miesiące po tym, jak podczas minionego weekendu policjanci zatrzymali ich za przekroczenie prędkości o więcej niż 50 km/h. Rekordzista pędził w Bieńkowicach aż 158 km/h, mimo że obowiązywało tam ograniczenie do 90 km/h.",
-      "link": "https://www.nowiny.pl/wiadomosci/251219-mlodzi-kierowcy-pedzili-przez-powiat-raciborski-rekordzista-mial-na-liczniku-158-km-h.html",
-      "published": "2026-09-28T18:03",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -424,36 +454,6 @@
       "summary": "Rybniczanka, Anna Drewniok została zwyciężczynią odbywającego się w Rybniku już po raz kolejny - dokładnie po raz 30. - Ogólnopolskiego Festiwalu Piosenki Artystycznej (OFPA). Spośród kilkudziesięciu uczestników festiwalu, to właśnie występy Anny Drewniok najbardziej przypadły do gustu, jury…",
       "link": "https://www.radio90.pl/ogolnopolski-festiwal-piosenki-artystycznej-w-rybniku-jubileuszowa-edycje-zwyciezyla-anna-drewniok-wideo-zdjecia.html",
       "published": "2026-09-27T07:57",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "39b1d5311ab0c8e38d6c2f40194f56f732abf463",
-      "title": "Eko Patrol Radia 90 – odcinek 38/2026. Liczenie drzew w Rybniku. Czerwionka-Leszczyny zadba o swoje starodrzewy",
-      "summary": "Dzisiejszy program poświęcimy w całości drzewom i ich znaczeniu dla naszego otoczenia. Powiemy o europejskiej akcji #EUTreeTag, w której po raz kolejny bierze udział Rybnik, a także o tym, co można wyczytać ze specjalnych etykiet umieszczonych na drzewach. Zajrzymy również do Czerwionki-Leszczyn…",
-      "link": "https://www.radio90.pl/eko-patrol-radia-90-odcinek-38-2026-liczenie-drzew-w-rybniku-czerwionka-leszczyny-zadba-o-swoje-starodrzewy.html",
-      "published": "2026-09-27T06:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "24511325cb92d527dc8a3e248db1be509e7753f3",
-      "title": "ROW Rybnik wygrywa ze Stalą Brzeg. Mimo wysokiego prowadzenia, końcówka nie była spokojna…",
-      "summary": "Na przerwę schodzili z trzema bramkami przewagi (3:0). Tuż po zmianie stron dołożyli czwartego gola i wydawać się mogło, że piłkarze ROW-u Rybnik w rozgrywanym w sobotę (26.09) domowym starciu ze Stalą Brzeg bez problemu zainkasują trzy oczka. Ostatecznie punkty zostały w Rybniku, lecz rywale…",
-      "link": "https://www.radio90.pl/row-rybnik-wygrywa-ze-stala-brzeg-mimo-wysokiego-prowadzenia-koncowka-nie-byla-spokojna.html",
-      "published": "2026-09-26T18:36",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e388843b45cd8960b2ac5cfe0172bcaed671091c",
-      "title": "„Greenwashing” czyli „ekościema”. Zmiany w prawie mają pomóc konsumentom",
-      "summary": "Od 27 września 2026 roku mają zacząć obowiązywać nowe zasady dotyczące komunikowania ekologicznych cech produktów i usług. To efekt wdrażania unijnej dyrektywy, która ma ograniczyć greenwashing. Wprowadza ona zakaz stosowania ogólnych twierdzeń środowiskowych, takich jak „ekologiczny” czy…",
-      "link": "https://www.radio90.pl/greenwashing-czyli-ekosciema-zmiany-w-prawie-maja-pomoc-konsumentom.html",
-      "published": "2026-09-26T16:16",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:52:23",
+  "generated_at": "2026-09-29T22:15:56",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,42 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 156,
+  "count": 157,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-dzien-kultury-w-ramach-iv-rybnickiego-tygodnia-senioralnego",
-      "title": "Dzień Kultury w ramach IV Rybnickiego Tygodnia Senioralnego",
-      "category": "Inne",
-      "start": "2026-09-29T10:00",
-      "end": null,
-      "venue": "Dom Kultury Rybnik-Chwałowice",
-      "description": "Muzyka, śpiew i taniec w wykonaniu seniorów wypełnią program Dnia Kultury w Rybniku-Chwałowicach. Wydarzenie odbędzie się w ramach IV Rybnickiego Tygodnia Senioralnego. Podczas wydarzenia zaprezentują się seniorzy. W programie przewidziano występy artystyczne obejmujące muzykę, śpiew i taniec. Organizatorem Dnia Kultury jest SUPERFUNDACJA . Na wydarzenie zaplanowano trzy godziny programu. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/dzien-kultury-w-ramach-iv-rybnickiego-tygodnia-senioralnego"
-    },
-    {
-      "id": "iryb-malowane-wyobraznia-wystawa-sp7",
-      "title": "Malowane wyobraźnią – wystawa SP7",
-      "category": "Wystawa",
-      "start": "2026-09-29T11:00",
-      "end": null,
-      "venue": "Halo! Rybnik",
-      "description": "Dziecięca wyobraźnia potrafi nadać znanym obrazom zupełnie nowe znaczenie, a z własnych pomysłów stworzyć małe dzieła sztuki. Szósta edycja wystawy „Malowane wyobraźnią z obrazem w tle” prezentuje prace młodych artystów z SP7, które będzie można oglądać w halo! Rybnik. Młodzi artyści tworzyli na płótnach, czerpiąc inspirację zarówno ze znanych dzieł malarskich, jak i z własnych pomysłów oraz obserwacji otaczającego świata. Niektóre prace nawiązują do rozpoznawalnych obrazów, inne są autorskimi kompozycjami. Każda z nich jest inna i pokazuje, jak wiele może powstać dzięki kreatywności i swobodnemu spojrzeniu na sztukę. Wystawa to okazja, by zobaczyć, jak dzieci interpretują malarstwo i opowiadają obrazami własne historie. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/malowane-wyobraznia-wystawa-sp7"
-    },
-    {
-      "id": "iryb-biografie-bez-cenzur-ekorelacje-z-magdalena-grzebalkowska",
-      "title": "Biografie bez cenzur – eKOrelacje z Magdaleną Grzebałkowską",
-      "category": "Inne",
-      "start": "2026-09-29T18:00",
-      "end": null,
-      "venue": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku",
-      "description": "29 września 2026 roku w Bibliotece Głównej w Rybniku odbędzie się spotkanie z cyklu eKOrelacje. Gościnią wydarzenia będzie Magdalena Grzebałkowska, dziennikarka i autorka biografii oraz reportaży. Rozmowę poprowadzi Aleksandra Klich. Wydarzenie będzie okazją do rozmowy z Magdaleną Grzebałkowską o jej pracy dziennikarskiej i twórczości literackiej. Autorka biografii i reportaży opowie o swoim podejściu do przedstawiania prawdziwych historii oraz bohaterów swoich książek. Rozmowę poprowadzi Aleksandra Klich. Spotkanie odbędzie się w ramach cyklu eKOrelacje. Organizatorem spotkania jest Powiatowa i Miejska Biblioteka Publiczna w Rybniku .",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/biografie-bez-cenzur-ekorelacje-z-magdalena-grzebalkowska"
-    },
     {
       "id": "iryb-kazdy-mistrz-kiedys-zaczynal-grac-koncert-organowy",
       "title": "Każdy Mistrz kiedyś zaczynał grać – koncert organowy",
@@ -86,6 +53,17 @@
       "description": "Odnowiona sala sesyjna Urzędu Miasta Rybnika będzie dostępna dla mieszkańców podczas dnia otwartego. To okazja, by zobaczyć wnętrze, w którym zachowały się historyczne detale. Wydarzenie zaplanowano na 1 października 2026 roku , w godzinach od 8:00 do 18:00 . Mieszkańcy będą mogli odwiedzić Salę sesyjną im. Władysława Webera w Urzędzie Miasta Rybnika . Podczas wizyty będzie można przyjrzeć się historycznym elementom wnętrza. Wśród nich są mosiężny żyrandol w stylu art déco oraz krucyfiks, który ma ponad sto lat. Sala została odnowiona i zostanie udostępniona mieszkańcom na czas wydarzenia. Organizatorem dnia otwartego jest Urząd Miasta Rybnika . Wstęp do sali jest otwarty dla wszystkich mieszkańców.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/dzien-otwarty-w-sali-sesyjnej"
+    },
+    {
+      "id": "iryb-literatura-dla-klimatu-warsztaty-literackie-w-filii-nr-10",
+      "title": "Literatura dla klimatu – warsztaty literackie w Filii nr 10",
+      "category": "Warsztaty",
+      "start": "2026-10-01T10:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Literatura i ekologia spotkają się podczas warsztatów w rybnickiej Filii nr 10. Uczestnicy wspólnie sięgną po utwory znanych polskich pisarzy, a także sprawdzą swoją wiedzę o ochronie środowiska. Spotkanie zaplanowano na 1 października 2026 roku o godz. 10.00 w Filii nr 10 przy ul. Barbary 22E w Rybniku . Wstęp jest wolny. W programie znalazło się wspólne czytanie poezji Wisławy Szymborskiej i Leopolda Staffa oraz fragmentów powieści Olgi Tokarczuk „Prowadź swój pług przez kości umarłych” . Literacką część uzupełnią ekologiczne quizy i krzyżówki. Uczestnicy poznają też praktyczne wskazówki dotyczące segregowania śmieci.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/literatura-dla-klimatu-warsztaty-literackie-w-filii-nr-10"
     },
     {
       "id": "iryb-warsztaty-florystyczne-dla-pan-dynia-pelna-jesieni",
@@ -251,6 +229,17 @@
       "description": "Rozmowy o relacjach, codziennych wyzwaniach, przeszłości i planach na przyszłość staną się częścią cyklu spotkań „Czułe kręgi”. To propozycja dla kobiet, które chcą pobyć w życzliwej grupie i spojrzeć na różne sfery życia z nowej perspektywy. Pierwsze spotkanie odbędzie się 3 października 2026 roku (sobota), w godz. 18:00–20:30 . Krąg będzie spotykał się sześciokrotnie, a każde spotkanie potrwa 2,5 godziny. Miejscem wydarzenia jest sala do jogi przy Zagrodzie 3 Siostry, ul. Jodłowa 91, 44-213 Rybnik . Udział kosztuje 100 zł za spotkanie . Zgłoszenia przyjmowane są pod numerem 881 320 946 . Każde spotkanie będzie poświęcone innej sferze życia. W planie są rozmowy o tym, co dodaje energii, historiach rodzinnych, marzeniach, miłości i kobiecości.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/czule-kregi-w-rybniku"
+    },
+    {
+      "id": "iryb-narychtuj-mi-szczynscie-premiera-spektaklu",
+      "title": "„Narychtuj mi szczyńście” – premiera spektaklu",
+      "category": "Spektakl",
+      "start": "2026-10-03T18:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "W Czerwionce-Leszczynach będzie można zobaczyć premierę spektaklu po śląsku, opowiadającego o siostrach i ich próbie zmierzenia się z rodzinną przeszłością. „Narychtuj mi szczyńście” podejmuje temat straty oraz relacji, które mogą zmieniać się pod wpływem trudnych doświadczeń. Bohaterkami przedstawienia są dwie siostry, które po śmierci matki stają wobec żałoby, wspomnień i tego, co łączy je ze sobą. Spektakl w języku śląskim skupia się na ich relacji i konfrontacji z przeszłością. Dwie siostry i śląski dom po śmierci matki. Premiera w Czerwionce-Leszczynach Scenariusz napisała, a spektakl wyreżyserowała Anna Krypczyk.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/narychtuj-mi-szczynscie-premiera-spektaklu"
     },
     {
       "id": "iryb-vi-rybnicki-sabat-czarownic-impreza-w-rybniku",
@@ -1131,6 +1120,28 @@
       "description": null,
       "sourceName": "biletyna.pl",
       "sourceUrl": "https://biletyna.pl/film/Guru?eid=702612#opis"
+    },
+    {
+      "id": "iryb-tu-kino-seans-rodzinny-pucio",
+      "title": "Tu Kino – seans rodzinny: „Pucio”",
+      "category": "Film",
+      "start": "2026-10-29T17:00",
+      "end": null,
+      "venue": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku",
+      "description": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku zaprasza na rodzinny seans w ramach cyklu Tu Kino. W programie znalazła się ekranizacja przygód Pucia, bohatera znanego z książek dla dzieci. Seans potrwa 45 minut i jest przeznaczony dla widzów w wieku od 3 lat. Film powstał na podstawie serii książek Marty Galewskiej-Kustry, z ilustracjami Joanny Kłos. Pucio wchodzi na ekran w Rybniku - rodzinny seans już 29 października Seans organizuje Powiatowa i Miejska Biblioteka Publiczna w Rybniku.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/tu-kino-seans-rodzinny-pucio"
+    },
+    {
+      "id": "iryb-angelika-kuzniak-o-marii-sklodowskiej-curie",
+      "title": "Angelika Kuźniak o Marii Skłodowskiej-Curie",
+      "category": "Inne",
+      "start": "2026-10-29T18:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Jak wyglądała Maria Skłodowska-Curie poza kartami podręczników? O jej życiu i osobowości opowie reporterka i biografistka Angelika Kuźniak podczas spotkania w Rybniku. Punktem wyjścia do rozmowy będzie jej książka „Skłodowska-Curie. Rebeliantka”. Wydarzenie zaplanowano na 29 października 2026 roku o godz. 18:00 w Bibliotece Głównej przy ul. Józefa Szafranka 7 w Rybniku . Spotkanie poświęcone będzie Marii Skłodowskiej-Curie przedstawionej w biografii „Skłodowska-Curie. Rebeliantka”. Rozmowa ma pokazać różne perspektywy na życie i osobowość naukowczyni. Gościem wydarzenia będzie Angelika Kuźniak, autorka opowieści biograficzno-reporterskich. Maria Skłodowska-Curie bez pomnika - Angelika Kuźniak opowie o rebeliantce",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/angelika-kuzniak-o-marii-sklodowskiej-curie"
     },
     {
       "id": "iryb-rybnik-stand-up-mateusz-ipkis-dudek-traci-myszka-na-zywo",
