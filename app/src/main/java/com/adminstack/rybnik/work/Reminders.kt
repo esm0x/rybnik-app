@@ -19,8 +19,10 @@ import androidx.work.WorkerParameters
 import com.adminstack.rybnik.Graph
 import com.adminstack.rybnik.MainActivity
 import com.adminstack.rybnik.R
+import com.adminstack.rybnik.core.prefs.Settings
 import com.adminstack.rybnik.data.outages.OutageKind
 import kotlinx.coroutines.flow.first
+import kotlinx.coroutines.launch
 import java.time.Duration
 import java.time.LocalDate
 import java.time.LocalDateTime
@@ -61,6 +63,14 @@ object Reminders {
     const val DEST_NEWS = "news"
     const val DEST_AIR = "air"
 
+    /**
+     * Two mechanisms on purpose, because they fail differently.
+     *
+     * The periodic worker is the safety net: it survives reboots on its own and catches
+     * smog, city alerts and power cuts, none of which care about the exact minute. The
+     * daily alarm carries the reminders that do have a deadline, because WorkManager's
+     * six-hour period is a floor, not a promise, and Doze stretches it further.
+     */
     fun rescheduleAll(context: Context) {
         val wm = WorkManager.getInstance(context)
         wm.enqueueUniquePeriodicWork(
@@ -70,6 +80,16 @@ object Reminders {
                 .setInitialDelay(nextRunDelayMinutes(), TimeUnit.MINUTES)
                 .build(),
         )
+        rescheduleAlarm(context)
+    }
+
+    /** Books the daily alarm at the hour the user picked for the waste reminder. */
+    fun rescheduleAlarm(context: Context) {
+        Graph.scope.launch {
+            val hour = runCatching { Graph.prefs.settings.first().wasteReminderHour }
+                .getOrDefault(Settings.DEFAULT_WASTE_HOUR)
+            ReminderAlarms.schedule(context, hour)
+        }
     }
 
     /** Aim the first run at the top of the next hour so reminders land predictably. */

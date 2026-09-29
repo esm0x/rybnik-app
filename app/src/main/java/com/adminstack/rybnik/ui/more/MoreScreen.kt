@@ -1,5 +1,19 @@
 package com.adminstack.rybnik.ui.more
 
+import android.content.Context
+import android.content.Intent
+import android.net.Uri
+import android.os.PowerManager
+import androidx.compose.material3.Button
+import androidx.compose.material3.CardDefaults
+import androidx.compose.runtime.DisposableEffect
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
+import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.platform.LocalLifecycleOwner
+import androidx.lifecycle.Lifecycle
+import androidx.lifecycle.LifecycleEventObserver
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -163,6 +177,8 @@ fun SettingsScreen(onBack: () -> Unit, onPickAddress: () -> Unit) {
         }
     ) { padding ->
         LazyColumn(Modifier.padding(padding)) {
+            item { BatterySection() }
+
             item { SectionHeader("Adres do harmonogramu odpadów") }
             item {
                 ListItem(
@@ -398,4 +414,100 @@ fun AirScreen(onBack: () -> Unit) {
             )
         }
     }
+}
+
+
+/**
+ * Reminders that stop arriving after a few days are almost always the battery manager,
+ * not the app. Android's own Doze is handled in code (the daily alarm uses
+ * setAndAllowWhileIdle), but a force-stop from an OEM battery manager cancels every
+ * scheduled alarm and job, and nothing inside the app can undo that: only the user can,
+ * from system settings.
+ *
+ * This opens the system list rather than asking for the exemption directly. The direct
+ * request needs REQUEST_IGNORE_BATTERY_OPTIMIZATIONS, which Google Play grants only to
+ * apps whose core function genuinely depends on it, and a bin reminder is not that.
+ */
+@Composable
+private fun BatterySection() {
+    val context = LocalContext.current
+    val lifecycleOwner = LocalLifecycleOwner.current
+    var exempt by remember { mutableStateOf(isExemptFromBatteryOptimisation(context)) }
+
+    // Re-checked on resume, so coming back from system settings shows the new state
+    // instead of the one from before the trip.
+    DisposableEffect(lifecycleOwner) {
+        val observer = LifecycleEventObserver { _, event ->
+            if (event == Lifecycle.Event.ON_RESUME) {
+                exempt = isExemptFromBatteryOptimisation(context)
+            }
+        }
+        lifecycleOwner.lifecycle.addObserver(observer)
+        onDispose { lifecycleOwner.lifecycle.removeObserver(observer) }
+    }
+
+    Column {
+        SectionHeader("Działanie w tle")
+        Card(
+            Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 4.dp),
+            colors = if (exempt) CardDefaults.cardColors()
+            else CardDefaults.cardColors(
+                containerColor = MaterialTheme.colorScheme.secondaryContainer,
+                contentColor = MaterialTheme.colorScheme.onSecondaryContainer,
+            ),
+        ) {
+            Column(Modifier.padding(16.dp)) {
+                Text(
+                    if (exempt) "Powiadomienia mogą działać w tle"
+                    else "System może wstrzymywać powiadomienia",
+                    style = MaterialTheme.typography.titleSmall,
+                    fontWeight = FontWeight.SemiBold,
+                )
+                Spacer(Modifier.height(6.dp))
+                Text(
+                    if (exempt) {
+                        "Aplikacja jest wyłączona z oszczędzania baterii, więc przypomnienia " +
+                            "o wywozie i alerty powinny przychodzić na czas."
+                    } else {
+                        "Jeśli przypomnienia przestają przychodzić po kilku dniach, to " +
+                            "zwykle oszczędzanie baterii zatrzymuje aplikację w tle. " +
+                            "Wyłącz je dla Mój Rybnik, a przypomnienia wrócą."
+                    },
+                    style = MaterialTheme.typography.bodySmall,
+                )
+                if (!exempt) {
+                    Spacer(Modifier.height(12.dp))
+                    Button(onClick = { openBatterySettings(context) }) {
+                        Text("Otwórz ustawienia baterii")
+                    }
+                }
+                Spacer(Modifier.height(10.dp))
+                Text(
+                    "Xiaomi, Samsung, Huawei i OPPO mają do tego własne menedżery. " +
+                        "Tam warto dodatkowo włączyć autostart i zdjąć ograniczenia dla " +
+                        "aplikacji, bo zamknięcie jej z listy ostatnich aplikacji kasuje " +
+                        "zaplanowane przypomnienia.",
+                    style = MaterialTheme.typography.labelSmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
+            }
+        }
+    }
+}
+
+private fun isExemptFromBatteryOptimisation(context: Context): Boolean =
+    runCatching {
+        context.getSystemService(PowerManager::class.java)
+            ?.isIgnoringBatteryOptimizations(context.packageName) == true
+    }.getOrDefault(false)
+
+/** Falls back to the app's own settings page on devices without the optimisation list. */
+private fun openBatterySettings(context: Context) {
+    val list = Intent(android.provider.Settings.ACTION_IGNORE_BATTERY_OPTIMIZATION_SETTINGS)
+    val details = Intent(
+        android.provider.Settings.ACTION_APPLICATION_DETAILS_SETTINGS,
+        Uri.fromParts("package", context.packageName, null),
+    )
+    runCatching { context.startActivity(list) }
+        .recoverCatching { context.startActivity(details) }
 }

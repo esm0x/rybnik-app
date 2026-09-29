@@ -3,7 +3,7 @@
 Natywna aplikacja Android dla mieszkańców Rybnika: wydarzenia, harmonogram odpadów,
 rozkład jazdy, lokalne wiadomości i jakość powietrza.
 
-## Stan obecny (v1.1)
+## Stan obecny (v1.2)
 
 Wszystkie moduły działają na realnych danych.
 
@@ -63,6 +63,7 @@ app/src/main/java/com/adminstack/rybnik/
     home/  events/  waste/  transit/  news/  sport/  points/  more/  common/  theme/
     more/SupportScreen.kt      wsparcie projektu + wersja aplikacji
   work/Reminders.kt            WorkManager + kanały powiadomień
+  work/ReminderAlarms.kt       alarm dobowy + odbiorniki alarmu i bootu
   widget/WasteWidget.kt        widget: najbliższy wywóz + PM10 (Glance)
 
 scraper/
@@ -207,6 +208,24 @@ Kotlin deserializuje je 1:1.
   zuzelend.com to feed newsów z datami względnymi („3 lata temu"), nie terminarz.
   Dlatego apka po zakończeniu rundy zasadniczej mówi „ostatni mecz sezonu" zamiast
   podawać sześciotygodniowy wynik jako świeży.
+- **Przypomnienia stoją na dwóch mechanizmach, bo psują się inaczej.** Sam
+  `PeriodicWorkRequest` nie wystarczał: sześć godzin to *minimum* plus okno elastyczne,
+  a w Doze system dokłada swoje, więc wieczorne przypomnienie o wywozie potrafiło
+  przyjechać o trzeciej w nocy albo po wywozie. Dlatego termin niesie `AlarmManager`
+  (`setAndAllowWhileIdle`), a worker okresowy został jako siatka bezpieczeństwa dla
+  rzeczy bez deadline'u: smogu, komunikatów i wyłączeń prądu. Świadomie **nie**
+  `setExactAndAllowWhileIdle`: wymaga `SCHEDULE_EXACT_ALARM`, które od Androida 14 jest
+  domyślnie odmawiane, a Google Play daje je budzikom i kalendarzom. Wystawienie kubłów
+  budzikiem nie jest.
+- **Alarmy nie przeżywają restartu**, w przeciwieństwie do zadań WorkManagera, dlatego
+  doszedł `BootReceiver` na `BOOT_COMPLETED` i `MY_PACKAGE_REPLACED`.
+- **Force-stopa nie da się obejść kodem.** Menedżery baterii Xiaomi, Samsunga, Huaweia
+  i OPPO kasują wszystkie zaplanowane alarmy i zadania, a zamknięcie apki z listy
+  ostatnich robi to samo. Jedyne, co aplikacja może zrobić, to powiedzieć o tym wprost:
+  Ustawienia mają sekcję „Działanie w tle", która sprawdza
+  `isIgnoringBatteryOptimizations` i prowadzi do systemowego ekranu. Celowo **nie**
+  prosimy o `REQUEST_IGNORE_BATTERY_OPTIMIZATIONS` — Play przyznaje je tylko aplikacjom,
+  których podstawowa funkcja tego wymaga.
 - **Going API ignoruje parametr `place`** — `events?place=999999` zwraca te same
   24 pozycje co dla realnych klubów, w dodatku warszawskie. Nie nadaje się do
   filtrowania po miejscu i celowo nie jest podpięte.
@@ -226,11 +245,13 @@ Kotlin deserializuje je 1:1.
    przygotowanie do Google Play (patrz `play/`)
 6. ✅ v1.0 — wyszukiwarka połączeń skąd-dokąd z jedną przesiadką
 7. ✅ v1.1 — widget na pulpit, PSZOK/GPZON + „gdzie wyrzucić X", ostrzeżenia IMGW
-8. ⏭️ Mapa przystanków i tras (OSM, bo GTFS nie ma geometrii)
-9. ❌ Odjazdy na żywo — odrzucone: KM Rybnik nie ma danych GPS (patrz ograniczenia)
-10. ✅ Ciemny motyw + przełącznik jasny / ciemny / jak system
-11. ⏭️ Zgłaszanie usterek do miasta (wymaga backendu)
-12. ❌ Apteki dyżurne — odrzucone: Rybnik nie publikuje grafiku dyżurów,
+8. ✅ v1.2 — przypomnienia odporne na Doze (alarm dobowy), przetrwanie restartu,
+   sekcja o oszczędzaniu baterii
+9. ⏭️ Mapa przystanków i tras (OSM, bo GTFS nie ma geometrii)
+10. ❌ Odjazdy na żywo — odrzucone: KM Rybnik nie ma danych GPS (patrz ograniczenia)
+11. ✅ Ciemny motyw + przełącznik jasny / ciemny / jak system
+12. ⏭️ Zgłaszanie usterek do miasta (wymaga backendu)
+13. ❌ Apteki dyżurne — odrzucone: Rybnik nie publikuje grafiku dyżurów,
     a w mieście nie ma apteki całodobowej
 
 ## Notatki projektowe

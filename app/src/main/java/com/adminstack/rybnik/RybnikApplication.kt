@@ -15,6 +15,7 @@ import com.adminstack.rybnik.data.transit.TransitDb
 import com.adminstack.rybnik.data.transit.TransitRepository
 import com.adminstack.rybnik.data.waste.WasteRepository
 import com.adminstack.rybnik.widget.WasteWidget
+import com.adminstack.rybnik.work.ReminderAlarms
 import com.adminstack.rybnik.work.Reminders
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
@@ -75,6 +76,15 @@ object Graph {
                 .map { it.wasteAddress }
                 .distinctUntilChanged()
                 .collect { runCatching { WasteWidget().updateAll(appContext) } }
+        }
+
+        // The alarm is booked for a specific hour, so moving the slider has to re-book it;
+        // otherwise the reminder keeps arriving at the old time until the next reboot.
+        scope.launch {
+            prefs.settings
+                .map { it.wasteReminderHour }
+                .distinctUntilChanged()
+                .collect { hour -> ReminderAlarms.schedule(appContext, hour) }
         }
 
         // Cached payloads first so a cold start renders real content instead of spinners.

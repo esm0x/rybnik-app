@@ -26,6 +26,23 @@
             </intent-filter>
         </activity>
 
+        <!--
+          Alarms are cleared on reboot and on app update, so both are re-booked here.
+          exported=false: nothing outside the app has any business firing these.
+        -->
+        <receiver
+            android:name=".work.ReminderAlarmReceiver"
+            android:exported="false" />
+
+        <receiver
+            android:name=".work.BootReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+            </intent-filter>
+        </receiver>
+
         <receiver
             android:name=".widget.WasteWidgetReceiver"
             android:exported="false">
