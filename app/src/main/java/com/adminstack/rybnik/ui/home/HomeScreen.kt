@@ -62,6 +62,7 @@ import com.adminstack.rybnik.data.sport.Outcome
 import com.adminstack.rybnik.data.transit.Departure
 import com.adminstack.rybnik.data.waste.Collection
 import com.adminstack.rybnik.ui.common.DAY_FMT
+import com.adminstack.rybnik.ui.common.ErrorBanner
 import com.adminstack.rybnik.ui.common.PL
 import com.adminstack.rybnik.ui.common.SHORT_DAY_FMT
 import com.adminstack.rybnik.ui.common.TIME_FMT
@@ -88,6 +89,9 @@ data class HomeUi(
     val alerts: List<NewsItem> = emptyList(),
     val outages: List<Outage> = emptyList(),
     val sport: Highlight? = null,
+    /** Set when the sources could not be reached, so the empty cards get an explanation. */
+    val offline: Boolean = false,
+    val hasAnyData: Boolean = false,
     val refreshing: Boolean = false,
 )
 
@@ -114,6 +118,20 @@ class HomeViewModel : ViewModel() {
         viewModelScope.launch {
             combine(Graph.eventRepo.data, Graph.newsRepo.data, Graph.sportRepo.data) { _, _, _ -> }
                 .collect { recomputeDerived() }
+        }
+        // Four empty cards and no explanation is what a first launch with no signal looked
+        // like, and "Brak nadchodzących wydarzeń" is not even true then: the events exist,
+        // we just could not fetch them.
+        viewModelScope.launch {
+            combine(
+                Graph.eventRepo.state,
+                Graph.newsRepo.state,
+                Graph.eventRepo.data,
+            ) { events, news, cached ->
+                (events.error != null || news.error != null) to (cached != null)
+            }.collect { (failed, cached) ->
+                _ui.update { it.copy(offline = failed, hasAnyData = cached) }
+            }
         }
     }
 
@@ -240,6 +258,20 @@ fun HomeScreen(
             contentPadding = PaddingValues(vertical = 8.dp),
             verticalArrangement = Arrangement.spacedBy(10.dp),
         ) {
+            if (ui.offline) {
+                item {
+                    ErrorBanner(
+                        if (ui.hasAnyData) {
+                            "Brak połączenia. Pokazujemy dane zapisane wcześniej."
+                        } else {
+                            "Brak połączenia z internetem, więc nie mamy jeszcze żadnych " +
+                                "danych. Włącz sieć i odśwież."
+                        },
+                        onRetry = vm::refresh,
+                    )
+                }
+            }
+
             item { AirCard(ui.air, onOpenAir) }
 
             items(ui.outages.size) { i -> OutageCard(ui.outages[i]) }

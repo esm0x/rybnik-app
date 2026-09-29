@@ -1,6 +1,7 @@
 package com.adminstack.rybnik.data.transit
 
 import android.content.Context
+import com.adminstack.rybnik.Graph
 import com.adminstack.rybnik.core.net.CachedRemoteSource
 import com.adminstack.rybnik.core.net.friendlyNetworkError
 import com.adminstack.rybnik.core.net.RemoteConfig
@@ -9,6 +10,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
+import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.withContext
 import kotlinx.serialization.Serializable
 import java.time.LocalDate
@@ -43,6 +45,9 @@ data class TransitStatus(
     val error: String? = null,
     val stats: ImportStats? = null,
     val ready: Boolean = false,
+    /** The imported feed stopped being valid, and no newer one is published yet. */
+    val expired: Boolean = false,
+    val validTo: LocalDate? = null,
 )
 
 class TransitRepository(
@@ -62,8 +67,54 @@ class TransitRepository(
 
     suspend fun checkReady() {
         val ready = withContext(Dispatchers.IO) { dao.stopTimeCount() > 0 }
-        _status.value = _status.value.copy(ready = ready)
+        val validTo = Graph.prefs.settings.first().gtfsValidTo?.let {
+            runCatching { LocalDate.parse(it) }.getOrNull()
+        }
+        _status.value = _status.value.copy(
+            ready = ready,
+            validTo = validTo,
+            expired = ready && validTo != null && validTo.isBefore(LocalDate.now()),
+        )
     }
+
+    /**
+     * Keeps the stored timetable in step with what the city publishes.
+     *
+     * The old code imported once and never again: `importTimetable` returned early
+     * whenever the database had any rows, and the only button that could force it was
+     * hidden as soon as it did. KM Rybnik reissues the feed every few months with a new
+     * attachment id, so the app would have served the very first edition it ever
+     * downloaded, and from the day that edition's calendar ran out every stop would show
+     * "nothing departs today" at nine in the morning.
+     *
+     * So the edition in the database is recorded and compared against the freshly fetched
+     * metadata. A different edition means re-import. An edition that is simply out of date,
+     * with nothing newer published, is not something the app can fix, so it is surfaced
+     * instead of hidden.
+     */
+    suspend fun syncTimetable() {
+        checkReady()
+        refresh()
+        val meta = data.value ?: return
+        val stored = Graph.prefs.settings.first().gtfsEdition
+
+        val hasData = withContext(Dispatchers.IO) { dao.stopTimeCount() > 0 }
+        if (!hasData) {
+            importTimetable(force = true)
+            return
+        }
+        // A database filled before the app started recording editions: re-import once so
+        // there is something to compare against, instead of trusting it forever.
+        if (stored == null || (editionOf(meta) != null && editionOf(meta) != stored)) {
+            importTimetable(force = true)
+            return
+        }
+        checkReady()
+    }
+
+    /** sha256 changes with every reissue; the attachment id is the readable fallback. */
+    private fun editionOf(meta: TransitMeta): String? =
+        meta.sha256 ?: meta.attachment_id?.toString()
 
     /** Downloads and ingests the timetable. Safe to call again — it replaces everything. */
     suspend fun importTimetable(force: Boolean = false): Result<ImportStats> {
@@ -83,10 +134,26 @@ class TransitRepository(
         return GtfsImporter(dao).import(url) { step ->
             _status.value = _status.value.copy(progress = step)
         }.onSuccess { stats ->
-            _status.value = TransitStatus(importing = false, stats = stats, ready = true)
-        }.onFailure { e ->
+            val meta = data.value
+            Graph.prefs.setGtfsImport(meta?.let { editionOf(it) }, meta?.valid_to)
+            val validTo = meta?.valid_to?.let { runCatching { LocalDate.parse(it) }.getOrNull() }
             _status.value = TransitStatus(
                 importing = false,
+                stats = stats,
+                ready = true,
+                validTo = validTo,
+                expired = validTo != null && validTo.isBefore(LocalDate.now()),
+            )
+        }.onFailure { e ->
+            // The importer only clears the database once the download and parse have both
+            // succeeded, so a failure here leaves the previous timetable intact. Building a
+            // fresh status would reset `ready` to false and the screen would announce
+            // "rozkład nie jest jeszcze wczytany" while sitting on a perfectly usable one.
+            val stillThere = withContext(Dispatchers.IO) { dao.stopTimeCount() > 0 }
+            _status.value = _status.value.copy(
+                importing = false,
+                progress = null,
+                ready = stillThere,
                 error = friendlyNetworkError(e, "Nie udało się wczytać rozkładu"),
             )
         }

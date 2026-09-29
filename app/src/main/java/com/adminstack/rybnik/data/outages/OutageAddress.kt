@@ -117,7 +117,10 @@ object OutageAddress {
         val rest = trimmed.drop(digits.length)
         // "12abc" is prose, not a house number; a single trailing letter is (74B).
         if (rest.length > 1 || rest.any { !it.isLetter() }) return null
-        return House(digits.toInt(), rest.lowercase().ifEmpty { null })
+        // Tauron messages are free text, so a run of digits can be anything; toInt()
+        // would throw on something longer than an Int.
+        val number = digits.toIntOrNull() ?: return null
+        return House(number, rest.lowercase().ifEmpty { null })
     }
 
     internal data class House(val number: Int, val letter: String?)

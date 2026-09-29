@@ -208,6 +208,16 @@ Kotlin deserializuje je 1:1.
   zuzelend.com to feed newsów z datami względnymi („3 lata temu"), nie terminarz.
   Dlatego apka po zakończeniu rundy zasadniczej mówi „ostatni mecz sezonu" zamiast
   podawać sześciotygodniowy wynik jako świeży.
+- **Rozkład jazdy musi się sam odświeżać.** KM Rybnik wydaje feed co kilka miesięcy
+  z nowym `attachment_id`, a każde wydanie ma `valid_to`. Import „tylko gdy baza pusta"
+  oznaczał, że apka serwowała pierwszą pobraną edycję **na zawsze**, a od dnia, w którym
+  jej kalendarz się kończył, każdy przystanek o dziewiątej rano mówił „dziś nic już nie
+  odjeżdża". Dlatego edycja w bazie jest zapisywana i porównywana ze świeżym
+  `transit_meta.json`, a przeterminowanie jest pokazywane, nie chowane.
+- **Nieudany import nie może ukryć działającego rozkładu.** Importer czyści bazę dopiero
+  po udanym pobraniu i sparsowaniu, ale gałąź błędu budowała świeży `TransitStatus`,
+  w którym `ready` wracało do `false` — ekran ogłaszał „rozkład nie jest jeszcze
+  wczytany", siedząc na sprawnych danych.
 - **Przypomnienia stoją na dwóch mechanizmach, bo psują się inaczej.** Sam
   `PeriodicWorkRequest` nie wystarczał: sześć godzin to *minimum* plus okno elastyczne,
   a w Doze system dokłada swoje, więc wieczorne przypomnienie o wywozie potrafiło

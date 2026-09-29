@@ -85,6 +85,7 @@ data class TransitUi(
     val progress: String? = null,
     val error: String? = null,
     val ready: Boolean = false,
+    val expired: Boolean = false,
     val fromQuery: String = "",
     val toQuery: String = "",
     val suggestions: List<String> = emptyList(),
@@ -112,15 +113,13 @@ class TransitViewModel : ViewModel() {
                         progress = st.progress,
                         error = st.error,
                         ready = st.ready,
+                        expired = st.expired,
                     )
                 }
                 if (st.ready && _ui.value.stops.isEmpty()) loadInitial()
             }
         }
-        viewModelScope.launch {
-            Graph.transitRepo.checkReady()
-            if (!Graph.transitRepo.status.value.ready) ensureTimetable()
-        }
+        viewModelScope.launch { Graph.transitRepo.syncTimetable() }
     }
 
     fun ensureTimetable(force: Boolean = false) {
@@ -265,9 +264,18 @@ fun TransitScreen() {
             TopAppBar(
                 title = { Text(ui.selectedStop ?: ui.selectedRoute?.let { "Linia ${it.shortName}" } ?: "Komunikacja") },
                 actions = {
-                    if (ui.selectedStop != null) {
-                        IconButton(onClick = { vm.toggleFavourite(ui.selectedStop!!) }) {
-                            val fav = ui.selectedStop in ui.favourites
+                    val stop = ui.selectedStop
+                    if (stop == null && ui.ready && !ui.importing) {
+                        // The only way back from a stale timetable used to be clearing
+                        // app data, because the download button hid itself once there
+                        // was anything in the database.
+                        IconButton(onClick = { vm.ensureTimetable(force = true) }) {
+                            Icon(Icons.Outlined.Refresh, contentDescription = "Pobierz rozkład na nowo")
+                        }
+                    }
+                    if (stop != null) {
+                        IconButton(onClick = { vm.toggleFavourite(stop) }) {
+                            val fav = stop in ui.favourites
                             Icon(
                                 if (fav) Icons.Filled.Star else Icons.Outlined.StarBorder,
                                 contentDescription = "Ulubiony przystanek",
@@ -295,6 +303,13 @@ fun TransitScreen() {
 
             ui.error?.let { ErrorBanner(it) { vm.ensureTimetable(force = true) } }
 
+            if (ui.expired && ui.error == null) {
+                ErrorBanner(
+                    "Rozkład stracił ważność i nie ma jeszcze nowszego. Godziny mogą być " +
+                        "nieaktualne, sprawdź je u przewoźnika.",
+                ) { vm.ensureTimetable(force = true) }
+            }
+
             if (!ui.ready) {
                 EmptyState(
                     icon = Icons.Outlined.DirectionsBus,
@@ -313,6 +328,7 @@ fun TransitScreen() {
             when {
                 ui.selectedStop != null -> DeparturesList(
                     departures = ui.departures,
+                    expired = ui.expired,
                     onRouteClick = vm::selectRouteById,
                     onBack = { vm.clearSelection() },
                 )
@@ -577,6 +593,7 @@ private fun StopRow(name: String, favourite: Boolean, onClick: () -> Unit) {
 @Composable
 private fun DeparturesList(
     departures: List<Departure>,
+    expired: Boolean,
     onRouteClick: (String) -> Unit,
     onBack: () -> Unit,
 ) {
@@ -584,7 +601,15 @@ private fun DeparturesList(
         EmptyState(
             Icons.Outlined.DirectionsBus,
             "Brak odjazdów",
-            "Dziś z tego przystanku nic już nie odjeżdża.",
+            // An expired timetable produces exactly the same empty result as a stop that
+            // is done for the day, and saying "nothing departs today" at nine in the
+            // morning is worse than saying nothing: it sounds authoritative and is wrong.
+            if (expired) {
+                "Zapisany rozkład stracił ważność, więc nie znamy dzisiejszych godzin. " +
+                    "Spróbuj pobrać go na nowo."
+            } else {
+                "Dziś z tego przystanku nic już nie odjeżdża."
+            },
             action = { Button(onClick = onBack) { Text("Wróć do listy") } },
         )
         return

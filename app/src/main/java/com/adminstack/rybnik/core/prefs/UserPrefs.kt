@@ -49,6 +49,9 @@ data class Settings(
     /** Hour of the evening before collection when the waste reminder fires. */
     val wasteReminderHour: Int = DEFAULT_WASTE_HOUR,
     val themeMode: ThemeMode = ThemeMode.SYSTEM,
+    /** Which GTFS edition sits in the Room database, and how long it is valid. */
+    val gtfsEdition: String? = null,
+    val gtfsValidTo: String? = null,
 ) {
     companion object {
         const val DEFAULT_SMOG_THRESHOLD = 80
@@ -73,6 +76,8 @@ class UserPrefs(private val context: Context) {
             wasteReminderHour = p[KEY_WASTE_HOUR] ?: Settings.DEFAULT_WASTE_HOUR,
             themeMode = runCatching { ThemeMode.valueOf(p[KEY_THEME].orEmpty()) }
                 .getOrDefault(ThemeMode.SYSTEM),
+            gtfsEdition = p[KEY_GTFS_EDITION],
+            gtfsValidTo = p[KEY_GTFS_VALID_TO],
         )
     }
 
@@ -155,6 +160,16 @@ class UserPrefs(private val context: Context) {
         p[KEY_THEME] = mode.name
     }
 
+    /**
+     * Recorded after a successful GTFS import. Without it the app has no way to tell the
+     * timetable in the database apart from the one the city is publishing now, so it kept
+     * the first one it ever downloaded.
+     */
+    suspend fun setGtfsImport(edition: String?, validTo: String?) = context.dataStore.edit { p ->
+        if (edition != null) p[KEY_GTFS_EDITION] = edition else p.remove(KEY_GTFS_EDITION)
+        if (validTo != null) p[KEY_GTFS_VALID_TO] = validTo else p.remove(KEY_GTFS_VALID_TO)
+    }
+
     enum class NotifyChannel(internal val key: Preferences.Key<Boolean>) {
         Waste(KEY_NOTIFY_WASTE),
         Events(KEY_NOTIFY_EVENTS),
@@ -180,3 +195,5 @@ private val KEY_NOTIFY_OUTAGES = booleanPreferencesKey("notify_outages")
 private val KEY_SMOG_THRESHOLD = intPreferencesKey("smog_threshold")
 private val KEY_WASTE_HOUR = intPreferencesKey("waste_hour")
 private val KEY_THEME = stringPreferencesKey("theme_mode")
+private val KEY_GTFS_EDITION = stringPreferencesKey("gtfs_edition")
+private val KEY_GTFS_VALID_TO = stringPreferencesKey("gtfs_valid_to")
