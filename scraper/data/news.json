@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T05:45:28",
+  "generated_at": "2026-09-29T12:55:04",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,196 @@
     }
   ],
   "items": [
+    {
+      "id": "5a0ca13129527b0f951aacfeba254933ebd19575",
+      "title": "Kawa oznacza aromatyczny początek dnia. Jak znaleźć dobrą kawę, właściwie ją zaparzyć i delektować się smakiem? Dziś obchodzimy Dzień Kawy",
+      "summary": "Aromatyczny początek dnia, czyli dla większości z nas moment z poranną kawą. W Radiu 90 dzisiaj mamy dla was podpowiedzi: jak wycisnąć to, co najlepsze z filiżanki ulubionego napoju.",
+      "link": "https://www.radio90.pl/kawa-oznacza-aromatyczny-poczatek-dnia-jak-znalezc-dobra-kawe-wlasciwie-ja-zaparzyc-i-delektowac-sie-smakiem.html",
+      "published": "2026-09-29T12:16",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b4d7af7bba5feb1e792362029542265372063c17",
+      "title": "Koniec pewnej epoki w raciborskiej bibliotece. Małgorzata Szczygielska odchodzi na emeryturę",
+      "summary": "Racibórz szuka nowego dyrektora Miejskiej i Powiatowej Biblioteki Publicznej. Wieloletnia dyrektor Małgorzata Szczygielska przechodzi na emeryturę. To koniec okresu, w którym raciborska biblioteka z miejsca kojarzonego przede wszystkim z wypożyczaniem książek wyrosła na jedną z najbardziej…",
+      "link": "https://www.nowiny.pl/wiadomosci/251239-koniec-pewnej-epoki-w-raciborskiej-bibliotece-malgorzata-szczygielska-odchodzi-na-emeryture.html",
+      "published": "2026-09-29T12:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ca74b0ab8ff6140aff26b9f7944084b449fd5cad",
+      "title": "Mieszkańcy alarmują: lisy w Niedobczycach przechadzają się po parkowych alejkach",
+      "summary": "Lisy terroryzują mieszkańców Niedobczyc. Zwierzęta pojawiają się zwykle wieczorem w Parku Czempiela. Nasz słuchacz zgłosił problem, a na miejsce pojechał nasz reporter, który rozmawiał z mieszkańcami okolic niedobczyckiego parku.",
+      "link": "https://www.radio90.pl/mieszkancy-alarmuja-lisy-w-niedobczycach-przechadzaja-sie-po-parkowych-alejkach.html",
+      "published": "2026-09-29T11:32",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "cc865e1531c14f7594807cf7a09526d233cf7c44",
+      "title": "Lajerman, czyli artysta i nierób. Prof. Nawarecki opowiadał w Rybniku o swoim Śląsku",
+      "summary": "Moczka, wodzionka, zapomniani muzycy i rodzinne wspomnienia. Prof. Aleksander Nawarecki podczas spotkania w rybnickiej bibliotece pokazywał Śląsk nie przez wielkie wydarzenia, lecz przez rzeczy pozornie małe i nieistotne. Rozmowa odbyła się w ramach Tygodnia Śląskiego.",
+      "link": "https://www.nowiny.pl/wiadomosci/251236-lajerman-czyli-artysta-i-nierob-prof-nawarecki-opowiadal-w-rybniku-o-swoim-slasku.html",
+      "published": "2026-09-29T10:58",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e469aca189c57124b24e7e19338e1b387666671f",
+      "title": "Koleje Śląskie: wszystkie łapki na pokład! Coraz więcej pasażerów podróżuje ze zwierzętami",
+      "summary": "Czworonożni przyjaciele coraz częściej towarzyszą pasażerom Kolei Śląskich. W pierwszym półroczu 2026 roku w taką podróż wybrało się ponad 19 tys. osób – o ponad 7 proc. więcej niż w analogicznym okresie ubiegłego roku.",
+      "link": "https://www.radio90.pl/koleje-slaskie-wszystkie-lapki-na-poklad-coraz-wiecej-pasazerow-podrozuje-ze-zwierzetami.html",
+      "published": "2026-09-29T10:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ed1901b51825a21c5fd5b019b87b6122aaf242ad",
+      "title": "Ponad 1,7 mln zł za działkę przy Sportowej w Niewiadomiu",
+      "summary": "Miasto rozstrzygnęło przetarg na dwa hektary w strefie gospodarczej utworzonej na terenie dawnej hałdy. Wygrała firma Perfekt.",
+      "link": "https://www.nowiny.pl/wiadomosci/251233-ponad-17-mln-zl-za-dzialke-przy-sportowej-w-niewiadomiu.html",
+      "published": "2026-09-29T10:07",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "86aff9719ae9627bee8b0d0e857a7f5929829db5",
+      "title": "Elastyczne korzystanie z energii. Mała zmiana dla odbiorcy, wielka korzyść dla systemu",
+      "summary": "Jeszcze kilka lat temu większość z nas nie zastanawiała się nad tym, o której godzinie uruchamia pralkę, ładuje samochód elektryczny czy włącza piekarnik. Odbiorcy mogą zaoszczędzić dzięki elastycznej zmianie zapotrzebowania.",
+      "link": "https://www.nowiny.pl/wiadomosci/251235-elastyczne-korzystanie-z-energii-mala-zmiana-dla-odbiorcy-wielka-korzysc-dla-systemu.html",
+      "published": "2026-09-29T10:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "29590f2ad34c0fe30ddd2758a4e2a3ffff8128d0",
+      "title": "Jak przygotować dokumenty firmowe do tłumaczenia, żeby przyspieszyć proces?",
+      "summary": "Umowy, instrukcje techniczne, katalogi produktów, dokumentacja przetargowa czy materiały marketingowe często trzeba przetłumaczyć w konkretnym terminie. Czas realizacji zależy jednak nie tylko od liczby stron i języka docelowego. Znaczenie ma również sposób przygotowania materiałów przez firmę.",
+      "link": "https://www.nowiny.pl/wiadomosci/251226-jak-przygotowac-dokumenty-firmowe-do-tlumaczenia-zeby-przyspieszyc-proces.html",
+      "published": "2026-09-29T10:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "dd7d77029c025870ed110bb6e907fd78d1c14c5a",
+      "title": "Nowy salon iSpot w Rybniku otwiera się w piątek",
+      "summary": "W piątek, 2 października, w rybnickim Focus Park otworzy się salon iSpot. Firma zapowiada specjalne ceny wybranych urządzeń Apple na 2 i 3 października.",
+      "link": "https://www.nowiny.pl/wiadomosci/251232-nowy-salon-ispot-w-rybniku-otwiera-sie-w-piatek.html",
+      "published": "2026-09-29T09:52",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9e4caee52054fa24fc90fd655130d9f3a632b83d",
+      "title": "Serdecznie zapraszamy na 25-lecie Raciborskiego Centrum Kultury",
+      "summary": "Już ćwierć wieku RCK jest miejscem, w którym bije kulturalne serce naszego miasta. Bazujemy na tradycji Domu Kultury Strzecha i Raciborskiego Domu Kultury, które dziś razem ze Świetlicą w Brzeziu, tworzą prężną i kreatywną instytucję. Byliśmy, jesteśmy i będziemy dla naszych Widzów, Twórców i…",
+      "link": "https://www.nowiny.pl/wiadomosci/251231-serdecznie-zapraszamy-na-25-lecie-raciborskiego-centrum-kultury.html",
+      "published": "2026-09-29T09:39",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0cafaf1e2254d63ec7e3be123a354203e82f78ea",
+      "title": "Robbie Williams rozgrzeje Ostravę. Festiwal Colours of Ostrava ogłasza pierwszą gwiazdę edycji 2027",
+      "summary": "Brytyjski wokalista, muzyk i jeden z największych showmanów swojego pokolenia wystąpi w środę 21 lipca 2027 roku na terenie industrialnych Dolních Vítkovic. Robbie Williams jest pierwszą ogłoszoną gwiazdą 24. edycji Colours of Ostrava, która odbędzie się w dniach 21–24 lipca. Do Ostrawy przywiezie…",
+      "link": "https://www.nowiny.pl/wiadomosci/251230-robbie-williams-rozgrzeje-ostrave-festiwal-colours-of-ostrava-oglasza-pierwsza-gwiazde-edycji-2027.html",
+      "published": "2026-09-29T09:31",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8b20b67112c63bde1bbe0978df912bb74013c019",
+      "title": "37 lat temu w Raciborzu zginęli twórcy kultowej „Sondy”",
+      "summary": "Mieli nagrywać kolejny odcinek „Sondy” w raciborskim Rafako. 29 września 1989 roku ich podróż zakończyła się tragicznym wypadkiem w Brzeziu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251228-37-lat-temu-w-raciborzu-zgineli-tworcy-kultowej-sondy.html",
+      "published": "2026-09-29T09:29",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ca7b4ef65f7b2d70df4f2de5188787b3dfde6c4f",
+      "title": "Śląska policja wyłapała kolejnych kierowców na podwójnym gazie",
+      "summary": "179 zdarzeń, w których rannych zostało 5 osób. Te liczby znajdziemy w raporcie śląskiej drogówki z minionej doby.",
+      "link": "https://www.radio90.pl/slaska-policja-wylapala-kolejnych-kierowcow-na-podwojnym-gazie.html",
+      "published": "2026-09-29T08:32",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ec8cea5bef4b353ae0752037aea75f22d32a1a28",
+      "title": "Cmentarz, który opowiada historię. Nekropolia przy Starowiejskiej wraca do pamięci",
+      "summary": "Nagrobek 16-letniego Georga Reimanna, pomnik wiceburmistrza Roberta Ellendta i granitowy denkmal ze 112 nazwiskami poległych. To część tego, co wolontariusze odsłonili spod bluszczu na cmentarzu przy Starowiejskiej.",
+      "link": "https://www.nowiny.pl/wiadomosci/251229-cmentarz-ktory-opowiada-historie-nekropolia-przy-starowiejskiej-wraca-do-pamieci.html",
+      "published": "2026-09-29T08:31",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a722299f2d1356356436acf397e7cdb1d233b091",
+      "title": "KOWR sprzedaje pałacyk w Szonowicach. Cena wywoławcza: 767 tys. zł",
+      "summary": "Pałacyk w Szonowicach został wystawiony na sprzedaż. Krajowy Ośrodek Wsparcia Rolnictwa chce za nieruchomość 767 tys. zł. Cały teren ma blisko 3 hektary. Są na nim także stajnia i budynki gospodarcze.",
+      "link": "https://www.nowiny.pl/wiadomosci/251227-kowr-sprzedaje-palacyk-w-szonowicach-cena-wywolawcza-767-tys-zl.html",
+      "published": "2026-09-29T08:06",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0884b3ba642ba934bdeb9ab41984f11ab736a0e2",
+      "title": "Dni Zdrowia Psychicznego w Rybniku. Sprawdźcie program wydarzenia, jest wiele ciekawych inspiracji [PATRONAT]",
+      "summary": "Sztuka równoważenia - to hasło tegorocznych Dni Zdrowia Psychicznego w Rybniku, w październiku odbędą się warsztaty, które połączą sztukę, emocje i refleksję nad dobrostanem psychicznym.",
+      "link": "https://www.radio90.pl/dni-zdrowia-psychicznego-w-rybniku-sprawdzcie-program-wydarzenia-jest-wiele-ciekawych-inspiracji-patronat.html",
+      "published": "2026-09-29T07:45",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "31ad8a343335cb725d1f8be65ac730def7a09161",
+      "title": "Kilka problemów z zębami naraz – od czego zacząć leczenie?",
+      "summary": "Brak zęba, krwawiące dziąsła i stara korona, która przestała pasować, mogą wymagać różnych zabiegów. Nie oznacza to jednak, że każdy problem warto rozwiązywać osobno. Stan przyzębia wpływa na możliwości odbudowy, a planowana protetyka może zmienić kolejność innych wizyt. Przy kilku potrzebach…",
+      "link": "https://www.nowiny.pl/wiadomosci/251225-kilka-problemow-z-zebami-naraz-od-czego-zaczac-leczenie.html",
+      "published": "2026-09-29T07:41",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "fa7fc1c6c0bdf950f1121030a4fa3f02c3758592",
+      "title": "Antypoślizgowość R9 – gdzie sprawdzi się najlepiej i jak wybrać odpowiednie płytki?",
+      "summary": "Antypoślizgowość R9 określa podstawowy poziom odporności powierzchni na poślizg. Takie płytki najczęściej wybiera się do suchych wnętrz, w których podłoga nie jest regularnie narażona na wodę, tłuszcz czy zabrudzenia. Klasa R9 dobrze sprawdza się m.in. w salonie, sypialni, gabinecie czy jadalni…",
+      "link": "https://www.radio90.pl/antyposlizgowosc-r9-gdzie-sprawdzi-sie-najlepiej-i-jak-wybrac-odpowiednie-plytki.html",
+      "published": "2026-09-29T06:52",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "58df2c9bb4518162684e2576b69cd33cfcfcf602",
+      "title": "Nowy inwestor w strefie gospodarczej przy ul. Sportowej",
+      "summary": "17 września br. rozstrzygnięty został przetarg na sprzedaż terenu o powierzchni 2 ha na terenie strefy gospodarczej przy ul. Sportowej w dzielnicy Niewiadom.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/nowy-inwestor-w-strefie-gospodarczej-przy-ul-sportowej",
+      "published": "2026-09-29T00:00",
+      "source": "rybnik.eu",
+      "category": "Biznes",
+      "priority": "NORMAL"
+    },
     {
       "id": "e9d47304a3e4a43575677b2668d16aa7c4d326fd",
       "title": "Czas trudnych decyzji w JSW. Jest Program Naprawczy na lata 2026-2035",
@@ -59,16 +249,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "7805558abe35d447e4adc8623f412908fb0b7947",
-      "title": "Raciborskie akcenty na forum Rozwoju Plus. Stowarzyszenie Morawieckiego zaprosiło samorządowców z całej Polski",
-      "summary": "Na zorganizowanym w sobotę, 26 września, w Tomaszowie Mazowieckim Ogólnopolskim Forum Samorządowym Stowarzyszenia Rozwój Plus wystąpił w roli panelisty były prezydent Raciborza - Dariusz Polowy. Forum odbyło się pod przewodnictwem byłego premiera Mateusza Morawieckiego. Organizatorzy podali, że na…",
-      "link": "https://www.nowiny.pl/wiadomosci/251218-raciborskie-akcenty-na-forum-rozwoju-plus-stowarzyszenie-morawieckiego-zaprosilo-samorzadowcow-z-calej-polski.html",
-      "published": "2026-09-28T17:31",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "d2962f748ea1410aa217eb6aa8014215a13d6083",
       "title": "El Alamein czy Hurghada? – sprawdź, jakie atrakcje czekają na Ciebie podczas wakacji w Egipcie",
       "summary": "Pierwsze skojarzenie z Egiptem to zwykle piramidy i Sfinks, zaraz po nim kurorty nad Morzem Czerwonym. Jednak Egipt ma więcej niż jedno turystyczne oblicze – drugie to Morze Śródziemne i El Alamein. I w tym momencie rodzi się pytanie – co wybrać, gdzie odpocznę lepiej, gdzie czeka więcej atrakcji?…",
@@ -86,36 +266,6 @@
       "published": "2026-09-28T12:00",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6da693e4d72bfcabbbc4913abb4cafc254c2eb21",
-      "title": "Grand Prix 30. OFPA dla Rybniczanki. Anna Drewniok wygrała jubileuszowy festiwal",
-      "summary": "",
-      "link": "https://www.nowiny.pl/wiadomosci/251217-grand-prix-30-ofpa-dla-rybniczanki-anna-drewniok-wygrala-jubileuszowy-festiwal.html",
-      "published": "2026-09-28T11:24",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "52e475217cca39550939d9bcc84dc13b3c5720b8",
-      "title": "Jechał pod prąd na rondzie i uderzył w znak. Był nietrzeźwy",
-      "summary": "Trzech nietrzeźwych uczestników ruchu drogowego zatrzymali w miniony weekend policjanci z Wodzisławia Śląskiego. Dwóch z nich kierowało samochodami, a jeden jechał rowerem. W dwóch przypadkach doszło do zdarzeń drogowych.",
-      "link": "https://www.nowiny.pl/wiadomosci/251216-jechal-pod-prad-na-rondzie-i-uderzyl-w-znak-byl-nietrzezwy.html",
-      "published": "2026-09-28T11:17",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "38c31f69630b9ad675a97794830f9ccb21a3651f",
-      "title": "Dlaczego dobre treści bez zasięgu nikogo nie obchodzą? Brutalna prawda o algorytmie Instagrama",
-      "summary": "Prowadzenie profilu na Instagramie wymaga czegoś więcej niż regularnego wrzucania zdjęć i rolek. Możesz mieć dobry pomysł, dopracowany montaż i wartościowe treści, a mimo to przez pierwsze tygodnie publikować niemal do pustej sali. Szczególnie trudno jest nowym kontom, które nie mają jeszcze…",
-      "link": "https://www.nowiny.pl/wiadomosci/251205-dlaczego-dobre-tresci-bez-zasiegu-nikogo-nie-obchodza-brutalna-prawda-o-algorytmie-instagrama.html",
-      "published": "2026-09-28T11:00",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -149,16 +299,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "eab16632fa0abd3aaa6cab86e8b0d8f7bd1521f3",
-      "title": "V OFFka, czyli święto Teatru w Raciborzu!",
-      "summary": "Pierwszy dzień V Ogólnopolskiego Festiwalu Teatralnego OFFka 2026, rozpoczął się 24 września uroczystą inauguracją i spektaklem „Anatomia Zdarzeń. Kieszenie pełne wspomnień” w wykonaniu Latającego Teatru Kantorowi. O godzinie 18:00 licznie przybyła publiczność festiwalowa została przywitana w holu…",
-      "link": "https://www.nowiny.pl/nie-przegap/251214-v-offka-czyli-swieto-teatru-w-raciborzu.html",
-      "published": "2026-09-28T09:43",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "1906d2474a07ef2be0d652d26074c18f0a4bec79",
       "title": "Weekend Seniora z Kulturą w Rybniku. Co przygotowano, jaki jest plan wydarzenia?",
       "summary": "Weekend seniora z kulturą w halo!Rybnik. Punkt Informacji Miejskiej na deptaku w pierwszy weekend października dołącza do akcji zainicjowanej przez Ministerstwo Kultury i Dziedzictwa Narodowego.",
@@ -176,76 +316,6 @@
       "published": "2026-09-28T09:10",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6616478b27e48f40eee311217d414b52e9d1ea12",
-      "title": "27-latek stracił około 800 tys. zł. Oszuści wmówili mu, że jego pieniądze są zagrożone",
-      "summary": "27-letni mieszkaniec powiatu rybnickiego padł ofiarą oszustów, którzy przekonali go, że jego pieniądze są zagrożone. Mężczyzna, wierząc, że bierze udział w policyjnej akcji mającej na celu ochronę jego oszczędności, zaciągnął kredyty w różnych bankach, a następnie przekazywał pieniądze zgodnie z…",
-      "link": "https://www.nowiny.pl/wiadomosci/251213-27-latek-stracil-okolo-800-tys-zl-oszusci-wmowili-mu-ze-jego-pieniadze-sa-zagrozone.html",
-      "published": "2026-09-28T09:06",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "cd28d2fcd45dc5581e008b37a302418721a527a0",
-      "title": "Powrót z Niemiec na święta albo urlop. Jak zaplanować go tak, żeby nie stracić dnia i pieniędzy",
-      "summary": "Powrót planuje się trudniej niż wyjazd. Data wyjazdu do pracy zwykle jest sztywna, a termin powrotu ustala się w ostatniej chwili - między grafikiem, obietnicą złożoną rodzinie i ceną biletu, która rośnie z każdym tygodniem zwłoki. Efekt bywa taki, że ktoś wraca do Rybnika czy Wodzisławia dobę…",
-      "link": "https://www.nowiny.pl/wiadomosci/251204-powrot-z-niemiec-na-swieta-albo-urlop-jak-zaplanowac-go-tak-zeby-nie-stracic-dnia-i-pieniedzy.html",
-      "published": "2026-09-28T09:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "29304ec0613691b1debb9a094a22498bc9454522",
-      "title": "Uwaga kierowcy! Zamknęli ważną drogę na trasie Racibórz–Rybnik",
-      "summary": "Spore utrudnienia czekają kierowców na trasie Racibórz–Rybnik. W Rzuchowie (gm. Kornowac) od dziś, 28 września, zamknięta jest ul. Rybnicka w ciągu DW 935. Ruch w obu kierunkach został wstrzymany.",
-      "link": "https://www.nowiny.pl/wiadomosci/251210-uwaga-kierowcy-zamkneli-wazna-droge-na-trasie-raciborz-rybnik.html",
-      "published": "2026-09-28T08:40",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "ALERT"
-    },
-    {
-      "id": "0f59276786227a854e1db0c0325102a8678eca9e",
-      "title": "Obrońcy drzew z Żółkiewskiego napisali petycję do władz. „Kategoryczny sprzeciw”",
-      "summary": "Wobec informacji magistratu o zgodzie na wycinkę drzew pod stację ładowania samochodów elektrycznych około stu Raciborzan z osiedla hetmańskiego podpisało się pod petycją i podtrzymało swój sprzeciw dla lokalizacji inwestycji. Mieszkańcy czują się rozczarowani wobec obietnic sprzed miesiąca, które…",
-      "link": "https://www.nowiny.pl/wiadomosci/251209-obroncy-drzew-z-zolkiewskiego-napisali-petycje-do-wladz-kategoryczny-sprzeciw.html",
-      "published": "2026-09-28T08:40",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "4c5bbee77680229e3be2c36519e72bc0fab70a80",
-      "title": "Odra Wodzisław z kompletem punktów w Kokoszycach [ZDJĘCIA]",
-      "summary": "WTS Odra Wodzisław Śląski nie zwalnia tempa. W wyjazdowym spotkaniu z KS 25 Kokoszyce podopieczni trenera Jarosława Wieczorka zaprezentowali się ze świetnej strony, pewnie wygrywając 5:0.",
-      "link": "https://sport.nowiny.pl/sport/251208-odra-wodzislaw-z-kompletem-punktow-w-kokoszycach-zdjecia.html",
-      "published": "2026-09-28T08:36",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "fd5a977f75ac11c4190e638cf4af4c0eb8c84bc8",
-      "title": "Robert Myśliwy będzie dyrektorem MOSiR \"Centrum\" do końca października. \"To była jego decyzja\"",
-      "summary": "Robert Myśliwy zrezygnował z pracy na rzecz MOSiR \"Centrum\" w Wodzisławiu Śląskim, przyjmując propozycję prezydenta Raciborza, do objęcia funkcji sekretarza tamtejszego urzędu. Co dalej z Wodzisławskim ośrodkiem sportu?",
-      "link": "https://www.nowiny.pl/wiadomosci/251165-robert-mysliwy-bedzie-dyrektorem-mosir-centrum-do-konca-pazdziernika-to-byla-jego-decyzja.html",
-      "published": "2026-09-28T08:20",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c0d4f3ae02cfb664a36cea189aad30c03d14180f",
-      "title": "Czy burmistrz Krzanowic Andrzej Strzedulla otrzyma podwyżkę?",
-      "summary": "Temat pojawił się podczas posiedzenia komisji Budżetu, Promocji i Rozwoju Gminy. Według przedstawionych informacji chodzi o około 1400 zł brutto miesięcznie.",
-      "link": "https://www.nowiny.pl/wiadomosci/251207-czy-burmistrz-krzanowic-andrzej-strzedulla-otrzyma-podwyzke.html",
-      "published": "2026-09-28T07:52",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -419,62 +489,12 @@
       "priority": "ALERT"
     },
     {
-      "id": "346bf49ddd5b6c9ffeb5d01d6888a852bb2f006b",
-      "title": "Zespół Szkół Budowlanych w Rybniku: klasy o profilu technik geodeta zostały objęte patronatem Politechniki Śląskiej",
-      "summary": "Rybnicki Zespół Szkół Budowlanych znalazł się w gronie szkół, z którymi weszła we współpracę gliwicka Politechnika Śląska. Jak przekazali przedstawiciele \"Budowlanki\", w ostatnim czasie podpisano umowę patronacką z uczelnią. Objęte zostały nią klasy o profilu technik geodeta.",
-      "link": "https://www.radio90.pl/zespol-szkol-budowlanych-w-rybniku-klasy-o-profilu-technik-geodeta-zostaly-objete-patronatem-politechniki-slaskiej.html",
-      "published": "2026-09-26T09:28",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "7f1514af115b239c4de19b762b9e2774ba0c47de",
       "title": "Zażartował o bombie i nożach na lotnisku. Do samolotu już nie wsiadł",
       "summary": "Nieudany żart na lotnisku w Katowicach-Pyrzowicach zakończył się interwencją Straży Granicznej i odmową wejścia na pokład samolotu. Pasażer lecący do Trapani podczas odprawy stwierdził, że „oprócz bomby i noży nie ma nic niebezpiecznego”.",
       "link": "http://www.rybnik.com.pl/wiadomosci,zazartowal-o-bombie-i-nozach-na-lotnisku-do-samolotu-juz-nie-wsiadl,wia5-3266-66229.html",
       "published": "2026-09-26T09:00",
       "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "1e72fc005c233eb2eb3b066dc0f90be3cd85f4ba",
-      "title": "Nagrody Marszałka w dziedzinie kultury: trwa nabór do tego wyróżnienia",
-      "summary": "Do 14 października 2026 r. można składać wnioski o przyznanie nagród Marszałka Województwa Śląskiego za osiągnięcia w dziedzinie twórczości artystycznej, upowszechniania i ochrony dóbr kultury.",
-      "link": "https://www.radio90.pl/nagrody-marszalka-w-dziedzinie-kultury-trwa-nabor-do-tego-wyroznienia.html",
-      "published": "2026-09-26T08:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a484c088113731c1548535d871caebf9361f4cb2",
-      "title": "Remont ulicy Mikołowskiej w Rybniku trwa. Od poniedziałku ruch wahadłowy przeniesie się w inne miejsce tej drogi. Gdzie?",
-      "summary": "Obowiązujący na jednym z jej fragmentów - ruch wahadłowy - pozostanie, ale zostanie przeniesiony w inne miejsce. Od poniedziałku (28.09) drogowcy pracujący przy remoncie ulicy Mikołowskiej w Rybniku przeniosą się w kierunku Rybnika. Kierowcy jeden pas ruchu do dyspozycji będą mieli na odcinku…",
-      "link": "https://www.radio90.pl/remont-ulicy-mikolowskiej-w-rybniku-trwa-od-poniedzialku-ruch-wahadlowy-przeniesie-sie-w-inne-miejsce-tej-drogi-gdzie.html",
-      "published": "2026-09-26T07:10",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a67c389ca51a76a695059756766863de474d645e",
-      "title": "Kuchnia Radia 90: aksamitna zupa z dyni z dodatkiem imbiru i soku z pomarańczy",
-      "summary": "Wrzesień w kuchni oznacza, że czas na dynię. Dziś u nas rewelacyjny przepis na zupę, w której dynia występuje z zaskakującymi dodatkami: z imbirem i pomarańczą. Panie i panowie, zupa z dyni!",
-      "link": "https://www.radio90.pl/kuchnia-radia-90-aksamitna-zupa-z-dyni-z-dodatkiem-imbiru-i-soku-z-pomaranczy.html",
-      "published": "2026-09-26T06:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f57eb7fceeea4020ddf24b11af18173762b125ee",
-      "title": "Frekwencyjny sukces Kolei Śląskich, jak z Częstochowy do Krakowa",
-      "summary": "W ciągu pierwszego roku funkcjonowania bezpośrednich połączeń pomiędzy Częstochową a Krakowem, Koleje Śląskie przewiozły na linii S34 ponad 650 tys. pasażerów. To frekwencyjny sukces i zasługa komfortowego oraz nowoczesnego taboru, a także konkurencyjnego czasu przejazdu, który jest o około pół…",
-      "link": "https://www.radio90.pl/frekwencyjny-sukces-kolei-slaskich-jak-z-czestochowy-do-krakowa.html",
-      "published": "2026-09-26T04:22",
-      "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -979,16 +999,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "7775620033b210353f129f5eecfe07a22fb496c1",
-      "title": "Kochasz śpiewać? Już dziś nabór do Zespołu Wokalnego PERSPEKTYWA!",
-      "summary": "Uwielbiasz śpiewać, marzysz o występach na scenie, a może chcesz po prostu szlifować swój warsztat pod okiem doświadczonych instruktorów? Działający przy Raciborskim Centrum Kultury Zespół Wokalny Perspektywa otwiera swoje drzwi na nowy sezon artystyczny. Poszukiwani są pasjonaci muzyki…",
-      "link": "https://www.nowiny.pl/wiadomosci/250888-kochasz-spiewac-juz-dzis-nabor-do-zespolu-wokalnego-perspektywa.html",
-      "published": "2026-09-11T07:52",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "53a9be53b8a68795cc81c2a6552e64bba02ce82d",
       "title": "Protest maszynistów - dziś na kolei. Pociągi mogą mieć duże opóźnienia",
       "summary": "Pasażerowie kolei muszą dziś, 11 września, liczyć się z poważnymi utrudnieniami. Maszyniści mają zwalniać przed wszystkimi przejazdami kolejowo-drogowymi do 20 km/h. Koleje Śląskie ostrzegają przed dużymi opóźnieniami, a PKP Polskie Linie Kolejowe wskazują, że skutki protestu mogą być odczuwalne…",
@@ -1044,16 +1054,6 @@
       "summary": "Mieszkanie komunalne o powierzchni 138 m² czeka na najemcę. Lokal przy ul. Rzecznej 4/10 zostanie wystawiony na licytację już 16 września. Przyszły najemca będzie zobowiązany do przeprowadzenia niezbędnego remontu.",
       "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/duze-mieszkanie-w-centrum-czeka-na-najemce",
       "published": "2026-09-08T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b299ec2cbe1e9a4fe281e43bf39f82543d3bba12",
-      "title": "Witamy nowych Partnerów Rybki!",
-      "summary": "W ostatnich dniach dołączyli do nas kolejni Partnerzy, oferujący zniżki w ramach Karty Rybka. To: Manufaktura słodyczy Bombon, Restauracja Olimpia, OdNowa Elektro, inVerno Centrum Łazienek oraz tambi.studio.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/witamy-nowych-partnerow-rybki",
-      "published": "2026-09-07T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
       "priority": "NORMAL"

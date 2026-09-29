@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T05:44:11",
+  "generated_at": "2026-09-29T12:52:23",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,7 +7,7 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 150,
+  "count": 156,
   "failures": [],
   "events": [
     {
@@ -407,6 +407,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/sasiedzi-z-wyboru-tworcze-spotkania"
     },
     {
+      "id": "iryb-targi-zdrowie-dla-kobiet",
+      "title": "Targi „Zdrowie dla kobiet”",
+      "category": "Wystawa",
+      "start": "2026-10-07T16:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "W Czerwionce-Leszczynach odbędzie się trzecia edycja Targów „Zdrowie dla kobiet”. Przez dwa dni uczestniczki będą mogły odwiedzić stoiska 19 wystawców, skorzystać z bezpłatnych warsztatów i konsultacji oraz posłuchać prelekcji poświęconych zdrowiu, profilaktyce i codziennej trosce o siebie. Targi zaplanowano na 7 i 8 października 2026 roku , w godzinach 16.00–20.00 . Miejscem wydarzenia będzie Centrum Kulturalno-Edukacyjne w Czerwionce-Leszczynach . Cegiełka wynosi 20 zł za dzień . W programie przewidziano bezpłatne warsztaty i konsultacje. Targi zdrowia kobiet w Czerwionce-Leszczynach. Cegiełka dla Krzysztofa Najdowskiego",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/targi-zdrowie-dla-kobiet"
+    },
+    {
       "id": "iryb-sroda-z-wytrychem-poezja-w-rybniku",
       "title": "Środa z Wytrychem: poezja w Rybniku",
       "category": "Inne",
@@ -471,6 +482,17 @@
       "description": "Mistrz i mistrzyni, ojciec i córka – po 40 latach ich prace znów spotkają się na jednej wystawie. 9 października w Galerii Sztuki Rzeczna w Rybniku odbędzie się wernisaż wystawy „Apolonia Dwurnik, Edward Dwurnik. Autoportret, portret” , tłumaczony na Polski Język Migowy. Warto zajrzeć, bo ekspozycja pokaże zarówno znane, jak i nigdy wcześniej nieprezentowane dzieła. Edward Dwurnik przez całe życie wracał w swojej twórczości do ludzi i ich portretów. Interesowała go codzienność, niedoskonałość i emocje ukryte w twarzach modeli. Na wystawie w Rybniku ten motyw spotka się z pracami Apolonii Dwurnik, która nie tylko pokaże własne obrazy, ale także przygotowała ekspozycję jako jej kuratorka. Prace obojga artystów zostały wspólnie zaprezentowane tylko raz – w 1985 roku, gdy Apolonia miała zaledwie sześć lat. Po czterdziestu latach ich twórczość ponownie zostanie zestawiona w jednym miejscu. Wśród prezentowanych dzieł znajdzie się między innymi nigdy wcześniej publicznie niepokazywany portret małej Poli autorstwa Edwarda Dwurnika. Szczególnym punktem wystawy będzie także obraz Apolonii Dwurnik „Autoportret, autoportret” , namalowany specjalnie na tę okazję. To spotkanie dwóch artystycznych spojrzeń na twarz, tożsamość i bliskość – osobiste, ale jednocześnie otwarte na różne interpretacje.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/apolonia-dwurnik-edward-dwurnik-autoportret-portret-w-rybniku"
+    },
+    {
+      "id": "iryb-poza-granice-spotkanie-z-nominowanymi-do-nagrody-juliusz",
+      "title": "Poza granice: Spotkanie z nominowanymi do nagrody „Juliusz”",
+      "category": "Inne",
+      "start": "2026-10-09T18:00",
+      "end": null,
+      "venue": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku",
+      "description": "W Rybniku odbędzie się spotkanie poświęcone biografiom nominowanym do Górnośląskiej Nagrody Literackiej „Juliusz”. Uczestnicy porozmawiają o książkach i ich bohaterach, a dyskusję poprowadzi Elżbieta Janota. Wydarzenie zaplanowano na 9 października 2026 roku o godz. 18:00 . Miejscem spotkania będzie Biblioteka Główna przy ul. Józefa Szafranka 7 w Rybniku . W spotkaniu udział wezmą Maria Ciesielska, Anna Wacławik, Łukasz Garbal, Krzysztof Iszkowski, Krzysztof Łapiński i Piotr Szarota. Rozmowę poprowadzi Elżbieta Janota. Wydarzenie przygotowuje Powiatowa i Miejska Biblioteka Publiczna im. Konstantego Prusa w Rybniku . Pełna nazwa spotkania brzmi: „Poza granice: Spotkanie z nominowanymi do Górnośląskiej Nagrody Literackiej „Juliusz””.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/poza-granice-spotkanie-z-nominowanymi-do-nagrody-juliusz"
     },
     {
       "id": "iryb-pull-the-wire-x-pierwszy-snieg-w-rybniku",
@@ -583,6 +605,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/xi-festiwal-dyni"
     },
     {
+      "id": "dk-chw-gala-wreczenia-gornoslaskiej-nagrody-literackiej-juliusz-20261010",
+      "title": "Gala wręczenia Górnośląskiej Nagrody Literackiej „Juliusz”",
+      "category": "Spektakl",
+      "start": "2026-10-10T17:00",
+      "end": null,
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "W sobotę 10 października 2026 roku o 17:00 zapraszamy na monodram Agnieszki Przepiórskiej „Jadwiga” oraz galę wręczenia Górnośląskiej Nagrody Literackiej „Juliusz”.",
+      "sourceName": "DK Chwałowice",
+      "sourceUrl": "https://www.dkchwalowice.pl/?news=51937"
+    },
+    {
       "id": "iryb-grom-koncert-szanty-w-rybniku",
       "title": "GrOm | Koncert Szanty w Rybniku",
       "category": "Koncert",
@@ -691,6 +724,17 @@
       "description": "Bezpieczeństwo osób starszych będzie tematem spotkania „Bezpieczny Senior - na drodze i w sieci”, które odbędzie się w Czerwionce-Leszczynach. Wydarzenie ma pomóc seniorom zdobyć praktyczną wiedzę i przypomnieć najważniejsze zasady bezpiecznego poruszania się po drodze oraz korzystania z internetu. Wydarzenie będzie poświęcone bezpieczeństwu seniorów w dwóch ważnych obszarach: na drodze i w internecie. Uczestnicy będą mogli poszerzyć swoją wiedzę oraz przypomnieć sobie zasady, które pomagają unikać zagrożeń w codziennym życiu. Spotkanie ma mieć praktyczny charakter i skupiać się na informacjach przydatnych osobom starszym. Organizatorzy chcą zwrócić uwagę na najważniejsze kwestie związane z bezpieczeństwem oraz zachęcić do ostrożności zarówno podczas poruszania się po drodze, jak i korzystania z sieci. Gościem specjalnym wydarzenia będzie Mirosław Szołtysek .",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/bezpieczny-senior-na-drodze-i-w-sieci"
+    },
+    {
+      "id": "iryb-poza-granice-zywa-biblioteka",
+      "title": "Poza granice: Żywa Biblioteka",
+      "category": "Festiwal",
+      "start": "2026-10-15T10:00",
+      "end": null,
+      "venue": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku",
+      "description": "Jak poznać ludzi, których często ocenia się przez pryzmat stereotypów? Żywa Biblioteka zaprasza do rozmowy i spotkania z osobami o różnych doświadczeniach. Wydarzenie będzie częścią Rybnickiego Festiwalu Biografii. Spotkanie zaplanowano na 15 października 2026 roku w godzinach 10:00–14:00 w Bibliotece Głównej przy ul. Szafranka 7 w Rybniku . Udział w wydarzeniu jest bezpłatny. Uczestnicy będą mogli spotkać osoby, których historie i doświadczenia bywają przesłaniane przez stereotypy. Wśród nich znajdą się między innymi rodzic dziecka transpłciowego, osoba z doświadczeniem choroby alkoholowej, aktywna seniorka, osoba z niepełnosprawnością oraz osoba pochodzenia ukraińskiego. Żywa Biblioteka stwarza okazję do bezpośredniej rozmowy z osobami o różnym pochodzeniu i doświadczeniach. Zamiast opierać się na wyobrażeniach, uczestnicy będą mogli poznać ich perspektywę podczas spotkania.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/poza-granice-zywa-biblioteka"
     },
     {
       "id": "tzr-kantor-w-fotografii-pollescha-otwarcie-wystawy-fotografii-konrada-karola-pollescha",
@@ -1364,6 +1408,17 @@
       "sourceUrl": "https://biletyna.pl/kabaret/30Rybnicka-Jesien-Kabaretowa-RYJEK-2026-Dzien-1?eid=708202#opis"
     },
     {
+      "id": "dk-chw-konkurs-plastyczny-na-prace-czekamy-do-20-11-2026-20261120",
+      "title": "Konkurs plastyczny | na prace czekamy do 20.11.2026",
+      "category": "DlaDzieci",
+      "start": "2026-11-20T00:00",
+      "end": null,
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "Choć jesień dopiero się zaczęła, już dziś zapraszamy do udziału w naszym konkursie plastycznym \"Mieszkańcy zimowego lasu”. Regulamin konkursu znajdziecie na naszej stronie internetowej w zakładce „Pobieralnia”. Termin składania prac upływa z dniem 20 listopada 2026 roku (decyduje data wpływu pracy do domu kultury).",
+      "sourceName": "DK Chwałowice",
+      "sourceUrl": "https://www.dkchwalowice.pl/?news=51940"
+    },
+    {
       "id": "bilnya-30-rybnicka-jesien-kabaretowa-ryjek-2026-dzien-2-202611201730",
       "title": "30.Rybnicka Jesień Kabaretowa RYJEK 2026 - Dzień 2",
       "category": "Kabaret",
@@ -1606,6 +1661,17 @@
       "sourceUrl": "https://biletyna.pl/spektakl/Najdrozszy?eid=707088#opis"
     },
     {
+      "id": "bilnya-ballady-rockowe-przy-swiecach-polskie-legendy-202701211930",
+      "title": "Ballady Rockowe przy Świecach: Polskie Legendy",
+      "category": "Koncert",
+      "start": "2027-01-21T19:30",
+      "end": "2027-01-21T21:00",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/Ballady-Rockowe-przy-Swiecach-Polskie-Legendy?eid=708518#opis"
+    },
+    {
       "id": "bilnya-sklep-z-facetami-202701241700",
       "title": "Sklep z facetami",
       "category": "Spektakl",
@@ -1617,15 +1683,15 @@
       "sourceUrl": "https://biletyna.pl/spektakl/Sklep-z-facetami?eid=677848#opis"
     },
     {
-      "id": "bilnya-noworoczna-gala-koncert-wiedenski-2027-202701261800",
-      "title": "Noworoczna Gala - Koncert Wiedeński 2027",
+      "id": "tzr-noworoczna-gala-koncert-wiedenski",
+      "title": "NOWOROCZNA GALA – Koncert Wiedeński",
       "category": "Koncert",
       "start": "2027-01-26T18:00",
       "end": "2027-01-26T20:00",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎶✨ Zapraszamy na Noworoczną Galę – Koncert Wiedeński! 🌟 Wielkie przeboje Johanna Straussa, wirtuozi muzyki, orkiestra symfoniczna i balet w wyjątkowej oprawie! 🎻💃 To niezapomniane wydarzenie, które przeniesie Cię w świat muzyki i prawdziwej elegancji! 🎤🎉.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Noworoczna-Gala-Koncert-Wiedenski-z-udzialem-Orkiestry-Symfonicznej-Filharmonii-w-Tarnopolu?eid=703525#opis"
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Najnowsza edycja 2027 ogólnopolskiej trasy koncertowej! - magiczne, pełne kolorytu widowisko, nie mające sobie równych! - na scenie ponad 30 osobowy zespół najwybitniejszych Solistów, Orkiestry i baletu oraz Gość Specjalny! - zachwycające doznania muzyczne, wypełnione szelestem błyszczących sukien, wśród widoku rozlewanego szampana i dźwięku stukających obcasów - najnowszy program koncertu – edycja 2027 - połączenie klasyki z rozrywką, które łączy pokolenia",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/noworoczna-gala-koncert-wiedenski.html"
     },
     {
       "id": "dk-bog-11035-dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-godz-16-00",
