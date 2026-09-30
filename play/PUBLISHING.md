@@ -192,10 +192,23 @@ Play Console prowadzi przez listę zadań. Do wypełnienia:
 | Reklamy | **Nie zawiera reklam** |
 | Dostęp do aplikacji | **Cała zawartość dostępna bez ograniczeń** (nie ma logowania) |
 | Ocena treści | Ankieta → kategoria „Wiadomości / informacje", wszędzie „nie" (brak przemocy, hazardu, zakupów). Wyjdzie PEGI 3 |
-| Grupa odbiorców | **18+** albo „wszyscy dorośli"; aplikacja nie jest kierowana do dzieci |
+| Grupa odbiorców | **18+**. Patrz ostrzeżenie niżej, to nie jest drobiazg |
 | Bezpieczeństwo danych | patrz niżej |
 | Aplikacja rządowa | **Nie** |
 | Zgodność z zasadami | zaznacz oświadczenia |
+
+### Grupa odbiorców: nie zaznaczaj dzieci
+
+Wskazanie przedziału wiekowego obejmującego dzieci włącza **Google Play Families
+Policy**, a ta wymaga, by **cała** treść w aplikacji była odpowiednia dla dzieci.
+Tej gwarancji nie da się tu dać: moduł wiadomości pokazuje na żywo lokalne feedy,
+których nie kuratorujemy. W próbce 120 pozycji 9 dotyczyło wypadków i przestępstw,
+w tym „19-latka zginęła w Rudach" i statystyki policyjne z ofiarami. Treść zmienia się
+codziennie, więc nie da się jej z góry przejrzeć.
+
+Ustaw **18+** w sekcji „Zawartość aplikacji → Grupa odbiorców i treści". Nie ogranicza
+to, kto może pobrać aplikację — deklaruje, do kogo jest kierowana. Wtedy znika też
+pytanie o plakietkę Families w formularzu Bezpieczeństwa danych.
 
 ### Bezpieczeństwo danych — dokładne odpowiedzi
 
