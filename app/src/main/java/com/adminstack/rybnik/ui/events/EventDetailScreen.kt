@@ -35,6 +35,7 @@ import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
+import com.adminstack.rybnik.ui.common.openExternalLink
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -150,11 +151,7 @@ fun EventDetailScreen(eventId: String, onBack: () -> Unit) {
                     Text("Do kalendarza")
                 }
                 OutlinedButton(
-                    onClick = {
-                        context.startActivity(
-                            Intent(Intent.ACTION_VIEW, Uri.parse(event.sourceUrl))
-                        )
-                    },
+                    onClick = { openExternalLink(context, event.sourceUrl) },
                     modifier = Modifier.wrapContentSize(),
                 ) {
                     Icon(Icons.Filled.OpenInNew, contentDescription = null)

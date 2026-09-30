@@ -231,16 +231,21 @@ class TransitRepository(
         fromSeconds: Int,
         limit: Int,
     ): List<Journey> {
-        val boardings = dao.boardings(
-            stopIds = originIds,
-            date = date,
-            afterSeconds = fromSeconds,
-            untilSeconds = fromSeconds + SEARCH_WINDOW,
-        )
+        val boardings = originIds.chunked(SQL_VARS).flatMap {
+            dao.boardings(
+                stopIds = it,
+                date = date,
+                afterSeconds = fromSeconds,
+                untilSeconds = fromSeconds + SEARCH_WINDOW,
+            )
+        }.sortedBy { it.departure }.take(BOARDING_LIMIT)
         if (boardings.isEmpty()) return emptyList()
 
-        val boardable = dao.stopTimesOfTrips(boardings.map { it.tripId }.distinct()).toPlanTrips()
-        val destinationTrips = dao.stopTimesOfTrips(dao.tripsCalling(destinationIds, date)).toPlanTrips()
+        val boardable = stopTimesOf(boardings.map { it.tripId }.distinct()).toPlanTrips()
+        val destinationTripIds = destinationIds.chunked(SQL_VARS)
+            .flatMap { dao.tripsCalling(it, date) }
+            .distinct()
+        val destinationTrips = stopTimesOf(destinationTripIds).toPlanTrips()
 
         return JourneyPlanner.plan(
             boardable = boardable,
@@ -251,6 +256,17 @@ class TransitRepository(
             limit = limit,
         )
     }
+
+    /**
+     * SQLite caps the number of host parameters in one statement, and Room expands
+     * `IN (:ids)` into one parameter per element. The limit is 999 on Android 8 and only
+     * rises much later, so a broad search blew past it: typing "Rybnik" as the
+     * destination matches every stop in the city, because every stop name starts with it.
+     * The statement then failed with "too many SQL variables", the exception was
+     * swallowed upstream, and the screen calmly reported "Brak połączeń".
+     */
+    private suspend fun stopTimesOf(tripIds: List<String>): List<TripStopRow> =
+        tripIds.chunked(SQL_VARS).flatMap { dao.stopTimesOfTrips(it) }
 
     private fun List<TripStopRow>.toPlanTrips(): List<PlanTrip> = groupBy { it.tripId }
         .map { (tripId, rows) ->
@@ -288,5 +304,11 @@ class TransitRepository(
 
         /** How far ahead to look for a first bus. Longer just means slower and noisier. */
         const val SEARCH_WINDOW = 3 * 3600
+
+        /** Comfortably under SQLite's 999-parameter ceiling, with room for the others. */
+        const val SQL_VARS = 400
+
+        /** Keeps a wildcard-wide search bounded once the chunks are merged. */
+        const val BOARDING_LIMIT = 120
     }
 }

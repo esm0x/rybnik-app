@@ -1,5 +1,6 @@
 package com.adminstack.rybnik.ui.transit
 
+import android.util.Log
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -93,6 +94,7 @@ data class TransitUi(
     val journeys: List<Journey> = emptyList(),
     val searching: Boolean = false,
     val searched: Boolean = false,
+    val searchFailed: Boolean = false,
 )
 
 class TransitViewModel : ViewModel() {
@@ -234,9 +236,26 @@ class TransitViewModel : ViewModel() {
         val to = _ui.value.toQuery.trim()
         if (from.isBlank() || to.isBlank()) return
         viewModelScope.launch {
-            _ui.update { it.copy(searching = true, journeys = emptyList(), suggestions = emptyList()) }
-            val found = runCatching { Graph.transitRepo.planJourneys(from, to) }.getOrDefault(emptyList())
-            _ui.update { it.copy(journeys = found, searching = false, searched = true) }
+            _ui.update {
+                it.copy(
+                    searching = true,
+                    journeys = emptyList(),
+                    suggestions = emptyList(),
+                    searchFailed = false,
+                )
+            }
+            // Swallowing the exception here made a failed query look exactly like an
+            // honest "nothing goes that way", which is how a SQLite limit went unnoticed.
+            val result = runCatching { Graph.transitRepo.planJourneys(from, to) }
+            result.exceptionOrNull()?.let { Log.w("TransitSearch", "journey search failed", it) }
+            _ui.update {
+                it.copy(
+                    journeys = result.getOrDefault(emptyList()),
+                    searching = false,
+                    searched = true,
+                    searchFailed = result.isFailure,
+                )
+            }
         }
     }
 }
@@ -499,6 +518,12 @@ private fun JourneySearch(
 
         when {
             ui.searching -> LinearProgressIndicator(Modifier.fillMaxWidth())
+            ui.searched && ui.searchFailed -> EmptyState(
+                icon = Icons.Outlined.DirectionsBus,
+                title = "Nie udało się wyszukać",
+                subtitle = "Coś poszło nie tak przy przeszukiwaniu rozkładu. Spróbuj " +
+                    "wpisać dokładniejszą nazwę przystanku.",
+            )
             ui.searched && ui.journeys.isEmpty() -> EmptyState(
                 icon = Icons.Outlined.DirectionsBus,
                 title = "Brak połączeń",

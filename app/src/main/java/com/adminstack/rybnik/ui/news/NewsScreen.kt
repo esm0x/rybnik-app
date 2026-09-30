@@ -50,6 +50,7 @@ import com.adminstack.rybnik.data.news.NewsItem
 import com.adminstack.rybnik.ui.common.EmptyState
 import com.adminstack.rybnik.ui.common.ErrorBanner
 import com.adminstack.rybnik.ui.common.SHORT_DAY_FMT
+import com.adminstack.rybnik.ui.common.openExternalLink
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -201,11 +202,7 @@ fun NewsScreen() {
                     NewsCard(
                         item = item,
                         hidden = ui.showHidden,
-                        onClick = {
-                            runCatching {
-                                context.startActivity(Intent(Intent.ACTION_VIEW, item.link.toUri()))
-                            }
-                        },
+                        onClick = { openExternalLink(context, item.link) },
                         onToggleHidden = {
                             if (ui.showHidden) vm.restore(item.id) else vm.hide(item.id)
                         },

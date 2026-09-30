@@ -38,6 +38,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.adminstack.rybnik.Graph
+import com.adminstack.rybnik.data.waste.isUsableHouseNumber
 import com.adminstack.rybnik.core.prefs.HouseType
 import com.adminstack.rybnik.core.prefs.WasteAddress
 import com.adminstack.rybnik.ui.common.ErrorBanner
@@ -121,12 +122,23 @@ class AddressPickerViewModel : ViewModel() {
         val s = _ui.value
         val district = s.district ?: return
         val street = s.street ?: return
-        if (s.number.isBlank()) {
+        val number = s.number.trim()
+        if (number.isBlank()) {
             _ui.update { it.copy(error = "Podaj numer domu, od niego zależy rejon.") }
             return
         }
+        // A number the rules cannot read matches every one of them, because the matcher
+        // falls back to "true" rather than excluding the street. So "abc" would quietly
+        // hand out whichever rejon happened to be listed first, looking entirely
+        // convincing. Better to say the number is wrong than to invent a schedule.
+        if (!isUsableHouseNumber(number)) {
+            _ui.update {
+                it.copy(error = "Numer domu musi zaczynać się od cyfry, np. 38 albo 128B.")
+            }
+            return
+        }
         val rejon = Graph.wasteRepo.schedule()
-            .resolveRejon(district, street, s.number.trim(), s.houseType)
+            .resolveRejon(district, street, number, s.houseType)
         if (rejon == null) {
             _ui.update {
                 it.copy(

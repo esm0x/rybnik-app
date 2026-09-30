@@ -1,5 +1,11 @@
 package com.adminstack.rybnik.ui.common
 
+import androidx.core.net.toUri
+import android.widget.Toast
+import android.content.Intent
+import android.content.Context
+import android.content.ClipboardManager
+import android.content.ClipData
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -123,4 +129,38 @@ fun SectionHeader(text: String, trailing: (@Composable () -> Unit)? = null) {
         )
         trailing?.invoke()
     }
+}
+
+/**
+ * Opens a link from scraped data, and survives doing so.
+ *
+ * Two problems it solves. First, `startActivity` throws ActivityNotFoundException when
+ * nothing can handle the intent, and a phone with no browser is a real thing: Android
+ * lets you disable Chrome. Tapping "Źródło" on an event used to take the whole app down
+ * with it, while the news list wrapped the identical call and survived.
+ *
+ * Second, these URLs come from third-party RSS feeds we do not own. Handing an arbitrary
+ * string to ACTION_VIEW means a scheme like `intent:` can be redirected into components
+ * that were never meant to be reachable from a news item, so only http and https are
+ * followed and anything else is treated as broken data.
+ */
+fun openExternalLink(context: Context, url: String?) {
+    val uri = url?.trim()?.takeIf { it.isNotEmpty() }?.toUri()
+    val scheme = uri?.scheme?.lowercase()
+    if (uri == null || (scheme != "http" && scheme != "https")) {
+        Toast.makeText(context, "Ten odnośnik jest nieprawidłowy", Toast.LENGTH_SHORT).show()
+        return
+    }
+    runCatching { context.startActivity(Intent(Intent.ACTION_VIEW, uri)) }
+        .onFailure {
+            runCatching {
+                context.getSystemService(ClipboardManager::class.java)
+                    ?.setPrimaryClip(ClipData.newPlainText("link", uri.toString()))
+            }
+            Toast.makeText(
+                context,
+                "Brak przeglądarki. Link skopiowany do schowka.",
+                Toast.LENGTH_LONG,
+            ).show()
+        }
 }

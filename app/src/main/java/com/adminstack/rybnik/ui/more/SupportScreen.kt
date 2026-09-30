@@ -44,6 +44,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.core.net.toUri
 import com.adminstack.rybnik.R
+import com.adminstack.rybnik.ui.common.openExternalLink
 
 private const val COFFEE_URL = "https://buycoffee.to/esm0x"
 private const val REPO_URL = "https://github.com/esm0x/rybnik-app"
@@ -69,13 +70,7 @@ fun SupportScreen(onBack: () -> Unit) {
             ?.setPrimaryClip(ClipData.newPlainText(label, value))
     }
 
-    fun open(url: String) {
-        runCatching { context.startActivity(Intent(Intent.ACTION_VIEW, url.toUri())) }
-            .onFailure {
-                copyToClipboard("link", url)
-                toast("Brak przeglądarki. Link skopiowany: $url")
-            }
-    }
+    fun open(url: String) = openExternalLink(context, url)
 
     /**
      * ACTION_SENDTO with a mailto: URI, not a hand-built query string — the subject and

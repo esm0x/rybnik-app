@@ -208,6 +208,15 @@ Kotlin deserializuje je 1:1.
   zuzelend.com to feed newsów z datami względnymi („3 lata temu"), nie terminarz.
   Dlatego apka po zakończeniu rundy zasadniczej mówi „ostatni mecz sezonu" zamiast
   podawać sześciotygodniowy wynik jako świeży.
+- **SQLite ma sufit na liczbę zmiennych w zapytaniu** i Room rozwija `IN (:ids)` na jeden
+  parametr na element. Limit to 999 na Androidzie 8, więc szeroki dobór przystanków go
+  przebijał: wpisanie „Rybnik" jako celu dopasowuje **każdy** przystanek w mieście, bo
+  każda nazwa się od tego zaczyna. Zapytanie padało z `too many SQL variables`, wyjątek
+  był połykany wyżej, a ekran spokojnie meldował „Brak połączeń". Listy identyfikatorów
+  idą teraz porcjami, a nieudane wyszukiwanie mówi, że się nie udało.
+- **Nieczytelny numer domu pasuje do każdej reguły.** `StreetDto.matches` w razie
+  wątpliwości zwraca `true`, więc „abc" trafiało do pierwszego rejonu z listy i dostawało
+  pewnie wyglądający, cudzy harmonogram. Numer jest teraz walidowany przed zapisem.
 - **Rozkład jazdy musi się sam odświeżać.** KM Rybnik wydaje feed co kilka miesięcy
   z nowym `attachment_id`, a każde wydanie ma `valid_to`. Import „tylko gdy baza pusta"
   oznaczał, że apka serwowała pierwszą pobraną edycję **na zawsze**, a od dnia, w którym

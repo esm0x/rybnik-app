@@ -84,6 +84,19 @@ fun StreetDto.matches(houseNumber: String): Boolean {
     }
 }
 
+/**
+ * Whether a typed house number can actually be matched against the rejon rules.
+ *
+ * [StreetDto.matches] falls back to `true` for anything it cannot read, so a street with
+ * number ranges accepts "abc" into whichever rejon is listed first and shows a schedule
+ * that looks entirely convincing. Rejecting the input is the honest branch.
+ */
+fun isUsableHouseNumber(raw: String): Boolean {
+    val trimmed = raw.trim()
+    if (trimmed.isEmpty() || !trimmed.first().isDigit()) return false
+    return trimmed.takeWhile { it.isDigit() }.toIntOrNull() != null
+}
+
 private val STREET_PREFIX = Regex("""^(ul\.|ulica|al\.|aleja|pl\.|plac|os\.|osiedle)\s*""")
 private val NON_ALPHANUMERIC = Regex("""[^\p{L}\p{N}]""")
 
