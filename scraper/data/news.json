@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T22:18:41",
+  "generated_at": "2026-09-30T05:34:24",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,56 @@
     }
   ],
   "items": [
+    {
+      "id": "03a28bce92336eaa00c8ce4a8401fc1b802881f3",
+      "title": "Trzy dni zbiórek dla hospicjum. Można już zgłaszać się do pomocy",
+      "summary": "Hospicjum im. Jana Pawła II w Żorach przygotowuje kolejną edycję akcji „Zapalmy Płomyk Nadziei”. Zbiórki przy cmentarzach zaplanowano na 31 października oraz 1 i 2 listopada. Trwa nabór wolontariuszy.",
+      "link": "https://ezory.pl/wiadomosci/251249-trzy-dni-zbiorek-dla-hospicjum-mozna-juz-zglaszac-sie-do-pomocy.html",
+      "published": "2026-09-30T05:11",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "82ae100d26d475256624688f7f69e82f375113ac",
+      "title": "Dachowanie w Bogunicach. Na szczęście nie ma osób poszkodowanych",
+      "summary": "Uważajcie o poranku na drogach. Mamy informacje sprzed chwili. Około godziny 6.30 w Bogunicach na ulicy Raciborskiej dachowało auto osobowe.",
+      "link": "https://www.radio90.pl/dachowanie-w-bogunicach.html",
+      "published": "2026-09-30T05:07",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c6358ccc771129fa752ab313f75c5bb486dcdc96",
+      "title": "Ile zarabiają lekarze w Żorach?",
+      "summary": "773 tys. zł na kontrakcie i 762 tys. zł na etacie – to najwyższe roczne wynagrodzenia lekarzy wykazane przez Miejskie Zakłady Opieki Zdrowotnej w Żorach w odpowiedzi na pytania Nowin. Sprawdziliśmy, ile łącznie zarobili najlepiej opłacani medycy i jak te kwoty wyglądają na tle finansów miejskiej…",
+      "link": "https://ezory.pl/wiadomosci/251102-ile-zarabiaja-lekarze-w-zorach.html",
+      "published": "2026-09-30T05:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8a38e61d659a37171ab6d4f013ce9cc52ce54bbf",
+      "title": "„Przeżyliśmy Gross-Rosen”. Wkrótce nowa wystawa w Pałacu Baranowice",
+      "summary": "Historia obozu KL Gross-Rosen, losy więźniów i materiały dokumentujące funkcjonowanie oraz likwidację obozu znajdą się na wystawie „Przeżyliśmy Gross-Rosen”. Ekspozycję będzie można oglądać od 2 do 31 października w żorskim Pałacu Baranowice.",
+      "link": "https://ezory.pl/wiadomosci/251247-przezylismy-gross-rosen-wkrotce-nowa-wystawa-w-palacu-baranowice.html",
+      "published": "2026-09-30T04:11",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "dc2d18db8983301f25d0d1dc12a840bd27a5cd95",
+      "title": "Spacer po Wodzisławiu inaczej. Uczestnicy będą „czytać” krajobraz miasta",
+      "summary": "Co o historii Wodzisławia Śląskiego można wyczytać z układu ulic, zabudowy i przestrzeni starego miasta? W sobotę, 3 października, odbędzie się spacer krajobrazowy prowadzony przez dr Katarzynę Pukowiec-Kurdę. Udział wymaga wcześniejszych zapisów.",
+      "link": "https://www.nowiny.pl/wiadomosci/251248-spacer-po-wodzislawiu-inaczej-uczestnicy-beda-czytac-krajobraz-miasta.html",
+      "published": "2026-09-30T03:28",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "128cd6bcc5090b458f36b23a3eab7e6aa2c2609a",
       "title": "Gmina Pietrowice Wielkie zmodernizowała swoje ujęcia wody. Inwestycja o wielu wymiarach za unijną dotację z KPO",
@@ -29,10 +79,10 @@
       "priority": "ALERT"
     },
     {
-      "id": "e8b7afb2e2a21c983591da1a799b6e5d7327fdb3",
-      "title": "Gmina Rudnik doceniła młode talenty. Kto znalazł się wśród nagrodzonych?",
+      "id": "f0c983f5ac3b6c78e435d449a56efdf52a53e72b",
+      "title": "Gmina Rudnik doceniła młode talenty. Kto znalazł się wśród nagrodzonych? [ZDJĘCIA]",
       "summary": "W roku szkolnym 2025/2026 uczniowie ze szkół podstawowych gminy Rudnik aktywnie rozwijali swoje zainteresowania, uczestniczyli w konkursach, zawodach sportowych oraz różnych przedsięwzięciach. Wielu z nich osiągnęło bardzo dobre wyniki w nauce i odniosło sukcesy w dziedzinach, które są ich pasją…",
-      "link": "https://www.nowiny.pl/wiadomosci/251244-gmina-rudnik-docenila-mlode-talenty-kto-znalazl-sie-wsrod-nagrodzonych.html",
+      "link": "https://www.nowiny.pl/wiadomosci/251244-gmina-rudnik-docenila-mlode-talenty-kto-znalazl-sie-wsrod-nagrodzonych-zdjecia.html",
       "published": "2026-09-29T19:18",
       "source": "nowiny.pl",
       "category": "Region",
@@ -184,46 +234,6 @@
       "summary": "Miasto rozstrzygnęło przetarg na dwa hektary w strefie gospodarczej utworzonej na terenie dawnej hałdy. Wygrała firma Perfekt.",
       "link": "https://www.nowiny.pl/wiadomosci/251233-ponad-17-mln-zl-za-dzialke-przy-sportowej-w-niewiadomiu.html",
       "published": "2026-09-29T10:07",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "86aff9719ae9627bee8b0d0e857a7f5929829db5",
-      "title": "Elastyczne korzystanie z energii. Mała zmiana dla odbiorcy, wielka korzyść dla systemu",
-      "summary": "Jeszcze kilka lat temu większość z nas nie zastanawiała się nad tym, o której godzinie uruchamia pralkę, ładuje samochód elektryczny czy włącza piekarnik. Odbiorcy mogą zaoszczędzić dzięki elastycznej zmianie zapotrzebowania.",
-      "link": "https://www.nowiny.pl/wiadomosci/251235-elastyczne-korzystanie-z-energii-mala-zmiana-dla-odbiorcy-wielka-korzysc-dla-systemu.html",
-      "published": "2026-09-29T10:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "29590f2ad34c0fe30ddd2758a4e2a3ffff8128d0",
-      "title": "Jak przygotować dokumenty firmowe do tłumaczenia, żeby przyspieszyć proces?",
-      "summary": "Umowy, instrukcje techniczne, katalogi produktów, dokumentacja przetargowa czy materiały marketingowe często trzeba przetłumaczyć w konkretnym terminie. Czas realizacji zależy jednak nie tylko od liczby stron i języka docelowego. Znaczenie ma również sposób przygotowania materiałów przez firmę.",
-      "link": "https://www.nowiny.pl/wiadomosci/251226-jak-przygotowac-dokumenty-firmowe-do-tlumaczenia-zeby-przyspieszyc-proces.html",
-      "published": "2026-09-29T10:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "dd7d77029c025870ed110bb6e907fd78d1c14c5a",
-      "title": "Nowy salon iSpot w Rybniku otwiera się w piątek",
-      "summary": "W piątek, 2 października, w rybnickim Focus Park otworzy się salon iSpot. Firma zapowiada specjalne ceny wybranych urządzeń Apple na 2 i 3 października.",
-      "link": "https://www.nowiny.pl/wiadomosci/251232-nowy-salon-ispot-w-rybniku-otwiera-sie-w-piatek.html",
-      "published": "2026-09-29T09:52",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "9e4caee52054fa24fc90fd655130d9f3a632b83d",
-      "title": "Serdecznie zapraszamy na 25-lecie Raciborskiego Centrum Kultury",
-      "summary": "Już ćwierć wieku RCK jest miejscem, w którym bije kulturalne serce naszego miasta. Bazujemy na tradycji Domu Kultury Strzecha i Raciborskiego Domu Kultury, które dziś razem ze Świetlicą w Brzeziu, tworzą prężną i kreatywną instytucję. Byliśmy, jesteśmy i będziemy dla naszych Widzów, Twórców i…",
-      "link": "https://www.nowiny.pl/wiadomosci/251231-serdecznie-zapraszamy-na-25-lecie-raciborskiego-centrum-kultury.html",
-      "published": "2026-09-29T09:39",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -444,16 +454,6 @@
       "summary": "Bramki w zachodniej części A4 do likwidacji, już bliżej niż dalej. Jest firma, która wykona to zadanie.",
       "link": "https://www.radio90.pl/bramki-na-a4-wybrano-firme-ktora-zlikwiduje-miejsca-poboru-oplat.html",
       "published": "2026-09-27T08:24",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "2470d5a38bb2d8de1fb41cf21218aa8414323dc2",
-      "title": "Ogólnopolski Festiwal Piosenki Artystycznej w Rybniku: jubileuszową edycję zwyciężyła Anna Drewniok [WIDEO, ZDJĘCIA]",
-      "summary": "Rybniczanka, Anna Drewniok została zwyciężczynią odbywającego się w Rybniku już po raz kolejny - dokładnie po raz 30. - Ogólnopolskiego Festiwalu Piosenki Artystycznej (OFPA). Spośród kilkudziesięciu uczestników festiwalu, to właśnie występy Anny Drewniok najbardziej przypadły do gustu, jury…",
-      "link": "https://www.radio90.pl/ogolnopolski-festiwal-piosenki-artystycznej-w-rybniku-jubileuszowa-edycje-zwyciezyla-anna-drewniok-wideo-zdjecia.html",
-      "published": "2026-09-27T07:57",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"

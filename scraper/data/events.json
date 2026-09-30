@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T22:15:56",
+  "generated_at": "2026-09-30T05:33:01",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,20 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 157,
+  "count": 156,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-kazdy-mistrz-kiedys-zaczynal-grac-koncert-organowy",
-      "title": "Każdy Mistrz kiedyś zaczynał grać – koncert organowy",
-      "category": "Koncert",
-      "start": "2026-09-29T19:15",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej, Plac Teatralny im. Kazimierza Kutza 1, 44-200 Rybnik, Poland",
-      "description": "Pierwszy koncert, pierwsze emocje i pierwsze spotkanie z publicznością – właśnie takie chwile często rozpoczynają wielkie muzyczne historie. 29 września w Rybniku młodzi organiści oraz absolwenci rybnickiej klasy organów pokażą, jak wygląda muzyczna sztafeta pokoleń. Warto zarezerwować ten wieczór na koncert „Dzieci dzieciom i rodzicom”. Podczas koncertu wystąpią uczniowie i absolwenci klasy organów prowadzonej przez Elżbietę Włosek-Żurawiecką i Stanisława Pielczyka z Państwowej Szkoły Muzycznej II stopnia w Rybniku. Wydarzenie odbędzie się w ramach 41. Dni Muzyki Organowej i Kameralnej , a jego szczególny charakter podkreśla jubileusz 35-lecia rybnickiej klasy organów. Na jednej scenie spotkają się osoby, które dopiero poznają artystyczną drogę, oraz absolwenci rozwijający dziś muzyczne życie regionu i kraju. To nie tylko koncert organowy, ale także opowieść o systematycznej pracy, muzycznych marzeniach i nauczycielach, którzy przez lata pomagają kolejnym pokoleniom rozwijać talent. Publiczność będzie mogła usłyszeć zarówno młodych wykonawców, jak i muzyków, którzy pierwsze kroki stawiali właśnie w Rybniku.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/kazdy-mistrz-kiedys-zaczynal-grac-koncert-organowy"
-    },
     {
       "id": "iryb-wianki-wspomnien-warsztaty-tekstylne",
       "title": "Wianki Wspomnień – warsztaty tekstylne",
