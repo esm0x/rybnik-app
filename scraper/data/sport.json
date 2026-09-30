@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:38:16",
+  "generated_at": "2026-09-30T22:18:00",
   "count": 58,
   "failures": [],
   "teams": [
@@ -455,10 +455,10 @@
       "home": "TKKF Sokół Chwałęcice (Rybnik)",
       "away": "ROW 1964 Rybnik",
       "isHome": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "FINISHED"
     },
     {
       "id": "row-1964-2026-10-03-lks-goczalkowice-zdroj",
@@ -559,11 +559,11 @@
       "status": "SCHEDULED"
     },
     {
-      "id": "row-1964-2026-10-31-rakow-ii-czestochowa",
+      "id": "row-1964-2026-10-30-rakow-ii-czestochowa",
       "teamId": "row-1964",
       "competition": "III liga, Kolejka 15",
-      "date": "2026-10-31",
-      "time": null,
+      "date": "2026-10-30",
+      "time": "12:45",
       "home": "Raków II Częstochowa",
       "away": "ROW 1964 Rybnik",
       "isHome": false,

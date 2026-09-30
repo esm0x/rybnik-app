@@ -1,17 +1,123 @@
 {
-  "generated_at": "2026-09-30T12:38:06",
+  "generated_at": "2026-09-30T22:17:52",
   "count": 120,
   "failures": [
     {
       "source": "rybnik.com.pl",
       "error": "403 Client Error: Forbidden for url: https://www.rybnik.com.pl/feed,feed0.html"
-    },
-    {
-      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikaty",
-      "error": "HTTPSConnectionPool(host='www.rybnik.eu', port=443): Read timed out. (read timeout=30)"
     }
   ],
   "items": [
+    {
+      "id": "969dcb01e6ec304c78db928473b5a6bb5632a393",
+      "title": "Jar Południowy zmieni oblicze",
+      "summary": "Jar Południowy w Jastrzębiu-Zdroju wreszcie przestaje być symbolem miejskiego chaosu. Po latach dyskusji, obietnic i nieudanych prób zagospodarowania, miasto wraca do pomysłu uporządkowania tego terenu.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251275-jar-poludniowy-zmieni-oblicze.html",
+      "published": "2026-09-30T21:43",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "055f9a61a36abd778f01c3a6e147ad06ecfb7ddc",
+      "title": "Orlik na Warszawskiej przechodzi modernizację",
+      "summary": "Na Orliku przy ulicy Warszawskiej wreszcie coś drgnęło. Po miesiącach narzekań, zgłoszeń i dyskusji o fatalnym stanie boiska, ruszyła długo wyczekiwana modernizacja nawierzchni. Na miejscu pracuje ciężki sprzęt, a fragmenty starej, zużytej murawy są już usuwane.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251274-orlik-na-warszawskiej-przechodzi-modernizacje.html",
+      "published": "2026-09-30T21:16",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f653d01c3f0aa375c9a64cc811a228f1de8f7ca8",
+      "title": "Znamy skład Lyski Rock Festival VII. Organizatorzy ogłosili wszystkie zespoły",
+      "summary": "Organizatorzy Lyski Rock Festival ogłosili skład siódmej edycji imprezy. W ostatnią sobotę wakacji na scenie przy Urzędzie Gminy Lyski wystąpi pięć zespołów: Hunter, Lej Mi Pół, Łydka Grubasa, Nocny Kochanek i Myslovitz. Sprzedaż biletów ma rozpocząć się 1 listopada.",
+      "link": "https://www.nowiny.pl/wiadomosci/251269-znamy-sklad-lyski-rock-festival-vii-organizatorzy-oglosili-wszystkie-zespoly.html",
+      "published": "2026-09-30T19:21",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1917906b212157a4817a537a9c5af2ff2e029094",
+      "title": "Poważny wypadek w Godowie. Ranny motocyklista zabrany przez LPR [ZDJĘCIA]",
+      "summary": "W środę (30.09) doszło do wypadku drogowego z udziałem samochodu osobowego i motocykla. Na miejsce skierowano jednostki ratownicze.",
+      "link": "https://www.nowiny.pl/wiadomosci/251268-powazny-wypadek-w-godowie-ranny-motocyklista-zabrany-przez-lpr-zdjecia.html",
+      "published": "2026-09-30T18:39",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "cf1cbb0765744adf62c1e815388142e897cdf446",
+      "title": "Zmieniasz numer konta? ZUS ma ważną wiadomość dla rodziców pobierających 800 plus",
+      "summary": "Planujesz zmianę rachunku bankowego, na który ZUS wypłaca ci 800 plus? Nie warto zostawiać tego na ostatnią chwilę. Zakład potrzebuje do 30 dni na przetworzenie nowego wniosku, dlatego formalności związane ze zmianą numeru konta najlepiej załatwić z odpowiednim wyprzedzeniem.",
+      "link": "https://www.nowiny.pl/wiadomosci/251267-zmieniasz-numer-konta-zus-ma-wazna-wiadomosc-dla-rodzicow-pobierajacych-800-plus.html",
+      "published": "2026-09-30T18:02",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c90b54bcc43367009078f688096931c480957419",
+      "title": "Złote Gody w Gminie Gorzyce. Jubilatom wręczono medale [ZDJĘCIA]",
+      "summary": "30 września w Czyżowicach odbyła się uroczystość wręczenia medali za długoletnie pożycie małżeńskie mieszkańcom Gminy Gorzyce. Spotkanie było okazją do uhonorowania małżeństw, które przez wspólnie przeżyte lata udowodniły, że wzajemne wsparcie, szacunek i przywiązanie stanowią fundament trwałego…",
+      "link": "https://www.nowiny.pl/wiadomosci/251241-zlote-gody-w-gminie-gorzyce-jubilatom-wreczono-medale-zdjecia.html",
+      "published": "2026-09-30T16:45",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1569c18ce38d5c24f294de0a45ca5d3a4e2c02e4",
+      "title": "Hospicjum w Rybniku czeka na kontrakt z NFZ. Kiedy to nastąpi?",
+      "summary": "Kiedy hospicjum w Rybniku zacznie przyjmować pierwszych pacjentów? Mówiliśmy w Radiu 90, że placówka prowadzi nabór chętnych do pracy. Napłynęło ponad 600 podań i trwa ich weryfikacja by ostatecznie wyłonić kadrę, która będzie pracowała w hospicjum.",
+      "link": "https://www.radio90.pl/hospicjum-w-rybniku-czeka-na-kontrakt-z-nfz-kiedy-to-nastapi.html",
+      "published": "2026-09-30T15:45",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1906d2474a07ef2be0d652d26074c18f0a4bec79",
+      "title": "Weekend Seniora z Kulturą w Rybniku. Co przygotowano, jaki jest plan wydarzenia?",
+      "summary": "Weekend seniora z kulturą w halo!Rybnik. Punkt Informacji Miejskiej na deptaku w pierwszy weekend października dołącza do akcji zainicjowanej przez Ministerstwo Kultury i Dziedzictwa Narodowego.",
+      "link": "https://www.radio90.pl/weekend-seniora-z-kultura-w-rybniku-co-przygotowano-jaki-jest-plan-wydarzenia.html",
+      "published": "2026-09-30T15:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "918348cbe95ef2031e55ee4e9a1ce547227360c0",
+      "title": "Mają pociąg do nauki i wybierają Koleje Śląskie",
+      "summary": "Rozpoczęcie roku akademickiego oznacza, że na drogach przybędzie samochodów, a poranne i popołudniowe korki będą jeszcze dłuższe. Studentów przybędzie też w pociągach Kolei Śląskich, statystycznie będzie ich dwukrotnie więcej niż we wrześniu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251270-maja-pociag-do-nauki-i-wybieraja-koleje-slaskie.html",
+      "published": "2026-09-30T15:30",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7224cf4ae72cab947f270a1be4ab9fff57d874de",
+      "title": "Bercik zawitał do Wodzisławia. Krzysztof Hanke gwiazdą Dnia Seniora [ZDJĘCIA]",
+      "summary": "W Wodzisławskim Centrum Kultury odbył się Wodzisławski Dzień Seniora. Spotkanie, które odbyło się 30 września, połączyło część informacyjną, artystyczną i integracyjną. Jednym z głównych punktów wydarzenia było spotkanie z Krzysztofem Hanke – aktorem, satyrykiem i artystą Kabaretu Rak, znanym…",
+      "link": "https://www.nowiny.pl/wiadomosci/251223-bercik-zawital-do-wodzislawia-krzysztof-hanke-gwiazda-dnia-seniora-zdjecia.html",
+      "published": "2026-09-30T15:30",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0d76429e61c77f2c061aa063b0fb46581e6d272d",
+      "title": "Budżet obywatelski w Rybniku. Mieszkańcy Orzepowic pytają co z ich projektami?",
+      "summary": "Co z inwestycjami w ramach ubiegłorocznego budżetu obywatelskiego? Dlaczego wciąż nie zostały zrealizowane w naszej dzielnicy? - pytają w mailu do redakcji Radia 90 mieszkańcy rybnickiej dzielnicy Orzepowice.",
+      "link": "https://www.radio90.pl/budzet-obywatelski-w-rybniku-mieszkancy-orzepowic-pytaja-co-z-ich-projektami.html",
+      "published": "2026-09-30T14:15",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "d8fb10ca3503f8fe16d4f52d2b68fc45767206ee",
       "title": "Targi Zdrowia w Czerwionce- Leszczynach. Sporo można się dowiedzieć o swoim ciele [PATRONAT]",
@@ -23,21 +129,21 @@
       "priority": "NORMAL"
     },
     {
-      "id": "a1ff80fd1fde94a908b69f19acd063e9abdd8d39",
-      "title": "Czy samochód bez aktualnego przeglądu można legalnie sprzedać?",
-      "summary": "Termin badania technicznego minął, a właściciel planuje sprzedaż samochodu. Czy przed podpisaniem umowy trzeba najpierw odwiedzić stację kontroli pojazdów? Nie. Brak aktualnego badania technicznego nie uniemożliwia legalnej sprzedaży auta. Ma jednak znaczenie dla możliwości poruszania się nim po…",
-      "link": "https://www.nowiny.pl/wiadomosci/251264-czy-samochod-bez-aktualnego-przegladu-mozna-legalnie-sprzedac.html",
-      "published": "2026-09-30T11:00",
+      "id": "1d467e91beeb082e2a92ceea9c5f39ba59ed67b2",
+      "title": "Dwie nowe windy i czerpnia wody - kosztowne inwestycje w Wojewódzkim Szpitalu Chorób Płuc w Wodzisławiu [ZDJĘCIA]",
+      "summary": "Spore zmiany nastąpiły w Wojewódzkim Szpitalu Chorób Płuc im. dr. Alojzego Pawelca w Wodzisławiu Śląskim. Oddano tam do uzytku dwie nowe windy, które już pomagają w poruszaniu się po obiekcie pacjentom. Kolejną inwestycją jest również czerpnia wody w podziemiach placówki, pozwalająca na…",
+      "link": "https://www.nowiny.pl/wiadomosci/251266-dwie-nowe-windy-i-czerpnia-wody-kosztowne-inwestycje-w-wojewodzkim-szpitalu-chorob-pluc-w-wodzislawiu-zdjecia.html",
+      "published": "2026-09-30T11:14",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
     },
     {
-      "id": "1a69e4c395d319d3543e5d04cc8782a6487a5ee1",
-      "title": "Pęknięcie podczas remontu budynku przy Gliwickiej. Przyczyna nadal nieznana",
-      "summary": "Podczas remontu budynku przy ul. Gliwickiej 44 w Rybniku pojawiło się pęknięcie ściany zewnętrznej. O sprawie poinformowali nas mieszkańcy. ZGM potwierdza, że wie o uszkodzeniu i monitoruje je za pomocą szczelinomierzy. Na razie nie wiadomo jednak, co spowodowało pęknięcie. Zakład dopiero zleci…",
-      "link": "https://www.nowiny.pl/wiadomosci/251258-pekniecie-podczas-remontu-budynku-przy-gliwickiej-przyczyna-nadal-nieznana.html",
-      "published": "2026-09-30T09:50",
+      "id": "a1ff80fd1fde94a908b69f19acd063e9abdd8d39",
+      "title": "Czy samochód bez aktualnego przeglądu można legalnie sprzedać?",
+      "summary": "Termin badania technicznego minął, a właściciel planuje sprzedaż samochodu. Czy przed podpisaniem umowy trzeba najpierw odwiedzić stację kontroli pojazdów? Nie. Brak aktualnego badania technicznego nie uniemożliwia legalnej sprzedaży auta. Ma jednak znaczenie dla możliwości poruszania się nim po…",
+      "link": "https://www.nowiny.pl/wiadomosci/251264-czy-samochod-bez-aktualnego-przegladu-mozna-legalnie-sprzedac.html",
+      "published": "2026-09-30T11:00",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -93,26 +199,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "31526e91abf0a16b8fc28cf5c916856f4383a484",
-      "title": "3 sposoby na ocieplenie Twojego domu – możesz zrobić to dobrze i na lata!",
-      "summary": "Celuloza, wełna mineralna i styropian mogą ograniczyć straty ciepła, ale sprawdzają się w różnych częściach budynku. Wybór materiału dopasuj do konstrukcji ścian lub dachu, stanu podłoża i sposobu wentylowania przegrody. Sama grubość izolacji nie wystarczy: liczy się też ciągłość warstwy…",
-      "link": "https://www.nowiny.pl/wiadomosci/251265-3-sposoby-na-ocieplenie-twojego-domu-mozesz-zrobic-to-dobrze-i-na-lata.html",
-      "published": "2026-09-30T08:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ca14a46ef3aaa191eb18f87951cbf173e1643920",
-      "title": "Różaniec na kole znów połączy Rogów z Bohuminem. W niedzielę rowerowa pielgrzymka [ZAPOWIEDŹ]",
-      "summary": "Różaniec, rowery i wspólna droga do Bohumina. W niedzielę, 4 października, z parafii Najświętszego Serca Pana Jezusa w Rogowie wyruszy kolejny „Różaniec na kole”. Tym razem celem będzie parafia ojców franciszkanów Narodzenia Najświętszej Maryi Panny w Bohuminie.",
-      "link": "https://www.nowiny.pl/wiadomosci/251257-rozaniec-na-kole-znow-polaczy-rogow-z-bohuminem-w-niedziele-rowerowa-pielgrzymka-zapowiedz.html",
-      "published": "2026-09-30T07:48",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "4e2622b13476d60ca9405f3ffe54bf95040aed91",
       "title": "Statystyki policyjne za ostatnią dobę. Tragiczne zdarzenia w naszym regionie. Problemy na A1",
       "summary": "176 zdarzeń, 8 osób rannych, niestety jedna osoba nie żyje. To podsumowanie wtorku (29.09) na drogach województwa śląskiego.",
@@ -120,36 +206,6 @@
       "published": "2026-09-30T07:35",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "4c85c6a9348eae925f6015e062bbef9d7f8a00b8",
-      "title": "W niedzielę jarmark staroci w Wodzisławiu. Rynek znów wypełnią przedmioty z historią [ZAPOWIEDŹ]",
-      "summary": "W niedzielę, 4 października, na wodzisławskim rynku ponownie pojawią się stoiska pełne antyków, książek, porcelany, monet i innych przedmiotów z historią. Jarmark staroci rozpocznie się o godz. 8.00 i potrwa do 14.00.",
-      "link": "https://www.nowiny.pl/wiadomosci/251255-w-niedziele-jarmark-staroci-w-wodzislawiu-rynek-znow-wypelnia-przedmioty-z-historia-zapowiedz.html",
-      "published": "2026-09-30T07:35",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "012d3f33aa1ca886fbf102db3b3160e534de2392",
-      "title": "WSKZ: studia podyplomowe. Opinie o organizacji nauki i możliwościach rozwoju",
-      "summary": "Osoby rozważające dalsze kształcenie często sprawdzają nie tylko program wybranych studiów, ale również sposób ich realizacji i możliwości, jakie mogą otworzyć w dalszym rozwoju. Dlatego opinie o studiach podyplomowych w WSKZ interesują kandydatów, którzy chcą lepiej poznać zarówno ofertę Uczelni…",
-      "link": "https://www.nowiny.pl/nie-przegap/251254-wskz-studia-podyplomowe-opinie-o-organizacji-nauki-i-mozliwosciach-rozwoju.html",
-      "published": "2026-09-30T07:29",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "9de7da3e0cffa6cb88ee5f25efe6a6f44a2fed3c",
-      "title": "19-latka zginęła w Rudach. Policja podała, jak doszło do tragicznego wypadku",
-      "summary": "Policjanci odtworzyli wstępny przebieg tragedii na DW919. Postępowanie w sprawie dokładnych przyczyn wypadku nadal trwa.",
-      "link": "https://www.nowiny.pl/wiadomosci/251253-19-latka-zginela-w-rudach-policja-podala-jak-doszlo-do-tragicznego-wypadku.html",
-      "published": "2026-09-30T06:42",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -163,26 +219,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "47546b177f0c1433ada1a5cfa4fac543728ffd92",
-      "title": "95 nowych Ekopracowni pod chmurką. Lekcje wyjdą ze szkolnych sal",
-      "summary": "W 95 szkołach w województwie śląskim powstaną nowe Ekopracownie pod chmurką. Wśród laureatów czwartej edycji konkursu znalazły się także placówki z Raciborza, Rybnika, Jastrzębia-Zdroju i powiatów wodzisławskiego, raciborskiego oraz rybnickiego.",
-      "link": "https://www.nowiny.pl/ekonowiny/251251-95-nowych-ekopracowni-pod-chmurka-lekcje-wyjda-ze-szkolnych-sal.html",
-      "published": "2026-09-30T06:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "03a28bce92336eaa00c8ce4a8401fc1b802881f3",
-      "title": "Trzy dni zbiórek dla hospicjum. Można już zgłaszać się do pomocy",
-      "summary": "Hospicjum im. Jana Pawła II w Żorach przygotowuje kolejną edycję akcji „Zapalmy Płomyk Nadziei”. Zbiórki przy cmentarzach zaplanowano na 31 października oraz 1 i 2 listopada. Trwa nabór wolontariuszy.",
-      "link": "https://ezory.pl/wiadomosci/251249-trzy-dni-zbiorek-dla-hospicjum-mozna-juz-zglaszac-sie-do-pomocy.html",
-      "published": "2026-09-30T05:11",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "82ae100d26d475256624688f7f69e82f375113ac",
       "title": "Dachowanie w Bogunicach. Na szczęście nie ma osób poszkodowanych",
       "summary": "Uważajcie o poranku na drogach. Mamy informacje sprzed chwili. Około godziny 6.30 w Bogunicach na ulicy Raciborskiej dachowało auto osobowe.",
@@ -190,16 +226,6 @@
       "published": "2026-09-30T05:07",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c6358ccc771129fa752ab313f75c5bb486dcdc96",
-      "title": "Ile zarabiają lekarze w Żorach?",
-      "summary": "773 tys. zł na kontrakcie i 762 tys. zł na etacie – to najwyższe roczne wynagrodzenia lekarzy wykazane przez Miejskie Zakłady Opieki Zdrowotnej w Żorach w odpowiedzi na pytania Nowin. Sprawdziliśmy, ile łącznie zarobili najlepiej opłacani medycy i jak te kwoty wyglądają na tle finansów miejskiej…",
-      "link": "https://ezory.pl/wiadomosci/251102-ile-zarabiaja-lekarze-w-zorach.html",
-      "published": "2026-09-30T05:00",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -373,16 +399,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "1906d2474a07ef2be0d652d26074c18f0a4bec79",
-      "title": "Weekend Seniora z Kulturą w Rybniku. Co przygotowano, jaki jest plan wydarzenia?",
-      "summary": "Weekend seniora z kulturą w halo!Rybnik. Punkt Informacji Miejskiej na deptaku w pierwszy weekend października dołącza do akcji zainicjowanej przez Ministerstwo Kultury i Dziedzictwa Narodowego.",
-      "link": "https://www.radio90.pl/weekend-seniora-z-kultura-w-rybniku-co-przygotowano-jaki-jest-plan-wydarzenia.html",
-      "published": "2026-09-28T09:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "3580343cc4c592f0e7aedb689c945f706f996dc5",
       "title": "Ten telefon od oszusta, kosztował go 800 tysięcy złotych! Policja ostrzega",
       "summary": "To miała być akcja ratowania pieniędzy. Skończyło się ogromną stratą. 27-letni mieszkaniec powiatu rybnickiego padł ofiarą oszustów, którzy podszywali się pod pracowników banku i policjantów. Mężczyzna stracił około 800 tysięcy złotych.",
@@ -433,16 +449,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "011a531f4b27b63c7b38359006650c33eca9689a",
-      "title": "OFPA: Anna Drewniok zwyciężczynią tegorocznej jubileuszowej edycji. „Przyjechałam do Rybnika zaśpiewać i wygrać”",
-      "summary": "Anna Drewniok wygrała tegoroczny jubileuszowy 30. Ogólnopolski Festiwal Piosenki Artystycznej, OFPA 2026. Rybniczanka na co dzień mieszkająca na Wyspach Brytyjskich przyjechała specjalnie do Rybnika na festiwal.",
-      "link": "https://www.radio90.pl/ofpa-anna-drewniok-zwyciezczynia-tegorocznej-jubileuszowej-edycji-przyjechalam-do-rybnika-zaspiewac-i-wygrac.html",
-      "published": "2026-09-28T04:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "d94d019a141a1c824593f34c2c997e79d7837a0f",
       "title": "Zobacz na własne oczy odnowioną salę sesyjną i poznaj jej niesamowitą historię",
       "summary": "Już 1 października w godzinach 8:00–18:00 Urząd Miasta otwiera drzwi odrestaurowanej sali sesyjnej dla wszystkich mieszkańców. To wyjątkowa okazja, by z bliska przyjrzeć się historycznym detalom oraz poznać niezwykłe losy stuletniego krucyfiksu, który przetrwał wojnę i PRL.",
@@ -460,16 +466,6 @@
       "published": "2026-09-28T00:00",
       "source": "rybnik.eu",
       "category": "Wydarzenia",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "09f1bd02a7dbec08b8c1f114a705426d821c7635",
-      "title": "Trwa rozbudowa ul. Grota-Roweckiego w Rybniku. Kanalizacja deszczowa już gotowa, teraz prace brukarskie [ZDJĘCIA]",
-      "summary": "Wszyscy użytkownicy ruchu drogowego - kierowcy, rowerzyści oraz piesi - mają skorzystać na drogowej inwestycji, jaka aktualnie realizowana jest w rybnickiej dzielnicy Niewiadom. Trwa tam rozbudowa ulicy Grota-Roweckiego. Jak informują w rybnickim magistracie, jest to już drugi etap rozbudowy tej…",
-      "link": "https://www.radio90.pl/trwa-rozbudowa-ul-grota-roweckiego-w-rybniku-kanalizacja-deszczowa-juz-gotowa-teraz-prace-brukarskie-zdjecia.html",
-      "published": "2026-09-27T16:30",
-      "source": "Radio 90",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -803,16 +799,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "caba457f0f92df52a1612c566058806f0b53cd18",
-      "title": "Zapowiedzi sportowe - wrzesień",
-      "summary": "W najbliższy weekend nie zabraknie emocji dla kibiców rybnickiego sportu. Nowy sezon – w meczach domowych – rozpoczynają koszykarki i siatkarze. O punkty przy ul. Gliwickiej powalczą piłkarze.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zapowiedzi-sportowe-wrzesien",
-      "published": "2026-09-24T00:00",
-      "source": "rybnik.eu",
-      "category": "Sport",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a96440cb96928e20c5cb8c11c81ef15814fb0343",
       "title": "Zmienia się park przy Gliwickiej. Trwa renowacja",
       "summary": "Park im. św. Jana Sarkandra przy ul. Gliwickiej/Cegielnianej zmienia się krok po kroku. W ramach prowadzonej renowacji trwają obecnie prace przy ścieżkach, nawierzchni oraz instalacji elektrycznej i oświetleniu.",
@@ -833,13 +819,13 @@
       "priority": "NORMAL"
     },
     {
-      "id": "82c299cd0e543daadf907c812046f6cd29fe4b35",
-      "title": "Przedwojenny krucyfiks w sali sesyjnej",
-      "summary": "Nad drzwiami, w wyremontowanej sali sesyjnej im. Władysława Webera zawisł ponadstuletni krucyfiks. Jego historia jest dość niezwykła…",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/przedwojenny-krucyfiks-w-sali-sesyjnej",
+      "id": "caba457f0f92df52a1612c566058806f0b53cd18",
+      "title": "Zapowiedzi sportowe - wrzesień",
+      "summary": "W najbliższy weekend nie zabraknie emocji dla kibiców rybnickiego sportu. Nowy sezon – w meczach domowych – rozpoczynają koszykarki i siatkarze. O punkty przy ul. Gliwickiej powalczą piłkarze.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zapowiedzi-sportowe-wrzesien",
       "published": "2026-09-24T00:00",
       "source": "rybnik.eu",
-      "category": "Urząd Miasta",
+      "category": "Sport",
       "priority": "NORMAL"
     },
     {
@@ -861,26 +847,6 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
-    },
-    {
-      "id": "44d71b27afbdbd113919edaf813e1e81a01e82ec",
-      "title": "Przemysłowa 22 czeka na remont",
-      "summary": "Budynek ma przejść kompleksową modernizację, która obejmie mieszkania, części wspólne oraz wszystkie najważniejsze instalacje. W postępowaniu uczestniczą trzy firmy, a najtańsza zadeklarowała realizację zadania za ponad 9 mln zł.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/przemyslowa-22-czeka-na-remont",
-      "published": "2026-09-21T00:00",
-      "source": "rybnik.eu",
-      "category": "Inwestycje",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6762670b8032c3cada6f6193f05976fb805d29ff",
-      "title": "Miasto kupuje teren przy zamkniętej Biedronce",
-      "summary": "Podczas najbliższej sesji Rady Miasta Rybnika radni zdecydują o zakupie działek o powierzchni ponad 1,1 ha, na których znajdują się obiekty handlowe, usługowe i biurowe.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/miasto-kupuje-teren-przy-zamknietej-biedronce",
-      "published": "2026-09-21T00:00",
-      "source": "rybnik.eu",
-      "category": "Inwestycje",
-      "priority": "NORMAL"
     },
     {
       "id": "71c68498e94c20bc3aa27f361eaa0e90679eba3e",
@@ -913,6 +879,26 @@
       "priority": "NORMAL"
     },
     {
+      "id": "44d71b27afbdbd113919edaf813e1e81a01e82ec",
+      "title": "Przemysłowa 22 czeka na remont",
+      "summary": "Budynek ma przejść kompleksową modernizację, która obejmie mieszkania, części wspólne oraz wszystkie najważniejsze instalacje. W postępowaniu uczestniczą trzy firmy, a najtańsza zadeklarowała realizację zadania za ponad 9 mln zł.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/przemyslowa-22-czeka-na-remont",
+      "published": "2026-09-21T00:00",
+      "source": "rybnik.eu",
+      "category": "Inwestycje",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6762670b8032c3cada6f6193f05976fb805d29ff",
+      "title": "Miasto kupuje teren przy zamkniętej Biedronce",
+      "summary": "Podczas najbliższej sesji Rady Miasta Rybnika radni zdecydują o zakupie działek o powierzchni ponad 1,1 ha, na których znajdują się obiekty handlowe, usługowe i biurowe.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/miasto-kupuje-teren-przy-zamknietej-biedronce",
+      "published": "2026-09-21T00:00",
+      "source": "rybnik.eu",
+      "category": "Inwestycje",
+      "priority": "NORMAL"
+    },
+    {
       "id": "e049a27530751ed922e87b2a0b36be46e89cdc93",
       "title": "Planowane wyłączenia prądu w Rybniku i powiecie. Sprawdź harmonogram",
       "summary": "Mieszkańcy Rybnika i powiatu rybnickiego powinni przygotować się na kilka planowanych przerw w dostawie energii. Sprawdź, kiedy zabraknie prądu i których ulic dotyczą wyłączenia.",
@@ -933,16 +919,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "e9989848e3889950307d5f76453472ac52b08cb9",
-      "title": "Postępy prac na ul. Grota-Roweckiego",
-      "summary": "Trwa realizacja drugiego etapu rozbudowy ulicy Grota-Roweckiego w Rybniku-Niewiadomiu. Inwestycja jest dofinansowana z Rządowego Funduszu Rozwoju Dróg.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/postepy-prac-na-ul-grota-roweckiego",
-      "published": "2026-09-18T00:00",
-      "source": "rybnik.eu",
-      "category": "Inwestycje",
-      "priority": "NORMAL"
-    },
-    {
       "id": "f40e419e6ecb586444c970f72b3bb7d650a2b793",
       "title": "Rusza budowa łącznika ulic Kominka i Orzepowickiej",
       "summary": "Od poniedziałku 21 września ulica Jośki zostanie częściowo zamknięta z powodu prac rozbiórkowych i budowy kanalizacji deszczowej. Sprawdź, jak dojechać do Młodzieżowego Domu Kultury na czas trwania robót.",
@@ -950,6 +926,16 @@
       "published": "2026-09-18T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e9989848e3889950307d5f76453472ac52b08cb9",
+      "title": "Postępy prac na ul. Grota-Roweckiego",
+      "summary": "Trwa realizacja drugiego etapu rozbudowy ulicy Grota-Roweckiego w Rybniku-Niewiadomiu. Inwestycja jest dofinansowana z Rządowego Funduszu Rozwoju Dróg.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/postepy-prac-na-ul-grota-roweckiego",
+      "published": "2026-09-18T00:00",
+      "source": "rybnik.eu",
+      "category": "Inwestycje",
       "priority": "NORMAL"
     },
     {
@@ -1061,6 +1047,16 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
+    },
+    {
+      "id": "f7afd99998f3dff80aa43bcc47770dd6f120c453",
+      "title": "Duże mieszkanie w centrum czeka na najemcę.",
+      "summary": "Mieszkanie komunalne o powierzchni 138 m² czeka na najemcę. Lokal przy ul. Rzecznej 4/10 zostanie wystawiony na licytację już 16 września. Przyszły najemca będzie zobowiązany do przeprowadzenia niezbędnego remontu.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/duze-mieszkanie-w-centrum-czeka-na-najemce",
+      "published": "2026-09-08T00:00",
+      "source": "rybnik.eu",
+      "category": "Komunikaty",
+      "priority": "NORMAL"
     },
     {
       "id": "8cef111c0b5a56aa7f14dd39257cc86e07fa3831",

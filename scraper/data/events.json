@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:34:36",
+  "generated_at": "2026-09-30T22:16:04",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -10,28 +10,6 @@
   "count": 170,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-wianki-wspomnien-warsztaty-tekstylne",
-      "title": "Wianki Wspomnień – warsztaty tekstylne",
-      "category": "Warsztaty",
-      "start": "2026-09-30T17:30",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Skrawki tkanin mogą skrywać całe historie — podczas warsztatów w Rybniku zamienią się w niepowtarzalny wianek do powieszenia w domu. Można przynieść własne materiały albo skorzystać z tkanin dostępnych na miejscu. Kiedy: środa, 30 września 2026 r., godz. 17:30–20:10 Gdzie: Grunwaldzka 64, Rybnik Cena: 160 zł za osobę Liczba miejsc jest ograniczona do 6–8 osób. Rezerwacja odbywa się mailowo pod adresem [email protected] i wymaga przedpłaty lub płatności BLIK na numer 690 047 990 . Podczas spotkania uczestnicy będą dobierać kolory, wzory i faktury, a następnie kawałek po kawałku układać z nich własną dekorację. Mogą to być na przykład fragmenty starej zasłony, apaszki, dziecięcego ubranka czy koszuli bliskiej osoby. Nie trzeba jednak przynosić własnych tkanin — podstawowe materiały są wliczone w cenę warsztatów.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/wianki-wspomnien-warsztaty-tekstylne"
-    },
-    {
-      "id": "iryb-yoga-dzikich-dzieci-w-rybniku",
-      "title": "Yoga Dzikich Dzieci w Rybniku",
-      "category": "DlaDzieci",
-      "start": "2026-09-30T17:30",
-      "end": null,
-      "venue": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku",
-      "description": "W Bibliotece Głównej w Rybniku dzieci mogą poznawać jogę bez presji i „siedzenia grzecznie”. Yoga Dzikich Dzieci łączy ruch, oddech, zabawę i chwile wyciszenia — w sam raz dla młodych osób, które mają mnóstwo energii albo potrzebują odpocząć od ekranów. Kiedy: 30 września 2026 roku (środa), godz. 17:30–20:30 Gdzie: Biblioteka Główna, ul. ks. Józefa Szafranka 7, Rybnik Cena: nie podano informacji o cenie. Zapisy i pytania: 693 383 777; można wysłać SMS z imieniem dziecka i dopiskiem „środa 17:30”. Zajęcia prowadzi Elwira Zembrzuska z YogaRybnik.com. Warto zabrać matę, jeśli jest dostępna; w razie jej braku można ustalić inną możliwość telefonicznie. Podczas spotkania dzieci poznają pozycje inspirowane zwierzętami, poruszają się, słuchają historii i ćwiczą oddech. Nie ma oceniania ani rywalizacji — ważniejsze są swoboda, ciekawość i dobra zabawa. Na zakończenie przewidziano moment wyciszenia.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/yoga-dzikich-dzieci-w-rybniku"
-    },
     {
       "id": "iryb-dzien-otwarty-w-sali-sesyjnej",
       "title": "Dzień otwarty w sali sesyjnej",
@@ -341,6 +319,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/koncert-jubileuszowy-z-okazji-30-lecia-towarzystwa-muzycznego-im-braci-szafrankow-w-rybniku"
     },
     {
+      "id": "iryb-mobilny-klub-seniora",
+      "title": "Mobilny Klub Seniora",
+      "category": "Warsztaty",
+      "start": "2026-10-05T00:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Seniorzy z Gminy i Miasta Czerwionka-Leszczyny będą mogli skorzystać z bezpłatnych zajęć, które łączą aktywność ruchową, rozwijanie zainteresowań i praktyczną wiedzę. Mobilny Klub Seniora ma wspierać uczestników w dbaniu o sprawność, samopoczucie i bezpieczeństwo na co dzień. Wydarzenie zaplanowano na 5 października 2026 roku . Zajęcia mają odbywać się w każdy poniedziałek w październiku i listopadzie, w jednej z dwóch lokalizacji: Godzina zajęć nie została podana. Szczegółowy harmonogram będzie ustalony po zakończeniu rekrutacji. Informacje i zapisy są dostępne pod numerem telefonu 795 498 073 . Program Mobilnego Klubu Seniora obejmuje cztery rodzaje zajęć:",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/mobilny-klub-seniora"
+    },
+    {
       "id": "bilnya-drugie-zycie-202610051530",
       "title": "Drugie życie",
       "category": "Film",
@@ -537,6 +526,17 @@
       "description": "Monety, banknoty i historie zapisane w pieniądzu będą głównymi bohaterami tego spotkania w Rybniku. To dobra okazja, by wymienić się ciekawymi egzemplarzami, uporządkować swoją kolekcję i porozmawiać z innymi pasjonatami — warto zajrzeć, zwłaszcza przy okazji jarmarku staroci. Spotkanie jest skierowane do osób zainteresowanych numizmatyką — zarówno tych, którzy od lat rozwijają swoje zbiory, jak i początkujących kolekcjonerów. W programie przewidziano wymianę oraz katalogowanie monet i innych znaków pieniężnych. Rozmowy mogą dotyczyć między innymi pochodzenia poszczególnych egzemplarzy, obszaru, na którym były używane, oraz osób i grup, do których trafiały. Nie zabraknie też ciekawostek związanych z dodatkowymi funkcjami monet czy banknotów. Wydarzenie towarzyszy jarmarkowi staroci, który odbywa się zazwyczaj w drugą sobotę miesiąca na rybnickim deptaku. Dzięki temu numizmatycy mogą połączyć spotkanie z przeglądaniem stoisk pełnych przedmiotów z historią, pamiątek i kolekcjonerskich skarbów.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/spotkanie-milosnikow-numizmatow-w-rybniku"
+    },
+    {
+      "id": "iryb-spotkanie-edukacyjne-misja-72-ekstremalne-zjawiska-pogodowe",
+      "title": "Spotkanie edukacyjne MISJA/72: Ekstremalne zjawiska pogodowe",
+      "category": "Wystawa",
+      "start": "2026-10-10T10:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Jak przygotować się na fale upałów, suszę, intensywne opady czy burze? O tym będzie można porozmawiać podczas bezpłatnego spotkania edukacyjnego w Rybniku. Wydarzenie ma pomóc mieszkańcom i lokalnym środowiskom lepiej przygotować się na skutki ekstremalnych zjawisk pogodowych. Spotkanie zaplanowano na 10 października 2026 roku o godz. 10:00 w Galerii Sztuki Rzeczna w Rybniku . Udział jest bezpłatny, ale wymaga wcześniejszego zgłoszenia. Zapisy trwają do 5 października , a liczba miejsc jest ograniczona. Wydarzenie odbędzie się w ramach programu „Budowanie odporności społeczności lokalnych – Misja/72”. Jego pełna nazwa brzmi: „Spotkanie edukacyjne MISJA/72: Jak przygotować się na ekstremalne zjawiska pogodowe?”",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/spotkanie-edukacyjne-misja-72-ekstremalne-zjawiska-pogodowe"
     },
     {
       "id": "iryb-warsztaty-bachata-ladies-vol-7-w-rybniku",
@@ -1540,15 +1540,15 @@
       "sourceUrl": "https://www.dkchwalowice.pl/?news=51940"
     },
     {
-      "id": "bilnya-30-rybnicka-jesien-kabaretowa-ryjek-2026-dzien-2-202611201730",
-      "title": "30.Rybnicka Jesień Kabaretowa RYJEK 2026 - Dzień 2",
+      "id": "tzr-30-rybnicka-jesien-kabaretowa-ryjek-2026-konkurs-glowny-czi-i-konkurs-shortow",
+      "title": "30. Rybnicka Jesień Kabaretowa RYJEK 2026 - Konkurs Główny cz.I i KONKURS SHORTÓW",
       "category": "Kabaret",
       "start": "2026-11-20T17:30",
       "end": "2026-11-20T19:00",
-      "venue": "Klub Energetyka, ul. Podmiejska 43",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/30Rybnicka-Jesien-Kabaretowa-RYJEK-2026-Dzien-2?eid=708203#opis"
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "KONKURS GŁÓWNY cz. I Udział wezmą: Kabaret DNO Fair Play Crew Kabaret Jurki Łowcy.B Układ Komediowy Zdolni i Skromni Tematy konkurencji: „Czyje to są majtki\" „Płuco” „Którędy na szczyt?”",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/30-rybnicka-jesien-kabaretowa-ryjek-2026-konkurs-glowny-czi-i-konkurs-shortow.html"
     },
     {
       "id": "iryb-bimber-i-marakasy-w-rybniku",
@@ -1595,15 +1595,15 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/warsztaty-wokalne-rock-voices-festival-2026-w-dk-boguszowice/"
     },
     {
-      "id": "bilnya-30-rybnicka-jesien-kabaretowa-ryjek-2026-dzien-3-202611211630",
-      "title": "30.Rybnicka Jesień Kabaretowa RYJEK 2026 - Dzień 3",
+      "id": "tzr-30-rybnicka-jesien-kabaretowa-ryjek-2026-konkurs-glowny-czii-i-konkurs-o-melodyjna-nagrode-im-artura",
+      "title": "30. Rybnicka Jesień Kabaretowa RYJEK 2026 - Konkurs Główny cz.II i KONKURS O MELODYJNĄ NAGRODĘ IM. ARTURA",
       "category": "Kabaret",
       "start": "2026-11-21T16:30",
       "end": "2026-11-21T18:00",
-      "venue": "Klub Energetyka, ul. Podmiejska 43",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/30Rybnicka-Jesien-Kabaretowa-RYJEK-2026-Dzien-3?eid=708205#opis"
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "KONKURS GŁÓWNY cz. II Udział wezmą: Kabaret DNO Fair Play Crew Kabaret Jurki Łowcy.B Układ Komediowy Zdolni i Skromni Tematy konkurencji: „To takie polskie” „Specjaliści” „Na końcu jest liczenie”",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/30-rybnicka-jesien-kabaretowa-ryjek-2026-konkurs-glowny-czii-i-konkurs-o-melodyjna-nagrode-im-artura.html"
     },
     {
       "id": "iryb-country-nad-nacyna-w-rybniku-koncert-drogi-na-ostroleke-i-im",
@@ -1628,15 +1628,15 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/rock-voices-festival-2026-koncert-finalowy-z-wojtkiem-cugowskim/"
     },
     {
-      "id": "bilnya-30-rybnicka-jesien-kabaretowa-ryjek-2026-dzien-4-202611221900",
-      "title": "30.Rybnicka Jesień Kabaretowa RYJEK 2026 - Dzień 4",
+      "id": "tzr-30-rybnicka-jesien-kabaretowa-ryjek-2026-koncert-finalowy-i-jubileuszowy-30-ryjka-telewizja-polsat",
+      "title": "30. Rybnicka Jesień Kabaretowa RYJEK 2026 - KONCERT FINAŁOWY I JUBILEUSZOWY 30. RYJKA TELEWIZJA POLSAT",
       "category": "Kabaret",
       "start": "2026-11-22T19:00",
       "end": "2026-11-22T20:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/30Rybnicka-Jesien-Kabaretowa-RYJEK-2026-Dzien-4?eid=708206#opis"
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "KONCERT FINAŁOWY I JUBILEUSZOWY 30. RYJKA. TELEWIZJA POLSAT Udział wezmą: KABARET MŁODYCH PANÓW ANI MRU MRU Laureaci Konkursów Festiwalowych Piotr Kotas Band",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/30-rybnicka-jesien-kabaretowa-ryjek-2026-koncert-finalowy-i-jubileuszowy-30-ryjka-telewizja-polsat.html"
     },
     {
       "id": "iryb-bestfit-games-rx-scaled-2026-w-rybniku",
