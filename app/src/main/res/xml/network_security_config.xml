@@ -21,6 +21,16 @@
   It expires in March 2043; by then the system stores will have caught up anyway.
 -->
 <network-security-config>
+    <!--
+      minSdk is 26, and Android only started denying cleartext by default in 9 (API 28),
+      so on 8.x an http:// URL would have gone out in the clear. Every address in the code
+      is https, but the GTFS location is not in the code: it arrives in transit_meta.json,
+      so a future feed could point anywhere. Denying cleartext outright means the Data
+      Safety answer "encrypted in transit" stays true by construction rather than by
+      inspection, and a plain-http feed fails visibly instead of quietly downgrading.
+    -->
+    <base-config cleartextTrafficPermitted="false" />
+
     <domain-config>
         <domain includeSubdomains="true">gios.gov.pl</domain>
         <domain includeSubdomains="true">km.rybnik.pl</domain>
