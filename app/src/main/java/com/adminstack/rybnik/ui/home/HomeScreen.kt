@@ -512,7 +512,7 @@ private fun AlertCard(
                 if (position != null) {
                     Text(position, style = MaterialTheme.typography.labelSmall)
                 }
-                IconButton(onClick = onHide, modifier = Modifier.size(28.dp)) {
+                IconButton(onClick = onHide, modifier = Modifier.size(48.dp)) {
                     Icon(
                         Icons.Outlined.Close,
                         contentDescription = "Ukryj komunikat",

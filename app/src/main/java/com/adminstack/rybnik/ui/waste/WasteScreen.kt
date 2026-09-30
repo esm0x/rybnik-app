@@ -1,5 +1,7 @@
 package com.adminstack.rybnik.ui.waste
 
+import androidx.compose.ui.semantics.semantics
+import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -254,7 +256,12 @@ private fun MonthView(collections: List<Collection>) {
                 .padding(horizontal = 16.dp),
             verticalAlignment = Alignment.CenterVertically,
         ) {
-            IconButton(onClick = { offset-- }, enabled = offset > 0) { Text("‹") }
+            // A bare "‹" is what a screen reader was left to announce.
+            IconButton(
+                onClick = { offset-- },
+                enabled = offset > 0,
+                modifier = Modifier.semantics { contentDescription = "Poprzedni miesiąc" },
+            ) { Text("‹") }
             Text(
                 month.format(DateTimeFormatter.ofPattern("LLLL yyyy", PL))
                     .replaceFirstChar { it.uppercase(PL) },
@@ -262,7 +269,11 @@ private fun MonthView(collections: List<Collection>) {
                 modifier = Modifier.weight(1f),
                 textAlign = TextAlign.Center,
             )
-            IconButton(onClick = { offset++ }, enabled = offset < 11) { Text("›") }
+            IconButton(
+                onClick = { offset++ },
+                enabled = offset < 11,
+                modifier = Modifier.semantics { contentDescription = "Następny miesiąc" },
+            ) { Text("›") }
         }
 
         Row(Modifier.fillMaxWidth().padding(horizontal = 12.dp)) {

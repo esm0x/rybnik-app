@@ -17,6 +17,7 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.navigation.NavDestination.Companion.hierarchy
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
@@ -99,7 +100,12 @@ fun RybnikApp(
                             selected = selected,
                             onClick = { if (!selected) navController.switchTab(tab.route) },
                             icon = { Icon(tab.icon, contentDescription = null) },
-                            label = { Text(tab.label) },
+                            // At 130% font the labels wrapped mid-word, leaving a lone
+                            // "t" from "Transport" on a second line. One line that
+                            // truncates reads as a label; two lines read as a bug.
+                            label = {
+                                Text(tab.label, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                            },
                         )
                     }
                 }

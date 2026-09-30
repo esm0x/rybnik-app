@@ -249,7 +249,7 @@ private fun NewsCard(
                     fontWeight = FontWeight.SemiBold,
                     modifier = Modifier.weight(1f),
                 )
-                IconButton(onClick = onToggleHidden, modifier = Modifier.size(28.dp)) {
+                IconButton(onClick = onToggleHidden, modifier = Modifier.size(48.dp)) {
                     Icon(
                         if (hidden) Icons.Outlined.Undo else Icons.Outlined.Close,
                         contentDescription = if (hidden) "Przywróć" else "Ukryj",
