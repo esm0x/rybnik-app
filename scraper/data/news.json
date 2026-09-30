@@ -1,13 +1,177 @@
 {
-  "generated_at": "2026-09-30T05:34:24",
+  "generated_at": "2026-09-30T12:38:06",
   "count": 120,
   "failures": [
     {
       "source": "rybnik.com.pl",
       "error": "403 Client Error: Forbidden for url: https://www.rybnik.com.pl/feed,feed0.html"
+    },
+    {
+      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikaty",
+      "error": "HTTPSConnectionPool(host='www.rybnik.eu', port=443): Read timed out. (read timeout=30)"
     }
   ],
   "items": [
+    {
+      "id": "d8fb10ca3503f8fe16d4f52d2b68fc45767206ee",
+      "title": "Targi Zdrowia w Czerwionce- Leszczynach. Sporo można się dowiedzieć o swoim ciele [PATRONAT]",
+      "summary": "Targi Zdrowia w Czerwionce- Leszczynach w przyszłym tygodniu. W środę (7.10) oraz w czwartek (8.10) w Centrum Kulturalno- Edukacyjnym, wydarzenie skierowane do kobiet, poświęcone ich zdrowiu czy aktywności fizycznej.",
+      "link": "https://www.radio90.pl/targi-zdrowia-w-czerwionce-leszczynach-sporo-mozna-sie-dowiedziec-o-swoim-ciele-patronat.html",
+      "published": "2026-09-30T12:20",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a1ff80fd1fde94a908b69f19acd063e9abdd8d39",
+      "title": "Czy samochód bez aktualnego przeglądu można legalnie sprzedać?",
+      "summary": "Termin badania technicznego minął, a właściciel planuje sprzedaż samochodu. Czy przed podpisaniem umowy trzeba najpierw odwiedzić stację kontroli pojazdów? Nie. Brak aktualnego badania technicznego nie uniemożliwia legalnej sprzedaży auta. Ma jednak znaczenie dla możliwości poruszania się nim po…",
+      "link": "https://www.nowiny.pl/wiadomosci/251264-czy-samochod-bez-aktualnego-przegladu-mozna-legalnie-sprzedac.html",
+      "published": "2026-09-30T11:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1a69e4c395d319d3543e5d04cc8782a6487a5ee1",
+      "title": "Pęknięcie podczas remontu budynku przy Gliwickiej. Przyczyna nadal nieznana",
+      "summary": "Podczas remontu budynku przy ul. Gliwickiej 44 w Rybniku pojawiło się pęknięcie ściany zewnętrznej. O sprawie poinformowali nas mieszkańcy. ZGM potwierdza, że wie o uszkodzeniu i monitoruje je za pomocą szczelinomierzy. Na razie nie wiadomo jednak, co spowodowało pęknięcie. Zakład dopiero zleci…",
+      "link": "https://www.nowiny.pl/wiadomosci/251258-pekniecie-podczas-remontu-budynku-przy-gliwickiej-przyczyna-nadal-nieznana.html",
+      "published": "2026-09-30T09:50",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "cea7224089337c2af565f2172fc41b61f265586b",
+      "title": "Masy wyciskowe i glasjonomery - przegląd materiałów na każdy dzień",
+      "summary": "Masy wyciskowe dzielą się na sztywne i elastyczne, a ich precyzja zależy od składu chemicznego i stabilności wymiarowej. Glasjonomery to materiały bioaktywne, uwalniające fluor, stosowane do wypełnień, cementowania i jako podkłady w stomatologii zachowawczej. Alginaty, hydrokoloidy odwracalne…",
+      "link": "https://www.nowiny.pl/wiadomosci/251256-masy-wyciskowe-i-glasjonomery-przeglad-materialow-na-kazdy-dzien.html",
+      "published": "2026-09-30T09:30",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "97f913b5a2c46db1a4bc2ab52aa121f2095d4d02",
+      "title": "Artystka uderza w OFPA: „Zostałam zdyskwalifikowana za jedno zdanie”",
+      "summary": "Jedno zdanie wypowiedziane do publiczności miało zakończyć jej udział w konkursie OFPA? Tak twierdzi Dominika Barabas, która po festiwalu opublikowała obszerny wpis w mediach społecznościowych. Podczas konferencji juror Jan Kondrak rzeczywiście mówił o zakazie „zabaw z publicznością” i możliwej…",
+      "link": "https://www.nowiny.pl/wiadomosci/251263-artystka-uderza-w-ofpa-zostalam-zdyskwalifikowana-za-jedno-zdanie.html",
+      "published": "2026-09-30T09:17",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "87daf61a8c7bb8c5f9f6808ba915c2e0d291bb5f",
+      "title": "Spotkanie z legendą kina KRZYSZTOFEM ZANUSSIM już w ten czwartek w raciborskiej Strzesze!",
+      "summary": "Raciborskie Centrum Kultury serdecznie zaprasza na spotkanie z jednym z najwybitniejszych twórców kina europejskiego KRZYSZTOFEM ZANUSSIM, które odbędzie się w najbliższy czwartek 1 października o godzinie 17:00 w Kinie Przemko, DK Strzecha (ul. Londzina 38). Po rozmowie zostanie wyemitowany film w…",
+      "link": "https://www.nowiny.pl/wiadomosci/251261-spotkanie-z-legenda-kina-krzysztofem-zanussim-juz-w-ten-czwartek-w-raciborskiej-strzesze.html",
+      "published": "2026-09-30T08:51",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "23ce4dab460fa474e1930736a7f46363644e9cec",
+      "title": "\"Piotr Woźniak śpiewa Tadeusza\". Wyjątkowy koncert w Przystanku Kulturalnym Koniec Świata",
+      "summary": "Przystanek Kulturalny Koniec Świata w Raciborzu zaprasza na wyjątkowy wieczór z muzyką Tadeusza Woźniaka. Koncert \"Piotr Woźniak śpiewa Tadeusza\" odbędzie się w niedzielne popołudnie 4 października o godz.19.00.",
+      "link": "https://www.nowiny.pl/wiadomosci/251260-piotr-wozniak-spiewa-tadeusza-wyjatkowy-koncert-w-przystanku-kulturalnym-koniec-swiata.html",
+      "published": "2026-09-30T08:44",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7c19e168114024bbda24bb434a3c2a663ed41a9a",
+      "title": "Doceniamy dopiero po tragedii - dlaczego? [FELIETON]",
+      "summary": "Niedawno z okazji 50‑lecia jastrzębskiego szpitala jeden z lekarzy otrzymał Medal za Ofiarność i Odwagę przyznawany przez Prezydenta Rzeczpospolitej Polski. Na pewno to miłe, że zauważono medyka, który nie wahał się stanąć w obronie zaatakowanych ludzi. Pytanie, jakie się w związku z tym nasuwa…",
+      "link": "https://jastrzebieonline.pl/opinie/251259-doceniamy-dopiero-po-tragedii-dlaczego-felieton.html",
+      "published": "2026-09-30T08:14",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "31526e91abf0a16b8fc28cf5c916856f4383a484",
+      "title": "3 sposoby na ocieplenie Twojego domu – możesz zrobić to dobrze i na lata!",
+      "summary": "Celuloza, wełna mineralna i styropian mogą ograniczyć straty ciepła, ale sprawdzają się w różnych częściach budynku. Wybór materiału dopasuj do konstrukcji ścian lub dachu, stanu podłoża i sposobu wentylowania przegrody. Sama grubość izolacji nie wystarczy: liczy się też ciągłość warstwy…",
+      "link": "https://www.nowiny.pl/wiadomosci/251265-3-sposoby-na-ocieplenie-twojego-domu-mozesz-zrobic-to-dobrze-i-na-lata.html",
+      "published": "2026-09-30T08:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ca14a46ef3aaa191eb18f87951cbf173e1643920",
+      "title": "Różaniec na kole znów połączy Rogów z Bohuminem. W niedzielę rowerowa pielgrzymka [ZAPOWIEDŹ]",
+      "summary": "Różaniec, rowery i wspólna droga do Bohumina. W niedzielę, 4 października, z parafii Najświętszego Serca Pana Jezusa w Rogowie wyruszy kolejny „Różaniec na kole”. Tym razem celem będzie parafia ojców franciszkanów Narodzenia Najświętszej Maryi Panny w Bohuminie.",
+      "link": "https://www.nowiny.pl/wiadomosci/251257-rozaniec-na-kole-znow-polaczy-rogow-z-bohuminem-w-niedziele-rowerowa-pielgrzymka-zapowiedz.html",
+      "published": "2026-09-30T07:48",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4e2622b13476d60ca9405f3ffe54bf95040aed91",
+      "title": "Statystyki policyjne za ostatnią dobę. Tragiczne zdarzenia w naszym regionie. Problemy na A1",
+      "summary": "176 zdarzeń, 8 osób rannych, niestety jedna osoba nie żyje. To podsumowanie wtorku (29.09) na drogach województwa śląskiego.",
+      "link": "https://www.radio90.pl/statystyki-policyjne-za-ostatnia-dobe-tragiczne-zdarzenia-w-naszym-regionie.html",
+      "published": "2026-09-30T07:35",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4c85c6a9348eae925f6015e062bbef9d7f8a00b8",
+      "title": "W niedzielę jarmark staroci w Wodzisławiu. Rynek znów wypełnią przedmioty z historią [ZAPOWIEDŹ]",
+      "summary": "W niedzielę, 4 października, na wodzisławskim rynku ponownie pojawią się stoiska pełne antyków, książek, porcelany, monet i innych przedmiotów z historią. Jarmark staroci rozpocznie się o godz. 8.00 i potrwa do 14.00.",
+      "link": "https://www.nowiny.pl/wiadomosci/251255-w-niedziele-jarmark-staroci-w-wodzislawiu-rynek-znow-wypelnia-przedmioty-z-historia-zapowiedz.html",
+      "published": "2026-09-30T07:35",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "012d3f33aa1ca886fbf102db3b3160e534de2392",
+      "title": "WSKZ: studia podyplomowe. Opinie o organizacji nauki i możliwościach rozwoju",
+      "summary": "Osoby rozważające dalsze kształcenie często sprawdzają nie tylko program wybranych studiów, ale również sposób ich realizacji i możliwości, jakie mogą otworzyć w dalszym rozwoju. Dlatego opinie o studiach podyplomowych w WSKZ interesują kandydatów, którzy chcą lepiej poznać zarówno ofertę Uczelni…",
+      "link": "https://www.nowiny.pl/nie-przegap/251254-wskz-studia-podyplomowe-opinie-o-organizacji-nauki-i-mozliwosciach-rozwoju.html",
+      "published": "2026-09-30T07:29",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9de7da3e0cffa6cb88ee5f25efe6a6f44a2fed3c",
+      "title": "19-latka zginęła w Rudach. Policja podała, jak doszło do tragicznego wypadku",
+      "summary": "Policjanci odtworzyli wstępny przebieg tragedii na DW919. Postępowanie w sprawie dokładnych przyczyn wypadku nadal trwa.",
+      "link": "https://www.nowiny.pl/wiadomosci/251253-19-latka-zginela-w-rudach-policja-podala-jak-doszlo-do-tragicznego-wypadku.html",
+      "published": "2026-09-30T06:42",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "71a4bb97efb459c3ae8b5bfb81869648fc71ca95",
+      "title": "Rybnik: zobacz odnowioną salę sesyjną i poznaj jej niesamowitą historię",
+      "summary": "Odnowioną salę sesyjną Urzędu Miasta Rybnika będzie można zobaczyć od środka.",
+      "link": "https://www.radio90.pl/rybnik-zobacz-odnowiona-sale-sesyjna-i-poznaj-jej-niesamowita-historie.html",
+      "published": "2026-09-30T06:10",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "47546b177f0c1433ada1a5cfa4fac543728ffd92",
+      "title": "95 nowych Ekopracowni pod chmurką. Lekcje wyjdą ze szkolnych sal",
+      "summary": "W 95 szkołach w województwie śląskim powstaną nowe Ekopracownie pod chmurką. Wśród laureatów czwartej edycji konkursu znalazły się także placówki z Raciborza, Rybnika, Jastrzębia-Zdroju i powiatów wodzisławskiego, raciborskiego oraz rybnickiego.",
+      "link": "https://www.nowiny.pl/ekonowiny/251251-95-nowych-ekopracowni-pod-chmurka-lekcje-wyjda-ze-szkolnych-sal.html",
+      "published": "2026-09-30T06:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "03a28bce92336eaa00c8ce4a8401fc1b802881f3",
       "title": "Trzy dni zbiórek dla hospicjum. Można już zgłaszać się do pomocy",
@@ -39,103 +203,13 @@
       "priority": "NORMAL"
     },
     {
-      "id": "8a38e61d659a37171ab6d4f013ce9cc52ce54bbf",
-      "title": "„Przeżyliśmy Gross-Rosen”. Wkrótce nowa wystawa w Pałacu Baranowice",
-      "summary": "Historia obozu KL Gross-Rosen, losy więźniów i materiały dokumentujące funkcjonowanie oraz likwidację obozu znajdą się na wystawie „Przeżyliśmy Gross-Rosen”. Ekspozycję będzie można oglądać od 2 do 31 października w żorskim Pałacu Baranowice.",
-      "link": "https://ezory.pl/wiadomosci/251247-przezylismy-gross-rosen-wkrotce-nowa-wystawa-w-palacu-baranowice.html",
-      "published": "2026-09-30T04:11",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "dc2d18db8983301f25d0d1dc12a840bd27a5cd95",
-      "title": "Spacer po Wodzisławiu inaczej. Uczestnicy będą „czytać” krajobraz miasta",
-      "summary": "Co o historii Wodzisławia Śląskiego można wyczytać z układu ulic, zabudowy i przestrzeni starego miasta? W sobotę, 3 października, odbędzie się spacer krajobrazowy prowadzony przez dr Katarzynę Pukowiec-Kurdę. Udział wymaga wcześniejszych zapisów.",
-      "link": "https://www.nowiny.pl/wiadomosci/251248-spacer-po-wodzislawiu-inaczej-uczestnicy-beda-czytac-krajobraz-miasta.html",
-      "published": "2026-09-30T03:28",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "128cd6bcc5090b458f36b23a3eab7e6aa2c2609a",
-      "title": "Gmina Pietrowice Wielkie zmodernizowała swoje ujęcia wody. Inwestycja o wielu wymiarach za unijną dotację z KPO",
-      "summary": "Cieszy ten dzień, kiedy możemy powiedzieć, że udało się zrealizować dużą potrzebę społeczną w postaci modernizacji ujęć wody. Są to trzy ujęcia wody: Amandów, Samborowice i Maków, gdzie jesteśmy - mówił we wtorkowy poranek wójt Adam Wajda w Makowie. W obecności m.in. wicemarszałka Grzegorza…",
-      "link": "https://www.nowiny.pl/wiadomosci/251250-gmina-pietrowice-wielkie-zmodernizowala-swoje-ujecia-wody-inwestycja-o-wielu-wymiarach-za-unijna-dotacje-z-kpo.html",
-      "published": "2026-09-29T21:21",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8d41b6c40ddc4ef3a43570bb8abfb561e0fb06a5",
-      "title": "Z Samborowic do Bawarii. Andrzej Białas uhonorowany za badanie losów robotników przymusowych",
-      "summary": "Urodzony w Raciborzu i pochodzący z Samborowic Andrzej Marcin Białas otrzymał Medal „Opiekun Miejsc Pamięci Narodowej”. Od lat bada losy robotników przymusowych, a szczególne miejsce w jego działalności zajmuje pamięć o niemowlętach robotnic przymusowych w Bawarii i Austrii.",
-      "link": "https://www.nowiny.pl/wiadomosci/251246-z-samborowic-do-bawarii-andrzej-bialas-uhonorowany-za-badanie-losow-robotnikow-przymusowych.html",
-      "published": "2026-09-29T19:52",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "ALERT"
-    },
-    {
-      "id": "f0c983f5ac3b6c78e435d449a56efdf52a53e72b",
-      "title": "Gmina Rudnik doceniła młode talenty. Kto znalazł się wśród nagrodzonych? [ZDJĘCIA]",
-      "summary": "W roku szkolnym 2025/2026 uczniowie ze szkół podstawowych gminy Rudnik aktywnie rozwijali swoje zainteresowania, uczestniczyli w konkursach, zawodach sportowych oraz różnych przedsięwzięciach. Wielu z nich osiągnęło bardzo dobre wyniki w nauce i odniosło sukcesy w dziedzinach, które są ich pasją…",
-      "link": "https://www.nowiny.pl/wiadomosci/251244-gmina-rudnik-docenila-mlode-talenty-kto-znalazl-sie-wsrod-nagrodzonych-zdjecia.html",
-      "published": "2026-09-29T19:18",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "850dc87f87d609e0f6535bce7714b28da024de08",
-      "title": "Potrącenie rowerzystki na Boryńskiej w Żorach. 52-latka doznała obrażeń i głowy i trafiła do szpitala",
-      "summary": "52-latka prawidłowo przejeżdżała przez przejazd dla rowerzystów, gdy uderzył w nią samochód. Tak wynika ze wstępnych ustaleń żorskiej policji.",
-      "link": "https://ezory.pl/wiadomosci/251245-potracenie-rowerzystki-na-borynskiej-w-zorach-52-latka-doznala-obrazen-i-glowy-i-trafila-do-szpitala.html",
-      "published": "2026-09-29T19:06",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f55dd83478e8717b71fc0b144e3a2e3be328eb68",
-      "title": "Sprawdź, co będzie się działo na festiwalu DzieJesie(ń) 2026 w Wodzisławiu Śląskim [PROGRAM]",
-      "summary": "Marcin Sójka zakończy tegoroczny DzieJesie(ń) Festiwal w Wodzisławiu Śląskim. Wcześniej na rynku pojawi się Remigiusz Rączka, odbędzie się konkurs na szarlotkę, a przez kilka godzin działać będą warsztaty, planetarium i strefa wystawców.",
-      "link": "https://www.nowiny.pl/wiadomosci/251243-sprawdz-co-bedzie-sie-dzialo-na-festiwalu-dziejesien-2026-w-wodzislawiu-slaskim-program.html",
-      "published": "2026-09-29T18:52",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a7ee6e031d9da6059d56486b350807dae9e2c194",
-      "title": "Górnik Zabrze chce namieszać w Ekstraklasie. Kibice czekają na kolejne emocje",
-      "summary": "Górnik Zabrze od dekad pozostaje jedną z najbardziej rozpoznawalnych i utytułowanych marek w polskim futbolu, słynącą z bezkompromisowej gry, wielkiego śląskiego charakteru oraz niezwykle gorącego dopingu na stadionie przy ul. Roosevelta. 14-krotny mistrz Polski w bieżącym sezonie PKO BP…",
-      "link": "https://www.nowiny.pl/wiadomosci/251224-gornik-zabrze-chce-namieszac-w-ekstraklasie-kibice-czekaja-na-kolejne-emocje.html",
-      "published": "2026-09-29T18:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "da2367e761acc0fe20b566e6b02f45dd80925031",
-      "title": "Święto Dyni w Raciborzu. Cały dzień atrakcji w Ogródku Jordanowskim [PROGRAM]",
-      "summary": "Warsztaty, występy dzieci, muzyka, gry, pokazy i zupa dyniowa. W piątek, 2 października, w Ogródku Jordanowskim w Raciborzu odbędzie się Święto Dyni.",
-      "link": "https://www.nowiny.pl/wiadomosci/251238-swieto-dyni-w-raciborzu-caly-dzien-atrakcji-w-ogrodku-jordanowskim-program.html",
-      "published": "2026-09-29T17:27",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c9d80e8341780174028149fef4addbcd7059bc82",
-      "title": "Tragiczny wypadek w Rudach. Nie żyje 19-letnia pasażerka motocykla [AKTUALIZACJA]",
-      "summary": "Młoda kobieta zginęła we wtorek, 29 września, na drodze wojewódzkiej nr 919 w Rudach. Jechała jako pasażerka motocykla marki Honda. Kierowca trafił do szpitala.",
-      "link": "https://www.nowiny.pl/wiadomosci/251242-tragiczny-wypadek-w-rudach-nie-zyje-19-letnia-pasazerka-motocykla-aktualizacja.html",
-      "published": "2026-09-29T17:17",
-      "source": "nowiny.pl",
-      "category": "Region",
+      "id": "bd69275340ae2e5806320b381657c12dab6fa8ad",
+      "title": "Jak przygotować się na ekstremalne zjawiska pogodowe?",
+      "summary": "10 października 2026 r. w Rybniku odbędzie się bezpłatne spotkanie edukacyjne MISJA/72, poświęcone przygotowaniu mieszkańców na skutki zmian klimatu.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/jak-przygotowac-sie-na-ekstremalne-zjawiska-pogodowe",
+      "published": "2026-09-30T00:00",
+      "source": "rybnik.eu",
+      "category": "Bezpieczeństwo",
       "priority": "NORMAL"
     },
     {
@@ -159,16 +233,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "e85720f4164211a6c807f7fbdbdbbf83f3731fee",
-      "title": "Wypadek w Jastrzębiu-Zdroju. Sprawczynią nietrzeźwa 20-latka",
-      "summary": "Piątkowy wieczór przyniósł jastrzębskim policjantom dwie interwencje związane z młodymi kobietami, które zdecydowały się prowadzić samochód po alkoholu. Jedna z nich doprowadziła do wypadku, druga trafiła do tymczasowego aresztu.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251240-wypadek-w-jastrzebiu-zdroju-sprawczynia-nietrzezwa-20-latka.html",
-      "published": "2026-09-29T13:48",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "b07508e0bc3a9ed8891fd3ccdcec991aac94881f",
       "title": "Dyniowa Stacja Rudy. Mamy dla Was wejściówki [KONKURS w RADIU 90]",
       "summary": "Tej jesieni rusza Dyniowa Stacja Rudy! Przez cały październik, w każdy weekend, zabytkowa stacja kolejki wąskotorowej zamieni się w pełne jesiennego klimatu miejsce, idealne na rodzinny wypad. W Radiu 90 mamy dla was bilety na wyjątkową przejażdżkę Dyniowym Ekspresem.",
@@ -189,16 +253,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "b4d7af7bba5feb1e792362029542265372063c17",
-      "title": "Koniec pewnej epoki w raciborskiej bibliotece. Małgorzata Szczygielska odchodzi na emeryturę",
-      "summary": "Racibórz szuka nowego dyrektora Miejskiej i Powiatowej Biblioteki Publicznej. Wieloletnia dyrektor Małgorzata Szczygielska przechodzi na emeryturę. To koniec okresu, w którym raciborska biblioteka z miejsca kojarzonego przede wszystkim z wypożyczaniem książek wyrosła na jedną z najbardziej…",
-      "link": "https://www.nowiny.pl/wiadomosci/251239-koniec-pewnej-epoki-w-raciborskiej-bibliotece-malgorzata-szczygielska-odchodzi-na-emeryture.html",
-      "published": "2026-09-29T12:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "ca74b0ab8ff6140aff26b9f7944084b449fd5cad",
       "title": "Mieszkańcy alarmują: lisy w Niedobczycach przechadzają się po parkowych alejkach",
       "summary": "Lisy terroryzują mieszkańców Niedobczyc. Zwierzęta pojawiają się zwykle wieczorem w Parku Czempiela. Nasz słuchacz zgłosił problem, a na miejsce pojechał nasz reporter, który rozmawiał z mieszkańcami okolic niedobczyckiego parku.",
@@ -209,16 +263,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "cc865e1531c14f7594807cf7a09526d233cf7c44",
-      "title": "Lajerman, czyli artysta i nierób. Prof. Nawarecki opowiadał w Rybniku o swoim Śląsku",
-      "summary": "Moczka, wodzionka, zapomniani muzycy i rodzinne wspomnienia. Prof. Aleksander Nawarecki podczas spotkania w rybnickiej bibliotece pokazywał Śląsk nie przez wielkie wydarzenia, lecz przez rzeczy pozornie małe i nieistotne. Rozmowa odbyła się w ramach Tygodnia Śląskiego.",
-      "link": "https://www.nowiny.pl/wiadomosci/251236-lajerman-czyli-artysta-i-nierob-prof-nawarecki-opowiadal-w-rybniku-o-swoim-slasku.html",
-      "published": "2026-09-29T10:58",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "e469aca189c57124b24e7e19338e1b387666671f",
       "title": "Koleje Śląskie: wszystkie łapki na pokład! Coraz więcej pasażerów podróżuje ze zwierzętami",
       "summary": "Czworonożni przyjaciele coraz częściej towarzyszą pasażerom Kolei Śląskich. W pierwszym półroczu 2026 roku w taką podróż wybrało się ponad 19 tys. osób – o ponad 7 proc. więcej niż w analogicznym okresie ubiegłego roku.",
@@ -226,16 +270,6 @@
       "published": "2026-09-29T10:40",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ed1901b51825a21c5fd5b019b87b6122aaf242ad",
-      "title": "Ponad 1,7 mln zł za działkę przy Sportowej w Niewiadomiu",
-      "summary": "Miasto rozstrzygnęło przetarg na dwa hektary w strefie gospodarczej utworzonej na terenie dawnej hałdy. Wygrała firma Perfekt.",
-      "link": "https://www.nowiny.pl/wiadomosci/251233-ponad-17-mln-zl-za-dzialke-przy-sportowej-w-niewiadomiu.html",
-      "published": "2026-09-29T10:07",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -434,26 +468,6 @@
       "summary": "Wszyscy użytkownicy ruchu drogowego - kierowcy, rowerzyści oraz piesi - mają skorzystać na drogowej inwestycji, jaka aktualnie realizowana jest w rybnickiej dzielnicy Niewiadom. Trwa tam rozbudowa ulicy Grota-Roweckiego. Jak informują w rybnickim magistracie, jest to już drugi etap rozbudowy tej…",
       "link": "https://www.radio90.pl/trwa-rozbudowa-ul-grota-roweckiego-w-rybniku-kanalizacja-deszczowa-juz-gotowa-teraz-prace-brukarskie-zdjecia.html",
       "published": "2026-09-27T16:30",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "abf41704445863f16438ef378183d51992863840",
-      "title": "Park w centrum Rybnika pięknieje. Zostanie oddany do użytku do końca roku",
-      "summary": "Park imienia świętego Jana Sarkandra przy ulicach Gliwickiej i Cegielnianej w Rybniku przechodzi renowację.",
-      "link": "https://www.radio90.pl/park-w-centrum-rybnika-pieknieje-zostanie-oddany-do-uzytku-do-konca-roku.html",
-      "published": "2026-09-27T13:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "06e2b0b3fca6f9f9d52a10636aaf8f2912646465",
-      "title": "Bramki na A4: wybrano firmę, która zlikwiduje miejsca poboru opłat",
-      "summary": "Bramki w zachodniej części A4 do likwidacji, już bliżej niż dalej. Jest firma, która wykona to zadanie.",
-      "link": "https://www.radio90.pl/bramki-na-a4-wybrano-firme-ktora-zlikwiduje-miejsca-poboru-oplat.html",
-      "published": "2026-09-27T08:24",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -789,6 +803,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "caba457f0f92df52a1612c566058806f0b53cd18",
+      "title": "Zapowiedzi sportowe - wrzesień",
+      "summary": "W najbliższy weekend nie zabraknie emocji dla kibiców rybnickiego sportu. Nowy sezon – w meczach domowych – rozpoczynają koszykarki i siatkarze. O punkty przy ul. Gliwickiej powalczą piłkarze.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zapowiedzi-sportowe-wrzesien",
+      "published": "2026-09-24T00:00",
+      "source": "rybnik.eu",
+      "category": "Sport",
+      "priority": "NORMAL"
+    },
+    {
       "id": "a96440cb96928e20c5cb8c11c81ef15814fb0343",
       "title": "Zmienia się park przy Gliwickiej. Trwa renowacja",
       "summary": "Park im. św. Jana Sarkandra przy ul. Gliwickiej/Cegielnianej zmienia się krok po kroku. W ramach prowadzonej renowacji trwają obecnie prace przy ścieżkach, nawierzchni oraz instalacji elektrycznej i oświetleniu.",
@@ -806,16 +830,6 @@
       "published": "2026-09-24T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "caba457f0f92df52a1612c566058806f0b53cd18",
-      "title": "Zapowiedzi sportowe - wrzesień",
-      "summary": "W najbliższy weekend nie zabraknie emocji dla kibiców rybnickiego sportu. Nowy sezon – w meczach domowych – rozpoczynają koszykarki i siatkarze. O punkty przy ul. Gliwickiej powalczą piłkarze.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zapowiedzi-sportowe-wrzesien",
-      "published": "2026-09-24T00:00",
-      "source": "rybnik.eu",
-      "category": "Sport",
       "priority": "NORMAL"
     },
     {
@@ -849,6 +863,26 @@
       "priority": "ALERT"
     },
     {
+      "id": "44d71b27afbdbd113919edaf813e1e81a01e82ec",
+      "title": "Przemysłowa 22 czeka na remont",
+      "summary": "Budynek ma przejść kompleksową modernizację, która obejmie mieszkania, części wspólne oraz wszystkie najważniejsze instalacje. W postępowaniu uczestniczą trzy firmy, a najtańsza zadeklarowała realizację zadania za ponad 9 mln zł.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/przemyslowa-22-czeka-na-remont",
+      "published": "2026-09-21T00:00",
+      "source": "rybnik.eu",
+      "category": "Inwestycje",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6762670b8032c3cada6f6193f05976fb805d29ff",
+      "title": "Miasto kupuje teren przy zamkniętej Biedronce",
+      "summary": "Podczas najbliższej sesji Rady Miasta Rybnika radni zdecydują o zakupie działek o powierzchni ponad 1,1 ha, na których znajdują się obiekty handlowe, usługowe i biurowe.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/miasto-kupuje-teren-przy-zamknietej-biedronce",
+      "published": "2026-09-21T00:00",
+      "source": "rybnik.eu",
+      "category": "Inwestycje",
+      "priority": "NORMAL"
+    },
+    {
       "id": "71c68498e94c20bc3aa27f361eaa0e90679eba3e",
       "title": "Wyłożenie projektu planu miejscowego MPZP 54-66",
       "summary": "Od 21 września do 19 października 2026 r. można zapoznawać się z wyłożeniem projektu planu miejscowego przy ulicach Maksymiliana Buhla, Majowej, Granicznej, Władysława Broniewskiego, Stefana Żeromskiego i Żużlowej.",
@@ -879,26 +913,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "44d71b27afbdbd113919edaf813e1e81a01e82ec",
-      "title": "Przemysłowa 22 czeka na remont",
-      "summary": "Budynek ma przejść kompleksową modernizację, która obejmie mieszkania, części wspólne oraz wszystkie najważniejsze instalacje. W postępowaniu uczestniczą trzy firmy, a najtańsza zadeklarowała realizację zadania za ponad 9 mln zł.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/przemyslowa-22-czeka-na-remont",
-      "published": "2026-09-21T00:00",
-      "source": "rybnik.eu",
-      "category": "Inwestycje",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6762670b8032c3cada6f6193f05976fb805d29ff",
-      "title": "Miasto kupuje teren przy zamkniętej Biedronce",
-      "summary": "Podczas najbliższej sesji Rady Miasta Rybnika radni zdecydują o zakupie działek o powierzchni ponad 1,1 ha, na których znajdują się obiekty handlowe, usługowe i biurowe.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/miasto-kupuje-teren-przy-zamknietej-biedronce",
-      "published": "2026-09-21T00:00",
-      "source": "rybnik.eu",
-      "category": "Inwestycje",
-      "priority": "NORMAL"
-    },
-    {
       "id": "e049a27530751ed922e87b2a0b36be46e89cdc93",
       "title": "Planowane wyłączenia prądu w Rybniku i powiecie. Sprawdź harmonogram",
       "summary": "Mieszkańcy Rybnika i powiatu rybnickiego powinni przygotować się na kilka planowanych przerw w dostawie energii. Sprawdź, kiedy zabraknie prądu i których ulic dotyczą wyłączenia.",
@@ -919,16 +933,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "f40e419e6ecb586444c970f72b3bb7d650a2b793",
-      "title": "Rusza budowa łącznika ulic Kominka i Orzepowickiej",
-      "summary": "Od poniedziałku 21 września ulica Jośki zostanie częściowo zamknięta z powodu prac rozbiórkowych i budowy kanalizacji deszczowej. Sprawdź, jak dojechać do Młodzieżowego Domu Kultury na czas trwania robót.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/powstanie-polaczenie-ulic-kardynala-kominka-i-orzepowickiej-1",
-      "published": "2026-09-18T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
       "id": "e9989848e3889950307d5f76453472ac52b08cb9",
       "title": "Postępy prac na ul. Grota-Roweckiego",
       "summary": "Trwa realizacja drugiego etapu rozbudowy ulicy Grota-Roweckiego w Rybniku-Niewiadomiu. Inwestycja jest dofinansowana z Rządowego Funduszu Rozwoju Dróg.",
@@ -936,6 +940,16 @@
       "published": "2026-09-18T00:00",
       "source": "rybnik.eu",
       "category": "Inwestycje",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f40e419e6ecb586444c970f72b3bb7d650a2b793",
+      "title": "Rusza budowa łącznika ulic Kominka i Orzepowickiej",
+      "summary": "Od poniedziałku 21 września ulica Jośki zostanie częściowo zamknięta z powodu prac rozbiórkowych i budowy kanalizacji deszczowej. Sprawdź, jak dojechać do Młodzieżowego Domu Kultury na czas trwania robót.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/powstanie-polaczenie-ulic-kardynala-kominka-i-orzepowickiej-1",
+      "published": "2026-09-18T00:00",
+      "source": "rybnik.eu",
+      "category": "Komunikaty",
       "priority": "NORMAL"
     },
     {
@@ -1047,16 +1061,6 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
-    },
-    {
-      "id": "f7afd99998f3dff80aa43bcc47770dd6f120c453",
-      "title": "Duże mieszkanie w centrum czeka na najemcę.",
-      "summary": "Mieszkanie komunalne o powierzchni 138 m² czeka na najemcę. Lokal przy ul. Rzecznej 4/10 zostanie wystawiony na licytację już 16 września. Przyszły najemca będzie zobowiązany do przeprowadzenia niezbędnego remontu.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/duze-mieszkanie-w-centrum-czeka-na-najemce",
-      "published": "2026-09-08T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
     },
     {
       "id": "8cef111c0b5a56aa7f14dd39257cc86e07fa3831",
