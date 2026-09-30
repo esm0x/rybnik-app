@@ -90,9 +90,10 @@ piłkarki ROW Rybnik.
 
 DLACZEGO TAKA APLIKACJA
 
-Bez reklam. Bez kont i logowania. Bez zbierania danych o użytkowniku. Aplikacja nie
-wysyła nigdzie Twojego adresu ani niczego, co pozwalałoby Cię rozpoznać: adres służy
-wyłącznie do wybrania właściwego harmonogramu na Twoim telefonie.
+Bez reklam. Bez kont i logowania. Bez zbierania danych o użytkowniku i bez żadnego
+naszego serwera. Harmonogram odpadów dopasowujemy do adresu wyłącznie na Twoim
+telefonie. Jedyny wyjątek to wyłączenia prądu: żeby je sprawdzić, aplikacja pyta serwis
+Tauron Dystrybucja o Twoją ulicę i numer domu, bo inaczej nie da się ich ustalić.
 
 Po pierwszym uruchomieniu dane zapisują się lokalnie, więc aplikacja działa również
 bez zasięgu. Jest jasny i ciemny motyw, do wyboru ręcznie albo zgodnie z ustawieniem

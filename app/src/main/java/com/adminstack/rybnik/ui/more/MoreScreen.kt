@@ -295,9 +295,12 @@ fun SettingsScreen(onBack: () -> Unit, onPickAddress: () -> Unit) {
                 }
             }
             item {
+                // The only feature that sends the address off the device, so it says so
+                // where the user decides about it, not only in the privacy policy.
                 SwitchRow(
                     "Wyłączenia prądu",
-                    "Planowane i awaryjne, pod Twoim adresem",
+                    "Planowane i awaryjne pod Twoim adresem. Ulica i numer domu są w tym " +
+                        "celu wysyłane do Tauron Dystrybucja.",
                     s.notifyOutages,
                 ) { vm.setNotify(UserPrefs.NotifyChannel.Outages, it) }
             }

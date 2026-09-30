@@ -24,22 +24,32 @@ Wyłącznie lokalnie, w pamięci aplikacji na Twoim urządzeniu:
 - **pobrane dane publiczne** w pamięci podręcznej (wydarzenia, wiadomości, harmonogram
   odpadów, rozkład jazdy), żeby aplikacja działała bez internetu.
 
-Te dane **nie opuszczają urządzenia**. Odinstalowanie aplikacji usuwa je wszystkie.
-Wyczyszczenie danych aplikacji w ustawieniach systemu daje ten sam efekt.
+Odinstalowanie aplikacji usuwa je wszystkie. Wyczyszczenie danych aplikacji
+w ustawieniach systemu daje ten sam efekt.
+
+**Jeden wyjątek: wyłączenia prądu.** Żeby sprawdzić wyłączenia pod Twoim adresem,
+aplikacja musi zapytać o niego serwis Tauron Dystrybucja — wysyła więc **nazwę ulicy
+i numer domu** do `www.tauron-dystrybucja.pl`. Bez tego ta funkcja nie zadziała:
+sprawdzone, zapytanie bez numeru domu zwraca zero wyników. Nie wysyłamy przy tym
+Twojego imienia, identyfikatora urządzenia ani niczego innego, a my sami nie
+otrzymujemy tych danych — nie mamy żadnego serwera. Jeśli nie chcesz, żeby adres
+wychodził z telefonu, wyłącz powiadomienia o wyłączeniach prądu w Ustawieniach
+i nie otwieraj tej sekcji.
 
 ## Z czym aplikacja łączy się przez internet
 
-Aplikacja pobiera publicznie dostępne dane. W żadnym z tych połączeń nie wysyła Twojego
-adresu, identyfikatora urządzenia ani niczego, co pozwalałoby Cię rozpoznać. Adres
-zapisany w aplikacji jest używany wyłącznie na telefonie, do filtrowania pobranych
-danych.
+Aplikacja pobiera publicznie dostępne dane. Poza opisanym wyżej przypadkiem wyłączeń
+prądu nie wysyła Twojego adresu, identyfikatora urządzenia ani niczego, co pozwalałoby
+Cię rozpoznać. W szczególności harmonogram odpadów jest filtrowany **wyłącznie na
+telefonie**: pobieramy komplet rejonów i dopasowanie do Twojego adresu odbywa się
+lokalnie.
 
 | Dokąd | Po co |
 |---|---|
 | `raw.githubusercontent.com` | wydarzenia, wiadomości, harmonogram odpadów, wyniki sportowe |
 | `km.rybnik.pl` | rozkład jazdy KM Rybnik (plik GTFS) |
 | `api.gios.gov.pl` | jakość powietrza, stacja Rybnik-Borki (GIOŚ) |
-| `www.tauron-dystrybucja.pl` | wyłączenia prądu (publiczne API Tauron Dystrybucja) |
+| `www.tauron-dystrybucja.pl` | wyłączenia prądu; **tu trafia ulica i numer domu** |
 
 Standardowo, jak przy każdym połączeniu internetowym, serwery te widzą adres IP
 Twojego urządzenia. Nie mamy na to wpływu i nie mamy do tych logów dostępu.

@@ -201,14 +201,24 @@ Play Console prowadzi przez listę zadań. Do wypełnienia:
 
 To formularz, w którym najłatwiej o kosztowną pomyłkę, a u nas sprawa jest prosta:
 
-- Czy aplikacja zbiera lub udostępnia wymagane typy danych? → **Nie**
+- Czy aplikacja **zbiera** dane? → **Nie.** Nie mamy serwera, nic do nas nie trafia.
+- Czy aplikacja **udostępnia** dane? → **Tak, jeden typ: „Adres" (Personal info).**
+  Funkcja wyłączeń prądu wysyła ulicę i numer domu do Tauron Dystrybucja, bo bez tego
+  nie da się ustalić wyłączeń (sprawdzone: zapytanie bez numeru zwraca zero wyników).
+  - cel: **Funkcjonalność aplikacji**
+  - czy wymagane: **opcjonalne** (tylko gdy użytkownik zapisze adres)
 - Czy dane są szyfrowane podczas przesyłania? → **Tak** (całość leci po HTTPS)
 - Czy użytkownik może poprosić o usunięcie danych? → **Nie dotyczy** (nie ma serwera;
   odinstalowanie usuwa wszystko lokalnie)
 
-Adres do harmonogramu odpadów **nie jest** „zbieraniem danych" w rozumieniu Google:
-nigdy nie opuszcza urządzenia. Gdybyśmy kiedykolwiek wysyłali go na serwer, tę
-odpowiedź trzeba będzie zmienić.
+Harmonogram odpadów **nie** jest tu wliczony: pobieramy komplet rejonów i dopasowanie
+do adresu robimy lokalnie, więc ten adres nie opuszcza telefonu.
+
+> Google dopuszcza wyjątek dla danych przekazywanych stronie trzeciej **w wyniku
+> świadomego działania użytkownika**, i sprawdzanie wyłączeń pod własnym adresem się
+> w to wpisuje. Mimo to rekomendacja jest: **zadeklaruj**. Nadmiarowa deklaracja nie
+> jest karana, a rozbieżność między formularzem a rzeczywistością owszem — i to jest
+> jedna z najczęstszych przyczyn zawieszenia aplikacji.
 
 ## Krok 6. Listing sklepu
 
