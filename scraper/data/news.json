@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:17:52",
+  "generated_at": "2026-10-01T05:55:21",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,36 @@
     }
   ],
   "items": [
+    {
+      "id": "b0367f5065f1c6518f7d56166ed24ed9851a5711",
+      "title": "U pana Andrzeja nic się nie marnuje. Tak działa małe gospodarstwo niedaleko Rybnika",
+      "summary": "Trzy złote za kilogram dyni można było dostać pięć lat temu. Dziś Andrzej Słupik sprzedaje ją w tej samej cenie. W międzyczasie wzrosły jednak koszty produkcji i utrzymania gospodarstwa. Rolnik z Czuchowa postawił więc na sprzedaż bezpośrednią i gospodarowanie w taki sposób, żeby jak najwięcej…",
+      "link": "https://www.nowiny.pl/wiadomosci/251079-u-pana-andrzeja-nic-sie-nie-marnuje-tak-dziala-male-gospodarstwo-niedaleko-rybnika.html",
+      "published": "2026-10-01T05:28",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b8b32f3f765a6b2e8863e64fca307ec30a1b39e4",
+      "title": "Teatr Ziemi Rybnickiej zaprasza w październiku [REPERTUAR]",
+      "summary": "Rybnickie Zaduszki Muzyczne, Dni Literatury i do tego \"Lalka\" w najnowszym wydaniu w kinie - to tylko niektóre wydarzenia przygotowane w Teatrze Ziemi Rybnickiej w październiku.",
+      "link": "https://www.radio90.pl/teatr-ziemi-rybnickiej-zaprasza-w-pazdzierniku-repertuar.html",
+      "published": "2026-10-01T04:49",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0bea131ef345d11420419a9913c632dbf464c273",
+      "title": "Budowa przy ul. Mościckiego postępuje",
+      "summary": "Budowa budynku usługowego przy ul. Ignacego Mościckiego 3 postępuje. Zakończono kolejne prace konstrukcyjne, a wykonawca przygotowuje się do rozpoczęcia robót instalacyjnych i dekarskich. Inwestycja ma zostać zrealizowana do 11 marca 2027 roku.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/budowa-przy-ul-moscickiego-postepuje",
+      "published": "2026-10-01T00:00",
+      "source": "rybnik.eu",
+      "category": "Inwestycje",
+      "priority": "NORMAL"
+    },
     {
       "id": "969dcb01e6ec304c78db928473b5a6bb5632a393",
       "title": "Jar Południowy zmieni oblicze",
@@ -184,16 +214,6 @@
       "summary": "Przystanek Kulturalny Koniec Świata w Raciborzu zaprasza na wyjątkowy wieczór z muzyką Tadeusza Woźniaka. Koncert \"Piotr Woźniak śpiewa Tadeusza\" odbędzie się w niedzielne popołudnie 4 października o godz.19.00.",
       "link": "https://www.nowiny.pl/wiadomosci/251260-piotr-wozniak-spiewa-tadeusza-wyjatkowy-koncert-w-przystanku-kulturalnym-koniec-swiata.html",
       "published": "2026-09-30T08:44",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "7c19e168114024bbda24bb434a3c2a663ed41a9a",
-      "title": "Doceniamy dopiero po tragedii - dlaczego? [FELIETON]",
-      "summary": "Niedawno z okazji 50‑lecia jastrzębskiego szpitala jeden z lekarzy otrzymał Medal za Ofiarność i Odwagę przyznawany przez Prezydenta Rzeczpospolitej Polski. Na pewno to miłe, że zauważono medyka, który nie wahał się stanąć w obronie zaatakowanych ludzi. Pytanie, jakie się w związku z tym nasuwa…",
-      "link": "https://jastrzebieonline.pl/opinie/251259-doceniamy-dopiero-po-tragedii-dlaczego-felieton.html",
-      "published": "2026-09-30T08:14",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -434,16 +454,6 @@
       "summary": "Zastępcza komunikacja autobusowa na trasie Żywiec – Rybnik po porannym potrąceniu na torach w powiecie bielskim.",
       "link": "https://www.radio90.pl/smiertelne-zdarzenie-na-torach-pociagi-zywiec-rybnik-z-komunikacja-zastepcza.html",
       "published": "2026-09-28T06:28",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a43a7de48e25edd1fba9446fbe1a32de3d5d9d00",
-      "title": "RMKS Xbest Rybnik gromi Ostrovię",
-      "summary": "Okazałe zwycięstwo koszykarek RMKS-u Xbest Rybnik na inaugurację nowego sezonu. W minioną sobotę (26.09) pokonały we własnej hali KS Basket Ostrovię Ostrów Wielkopolski 96:53.",
-      "link": "https://www.radio90.pl/rmks-xbest-rybnik-gromi-ostrovie.html",
-      "published": "2026-09-28T05:50",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -1047,16 +1057,6 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
-    },
-    {
-      "id": "f7afd99998f3dff80aa43bcc47770dd6f120c453",
-      "title": "Duże mieszkanie w centrum czeka na najemcę.",
-      "summary": "Mieszkanie komunalne o powierzchni 138 m² czeka na najemcę. Lokal przy ul. Rzecznej 4/10 zostanie wystawiony na licytację już 16 września. Przyszły najemca będzie zobowiązany do przeprowadzenia niezbędnego remontu.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/duze-mieszkanie-w-centrum-czeka-na-najemce",
-      "published": "2026-09-08T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
     },
     {
       "id": "8cef111c0b5a56aa7f14dd39257cc86e07fa3831",
