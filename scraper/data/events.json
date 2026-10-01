@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:14:01",
+  "generated_at": "2026-10-01T22:42:29",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -10,17 +10,6 @@
   "count": 164,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-warsztaty-florystyczne-dla-pan-dynia-pelna-jesieni",
-      "title": "Warsztaty florystyczne dla Pań – Dynia pełna jesieni",
-      "category": "Warsztaty",
-      "start": "2026-10-01T18:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Jesień zawita do Centrum Kulturalno-Edukacyjnego w Czerwionce-Leszczynach w wyjątkowo twórczej odsłonie. Miejskie warsztaty florystyczne będą okazją do stworzenia dekoracyjnych kompozycji z dynią w roli głównej, a także do spędzenia czasu w kobiecym gronie. Wydarzenie odbędzie się 1 października 2026 roku o godz. 18:00 w Centrum Kulturalno-Edukacyjnym w Czerwionce-Leszczynach . Bilety kosztują 100 zł . Można je kupić na stronie ckecl.pl oraz w kasie biletowej CKE. Podczas spotkania uczestniczki przygotują jesienne kompozycje dyniowe pod kierunkiem florystki Katarzyny Kaczmarczyk . Warsztatowa forma wydarzenia pozwoli połączyć naukę florystycznych umiejętności z kreatywnym spędzeniem czasu.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/warsztaty-florystyczne-dla-pan-dynia-pelna-jesieni"
-    },
     {
       "id": "iryb-iv-rybnicki-dzien-seniora",
       "title": "IV Rybnicki Dzień Seniora",
@@ -290,7 +279,7 @@
       "title": "Koncert jubileuszowy z okazji 30-lecia Towarzystwa Muzycznego im. Braci Szafranków w Rybniku",
       "category": "Koncert",
       "start": "2026-10-04T17:00",
-      "end": null,
+      "end": "2026-10-04T18:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Rybnik szykuje wieczór pełen wielkich emocji i polskiej muzyki symfonicznej. Z okazji 30-lecia Towarzystwa Muzycznego im. Braci Szafranków w Teatrze Ziemi Rybnickiej zabrzmią dzieła Kilara, Pendereckiego i Góreckiego, a także utwór, który zostanie wykonany po raz pierwszy na świecie. Warto zarezerwować ten termin na wyjątkowe muzyczne spotkanie. W przekazanych informacjach nie podano miejsca ani sposobu zakupu biletów. Jubileuszowy koncert będzie okazją do przypomnienia, jak wiele wydarzeń, spotkań i artystycznych projektów powstało w ciągu trzech dekad działalności Towarzystwa Muzycznego im. Braci Szafranków. Na scenie połączą się orkiestra symfoniczna i chóry z regionu rybnickiego, tworząc rozbudowane widowisko muzyczne W programie znalazły się najważniejsze dzieła polskiej muzyki XX i XXI wieku:",
       "sourceName": "iRybnik",
@@ -1159,7 +1148,7 @@
       "title": "Osiecka z Krajewskim – 90. urodziny Agnieszki",
       "category": "Koncert",
       "start": "2026-10-24T18:00",
-      "end": "2026-10-24T19:30",
+      "end": null,
       "venue": "Dom Kultury Rybnik-Chwałowice",
       "description": "Piosenki Agnieszki Osieckiej i Seweryna Krajewskiego zabrzmią podczas kameralnego koncertu w Rybniku-Chwałowicach. Wydarzenie będzie okazją do przypomnienia zarówno znanych utworów, jak i mniej popularnych kompozycji. Koncert pod nazwą „Osiecka z Krajewskim – 90. urodziny Agnieszki – kameralny koncert zespołu Retro gitary” odbędzie się 24 października 2026 roku o godz. 18:00 w Domu Kultury w Rybniku-Chwałowicach przy ul. 1 Maja 91b. Bilety kosztują 80 zł . Można je kupić wyłącznie przez internet, w serwisie Kup Bilecik. Podczas koncertu zespołu Retro gitary wystąpią gitarzysta Krzysztof Zaborniak oraz wokalista Piotr Huegel . Wykonają utwory Agnieszki Osieckiej i Seweryna Krajewskiego, łącząc piosenki dobrze znane słuchaczom z mniej popularnymi kompozycjami.",
       "sourceName": "iRybnik",
@@ -1736,6 +1725,17 @@
       "description": "Piosenki Agnieszki Osieckiej zabrzmią w kameralnej odsłonie w Klubie Odyseja w Rybniku. W programie znajdą się utwory znane z interpretacji m.in. Maryli Rodowicz, Marka Grechuty, Edyty Geppert i Skaldów. Data: 13 grudnia 2026 roku (niedziela), godz. 18:07 Miejsce: Klub Odyseja, Rybnik Bilety: dostępne w serwisach KupBilecik, Biletyna i Biletomat. Ceny nie podano. Podczas koncertu zabrzmią utwory, które przed laty wykonywali m.in. Edmund Fetting, Krystyna Janda, Łucja Prus i Seweryn Krajewski. To muzyczna podróż przez piosenki pełne charakterystycznych tekstów i melodii, które na stałe zapisały się w polskiej kulturze. Wystąpią Bartosz Baltazar Zbroszczyk – śpiewający i grający na gitarze oraz fortepianie – oraz Krzysztof Szmytke, który zagra na skrzypcach i zaśpiewa. Zbroszczyk jest muzykiem, kompozytorem i aranżerem, a także autorem albumu „Baltazar – Jestem nikim”. Koncertuje również z programem poświęconym twórczości Seweryna Krajewskiego.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/osiecka-krolowa-piosenki-koncert-w-rybniku"
+    },
+    {
+      "id": "bilnya-najdrozszy-spektakl-komediowy-202612201800",
+      "title": "Najdroższy - spektakl komediowy",
+      "category": "Spektakl",
+      "start": "2026-12-20T18:00",
+      "end": "2026-12-20T19:30",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🎭✨ \"Najdroższy\" to błyskotliwa komedia o pechowcu, który za wszelką cenę próbuje odmienić swój los! 😄 Absurdalne sytuacje, zaskakujące zwroty akcji i humor w paryskim stylu – baw się do łez! Sprawdź repertuar i zarezerwuj bilety już dziś! 🎟️❤️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Najdrozszy?eid=707089#opis"
     },
     {
       "id": "bilnya-ballady-rockowe-przy-swiecach-polskie-legendy-202701211930",
