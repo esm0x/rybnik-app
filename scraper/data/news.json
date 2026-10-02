@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:36:30",
+  "generated_at": "2026-10-02T22:17:17",
   "count": 120,
   "failures": [
     {
@@ -9,11 +9,121 @@
   ],
   "items": [
     {
+      "id": "4876c87fdad52f58923de05d28c80e9e0a119e91",
+      "title": "Kobiety kobietom dodały skrzydeł. Wyjątkowa Gala Kobiet w Rydułtowach [ZDJĘCIA]",
+      "summary": "W Rydułtowskim Centrum Kultury odbyła się wyjątkowa Gala Kobiet, zorganizowana w ramach działania „Nic tak nie motywuje kobiety jak inna kobieta”. Wydarzenie było jednym z ważnych momentów Rydułtowskiej Akademii Kobiet i stało się okazją do spotkania, rozmowy oraz pokazania siły, talentów i pasji…",
+      "link": "https://www.nowiny.pl/wiadomosci/251283-kobiety-kobietom-dodaly-skrzydel-wyjatkowa-gala-kobiet-w-rydultowach-zdjecia.html",
+      "published": "2026-10-02T20:46",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7cfac0251c6d5789b03321313c34da0922fef1ca",
+      "title": "Minuta ciszy dla zmarłego policjanta. Sierżant Sieroń zginął na służbie",
+      "summary": "W południe policjanci zatrzymali się na minutę, by oddać hołd 29-letniemu sierżantowi Natanowi Sieronowi, który zginął podczas służby.",
+      "link": "https://www.radio90.pl/minuta-ciszy-dla-zmarlego-policjanta-sierzant-sieron-zginal-na-sluzbie.html",
+      "published": "2026-10-02T19:13",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8867a19bce4e72bc3548f024714583cae17f261a",
+      "title": "Koncert w hołdzie Soyce przełożony. Nowy termin w styczniu",
+      "summary": "Koncert „Soyka / Grott Orkiestra w hołdzie Mistrzowi”, zaplanowany na 9 października w Teatrze Ziemi Rybnickiej, z przyczyn niezależnych od organizatora został przełożony na styczeń.",
+      "link": "https://www.radio90.pl/koncert-w-holdzie-soyce-przelozony-nowy-termin-w-styczniu.html",
+      "published": "2026-10-02T18:11",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "213d2ac0f9f35877dd97240383f754301ec9beae",
+      "title": "Zabytkowa Kopalnia Ignacy: Marek Żyła będzie w niej świętował jubileusz 10-lecia swojego teatru. Będzie spektakl i wystawa",
+      "summary": "Teatr Lalek Marka Żyły z premierą spektaklu \"Z wiyrchu na dół\". W ten weekend w Zabytkowej Kopalni Ignacy w Rybniku, znany w regionie twórca będzie świętował jubileusz 10-lecia swojego teatru.",
+      "link": "https://www.radio90.pl/zabytkowa-kopalnia-ignacy-marek-zyla-bedzie-w-niej-swietowal-jubileusz-10-lecia-swojego-teatru-bedzie-spektakl-i-wystawa.html",
+      "published": "2026-10-02T16:30",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3c367ef8bb7072781b025fbc625a3e7a5ebd50fe",
+      "title": "Politycy z powiatu wodzisławskiego na kongresie Rozwój+. Czy Gawęda, Ballarin i Kurasz podzielą wizję Morawieckiego?",
+      "summary": "W sobotę 26 września w Tomaszowie Mazowieckim odbył się Ogólnopolski Kongres Samorządowy, organizowany przez Stowarzyszenie Rozwój+, czyli frakcję byłego premiera Mateusza Morawieckiego. W wydarzeniu tym udział wzięli liczni samorządowcy i politycy, także z powiatu wodzisławskiego i okolicy.",
+      "link": "https://www.nowiny.pl/wiadomosci/251287-politycy-z-powiatu-wodzislawskiego-na-kongresie-rozwoj-czy-gaweda-ballarin-i-kurasz-podziela-wizje-morawieckiego.html",
+      "published": "2026-10-02T15:23",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ef35727d8a7a13a8e186342dbe57185ab7bd724e",
+      "title": "Dzieje się w Rybniku: Rybnicki Dzień Seniora, wręczenie Honorowej Lampki Górniczej, Dogtrekking i dużo więcej!",
+      "summary": "Sporo - zresztą jak co tydzień - będzie się działo w nadchodzący weekend w Rybniku. Jakie wydarzenia zaplanowano w mieście od piątku (2.10) do niedzieli (4.10)? Dziś w bibliotece wykład związany ze 170-leciem kolei w Rybniku. W sobotę (3.10) wystartują Dni Zdrowia Psychicznego organizowane wspólnie…",
+      "link": "https://www.radio90.pl/dzieje-sie-w-rybniku-rybnicki-dzien-seniora-wreczenie-honorowej-lampki-gorniczej-dogtrekking-i-duzo-wiecej.html",
+      "published": "2026-10-02T14:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "98c7c2b64e6342134e1d37a2df219872e007c158",
+      "title": "Jak wychować mistrza świata? Rodzice Bartka Bartkowiaka o sporcie i wychowaniu",
+      "summary": "Bartosz Bartkowiak ma 11 lat i w tym sezonie został mistrzem świata oraz mistrzem Polski w miniżużlu. W domu nie mówi się jednak przede wszystkim o medalach. Jego rodzice chcą, żeby sport nauczył go pracowitości, pokory i radzenia sobie z porażką. Sami nie przypuszczali, że ich syn zajdzie tak…",
+      "link": "https://www.nowiny.pl/sport/251306-jak-wychowac-mistrza-swiata-rodzice-bartka-bartkowiaka-o-sporcie-i-wychowaniu.html",
+      "published": "2026-10-02T14:15",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0eb26ae9dac4d3b70c489f478488b37c15ec34c4",
+      "title": "Montaż magazynu energii pozwoli obniżyć rachunki za prąd i ogrzewanie? „To jest duża korzyść”",
+      "summary": "Paliwo na stacjach coraz droższe, ogrzewanie domu także z roku na rok staje się sporym wyzwaniem dla naszego budżetu. Szukamy oszczędności. Jak mniej płacić za ogrzewanie budynku i zaoszczędzić energię elektryczną?",
+      "link": "https://www.radio90.pl/montaz-magazynu-energii-pozwoli-obnizyc-rachunki-za-prad-i-ogrzewanie-to-jest-duza-korzysc.html",
+      "published": "2026-10-02T14:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "40e1fbd6d1d67bee129c2452f08d3d6234cc3b57",
+      "title": "Haluks bez dużego cięcia. Nowoczesna metoda zmienia chirurgię stopy",
+      "summary": "Jeszcze niedawno operacja palucha koślawego kojarzyła się z dużym cięciem, bólem i długim powrotem do sprawności. Dziś coraz częściej stosuje się małoinwazyjną metodę MICA, w której korekcję wykonuje się przez kilkumilimetrowe nacięcia. – Najważniejsze nie jest jednak to, jak mała zostanie blizna…",
+      "link": "https://www.nowiny.pl/wiadomosci/251308-haluks-bez-duzego-ciecia-nowoczesna-metoda-zmienia-chirurgie-stopy.html",
+      "published": "2026-10-02T13:32",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e1b7ae2b1a37845851087ea97d083ce088f540d3",
+      "title": "Awaria na kolei? Rybnik i Koleje Śląskie podpisały porozumienie na taką okoliczność",
+      "summary": "To pierwsze tego typu porozumienie przewoźnika z miastem spoza struktur metropolii. Celem umowy jest zapewnienie pasażerom możliwości kontynuowania podróży w przypadku czasowego ograniczenia lub wstrzymania ruchu pociągów.",
+      "link": "https://www.radio90.pl/awaria-na-kolei-rybnik-i-koleje-slaskie-podpisaly-porozumienie-na-taka-okolicznosc.html",
+      "published": "2026-10-02T13:01",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
       "id": "d00f3821db57c0f6035fa6e2f49eb43b2332096a",
       "title": "Unikat na skalę Euroregionu Silesia. W lasku w Samborowicach powstał nowy tor rowerowy - single track",
       "summary": "Ta nowa atrakcja turystyki rowerowej powstała przede wszystkim z myślą o mieszkańcach Samborowic. Żeby mieli gdzie spędzać czas wolny. Jest to również „miejscówka” także dla sąsiadów z okolicznych miejscowości, a także rowerowych turystów, także tych zza polsko-czeskiej granicy.",
       "link": "https://www.nowiny.pl/wiadomosci/251307-unikat-na-skale-euroregionu-silesia-w-lasku-w-samborowicach-powstal-nowy-tor-rowerowy-single-track.html",
       "published": "2026-10-02T12:14",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3d1fca11d56d838e564f40fd7d54955b12b69b6b",
+      "title": "Stracił prawo jazdy bo nie dotrzymał nierealnego terminu. Mieszkaniec Wodzisławia zgłasza sprawę prokuraturze i odsłania szeroki problem",
+      "summary": "Do naszej redakcji zgłosił się mieszkaniec Wodzisławia Śląskiego, który stał się ofiarą nierealnych ustawowych terminów, pokazując przy tym bezradność i brak empatii urzędników. Pan Mateusz stracił prawo jazdy, bo nie udało mu się wykonać badań w ustawowym terminie 30 dni. Wydział Komunikacji miał…",
+      "link": "https://www.nowiny.pl/wiadomosci/251295-stracil-prawo-jazdy-bo-nie-dotrzymal-nierealnego-terminu-mieszkaniec-wodzislawia-zglasza-sprawe-prokuraturze-i-odslania-szeroki-problem.html",
+      "published": "2026-10-02T10:37",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -26,16 +136,6 @@
       "published": "2026-10-02T10:37",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3d1fca11d56d838e564f40fd7d54955b12b69b6b",
-      "title": "Stracił prawo jazdy bo nie dotrzymał nierealnego terminu. Mieszkaniec Wodzisławia zgłasza sprawę prokuraturze i odsłania szeroki problem",
-      "summary": "Do naszej redakcji zgłosił się mieszkaniec Wodzisławia Śląskiego, który stał się ofiarą nierealnych ustawowych terminów, pokazując przy tym bezradność i brak empatii urzędników. Pan Mateusz stracił prawo jazdy, bo nie udało mu się wykonać badań w ustawowym terminie 30 dni. Wydział Komunikacji miał…",
-      "link": "https://www.nowiny.pl/wiadomosci/251295-stracil-prawo-jazdy-bo-nie-dotrzymal-nierealnego-terminu-mieszkaniec-wodzislawia-zglasza-sprawe-prokuraturze-i-odslania-szeroki-problem.html",
-      "published": "2026-10-02T10:37",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -149,16 +249,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "9da79843c915e1208354c8731ba99fa57cd96fe5",
-      "title": "Jak niszczono polską kolej? Karol Trammer opowie o tym w Raciborzu",
-      "summary": "Dlaczego polska kolej straciła pasażerów i jaki wpływ na jej funkcjonowanie mają decyzje polityków? O tym opowie Karol Trammer, dziennikarz i autor książek poświęconych polskiej kolei. Spotkanie odbędzie się 8 października w bibliotece przy ul. Żorskiej w Raciborzu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251296-jak-niszczono-polska-kolej-karol-trammer-opowie-o-tym-w-raciborzu.html",
-      "published": "2026-10-02T06:32",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a77149d199d9b5d451a0fcf617393a173d60f8fa",
       "title": "Miasto Rybnik i Koleje Śląskie Sp. z o.o. łączą siły na wypadek awarii",
       "summary": "W dniu 28 września 2026 r. Miasto Rybnik i Koleje Śląskie podpisały umowę dotyczącą wzajemnej współpracy w sytuacjach awarii i utrudnień w funkcjonowaniu transportu kolejowego.",
@@ -176,6 +266,16 @@
       "published": "2026-10-02T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4e4ed60323d1df37e4ba10039910ebd9bec4b8fd",
+      "title": "Seniorzy świętują w teatrze",
+      "summary": "2 października w Teatrze odbył się Rybnicki Dzień Seniora - jedno z wydarzeń IV Rybnickiego Tygodnia Senioralnego. W programie znalazły się wręczenie nagród, spektakl przygotowany przez seniorów oraz koncert Gangu Marcela.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/seniorzy-swietuja-w-teatrze",
+      "published": "2026-10-02T00:00",
+      "source": "rybnik.eu",
+      "category": "Wydarzenia",
       "priority": "NORMAL"
     },
     {
@@ -209,26 +309,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "021c1b9adf98077a64a4e6e7e44c328eed5123b0",
-      "title": "Obrońcy drzew rosnących przy Żółkiewskiego przyszli do radnych Raciborza. „To jest jakiś odlot”",
-      "summary": "Około stu mieszkańców tzw. osiedla hetmańskiego podpisało petycję by wstrzymać wycinkę drzewostanu pod budowę stacji ładowania dla „elektryków”. Ich reprezentanci poprosili radnych Raciborza w środę 30 września o wysłuchanie. - Potrzebujemy tam zacienionego miejsca - apelowali, wspierani przez…",
-      "link": "https://www.nowiny.pl/wiadomosci/251294-obroncy-drzew-rosnacych-przy-zolkiewskiego-przyszli-do-radnych-raciborza-to-jest-jakis-odlot.html",
-      "published": "2026-10-01T21:35",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "4dc0fdcea6c00280d9fe9b58c31156b90d211001",
-      "title": "Wrzucił do butelkomatu kilkadziesiąt butelek. Ucieszył się, bo \"zarobił\" na piwa...",
-      "summary": "\"Żona to jednak miała rację, że wysłała mnie z tym plastikiem. Zarobiłem i teraz mam na kilka piw\" - ucieszył się pewien mój znajomy, odchodząc od automatu kaucyjnego, do którego chwilę wcześniej - z pokaźnego worka - wpakował kilkadziesiąt plastikowych butelek i aluminiowych puszek. \"Jak zarobiłeś…",
-      "link": "https://www.nowiny.pl/opinie/251293-wrzucil-do-butelkomatu-kilkadziesiat-butelek-ucieszyl-sie-bo-zarobil-na-piwa.html",
-      "published": "2026-10-01T19:57",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "630c2da981bde28037d2f75e4eac1ddb69ca3504",
       "title": "Jedna osoba ranna, wypadek motocyklisty w Gaszowicach [ZDJĘCIA]",
       "summary": "Fatalnie wyglądający wypadek motocyklisty w Gaszowicach.",
@@ -247,16 +327,6 @@
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "ALERT"
-    },
-    {
-      "id": "dacd719a53be824d36b1ef381ba76fa328547d3d",
-      "title": "Chuchu podbiło ogród w Miedoni. Zaczęło się od jednego owocu, dziś Andrzej zbiera ich setki",
-      "summary": "Kiedy Andrzej Marcinek mówi rano „dzień dobry”, jego żona Beata wie, że za chwilę rozpocznie się kolejny obchód ich ogrodowego eksperymentu. Andrzej sprawdza chuchu centymetr po centymetrze, szukając nowych pędów. Roślina nie pozwala się długo nudzić. To ciepłolubne, egzotyczne pnącze rośnie tak…",
-      "link": "https://agronowiny.pl/wiadomosci/251252-chuchu-podbilo-ogrod-w-miedoni-zaczelo-sie-od-jednego-owocu-dzis-andrzej-zbiera-ich-setki.html",
-      "published": "2026-10-01T16:30",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
     },
     {
       "id": "98942b17fcfa3207a6efe4a77ffc57a134c221f1",
@@ -487,66 +557,6 @@
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
-    },
-    {
-      "id": "4e2622b13476d60ca9405f3ffe54bf95040aed91",
-      "title": "Statystyki policyjne za ostatnią dobę. Tragiczne zdarzenia w naszym regionie. Problemy na A1",
-      "summary": "176 zdarzeń, 8 osób rannych, niestety jedna osoba nie żyje. To podsumowanie wtorku (29.09) na drogach województwa śląskiego.",
-      "link": "https://www.radio90.pl/statystyki-policyjne-za-ostatnia-dobe-tragiczne-zdarzenia-w-naszym-regionie.html",
-      "published": "2026-09-30T07:35",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "71a4bb97efb459c3ae8b5bfb81869648fc71ca95",
-      "title": "Rybnik: zobacz odnowioną salę sesyjną i poznaj jej niesamowitą historię",
-      "summary": "Odnowioną salę sesyjną Urzędu Miasta Rybnika będzie można zobaczyć od środka.",
-      "link": "https://www.radio90.pl/rybnik-zobacz-odnowiona-sale-sesyjna-i-poznaj-jej-niesamowita-historie.html",
-      "published": "2026-09-30T06:10",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "82ae100d26d475256624688f7f69e82f375113ac",
-      "title": "Dachowanie w Bogunicach. Na szczęście nie ma osób poszkodowanych",
-      "summary": "Uważajcie o poranku na drogach. Mamy informacje sprzed chwili. Około godziny 6.30 w Bogunicach na ulicy Raciborskiej dachowało auto osobowe.",
-      "link": "https://www.radio90.pl/dachowanie-w-bogunicach.html",
-      "published": "2026-09-30T05:07",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b788b4d93a4e06d422ca6ba6c43301f46531ac3f",
-      "title": "Biblioteka w Rybniku poleca się nie tylko z okazji dnia głośnego czytania",
-      "summary": "29 września, w Dniu Głośnego Czytania polecamy cykl „Tu czytamy” w bibliotece w Rybniku, to rodzinne warsztaty literacko-plastyczne dla najmłodszych.",
-      "link": "https://www.radio90.pl/biblioteka-w-rybniku-poleca-sie-nie-tylko-z-okazji-dnia-glosnego-czytania.html",
-      "published": "2026-09-29T14:32",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "5cb11b8e4ed54646bfc1060025eeba16ff3083ef",
-      "title": "Konkurs dla młodych, zdolnych, przedsiębiorczych na rybnicki Biznesplan",
-      "summary": "12 tysięcy złotych wynosi łączna pula nagród finansowych w konkursie Rybnicki Biznesplan. Kto może zdobyć kasę?",
-      "link": "https://www.radio90.pl/konkurs-dla-mlodych-zdolnych-przedsiebiorczych-na-rybnicki-biznesplan.html",
-      "published": "2026-09-29T13:50",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ca74b0ab8ff6140aff26b9f7944084b449fd5cad",
-      "title": "Mieszkańcy alarmują: lisy w Niedobczycach przechadzają się po parkowych alejkach",
-      "summary": "Lisy terroryzują mieszkańców Niedobczyc. Zwierzęta pojawiają się zwykle wieczorem w Parku Czempiela. Nasz słuchacz zgłosił problem, a na miejsce pojechał nasz reporter, który rozmawiał z mieszkańcami okolic niedobczyckiego parku.",
-      "link": "https://www.radio90.pl/mieszkancy-alarmuja-lisy-w-niedobczycach-przechadzaja-sie-po-parkowych-alejkach.html",
-      "published": "2026-09-29T11:32",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "ALERT"
     },
     {
       "id": "58df2c9bb4518162684e2576b69cd33cfcfcf602",
@@ -967,16 +977,6 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
-    },
-    {
-      "id": "f40e419e6ecb586444c970f72b3bb7d650a2b793",
-      "title": "Rusza budowa łącznika ulic Kominka i Orzepowickiej",
-      "summary": "Od poniedziałku 21 września ulica Jośki zostanie częściowo zamknięta z powodu prac rozbiórkowych i budowy kanalizacji deszczowej. Sprawdź, jak dojechać do Młodzieżowego Domu Kultury na czas trwania robót.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/powstanie-polaczenie-ulic-kardynala-kominka-i-orzepowickiej-1",
-      "published": "2026-09-18T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
     },
     {
       "id": "8fc60345aa71d75527c240b77222879a1411a5bd",
