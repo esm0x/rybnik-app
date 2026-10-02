@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T05:38:59",
+  "generated_at": "2026-10-02T12:36:30",
   "count": 120,
   "failures": [
     {
@@ -9,10 +9,210 @@
   ],
   "items": [
     {
-      "id": "921eba43dd6221916fede690e9c32e0ad69895b3",
-      "title": "Obrońcy drzew przy Żółkiewskiego na sesji. „To jest jakiś odlot”",
+      "id": "d00f3821db57c0f6035fa6e2f49eb43b2332096a",
+      "title": "Unikat na skalę Euroregionu Silesia. W lasku w Samborowicach powstał nowy tor rowerowy - single track",
+      "summary": "Ta nowa atrakcja turystyki rowerowej powstała przede wszystkim z myślą o mieszkańcach Samborowic. Żeby mieli gdzie spędzać czas wolny. Jest to również „miejscówka” także dla sąsiadów z okolicznych miejscowości, a także rowerowych turystów, także tych zza polsko-czeskiej granicy.",
+      "link": "https://www.nowiny.pl/wiadomosci/251307-unikat-na-skale-euroregionu-silesia-w-lasku-w-samborowicach-powstal-nowy-tor-rowerowy-single-track.html",
+      "published": "2026-10-02T12:14",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "178c8a3a917993a95766e5366f64c402b3928806",
+      "title": "Weekendowy wypad bez samochodu – dokąd dojedziesz bezpośrednim autobusem?",
+      "summary": "Brak własnego samochodu lub chęć uniknięcia stresu za kierownicą, korków i poszukiwania drogich miejsc parkingowych nie musi oznaczać rezygnacji z weekendowych podróży. Nowoczesna sieć połączeń autokarowych umożliwia szybkie i bezpośrednie dotarcie do najpiękniejszych zakątków Polski oraz…",
+      "link": "https://www.radio90.pl/weekendowy-wypad-bez-samochodu-dokad-dojedziesz-bezposrednim-autobusem.html",
+      "published": "2026-10-02T10:37",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3d1fca11d56d838e564f40fd7d54955b12b69b6b",
+      "title": "Stracił prawo jazdy bo nie dotrzymał nierealnego terminu. Mieszkaniec Wodzisławia zgłasza sprawę prokuraturze i odsłania szeroki problem",
+      "summary": "Do naszej redakcji zgłosił się mieszkaniec Wodzisławia Śląskiego, który stał się ofiarą nierealnych ustawowych terminów, pokazując przy tym bezradność i brak empatii urzędników. Pan Mateusz stracił prawo jazdy, bo nie udało mu się wykonać badań w ustawowym terminie 30 dni. Wydział Komunikacji miał…",
+      "link": "https://www.nowiny.pl/wiadomosci/251295-stracil-prawo-jazdy-bo-nie-dotrzymal-nierealnego-terminu-mieszkaniec-wodzislawia-zglasza-sprawe-prokuraturze-i-odslania-szeroki-problem.html",
+      "published": "2026-10-02T10:37",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7aa5b196d9a308dafea34bd54cfe7a050c6dfb80",
+      "title": "Jaki synbiotyk dla osoby starszej warto wybrać?",
+      "summary": "Podsumowanie: Po 60. roku życia mikrobiota jelitowa staje się mniej zróżnicowana, a dodatkowym obciążeniem mogą być częste infekcje oraz przewlekłe przyjmowanie leków. Synbiotyk dla seniora łączy bakterie probiotyczne z prebiotykiem, który stanowi dla nich pożywkę. Przy wyborze preparatu warto…",
+      "link": "https://www.radio90.pl/jaki-synbiotyk-dla-osoby-starszej-warto-wybrac.html",
+      "published": "2026-10-02T10:36",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "950d2de720126c955af39ec7d403d9fd42516574",
+      "title": "Pietrowice Wielkie mogą zostać miastem. Ruszają konsultacje z mieszkańcami",
+      "summary": "Pietrowice Wielkie mogą w przyszłości zostać miastem. Gmina rozpoczyna konsultacje społeczne w sprawie nadania miejscowości statusu miasta. Mieszkańcy mogą wyrazić swoje poparcie lub sprzeciw wobec tego pomysłu od 1 do 30 października. Jeśli Pietrowice Wielkie otrzymałyby prawa miejskie, byłyby…",
+      "link": "https://www.nowiny.pl/wiadomosci/251304-pietrowice-wielkie-moga-zostac-miastem-ruszaja-konsultacje-z-mieszkancami.html",
+      "published": "2026-10-02T09:54",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d653e6e0e4c3a3a6977128c2e439ee07fb28fb33",
+      "title": "Złota polska jesień i tłumy w Ogródku Jordanowskim! Tak wygląda Święto Dyni w Raciborzu [ZDJĘCIA]",
+      "summary": "Piękna pogoda, mnóstwo dzieci i wiele ciekawych warsztatów. W raciborskim Ogródku Jordanowskim trwa Święto Dyni. Zajrzeliśmy tam przed południem, zobaczcie zdjęcia.",
+      "link": "https://agronowiny.pl/wiadomosci/251303-zlota-polska-jesien-i-tlumy-w-ogrodku-jordanowskim-tak-wyglada-swieto-dyni-w-raciborzu-zdjecia.html",
+      "published": "2026-10-02T09:16",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "20f3b28c46321e0ef833a77b55f72aa38d1ab02f",
+      "title": "Od kościelnych dzwonów po dożynkowe wieńce. Dawny Racibórz od święta",
+      "summary": "Kościoły wyznaczały panoramę miasta, figury świętych stały przy drogach i na placach, a podczas religijnych uroczystości odświętnie ubrane kobiety niosły figurę Matki Boskiej. Wiara była obecna nie tylko w świątyniach. Towarzyszyła codzienności, świętom i dożynkom, przenikając się z obyczajem i…",
+      "link": "https://historion.pl/historia/251301-od-koscielnych-dzwonow-po-dozynkowe-wience-dawny-raciborz-od-swieta.html",
+      "published": "2026-10-02T07:57",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "30f79440bc8d750b742f894722f72d730ff5de57",
+      "title": "Kopalnia uruchamia nową ścianę. Mieszkańcy Marklowic powinni sprawdzić mapę wpływów eksploatacji",
+      "summary": "Polska Grupa Górnicza poinformowała o planowanym uruchomieniu ściany W-4 w pokładzie 507. Jej eksploatacja ma potrwać do grudnia 2027 roku. Mieszkańcy Marklowic mogą sprawdzić, czy ich nieruchomości znajdują się w zasięgu prognozowanych wpływów wydobycia.",
+      "link": "https://www.nowiny.pl/wiadomosci/251300-kopalnia-uruchamia-nowa-sciane-mieszkancy-marklowic-powinni-sprawdzic-mape-wplywow-eksploatacji.html",
+      "published": "2026-10-02T07:57",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "793c7310a31eb5cbb40b817bd2965af01666afcc",
+      "title": "Dwa Złote Dyplomy i dwa pierwsze miejsca. Chór SonArte z Radlina triumfował w Katalonii",
+      "summary": "Chór SonArte z Radlina wrócił z Hiszpanii z czterema nagrodami. Podczas międzynarodowego festiwalu w Katalonii zdobył dwa Złote Dyplomy i dwukrotnie zajął pierwsze miejsce. Chórzyści wystąpili również w krypcie słynnej bazyliki Sagrada Família w Barcelonie.",
+      "link": "https://www.nowiny.pl/wiadomosci/251299-dwa-zlote-dyplomy-i-dwa-pierwsze-miejsca-chor-sonarte-z-radlina-triumfowal-w-katalonii.html",
+      "published": "2026-10-02T07:47",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "cd1ae4914d7e18b2ef33ddb6c82b2ee28562c086",
+      "title": "Pierwszy Polak z medalem mistrzostw świata. Wspomnienie o Antku",
+      "summary": "14 grudnia 2001 r., w szpitalu w Jastrzębiu Zdroju w wieku 60 lat, zmarł wielki sportowiec, mistrz i nauczyciel - Antoni Woryna.",
+      "link": "https://historion.pl/historia/251298-pierwszy-polak-z-medalem-mistrzostw-swiata-wspomnienie-o-antku.html",
+      "published": "2026-10-02T07:21",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4e8d707fa03a9576e9a43d54265ce2632fa4c55e",
+      "title": "Myślisz o pracy, w której każdy dzień stawia inne wyzwania? Sprawdź, czy masz predyspozycje do wspierania innych jako tyflopedagog",
+      "summary": "Ośmioletni chłopiec z niedowidzeniem uczy się samodzielnie odnajdywać swoją szafkę w szatni. Dla części osób to zwykła codzienna czynność, dla niego — kolejny krok w stronę większej samodzielności. Tyflopedagog musi przy tym uważnie dopasować sposób pracy do potrzeb dziecka i reagować na to, co…",
+      "link": "https://www.nowiny.pl/wiadomosci/251305-myslisz-o-pracy-w-ktorej-kazdy-dzien-stawia-inne-wyzwania-sprawdz-czy-masz-predyspozycje-do-wspierania-innych-jako-tyflopedagog.html",
+      "published": "2026-10-02T07:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "fa20eba76a4dc33de7e36fdcaca703708e115621",
+      "title": "Wypadek na rondzie w Jankowicach. Kto zawinił?",
+      "summary": "Kierujący motorowerem 33-latek i jego 29-letnia pasażerka zostali ranni w wypadku na rondzie w Jankowicach. Policja przekazała wstępne ustalenia dotyczące zdarzenia.",
+      "link": "https://www.nowiny.pl/wiadomosci/251297-wypadek-na-rondzie-w-jankowicach-kto-zawinil.html",
+      "published": "2026-10-02T06:46",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "330d1eadf7474c0b7873a27d1f5298958932bbe6",
+      "title": "„Uśmiechajcie się do siebie!” – apelują mieszkańcy regionu, a z nimi Radio 90. Dziś Międzynarodowy Dzień Uśmiechu",
+      "summary": "Dziś, 2 października - Międzynarodowy Dzień Uśmiechu. Właśnie o uśmiech pytaliśmy mieszkańców regionu.",
+      "link": "https://www.radio90.pl/usmiechajcie-sie-do-siebie-apeluja-mieszkancy-regionu-a-z-nimi-radio-90-dzis-miedzynarodowy-dzien-usmiechu.html",
+      "published": "2026-10-02T06:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3bb5154b94f1ba978df8aa71652e05d72cdd253a",
+      "title": "Biogazownia w Rybniku: jest umowa z inwestorem zastępczym. Niedługo wybiorą głównego wykonawcę instalacji w Niewiadomiu",
+      "summary": "Biogazownia w Rybniku wchodzi w etap realizacji. Centrum Zielonej Energii podpisało umowę z firmą (Wudimeks), która będzie inwestorem zastępczym i zajmie się między innymi nadzorem nad budową, harmonogramem i kosztami.",
+      "link": "https://www.radio90.pl/biogazownia-w-rybniku-jest-umowa-z-inwestorem-zastepczym-niedlugo-wybiora-glownego-wykonawce-instalacji-w-niewiadomiu.html",
+      "published": "2026-10-02T06:35",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9da79843c915e1208354c8731ba99fa57cd96fe5",
+      "title": "Jak niszczono polską kolej? Karol Trammer opowie o tym w Raciborzu",
+      "summary": "Dlaczego polska kolej straciła pasażerów i jaki wpływ na jej funkcjonowanie mają decyzje polityków? O tym opowie Karol Trammer, dziennikarz i autor książek poświęconych polskiej kolei. Spotkanie odbędzie się 8 października w bibliotece przy ul. Żorskiej w Raciborzu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251296-jak-niszczono-polska-kolej-karol-trammer-opowie-o-tym-w-raciborzu.html",
+      "published": "2026-10-02T06:32",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a77149d199d9b5d451a0fcf617393a173d60f8fa",
+      "title": "Miasto Rybnik i Koleje Śląskie Sp. z o.o. łączą siły na wypadek awarii",
+      "summary": "W dniu 28 września 2026 r. Miasto Rybnik i Koleje Śląskie podpisały umowę dotyczącą wzajemnej współpracy w sytuacjach awarii i utrudnień w funkcjonowaniu transportu kolejowego.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/miasto-rybnik-i-koleje-slaskie-sp-z-oo-lacza-sily-na-wypadek-awarii",
+      "published": "2026-10-02T00:00",
+      "source": "rybnik.eu",
+      "category": "Komunikaty",
+      "priority": "ALERT"
+    },
+    {
+      "id": "eab92a670daf74917a971e841b02412dfde01b89",
+      "title": "Rybnik dzieli się doświadczeniami",
+      "summary": "Radni z Bełchatowa z wizytą studyjną w sprawie transformacji wodorowej.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/rybnik-dzieli-sie-doswiadczeniami",
+      "published": "2026-10-02T00:00",
+      "source": "rybnik.eu",
+      "category": "Komunikaty",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ee0f2cf24917d107dd70c85e9c25456111ff8ecc",
+      "title": "Zapowiedzi sportowe",
+      "summary": "W najbliższy weekend 25-lecie istnienia świętować będą rybnickie Rybki. O ligowe punkty –jako gospodarze – powalczą koszykarze MKKS-u i piłkarki TS ROW.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zapowiedzi-sportowe-wrzesien-1",
+      "published": "2026-10-02T00:00",
+      "source": "rybnik.eu",
+      "category": "Sport",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0b414447434fd0555ed636f841eb39bbc6ebca73",
+      "title": "Podziel się opinią o budżecie obywatelskim",
+      "summary": "Zachęcamy do udziału w krótkiej ankiecie dotyczącej tegorocznej edycji budżetu obywatelskiego. Wasze opinie pomogą lepiej przygotować kolejne edycje.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/podziel-sie-opinia-o-budzecie-obywatelskim",
+      "published": "2026-10-02T00:00",
+      "source": "rybnik.eu",
+      "category": "Budżet obywatelski",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1737133b72ab10a14e86a596f64f317718d4f937",
+      "title": "Nutrie i woda. Co daje im sztuczna rzeka w Nutriowisku?",
+      "summary": "Woda jest jednym z najważniejszych elementów środowiska, z którego nutrie korzystają na co dzień. Ma to szczególne znaczenie w Nutriowisku – izolowanym azylu, w którym nutrie odłowione z terenów Rybnika mogą żyć w warunkach odpowiadających ich potrzebom, bez zagrożenia dla rodzimych ekosystemów.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/nutrie-i-woda-co-daje-im-sztuczna-rzeka-w-nutriowisku",
+      "published": "2026-10-02T00:00",
+      "source": "rybnik.eu",
+      "category": "Zwierzęta",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "021c1b9adf98077a64a4e6e7e44c328eed5123b0",
+      "title": "Obrońcy drzew rosnących przy Żółkiewskiego przyszli do radnych Raciborza. „To jest jakiś odlot”",
       "summary": "Około stu mieszkańców tzw. osiedla hetmańskiego podpisało petycję by wstrzymać wycinkę drzewostanu pod budowę stacji ładowania dla „elektryków”. Ich reprezentanci poprosili radnych Raciborza w środę 30 września o wysłuchanie. - Potrzebujemy tam zacienionego miejsca - apelowali, wspierani przez…",
-      "link": "https://www.nowiny.pl/wiadomosci/251294-obroncy-drzew-przy-zolkiewskiego-na-sesji-to-jest-jakis-odlot.html",
+      "link": "https://www.nowiny.pl/wiadomosci/251294-obroncy-drzew-rosnacych-przy-zolkiewskiego-przyszli-do-radnych-raciborza-to-jest-jakis-odlot.html",
       "published": "2026-10-01T21:35",
       "source": "nowiny.pl",
       "category": "Region",
@@ -69,36 +269,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "d94643864beaa80bfa3520434b1c9854bcdea25c",
-      "title": "Bieg i marsz dla każdego w Modzurowie-Jastrzębiu. Na uczestników czeka 6-kilometrowa trasa",
-      "summary": "W sobotę, 10 października, w Modzurowie-Jastrzębiu (gm. Rudnik) odbędzie się druga edycja zawodów „Drabko”. Uczestnicy będą mogli wybrać między biegiem głównym a marszem nordic walking. Bieg rozpocznie się o godz. 13, a marsz dziesięć minut później. Start i biuro zawodów będą mieścić się na łące…",
-      "link": "https://www.nowiny.pl/wiadomosci/251291-bieg-i-marsz-dla-kazdego-w-modzurowie-jastrzebiu-na-uczestnikow-czeka-6-kilometrowa-trasa.html",
-      "published": "2026-10-01T15:59",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "114543fe7e0d0b17a59a38aabb91a31fb3de25b1",
-      "title": "Zmarł Zbigniew Mużelak. Był dyrektorem szkoły w Nędzy i wieloletnim muzykiem „Strzechy”",
-      "summary": "Zmarł Zbigniew Mużelak, wieloletni pedagog i dyrektor Szkoły Podstawowej w Nędzy, a także muzyk przez dziesięciolecia związany z życiem kulturalnym Raciborza i ziemi raciborskiej. Miał 80 lat. O jego śmierci redakcję Nowin poinformowała rodzina.",
-      "link": "https://www.nowiny.pl/wiadomosci/251290-zmarl-zbigniew-muzelak-byl-dyrektorem-szkoly-w-nedzy-i-wieloletnim-muzykiem-strzechy.html",
-      "published": "2026-10-01T15:22",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "1d6947a8ddcc65400c4c3e35741f88156e43bb7c",
-      "title": "Z Raciborza do Rybnika specjalnym pociągiem. Tak uczczą 170 lat kolei",
-      "summary": "Dokładnie 170 lat temu, 1 października 1856 roku, do Rybnika wjechał pierwszy pociąg parowy. Miasto przypomina tę rocznicę serią wydarzeń, a głównym punktem obchodów będzie 17 października specjalny przejazd Kolei Śląskich z Raciborza do Rybnika.",
-      "link": "https://www.nowiny.pl/wiadomosci/251282-z-raciborza-do-rybnika-specjalnym-pociagiem-tak-uczcza-170-lat-kolei.html",
-      "published": "2026-10-01T15:12",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "65436e2c8b227c3c6a832075dba8ce73edba9555",
       "title": "Jarmark u Antoniczka znów odbędzie się w Rybniku. Miasto ogłasza termin przedświątecznej imprezy. Szuka też wystawców",
       "summary": "Dwa świąteczne jarmarki w centrum Rybnika, miasto zapowiada jak w tym roku będą wyglądały obchody Bożego Narodzenia: \"Antoniczek, rynek i okoliczne uliczki będą tętnić życiem, muzyką i zapachem regionalnych przysmaków\".",
@@ -106,26 +276,6 @@
       "published": "2026-10-01T14:45",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "44d40abb0b421f2b0e1a98e854b7c70939a8f28e",
-      "title": "Czy na przejazdach kolejowych może być bezpieczniej? Entuzjaści kolei przedstawiają propozycje",
-      "summary": "Ministerstwo Infrastruktury przedstawiło propozycję zwiększenia kar dla kierowców za przejechanie na czerwonym świetle lub ominięcie szlabanu na przejazdach kolejowych. To odpowiedź na wrześniowe tragiczne wypadki na przejazdach, m.in. w Sokolnikach Suchych. Do tych propozycji odnieśli się…",
-      "link": "https://www.nowiny.pl/wiadomosci/251289-czy-na-przejazdach-kolejowych-moze-byc-bezpieczniej-entuzjasci-kolei-przedstawiaja-propozycje.html",
-      "published": "2026-10-01T14:40",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b2dee86fd213e1b5d5c49b283c373986808bde83",
-      "title": "Październikowe nowości w kinach Helios",
-      "summary": "Nowy miesiąc rozpoczyna się wejściem do kin dwóch tytułów – wyczekiwanej superprodukcji „Lalka” oraz animacji „Zapomniana wyspa”. Na wielkich ekranach pojawią się również projekcje „Resident Evil” i „100 dni: Misja Zeus”, jak też wyjątkowe seanse filmów dla dzieci w ramach Festiwalu Filmowego…",
-      "link": "https://www.nowiny.pl/wiadomosci/251288-pazdziernikowe-nowosci-w-kinach-helios.html",
-      "published": "2026-10-01T14:30",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -139,16 +289,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "c7d8947ede96a8d1b6fa5e2132059c5053c1943c",
-      "title": "VI Bieg Erasmusa w Ekonomiku – sportowa rywalizacja i integracja uczniów [ZDJĘCIA]",
-      "summary": "30 września 2026 r. na stadionie OSiR w Raciborzu odbyła się szósta edycja Biegu Erasmusa w Ekonomiku, zorganizowana w ramach Europejskiego Tygodnia Sportu. W wydarzeniu uczestniczyło 124 uczniów, reprezentujących 13 klas, podzielonych czteroosobowe drużyny.",
-      "link": "https://www.nowiny.pl/nie-przegap/251285-vi-bieg-erasmusa-w-ekonomiku-sportowa-rywalizacja-i-integracja-uczniow-zdjecia.html",
-      "published": "2026-10-01T11:55",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "8a6a604a0187c3c5f2e68cbb4e810d5298a1ffca",
       "title": "Nowy rok akademicki w regionie. Z jakimi nadziejami studenci wracają na uczelnie?",
       "summary": "1 października w kalendarzach - dziś rozpoczyna się nowy rok akademicki.",
@@ -156,16 +296,6 @@
       "published": "2026-10-01T11:15",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "37ac64794d2cbdd6d2cd700f4173fac2f741be22",
-      "title": "Wiadomo, kto pokieruje nowymi zespołami szkolno-przedszkolnymi w Raciborzu",
-      "summary": "Norma Małecka-Pawlik pokieruje ZSP nr 6 przez najbliższe pięć lat. Konkurs na dyrektora ZSP nr 5 nie został natomiast rozstrzygnięty. Władze zdecydował się powierzyć Mariuszowi Kalecie obowiązki dyrektora na 10 miesięcy.",
-      "link": "https://www.nowiny.pl/wiadomosci/251284-wiadomo-kto-pokieruje-nowymi-zespolami-szkolno-przedszkolnymi-w-raciborzu.html",
-      "published": "2026-10-01T11:05",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -196,46 +326,6 @@
       "published": "2026-10-01T09:10",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c4a79d83895d548a3278dc7e3c3fd012fff5563a",
-      "title": "Właściciel odjechał, a kilka tysięcy złotych zostało w bankomacie. Znalazca nie wziął ani złotówki",
-      "summary": "Kilka tysięcy złotych czeka na właściciela w jastrzębskiej komendzie. Pieniądze zostały pozostawione 24 września w bankomacie przy al. Piłsudskiego.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251280-wlasciciel-odjechal-a-kilka-tysiecy-zlotych-zostalo-w-bankomacie-znalazca-nie-wzial-ani-zlotowki.html",
-      "published": "2026-10-01T09:10",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "080f7c4688e734a06e31281aad75f6e21bd57d01",
-      "title": "Zmarł ks. Józef Knyć. Przed laty był proboszczem w Lyskach i wicedziekanem dekanatu Pogrzebień",
-      "summary": "W wieku 80 lat zmarł ks. Józef Knyć, który przez osiem lat był związany z parafią św. Małgorzaty w Lyskach. Duchowny pełnił również funkcję wicedziekana dekanatu Pogrzebień.",
-      "link": "https://www.nowiny.pl/wiadomosci/251279-zmarl-ks-jozef-knyc-przed-laty-byl-proboszczem-w-lyskach-i-wicedziekanem-dekanatu-pogrzebien.html",
-      "published": "2026-10-01T08:58",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6050228acc0c36dbe757810a39b1fcffc045d1e6",
-      "title": "Nastolatka przeżywała kryzys. Policjanci odnaleźli ją na moście nad Odrą",
-      "summary": "Policja otrzymała zgłoszenie dotyczące nastolatki w kryzysie emocjonalnym. Nie było wiadomo, gdzie przebywa.",
-      "link": "https://www.nowiny.pl/wiadomosci/251278-nastolatka-przezywala-kryzys-policjanci-odnalezli-ja-na-moscie-nad-odra.html",
-      "published": "2026-10-01T08:32",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d3f7611f2e525fcd3ebc13ad03358c63e055c3eb",
-      "title": "Mazda zatrzymała się przed pasami. Volkswagen wepchnął ją prosto na pieszą",
-      "summary": "Do groźnego zdarzenia doszło w środę po południu na ul. Opawskiej. Poszkodowana 71-latka została przewieziona do szpitala.",
-      "link": "https://www.nowiny.pl/wiadomosci/251277-mazda-zatrzymala-sie-przed-pasami-volkswagen-wepchnal-ja-prosto-na-piesza.html",
-      "published": "2026-10-01T08:19",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -429,16 +519,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "bd69275340ae2e5806320b381657c12dab6fa8ad",
-      "title": "Jak przygotować się na ekstremalne zjawiska pogodowe?",
-      "summary": "10 października 2026 r. w Rybniku odbędzie się bezpłatne spotkanie edukacyjne MISJA/72, poświęcone przygotowaniu mieszkańców na skutki zmian klimatu.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/jak-przygotowac-sie-na-ekstremalne-zjawiska-pogodowe",
-      "published": "2026-09-30T00:00",
-      "source": "rybnik.eu",
-      "category": "Bezpieczeństwo",
-      "priority": "NORMAL"
-    },
-    {
       "id": "b788b4d93a4e06d422ca6ba6c43301f46531ac3f",
       "title": "Biblioteka w Rybniku poleca się nie tylko z okazji dnia głośnego czytania",
       "summary": "29 września, w Dniu Głośnego Czytania polecamy cykl „Tu czytamy” w bibliotece w Rybniku, to rodzinne warsztaty literacko-plastyczne dla najmłodszych.",
@@ -459,26 +539,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "b07508e0bc3a9ed8891fd3ccdcec991aac94881f",
-      "title": "Dyniowa Stacja Rudy. Mamy dla Was wejściówki [KONKURS w RADIU 90]",
-      "summary": "Tej jesieni rusza Dyniowa Stacja Rudy! Przez cały październik, w każdy weekend, zabytkowa stacja kolejki wąskotorowej zamieni się w pełne jesiennego klimatu miejsce, idealne na rodzinny wypad. W Radiu 90 mamy dla was bilety na wyjątkową przejażdżkę Dyniowym Ekspresem.",
-      "link": "https://www.radio90.pl/dyniowa-stacja-rudy-mamy-dla-was-wejsciowki-konkurs-w-radiu-90.html",
-      "published": "2026-09-29T13:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "5a0ca13129527b0f951aacfeba254933ebd19575",
-      "title": "Kawa oznacza aromatyczny początek dnia. Jak znaleźć dobrą kawę, właściwie ją zaparzyć i delektować się smakiem? Dziś obchodzimy Dzień Kawy",
-      "summary": "Aromatyczny początek dnia, czyli dla większości z nas moment z poranną kawą. W Radiu 90 dzisiaj mamy dla was podpowiedzi: jak wycisnąć to, co najlepsze z filiżanki ulubionego napoju.",
-      "link": "https://www.radio90.pl/kawa-oznacza-aromatyczny-poczatek-dnia-jak-znalezc-dobra-kawe-wlasciwie-ja-zaparzyc-i-delektowac-sie-smakiem.html",
-      "published": "2026-09-29T12:16",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "ca74b0ab8ff6140aff26b9f7944084b449fd5cad",
       "title": "Mieszkańcy alarmują: lisy w Niedobczycach przechadzają się po parkowych alejkach",
       "summary": "Lisy terroryzują mieszkańców Niedobczyc. Zwierzęta pojawiają się zwykle wieczorem w Parku Czempiela. Nasz słuchacz zgłosił problem, a na miejsce pojechał nasz reporter, który rozmawiał z mieszkańcami okolic niedobczyckiego parku.",
@@ -489,26 +549,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "e469aca189c57124b24e7e19338e1b387666671f",
-      "title": "Koleje Śląskie: wszystkie łapki na pokład! Coraz więcej pasażerów podróżuje ze zwierzętami",
-      "summary": "Czworonożni przyjaciele coraz częściej towarzyszą pasażerom Kolei Śląskich. W pierwszym półroczu 2026 roku w taką podróż wybrało się ponad 19 tys. osób – o ponad 7 proc. więcej niż w analogicznym okresie ubiegłego roku.",
-      "link": "https://www.radio90.pl/koleje-slaskie-wszystkie-lapki-na-poklad-coraz-wiecej-pasazerow-podrozuje-ze-zwierzetami.html",
-      "published": "2026-09-29T10:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ca7b4ef65f7b2d70df4f2de5188787b3dfde6c4f",
-      "title": "Śląska policja wyłapała kolejnych kierowców na podwójnym gazie",
-      "summary": "179 zdarzeń, w których rannych zostało 5 osób. Te liczby znajdziemy w raporcie śląskiej drogówki z minionej doby.",
-      "link": "https://www.radio90.pl/slaska-policja-wylapala-kolejnych-kierowcow-na-podwojnym-gazie.html",
-      "published": "2026-09-29T08:32",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "58df2c9bb4518162684e2576b69cd33cfcfcf602",
       "title": "Nowy inwestor w strefie gospodarczej przy ul. Sportowej",
       "summary": "17 września br. rozstrzygnięty został przetarg na sprzedaż terenu o powierzchni 2 ha na terenie strefy gospodarczej przy ul. Sportowej w dzielnicy Niewiadom.",
@@ -516,26 +556,6 @@
       "published": "2026-09-29T00:00",
       "source": "rybnik.eu",
       "category": "Biznes",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d94d019a141a1c824593f34c2c997e79d7837a0f",
-      "title": "Zobacz na własne oczy odnowioną salę sesyjną i poznaj jej niesamowitą historię",
-      "summary": "Już 1 października w godzinach 8:00–18:00 Urząd Miasta otwiera drzwi odrestaurowanej sali sesyjnej dla wszystkich mieszkańców. To wyjątkowa okazja, by z bliska przyjrzeć się historycznym detalom oraz poznać niezwykłe losy stuletniego krucyfiksu, który przetrwał wojnę i PRL.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zobacz-na-wlasne-oczy-odnowiona-sale-sesyjna-i-poznaj-jej-niesamowita-historie",
-      "published": "2026-09-28T00:00",
-      "source": "rybnik.eu",
-      "category": "Urząd Miasta",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "452956f14fb4755a2121d62d44c2cfb1b007c4e8",
-      "title": "Rybnik w świątecznym klimacie",
-      "summary": "W grudniu centrum miasta ponownie wypełni się świąteczną atmosferą. Antoniczek, rynek i okoliczne uliczki będą tętnić życiem, muzyką i zapachem regionalnych przysmaków. Trwa nabór wystawców i lokalnych przedsiębiorców.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/rybnik-w-swiatecznym-klimacie",
-      "published": "2026-09-28T00:00",
-      "source": "rybnik.eu",
-      "category": "Wydarzenia",
       "priority": "NORMAL"
     },
     {
@@ -959,16 +979,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "e9989848e3889950307d5f76453472ac52b08cb9",
-      "title": "Postępy prac na ul. Grota-Roweckiego",
-      "summary": "Trwa realizacja drugiego etapu rozbudowy ulicy Grota-Roweckiego w Rybniku-Niewiadomiu. Inwestycja jest dofinansowana z Rządowego Funduszu Rozwoju Dróg.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/postepy-prac-na-ul-grota-roweckiego",
-      "published": "2026-09-18T00:00",
-      "source": "rybnik.eu",
-      "category": "Inwestycje",
-      "priority": "NORMAL"
-    },
-    {
       "id": "8fc60345aa71d75527c240b77222879a1411a5bd",
       "title": "Będzie ładniej na SOR-ze, ale najpierw - utrudnienia. Od poniedziałku wejście z innej strony",
       "summary": "Od najbliższego poniedziałku (21 września) pacjenci korzystający z Wojewódzkiego Szpitala Specjalistycznego nr 3 w Rybniku muszą liczyć się ze zmianami w organizacji ruchu. Rozpoczyna się modernizacja strefy wejściowej do Pawilonu nr 3, czyli wejścia do SOR. Utrudnienia potrwają do końca…",
@@ -977,16 +987,6 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
-    },
-    {
-      "id": "53389e1e145e248c6ca90e5391041ba668444e0e",
-      "title": "Przenosiny biblioteki na parter - wygodna i bez barier",
-      "summary": "Nowa filia w Boguszowicach to miejsce bez barier architektonicznych, stworzone z myślą o budowaniu lokalnych relacji. W niedzielne popołudnie zapraszamy na piknik oraz filozoficzne inspiracje z motywem literackim.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/przenosiny-biblioteki-na-parter-i-magiczny-podwieczorek-dla-mieszkancow",
-      "published": "2026-09-17T00:00",
-      "source": "rybnik.eu",
-      "category": "Edukacja",
-      "priority": "NORMAL"
     },
     {
       "id": "ce021849f8d472e46bf19dc70d433a413af7d655",

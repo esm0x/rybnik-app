@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T05:37:35",
+  "generated_at": "2026-10-02T12:34:31",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,7 +7,7 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 167,
+  "count": 172,
   "failures": [],
   "events": [
     {
@@ -449,17 +449,6 @@
       "description": "Rybnik zapowiada wieczór pełen głośnych gitar, punkrockowej energii i alternatywnego klimatu. 9 października w Klubie Odyseja zagrają Pull the Wire oraz Pierwszy Śnieg — będzie szybko, bezpośrednio i z dużą dawką koncertowych emocji. Warto pojawić się na miejscu, jeśli macie ochotę na solidną porcję polskiego rocka na żywo. Pull the Wire pochodzi z Żyrardowa i porusza się w klimatach punk rocka, rock’n’rolla oraz bezkompromisowych tekstów o codzienności. Ich koncerty mają atmosferę spontanicznego wypadu ze znajomymi — jest głośno, intensywnie i z przymrużeniem oka. Zespół nie stroni od kuflowego humoru, prostych obserwacji i numerów, przy których trudno ustać w miejscu. To propozycja dla osób, które lubią koncerty bez nadmiernego dystansu: z energią, potem i wspólnym śpiewaniem. Pull the Wire słynie z tego, że publiczność nie pozostaje jedynie widzem, ale szybko staje się częścią całego zamieszania. Drugą część muzycznego wieczoru wypełni Pierwszy Śnieg — młody formacją, ale niekoniecznie młody doświadczeniem zespół, który rozpoczął działalność w 2024 roku. W 2025 roku ukazała się ich pierwsza EP-ka, a rok później debiutancki album z 11 utworami.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/pull-the-wire-x-pierwszy-snieg-w-rybniku"
-    },
-    {
-      "id": "tzr-soyka-grott-orkiestra-w-holdzie-mistrzowi",
-      "title": "Soyka / Grott Orkiestra w hołdzie mistrzowi",
-      "category": "Koncert",
-      "start": "2026-10-09T18:00",
-      "end": "2026-10-09T19:30",
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "9 października 2026 roku Teatr Ziemi Rybnickiej wypełni się muzyką jednego z najważniejszych artystów polskiej sceny. „Soyka / Grott Orkiestra w hołdzie mistrzowi” to wyjątkowy koncert poświęcony twórczości Stanisława Soyki – kompozytora, wokalisty i pianisty, którego piosenki od ponad czterech dekad poruszają kolejne pokolenia słuchaczy.",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/soyka-grott-orkiestra-w-holdzie-mistrzowi.html"
     },
     {
       "id": "dk-bog-11058-wystawa-fotograficzna-rybnickie-kobiety-iii-ola-kubica",
@@ -1243,6 +1232,17 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/lalka.html"
     },
     {
+      "id": "iryb-dkk-wokol-ksiazki-wieslawa-mysliwskiego-traktat-o-luskaniu-f",
+      "title": "DKK wokół książki Wiesława Myśliwskiego „Traktat o łuskaniu fasoli”",
+      "category": "Inne",
+      "start": "2026-10-28T17:00",
+      "end": null,
+      "venue": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku",
+      "description": "Miłośnicy literatury będą mogli spotkać się, by porozmawiać o powieści Wiesława Myśliwskiego „Traktat o łuskaniu fasoli”. Dyskusję zaplanowano w ramach Dyskusyjnego Klubu Książki w Rybniku. Spotkanie będzie poświęcone rozmowie o książce „Traktat o łuskaniu fasoli”. Uczestnicy Dyskusyjnego Klubu Książki wspólnie omówią powieść Wiesława Myśliwskiego. Organizatorem spotkania jest Powiatowa i Miejska Biblioteka Publiczna im. Konstantego Prusa w Rybniku . Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/dkk-wokol-ksiazki-wieslawa-mysliwskiego-traktat-o-luskaniu-fasoli"
+    },
+    {
       "id": "iryb-tu-kino-seans-rodzinny-pucio",
       "title": "Tu Kino – seans rodzinny: „Pucio”",
       "category": "Film",
@@ -1815,15 +1815,59 @@
       "sourceUrl": "https://biletyna.pl/spektakl/Najdrozszy?eid=707088#opis"
     },
     {
+      "id": "bilnya-ballady-rockowe-przy-swiecach-polskie-legendy-202701211930",
+      "title": "Ballady Rockowe przy Świecach: Polskie Legendy",
+      "category": "Koncert",
+      "start": "2027-01-21T19:30",
+      "end": "2027-01-21T21:00",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/Ballady-Rockowe-przy-Swiecach-Polskie-Legendy?eid=708518#opis"
+    },
+    {
+      "id": "bilnya-sklep-z-facetami-202701241700",
+      "title": "Sklep z facetami",
+      "category": "Spektakl",
+      "start": "2027-01-24T17:00",
+      "end": "2027-01-24T18:30",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": "😂 Komedia o kobietach, mężczyznach i miłości, w której każdy odnajdzie cząstkę siebie. 💕 Błyskotliwe dialogi, zaskakujące zwroty akcji i doskonała zabawa sprawiły, że „Sklep z facetami” pokochało już ponad 50 000 widzów w całej Polsce..",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Sklep-z-facetami?eid=677848#opis"
+    },
+    {
+      "id": "tzr-soyka-grott-orkiestra-w-holdzie-mistrzowi-przelozony",
+      "title": "Soyka / Grott Orkiestra w hołdzie mistrzowi - przełożony",
+      "category": "Koncert",
+      "start": "2027-01-24T18:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Szanowni Państwo, informujemy, że koncert Soyka / Grott Orkiestra w hołdzie Mistrzowi, który miał odbyć się w dniu 9 października, w Teatrze Ziemi Rybnickiej, z przyczyn niezależnych od Organizatora, zostaje przełożony na nowy termin: 24 stycznia 2027 roku.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/soyka-grott-orkiestra-w-holdzie-mistrzowi-przelozony.html"
+    },
+    {
       "id": "tzr-noworoczna-gala-koncert-wiedenski",
       "title": "NOWOROCZNA GALA – Koncert Wiedeński",
       "category": "Koncert",
       "start": "2027-01-26T18:00",
-      "end": null,
+      "end": "2027-01-26T20:00",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Najnowsza edycja 2027 ogólnopolskiej trasy koncertowej! - magiczne, pełne kolorytu widowisko, nie mające sobie równych! - na scenie ponad 30 osobowy zespół najwybitniejszych Solistów, Orkiestry i baletu oraz Gość Specjalny! - zachwycające doznania muzyczne, wypełnione szelestem błyszczących sukien, wśród widoku rozlewanego szampana i dźwięku stukających obcasów - najnowszy program koncertu – edycja 2027 - połączenie klasyki z rozrywką, które łączy pokolenia",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/noworoczna-gala-koncert-wiedenski.html"
+    },
+    {
+      "id": "bilnya-4-pory-roku-antonio-vivaldi-przy-swiecach-202701281930",
+      "title": "4 Pory Roku - Antonio Vivaldi przy Świecach",
+      "category": "Koncert",
+      "start": "2027-01-28T19:30",
+      "end": "2027-01-28T21:00",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🕯️🎻 Przeżyj \"Cztery pory roku\" tak, jak 300 lat temu – kameralnie, przy świecach i bez pośpiechu. Muzyka Antonio Vivaldi zachwyca emocją, światłem i ponadczasową magią ✨ Zarezerwuj wieczór, który zostaje w sercu 🎟️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/4-Pory-Roku-Antonio-Vivaldi-przy-Swiecach?eid=709057#opis"
     },
     {
       "id": "dk-bog-11035-dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-godz-16-00",
@@ -1846,6 +1890,17 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
+    },
+    {
+      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
+      "title": "NutkoSfera - CeZik dzieciom",
+      "category": "DlaDzieci",
+      "start": "2027-12-03T17:00",
+      "end": "2027-12-03T18:20",
+      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
+      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }
