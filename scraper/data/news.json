@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T22:17:17",
+  "generated_at": "2026-10-03T05:20:48",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,26 @@
     }
   ],
   "items": [
+    {
+      "id": "83a32bf5e8d910d97d9d803870540d77919ab6da",
+      "title": "Country zawita do Czernicy. Będzie ognisko, rodeo i pieczony świniak",
+      "summary": "Park przy zameczku w Czernicy wypełni się zapachem ziemniaków z ogniska. 10 października odbędzie się tam II Święto Pieczonego Ziemniaka, tym razem w klimacie country.",
+      "link": "https://agronowiny.pl/wiadomosci/251281-country-zawita-do-czernicy-bedzie-ognisko-rodeo-i-pieczony-swiniak.html",
+      "published": "2026-10-03T05:11",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "58996d62f72f2417e797e753edbe70d155b82192",
+      "title": "57. Rybnickie Dni Literatury. Będą spotkania, spektakle i wystawy",
+      "summary": "Ogłoszono program 57. Rybnickich Dni Literatury. Wśród zaplanowanych wydarzeń są spotkania z wybitnymi pisarzami i biografistkami, rozmowy o zapomnianych bohaterkach literatury, spotkania z autorami nominowanymi do Górnośląskiej Nagrody Literackiej „Juliusz”, a także Żywa Biblioteka, slam poetycki…",
+      "link": "https://www.radio90.pl/57-rybnickie-dni-literatury-beda-spotkania-spektakle-i-wystawy.html",
+      "published": "2026-10-03T04:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "4876c87fdad52f58923de05d28c80e9e0a119e91",
       "title": "Kobiety kobietom dodały skrzydeł. Wyjątkowa Gala Kobiet w Rydułtowach [ZDJĘCIA]",
@@ -214,16 +234,6 @@
       "summary": "Ośmioletni chłopiec z niedowidzeniem uczy się samodzielnie odnajdywać swoją szafkę w szatni. Dla części osób to zwykła codzienna czynność, dla niego — kolejny krok w stronę większej samodzielności. Tyflopedagog musi przy tym uważnie dopasować sposób pracy do potrzeb dziecka i reagować na to, co…",
       "link": "https://www.nowiny.pl/wiadomosci/251305-myslisz-o-pracy-w-ktorej-kazdy-dzien-stawia-inne-wyzwania-sprawdz-czy-masz-predyspozycje-do-wspierania-innych-jako-tyflopedagog.html",
       "published": "2026-10-02T07:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "fa20eba76a4dc33de7e36fdcaca703708e115621",
-      "title": "Wypadek na rondzie w Jankowicach. Kto zawinił?",
-      "summary": "Kierujący motorowerem 33-latek i jego 29-letnia pasażerka zostali ranni w wypadku na rondzie w Jankowicach. Policja przekazała wstępne ustalenia dotyczące zdarzenia.",
-      "link": "https://www.nowiny.pl/wiadomosci/251297-wypadek-na-rondzie-w-jankowicach-kto-zawinil.html",
-      "published": "2026-10-02T06:46",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -544,16 +554,6 @@
       "summary": "Rozpoczęcie roku akademickiego oznacza, że na drogach przybędzie samochodów, a poranne i popołudniowe korki będą jeszcze dłuższe. Studentów przybędzie też w pociągach Kolei Śląskich, statystycznie będzie ich dwukrotnie więcej niż we wrześniu. W październiku ubiegłego roku Koleje Śląskie sprzedały…",
       "link": "https://www.radio90.pl/maja-pociag-do-nauki-i-wybieraja-koleje-slaskie.html",
       "published": "2026-09-30T13:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d8fb10ca3503f8fe16d4f52d2b68fc45767206ee",
-      "title": "Targi Zdrowia w Czerwionce- Leszczynach. Sporo można się dowiedzieć o swoim ciele [PATRONAT]",
-      "summary": "Targi Zdrowia w Czerwionce- Leszczynach w przyszłym tygodniu. W środę (7.10) oraz w czwartek (8.10) w Centrum Kulturalno- Edukacyjnym, wydarzenie skierowane do kobiet, poświęcone ich zdrowiu czy aktywności fizycznej.",
-      "link": "https://www.radio90.pl/targi-zdrowia-w-czerwionce-leszczynach-sporo-mozna-sie-dowiedziec-o-swoim-ciele-patronat.html",
-      "published": "2026-09-30T12:20",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
