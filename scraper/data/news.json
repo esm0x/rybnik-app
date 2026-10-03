@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:20:48",
+  "generated_at": "2026-10-03T11:41:46",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,76 @@
     }
   ],
   "items": [
+    {
+      "id": "a0a4aae49f2914e9b9508fa3f45e4ea0ba1600b5",
+      "title": "Rybki Rybnik świętują 25-lecie klubu. Są kibice, jest rywalizacja, są emocje [ZDJĘCIA]",
+      "summary": "Miniżużlowy Klub Rybki Rybnik świętują 25-lecie. Na torze trwa sportowa rywalizacja, na trybunach wielu byłych oraz obecnych zawodników.",
+      "link": "https://www.radio90.pl/rybki-rybnik-swietuja-25-lecie-klubu-sa-kibice-jest-rywalizacja-sa-emocje-zdjecia.html",
+      "published": "2026-10-03T11:36",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8c546d552b05cec542968232c3595d0c388412ea",
+      "title": "Moc porannej kawy! [KONKURS w Radiu 90]",
+      "summary": "Czy poranna kawa jest Twoim nieodłącznym towarzyszem każdego dnia? Czujesz, jak dodaje energii i chęci do działania? Podziel się z nami swoją historią i weź udział w naszym konkursie! Zapraszamy wszystkich słuchaczy Radia 90 do odkrywania mocy porannej kawy. Czekają na Was mocne nagrody!",
+      "link": "https://www.radio90.pl/moc-porannej-kawy-konkurs-w-radiu-90-2.html",
+      "published": "2026-10-03T10:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f9f997ad8e7af60a089b46e90ff08fdbf0c5f5aa",
+      "title": "Budżet Obywatelski w Rybniku. Ponad 39 tysięcy oddanych głosów",
+      "summary": "Ponad 39 i pół tysiąca głosów oddali mieszkańcy Rybnika na projekty Budżetu Obywatelskiego na 2027 rok. Miasto podsumowała tegoroczne głosowanie.",
+      "link": "https://www.radio90.pl/budzet-obywatelski-w-rybniku-ponad-39-tysiecy-oddanych-glosow.html",
+      "published": "2026-10-03T09:30",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2ba4e4a2e2ecd6de9033e18715d8357d06937bfd",
+      "title": "Pilny apel raciborskiej policji. Poszukiwany 15-letni Oskar Bryła",
+      "summary": "Komenda Powiatowa Policji w Raciborzu prowadzi poszukiwania 15-letniego Oskara Bryły, mieszkańca Raciborza. Funkcjonariusze zwracają się z apelem do wszystkich osób, które mogą mieć informacje na temat miejsca pobytu nastolatka.",
+      "link": "https://www.nowiny.pl/wiadomosci/251309-pilny-apel-raciborskiej-policji-poszukiwany-15-letni-oskar-bryla.html",
+      "published": "2026-10-03T07:42",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "eee828c87511f901a4da0328277e006f3070e514",
+      "title": "Wypadek na autostradzie A1. Są kłopoty z przejazdem",
+      "summary": "Wypadek na autostradzie A1. Przed godziną 7 rano doszło tam do zderzenia osobówki i samochodu ciężarowego. Początkowo trasa była zablokowana, obecnie ruch odbywa się jednym pasem.",
+      "link": "https://www.radio90.pl/wypadek-na-autostradzie-a1-sa-klopoty-z-przejazdem.html",
+      "published": "2026-10-03T06:12",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ca9ab440410d04f76c17e5c8d93a803dc876c913",
+      "title": "Kuchnia Radia 90: szarlotka grecka… Smakołyk z jabłkami i orzechami",
+      "summary": "Szarlotka grecka, czyli milopita, to wspomnienia z greckich wakacji. Ciasto z jabłkami, migdałami i orzechami włoskimi, wilgotne i nie za słodkie. W sam raz do kawy!",
+      "link": "https://www.radio90.pl/kuchnia-radia-90-szarlotka-grecka.html",
+      "published": "2026-10-03T06:10",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "186dbc6adf2100d5aa0372494e0dc152e5b7b576",
+      "title": "Kacper Woryna z brązowym medalem Mistrzostw Europy",
+      "summary": "Kacper Woryna, wychowanek ROW-u Rybnik, dziś jeżdżący w barwach klubu z Lublina zdobył brązowy medal Mistrzostw Europy. W ostatniej rundzie cyklu SEC Rybniczanin zajął dziesiąte miejsce, przez co w klasyfikacji generalnej spadł z pozycji lidera na najniższt stopień podium.",
+      "link": "https://www.radio90.pl/kacper-woryna-z-brazowym-medalem-mistrzostw-europy.html",
+      "published": "2026-10-03T05:41",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "83a32bf5e8d910d97d9d803870540d77919ab6da",
       "title": "Country zawita do Czernicy. Będzie ognisko, rodeo i pieczony świniak",
@@ -29,10 +99,10 @@
       "priority": "NORMAL"
     },
     {
-      "id": "4876c87fdad52f58923de05d28c80e9e0a119e91",
-      "title": "Kobiety kobietom dodały skrzydeł. Wyjątkowa Gala Kobiet w Rydułtowach [ZDJĘCIA]",
-      "summary": "W Rydułtowskim Centrum Kultury odbyła się wyjątkowa Gala Kobiet, zorganizowana w ramach działania „Nic tak nie motywuje kobiety jak inna kobieta”. Wydarzenie było jednym z ważnych momentów Rydułtowskiej Akademii Kobiet i stało się okazją do spotkania, rozmowy oraz pokazania siły, talentów i pasji…",
-      "link": "https://www.nowiny.pl/wiadomosci/251283-kobiety-kobietom-dodaly-skrzydel-wyjatkowa-gala-kobiet-w-rydultowach-zdjecia.html",
+      "id": "864fad6772a1f2bfd616dcba3a22ff95de879ba9",
+      "title": "Kobiety kobietom dodały skrzydeł. Gala Kobiet w Rydułtowach [ZDJĘCIA]",
+      "summary": "W Rydułtowskim Centrum Kultury odbyła się Gala Kobiet, zorganizowana w ramach działania „Nic tak nie motywuje kobiety jak inna kobieta”. Wydarzenie było jednym z ważnych momentów Rydułtowskiej Akademii Kobiet i stało się okazją do spotkania, rozmowy oraz pokazania siły, talentów i pasji kobiet z…",
+      "link": "https://www.nowiny.pl/wiadomosci/251283-kobiety-kobietom-dodaly-skrzydel-gala-kobiet-w-rydultowach-zdjecia.html",
       "published": "2026-10-02T20:46",
       "source": "nowiny.pl",
       "category": "Region",
@@ -214,16 +284,6 @@
       "summary": "Chór SonArte z Radlina wrócił z Hiszpanii z czterema nagrodami. Podczas międzynarodowego festiwalu w Katalonii zdobył dwa Złote Dyplomy i dwukrotnie zajął pierwsze miejsce. Chórzyści wystąpili również w krypcie słynnej bazyliki Sagrada Família w Barcelonie.",
       "link": "https://www.nowiny.pl/wiadomosci/251299-dwa-zlote-dyplomy-i-dwa-pierwsze-miejsca-chor-sonarte-z-radlina-triumfowal-w-katalonii.html",
       "published": "2026-10-02T07:47",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "cd1ae4914d7e18b2ef33ddb6c82b2ee28562c086",
-      "title": "Pierwszy Polak z medalem mistrzostw świata. Wspomnienie o Antku",
-      "summary": "14 grudnia 2001 r., w szpitalu w Jastrzębiu Zdroju w wieku 60 lat, zmarł wielki sportowiec, mistrz i nauczyciel - Antoni Woryna.",
-      "link": "https://historion.pl/historia/251298-pierwszy-polak-z-medalem-mistrzostw-swiata-wspomnienie-o-antku.html",
-      "published": "2026-10-02T07:21",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -429,26 +489,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "a47b000ced4dc66af27ee14de2b02a9dabcfe8b9",
-      "title": "Rybki Rybnik świętują jubileusz. Dwa dni zawodów, atrakcji i wyścigów [PATRONAT]",
-      "summary": "Przed nami żużlowy weekend z okazji 25-lecia miniżużlowego klubu Rybki Rybnik.",
-      "link": "https://www.radio90.pl/rybki-rybnik-swietuja-jubileusz-dwa-dni-zawodow-atrakcji-i-wyscigow-patronat.html",
-      "published": "2026-10-01T06:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b8b32f3f765a6b2e8863e64fca307ec30a1b39e4",
-      "title": "Teatr Ziemi Rybnickiej zaprasza w październiku [REPERTUAR]",
-      "summary": "Rybnickie Zaduszki Muzyczne, Dni Literatury i do tego \"Lalka\" w najnowszym wydaniu w kinie - to tylko niektóre wydarzenia przygotowane w Teatrze Ziemi Rybnickiej w październiku.",
-      "link": "https://www.radio90.pl/teatr-ziemi-rybnickiej-zaprasza-w-pazdzierniku-repertuar.html",
-      "published": "2026-10-01T04:49",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "bcc46f044dcd6bbba829be57f421238323998e78",
       "title": "Utrudnienia w ruchu na Chwałowickiej",
       "summary": "Od 2 do 14 października na odcinku 350 metrów będą prowadzone prace drogowe, co wymusi powolniejszą jazdę. Ruch w tym miejscu odbędzie się wahadłowo i będzie kierowany ręcznie.",
@@ -516,46 +556,6 @@
       "published": "2026-10-01T00:00",
       "source": "rybnik.eu",
       "category": "Inwestycje",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "1569c18ce38d5c24f294de0a45ca5d3a4e2c02e4",
-      "title": "Hospicjum w Rybniku czeka na kontrakt z NFZ. Kiedy to nastąpi?",
-      "summary": "Kiedy hospicjum w Rybniku zacznie przyjmować pierwszych pacjentów? Mówiliśmy w Radiu 90, że placówka prowadzi nabór chętnych do pracy. Napłynęło ponad 600 podań i trwa ich weryfikacja by ostatecznie wyłonić kadrę, która będzie pracowała w hospicjum.",
-      "link": "https://www.radio90.pl/hospicjum-w-rybniku-czeka-na-kontrakt-z-nfz-kiedy-to-nastapi.html",
-      "published": "2026-09-30T15:45",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "1906d2474a07ef2be0d652d26074c18f0a4bec79",
-      "title": "Weekend Seniora z Kulturą w Rybniku. Co przygotowano, jaki jest plan wydarzenia?",
-      "summary": "Weekend seniora z kulturą w halo!Rybnik. Punkt Informacji Miejskiej na deptaku w pierwszy weekend października dołącza do akcji zainicjowanej przez Ministerstwo Kultury i Dziedzictwa Narodowego.",
-      "link": "https://www.radio90.pl/weekend-seniora-z-kultura-w-rybniku-co-przygotowano-jaki-jest-plan-wydarzenia.html",
-      "published": "2026-09-30T15:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0d76429e61c77f2c061aa063b0fb46581e6d272d",
-      "title": "Budżet obywatelski w Rybniku. Mieszkańcy Orzepowic pytają co z ich projektami?",
-      "summary": "Co z inwestycjami w ramach ubiegłorocznego budżetu obywatelskiego? Dlaczego wciąż nie zostały zrealizowane w naszej dzielnicy? - pytają w mailu do redakcji Radia 90 mieszkańcy rybnickiej dzielnicy Orzepowice.",
-      "link": "https://www.radio90.pl/budzet-obywatelski-w-rybniku-mieszkancy-orzepowic-pytaja-co-z-ich-projektami.html",
-      "published": "2026-09-30T14:15",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6761337db91b1619e11205e6d3d3f0f5b6da2729",
-      "title": "Mają pociąg do nauki i wybierają Koleje Śląskie",
-      "summary": "Rozpoczęcie roku akademickiego oznacza, że na drogach przybędzie samochodów, a poranne i popołudniowe korki będą jeszcze dłuższe. Studentów przybędzie też w pociągach Kolei Śląskich, statystycznie będzie ich dwukrotnie więcej niż we wrześniu. W październiku ubiegłego roku Koleje Śląskie sprzedały…",
-      "link": "https://www.radio90.pl/maja-pociag-do-nauki-i-wybieraja-koleje-slaskie.html",
-      "published": "2026-09-30T13:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
