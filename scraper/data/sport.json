@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T11:41:56",
+  "generated_at": "2026-10-03T16:19:47",
   "count": 58,
   "failures": [],
   "teams": [
@@ -469,10 +469,10 @@
       "home": "LKS Goczałkowice Zdrój",
       "away": "ROW 1964 Rybnik",
       "isHome": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 1,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "FINISHED"
     },
     {
       "id": "row-kobiety-2026-10-03-rekord-ii-bielsko-biala-k",
@@ -483,10 +483,10 @@
       "home": "ROW Rybnik (k)",
       "away": "Rekord II Bielsko-Biała (k)",
       "isHome": true,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 5,
+      "awayScore": 3,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "FINISHED"
     },
     {
       "id": "row-1964-2026-10-10-sleza-wroclaw",

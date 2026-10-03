@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T11:41:46",
+  "generated_at": "2026-10-03T16:19:37",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,86 @@
     }
   ],
   "items": [
+    {
+      "id": "4d87873931417c397792e4cd7f116512e47da636",
+      "title": "Lokalne smaki i rękodzieło w jednym miejscu. Jarmark Rozmaitości w Sławikowie już za nami [ZDJĘCIA]",
+      "summary": "W sobotę, 3 października 2026 roku, w Ruinach Pałacu w Sławikowie odbył się Jarmark Rozmaitości – wydarzenie, które połączyło lokalną kuchnię, rękodzieło i zaangażowanie mieszkańców. Spotkanie było okazją do spędzenia jesiennego popołudnia w rodzinnej atmosferze oraz skosztowania domowych specjałów…",
+      "link": "https://www.nowiny.pl/wiadomosci/251312-lokalne-smaki-i-rekodzielo-w-jednym-miejscu-jarmark-rozmaitosci-w-slawikowie-juz-za-nami-zdjecia.html",
+      "published": "2026-10-03T16:02",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "675dfa0911c5d2968accc1a723c22808add39d62",
+      "title": "Konie na pierwszym planie. Hubertus zawitał do Łańc 2026 [ZDJĘCIA, WIDEO]",
+      "summary": "Łańce w gminie Kornowac ponownie stały się miejscem spotkania miłośników koni, jeździectwa, myślistwa i lokalnych tradycji. W sobotę, 3 października, odbył się Piknik św. Huberta, którego najważniejszymi punktami były parada jeźdźców i wozów oraz tradycyjna gonitwa za lisem.",
+      "link": "https://agronowiny.pl/wiadomosci/251311-konie-na-pierwszym-planie-hubertus-zawital-do-lanc-2026-zdjecia-wideo.html",
+      "published": "2026-10-03T15:47",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d8597621dbf0c7b2c3cb434194f4b445a0c86fa2",
+      "title": "Szkoły w Czerwionce-Leszczynach: w dwóch z nich powstaną ekopracownie. Placówkom przyznano na ten cel pieniądze",
+      "summary": "Dwie szkoły w Czerwionce-Leszczynach dostaną po 70 tysięcy złotych na ekopracownie pod chmurką. Pieniądze trafią do Szkoły Podstawowej numer 5 i Szkoły Podstawowej numer 3.",
+      "link": "https://www.radio90.pl/szkoly-w-czerwionce-leszczynach-w-dwoch-z-nich-powstana-ekopracownie-placowkom-przyznano-na-ten-cel-pieniadze.html",
+      "published": "2026-10-03T15:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "63692e3efab19cffab9cb8153a4617d1aaf87580",
+      "title": "Pilot Dromadera o gaszeniu pożarów: „W ciągu 10 minut musimy być w powietrzu”",
+      "summary": "Na co dzień w leśnej bazie lotniczej w Rybniku niewiele się dzieje. I właśnie na tym polega ta praca. Samolot ma być gotowy, pilot ma wiedzieć, co dzieje się w pogodzie i przestrzeni powietrznej, a wszystko wokół musi być przygotowane na moment, który może nadejść nagle. Kiedy pojawia się alarm, na…",
+      "link": "https://www.nowiny.pl/wiadomosci/251310-pilot-dromadera-o-gaszeniu-pozarow-w-ciagu-10-minut-musimy-byc-w-powietrzu.html",
+      "published": "2026-10-03T14:39",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "ALERT"
+    },
+    {
+      "id": "3e76c58e8cf8aef78759d59026a10a44af39fc8a",
+      "title": "Zabytkowa dzwonnica w Rybniku wymaga remontu. Miasto da ponad 67 tys. zł",
+      "summary": "Ponad 67 tysięcy złotych z budżetu Rybnika trafi na remont zabytkowej dzwonnicy kościoła ewangelicko-augsburskiego przy ulicy Miejskiej. Dotacja pokryje całość kosztów zaplanowanych prac.",
+      "link": "https://www.radio90.pl/zabytkowa-dzwonnica-w-rybniku-wymaga-remontu-miasto-da-ponad-67-tys-zl.html",
+      "published": "2026-10-03T14:13",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7c10d0c83a21d702fe987e29e3afb1b6aafa1888",
+      "title": "ROW Rybnik z pierwszą wyjazdową wygraną w tym sezonie. Zwyciężył po golu w doliczonym czasie",
+      "summary": "Piłkarze ROW-u Rybnik odnieśli pierwsze wyjazdowe zwycięstwo w tym sezonie. Występujący w trzeciej lidze Rybniczanie pokonali LKS Goczałkowice Zdrój 1:0.",
+      "link": "https://www.radio90.pl/row-rybnik-z-pierwsza-wyjazdowa-wygrana-w-tym-sezonie-zwyciezyl-po-golu-w-doliczonym-czasie.html",
+      "published": "2026-10-03T14:11",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "220c27dff3abd14f004a485cd649ee5b486976b5",
+      "title": "Praca studenta na finiszu. Co z ubezpieczeniem zdrowotnym?",
+      "summary": "Koniec wakacyjnej pracy studenta wiąże się z koniecznością weryfikacji statusu ubezpieczenia zdrowotnego. Osoby, które w okresie letnim były zatrudnione na podstawie umowy o pracę lub umowy zlecenia, od której obowiązkowo była opłacana składka zdrowotna, zyskały własny tytuł do ubezpieczenia. Po…",
+      "link": "https://www.radio90.pl/praca-studenta-na-finiszu-co-z-ubezpieczeniem-zdrowotnym.html",
+      "published": "2026-10-03T13:00",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "966a0d7dd3a196bbf678d91c882f04f2d99b4ed1",
+      "title": "Fatalny początek jesieni na drogach. Śląska policja z ważnym apelem o rozwagę",
+      "summary": "Śląska policja apeluje do kierowców i pieszych o szczególną rozwagą na drodze. To efekt alarmujących statystyk odnotowanych przez mundurowych w pierwszych dniach jesieni.",
+      "link": "https://www.radio90.pl/fatalny-poczatek-jesieni-na-drogach-slaska-policja-z-waznym-apelem-o-rozwage.html",
+      "published": "2026-10-03T12:15",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
     {
       "id": "a0a4aae49f2914e9b9508fa3f45e4ea0ba1600b5",
       "title": "Rybki Rybnik świętują 25-lecie klubu. Są kibice, jest rywalizacja, są emocje [ZDJĘCIA]",
@@ -259,36 +339,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "20f3b28c46321e0ef833a77b55f72aa38d1ab02f",
-      "title": "Od kościelnych dzwonów po dożynkowe wieńce. Dawny Racibórz od święta",
-      "summary": "Kościoły wyznaczały panoramę miasta, figury świętych stały przy drogach i na placach, a podczas religijnych uroczystości odświętnie ubrane kobiety niosły figurę Matki Boskiej. Wiara była obecna nie tylko w świątyniach. Towarzyszyła codzienności, świętom i dożynkom, przenikając się z obyczajem i…",
-      "link": "https://historion.pl/historia/251301-od-koscielnych-dzwonow-po-dozynkowe-wience-dawny-raciborz-od-swieta.html",
-      "published": "2026-10-02T07:57",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "30f79440bc8d750b742f894722f72d730ff5de57",
-      "title": "Kopalnia uruchamia nową ścianę. Mieszkańcy Marklowic powinni sprawdzić mapę wpływów eksploatacji",
-      "summary": "Polska Grupa Górnicza poinformowała o planowanym uruchomieniu ściany W-4 w pokładzie 507. Jej eksploatacja ma potrwać do grudnia 2027 roku. Mieszkańcy Marklowic mogą sprawdzić, czy ich nieruchomości znajdują się w zasięgu prognozowanych wpływów wydobycia.",
-      "link": "https://www.nowiny.pl/wiadomosci/251300-kopalnia-uruchamia-nowa-sciane-mieszkancy-marklowic-powinni-sprawdzic-mape-wplywow-eksploatacji.html",
-      "published": "2026-10-02T07:57",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "793c7310a31eb5cbb40b817bd2965af01666afcc",
-      "title": "Dwa Złote Dyplomy i dwa pierwsze miejsca. Chór SonArte z Radlina triumfował w Katalonii",
-      "summary": "Chór SonArte z Radlina wrócił z Hiszpanii z czterema nagrodami. Podczas międzynarodowego festiwalu w Katalonii zdobył dwa Złote Dyplomy i dwukrotnie zajął pierwsze miejsce. Chórzyści wystąpili również w krypcie słynnej bazyliki Sagrada Família w Barcelonie.",
-      "link": "https://www.nowiny.pl/wiadomosci/251299-dwa-zlote-dyplomy-i-dwa-pierwsze-miejsca-chor-sonarte-z-radlina-triumfowal-w-katalonii.html",
-      "published": "2026-10-02T07:47",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "4e8d707fa03a9576e9a43d54265ce2632fa4c55e",
       "title": "Myślisz o pracy, w której każdy dzień stawia inne wyzwania? Sprawdź, czy masz predyspozycje do wspierania innych jako tyflopedagog",
       "summary": "Ośmioletni chłopiec z niedowidzeniem uczy się samodzielnie odnajdywać swoją szafkę w szatni. Dla części osób to zwykła codzienna czynność, dla niego — kolejny krok w stronę większej samodzielności. Tyflopedagog musi przy tym uważnie dopasować sposób pracy do potrzeb dziecka i reagować na to, co…",
@@ -439,56 +489,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "37339eee0cc115fea6002735242e8c51e3567535",
-      "title": "Seria zdarzeń z motocyklami na drogach regionu",
-      "summary": "Seria zdarzeń z motocyklami na drogach regionu. Wczoraj (30.09) przed 19.00 motocykl zderzył się z autem osobowym w Mszanie na ulicy Moszczeńskiej, pomocy lekarzy potrzebował mężczyzna.",
-      "link": "https://www.radio90.pl/seria-zdarzen-z-motocyklami-na-drogach-regionu.html",
-      "published": "2026-10-01T09:45",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "1e1a8bb19f293d4e95835872ef2a4ac3f2b51d6d",
-      "title": "Kurier za granicę – jak wysłać paczkę i ile to kosztuje?",
-      "summary": "Nadawanie paczek za granicę to popularna usługa kurierska dostępna dla każdego nadawcy. Cały proces przebiega sprawnie, gdy znasz reguły obowiązujące w transporcie międzynarodowym. Nowoczesne platformy logistyczne ułatwiają zamówienie przewozu bez wychodzenia z domu. Przed nadaniem warto poznać…",
-      "link": "https://www.radio90.pl/kurier-za-granice-jak-wyslac-paczke-i-ile-to-kosztuje.html",
-      "published": "2026-10-01T09:43",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "4e53453121737074b28e7576ad4810e41c473f8e",
-      "title": "„Narychtuj mi szczyńście” w Czerwionce-Leszczynach w sobotę",
-      "summary": "Chcemy pokazać, że godka nie jest tylko do śmieszków w kabarecie, po śląsku można mówić o emocjach- mówią twórczynie spektaklu \"Narychtuj mi szczyńście\", jaki w sobotę (3.10) będzie można zobaczyć na scenie Centrum Kulturalno- Edukacyjnego w Czerwionce- Leszczynach.",
-      "link": "https://www.radio90.pl/narychtuj-mi-szczynscie-w-czerwionce-leszczynach-w-sobote.html",
-      "published": "2026-10-01T09:10",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "9ba7a978bdcfa267d8c962d18312239d905c8890",
-      "title": "Dramatyczna końcówka miesiąca na drogach. Śląska policja podaje statystyki",
-      "summary": "Dramatyczna końcówka września na drogach w regionie, wczoraj (30.09)na trasach województwa śląskiego doszło do 178 zdarzeń, 10 osób zostało rannych, a dwie poniosły śmierć.",
-      "link": "https://www.radio90.pl/dramatyczna-koncowka-miesiaca-na-drogach-slaska-policja-podaje-statystyki.html",
-      "published": "2026-10-01T07:44",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "98fd12aa68f4112bc8fff97aaeeb3f0dd0fb8dc9",
-      "title": "Gdzie się podział burmistrz Weber?",
-      "summary": "Gdzie jest pomnik burmistrza Webera? Sprzed Urzędu Miasta w Rybniku zniknęła sylwetka starszego pana w kapeluszu, z laseczką ruszającego w stronę na rynek.",
-      "link": "https://www.radio90.pl/gdzie-sie-podzial-burmistrz-weber.html",
-      "published": "2026-10-01T07:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "bcc46f044dcd6bbba829be57f421238323998e78",
       "title": "Utrudnienia w ruchu na Chwałowickiej",
       "summary": "Od 2 do 14 października na odcinku 350 metrów będą prowadzone prace drogowe, co wymusi powolniejszą jazdę. Ruch w tym miejscu odbędzie się wahadłowo i będzie kierowany ręcznie.",
@@ -556,6 +556,16 @@
       "published": "2026-10-01T00:00",
       "source": "rybnik.eu",
       "category": "Inwestycje",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "012d3f33aa1ca886fbf102db3b3160e534de2392",
+      "title": "WSKZ: studia podyplomowe. Opinie o organizacji nauki i możliwościach rozwoju",
+      "summary": "Osoby rozważające dalsze kształcenie często sprawdzają nie tylko program wybranych studiów, ale również sposób ich realizacji i możliwości, jakie mogą otworzyć w dalszym rozwoju. Dlatego opinie o studiach podyplomowych w WSKZ interesują kandydatów, którzy chcą lepiej poznać zarówno ofertę Uczelni…",
+      "link": "https://www.nowiny.pl/nie-przegap/251254-wskz-studia-podyplomowe-opinie-o-organizacji-nauki-i-mozliwosciach-rozwoju.html",
+      "published": "2026-09-30T07:29",
+      "source": "nowiny.pl",
+      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -834,16 +844,6 @@
       "summary": "Policjanci, pracownicy Ośrodka Pomocy Społecznej oraz młodzież z Placówki Wsparcia Dziennego w Leszczynach połączyli siły, by zwrócić uwagę kierowców na jeden z najpoważniejszych problemów na drogach – jazdę pod wpływem alkoholu. Akcja „W drodze jestem bezpieczny” odbyła się (23 września) na…",
       "link": "http://www.rybnik.com.pl/wiadomosci,mlodziez-przypomina-kierowcom-o-bezpieczenstwie-nietypowa-akcja-w-czerwionce-leszczynach,wia5-3266-66209.html",
       "published": "2026-09-24T15:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f8acad24b480e3d11bb096cf80332e14b2193721",
-      "title": "Galeria: OFPA 2026 wystartowała! Trwają przesłuchania konkursowe (foto)",
-      "summary": "Jubileuszowa, 30. edycja Ogólnopolskiego Festiwalu Piosenki Artystycznej OFPA 2026 oficjalnie wystartowała! Tym razem wyjątkowemu świętu muzyki przyświeca hasło „Perła Polskiej Piosenki”. Byliśmy tam z naszym aparatem, aby uwiecznić emocje i wyjątkową atmosferę tego jubileuszu. Zapraszamy do…",
-      "link": "http://www.rybnik.com.pl/fotogaleria,ofpa-2026-wystartowala-trwaja-przesluchania-konkursowe-foto,fot5-1-9154.html",
-      "published": "2026-09-24T14:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
