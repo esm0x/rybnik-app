@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T05:54:02",
+  "generated_at": "2026-10-04T12:23:31",
   "count": 120,
   "failures": [
     {
@@ -9,8 +9,78 @@
   ],
   "items": [
     {
+      "id": "imgw-Sk20261004095036980",
+      "title": "IMGW: Gęsta mgła",
+      "summary": "Stopień 1. Obowiązuje do 2026-10-05 09:00. Prognozuje się gęste mgły, w zasięgu których widzialność może miejscami wynosić poniżej 200 m.",
+      "link": "https://danepubliczne.imgw.pl/api/data/warningsmeteo",
+      "published": "2026-10-04T11:50",
+      "source": "IMGW",
+      "category": "Ostrzeżenia",
+      "priority": "ALERT"
+    },
+    {
+      "id": "d8f095af1c071d3557d0a3539cdd0209e639b695",
+      "title": "Czarni Gorzyce zatrzymują lidera. Unia Racibórz z pierwszą porażką [ZDJĘCIA]",
+      "summary": "Czarni Gorzyce sprawili dużą niespodziankę w 9. kolejce, pokonując na własnym boisku 2:0 dotychczasowego lidera – Unię Racibórz. Zespół z Raciborza przed tym spotkaniem pozostawał niepokonany.",
+      "link": "https://sport.nowiny.pl/sport/251322-czarni-gorzyce-zatrzymuja-lidera-unia-raciborz-z-pierwsza-porazka-zdjecia.html",
+      "published": "2026-10-04T11:02",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "eb1945068104105456ecaebaabc70d1b1e6d0542",
+      "title": "Rybnik ma nowe pomniki przyrody. Rosną w Chwałowicach i Niewiadomiu",
+      "summary": "Trzy kolejne drzewa w Rybniku zyskają status pomników przyrody. Rada Miasta zdecydowała o objęciu ochroną dwóch buków pospolitych rosnących w lesie Maliga w Chwałowicach oraz dębu szypułkowego przy ulicy Przyjemnej w Niewiadomiu Górnym.",
+      "link": "https://www.radio90.pl/rybnik-ma-nowe-pomniki-przyrody-rosna-w-chwalowicach-i-niewiadomiu.html",
+      "published": "2026-10-04T10:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "69344da6d2d817efaf1f2206828bf03b00b7a98c",
+      "title": "Jarmark staroci trwa na wodzisławskim rynku. Można jeszcze zajrzeć [ZDJĘCIA]",
+      "summary": "Na rynku w Wodzisławiu Śląskim trwa kolejny jarmark staroci. W niedzielę, 4 października, wystawcy ponownie rozłożyli stoiska z antykami, książkami, porcelaną, monetami i kolekcjonerskimi drobiazgami. Jarmark potrwa do godz. 14.00.",
+      "link": "https://www.nowiny.pl/wiadomosci/251321-jarmark-staroci-trwa-na-wodzislawskim-rynku-mozna-jeszcze-zajrzec-zdjecia.html",
+      "published": "2026-10-04T09:56",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4149893be2f399fd34fa5d2882a0787da1315296",
+      "title": "Masz pomysł na dyniowy lampion? Możesz wygrać hulajnogę, tablet lub Instax",
+      "summary": "Jesień po raz kolejny zawita do Kamienia w dyniowym wydaniu. W sobotę, 10 października, w Restauracji Hotelu Olimpia odbędzie się XI Festiwal Dyni. Organizatorzy przygotowali atrakcje dla całych rodzin, a jednym z głównych punktów wydarzenia będzie konkurs na „Najpiękniejszy dyniowy lampion”.",
+      "link": "https://www.nowiny.pl/wiadomosci/251320-masz-pomysl-na-dyniowy-lampion-mozesz-wygrac-hulajnoge-tablet-lub-instax.html",
+      "published": "2026-10-04T08:23",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e0756547aeb47071cbb2852e01dcd652be14d58e",
+      "title": "To nie był udany weekend dla koszykówki w Rybniku. Przegrana RKMS Xbest Rybnik i koszykarzy",
+      "summary": "To nie był udany weekend dla koszykarek i koszykarzy z Rybnika. Te pierwsze, RKMS Xbest Rybnik walczyły na wyjeździe ze Spartą Ziębice.",
+      "link": "https://www.radio90.pl/to-nie-byl-udany-weekend-dla-koszykowki-w-rybniku-przegrana-rkms-xbest-rybnik-i-koszykarzy.html",
+      "published": "2026-10-04T07:09",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b539a7d77ec5dd9081739331795ac1d5a2cd3795",
+      "title": "Eko Patrol Radia 90 – odcinek 39/2026. Ekoprzedszkolak – pilotażowy program WFOŚiGW",
+      "summary": "Ekologia i kontakt z przyrodą mogą być dla najmłodszych nie tylko tematem lekcji, ale przede wszystkim doświadczeniem. Właśnie temu ma służyć pilotażowy program „Ekoprzedszkolak 2026”, w ramach którego wybrano 75 projektów z województwa śląskiego.",
+      "link": "https://www.radio90.pl/eko-patrol-radia-90-odcinek-39-2026-ekoprzedszkolak-pilotazowy-program-wfosigw.html",
+      "published": "2026-10-04T06:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "d2c3030113756b09b0055e97b686709c3eb88a14",
-      "title": "Bezdomni mają, gdzie się ogrzać",
+      "title": "Bezdomni mają gdzie się ogrzać",
       "summary": "Od 1 października w Jastrzębiu-Zdroju działa ogrzewalnia dla osób bezdomnych. Placówka przy ul. Północnej ruszyła w momencie, gdy różnica między ciepłymi dniami a zimnymi nocami zaczęła być dla wielu ludzi realnym zagrożeniem.",
       "link": "https://jastrzebieonline.pl/wiadomosci/251318-bezdomni-maja-gdzie-sie-ogrzac.html",
       "published": "2026-10-03T21:00",
@@ -239,16 +309,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "864fad6772a1f2bfd616dcba3a22ff95de879ba9",
-      "title": "Kobiety kobietom dodały skrzydeł. Gala Kobiet w Rydułtowach [ZDJĘCIA]",
-      "summary": "W Rydułtowskim Centrum Kultury odbyła się Gala Kobiet, zorganizowana w ramach działania „Nic tak nie motywuje kobiety jak inna kobieta”. Wydarzenie było jednym z ważnych momentów Rydułtowskiej Akademii Kobiet i stało się okazją do spotkania, rozmowy oraz pokazania siły, talentów i pasji kobiet z…",
-      "link": "https://www.nowiny.pl/wiadomosci/251283-kobiety-kobietom-dodaly-skrzydel-gala-kobiet-w-rydultowach-zdjecia.html",
-      "published": "2026-10-02T20:46",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "7cfac0251c6d5789b03321313c34da0922fef1ca",
       "title": "Minuta ciszy dla zmarłego policjanta. Sierżant Sieroń zginął na służbie",
       "summary": "W południe policjanci zatrzymali się na minutę, by oddać hołd 29-letniemu sierżantowi Natanowi Sieronowi, który zginął podczas służby.",
@@ -279,16 +339,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "3c367ef8bb7072781b025fbc625a3e7a5ebd50fe",
-      "title": "Politycy z powiatu wodzisławskiego na kongresie Rozwój+. Czy Gawęda, Ballarin i Kurasz podzielą wizję Morawieckiego?",
-      "summary": "W sobotę 26 września w Tomaszowie Mazowieckim odbył się Ogólnopolski Kongres Samorządowy, organizowany przez Stowarzyszenie Rozwój+, czyli frakcję byłego premiera Mateusza Morawieckiego. W wydarzeniu tym udział wzięli liczni samorządowcy i politycy, także z powiatu wodzisławskiego i okolicy.",
-      "link": "https://www.nowiny.pl/wiadomosci/251287-politycy-z-powiatu-wodzislawskiego-na-kongresie-rozwoj-czy-gaweda-ballarin-i-kurasz-podziela-wizje-morawieckiego.html",
-      "published": "2026-10-02T15:23",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "ef35727d8a7a13a8e186342dbe57185ab7bd724e",
       "title": "Dzieje się w Rybniku: Rybnicki Dzień Seniora, wręczenie Honorowej Lampki Górniczej, Dogtrekking i dużo więcej!",
       "summary": "Sporo - zresztą jak co tydzień - będzie się działo w nadchodzący weekend w Rybniku. Jakie wydarzenia zaplanowano w mieście od piątku (2.10) do niedzieli (4.10)? Dziś w bibliotece wykład związany ze 170-leciem kolei w Rybniku. W sobotę (3.10) wystartują Dni Zdrowia Psychicznego organizowane wspólnie…",
@@ -306,16 +356,6 @@
       "published": "2026-10-02T14:05",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "40e1fbd6d1d67bee129c2452f08d3d6234cc3b57",
-      "title": "Haluks bez dużego cięcia. Nowoczesna metoda zmienia chirurgię stopy",
-      "summary": "Jeszcze niedawno operacja palucha koślawego kojarzyła się z dużym cięciem, bólem i długim powrotem do sprawności. Dziś coraz częściej stosuje się małoinwazyjną metodę MICA, w której korekcję wykonuje się przez kilkumilimetrowe nacięcia. – Najważniejsze nie jest jednak to, jak mała zostanie blizna…",
-      "link": "https://www.nowiny.pl/wiadomosci/251308-haluks-bez-duzego-ciecia-nowoczesna-metoda-zmienia-chirurgie-stopy.html",
-      "published": "2026-10-02T13:32",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -459,26 +499,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "98942b17fcfa3207a6efe4a77ffc57a134c221f1",
-      "title": "Sezon na dokarmianie ptaków już za rogiem – przygotuj swój sklep!",
-      "summary": "Pierwsze jesienne przymrozki drastycznie zmieniają dynamikę w świecie przyrody. Dla branży handlowej to wyraźny sygnał startowy. Sezon na dokarmianie ptaków zbliża się wielkimi krokami. Świadomi zarządcy placówek handlowych już teraz planują zatowarowanie. Czas gra tutaj kluczową rolę.",
-      "link": "https://www.radio90.pl/sezon-na-dokarmianie-ptakow-juz-za-rogiem-przygotuj-swoj-sklep.html",
-      "published": "2026-10-01T16:05",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "65436e2c8b227c3c6a832075dba8ce73edba9555",
-      "title": "Jarmark u Antoniczka znów odbędzie się w Rybniku. Miasto ogłasza termin przedświątecznej imprezy. Szuka też wystawców",
-      "summary": "Dwa świąteczne jarmarki w centrum Rybnika, miasto zapowiada jak w tym roku będą wyglądały obchody Bożego Narodzenia: \"Antoniczek, rynek i okoliczne uliczki będą tętnić życiem, muzyką i zapachem regionalnych przysmaków\".",
-      "link": "https://www.radio90.pl/jarmark-u-antoniczka-znow-odbedzie-sie-w-rybniku-miasto-oglasza-termin-przedswiatecznej-imprezy-szuka-tez-wystawcow.html",
-      "published": "2026-10-01T14:45",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "1126d58669cadcce71a5e3ec076e8cef7c184ed3",
       "title": "Kowalewska & Kuder zaprezentowali wspaniały debiutancki album \"TAKI CZAS\" na Końcu Świata w Raciborzu! [ZDJĘCIA, VIDEO]",
       "summary": "To były cudowne muzyczne emocje. W piątek 25 września po raz pierwszy ujrzały światło dzienne utwory z debiutanckiego albumu „TAKI CZAS” w wykonaniu raciborskiego zespołu Kowalewska & Kuder. W kameralnej atmosferze klubu Przystanek Kulturalny Koniec Świata w Raciborzu artyści zagrali koncert w…",
@@ -486,16 +506,6 @@
       "published": "2026-10-01T14:00",
       "source": "nowiny.pl",
       "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8a6a604a0187c3c5f2e68cbb4e810d5298a1ffca",
-      "title": "Nowy rok akademicki w regionie. Z jakimi nadziejami studenci wracają na uczelnie?",
-      "summary": "1 października w kalendarzach - dziś rozpoczyna się nowy rok akademicki.",
-      "link": "https://www.radio90.pl/nowy-rok-akademicki-w-regionie-z-jakimi-nadziejami-studenci-wracaja-na-uczelnie.html",
-      "published": "2026-10-01T11:15",
-      "source": "Radio 90",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -943,16 +953,6 @@
       "title": "Przemysłowa 22 czeka na remont",
       "summary": "Budynek ma przejść kompleksową modernizację, która obejmie mieszkania, części wspólne oraz wszystkie najważniejsze instalacje. W postępowaniu uczestniczą trzy firmy, a najtańsza zadeklarowała realizację zadania za ponad 9 mln zł.",
       "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/przemyslowa-22-czeka-na-remont",
-      "published": "2026-09-21T00:00",
-      "source": "rybnik.eu",
-      "category": "Inwestycje",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6762670b8032c3cada6f6193f05976fb805d29ff",
-      "title": "Miasto kupuje teren przy zamkniętej Biedronce",
-      "summary": "Podczas najbliższej sesji Rady Miasta Rybnika radni zdecydują o zakupie działek o powierzchni ponad 1,1 ha, na których znajdują się obiekty handlowe, usługowe i biurowe.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/miasto-kupuje-teren-przy-zamknietej-biedronce",
       "published": "2026-09-21T00:00",
       "source": "rybnik.eu",
       "category": "Inwestycje",
