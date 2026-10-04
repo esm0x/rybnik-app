@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T21:14:45",
+  "generated_at": "2026-10-04T05:52:26",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,42 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 154,
+  "count": 155,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-vi-rybnicki-sabat-czarownic-impreza-w-rybniku",
-      "title": "VI Rybnicki Sabat Czarownic – impreza w Rybniku",
-      "category": "Impreza",
-      "start": "2026-10-03T19:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Rybnik szykuje wieczór w czarującym klimacie! VI Rybnicki Sabat Czarownic będzie przebieraną imprezą z tańcami, konkursami i innymi atrakcjami dla czarownic, upiorów oraz wszystkich, którzy lubią halloweenową zabawę. ‍ Organizatorzy zapowiadają tematyczną, przebieraną imprezę, podczas której nie zabraknie tańców, konkursów i innych atrakcji. Szczegółowy program ma zostać podany wkrótce, dlatego na razie nie wiadomo, jakie dokładnie niespodzianki czekają na uczestników. To propozycja dla osób, które mają ochotę na wieczór w upiornym wydaniu — z kostiumem, dobrą muzyką i wspólną zabawą. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/vi-rybnicki-sabat-czarownic-impreza-w-rybniku"
-    },
-    {
-      "id": "iryb-before-party-10-urodzin-klubu-karty-vip",
-      "title": "BEFORE PARTY 10 Urodzin Klubu – karty VIP",
-      "category": "Impreza",
-      "start": "2026-10-03T21:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Przed jubileuszem Face 2 Face szykuje się rozgrzewka z muzyką i szansą na zdobycie karty VIP. Jej posiadacze będą mogli przez rok wchodzić za darmo na imprezy w klubie, z wyłączeniem wydarzeń specjalnych. Impreza rozpocznie się w sobotę 3 października 2026 roku o godz. 21:00 w klubie Face 2 Face przy ul. Wiejskiej 1A w Rybniku . Wstęp jest przeznaczony dla osób od 18. roku życia. Na sali Exclusive zagra Artur. Główną atrakcją wieczoru będzie rozdawanie kart VIP, które zapewniają bezpłatne wejścia na imprezy w Face 2 Face przez cały rok. Nie obejmują wydarzeń specjalnych. Klub ma trzy poziomy, a otwierane strefy zależą od charakteru wydarzenia. Na miejscu jest też strefa chillout. Organizatorzy przypominają, że obowiązuje selekcja, a wstęp może zostać odmówiony osobom wyraźnie pod wpływem alkoholu.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/before-party-10-urodzin-klubu-karty-vip"
-    },
-    {
-      "id": "iryb-havana-dance-studio-trzecie-urodziny",
-      "title": "Havana Dance Studio: trzecie urodziny",
-      "category": "Impreza",
-      "start": "2026-10-03T21:30",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Trzy lata tańca, muzyki i dobrej energii w Rybniku będą świętowane w domowym klimacie — z tortem, szampanem i dwoma parkietami. Urodzinowa domówka Havana Dance Studio połączy salsę i bachatę, a za jej organizację odpowiada zespół studia. Wydarzenie rozpocznie się w sobotę 3 października 2026 roku o godz. 21:30 i potrwa do niedzieli 4 października do godz. 2:00 . Miejscem spotkania będzie Havana Dance Studio & Events Rybnik , ul. Jana Kotucza 36. Wstęp kosztuje 20 zł od osoby . W cenie są m.in. woda z cytryną, przekąski oraz tort urodzinowy i szampan. Można przynieść własne napoje. Do dyspozycji gości będzie parking przy budynku, a po drugiej stronie drogi także bezpłatny parking miejski. Na gości będą czekać dwa parkiety: jeden dla miłośników bachaty, drugi dla osób, które wolą salsę. Zaplanowano również animacje, pokazy i muzykę do tańca. W urodzinowej domówce weźmie udział ponad 30-osobowy zespół studia, który na co dzień prowadzi zajęcia.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/havana-dance-studio-trzecie-urodziny"
-    },
     {
       "id": "iryb-dogtrekking-jesien-2026-w-rybniku",
       "title": "DOGTREKKING JESIEŃ 2026 w Rybniku",
@@ -1661,11 +1628,33 @@
       "sourceUrl": "https://biletyna.pl/spektakl/Najdrozszy?eid=707088#opis"
     },
     {
+      "id": "bilnya-ballady-rockowe-przy-swiecach-polskie-legendy-202701211930",
+      "title": "Ballady Rockowe przy Świecach: Polskie Legendy",
+      "category": "Koncert",
+      "start": "2027-01-21T19:30",
+      "end": "2027-01-21T21:00",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/Ballady-Rockowe-przy-Swiecach-Polskie-Legendy?eid=708518#opis"
+    },
+    {
+      "id": "bilnya-sklep-z-facetami-202701241700",
+      "title": "Sklep z facetami",
+      "category": "Spektakl",
+      "start": "2027-01-24T17:00",
+      "end": "2027-01-24T18:30",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": "😂 Komedia o kobietach, mężczyznach i miłości, w której każdy odnajdzie cząstkę siebie. 💕 Błyskotliwe dialogi, zaskakujące zwroty akcji i doskonała zabawa sprawiły, że „Sklep z facetami” pokochało już ponad 50 000 widzów w całej Polsce..",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Sklep-z-facetami?eid=677848#opis"
+    },
+    {
       "id": "tzr-soyka-grott-orkiestra-w-holdzie-mistrzowi-przelozony",
       "title": "Soyka / Grott Orkiestra w hołdzie mistrzowi - przełożony",
       "category": "Koncert",
       "start": "2027-01-24T18:00",
-      "end": null,
+      "end": "2027-01-24T19:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Szanowni Państwo, informujemy, że koncert Soyka / Grott Orkiestra w hołdzie Mistrzowi, który miał odbyć się w dniu 9 października, w Teatrze Ziemi Rybnickiej, z przyczyn niezależnych od Organizatora, zostaje przełożony na nowy termin: 24 stycznia 2027 roku.",
       "sourceName": "TZR",
@@ -1676,11 +1665,22 @@
       "title": "NOWOROCZNA GALA – Koncert Wiedeński",
       "category": "Koncert",
       "start": "2027-01-26T18:00",
-      "end": null,
+      "end": "2027-01-26T20:00",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Najnowsza edycja 2027 ogólnopolskiej trasy koncertowej! - magiczne, pełne kolorytu widowisko, nie mające sobie równych! - na scenie ponad 30 osobowy zespół najwybitniejszych Solistów, Orkiestry i baletu oraz Gość Specjalny! - zachwycające doznania muzyczne, wypełnione szelestem błyszczących sukien, wśród widoku rozlewanego szampana i dźwięku stukających obcasów - najnowszy program koncertu – edycja 2027 - połączenie klasyki z rozrywką, które łączy pokolenia",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/noworoczna-gala-koncert-wiedenski.html"
+    },
+    {
+      "id": "bilnya-4-pory-roku-antonio-vivaldi-przy-swiecach-202701281930",
+      "title": "4 Pory Roku - Antonio Vivaldi przy Świecach",
+      "category": "Koncert",
+      "start": "2027-01-28T19:30",
+      "end": "2027-01-28T21:00",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🕯️🎻 Przeżyj \"Cztery pory roku\" tak, jak 300 lat temu – kameralnie, przy świecach i bez pośpiechu. Muzyka Antonio Vivaldi zachwyca emocją, światłem i ponadczasową magią ✨ Zarezerwuj wieczór, który zostaje w sercu 🎟️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/4-Pory-Roku-Antonio-Vivaldi-przy-Swiecach?eid=709057#opis"
     },
     {
       "id": "dk-bog-11035-dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-godz-16-00",
@@ -1703,6 +1703,17 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
+    },
+    {
+      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
+      "title": "NutkoSfera - CeZik dzieciom",
+      "category": "DlaDzieci",
+      "start": "2027-12-03T17:00",
+      "end": "2027-12-03T18:20",
+      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
+      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }

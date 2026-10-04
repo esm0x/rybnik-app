@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T21:16:22",
+  "generated_at": "2026-10-04T05:54:02",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,16 @@
     }
   ],
   "items": [
+    {
+      "id": "d2c3030113756b09b0055e97b686709c3eb88a14",
+      "title": "Bezdomni mają, gdzie się ogrzać",
+      "summary": "Od 1 października w Jastrzębiu-Zdroju działa ogrzewalnia dla osób bezdomnych. Placówka przy ul. Północnej ruszyła w momencie, gdy różnica między ciepłymi dniami a zimnymi nocami zaczęła być dla wielu ludzi realnym zagrożeniem.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251318-bezdomni-maja-gdzie-sie-ogrzac.html",
+      "published": "2026-10-03T21:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "c7fa5403d7451dc6be9b6af2265e8ff74829e8ef",
       "title": "25 lat Rybek, a emocji jak na wielkim torze. W Chwałowicach ścigali się młodzi i weterani [ZDJĘCIA]",
@@ -317,16 +327,6 @@
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "ALERT"
-    },
-    {
-      "id": "d00f3821db57c0f6035fa6e2f49eb43b2332096a",
-      "title": "Unikat na skalę Euroregionu Silesia. W lasku w Samborowicach powstał nowy tor rowerowy - single track",
-      "summary": "Ta nowa atrakcja turystyki rowerowej powstała przede wszystkim z myślą o mieszkańcach Samborowic. Żeby mieli gdzie spędzać czas wolny. Jest to również „miejscówka” także dla sąsiadów z okolicznych miejscowości, a także rowerowych turystów, także tych zza polsko-czeskiej granicy.",
-      "link": "https://www.nowiny.pl/wiadomosci/251307-unikat-na-skale-euroregionu-silesia-w-lasku-w-samborowicach-powstal-nowy-tor-rowerowy-single-track.html",
-      "published": "2026-10-02T12:14",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
     },
     {
       "id": "178c8a3a917993a95766e5366f64c402b3928806",
