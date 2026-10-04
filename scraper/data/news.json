@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T12:23:31",
+  "generated_at": "2026-10-04T17:05:41",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,26 @@
     }
   ],
   "items": [
+    {
+      "id": "0c00d55a6275b0bbd9e10127ff13c754f1ee77f7",
+      "title": "Od jutra zamknięta będzie ulica Dworcowa w Suminie. Przez miesiąc droga będzie nieprzejezdna. Są objazdy",
+      "summary": "Po weekendzie, od poniedziałku, (5.10) zamknięta zostanie ulica Dworcowa w Suminie. Droga powiatowa będzie nieprzejezdna przez około miesiąc. Dlaczego?",
+      "link": "https://www.radio90.pl/od-jutra-zamknieta-bedzie-ulica-dworcowa-w-suminie-przez-miesiac-droga-bedzie-nieprzejezdna-sa-objazdy.html",
+      "published": "2026-10-04T15:45",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "09187cfd06a5b729311a3e4eb31896436196b771",
+      "title": "Będzie remont familoka w Rybniku. Zakład Gospodarki Mieszkaniowej szuka wykonawcy prac w budynku przy ul. Przemysłowej [ZDJĘCIA]",
+      "summary": "Ponad 9 milionów złotych może kosztować kompleksowy remont budynku przy ulicy Przemysłowej 22 w Rybniku. W przetargu uczestniczą trzy firmy, a Zakład Gospodarki Mieszkaniowej planuje podpisać umowę z wykonawcą jeszcze w tym roku.",
+      "link": "https://www.radio90.pl/bedzie-remont-familoka-w-rybniku-zaklad-gospodarki-mieszkaniowej-szuka-wykonawcy-prac-w-budynku-przy-ul-przemyslowej.html",
+      "published": "2026-10-04T14:30",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "imgw-Sk20261004095036980",
       "title": "IMGW: Gęsta mgła",
@@ -409,16 +429,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "3bb5154b94f1ba978df8aa71652e05d72cdd253a",
-      "title": "Biogazownia w Rybniku: jest umowa z inwestorem zastępczym. Niedługo wybiorą głównego wykonawcę instalacji w Niewiadomiu",
-      "summary": "Biogazownia w Rybniku wchodzi w etap realizacji. Centrum Zielonej Energii podpisało umowę z firmą (Wudimeks), która będzie inwestorem zastępczym i zajmie się między innymi nadzorem nad budową, harmonogramem i kosztami.",
-      "link": "https://www.radio90.pl/biogazownia-w-rybniku-jest-umowa-z-inwestorem-zastepczym-niedlugo-wybiora-glownego-wykonawce-instalacji-w-niewiadomiu.html",
-      "published": "2026-10-02T06:35",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a77149d199d9b5d451a0fcf617393a173d60f8fa",
       "title": "Miasto Rybnik i Koleje Śląskie Sp. z o.o. łączą siły na wypadek awarii",
       "summary": "W dniu 28 września 2026 r. Miasto Rybnik i Koleje Śląskie podpisały umowę dotyczącą wzajemnej współpracy w sytuacjach awarii i utrudnień w funkcjonowaniu transportu kolejowego.",
@@ -476,16 +486,6 @@
       "published": "2026-10-02T00:00",
       "source": "rybnik.eu",
       "category": "Zwierzęta",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "630c2da981bde28037d2f75e4eac1ddb69ca3504",
-      "title": "Jedna osoba ranna, wypadek motocyklisty w Gaszowicach [ZDJĘCIA]",
-      "summary": "Fatalnie wyglądający wypadek motocyklisty w Gaszowicach.",
-      "link": "https://www.radio90.pl/jedna-osoba-ranna-wypadek-motocyklisty-w-gaszowicach-zdjecia.html",
-      "published": "2026-10-01T18:19",
-      "source": "Radio 90",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
