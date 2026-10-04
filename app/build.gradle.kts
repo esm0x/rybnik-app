@@ -24,8 +24,8 @@ android {
         applicationId = "com.adminstack.rybnik"
         minSdk = 26
         targetSdk = 35
-        versionCode = 15
-        versionName = "1.2.5"
+        versionCode = 16
+        versionName = "1.2.6"
     }
 
     signingConfigs {

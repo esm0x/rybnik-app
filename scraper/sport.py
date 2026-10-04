@@ -6,8 +6,11 @@ Sources:
                   ROW Rybnik (k) (women). One page per club per season holds the
                   whole season: played matches with scores AND future fixtures
                   with kick-off times, league and cup together.
-  * row.rybnik.com.pl — speedway (INNPRO ROW Rybnik, Metalkas 2. Ekstraliga).
-                  The official schedule page carries the regular season only.
+  * ekstraliga.pl — speedway (INNPRO ROW Rybnik). The league organiser's own
+                  schedule: regular season AND play-off, play-down and barrage
+                  matches, each with its stage and an official match page.
+  * row.rybnik.com.pl — the club's site, kept only as a fallback. It publishes the
+                  regular season alone, which is why it stopped being the source.
 
 Pitfalls, all verified against the live sources:
   * 90minut.pl speaks HTTP only — port 443 refuses the connection outright — and
@@ -21,16 +24,19 @@ Pitfalls, all verified against the live sources:
     decided on penalties reads "0-0k. 6-7". The extra text goes to `scoreNote`.
   * Away fixtures late in the season have a date but no kick-off time yet, hence
     `time` is nullable rather than faked as 00:00.
-  * Speedway PLAY-OFFS ARE MISSING and there is no fix in sight. The schedule page
-    is explicitly titled "rundy zasadniczej" and stops at round 14; the club's own
-    front-page slider stops on the same date, so the 2026 semi-final against PSŻ
-    Poznań (23.08 and 06.09) exists on the site only as photo-gallery captions with
-    no score. Checked as alternatives: sportowefakty.wp.pl has no play-off rows in
-    its markup, zuzelend.com's club page is a news feed with relative dates
-    ("3 lata temu"), not a fixture table. The slider is parsed anyway so that
-    anything the club does publish there lands in the data, but as of 2026 it adds
-    nothing. The app must therefore say "po sezonie" instead of presenting a
-    six-week-old result as the latest one.
+  * Speedway play-offs used to be missing entirely: the club site titles its schedule
+    "rundy zasadniczej" and stops at round 14, so the 2026 semi-final against PSŻ
+    Poznań never reached the app. Testers read that as the app not marking play-offs.
+    ekstraliga.pl has them, with the stage spelled out in `match_subtype`.
+  * ekstraliga.pl is a Next.js app: the data is not in the markup but in the React
+    Server Components stream, as escaped JSON split across self.__next_f.push chunks.
+  * Its `datetime_schedule` is a UTC instant in milliseconds. Read naively it comes out
+    right on a Polish laptop and two hours early on GitHub Actions, which runs in UTC,
+    so it is always converted to Europe/Warsaw explicitly.
+  * A match can carry a score while still running — status "W trakcie" (3) — so a
+    result counts as final only on status "Rozegrany" (1), never on the score alone.
+  * Two-legged ties are labelled "mecz 1" and "rewanż", and the second leg carries the
+    aggregate, because a play-off result means nothing without knowing who went through.
 
 Output shape is fixed by scraper/CONTRACT.md (sport.json) — Kotlin deserializes it
 1:1, so field names and the enum values are binding.
@@ -47,6 +53,7 @@ from dataclasses import asdict, dataclass, field
 from datetime import date, datetime
 from pathlib import Path
 from typing import Optional
+from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
@@ -69,6 +76,13 @@ M90_BASE = "http://www.90minut.pl/mecze_druzyna.php"
 # two each season. Verified against 99 = 2021/22 … 107 = 2025/26.
 M90_ANCHOR_SEASON = 2025
 M90_ANCHOR_ID = 107
+
+EKSTRALIGA = "https://ekstraliga.pl"
+# Rybnik has ridden in both leagues, so both are searched instead of hard-coding the
+# current one; promotion or relegation then needs no code change.
+EKSTRALIGA_LEAGUES = ("m2e", "pgee")
+WARSAW = ZoneInfo("Europe/Warsaw")
+EKSTRALIGA_FINISHED = 1
 
 SPEEDWAY_SCHEDULE = "https://row.rybnik.com.pl/druzyna/terminarz"
 SPEEDWAY_HOME = "https://row.rybnik.com.pl/home"
@@ -135,8 +149,10 @@ class Match:
     isHome: bool
     homeScore: Optional[int]
     awayScore: Optional[int]
-    scoreNote: Optional[str]        # "wo", "k. 6-7" — anything beyond the plain score
+    scoreNote: Optional[str]        # "wo", "k. 6-7", "dwumecz 87:93" — beyond the plain score
     status: str                     # SCHEDULED | FINISHED
+    stage: str = "REGULAR"          # REGULAR | PLAYOFF | PLAYDOWN | BARRAGE | CUP
+    url: Optional[str] = None       # match page with the full result, for the app to open
 
 
 def http_get(url: str, encoding: Optional[str] = None) -> requests.Response:
@@ -190,19 +206,29 @@ def parse_score(raw: str) -> tuple[Optional[int], Optional[int], Optional[str]]:
 # 90minut.pl — football
 # --------------------------------------------------------------------------
 
-def m90_rows(club_id: int, season_id: int) -> list[list[str]]:
+def m90_rows(club_id: int, season_id: int) -> list[tuple[list[str], Optional[str]]]:
+    """Each fixture row, plus the link to its match page when 90minut has one.
+
+    The match page is where the detail lives — scorers with minutes, both line-ups,
+    substitutions, the referee — buried at the bottom under a very long menu. The row
+    also links to the opponent's season page, so the match link is picked by its path.
+    """
     r = http_get(f"{M90_BASE}?id={club_id}&id_sezon={season_id}", encoding="iso-8859-2")
     soup = BeautifulSoup(r.text, "html.parser")
-    rows: list[list[str]] = []
+    rows: list[tuple[list[str], Optional[str]]] = []
     for tr in soup.find_all("tr"):
         cells = [td.get_text(" ", strip=True) for td in tr.find_all("td")]
         cells = [c for c in cells if c]
         if len(cells) >= 4 and re.match(r"^\d{4}-\d{2}-\d{2}", cells[0]):
-            rows.append(cells)
+            link = tr.find("a", href=re.compile(r"mecz\.php\?id_mecz=\d+"))
+            url = f"http://www.90minut.pl{link['href']}" if link else None
+            rows.append((cells, url))
     return rows
 
 
-def resolve_m90_season(club_id: int, today: date) -> tuple[int, list[list[str]]]:
+def resolve_m90_season(
+    club_id: int, today: date,
+) -> tuple[int, list[tuple[list[str], Optional[str]]]]:
     """Find the id_sezon whose matches actually fall inside the current season.
 
     The arithmetic alone would be a silent trap the day 90minut changes its
@@ -219,7 +245,7 @@ def resolve_m90_season(club_id: int, today: date) -> tuple[int, list[list[str]]]
         rows = m90_rows(club_id, candidate)
         inside = [
             r for r in rows
-            if window[0] <= datetime.strptime(r[0][:10], "%Y-%m-%d").date() <= window[1]
+            if window[0] <= datetime.strptime(r[0][0][:10], "%Y-%m-%d").date() <= window[1]
         ]
         if inside:
             if candidate != guess:
@@ -235,7 +261,7 @@ def parse_football(team: Team, today: date) -> list[Match]:
     print(f"[info] {team.name}: id_sezon={season_id}, {len(rows)} meczów", file=sys.stderr)
 
     out: list[Match] = []
-    for cells in rows:
+    for cells, url in rows:
         # 90minut puts date and kick-off in one cell, and drops the time when the
         # fixture has a date but no hour yet.
         stamp = cells[0]
@@ -258,8 +284,164 @@ def parse_football(team: Team, today: date) -> list[Match]:
             awayScore=aws,
             scoreNote=note,
             status="FINISHED" if hs is not None else "SCHEDULED",
+            # "POkr" is the regional Puchar Polski; everything else is league football.
+            stage="CUP" if competition.startswith("POkr") else "REGULAR",
+            url=url,
         ))
     return out
+
+
+# --------------------------------------------------------------------------
+# ekstraliga.pl — speedway, the league organiser's own data
+# --------------------------------------------------------------------------
+
+def rsc_payload(page: str) -> str:
+    """The data behind a Next.js page: escaped string chunks, joined and unescaped."""
+    chunks = re.findall(r'self\.__next_f\.push\(\[1,"(.*?)"\]\)', page, re.S)
+    return "".join(json.loads('"' + c + '"') for c in chunks)
+
+
+def json_objects_after(text: str, key: str) -> list[dict]:
+    """Every JSON object that opens right after `key`, found by matching braces.
+
+    The objects sit inside a larger structure that is not itself valid JSON, so they
+    are cut out one at a time rather than parsed as a whole.
+    """
+    found: list[dict] = []
+    start = 0
+    while (at := text.find(key, start)) >= 0:
+        open_at = text.find("{", at + len(key) - 1)
+        depth = 0
+        for i in range(open_at, len(text)):
+            if text[i] == "{":
+                depth += 1
+            elif text[i] == "}":
+                depth -= 1
+                if depth == 0:
+                    try:
+                        found.append(json.loads(text[open_at:i + 1]))
+                    except json.JSONDecodeError:
+                        pass
+                    break
+        start = at + len(key)
+    return found
+
+
+def league_events(league: str, season: int) -> list[dict]:
+    page = http_get(f"{EKSTRALIGA}/se/terminarz-i-wyniki/{league}/{season}").text
+    return json_objects_after(rsc_payload(page), '"event":{')
+
+
+def speedway_stage(subtype: str) -> str:
+    folded = subtype.lower()
+    if "play-off" in folded:
+        return "PLAYOFF"
+    if "play-down" in folded:
+        return "PLAYDOWN"
+    if "bara" in folded:
+        return "BARRAGE"
+    return "REGULAR"
+
+
+def speedway_round_label(subtype: str, round_no: Optional[int], stage: str) -> str:
+    """'Runda 7' in the regular season; the tie itself otherwise.
+
+    The league's own short names ("o 5-6 msc") read like a spreadsheet header, so the
+    full name is turned into something a person would say instead.
+    """
+    if stage == "REGULAR":
+        return f"Runda {round_no}" if round_no else "Runda zasadnicza"
+    if stage == "BARRAGE":
+        return "Baraż"
+    detail = subtype.split(" - ", 1)[-1].strip()
+    if detail.lower().startswith("półfina"):
+        return "Półfinał"
+    if detail.lower().startswith("fina"):
+        return "Finał"
+    place = re.search(r"o\s*(\d+)", detail)
+    return f"Mecz o {place.group(1)}. miejsce" if place else detail
+
+
+def build_speedway(team: Team, events: list[dict], league: str, season: int) -> list[Match]:
+    out: list[Match] = []
+    for e in events:
+        home, away = (part.strip() for part in e["name"]["pl"].split(" - ", 1))
+        sides = {t.get("no"): t for t in e.get("card_teams") or []}
+        finished = (e.get("status") or {}).get("id") == EKSTRALIGA_FINISHED
+        hs = sides.get(1, {}).get("match_score") if finished else None
+        aws = sides.get(2, {}).get("match_score") if finished else None
+
+        when = datetime.fromtimestamp(e["datetime_schedule"] / 1000, WARSAW)
+        subtype = ((e.get("match_subtype") or {}).get("name") or {}).get("pl", "")
+        stage = speedway_stage(subtype)
+        is_home = team.marker in home
+
+        out.append(Match(
+            id=f"{team.id}-{when:%Y-%m-%d}-{slug(away if is_home else home)}",
+            teamId=team.id,
+            competition=speedway_round_label(subtype, e.get("round"), stage),
+            date=f"{when:%Y-%m-%d}",
+            time=f"{when:%H:%M}",
+            home=home,
+            away=away,
+            isHome=is_home,
+            homeScore=hs,
+            awayScore=aws,
+            scoreNote=None,
+            status="FINISHED" if hs is not None and aws is not None else "SCHEDULED",
+            stage=stage,
+            url=f"{EKSTRALIGA}/se/mecz/{e['id']}",
+        ))
+    label_two_legged_ties(out)
+    print(f"[info] {team.name}: {league}/{season}, {len(out)} meczów, "
+          f"w tym {sum(m.stage != 'REGULAR' for m in out)} poza rundą zasadniczą",
+          file=sys.stderr)
+    return out
+
+
+def label_two_legged_ties(matches: list[Match]) -> None:
+    """Mark the legs and, once both are played, give the second one the aggregate.
+
+    Play-off ties are home-and-away against the same opponent. "48:42" on its own
+    says nothing about who went through; "39:51, dwumecz 87:93" does.
+    """
+    ties: dict[tuple[str, str, str], list[Match]] = {}
+    for m in matches:
+        if m.stage == "REGULAR":
+            continue
+        opponent = m.away if m.isHome else m.home
+        ties.setdefault((m.stage, m.competition, opponent), []).append(m)
+
+    for legs in ties.values():
+        if len(legs) != 2:
+            continue
+        first, second = sorted(legs, key=lambda m: (m.date, m.time or ""))
+        first.competition += ", mecz 1"
+        second.competition += ", rewanż"
+        if first.status == second.status == "FINISHED":
+            ours = sum((m.homeScore if m.isHome else m.awayScore) or 0 for m in legs)
+            theirs = sum((m.awayScore if m.isHome else m.homeScore) or 0 for m in legs)
+            second.scoreNote = f"dwumecz {ours}:{theirs}"
+
+
+def parse_speedway_league(team: Team, today: date) -> list[Match]:
+    """This year's schedule, or last year's while the new one is not out yet.
+
+    Speedway runs April to September on the calendar year, so from October until the
+    league publishes next season's fixtures, the season just finished is the latest
+    there is, and it is better shown than an empty screen.
+    """
+    for season in (today.year, today.year - 1):
+        for league in EKSTRALIGA_LEAGUES:
+            events = league_events(league, season)
+            mine = [e for e in events if team.marker in ((e.get("name") or {}).get("pl") or "")]
+            if mine:
+                return build_speedway(team, mine, league, season)
+            time.sleep(POLITE_DELAY)
+    raise RuntimeError(
+        f"brak meczów {team.name} w {'/'.join(EKSTRALIGA_LEAGUES)} "
+        f"za {today.year} i {today.year - 1}"
+    )
 
 
 # --------------------------------------------------------------------------
@@ -395,13 +577,19 @@ def main() -> int:
     for team in TEAMS:
         try:
             if team.sport == "SPEEDWAY":
-                print(f"[info] scraping {SPEEDWAY_SCHEDULE}", file=sys.stderr)
-                scheduled = parse_speedway_schedule(team)
                 try:
-                    scheduled = merge(scheduled, parse_speedway_extra(team))
-                except Exception as e:  # noqa: BLE001 — the slider is a bonus, not the source
-                    print(f"[warn] slider na /home: {e}", file=sys.stderr)
-                matches.extend(scheduled)
+                    print(f"[info] scraping {EKSTRALIGA} dla {team.name}", file=sys.stderr)
+                    matches.extend(parse_speedway_league(team, today))
+                except Exception as e:  # noqa: BLE001 — the club site is the fallback
+                    # Worse data, but some data: regular season only, no match pages.
+                    print(f"[warn] ekstraliga.pl: {e}; awaryjnie strona klubu", file=sys.stderr)
+                    failures.append({"source": "ekstraliga.pl", "error": str(e)})
+                    scheduled = parse_speedway_schedule(team)
+                    try:
+                        scheduled = merge(scheduled, parse_speedway_extra(team))
+                    except Exception as e2:  # noqa: BLE001 — the slider is a bonus
+                        print(f"[warn] slider na /home: {e2}", file=sys.stderr)
+                    matches.extend(scheduled)
             else:
                 print(f"[info] scraping 90minut dla {team.name}", file=sys.stderr)
                 matches.extend(parse_football(team, today))

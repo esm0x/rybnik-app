@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T12:23:42",
-  "count": 58,
+  "generated_at": "2026-10-04T18:42:31",
+  "count": 60,
   "failures": [],
   "teams": [
     {
@@ -27,18 +27,20 @@
   ],
   "matches": [
     {
-      "id": "row-zuzel-2026-04-05-pronergy-polonia-pila",
+      "id": "row-zuzel-2026-04-05-polonia-pila",
       "teamId": "row-zuzel",
       "competition": "Runda 1",
       "date": "2026-04-05",
       "time": "16:10",
-      "home": "PRONERGY Polonia Piła",
+      "home": "POLONIA Piła",
       "away": "INNPRO ROW Rybnik",
       "isHome": false,
       "homeScore": 35,
       "awayScore": 31,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "https://ekstraliga.pl/se/mecz/6638"
     },
     {
       "id": "row-zuzel-2026-04-11-abramczyk-polonia-bydgoszcz",
@@ -52,7 +54,9 @@
       "homeScore": 43,
       "awayScore": 47,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "https://ekstraliga.pl/se/mecz/6641"
     },
     {
       "id": "row-zuzel-2026-04-19-h-skrzydlewska-orzel-lodz",
@@ -66,7 +70,9 @@
       "homeScore": 53,
       "awayScore": 37,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "https://ekstraliga.pl/se/mecz/6644"
     },
     {
       "id": "row-zuzel-2026-05-02-zks-stal-rzeszow",
@@ -80,12 +86,14 @@
       "homeScore": 47,
       "awayScore": 42,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "https://ekstraliga.pl/se/mecz/6648"
     },
     {
       "id": "row-zuzel-2026-05-10-hunters-psz-poznan",
       "teamId": "row-zuzel",
-      "competition": "Runda  5",
+      "competition": "Runda 5",
       "date": "2026-05-10",
       "time": "15:15",
       "home": "INNPRO ROW Rybnik",
@@ -94,21 +102,25 @@
       "homeScore": 41,
       "awayScore": 49,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "https://ekstraliga.pl/se/mecz/6652"
     },
     {
-      "id": "row-zuzel-2026-05-24-moonfin-magnus-ostrow-wielkopolski",
+      "id": "row-zuzel-2026-05-24-moonfin-magnus-ostrow-wlkp",
       "teamId": "row-zuzel",
       "competition": "Runda 6",
       "date": "2026-05-24",
       "time": "17:15",
-      "home": "MOONFIN MAGNUS Ostrów Wielkopolski",
+      "home": "MOONFIN MAGNUS Ostrów Wlkp.",
       "away": "INNPRO ROW Rybnik",
       "isHome": false,
       "homeScore": 39,
       "awayScore": 51,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "https://ekstraliga.pl/se/mecz/6659"
     },
     {
       "id": "row-zuzel-2026-05-31-cellfast-wilki-krosno",
@@ -122,21 +134,25 @@
       "homeScore": 55,
       "awayScore": 35,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "https://ekstraliga.pl/se/mecz/6660"
     },
     {
-      "id": "row-zuzel-2026-06-07-pronergy-polonia-pila",
+      "id": "row-zuzel-2026-06-07-polonia-pila",
       "teamId": "row-zuzel",
       "competition": "Runda 8",
       "date": "2026-06-07",
       "time": "14:10",
       "home": "INNPRO ROW Rybnik",
-      "away": "PRONERGY Polonia Piła",
+      "away": "POLONIA Piła",
       "isHome": true,
       "homeScore": 58,
       "awayScore": 32,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "https://ekstraliga.pl/se/mecz/6665"
     },
     {
       "id": "row-zuzel-2026-06-21-abramczyk-polonia-bydgoszcz",
@@ -150,7 +166,9 @@
       "homeScore": 54,
       "awayScore": 36,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "https://ekstraliga.pl/se/mecz/6671"
     },
     {
       "id": "row-zuzel-2026-06-25-h-skrzydlewska-orzel-lodz",
@@ -164,21 +182,25 @@
       "homeScore": 56,
       "awayScore": 34,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "https://ekstraliga.pl/se/mecz/6672"
     },
     {
-      "id": "row-zuzel-2026-07-12-zks-stal-rzeszow",
+      "id": "row-zuzel-2026-07-12-dakar-development-stal-rzeszow",
       "teamId": "row-zuzel",
       "competition": "Runda 11",
       "date": "2026-07-12",
       "time": "14:00",
-      "home": "ZKS STAL Rzeszów",
+      "home": "DAKAR DEVELOPMENT STAL Rzeszów",
       "away": "INNPRO ROW Rybnik",
       "isHome": false,
       "homeScore": 47,
       "awayScore": 43,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "https://ekstraliga.pl/se/mecz/6679"
     },
     {
       "id": "row-1964-2026-08-01-warta-gorzow-wielkopolski",
@@ -192,7 +214,9 @@
       "homeScore": 5,
       "awayScore": 1,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "http://www.90minut.pl/mecz.php?id_mecz=2114936"
     },
     {
       "id": "row-zuzel-2026-08-02-hunters-psz-poznan",
@@ -206,7 +230,9 @@
       "homeScore": 46,
       "awayScore": 44,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "https://ekstraliga.pl/se/mecz/6682"
     },
     {
       "id": "row-1964-2026-08-08-karkonosze-jelenia-gora",
@@ -220,21 +246,25 @@
       "homeScore": 1,
       "awayScore": 0,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "http://www.90minut.pl/mecz.php?id_mecz=2114952"
     },
     {
-      "id": "row-zuzel-2026-08-09-moonfin-magnus-ostrow-wielkopolski",
+      "id": "row-zuzel-2026-08-09-moonfin-magnus-ostrow-wlkp",
       "teamId": "row-zuzel",
       "competition": "Runda 13",
       "date": "2026-08-09",
       "time": "15:15",
       "home": "INNPRO ROW Rybnik",
-      "away": "MOONFIN MAGNUS Ostrów Wielkopolski",
+      "away": "MOONFIN MAGNUS Ostrów Wlkp.",
       "isHome": true,
       "homeScore": 51,
       "awayScore": 39,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "https://ekstraliga.pl/se/mecz/6687"
     },
     {
       "id": "row-zuzel-2026-08-13-cellfast-wilki-krosno",
@@ -248,7 +278,9 @@
       "homeScore": 42,
       "awayScore": 48,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "https://ekstraliga.pl/se/mecz/6689"
     },
     {
       "id": "row-1964-2026-08-16-zaglebie-sosnowiec",
@@ -262,7 +294,9 @@
       "homeScore": 4,
       "awayScore": 1,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "http://www.90minut.pl/mecz.php?id_mecz=2114953"
     },
     {
       "id": "row-1964-2026-08-19-carina-gubin",
@@ -276,7 +310,9 @@
       "homeScore": 4,
       "awayScore": 0,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "http://www.90minut.pl/mecz.php?id_mecz=2114970"
     },
     {
       "id": "row-1964-2026-08-22-barycz-sulow",
@@ -290,7 +326,25 @@
       "homeScore": 4,
       "awayScore": 0,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "http://www.90minut.pl/mecz.php?id_mecz=2114972"
+    },
+    {
+      "id": "row-zuzel-2026-08-23-hunters-psz-poznan",
+      "teamId": "row-zuzel",
+      "competition": "Półfinał, mecz 1",
+      "date": "2026-08-23",
+      "time": "13:00",
+      "home": "INNPRO ROW Rybnik",
+      "away": "HUNTERS PSŻ Poznań",
+      "isHome": true,
+      "homeScore": 48,
+      "awayScore": 42,
+      "scoreNote": null,
+      "status": "FINISHED",
+      "stage": "PLAYOFF",
+      "url": "https://ekstraliga.pl/se/mecz/7723"
     },
     {
       "id": "row-kobiety-2026-08-29-rio-pielgrzymowice-k",
@@ -304,7 +358,9 @@
       "homeScore": 1,
       "awayScore": 2,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2026-08-29-gornik-polkowice",
@@ -318,7 +374,9 @@
       "homeScore": 1,
       "awayScore": 3,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "http://www.90minut.pl/mecz.php?id_mecz=2114987"
     },
     {
       "id": "row-1964-2026-09-05-odra-bytom-odrzanski",
@@ -332,7 +390,9 @@
       "homeScore": 3,
       "awayScore": 2,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "http://www.90minut.pl/mecz.php?id_mecz=2114991"
     },
     {
       "id": "row-kobiety-2026-09-06-tecza-wielowies-k",
@@ -346,7 +406,25 @@
       "homeScore": 3,
       "awayScore": 0,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": null
+    },
+    {
+      "id": "row-zuzel-2026-09-06-hunters-psz-poznan",
+      "teamId": "row-zuzel",
+      "competition": "Półfinał, rewanż",
+      "date": "2026-09-06",
+      "time": "13:00",
+      "home": "HUNTERS PSŻ Poznań",
+      "away": "INNPRO ROW Rybnik",
+      "isHome": false,
+      "homeScore": 51,
+      "awayScore": 39,
+      "scoreNote": "dwumecz 87:93",
+      "status": "FINISHED",
+      "stage": "PLAYOFF",
+      "url": "https://ekstraliga.pl/se/mecz/7724"
     },
     {
       "id": "row-1964-2026-09-09-gks-62-jastrzebie-jastrzebie-zdroj",
@@ -360,7 +438,9 @@
       "homeScore": 0,
       "awayScore": 2,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "CUP",
+      "url": null
     },
     {
       "id": "row-kobiety-2026-09-12-swd-wodzislaw-slaski-k",
@@ -374,7 +454,9 @@
       "homeScore": 4,
       "awayScore": 2,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2026-09-12-zaglebie-ii-lubin",
@@ -388,7 +470,9 @@
       "homeScore": 2,
       "awayScore": 2,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "http://www.90minut.pl/mecz.php?id_mecz=2115004"
     },
     {
       "id": "row-kobiety-2026-09-19-tygryski-swietochlowice-k",
@@ -402,7 +486,9 @@
       "homeScore": 5,
       "awayScore": 0,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2026-09-19-ks-stilon-gorzow-wielkopolski",
@@ -416,7 +502,9 @@
       "homeScore": 0,
       "awayScore": 0,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "http://www.90minut.pl/mecz.php?id_mecz=2115010"
     },
     {
       "id": "row-kobiety-2026-09-26-plomien-kuznica-marianowa-czestochowa-k",
@@ -430,7 +518,9 @@
       "homeScore": 0,
       "awayScore": 1,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2026-09-26-stal-brzeg",
@@ -444,7 +534,9 @@
       "homeScore": 4,
       "awayScore": 3,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": "http://www.90minut.pl/mecz.php?id_mecz=2115021"
     },
     {
       "id": "row-1964-2026-09-30-tkkf-sokol-chwalecice-rybnik",
@@ -458,7 +550,9 @@
       "homeScore": 1,
       "awayScore": 0,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "CUP",
+      "url": null
     },
     {
       "id": "row-1964-2026-10-03-lks-goczalkowice-zdroj",
@@ -472,7 +566,9 @@
       "homeScore": 0,
       "awayScore": 1,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-kobiety-2026-10-03-rekord-ii-bielsko-biala-k",
@@ -486,7 +582,9 @@
       "homeScore": 5,
       "awayScore": 3,
       "scoreNote": null,
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2026-10-10-sleza-wroclaw",
@@ -500,7 +598,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2026-10-17-sparta-katowice",
@@ -514,7 +614,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-kobiety-2026-10-17-wisla-skoczow-k",
@@ -528,7 +630,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2026-10-24-polonia-nysa",
@@ -542,7 +646,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-kobiety-2026-10-24-ap-ii-zory-k",
@@ -556,7 +662,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2026-10-30-rakow-ii-czestochowa",
@@ -570,7 +678,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2026-11-06-mks-kluczbork",
@@ -584,7 +694,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2026-11-14-miedz-ii-legnica",
@@ -598,7 +710,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2026-11-21-warta-gorzow-wielkopolski",
@@ -612,7 +726,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2026-11-28-karkonosze-jelenia-gora",
@@ -626,7 +742,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2027-02-27-zaglebie-sosnowiec",
@@ -640,7 +758,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2027-03-06-carina-gubin",
@@ -654,7 +774,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2027-03-13-barycz-sulow",
@@ -668,7 +790,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2027-03-20-gornik-polkowice",
@@ -682,7 +806,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2027-03-27-odra-bytom-odrzanski",
@@ -696,7 +822,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2027-04-03-zaglebie-ii-lubin",
@@ -710,7 +838,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2027-04-10-ks-stilon-gorzow-wielkopolski",
@@ -724,7 +854,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2027-04-17-stal-brzeg",
@@ -738,7 +870,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2027-04-24-lks-goczalkowice-zdroj",
@@ -752,7 +886,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2027-05-01-sleza-wroclaw",
@@ -766,7 +902,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2027-05-08-sparta-katowice",
@@ -780,7 +918,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2027-05-12-polonia-nysa",
@@ -794,7 +934,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2027-05-15-rakow-ii-czestochowa",
@@ -808,7 +950,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2027-05-22-mks-kluczbork",
@@ -822,7 +966,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     },
     {
       "id": "row-1964-2027-05-29-miedz-ii-legnica",
@@ -836,7 +982,9 @@
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     }
   ]
 }

@@ -1,5 +1,12 @@
 package com.adminstack.rybnik.ui.sport
 
+import android.content.ClipData
+import android.content.ClipboardManager
+import android.content.Context
+import android.content.Intent
+import android.widget.Toast
+import androidx.compose.ui.platform.LocalContext
+import androidx.core.net.toUri
 import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -131,41 +138,67 @@ fun SportScreen(onBack: () -> Unit) {
     }
 }
 
+/**
+ * One match. Clickable only when the source has a page for it: 90minut publishes one
+ * for league games, ekstraliga.pl for every speedway match, and nobody for the women's
+ * league or the regional cup. A card that looks tappable and does nothing would read as
+ * a bug, so those simply stay plain.
+ */
 @Composable
 private fun MatchRow(match: Match, team: SportTeam?) {
-    Card(
-        modifier = Modifier
-            .fillMaxWidth()
-            .padding(horizontal = 16.dp, vertical = 4.dp),
-        colors = CardDefaults.cardColors(),
-    ) {
-        Row(
-            Modifier.padding(14.dp),
-            verticalAlignment = Alignment.CenterVertically,
-        ) {
-            Column(Modifier.weight(1f)) {
+    val context = LocalContext.current
+    val modifier = Modifier
+        .fillMaxWidth()
+        .padding(horizontal = 16.dp, vertical = 4.dp)
+    val body: @Composable () -> Unit = { MatchRowBody(match, team) }
+
+    val url = match.url
+    if (url != null) {
+        Card(onClick = { openMatchPage(context, url) }, modifier = modifier) { body() }
+    } else {
+        Card(modifier = modifier) { body() }
+    }
+}
+
+@Composable
+private fun MatchRowBody(match: Match, team: SportTeam?) {
+    Row(Modifier.padding(14.dp), verticalAlignment = Alignment.CenterVertically) {
+        Column(Modifier.weight(1f)) {
+            match.stage.badge?.let { label ->
+                StageBadge(label)
+                Spacer(Modifier.height(4.dp))
+            }
+            Text(
+                match.opponent,
+                style = MaterialTheme.typography.titleSmall,
+                fontWeight = FontWeight.SemiBold,
+            )
+            Spacer(Modifier.height(2.dp))
+            Text(
+                listOfNotNull(
+                    team?.kind?.label,
+                    if (match.isHome) "u siebie" else "wyjazd",
+                    match.competition,
+                    match.date.humanLabel(),
+                    match.time?.format(TIME_FMT),
+                ).joinToString(" · "),
+                style = MaterialTheme.typography.labelSmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+            )
+            if (match.url != null) {
+                Spacer(Modifier.height(4.dp))
                 Text(
-                    match.opponent,
-                    style = MaterialTheme.typography.titleSmall,
-                    fontWeight = FontWeight.SemiBold,
-                )
-                Spacer(Modifier.height(2.dp))
-                Text(
-                    listOfNotNull(
-                        team?.kind?.label,
-                        if (match.isHome) "u siebie" else "wyjazd",
-                        match.competition,
-                        match.date.humanLabel(),
-                        match.time?.format(TIME_FMT),
-                    ).joinToString(" · "),
+                    if (match.finished) "Relacja i szczegóły ›" else "Strona meczu ›",
                     style = MaterialTheme.typography.labelSmall,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    color = MaterialTheme.colorScheme.primary,
                 )
             }
-            match.scoreLabel?.let {
-                Spacer(Modifier.width(10.dp))
+        }
+        match.scoreText?.let { score ->
+            Spacer(Modifier.width(10.dp))
+            Column(horizontalAlignment = Alignment.End) {
                 Text(
-                    it,
+                    score,
                     style = MaterialTheme.typography.titleMedium,
                     fontWeight = FontWeight.Bold,
                     color = when (match.outcome) {
@@ -174,7 +207,43 @@ private fun MatchRow(match: Match, team: SportTeam?) {
                         else -> MaterialTheme.colorScheme.onSurfaceVariant
                     },
                 )
+                match.scoreNote?.let { note ->
+                    Text(
+                        note,
+                        style = MaterialTheme.typography.labelSmall,
+                        color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    )
+                }
             }
         }
     }
+}
+
+/** Small and quiet: it should be findable, not shout over the score. */
+@Composable
+private fun StageBadge(label: String) {
+    Card(
+        colors = CardDefaults.cardColors(
+            containerColor = MaterialTheme.colorScheme.tertiaryContainer,
+            contentColor = MaterialTheme.colorScheme.onTertiaryContainer,
+        ),
+    ) {
+        Text(
+            label.uppercase(),
+            style = MaterialTheme.typography.labelSmall,
+            fontWeight = FontWeight.Bold,
+            modifier = Modifier.padding(horizontal = 8.dp, vertical = 2.dp),
+        )
+    }
+}
+
+/** Same fallback as the support screen: a phone with no browser gets the link copied. */
+private fun openMatchPage(context: Context, url: String) {
+    runCatching { context.startActivity(Intent(Intent.ACTION_VIEW, url.toUri())) }
+        .onFailure {
+            context.getSystemService(ClipboardManager::class.java)
+                ?.setPrimaryClip(ClipData.newPlainText("link", url))
+            Toast.makeText(context, "Brak przeglądarki. Link skopiowany.", Toast.LENGTH_LONG)
+                .show()
+        }
 }

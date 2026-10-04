@@ -16,7 +16,7 @@ Wszystkie moduły działają na realnych danych.
 | **Wiadomości** | Radio 90, rybnik.com.pl, rybnik.eu, nowiny.pl, tuRybnik | 120 pozycji, alerty na górze |
 | **Powietrze** | GIOŚ, stacja Rybnik-Borki (834) | PM10, PM2,5 + indeks jakości |
 | **Wyłączenia prądu** | Tauron (publiczne API `waapi`) | dopasowane do numeru domu |
-| **Sport** | 90minut.pl + row.rybnik.com.pl | 3 kluby, 58 meczów w sezonie |
+| **Sport** | 90minut.pl + ekstraliga.pl | 3 kluby, play-offy żużla, linki do relacji |
 | **Gdzie wyrzucić** | rybnik.eu + słownik ręczny | 2 PSZOK-i, GPZON, 59 haseł |
 | **Ostrzeżenia** | IMGW (publiczne API) | meteo po TERYT 2473, hydro regionalnie |
 
@@ -200,14 +200,28 @@ Kotlin deserializuje je 1:1.
   Publikują tylko na Facebooku, a API wydarzeń stron Meta nie istnieje od 2018 —
   scrapowanie łamałoby regulamin i i tak psułoby się co chwilę. Dlatego wchodzą
   przez `scraper/data/manual_events.json`.
-- **Żużel bez play-offów.** Oficjalny terminarz klubu jest zatytułowany „rundy
-  zasadniczej" i kończy się na 14. rundzie; slider wyników na stronie głównej stoi na
-  tej samej dacie. Półfinał z PSŻ Poznań (23.08 i 06.09.2026) istnieje na stronie
-  wyłącznie jako podpis pod galerią zdjęć, bez wyniku. Sprawdzone alternatywy:
-  sportowefakty.wp.pl nie ma wierszy play-off w markupie, a strona klubu na
-  zuzelend.com to feed newsów z datami względnymi („3 lata temu"), nie terminarz.
-  Dlatego apka po zakończeniu rundy zasadniczej mówi „ostatni mecz sezonu" zamiast
-  podawać sześciotygodniowy wynik jako świeży.
+- **Żużel: play-offy są tylko u organizatora ligi.** Strona klubu publikuje wyłącznie
+  terminarz „rundy zasadniczej" i kończy się na 14. rundzie, więc półfinał z PSŻ Poznań
+  (23.08 i 06.09.2026) w ogóle nie trafiał do apki — testerzy odczytali to jako brak
+  oznaczenia play-offu. Źródłem jest teraz ekstraliga.pl, gdzie każdy mecz ma podtyp
+  (`match_subtype`: część zasadnicza, play-off, play-down, baraże) i własną stronę
+  z oficjalnymi wynikami i relacją. Strona klubu została jako awaryjna.
+  - Dane nie leżą w HTML-u, tylko w strumieniu React Server Components: zescapowany JSON
+    pocięty na kawałki `self.__next_f.push`.
+  - `datetime_schedule` to chwila UTC w milisekundach. Odczytana naiwnie wychodzi dobrze
+    na polskim laptopie i **dwie godziny za wcześnie na GitHub Actions**, które chodzą
+    w UTC — stąd jawne przeliczenie na `Europe/Warsaw` i `tzdata` w zależnościach.
+  - Mecz potrafi mieć wynik w trakcie jazdy (status „W trakcie"), więc za końcowy
+    uchodzi wyłącznie przy statusie „Rozegrany", nigdy po samej obecności liczb.
+  - Dwumecze dostają etykiety „mecz 1" i „rewanż", a rewanż sumę („dwumecz 87:93"),
+    bo sam wynik rewanżu nie mówi, kto przeszedł dalej.
+- **Linki do relacji są nierówne, bo źródła są nierówne.** Żużel ma stronę każdego meczu.
+  Piłka mężczyzn ma ją na 90minut dla meczów ligowych — z opóźnieniem po meczu i nigdy
+  dla regionalnego Pucharu (POkr). **Piłka kobiet nie ma jej wcale**: 90minut nie
+  zakłada stron meczów dla III ligi kobiet, nawet za cały rozegrany sezon. Wynik bez
+  linku nie udaje klikalnego. 90minut działa tylko po HTTP — link otwiera przeglądarka,
+  nie klient apki, więc zakaz ruchu jawnego go nie blokuje, ale Chrome pokaże przy
+  adresie znak „niezabezpieczona".
 - **SQLite ma sufit na liczbę zmiennych w zapytaniu** i Room rozwija `IN (:ids)` na jeden
   parametr na element. Limit to 999 na Androidzie 8, więc szeroki dobór przystanków go
   przebijał: wpisanie „Rybnik" jako celu dopasowuje **każdy** przystanek w mieście, bo
@@ -265,7 +279,7 @@ Kotlin deserializuje je 1:1.
 6. ✅ v1.0 — wyszukiwarka połączeń skąd-dokąd z jedną przesiadką
 7. ✅ v1.1 — widget na pulpit, PSZOK/GPZON + „gdzie wyrzucić X", ostrzeżenia IMGW
 8. ✅ v1.2 — przypomnienia odporne na Doze (alarm dobowy), przetrwanie restartu,
-   sekcja o oszczędzaniu baterii
+   sekcja o oszczędzaniu baterii; play-offy żużla i linki do relacji meczów
 9. ⏭️ Mapa przystanków i tras (OSM, bo GTFS nie ma geometrii)
 10. ❌ Odjazdy na żywo — odrzucone: KM Rybnik nie ma danych GPS (patrz ograniczenia)
 11. ✅ Ciemny motyw + przełącznik jasny / ciemny / jak system

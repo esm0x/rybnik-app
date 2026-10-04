@@ -40,7 +40,25 @@ data class MatchDto(
     val awayScore: Int? = null,
     val scoreNote: String? = null,
     val status: String = "SCHEDULED",
+    /**
+     * Defaults matter here: a phone updated before the scraper ships the new fields
+     * still has the old sport.json in its cache, and must read it as before.
+     */
+    val stage: String = "REGULAR",
+    val url: String? = null,
 )
+
+/**
+ * Where in the season a match sits. [badge] is null for the regular season on purpose:
+ * marking the ordinary rounds would bury the few matches that actually need it.
+ */
+enum class Stage(val badge: String?) {
+    REGULAR(null),
+    PLAYOFF("Play-off"),
+    PLAYDOWN("Play-down"),
+    BARRAGE("Baraż"),
+    CUP("Puchar"),
+}
 
 enum class SportKind(val label: String) {
     FOOTBALL("Piłka nożna"),
@@ -72,6 +90,9 @@ data class Match(
     val theirScore: Int?,
     val scoreNote: String?,
     val finished: Boolean,
+    val stage: Stage = Stage.REGULAR,
+    /** The match's own page: scorers and line-ups, or heat-by-heat results. */
+    val url: String? = null,
 ) {
     val opponent: String get() = if (isHome) away else home
 
@@ -87,6 +108,17 @@ data class Match(
                 ours < theirs -> Outcome.LOSS
                 else -> Outcome.DRAW
             }
+        }
+
+    /**
+     * The bare score, for where it is set large. The note goes on its own line there:
+     * "39:51 dwumecz 87:93" in a headline style does not fit beside a team name.
+     */
+    val scoreText: String?
+        get() {
+            val ours = ourScore ?: return null
+            val theirs = theirScore ?: return null
+            return "$ours:$theirs"
         }
 
     /** "3:1", plus the walkover or penalty note the source carried. */
@@ -116,6 +148,9 @@ fun MatchDto.toDomainOrNull(): Match? = runCatching {
         // Trusting `status` alone would let a half-filled row render as "0:0".
         finished = status.equals("FINISHED", ignoreCase = true) &&
             ourGoals != null && theirGoals != null,
+        stage = runCatching { Stage.valueOf(stage) }.getOrDefault(Stage.REGULAR),
+        // Only web links leave the app; anything else in the feed is ignored, not opened.
+        url = url?.takeIf { it.startsWith("https://") || it.startsWith("http://") },
     )
 }.getOrNull()
 

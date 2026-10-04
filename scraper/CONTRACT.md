@@ -177,7 +177,9 @@ Sortowanie: malejąco po `published`.
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
-      "status": "SCHEDULED"
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
     }
   ]
 }
@@ -189,7 +191,18 @@ Sortowanie: malejąco po `published`.
   wyznaczoną datę, ale jeszcze nie godzinę, i nie wolno tego udawać jako 00:00.
 - `isHome` — czy rybnicka drużyna jest gospodarzem. Liczone przy scrapowaniu, bo
   nazwy w źródłach są niestabilne (`INNPRO ROW Rybnik`, `ROW 1964 Rybnik`, `ROW Rybnik (k)`).
-- `scoreNote` — wszystko poza gołym wynikiem: `"wo"` (walkower), `"k. 6-7"` (karne).
+- `scoreNote` — wszystko poza gołym wynikiem: `"wo"` (walkower), `"k. 6-7"` (karne),
+  `"dwumecz 87:93"` (rewanż w dwumeczu play-off, liczone z perspektywy rybnickiej drużyny).
+- `stage`: `REGULAR` | `PLAYOFF` | `PLAYDOWN` | `BARRAGE` | `CUP`. Nieznana wartość spada
+  w apce do `REGULAR`, a brak pola (stary cache) też oznacza `REGULAR`. Dla żużla etap
+  pochodzi z `match_subtype` w danych ekstraliga.pl, dla piłki `CUP` to regionalny Puchar
+  Polski („POkr"), reszta to liga.
+- `url` — strona meczu albo `null`. Żużel: `https://ekstraliga.pl/se/mecz/{id}` (oficjalne
+  wyniki i relacja), zawsze. Piłka mężczyzn: `http://www.90minut.pl/mecz.php?id_mecz={id}`
+  (strzelcy, składy, sędzia) — **tylko HTTP**, bo 90minut nie odpowiada na 443. Pojawia się
+  z opóźnieniem po meczu i nigdy dla Pucharu POkr. Piłka kobiet: **zawsze `null`**,
+  90minut nie zakłada stron meczów dla III ligi kobiet, nawet za cały rozegrany sezon.
+  Apka przepuszcza do przeglądarki wyłącznie adresy `http(s)://`.
   Zwykły mecz ma tu `null`.
 - `teamId` wskazuje na `teams[].id`. Mecz bez pasującej drużyny apka pomija.
 - Sortowanie: rosnąco po `date`, potem `time` (brak godziny idzie na koniec dnia).

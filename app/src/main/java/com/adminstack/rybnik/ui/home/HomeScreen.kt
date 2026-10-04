@@ -365,16 +365,19 @@ private fun SportCard(highlight: Highlight, onClick: () -> Unit) {
                 Text(
                     when {
                         stale -> listOfNotNull(
+                            match.stage.badge,
                             if (match.isHome) "u siebie" else "wyjazd",
                             "ostatni mecz sezonu",
                             match.date.format(SHORT_DAY_FMT),
                         ).joinToString(" · ")
                         highlight.isResult -> listOfNotNull(
+                            match.stage.badge,
                             if (match.isHome) "u siebie" else "wyjazd",
                             match.date.humanLabel(),
                             match.competition,
                         ).joinToString(" · ")
                         else -> listOfNotNull(
+                            match.stage.badge,
                             if (match.isHome) "u siebie" else "wyjazd",
                             match.date.humanLabel(),
                             match.time?.format(TIME_FMT),
@@ -385,17 +388,28 @@ private fun SportCard(highlight: Highlight, onClick: () -> Unit) {
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                 )
             }
-            match.scoreLabel?.let {
+            // Score and note on separate lines: "39:51 dwumecz 87:93" set in titleLarge
+            // would not fit beside the opponent's name.
+            match.scoreText?.let { score ->
                 Spacer(Modifier.width(10.dp))
-                Text(
-                    it,
-                    style = MaterialTheme.typography.titleLarge,
-                    color = when (match.outcome) {
-                        Outcome.WIN -> MaterialTheme.colorScheme.primary
-                        Outcome.LOSS -> MaterialTheme.colorScheme.error
-                        else -> MaterialTheme.colorScheme.onSurfaceVariant
-                    },
-                )
+                Column(horizontalAlignment = Alignment.End) {
+                    Text(
+                        score,
+                        style = MaterialTheme.typography.titleLarge,
+                        color = when (match.outcome) {
+                            Outcome.WIN -> MaterialTheme.colorScheme.primary
+                            Outcome.LOSS -> MaterialTheme.colorScheme.error
+                            else -> MaterialTheme.colorScheme.onSurfaceVariant
+                        },
+                    )
+                    match.scoreNote?.let { note ->
+                        Text(
+                            note,
+                            style = MaterialTheme.typography.labelSmall,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        )
+                    }
+                }
             }
         }
     }
