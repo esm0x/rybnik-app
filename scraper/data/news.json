@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:05:41",
+  "generated_at": "2026-10-04T21:27:23",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,56 @@
     }
   ],
   "items": [
+    {
+      "id": "2be2fc4329cf4d6f2a46c6e6e2779c299321db86",
+      "title": "Mamy najnowszy alert pogodowy. Kierowcy, uważajcie na mgły",
+      "summary": "Uwaga kierowcy. W nocy i o poranku nad częścią regionu mogą pojawić się gęste mgły. Regionalne Biuro Prognoz Meteorologicznych w Krakowie wydało ostrzeżenie pierwszego stopnia.",
+      "link": "https://www.radio90.pl/mamy-najnowszy-alert-pogodowy-kierowcy-uwazajcie-na-mgly.html",
+      "published": "2026-10-04T19:57",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "84a5da015542bbf5f1395b998bdedc31b1b1fd17",
+      "title": "ZUS zmienia sposób opłacania składek. Jest nowa funkcja w mZUS",
+      "summary": "Przedsiębiorcy mogą już opłacać składki ZUS bezpośrednio z aplikacji mZUS dla Płatnika. Wprowadzono w niej nową funkcję: kreator płatności. Na razie usługa działa w wybranych bankach, ale ZUS zapowiada jej dalszy rozwój. W przyszłości składki będzie można opłacać także BLIK-iem.",
+      "link": "https://www.nowiny.pl/wiadomosci/251325-zus-zmienia-sposob-oplacania-skladek-jest-nowa-funkcja-w-mzus.html",
+      "published": "2026-10-04T17:40",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8226e2a8b08ae8d5ec90c322b4286d58ba9c8820",
+      "title": "Pilny alert dla regionu. Gęste mgły mogą mocno utrudnić jazdę",
+      "summary": "Wieczorem widoczność może gwałtownie się pogorszyć. IMGW ostrzega przed gęstymi mgłami, które w nocy i nad ranem mogą mocno utrudnić jazdę.",
+      "link": "https://www.nowiny.pl/wiadomosci/251324-pilny-alert-dla-regionu-geste-mgly-moga-mocno-utrudnic-jazde.html",
+      "published": "2026-10-04T17:35",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8759d8e6323f2ac67753c754df4242ca5591c1cd",
+      "title": "Różaniec na kole. Z Rogowa pojechali do franciszkanów w Bohuminie [ZDJĘCIA]",
+      "summary": "Modlitwą przed kościołem Najświętszego Serca Pana Jezusa w Rogowie rozpoczęła się w niedzielę siódma edycja „Różańca na kole”. W tym roku uczestnicy wyruszyli rowerami do Bohumina, gdzie odwiedzili kościół franciszkanów.",
+      "link": "https://www.nowiny.pl/wiadomosci/251323-rozaniec-na-kole-z-rogowa-pojechali-do-franciszkanow-w-bohuminie-zdjecia.html",
+      "published": "2026-10-04T17:32",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8950e51ce1ae6163cceda066a613c28d1a7ba837",
+      "title": "Rybnik dla Biznesu 2026. VIII edycja konferencji 5 listopada [PATRONAT]",
+      "summary": "5 listopada odbędzie się VIII edycja konferencji „Rybnik dla Biznesu”. Jak zwykle będzie podzielona na dwie części, poranna odbędzie się w Auli Uniwersytetu Ekonomicznego w Rybniku przy ul. Rudzkiej 13 C, zaś popołudniowa to głównie gala i możliwość rozmów i wymiany doświadczeń w luźniejszym stylu…",
+      "link": "https://www.radio90.pl/rybnik-dla-biznesu-2026-viii-edycja-konferencji-5-listopada-patronat.html",
+      "published": "2026-10-04T17:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "0c00d55a6275b0bbd9e10127ff13c754f1ee77f7",
       "title": "Od jutra zamknięta będzie ulica Dworcowa w Suminie. Przez miesiąc droga będzie nieprzejezdna. Są objazdy",
@@ -269,16 +319,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "2ba4e4a2e2ecd6de9033e18715d8357d06937bfd",
-      "title": "Pilny apel raciborskiej policji. Poszukiwany 15-letni Oskar Bryła",
-      "summary": "Komenda Powiatowa Policji w Raciborzu prowadzi poszukiwania 15-letniego Oskara Bryły, mieszkańca Raciborza. Funkcjonariusze zwracają się z apelem do wszystkich osób, które mogą mieć informacje na temat miejsca pobytu nastolatka.",
-      "link": "https://www.nowiny.pl/wiadomosci/251309-pilny-apel-raciborskiej-policji-poszukiwany-15-letni-oskar-bryla.html",
-      "published": "2026-10-03T07:42",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "eee828c87511f901a4da0328277e006f3070e514",
       "title": "Wypadek na autostradzie A1. Są kłopoty z przejazdem",
       "summary": "Wypadek na autostradzie A1. Przed godziną 7 rano doszło tam do zderzenia osobówki i samochodu ciężarowego. Początkowo trasa była zablokowana, obecnie ruch odbywa się jednym pasem.",
@@ -306,16 +346,6 @@
       "published": "2026-10-03T05:41",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "83a32bf5e8d910d97d9d803870540d77919ab6da",
-      "title": "Country zawita do Czernicy. Będzie ognisko, rodeo i pieczony świniak",
-      "summary": "Park przy zameczku w Czernicy wypełni się zapachem ziemniaków z ogniska. 10 października odbędzie się tam II Święto Pieczonego Ziemniaka, tym razem w klimacie country.",
-      "link": "https://agronowiny.pl/wiadomosci/251281-country-zawita-do-czernicy-bedzie-ognisko-rodeo-i-pieczony-swiniak.html",
-      "published": "2026-10-03T05:11",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -419,16 +449,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "330d1eadf7474c0b7873a27d1f5298958932bbe6",
-      "title": "„Uśmiechajcie się do siebie!” – apelują mieszkańcy regionu, a z nimi Radio 90. Dziś Międzynarodowy Dzień Uśmiechu",
-      "summary": "Dziś, 2 października - Międzynarodowy Dzień Uśmiechu. Właśnie o uśmiech pytaliśmy mieszkańców regionu.",
-      "link": "https://www.radio90.pl/usmiechajcie-sie-do-siebie-apeluja-mieszkancy-regionu-a-z-nimi-radio-90-dzis-miedzynarodowy-dzien-usmiechu.html",
-      "published": "2026-10-02T06:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a77149d199d9b5d451a0fcf617393a173d60f8fa",
       "title": "Miasto Rybnik i Koleje Śląskie Sp. z o.o. łączą siły na wypadek awarii",
       "summary": "W dniu 28 września 2026 r. Miasto Rybnik i Koleje Śląskie podpisały umowę dotyczącą wzajemnej współpracy w sytuacjach awarii i utrudnień w funkcjonowaniu transportu kolejowego.",
@@ -486,26 +506,6 @@
       "published": "2026-10-02T00:00",
       "source": "rybnik.eu",
       "category": "Zwierzęta",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ccd5fdf9e5422e6267a0ff2cb3fb951f58da4a80",
-      "title": "Uwaga, kierowcy! Od jutra utrudnienia na ul. Chwałowickiej w Rybniku. Drogowcy będą remontować nawierzchnię",
-      "summary": "Od jutra (2.10) wahadło na ulicy Chwałowickiej w Rybniku. Na odcinku 350 metrów prowadzony będzie remont nawierzchni.",
-      "link": "https://www.radio90.pl/uwaga-kierowcy-od-jutra-utrudnienia-na-ul-chwalowickiej-w-rybniku-drogowcy-beda-remontowac-nawierzchnie.html",
-      "published": "2026-10-01T17:45",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "ALERT"
-    },
-    {
-      "id": "1126d58669cadcce71a5e3ec076e8cef7c184ed3",
-      "title": "Kowalewska & Kuder zaprezentowali wspaniały debiutancki album \"TAKI CZAS\" na Końcu Świata w Raciborzu! [ZDJĘCIA, VIDEO]",
-      "summary": "To były cudowne muzyczne emocje. W piątek 25 września po raz pierwszy ujrzały światło dzienne utwory z debiutanckiego albumu „TAKI CZAS” w wykonaniu raciborskiego zespołu Kowalewska & Kuder. W kameralnej atmosferze klubu Przystanek Kulturalny Koniec Świata w Raciborzu artyści zagrali koncert w…",
-      "link": "https://www.nowiny.pl/nie-przegap/251286-kowalewska-kuder-zaprezentowali-wspanialy-debiutancki-album-taki-czas-na-koncu-swiata-w-raciborzu-zdjecia-video.html",
-      "published": "2026-10-01T14:00",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
