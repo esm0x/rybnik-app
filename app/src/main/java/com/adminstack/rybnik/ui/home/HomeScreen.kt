@@ -1,5 +1,8 @@
 package com.adminstack.rybnik.ui.home
 
+import androidx.compose.ui.platform.LocalLifecycleOwner
+import androidx.lifecycle.Lifecycle
+import androidx.lifecycle.repeatOnLifecycle
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -50,6 +53,7 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.viewmodel.compose.viewModel
+import com.adminstack.rybnik.ui.news.MarkSeenWhenShown
 import com.adminstack.rybnik.Graph
 import com.adminstack.rybnik.data.Event
 import com.adminstack.rybnik.data.air.AirState
@@ -480,16 +484,23 @@ private fun AlertCarousel(
     onHide: (String) -> Unit,
 ) {
     var index by remember(alerts) { mutableIntStateOf(0) }
+    val lifecycle = LocalLifecycleOwner.current.lifecycle
 
-    LaunchedEffect(alerts) {
+    // Paused with the screen. Rotating in the background drew nothing anybody saw, and
+    // it walked every alert past MarkSeenWhenShown while the app sat behind the launcher.
+    LaunchedEffect(alerts, lifecycle) {
         if (alerts.size < 2) return@LaunchedEffect
-        while (true) {
-            delay(6_000)
-            index = (index + 1) % alerts.size
+        lifecycle.repeatOnLifecycle(Lifecycle.State.RESUMED) {
+            while (true) {
+                delay(6_000)
+                index = (index + 1) % alerts.size
+            }
         }
     }
 
     val item = alerts[index.coerceIn(alerts.indices)]
+    // Each alert stays up for six seconds, so one that has rotated past has been shown.
+    MarkSeenWhenShown(item.id)
     AlertCard(
         item = item,
         position = if (alerts.size > 1) "${index + 1}/${alerts.size}" else null,

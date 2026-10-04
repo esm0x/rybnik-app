@@ -39,6 +39,10 @@ data class Settings(
     val favouriteStopIds: Set<String> = emptySet(),
     /** News the user dismissed by hand. Kept out of the list, the dashboard and alerts. */
     val hiddenNewsIds: Set<String> = emptySet(),
+    /** Alerts that have been on screen in the app, so they are not announced again. */
+    val seenAlertIds: Set<String> = emptySet(),
+    /** Everything already announced, as dated keys; see NotificationRules.key. */
+    val notifiedKeys: Set<String> = emptySet(),
     val notifyWaste: Boolean = true,
     val notifyEvents: Boolean = true,
     val notifySmog: Boolean = true,
@@ -67,6 +71,8 @@ class UserPrefs(private val context: Context) {
             favouriteEventIds = p[KEY_FAV_EVENTS] ?: emptySet(),
             favouriteStopIds = p[KEY_FAV_STOPS] ?: emptySet(),
             hiddenNewsIds = p[KEY_HIDDEN_NEWS] ?: emptySet(),
+            seenAlertIds = p[KEY_SEEN_ALERTS] ?: emptySet(),
+            notifiedKeys = p[KEY_NOTIFIED] ?: emptySet(),
             notifyWaste = p[KEY_NOTIFY_WASTE] ?: true,
             notifyEvents = p[KEY_NOTIFY_EVENTS] ?: true,
             notifySmog = p[KEY_NOTIFY_SMOG] ?: true,
@@ -131,6 +137,34 @@ class UserPrefs(private val context: Context) {
     suspend fun clearHiddenNews() = context.dataStore.edit { p -> p.remove(KEY_HIDDEN_NEWS) }
 
     /**
+     * Called as an alert scrolls into view. Reading it in the app is reading it: the
+     * tester's one notification in a week was for something already read on the dashboard.
+     * Skips the write when nothing is new, since this fires on every composition.
+     */
+    suspend fun markAlertsSeen(ids: Collection<String>) {
+        if (ids.isEmpty()) return
+        context.dataStore.edit { p ->
+            val current = p[KEY_SEEN_ALERTS] ?: emptySet()
+            if (!current.containsAll(ids)) p[KEY_SEEN_ALERTS] = current + ids
+        }
+    }
+
+    /** Same guard as [pruneHiddenNews]: an empty feed means a failed fetch, not an empty one. */
+    suspend fun pruneSeenAlerts(alive: Set<String>) {
+        if (alive.isEmpty()) return
+        context.dataStore.edit { p ->
+            val current = p[KEY_SEEN_ALERTS] ?: return@edit
+            val kept = current intersect alive
+            if (kept.size != current.size) p[KEY_SEEN_ALERTS] = kept
+        }
+    }
+
+    /** Replaces the ledger; pruning is the caller's job, it knows what "old" means. */
+    suspend fun setNotifiedKeys(keys: Set<String>) = context.dataStore.edit { p ->
+        p[KEY_NOTIFIED] = keys
+    }
+
+    /**
      * Forget ids that fell out of the feed, so the set does not grow without bound.
      * An empty [alive] means the fetch failed, not that the feed is empty — pruning
      * against it would silently unhide everything.
@@ -187,6 +221,8 @@ private val KEY_ADDR_REJON = stringPreferencesKey("addr_rejon")
 private val KEY_FAV_EVENTS = stringSetPreferencesKey("fav_events")
 private val KEY_FAV_STOPS = stringSetPreferencesKey("fav_stops")
 private val KEY_HIDDEN_NEWS = stringSetPreferencesKey("hidden_news")
+private val KEY_SEEN_ALERTS = stringSetPreferencesKey("seen_alerts")
+private val KEY_NOTIFIED = stringSetPreferencesKey("notified_keys")
 private val KEY_NOTIFY_WASTE = booleanPreferencesKey("notify_waste")
 private val KEY_NOTIFY_EVENTS = booleanPreferencesKey("notify_events")
 private val KEY_NOTIFY_SMOG = booleanPreferencesKey("notify_smog")

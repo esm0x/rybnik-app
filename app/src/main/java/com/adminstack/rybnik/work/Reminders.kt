@@ -23,6 +23,8 @@ import com.adminstack.rybnik.core.prefs.Settings
 import com.adminstack.rybnik.data.outages.OutageKind
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.sync.Mutex
+import kotlinx.coroutines.sync.withLock
 import java.time.Duration
 import java.time.LocalDate
 import java.time.LocalDateTime
@@ -63,20 +65,26 @@ object Reminders {
     const val DEST_NEWS = "news"
     const val DEST_AIR = "air"
 
+    const val GROUP_ALERTS = "com.adminstack.rybnik.ALERTS"
+    private const val MAX_SUMMARY_LINES = 5
+
     /**
      * Two mechanisms on purpose, because they fail differently.
      *
      * The periodic worker is the safety net: it survives reboots on its own and catches
      * smog, city alerts and power cuts, none of which care about the exact minute. The
      * daily alarm carries the reminders that do have a deadline, because WorkManager's
-     * six-hour period is a floor, not a promise, and Doze stretches it further.
+     * periodic interval is a floor, not a promise, and Doze stretches it further.
      */
     fun rescheduleAll(context: Context) {
         val wm = WorkManager.getInstance(context)
         wm.enqueueUniquePeriodicWork(
             "daily-reminders",
             ExistingPeriodicWorkPolicy.UPDATE,
-            PeriodicWorkRequestBuilder<DailyReminderWorker>(6, TimeUnit.HOURS)
+            // Three hours rather than six: the feed itself updates every six, so this
+            // halves the wait between an alert being published and reaching the phone.
+            // It is cheap now that the ledger stops every extra run from repeating itself.
+            PeriodicWorkRequestBuilder<DailyReminderWorker>(3, TimeUnit.HOURS)
                 .setInitialDelay(nextRunDelayMinutes(), TimeUnit.MINUTES)
                 .build(),
         )
@@ -102,6 +110,11 @@ object Reminders {
     /**
      * @param destination which screen the tap should open, one of the DEST_ constants.
      */
+    /**
+     * @return whether it was actually posted. Only then may the caller record it in the
+     *   ledger: a reminder swallowed for lack of permission was never delivered, and
+     *   marking it sent would lose it for good once the permission is granted.
+     */
     fun notify(
         context: Context,
         channel: String,
@@ -109,11 +122,9 @@ object Reminders {
         title: String,
         text: String,
         destination: String,
-    ) {
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU &&
-            ContextCompat.checkSelfPermission(context, Manifest.permission.POST_NOTIFICATIONS) !=
-            PackageManager.PERMISSION_GRANTED
-        ) return
+        group: String? = null,
+    ): Boolean {
+        if (!canPost(context)) return false
 
         val notification = NotificationCompat.Builder(context, channel)
             .setSmallIcon(R.drawable.ic_notification)
@@ -122,10 +133,56 @@ object Reminders {
             .setStyle(NotificationCompat.BigTextStyle().bigText(text))
             .setAutoCancel(true)
             .setContentIntent(openApp(context, id, destination))
+            .apply { group?.let { setGroup(it) } }
             .build()
 
+        return runCatching { NotificationManagerCompat.from(context).notify(id, notification) }
+            .isSuccess
+    }
+
+    /**
+     * The header of a stack of alerts. Android only folds notifications together under
+     * one of these; without it, three alerts arrive as three unrelated banners.
+     */
+    fun notifyGroupSummary(
+        context: Context,
+        channel: String,
+        id: Int,
+        group: String,
+        title: String,
+        lines: List<String>,
+        destination: String,
+    ) {
+        if (!canPost(context)) return
+        val style = NotificationCompat.InboxStyle().setBigContentTitle(title)
+        lines.take(MAX_SUMMARY_LINES).forEach { style.addLine(it) }
+        if (lines.size > MAX_SUMMARY_LINES) {
+            style.setSummaryText("i jeszcze ${lines.size - MAX_SUMMARY_LINES}")
+        }
+        val notification = NotificationCompat.Builder(context, channel)
+            .setSmallIcon(R.drawable.ic_notification)
+            .setContentTitle(title)
+            .setContentText(lines.firstOrNull().orEmpty())
+            .setStyle(style)
+            .setGroup(group)
+            .setGroupSummary(true)
+            .setAutoCancel(true)
+            .setContentIntent(openApp(context, id, destination))
+            .build()
         runCatching { NotificationManagerCompat.from(context).notify(id, notification) }
     }
+
+    /**
+     * One id per alert, so a second alert sits beside the first instead of replacing it,
+     * which is what the single shared id used to do. Kept above 0x10000000 so it cannot
+     * collide with the fixed ids of the other reminder types.
+     */
+    fun alertNotificationId(alertId: String): Int = 0x10000000 or (alertId.hashCode() and 0x0FFFFFFF)
+
+    private fun canPost(context: Context): Boolean =
+        Build.VERSION.SDK_INT < Build.VERSION_CODES.TIRAMISU ||
+            ContextCompat.checkSelfPermission(context, Manifest.permission.POST_NOTIFICATIONS) ==
+            PackageManager.PERMISSION_GRANTED
 
     /**
      * Without this a reminder is a dead end: tapping it does nothing at all, and even
@@ -159,59 +216,83 @@ class DailyReminderWorker(
     params: WorkerParameters,
 ) : CoroutineWorker(context, params) {
 
-    override suspend fun doWork(): Result {
+    /**
+     * The daily alarm and the periodic job can both start this worker, and WorkManager
+     * will run them side by side. Without the lock both would read the ledger before
+     * either wrote to it, and the same reminder would arrive twice.
+     */
+    override suspend fun doWork(): Result = runLock.withLock {
         val settings = Graph.prefs.settings.first()
-        val ctx = applicationContext
+        val ledger = settings.notifiedKeys.toMutableSet()
+        val before = ledger.toSet()
 
-        if (settings.notifyWaste) runCatching { checkWaste(settings.wasteReminderHour) }
-        if (settings.notifyEvents) runCatching { checkEvents() }
-        if (settings.notifySmog) runCatching { checkSmog(settings.smogThreshold) }
-        if (settings.notifyCityAlerts) runCatching { checkAlerts() }
-        if (settings.notifyOutages) runCatching { checkOutages() }
+        if (settings.notifyWaste) runCatching { checkWaste(settings.wasteReminderHour, ledger) }
+        if (settings.notifyEvents) runCatching { checkEvents(ledger) }
+        if (settings.notifySmog) runCatching { checkSmog(settings.smogThreshold, ledger) }
+        if (settings.notifyCityAlerts) runCatching { checkAlerts(ledger) }
+        if (settings.notifyOutages) runCatching { checkOutages(ledger) }
 
-        return Result.success()
+        val pruned = NotificationRules.prune(ledger, LocalDate.now())
+        if (pruned != before) Graph.prefs.setNotifiedKeys(pruned)
+        Result.success()
     }
 
-    private suspend fun checkWaste(reminderHour: Int) {
-        val settings = Graph.prefs.settings.first()
-        val address = settings.wasteAddress ?: return
+    /**
+     * Once per collection. Since 1.2.0 both the 18:00 alarm and the periodic job run after
+     * the reminder hour, and each would have announced the same bins.
+     */
+    private suspend fun checkWaste(reminderHour: Int, ledger: MutableSet<String>) {
+        val address = Graph.prefs.settings.first().wasteAddress ?: return
         if (LocalTime.now().hour < reminderHour) return
+        val tomorrow = LocalDate.now().plusDays(1)
+        val key = NotificationRules.key(tomorrow, "waste", address.rejonId)
+        if (key in ledger) return
 
         Graph.wasteRepo.refresh()
-        val tomorrow = LocalDate.now().plusDays(1)
         val next = Graph.wasteRepo.schedule()
             .collections(address.rejonId, tomorrow, tomorrow)
             .firstOrNull() ?: return
 
-        Reminders.notify(
+        val posted = Reminders.notify(
             applicationContext, Reminders.CHANNEL_WASTE, NOTIF_WASTE,
             "Jutro wywóz odpadów",
             next.types.joinToString(", ") { it.label } + " · ${address.pretty}",
             Reminders.DEST_WASTE,
         )
+        if (posted) ledger += key
     }
 
-    private suspend fun checkEvents() {
+    /** Each favourite once; a favourite added later the same day still gets its turn. */
+    private suspend fun checkEvents(ledger: MutableSet<String>) {
         val favourites = Graph.prefs.settings.first().favouriteEventIds
         if (favourites.isEmpty()) return
         Graph.eventRepo.refresh()
         val tomorrow = LocalDate.now().plusDays(1)
         val due = Graph.eventRepo.snapshot()
             .filter { it.id in favourites && it.start.toLocalDate() == tomorrow }
+            .filter { NotificationRules.key(tomorrow, "event", it.id) !in ledger }
         if (due.isEmpty()) return
 
         val text = due.joinToString("\n") {
             "${it.start.toLocalTime()} · ${it.title}"
         }
-        Reminders.notify(
+        val posted = Reminders.notify(
             applicationContext, Reminders.CHANNEL_EVENTS, NOTIF_EVENTS,
             if (due.size == 1) "Jutro: ${due.first().title}" else "Jutro ${due.size} wydarzenia",
             text,
             Reminders.DEST_EVENTS,
         )
+        if (posted) due.forEach { ledger += NotificationRules.key(tomorrow, "event", it.id) }
     }
 
-    private suspend fun checkSmog(threshold: Int) {
+    /**
+     * Once a day while it lasts. Smog sits over Rybnik for days in winter, and with the
+     * worker now running every three hours an unguarded check would sound eight times a day.
+     */
+    private suspend fun checkSmog(threshold: Int, ledger: MutableSet<String>) {
+        val key = NotificationRules.key(LocalDate.now(), "smog", "pm10")
+        if (key in ledger) return
+
         Graph.airRepo.refresh()
         val state = Graph.airRepo.state.value
         val pm10 = state.pm10 ?: return
@@ -221,44 +302,79 @@ class DailyReminderWorker(
         // index may still read "Dobre" when this fires. Announcing "Smog w Rybniku: Dobre"
         // contradicts itself, so the headline states the measurement and the body explains
         // why it arrived.
-        Reminders.notify(
+        val posted = Reminders.notify(
             applicationContext, Reminders.CHANNEL_SMOG, NOTIF_SMOG,
             "PM10 ${pm10.value.toInt()} µg/m³ w Rybniku",
             "Powyżej Twojego progu $threshold µg/m³. Jakość powietrza: ${state.severity.label}.",
             Reminders.DEST_AIR,
         )
+        if (posted) ledger += key
     }
 
-    private suspend fun checkAlerts() {
+    /**
+     * Every new alert, each in its own notification, stacked under one header when there
+     * are several. NotificationRules decides which; see there for why the old rule lost
+     * most of them.
+     */
+    private suspend fun checkAlerts(ledger: MutableSet<String>) {
         Graph.newsRepo.refresh()
-        // A dismissed alert should not come back as a notification.
-        val hidden = Graph.prefs.settings.first().hiddenNewsIds
-        val newest = Graph.newsRepo.items(hidden).firstOrNull { it.isAlert } ?: return
-        if (newest.published.toLocalDate() != LocalDate.now()) return
+        Graph.prefs.pruneSeenAlerts(Graph.newsRepo.allIds())
+        val settings = Graph.prefs.settings.first()
 
-        Reminders.notify(
-            applicationContext, Reminders.CHANNEL_ALERTS, NOTIF_ALERTS,
-            "Komunikat: ${newest.source}", newest.title,
-            Reminders.DEST_NEWS,
+        val fresh = NotificationRules.alertsToNotify(
+            items = Graph.newsRepo.items(settings.hiddenNewsIds),
+            hidden = settings.hiddenNewsIds,
+            seen = settings.seenAlertIds,
+            ledger = ledger,
+            now = LocalDateTime.now(),
         )
+        if (fresh.isEmpty()) return
+
+        var posted = false
+        fresh.take(NotificationRules.MAX_ALERT_NOTIFICATIONS).forEach { alert ->
+            posted = Reminders.notify(
+                applicationContext, Reminders.CHANNEL_ALERTS,
+                Reminders.alertNotificationId(alert.id),
+                alert.title,
+                listOfNotNull(alert.source, alert.summary?.takeIf { it.isNotBlank() })
+                    .joinToString(" · "),
+                Reminders.DEST_NEWS,
+                group = Reminders.GROUP_ALERTS,
+            ) || posted
+        }
+        if (fresh.size > 1) {
+            Reminders.notifyGroupSummary(
+                applicationContext, Reminders.CHANNEL_ALERTS, NOTIF_ALERTS,
+                Reminders.GROUP_ALERTS,
+                NotificationRules.newAlertsHeadline(fresh.size),
+                fresh.map { it.title },
+                Reminders.DEST_NEWS,
+            )
+        }
+        // The overflow beyond the cap is in the summary, so it counts as announced too.
+        if (posted) fresh.forEach { ledger += NotificationRules.alertKey(it) }
     }
 
-    /** Only warn about cuts starting within the next two days — earlier is just noise. */
-    private suspend fun checkOutages() {
+    /** Only cuts starting within the next two days, each one once. */
+    private suspend fun checkOutages(ledger: MutableSet<String>) {
         val address = Graph.prefs.settings.first().wasteAddress ?: return
         Graph.outageRepo.refresh(address)
         val soon = LocalDate.now().plusDays(2)
-        val due = Graph.outageRepo.state.value.outages
-            .filter { !it.from.toLocalDate().isAfter(soon) }
-        val next = due.firstOrNull() ?: return
+        fun keyOf(o: com.adminstack.rybnik.data.outages.Outage) =
+            NotificationRules.key(o.from.toLocalDate(), "outage", "${o.kind}-${o.from}")
 
-        Reminders.notify(
+        val next = Graph.outageRepo.state.value.outages
+            .filter { !it.from.toLocalDate().isAfter(soon) }
+            .firstOrNull { keyOf(it) !in ledger } ?: return
+
+        val posted = Reminders.notify(
             applicationContext, Reminders.CHANNEL_OUTAGES, NOTIF_OUTAGES,
             if (next.kind == OutageKind.PLANNED) "Planowane wyłączenie prądu"
             else "Awaria zasilania",
             "${next.from.toLocalDate()} ${next.from.toLocalTime()} · ${address.pretty}",
             Reminders.DEST_HOME,
         )
+        if (posted) ledger += keyOf(next)
     }
 
     private companion object {
@@ -267,5 +383,7 @@ class DailyReminderWorker(
         const val NOTIF_SMOG = 1003
         const val NOTIF_ALERTS = 1004
         const val NOTIF_OUTAGES = 1005
+
+        val runLock = Mutex()
     }
 }

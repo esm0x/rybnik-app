@@ -252,6 +252,30 @@ Kotlin deserializuje je 1:1.
   budzikiem nie jest.
 - **Alarmy nie przeżywają restartu**, w przeciwieństwie do zadań WorkManagera, dlatego
   doszedł `BootReceiver` na `BOOT_COMPLETED` i `MY_PACKAGE_REPLACED`.
+- **Powiadomienia o komunikatach gubiły większość komunikatów.** Pierwsza wersja pytała
+  tylko „czy najnowszy komunikat jest z dzisiaj?". Z historii `news.json` w gicie: od
+  20.09 do 04.10 pojawiło się 17 nowych komunikatów, z czego 4 trafiły do danych dopiero
+  następnego dnia (więc „dzisiaj" odpadało na zawsze), a 6 przegrało z rodzeństwem w dni
+  z kilkoma, bo brany był tylko najnowszy. Do tego stały identyfikator powiadomienia kazał
+  kolejnym nadpisywać poprzednie. Teraz (`work/NotificationRules.kt`, z testami):
+  - każdy komunikat ma własne powiadomienie, kilka naraz układa się w grupę z nagłówkiem
+    „N nowych komunikatów" (odmiana sprawdzona aż po 12-14 i 22);
+  - liczy się, że jeszcze nie powiedzieliśmy, nie dzień publikacji — z limitem 72 h,
+    żeby pierwsze uruchomienie po aktualizacji nie wysypało tygodnia zaległości;
+  - komunikat, który był na ekranie apki co najmniej 1,5 s, liczy się jako przeczytany
+    i nie przychodzi jako powiadomienie;
+  - każda rzecz jest ogłaszana raz: pamięć wysłanych (datowane klucze w DataStore,
+    czyszczone po 14 dniach) obejmuje też wywóz, wydarzenia, smog i wyłączenia prądu.
+    Bez niej od wersji 1.2 alarm o 18:00 i zadanie okresowe zapowiadały te same kubły
+    dwa razy, a smog przy zadaniu co 3 h dzwoniłby osiem razy na dobę.
+- **„Przeczytane" musi znaczyć „na wierzchu".** Kompozycja przeżywa zejście aktywności
+  w tło, więc pierwsza wersja liczyła dalej przy launcherze na ekranie: karuzela na
+  Starcie kręciła się niewidoczna i w minutę oznaczyła wszystkie 9 aktualnych komunikatów
+  jako przeczytane, przez co worker nie miał czego wysłać. Oznaczanie i karuzela działają
+  teraz tylko w stanie `RESUMED` (`repeatOnLifecycle`), sprawdzone na emulatorze: licznik
+  stoi przez 40 s z launcherem na wierzchu.
+- **Alarm i zadanie okresowe potrafią odpalić workera równocześnie**, a oba czytałyby
+  pamięć wysłanych, zanim którykolwiek ją zapisze. Worker jest więc pod `Mutex`.
 - **Force-stopa nie da się obejść kodem.** Menedżery baterii Xiaomi, Samsunga, Huaweia
   i OPPO kasują wszystkie zaplanowane alarmy i zadania, a zamknięcie apki z listy
   ostatnich robi to samo. Jedyne, co aplikacja może zrobić, to powiedzieć o tym wprost:
@@ -279,7 +303,8 @@ Kotlin deserializuje je 1:1.
 6. ✅ v1.0 — wyszukiwarka połączeń skąd-dokąd z jedną przesiadką
 7. ✅ v1.1 — widget na pulpit, PSZOK/GPZON + „gdzie wyrzucić X", ostrzeżenia IMGW
 8. ✅ v1.2 — przypomnienia odporne na Doze (alarm dobowy), przetrwanie restartu,
-   sekcja o oszczędzaniu baterii; play-offy żużla i linki do relacji meczów
+   sekcja o oszczędzaniu baterii; play-offy żużla i linki do relacji meczów;
+   każdy komunikat z osobnym powiadomieniem, bez duplikatów i bez przeczytanych
 9. ⏭️ Mapa przystanków i tras (OSM, bo GTFS nie ma geometrii)
 10. ❌ Odjazdy na żywo — odrzucone: KM Rybnik nie ma danych GPS (patrz ograniczenia)
 11. ✅ Ciemny motyw + przełącznik jasny / ciemny / jak system

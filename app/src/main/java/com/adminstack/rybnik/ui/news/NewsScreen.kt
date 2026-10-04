@@ -1,5 +1,10 @@
 package com.adminstack.rybnik.ui.news
 
+import androidx.compose.ui.platform.LocalLifecycleOwner
+import androidx.lifecycle.Lifecycle
+import androidx.lifecycle.repeatOnLifecycle
+import kotlinx.coroutines.delay
+import androidx.compose.runtime.LaunchedEffect
 import android.content.Intent
 import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.Arrangement
@@ -199,6 +204,7 @@ fun NewsScreen() {
 
             LazyColumn {
                 items(visible, key = { it.id }) { item ->
+                    if (item.isAlert) MarkSeenWhenShown(item.id)
                     NewsCard(
                         item = item,
                         hidden = ui.showHidden,
@@ -275,3 +281,28 @@ private fun NewsCard(
         }
     }
 }
+
+/**
+ * Counts an alert as read once it has stayed on screen for a moment.
+ *
+ * The delay is what separates reading from scrolling past: items composed for an instant
+ * during a fling are disposed before it runs out, and the effect is cancelled with them.
+ *
+ * "On screen" means resumed, and that gate is not optional. A composition outlives its
+ * activity going to the background, so the first version kept counting with the launcher
+ * on top: the dashboard carousel cycled on unseen and marked all nine current alerts as
+ * read within a minute, leaving the notification worker nothing to announce.
+ */
+@Composable
+internal fun MarkSeenWhenShown(alertId: String) {
+    val lifecycle = LocalLifecycleOwner.current.lifecycle
+    LaunchedEffect(alertId, lifecycle) {
+        lifecycle.repeatOnLifecycle(Lifecycle.State.RESUMED) {
+            delay(SEEN_AFTER_MS)
+            Graph.prefs.markAlertsSeen(listOf(alertId))
+        }
+    }
+}
+
+private const val SEEN_AFTER_MS = 1_500L
+
