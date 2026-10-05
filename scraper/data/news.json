@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T05:41:10",
+  "generated_at": "2026-10-05T14:39:04",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,186 @@
     }
   ],
   "items": [
+    {
+      "id": "c30554d1e2341ebbaffb375b3ec11c8ba97ba211",
+      "title": "Budowa biogazowni w Rybniku. Podpisano umowę z inwestorem zastępczym. Została nim firma z Częstochowy",
+      "summary": "Firma z Częstochowy będzie nadzorować budowę biogazowni w Rybniku. Centrum Zielonej Energii (CZE) podpisało umowę z Wielobranżowym Przedsiębiorstwem Inwestycyjnym Wudimeks, które będzie inwestorem zastępczym.",
+      "link": "https://www.radio90.pl/budowa-biogazowni-w-rybniku-podpisano-umowe-z-inwestorem-zastepczym-zostala-nim-firma-z-czestochowy.html",
+      "published": "2026-10-05T13:00",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "fa7cca2953c59e084f7636dfe09903d2a3867191",
+      "title": "Przedpokój i wiatrołap w domu – jak zaplanować zabudowę dla całej rodziny",
+      "summary": "W domu jednorodzinnym drzwi wejściowe pracują inaczej niż w mieszkaniu. Przez jedno wejście przechodzą wszyscy domownicy, a razem z nimi buty po ogrodzie, mokre kurtki, plecaki, torby z zakupami i sprzęt na trening. Jeśli to wszystko trafia do jednej szafy, szybko przestaje być jasne, co gdzie…",
+      "link": "https://www.radio90.pl/przedpokoj-i-wiatrolap-w-domu-jak-zaplanowac-zabudowe-dla-calej-rodziny.html",
+      "published": "2026-10-05T12:28",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "dd93657fa76cca13081cb52dbd07c772e7f2260b",
+      "title": "Weekend Seniora z Kulturą w Rybniku. W halo!Rybnik odbył się konkurs wokalny. Zwycięzca będzie gościem Radia 90! [ZDJĘCIA, WIDEO]",
+      "summary": "10 osób zaśpiewało w konkursie wokalnym na finał Weekendu Seniora z Kulturą w halo!Rybnik. Wszystkim uczestnikom gratulowano odwagi i poradzenia sobie z tremą, bo występ na deptaku w Rybniku w słoneczne popołudnie, wzbudzał spore zainteresowanie przechodniów.",
+      "link": "https://www.radio90.pl/weekend-seniora-z-kultura-w-rybniku-w-halorybnik-odbyl-sie-konkurs-wokalny-zwyciezca-bedzie-gosciem-radia-90-wideo.html",
+      "published": "2026-10-05T11:35",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8f3087777c003f1184d5051cae25216769bce5ec",
+      "title": "Jak brzmi raciborska historia wody? Znamy zwycięskie hasło",
+      "summary": "„Raciborskie spacery do źródeł wodnych historii” – to hasło autorstwa pana Wojtka, które zwyciężyło w konkursie zorganizowanym w ramach projektu „Raciborska woda – więcej niż myślisz”, realizowanego przez Fundację Śląsk 2035.",
+      "link": "https://www.nowiny.pl/wiadomosci/251334-jak-brzmi-raciborska-historia-wody-znamy-zwycieskie-haslo.html",
+      "published": "2026-10-05T11:32",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "152d90e13f6e98c957100a4338b7a63576fcf1ae",
+      "title": "Koncert zespołu PROSZĘ BARDZO już 9 października w Tworkowie. Będzie akustycznie i nastrojowo!",
+      "summary": "Jeśli lubicie poezję śpiewaną, akustyczne ballady, koncerty unplugged i muzykę, przy której można na chwilę zwolnić koniecznie musicie zajrzeć 9 października do Ruin Zamku w Tworkowie.",
+      "link": "https://www.nowiny.pl/nie-przegap/251333-koncert-zespolu-prosze-bardzo-juz-9-pazdziernika-w-tworkowie-bedzie-akustycznie-i-nastrojowo.html",
+      "published": "2026-10-05T11:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c823f60feb1d62009daa1f958ea72077b5c22581",
+      "title": "Jak poprawnie przygotować ofertę w zamówieniu publicznym?",
+      "summary": "Przygotowanie oferty w zamówieniu publicznym to proces wymagający precyzyjnego zrozumienia przepisów oraz umiejętności strategicznego myślenia. Dla wielu organizacji, zwłaszcza tych działających w sektorze publicznym, istotne jest nie tylko spełnienie formalnych wymogów, ale także wyróżnienie się…",
+      "link": "https://www.nowiny.pl/wiadomosci/251332-jak-poprawnie-przygotowac-oferte-w-zamowieniu-publicznym.html",
+      "published": "2026-10-05T10:30",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "imgw-Sk20261005080808655",
+      "title": "IMGW: Gęsta mgła",
+      "summary": "Stopień 1. Obowiązuje do 2026-10-06 09:00. Prognozuje się gęste mgły, w zasięgu których widzialność może miejscami wynosić poniżej 200 m.",
+      "link": "https://danepubliczne.imgw.pl/api/data/warningsmeteo",
+      "published": "2026-10-05T10:08",
+      "source": "IMGW",
+      "category": "Ostrzeżenia",
+      "priority": "ALERT"
+    },
+    {
+      "id": "deada06503b6229a6c5835da16252530ef9c6ea1",
+      "title": "Odbędzie się Święto Pieczonego Ziemniaka w Czernicy. Jedną z atrakcji będą gigantyczne warzywa! [PATRONAT]",
+      "summary": "Warzywa giganty na Święcie Pieczonego Ziemniaka w Czernicy. W sobotę (10.10) przy Zameczku, rodzinne wydarzenie w klimacie country.",
+      "link": "https://www.radio90.pl/odbedzie-sie-swieto-pieczonego-ziemniaka-w-czernicy-jedna-z-atrakcji-beda-gigantyczne-warzywa-patronat.html",
+      "published": "2026-10-05T09:45",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "31653883942e111d6e692a22b633aed11c4c812e",
+      "title": "Remont wiaduktu w Leszczynach: zamontowano 30 metrowe belki pod podpory. „Zakończono kolejny etap robót” [ZDJĘCIA]",
+      "summary": "Prace zbrojarskie już wykonano. Podobnie, jak betonowanie jego części nośnej. W Leszczynach, tuż przy granicy z Rybnikiem-Kamieniem trwają prace związane z budową nowego wiaduktu nad przebiegającą tam linią kolejową. W rybnickim Starostwie Powiatowym, które jest zleceniodawcą robót, informują, że…",
+      "link": "https://www.radio90.pl/remont-wiaduktu-w-leszczynach-zamontowano-30-metrowe-belki-pod-podpory-zakonczono-kolejny-etap-robot-zdjecia.html",
+      "published": "2026-10-05T08:50",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "38d93ca7b7b92656f65b7c0da18c39a3fd233d4b",
+      "title": "Wędka teleskopowa – kiedy warto ją wybrać i na co zwrócić uwagę?",
+      "summary": "Wędka teleskopowa od lat cieszy się dużą popularnością zarówno wśród początkujących, jak i bardziej doświadczonych wędkarzy. Jej największą zaletą jest kompaktowa konstrukcja – po złożeniu zajmuje niewiele miejsca, a przygotowanie jej do łowienia trwa zaledwie chwilę. Nie oznacza to jednak, że…",
+      "link": "https://www.nowiny.pl/wiadomosci/251329-wedka-teleskopowa-kiedy-warto-ja-wybrac-i-na-co-zwrocic-uwage.html",
+      "published": "2026-10-05T08:35",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9cc07895427bbd2020aae993faaeae0e2123512e",
+      "title": "Studio Nowiny.pl podczas wydarzenia Local Networkers in Wodzisław Śląski",
+      "summary": "Już w najbliższy czwartek 8 października w kompleksie Jordaszka przy ul. Czyżowickiej 85 odbędzie się druga edycja wydarzenia Local Networkers in Wodzisław Śląski. Po udanym debiucie wiosną, przedsiębiorcy znów spotkają się w jednym miejscu, by wziąć udział w spotkaniach, rozmowach, wymianie…",
+      "link": "https://www.nowiny.pl/wiadomosci/251328-studio-nowinypl-podczas-wydarzenia-local-networkers-in-wodzislaw-slaski.html",
+      "published": "2026-10-05T08:14",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "65ec9bca281953be02d4c0c0c85f535f60e615bc",
+      "title": "TS Volley Rybnik i KS Jastrzębie-Borynia z wyjazdowymi wygranymi w II lidze siatkówki. Rybniczanie nie stracili seta",
+      "summary": "Drugi mecz i druga wygrana siatkarzy Volleya Rybnik. Tym razem na wyjeździe pokonali UMKS Kęczanin Kęty 3:0. Tylko pierwszy set sobotniego (03.10) spotkania był wyrównany, Rybniczanie wygrali go ostatecznie 25:21.",
+      "link": "https://www.radio90.pl/ts-volley-rybnik-i-ks-jastrzebie-borynia-z-wyjazdowymi-wygranymi-w-ii-lidze-siatkowki-rybniczanie-nie-stracili-seta.html",
+      "published": "2026-10-05T08:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4c468749110f739d536c68f49a413012e142af59",
+      "title": "Ewakuacja na basenie w Radlinie. Uczniowie zgłosili złe samopoczucie [ZDJĘCIA]",
+      "summary": "Uczniowie, opiekunowie i ratownicy zostali ewakuowani po tym, jak dwie osoby zgłosiły złe samopoczucie. Na miejsce skierowano strażaków.",
+      "link": "https://www.nowiny.pl/wiadomosci/251327-ewakuacja-na-basenie-w-radlinie-uczniowie-zglosili-zle-samopoczucie-zdjecia.html",
+      "published": "2026-10-05T07:44",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "ALERT"
+    },
+    {
+      "id": "22963c0a3d60e294e68aaf8690725b4c58fb5ff9",
+      "title": "Honorowa Lampka Górnicza dla Towarzystwa Muzycznego im. Braci Szafranków [ZDJĘCIA]",
+      "summary": "Honorowa Lampka Górnicza wręczona. Rozpoczęły się 57 Rybnickie Dni Literatury. Tym razem wyjątkowe wyróżnienie trafiło do obchodzącego jubileuszu 30-lecia Towarzystwa Muzycznego im. Braci Szafranków.",
+      "link": "https://www.radio90.pl/honorowa-lampka-gornicza-dla-towarzystwa-muzycznego-im-braci-szafrankow.html",
+      "published": "2026-10-05T05:45",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2724a567847a98cbe2fc21a176e0621b3234fdb3",
+      "title": "Zamknięcie ulicy Dworcowej w Suminie i utrudnienia w ruchu",
+      "summary": "Od 5 października ulica Dworcowa w Suminie zostanie całkowicie zamknięta dla ruchu na około miesiąc z powodu przebudowy przepustu drogowego. Kierowców czekają utrudnienia oraz konieczność korzystania z wyznaczonego objazdu.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zamkniecie-ulicy-dworcowej-w-suminie-i-utrudnienia-w-ruchu",
+      "published": "2026-10-05T00:00",
+      "source": "rybnik.eu",
+      "category": "Utrudnienia drogowe",
+      "priority": "ALERT"
+    },
+    {
+      "id": "5661eed897d97bb64941ffcd2de77817b8c5abab",
+      "title": "Trzy skwery z nową nazwą",
+      "summary": "Podczas sesji 24 września Rada Miasta Rybnika nadała nazwy trzem skwerom. Ich patronami zostali rzeźbiarze Zygmunt Brachmański i prof. Adolf Ryszka oraz Fryderyk Petruski, pionier szkolnictwa rolniczego w Popielowie.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/trzy-skwery-z-nowa-nazwa",
+      "published": "2026-10-05T00:00",
+      "source": "rybnik.eu",
+      "category": "Komunikaty",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5d4122e7299b76364c2eb6e26e4e6e2a55970a85",
+      "title": "Bezpłatne wsparcie i doradztwo dla cudzoziemców w naszym regionie",
+      "summary": "Mieszkańcy Rybnika i sąsiednich miejscowości mogą skorzystać z darmowych konsultacji w punkcie informacyjnym w Żorach. Specjaliści pomagają w codziennych sprawach oraz formalnościach od poniedziałku do piątku.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/bezplatne-wsparcie-i-doradztwo-dla-cudzoziemcow-w-naszym-regionie",
+      "published": "2026-10-05T00:00",
+      "source": "rybnik.eu",
+      "category": "Ukraina",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "08954f6792de0a3106368e761299715bd694730e",
+      "title": "Jubileusz Szafranków i ważne wyróżnienia",
+      "summary": "30-lecie Towarzystwa Muzycznego im. Braci Szafranków był okazją do spotkania z muzyką oraz uhonorowania organizacji za wieloletnią działalność na rzecz kultury Rybnika i regionu.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/jubileusz-szafrankow-i-wazne-wyroznienia",
+      "published": "2026-10-05T00:00",
+      "source": "rybnik.eu",
+      "category": "Kultura",
+      "priority": "NORMAL"
+    },
     {
       "id": "2be2fc4329cf4d6f2a46c6e6e2779c299321db86",
       "title": "Mamy najnowszy alert pogodowy. Kierowcy, uważajcie na mgły",
@@ -70,23 +250,13 @@
     },
     {
       "id": "09187cfd06a5b729311a3e4eb31896436196b771",
-      "title": "Będzie remont familoka w Rybniku. Zakład Gospodarki Mieszkaniowej szuka wykonawcy prac w budynku przy ul. Przemysłowej [ZDJĘCIA]",
+      "title": "Będzie remont familoka w Rybniku. Zakład Gospodarki Mieszkaniowej szuka wykonawcy prac w budynku przy ul. Przemysłowej",
       "summary": "Ponad 9 milionów złotych może kosztować kompleksowy remont budynku przy ulicy Przemysłowej 22 w Rybniku. W przetargu uczestniczą trzy firmy, a Zakład Gospodarki Mieszkaniowej planuje podpisać umowę z wykonawcą jeszcze w tym roku.",
       "link": "https://www.radio90.pl/bedzie-remont-familoka-w-rybniku-zaklad-gospodarki-mieszkaniowej-szuka-wykonawcy-prac-w-budynku-przy-ul-przemyslowej.html",
       "published": "2026-10-04T14:30",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
-    },
-    {
-      "id": "imgw-Sk20261004095036980",
-      "title": "IMGW: Gęsta mgła",
-      "summary": "Stopień 1. Obowiązuje do 2026-10-05 09:00. Prognozuje się gęste mgły, w zasięgu których widzialność może miejscami wynosić poniżej 200 m.",
-      "link": "https://danepubliczne.imgw.pl/api/data/warningsmeteo",
-      "published": "2026-10-04T11:50",
-      "source": "IMGW",
-      "category": "Ostrzeżenia",
-      "priority": "ALERT"
     },
     {
       "id": "d8f095af1c071d3557d0a3539cdd0209e639b695",
@@ -109,10 +279,10 @@
       "priority": "NORMAL"
     },
     {
-      "id": "69344da6d2d817efaf1f2206828bf03b00b7a98c",
-      "title": "Jarmark staroci trwa na wodzisławskim rynku. Można jeszcze zajrzeć [ZDJĘCIA]",
+      "id": "f77ddce22879beb82ea2fcb7999123f70c5d1815",
+      "title": "Jarmark staroci na wodzisławskim rynku - wrzesień 2026 [ZDJĘCIA]",
       "summary": "Na rynku w Wodzisławiu Śląskim trwa kolejny jarmark staroci. W niedzielę, 4 października, wystawcy ponownie rozłożyli stoiska z antykami, książkami, porcelaną, monetami i kolekcjonerskimi drobiazgami. Jarmark potrwa do godz. 14.00.",
-      "link": "https://www.nowiny.pl/wiadomosci/251321-jarmark-staroci-trwa-na-wodzislawskim-rynku-mozna-jeszcze-zajrzec-zdjecia.html",
+      "link": "https://www.nowiny.pl/wiadomosci/251321-jarmark-staroci-na-wodzislawskim-rynku-wrzesien-2026-zdjecia.html",
       "published": "2026-10-04T09:56",
       "source": "nowiny.pl",
       "category": "Region",
@@ -179,56 +349,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "fc0a7b0e63c0d943fcb9741b37324a8a33fd525e",
-      "title": "SMERFY 2. MUZYCZNA PRZYGODA – przebojowy spektakl dla dzieci w niedzielę w Domu Kultury „Strzecha”",
-      "summary": "Serdecznie zapraszamy na drugą część przygód Smerfów w wykonaniu Teatru PSTRYK działającego przy Raciborskim Centrum Kultury.",
-      "link": "https://www.nowiny.pl/wiadomosci/251315-smerfy-2-muzyczna-przygoda-przebojowy-spektakl-dla-dzieci-w-niedziele-w-domu-kultury-strzecha.html",
-      "published": "2026-10-03T20:19",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "7a2766f659a59a17a1b3672deec7a2a55d8d7108",
-      "title": "10-latek z Mszany odnaleziony. Poszukiwania zakończone",
-      "summary": "Jednostki PSP, OSP i policja prowadziły poszukiwania 10-letniego chłopca z Mszany.",
-      "link": "https://www.nowiny.pl/wiadomosci/251314-10-latek-z-mszany-odnaleziony-poszukiwania-zakonczone.html",
-      "published": "2026-10-03T18:41",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "2c91ab644195b5dad94662ecc61fd3287aaf8714",
-      "title": "Jesień zawładnęła wodzisławskim rynkiem. DzieJesie(ń) Festiwal po raz szósty przyciągnął tłumy [ZDJĘCIA]",
-      "summary": "W sobotę, 3 października, wodzisławski rynek ponownie zamienił się w pełne kolorów, muzyki i jesiennej atmosfery miejsce spotkań. Wszystko za sprawą szóstej edycji DzieJesie(ń) Festiwalu, który udowodnił, że jesień może być nie tylko piękna, ale również pełna atrakcji dla całych rodzin.",
-      "link": "https://www.nowiny.pl/wiadomosci/251313-jesien-zawladnela-wodzislawskim-rynkiem-dziejesien-festiwal-po-raz-szosty-przyciagnal-tlumy-zdjecia.html",
-      "published": "2026-10-03T18:03",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "4d87873931417c397792e4cd7f116512e47da636",
-      "title": "Lokalne smaki i rękodzieło w jednym miejscu. Jarmark Rozmaitości w Sławikowie już za nami [ZDJĘCIA]",
-      "summary": "W sobotę, 3 października 2026 roku, w Ruinach Pałacu w Sławikowie odbył się Jarmark Rozmaitości – wydarzenie, które połączyło lokalną kuchnię, rękodzieło i zaangażowanie mieszkańców. Spotkanie było okazją do spędzenia jesiennego popołudnia w rodzinnej atmosferze oraz skosztowania domowych specjałów…",
-      "link": "https://www.nowiny.pl/wiadomosci/251312-lokalne-smaki-i-rekodzielo-w-jednym-miejscu-jarmark-rozmaitosci-w-slawikowie-juz-za-nami-zdjecia.html",
-      "published": "2026-10-03T16:02",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "675dfa0911c5d2968accc1a723c22808add39d62",
-      "title": "Konie na pierwszym planie. Hubertus zawitał do Łańc 2026 [ZDJĘCIA, WIDEO]",
-      "summary": "Łańce w gminie Kornowac ponownie stały się miejscem spotkania miłośników koni, jeździectwa, myślistwa i lokalnych tradycji. W sobotę, 3 października, odbył się Piknik św. Huberta, którego najważniejszymi punktami były parada jeźdźców i wozów oraz tradycyjna gonitwa za lisem.",
-      "link": "https://agronowiny.pl/wiadomosci/251311-konie-na-pierwszym-planie-hubertus-zawital-do-lanc-2026-zdjecia-wideo.html",
-      "published": "2026-10-03T15:47",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "d8597621dbf0c7b2c3cb434194f4b445a0c86fa2",
       "title": "Szkoły w Czerwionce-Leszczynach: w dwóch z nich powstaną ekopracownie. Placówkom przyznano na ten cel pieniądze",
       "summary": "Dwie szkoły w Czerwionce-Leszczynach dostaną po 70 tysięcy złotych na ekopracownie pod chmurką. Pieniądze trafią do Szkoły Podstawowej numer 5 i Szkoły Podstawowej numer 3.",
@@ -237,16 +357,6 @@
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
-    },
-    {
-      "id": "63692e3efab19cffab9cb8153a4617d1aaf87580",
-      "title": "Pilot Dromadera o gaszeniu pożarów: „W ciągu 10 minut musimy być w powietrzu”",
-      "summary": "Na co dzień w leśnej bazie lotniczej w Rybniku niewiele się dzieje. I właśnie na tym polega ta praca. Samolot ma być gotowy, pilot ma wiedzieć, co dzieje się w pogodzie i przestrzeni powietrznej, a wszystko wokół musi być przygotowane na moment, który może nadejść nagle. Kiedy pojawia się alarm, na…",
-      "link": "https://www.nowiny.pl/wiadomosci/251310-pilot-dromadera-o-gaszeniu-pozarow-w-ciagu-10-minut-musimy-byc-w-powietrzu.html",
-      "published": "2026-10-03T14:39",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "ALERT"
     },
     {
       "id": "3e76c58e8cf8aef78759d59026a10a44af39fc8a",
@@ -369,76 +479,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "8867a19bce4e72bc3548f024714583cae17f261a",
-      "title": "Koncert w hołdzie Soyce przełożony. Nowy termin w styczniu",
-      "summary": "Koncert „Soyka / Grott Orkiestra w hołdzie Mistrzowi”, zaplanowany na 9 października w Teatrze Ziemi Rybnickiej, z przyczyn niezależnych od organizatora został przełożony na styczeń.",
-      "link": "https://www.radio90.pl/koncert-w-holdzie-soyce-przelozony-nowy-termin-w-styczniu.html",
-      "published": "2026-10-02T18:11",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "213d2ac0f9f35877dd97240383f754301ec9beae",
-      "title": "Zabytkowa Kopalnia Ignacy: Marek Żyła będzie w niej świętował jubileusz 10-lecia swojego teatru. Będzie spektakl i wystawa",
-      "summary": "Teatr Lalek Marka Żyły z premierą spektaklu \"Z wiyrchu na dół\". W ten weekend w Zabytkowej Kopalni Ignacy w Rybniku, znany w regionie twórca będzie świętował jubileusz 10-lecia swojego teatru.",
-      "link": "https://www.radio90.pl/zabytkowa-kopalnia-ignacy-marek-zyla-bedzie-w-niej-swietowal-jubileusz-10-lecia-swojego-teatru-bedzie-spektakl-i-wystawa.html",
-      "published": "2026-10-02T16:30",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ef35727d8a7a13a8e186342dbe57185ab7bd724e",
-      "title": "Dzieje się w Rybniku: Rybnicki Dzień Seniora, wręczenie Honorowej Lampki Górniczej, Dogtrekking i dużo więcej!",
-      "summary": "Sporo - zresztą jak co tydzień - będzie się działo w nadchodzący weekend w Rybniku. Jakie wydarzenia zaplanowano w mieście od piątku (2.10) do niedzieli (4.10)? Dziś w bibliotece wykład związany ze 170-leciem kolei w Rybniku. W sobotę (3.10) wystartują Dni Zdrowia Psychicznego organizowane wspólnie…",
-      "link": "https://www.radio90.pl/dzieje-sie-w-rybniku-rybnicki-dzien-seniora-wreczenie-honorowej-lampki-gorniczej-dogtrekking-i-duzo-wiecej.html",
-      "published": "2026-10-02T14:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0eb26ae9dac4d3b70c489f478488b37c15ec34c4",
-      "title": "Montaż magazynu energii pozwoli obniżyć rachunki za prąd i ogrzewanie? „To jest duża korzyść”",
-      "summary": "Paliwo na stacjach coraz droższe, ogrzewanie domu także z roku na rok staje się sporym wyzwaniem dla naszego budżetu. Szukamy oszczędności. Jak mniej płacić za ogrzewanie budynku i zaoszczędzić energię elektryczną?",
-      "link": "https://www.radio90.pl/montaz-magazynu-energii-pozwoli-obnizyc-rachunki-za-prad-i-ogrzewanie-to-jest-duza-korzysc.html",
-      "published": "2026-10-02T14:05",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e1b7ae2b1a37845851087ea97d083ce088f540d3",
-      "title": "Awaria na kolei? Rybnik i Koleje Śląskie podpisały porozumienie na taką okoliczność",
-      "summary": "To pierwsze tego typu porozumienie przewoźnika z miastem spoza struktur metropolii. Celem umowy jest zapewnienie pasażerom możliwości kontynuowania podróży w przypadku czasowego ograniczenia lub wstrzymania ruchu pociągów.",
-      "link": "https://www.radio90.pl/awaria-na-kolei-rybnik-i-koleje-slaskie-podpisaly-porozumienie-na-taka-okolicznosc.html",
-      "published": "2026-10-02T13:01",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "ALERT"
-    },
-    {
-      "id": "178c8a3a917993a95766e5366f64c402b3928806",
-      "title": "Weekendowy wypad bez samochodu – dokąd dojedziesz bezpośrednim autobusem?",
-      "summary": "Brak własnego samochodu lub chęć uniknięcia stresu za kierownicą, korków i poszukiwania drogich miejsc parkingowych nie musi oznaczać rezygnacji z weekendowych podróży. Nowoczesna sieć połączeń autokarowych umożliwia szybkie i bezpośrednie dotarcie do najpiękniejszych zakątków Polski oraz…",
-      "link": "https://www.radio90.pl/weekendowy-wypad-bez-samochodu-dokad-dojedziesz-bezposrednim-autobusem.html",
-      "published": "2026-10-02T10:37",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "7aa5b196d9a308dafea34bd54cfe7a050c6dfb80",
-      "title": "Jaki synbiotyk dla osoby starszej warto wybrać?",
-      "summary": "Podsumowanie: Po 60. roku życia mikrobiota jelitowa staje się mniej zróżnicowana, a dodatkowym obciążeniem mogą być częste infekcje oraz przewlekłe przyjmowanie leków. Synbiotyk dla seniora łączy bakterie probiotyczne z prebiotykiem, który stanowi dla nich pożywkę. Przy wyborze preparatu warto…",
-      "link": "https://www.radio90.pl/jaki-synbiotyk-dla-osoby-starszej-warto-wybrac.html",
-      "published": "2026-10-02T10:36",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "4e8d707fa03a9576e9a43d54265ce2632fa4c55e",
       "title": "Myślisz o pracy, w której każdy dzień stawia inne wyzwania? Sprawdź, czy masz predyspozycje do wspierania innych jako tyflopedagog",
       "summary": "Ośmioletni chłopiec z niedowidzeniem uczy się samodzielnie odnajdywać swoją szafkę w szatni. Dla części osób to zwykła codzienna czynność, dla niego — kolejny krok w stronę większej samodzielności. Tyflopedagog musi przy tym uważnie dopasować sposób pracy do potrzeb dziecka i reagować na to, co…",
@@ -509,16 +549,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "bcc46f044dcd6bbba829be57f421238323998e78",
-      "title": "Utrudnienia w ruchu na Chwałowickiej",
-      "summary": "Od 2 do 14 października na odcinku 350 metrów będą prowadzone prace drogowe, co wymusi powolniejszą jazdę. Ruch w tym miejscu odbędzie się wahadłowo i będzie kierowany ręcznie.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/objazdy-i-utrudnienia-na-odcinku-rondo-wilenskie-most-na-nacynie-1",
-      "published": "2026-10-01T00:00",
-      "source": "rybnik.eu",
-      "category": "Utrudnienia drogowe",
-      "priority": "ALERT"
-    },
-    {
       "id": "e80b95e480264d5044a6efca19d4e16fa703d382",
       "title": "Mieszkańcy wybrali projekty Budżetu Obywatelskiego na 2027 rok",
       "summary": "Zakończyło się głosowanie na projekty Budżetu Obywatelskiego Miasta Rybnika na 2027 rok. Przez 9 dni – od 19 do 27 września 2026 roku – mieszkańcy mogli oddawać swoje głosy.",
@@ -546,26 +576,6 @@
       "published": "2026-10-01T00:00",
       "source": "rybnik.eu",
       "category": "Inwestycje",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ebc38a7c7524af381e18fa6914508fd6479dfaa6",
-      "title": "170 lat kolei. Miasto świętuje kolejowy jubileusz",
-      "summary": "1 października 1856 roku do Rybnika wjechał pierwszy pociąg parowy. Wydarzenie to rozpoczęło nowy rozdział w historii miasta i na stałe związało jego rozwój z koleją. W 2026 roku Rybnik świętuje 170-lecie tego wydarzenia. W programie znalazły się wystawy, wykład, uroczysty przejazd Kolei Śląskich…",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/170-lat-kolei-miasto-swietuje-kolejowy-jubileusz",
-      "published": "2026-10-01T00:00",
-      "source": "rybnik.eu",
-      "category": "Wydarzenia",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f0c855dab03231bd4d466b2fdef25f981288e8b0",
-      "title": "To będzie aktywny weekend w Rybniku",
-      "summary": "Nie masz jeszcze planów na pierwszy październikowy weekend? MOSiR Rybnik ma propozycję dla tych, którzy wolny czas lubią spędzać aktywnie i na świeżym powietrzu. W sobotę i niedzielę odbędą się dwa wydarzenia - Maroko-Nowiny MTB Race oraz jesienna edycja Dogtrekkingu.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/to-bedzie-aktywny-weekend-w-rybniku",
-      "published": "2026-10-01T00:00",
-      "source": "rybnik.eu",
-      "category": "Sport",
       "priority": "NORMAL"
     },
     {
@@ -946,16 +956,6 @@
       "published": "2026-09-21T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "44d71b27afbdbd113919edaf813e1e81a01e82ec",
-      "title": "Przemysłowa 22 czeka na remont",
-      "summary": "Budynek ma przejść kompleksową modernizację, która obejmie mieszkania, części wspólne oraz wszystkie najważniejsze instalacje. W postępowaniu uczestniczą trzy firmy, a najtańsza zadeklarowała realizację zadania za ponad 9 mln zł.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/przemyslowa-22-czeka-na-remont",
-      "published": "2026-09-21T00:00",
-      "source": "rybnik.eu",
-      "category": "Inwestycje",
       "priority": "NORMAL"
     },
     {
