@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T00:08:05",
+  "generated_at": "2026-10-06T06:22:52",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,46 @@
     }
   ],
   "items": [
+    {
+      "id": "09eacf5876a5100fd25d936a9299310c67174be4",
+      "title": "Mężczyzna strzelał w dom sąsiadów. Policjanci zatrzymali mieszkańca Żor",
+      "summary": "48-letni mieszkaniec Żor został zatrzymany po interwencji na ulicy Boguszowickiej. Według policji mężczyzna oddawał strzały z broni śrutowej w kierunku elewacji sąsiedniego domu.",
+      "link": "https://ezory.pl/wiadomosci/251347-mezczyzna-strzelal-w-dom-sasiadow-policjanci-zatrzymali-mieszkanca-zor.html",
+      "published": "2026-10-06T05:45",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "46ee70491cf8f4e47b735028634087de273e60d6",
+      "title": "Pościg z Czech zakończył się w Chałupkach. Kierowca nadal jest poszukiwany",
+      "summary": "Pościg rozpoczął się po czeskiej stronie granicy, a zakończył w Chałupkach, gdzie uciekające BMW utknęło na bocznicy kolejowej. Kierowca porzucił samochód i uciekł pieszo.",
+      "link": "https://www.nowiny.pl/wiadomosci/251346-poscig-z-czech-zakonczyl-sie-w-chalupkach-kierowca-nadal-jest-poszukiwany.html",
+      "published": "2026-10-06T05:30",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d6e93a985e6c8d686bc45607f63c9661d7d7dfcd",
+      "title": "Kupił zrujnowany pałac w Rzuchowie. Od 16 lat go odbudowuje. Nie chce bramy ani płotu. Chce miejsca otwartego dla ludzi i niezależnego od energii [WYWIAD]",
+      "summary": "– Nie wierzę. Wiarę zostawmy dla rzeczy, których nie da się do końca sprawdzić. Ja natomiast idę w tym kierunku i zrobimy to – mówi Janusz Gładysz o planie całkowitej energetycznej autonomii pałacu w Rzuchowie (gm. Kornowac). Kiedy 16 lat temu kupował zrujnowany obiekt, nie wiedział jeszcze, że…",
+      "link": "https://www.nowiny.pl/wiadomosci/251326-kupil-zrujnowany-palac-w-rzuchowie-od-16-lat-go-odbudowuje-nie-chce-bramy-ani-plotu-chce-miejsca-otwartego-dla-ludzi-i-niezaleznego-od-energii-wywiad.html",
+      "published": "2026-10-06T05:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d633d8293b2993807b94397e054ed9d5a559629a",
+      "title": "Szukają nowego domu dla psiaków z rybnickiego schroniska. W niedzielę akcja „Poznaj schroniaka na wybiegu Górka dla Burka”",
+      "summary": "Chodzi o to, by zobaczyć psy poza schroniskiem. Co miesiąc rybnickie psiaki do adopcji można spotkać na wybiegu przy osiedlu Nowiny w Rybniku. W te niedzielę (11.10) akcja od 10.00 do 11.30.",
+      "link": "https://www.radio90.pl/szukaja-nowego-domu-dla-psiakow-z-rybnickiego-schroniska-w-niedziele-akcja-poznaj-schroniaka-na-wybiegu-gorka-dla-burka.html",
+      "published": "2026-10-06T04:45",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "67968701f3acff09c88a3a9b6be56cdba654c4dd",
       "title": "Katowicka 24: Wulgaryzmy, alkohol i wrzaski",
@@ -289,36 +329,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "84a5da015542bbf5f1395b998bdedc31b1b1fd17",
-      "title": "ZUS zmienia sposób opłacania składek. Jest nowa funkcja w mZUS",
-      "summary": "Przedsiębiorcy mogą już opłacać składki ZUS bezpośrednio z aplikacji mZUS dla Płatnika. Wprowadzono w niej nową funkcję: kreator płatności. Na razie usługa działa w wybranych bankach, ale ZUS zapowiada jej dalszy rozwój. W przyszłości składki będzie można opłacać także BLIK-iem.",
-      "link": "https://www.nowiny.pl/wiadomosci/251325-zus-zmienia-sposob-oplacania-skladek-jest-nowa-funkcja-w-mzus.html",
-      "published": "2026-10-04T17:40",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8226e2a8b08ae8d5ec90c322b4286d58ba9c8820",
-      "title": "Pilny alert dla regionu. Gęste mgły mogą mocno utrudnić jazdę",
-      "summary": "Wieczorem widoczność może gwałtownie się pogorszyć. IMGW ostrzega przed gęstymi mgłami, które w nocy i nad ranem mogą mocno utrudnić jazdę.",
-      "link": "https://www.nowiny.pl/wiadomosci/251324-pilny-alert-dla-regionu-geste-mgly-moga-mocno-utrudnic-jazde.html",
-      "published": "2026-10-04T17:35",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8759d8e6323f2ac67753c754df4242ca5591c1cd",
-      "title": "Różaniec na kole. Z Rogowa pojechali do franciszkanów w Bohuminie [ZDJĘCIA]",
-      "summary": "Modlitwą przed kościołem Najświętszego Serca Pana Jezusa w Rogowie rozpoczęła się w niedzielę siódma edycja „Różańca na kole”. W tym roku uczestnicy wyruszyli rowerami do Bohumina, gdzie odwiedzili kościół franciszkanów.",
-      "link": "https://www.nowiny.pl/wiadomosci/251323-rozaniec-na-kole-z-rogowa-pojechali-do-franciszkanow-w-bohuminie-zdjecia.html",
-      "published": "2026-10-04T17:32",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "8950e51ce1ae6163cceda066a613c28d1a7ba837",
       "title": "Rybnik dla Biznesu 2026. VIII edycja konferencji 5 listopada [PATRONAT]",
       "summary": "5 listopada odbędzie się VIII edycja konferencji „Rybnik dla Biznesu”. Jak zwykle będzie podzielona na dwie części, poranna odbędzie się w Auli Uniwersytetu Ekonomicznego w Rybniku przy ul. Rudzkiej 13 C, zaś popołudniowa to głównie gala i możliwość rozmów i wymiany doświadczeń w luźniejszym stylu…",
@@ -474,16 +484,6 @@
       "summary": "Szarlotka grecka, czyli milopita, to wspomnienia z greckich wakacji. Ciasto z jabłkami, migdałami i orzechami włoskimi, wilgotne i nie za słodkie. W sam raz do kawy!",
       "link": "https://www.radio90.pl/kuchnia-radia-90-szarlotka-grecka.html",
       "published": "2026-10-03T06:10",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "186dbc6adf2100d5aa0372494e0dc152e5b7b576",
-      "title": "Kacper Woryna z brązowym medalem Mistrzostw Europy",
-      "summary": "Kacper Woryna, wychowanek ROW-u Rybnik, dziś jeżdżący w barwach klubu z Lublina zdobył brązowy medal Mistrzostw Europy. W ostatniej rundzie cyklu SEC Rybniczanin zajął dziesiąte miejsce, przez co w klasyfikacji generalnej spadł z pozycji lidera na najniższt stopień podium.",
-      "link": "https://www.radio90.pl/kacper-woryna-z-brazowym-medalem-mistrzostw-europy.html",
-      "published": "2026-10-03T05:41",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
