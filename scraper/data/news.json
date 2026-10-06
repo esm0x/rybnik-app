@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T06:22:52",
+  "generated_at": "2026-10-06T18:24:11",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,136 @@
     }
   ],
   "items": [
+    {
+      "id": "5b4c1ca766b5c1ddc5a9b8c4c019b007f3b0d8f5",
+      "title": "LPR w Rydułtowach. Dziecko spadło z balkonu na 5. piętrze",
+      "summary": "Do poważnego zdarzenia doszło we wtorek po południu w Rydułtowach. Poszkodowane zostało 3-letnie dziecko, które trafiło już pod opiekę specjalistów z kliniki w Katowicach. Na miejscu działania prowadzili ratownicy, strażacy, policjanci oraz załoga LPR.",
+      "link": "https://www.nowiny.pl/wiadomosci/251356-lpr-w-rydultowach-dziecko-spadlo-z-balkonu-na-5-pietrze.html",
+      "published": "2026-10-06T15:52",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ed0083f56171a8d5166db3e145a1f1d9d9e3892d",
+      "title": "12-latek z Górek Śląskich znalazł prawdziwka ważącego 1,2 kg. Miał 83 cm w obwodzie [ZDJĘCIA]",
+      "summary": "Sezon grzybowy trwa, a lasy w regionie przyciągają kolejnych miłośników grzybobrania. Jednym z nich jest 12-letni Wojtek Kania z Górek Śląskich (gm. Nędza), który podczas rodzinnego wypadu do lasu znalazł prawdziwka naprawdę pokaźnych rozmiarów. Grzyb miał aż 83 centymetry w obwodzie i ważył 1,2…",
+      "link": "https://www.nowiny.pl/wiadomosci/251355-12-latek-z-gorek-slaskich-znalazl-prawdziwka-wazacego-12-kg-mial-83-cm-w-obwodzie-zdjecia.html",
+      "published": "2026-10-06T15:19",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "efff6f51049ce245590fd1dea533dc36866e6331",
+      "title": "Nowe pociągi na Śląsku. Zakup 32 elektrycznych zespołów planuje Metropolia i Województwo Śląskie",
+      "summary": "Nowe pociągi na Śląsku Pesa Bydgoszcz i Newag złożyły oferty w przetargu na dostawę 32 elektrycznych zespołów trakcyjnych dla Górnośląsko-Zagłębiowskiej Metropolii i Województwa Śląskiego – po 16 dla każdego z zamawiających. GZM planuje zakup 16 pociągów, które będą wykorzystywane w ramach Kolei…",
+      "link": "https://www.radio90.pl/nowe-pociagi-na-slasku-zakup-32-elektrycznych-zespolow-planuje-metropolia-i-wojewodztwo-slaskie.html",
+      "published": "2026-10-06T14:35",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ed5c91b5cb9bddfcf9861ff2ce2dae891d0e5e0b",
+      "title": "Jazzowe trio światowego formatu na Końcu Świata w Raciborzu!",
+      "summary": "Już 15 października na naszej scenie wystąpi The New Conrad Miller Trio. Conrad Miller to pianista i kompozytor współpracujący z uznanymi muzykami, m.in. Janem Akkermanem.",
+      "link": "https://www.nowiny.pl/nie-przegap/251354-jazzowe-trio-swiatowego-formatu-na-koncu-swiata-w-raciborzu.html",
+      "published": "2026-10-06T13:42",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f6721acf881ffc9e36579c78770b724a2ce94b7c",
+      "title": "Umówił się z 13-latką. 34-latek zatrzymany w Radlinie",
+      "summary": "Mieszkaniec powiatu rybnickiego usłyszał zarzut za nawiązanie przez internet kontaktu z osobą małoletnią poniżej 15. roku życia w celu doprowadzenia do spotkania o charakterze seksualnym.",
+      "link": "https://www.nowiny.pl/wiadomosci/251353-umowil-sie-z-13-latka-34-latek-zatrzymany-w-radlinie.html",
+      "published": "2026-10-06T13:11",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8d63b716c2d61f3da0fa17c82cd98b3f2c9e9d39",
+      "title": "Jak wydrukować wizytówki, które dobrze reprezentują firmę? Format, papier i wykończenie",
+      "summary": "Wizytówka jest niewielkim drukiem, ale często pełni bardzo dużą rolę w budowaniu pierwszego wrażenia o firmie. Powinna być czytelna, estetyczna i spójna z identyfikacją wizualną marki. Dobry projekt nie polega na umieszczeniu jak największej liczby informacji na małej powierzchni, lecz na właściwym…",
+      "link": "https://www.nowiny.pl/wiadomosci/251352-jak-wydrukowac-wizytowki-ktore-dobrze-reprezentuja-firme-format-papier-i-wykonczenie.html",
+      "published": "2026-10-06T13:03",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "853558f1c99f0bcc7fc4b4f74219829afee002f5",
+      "title": "Prezydent Wojciechowicz zastanawia się, czy radny Polowy namawia go do ustawienia przetargu na odbiór śmieci?",
+      "summary": "Na apel radnego Dariusza Polowego z „Silnego Raciborza” (w liście otwartym oraz na antenie Radia Vanessa), prezydent miasta Jacek Wojciechowicz publicznie podał, że Przedsiębiorstwo Komunalne wystartuje w przetargu na wywóz śmieci w Raciborzu (8.10) i jest do niego dobrze przygotowane. Włodarz…",
+      "link": "https://www.nowiny.pl/wiadomosci/251351-prezydent-wojciechowicz-zastanawia-sie-czy-radny-polowy-namawia-go-do-ustawienia-przetargu-na-odbior-smieci.html",
+      "published": "2026-10-06T11:28",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d779869d0ad009de341981a8da09a18269f73cbd",
+      "title": "Saperzy zginęli w lesie pod Kuźnią. Mija siedem lat od tragedii, w czwartek uroczystości",
+      "summary": "W Kuźni Raciborskiej odbędą się uroczystości upamiętniające saperów, którzy siedem lat temu zginęli podczas wykonywania obowiązków służbowych w miejscowym lesie. Uroczystości odbędą się w czwartek, 8 października, dokładnie w siódmą rocznicę tragicznych wydarzeń.",
+      "link": "https://www.nowiny.pl/wiadomosci/251350-saperzy-zgineli-w-lesie-pod-kuznia-mija-siedem-lat-od-tragedii-w-czwartek-uroczystosci.html",
+      "published": "2026-10-06T10:26",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "27ed922719726b038de90e3ed36896cbf50ae8d2",
+      "title": "Ponad 180 hektarów lasów pod ochroną. Powstał rezerwat „Głębokie Doły”, dziś (06.10.) wchodzi w życie zarządzenie o jego utworzeniu",
+      "summary": "Ma 184 hektarów wielkości i jest jednym z największych na Śląsku. Dotychczasowe uroczysko \"Głębokie Doły\" na granicy Rybnika Ochojca i Książenic od dziś (06.10.) oficjalnie stało się rezerwatem \"Głębokie Doły\". Największą wartością tego miejsca są buczyny - przyznają zgodnie miłośnicy przyrody.",
+      "link": "https://www.radio90.pl/ponad-180-hektarow-lasow-pod-ochrona-powstal-rezerwat-glebokie-doly-dzis-wchodzi-w-zycie-zarzadzenie-o-jego-utworzeniu.html",
+      "published": "2026-10-06T09:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6ae7966ea2996131d912b95ad69b6e32b1ca7150",
+      "title": "Kolej, która wróciła na tory. Historia rudzkiej wąskotorówki i ludzi, którzy dali jej drugie życie",
+      "summary": "Ponad 120 lat historii, dziesiątki tysięcy pasażerów i ludzie, którzy nie pozwolili, by rudzka wąskotorówka zniknęła. Zaglądamy na stację w Rudach, poznajemy jej dawną i współczesną historię oraz przypominamy Jarosława Łuszcza, człowieka, który dał kolejce drugie życie.",
+      "link": "https://www.nowiny.pl/wiadomosci/251292-kolej-ktora-wrocila-na-tory-historia-rudzkiej-waskotorowki-i-ludzi-ktorzy-dali-jej-drugie-zycie.html",
+      "published": "2026-10-06T08:30",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2bb8f907e0525cca9979a3ea887f7210ba7c05b5",
+      "title": "Zamek ma być elastyczny finansowo i swobodny w działaniu. Z jednostki budżetowej zmienia się w instytucję kultury",
+      "summary": "- Stawiamy na rozwój Zamku Piastowskiego - tłumaczył potrzebę zmiany starosta raciborski Grzegorz Swoboda na sesji rady powiatu 29 września. - Będziemy działać tak jak RCK, czy PDK - tłumaczył wicedyrektor Zamku Grzegorz Wawoczny. Wiele wątpliwości zgłosił w imieniu klubu PiS radny Tomasz Kusy…",
+      "link": "https://www.nowiny.pl/wiadomosci/251349-zamek-ma-byc-elastyczny-finansowo-i-swobodny-w-dzialaniu-z-jednostki-budzetowej-zmienia-sie-w-instytucje-kultury.html",
+      "published": "2026-10-06T07:17",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "046746a5d1c74913a35b6fdf3040c991f22c5090",
+      "title": "Mamy najnowszy raport śląskiej drogówki",
+      "summary": "Do 98 zdarzeń drogowych doszło wczoraj (5.10) na trasach regionu. Mamy codzienny raport śląskiej drogówki.",
+      "link": "https://www.radio90.pl/mamy-najnowszy-raport-slaskiej-drogowki.html",
+      "published": "2026-10-06T07:10",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "755c962e6ea6959df2121c4199f814a8aeeb7b93",
+      "title": "Duże ćwiczenia na terenie Jastrzębia. Utrudnienia na Moszczenickiej",
+      "summary": "We wtorek, 6 października w Jastrzębiu-Zdroju odbędzie się miejskie ćwiczenie zgrywające działania służb pod kryptonimem „WODA 2026”.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251348-duze-cwiczenia-na-terenie-jastrzebia-utrudnienia-na-moszczenickiej.html",
+      "published": "2026-10-06T06:45",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "ALERT"
+    },
     {
       "id": "09eacf5876a5100fd25d936a9299310c67174be4",
       "title": "Mężczyzna strzelał w dom sąsiadów. Policjanci zatrzymali mieszkańca Żor",
@@ -49,6 +179,56 @@
       "priority": "NORMAL"
     },
     {
+      "id": "fda43df4da431377fb51814c1be47dc28535167e",
+      "title": "Wrzesień w Urban Lab Rybnik: Gorące dyskusje, rozwój biznesu i decyzje o przyszłości miasta!",
+      "summary": "Wrzesień w Urban Labie udowodnił, jak różnorodne jest nasze miasto i jak zaangażowaną posiada społeczność. Za nami miesiąc pełen ważnych debat, warsztatów i spotkań. Zobaczcie, co się działo w minionych tygodniach.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/wrzesien-w-urban-lab-rybnik-gorace-dyskusje-rozwoj-biznesu-i-decyzje-o-przyszlosci-miasta",
+      "published": "2026-10-06T00:00",
+      "source": "rybnik.eu",
+      "category": "Urban Lab",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "192e42038ad98a546b7ff09f935628c8bea90404",
+      "title": "Trening Akcji Kurierskiej w Urzędzie Miasta",
+      "summary": "W magistracie odbył się planowany trening doręczania dokumentów powołania do służby wojskowej oraz wezwań do świadczeń na rzecz obrony. Wnioski z ćwiczeń pomogą jeszcze lepiej zadbać o ciągłość działania administracji i sprawność systemów w sytuacjach podwyższonej gotowości.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/trening-akcji-kurierskiej-w-urzedzie-miasta",
+      "published": "2026-10-06T00:00",
+      "source": "rybnik.eu",
+      "category": "Bezpieczeństwo",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c362856004bb6486666a5358b4fadb2370244d9a",
+      "title": "MSWiA opublikowało nową instrukcję reagowania na wypadek ataku z powietrza",
+      "summary": "MSWiA udostępniło nową, szczegółową instrukcję postępowania na wypadek zagrożeń z powietrza. Materiał stanowi rozwinięcie „Poradnika Bezpieczeństwa”, który trafił do milionów polskich domów. Dokument powstał przy ścisłej współpracy z ekspertami ds. ochrony ludności oraz Państwową Strażą Pożarną.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/mswia-opublikowalo-nowa-instrukcje-reagowania-na-wypadek-ataku-z-powietrza",
+      "published": "2026-10-06T00:00",
+      "source": "rybnik.eu",
+      "category": "Bezpieczeństwo",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "993cf93e56d0948d2b29bf110680a907a559fd50",
+      "title": "Powstaną Ekopracownie w trzech rybnickich szkołach",
+      "summary": "Trzy szkoły podstawowe otrzymały po 70 tys. zł dofinansowania z WFOŚiGW w Katowicach na stworzenie nowoczesnych ekopracowni pod chmurką, do których miasto dołoży po 17,5 tys. zł wkładu własnego.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/powstana-ekopracownie-w-trzech-rybnickich-szkolach",
+      "published": "2026-10-06T00:00",
+      "source": "rybnik.eu",
+      "category": "Edukacja",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "cf547e67e9eddc157eafdaeb4fdc876c3818e8c7",
+      "title": "Oddaj odpady w DZIELNICY POPIELÓW, NIEDOBCZYCE, MAROKO-NOWINY",
+      "summary": "W sobotę, 10 października w dzielnicach Popielów, Niedobczyce, Maroko-Nowiny przeprowadzona będzie zbiórka odpadów niebezpiecznych oraz odpadów segregowanych w mobilnych punktach odbioru odpadów. Będzie tam można oddać m.in. odpady w postaci tekstyliów i odzieży.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/oddaj-odpady-w-dzielnicy-popielow-niedobczyce-maroko-nowiny",
+      "published": "2026-10-06T00:00",
+      "source": "rybnik.eu",
+      "category": "Aktualności",
+      "priority": "NORMAL"
+    },
+    {
       "id": "67968701f3acff09c88a3a9b6be56cdba654c4dd",
       "title": "Katowicka 24: Wulgaryzmy, alkohol i wrzaski",
       "summary": "Katowicka 24 od miesięcy jest miejscem, które mieszkańcy wskazują jako źródło codziennych zakłóceń. Powtarzające się wykroczenia sprawiły, że policja obejmuje rejon działaniami priorytetowymi. Patrole mają pojawiać się częściej, a reakcje na zgłoszenia będą prowadzone bez zwłoki. Służby liczą na…",
@@ -69,51 +249,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "1942d77b69d4e73ee68b0c30fb0683fc2dea1959",
-      "title": "Najpierw kangur, teraz emu. Nietypowy gość spaceruje po Ruptawie",
-      "summary": "Ma niespełna dwa lata, nazywa się Tusiek i od kilkunastu dni skutecznie unika schwytania. Emu, które uciekło z prywatnej posesji w Cisówce, coraz częściej widywane jest na polach, łąkach i w pobliżu lasów w Ruptawie. Służby apelują, by nie próbować samodzielnie łapać płochliwego ptaka.",
-      "link": "https://www.nowiny.pl/wiadomosci/251341-najpierw-kangur-teraz-emu-nietypowy-gosc-spaceruje-po-ruptawie.html",
-      "published": "2026-10-05T19:03",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "894e9445d132314a4a59ca28be82b8f8ab47be7e",
-      "title": "7 mln zł na zmiany w wodzisławskim szpitalu. Jest nowy oddział i ważne inwestycje",
-      "summary": "Nowy Oddział Rehabilitacji Pulmonologicznej, winda osobowa, przebudowana infrastruktura wodociągowa i nowoczesny parking - to najważniejsze efekty inwestycji przeprowadzonych w Wojewódzkim Szpitalu Chorób Płuc w Wodzisławiu Śląskim. Łączna wartość zrealizowanych przedsięwzięć wyniosła 7 mln zł.",
-      "link": "https://www.nowiny.pl/wiadomosci/251340-7-mln-zl-na-zmiany-w-wodzislawskim-szpitalu-jest-nowy-oddzial-i-wazne-inwestycje.html",
-      "published": "2026-10-05T18:48",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "90a0d191a2024c17cd51efffac7b0a0f799673a9",
-      "title": "Pietrowice Wielkie miastem? Mieszkańcy będą mogli porozmawiać o przyszłości miejscowości",
-      "summary": "Czy Pietrowice Wielkie powinny otrzymać prawa miejskie? To pytanie jest obecnie przedmiotem konsultacji społecznych prowadzonych w gminie. Urząd Gminy w Pietrowicach Wielkich poinformował o kolejnym kroku w tej sprawie: 21 października odbędzie się otwarte spotkanie z mieszkańcami poświęcone…",
-      "link": "https://www.nowiny.pl/wiadomosci/251339-pietrowice-wielkie-miastem-mieszkancy-beda-mogli-porozmawiac-o-przyszlosci-miejscowosci.html",
-      "published": "2026-10-05T17:42",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "37de25fd01b46e9a3dc72ccf491408e4e976a47f",
-      "title": "Szykuje się Hubertus w Żerdzinach. W tym roku gonitwa za lisem odbędzie się w Kornicach",
-      "summary": "Konie, uroczysty korowód i tradycyjna „gonitwa za lisem”. 10 października w Żerdzinach (gm. Pietrowice Wielkie) odbędzie się Hubertus. W programie znalazły się również próby zręczności w siodle oraz zawody zaprzęgowe.",
-      "link": "https://agronowiny.pl/agronowiny/251338-szykuje-sie-hubertus-w-zerdzinach-w-tym-roku-gonitwa-za-lisem-odbedzie-sie-w-kornicach.html",
-      "published": "2026-10-05T17:29",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "62921045829f64cf2c85422b701d874625bf0132",
-      "title": "Kiedy powstaną chodniki w Rudzie Kozielskiej i Kolonii Renerowskiej? „Ludzie są zaniepokojeni”",
-      "summary": "Na papierze wszystko zaczyna się od planu. W terenie potrzeba już projektu, uzgodnień, decyzji i przetargu. Właśnie na tym etapie są dziś plany budowy chodników w Kolonii Renerowskiej, przysiółku Rud, w ciągu drogi wojewódzkiej nr 919, oraz w Rudzie Kozielskiej przy drodze wojewódzkiej nr 425. To…",
-      "link": "https://www.nowiny.pl/wiadomosci/251337-kiedy-powstana-chodniki-w-rudzie-kozielskiej-i-kolonii-renerowskiej-ludzie-sa-zaniepokojeni.html",
-      "published": "2026-10-05T17:07",
+      "id": "f8a2f307862ac3c0ac22f4c66ebc3496ddc93321",
+      "title": "Zaczynali od produkcji trumien. Dziś są bezkonkurencyjni w regionie. Kompleks Pogrzebowy Tomasz Pientka obchodzi 40-lecie działalności",
+      "summary": "W połowie kwietnia 2026 firma Kompleks Pogrzebowy Tomasz Pientka obchodziła zacny jubileusz 40-lecia nieprzerwanego prowadzenia swojej działalności w branży pogrzebowej.",
+      "link": "https://www.nowiny.pl/wiadomosci/251343-zaczynali-od-produkcji-trumien-dzis-sa-bezkonkurencyjni-w-regionie-kompleks-pogrzebowy-tomasz-pientka-obchodzi-40-lecie-dzialalnosci.html",
+      "published": "2026-10-05T19:42",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -169,46 +309,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "8f3087777c003f1184d5051cae25216769bce5ec",
-      "title": "Jak brzmi raciborska historia wody? Znamy zwycięskie hasło",
-      "summary": "„Raciborskie spacery do źródeł wodnych historii” – to hasło autorstwa pana Wojtka, które zwyciężyło w konkursie zorganizowanym w ramach projektu „Raciborska woda – więcej niż myślisz”, realizowanego przez Fundację Śląsk 2035.",
-      "link": "https://www.nowiny.pl/wiadomosci/251334-jak-brzmi-raciborska-historia-wody-znamy-zwycieskie-haslo.html",
-      "published": "2026-10-05T11:32",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "152d90e13f6e98c957100a4338b7a63576fcf1ae",
-      "title": "Koncert zespołu PROSZĘ BARDZO już 9 października w Tworkowie. Będzie akustycznie i nastrojowo!",
-      "summary": "Jeśli lubicie poezję śpiewaną, akustyczne ballady, koncerty unplugged i muzykę, przy której można na chwilę zwolnić koniecznie musicie zajrzeć 9 października do Ruin Zamku w Tworkowie.",
-      "link": "https://www.nowiny.pl/nie-przegap/251333-koncert-zespolu-prosze-bardzo-juz-9-pazdziernika-w-tworkowie-bedzie-akustycznie-i-nastrojowo.html",
-      "published": "2026-10-05T11:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c823f60feb1d62009daa1f958ea72077b5c22581",
-      "title": "Jak poprawnie przygotować ofertę w zamówieniu publicznym?",
-      "summary": "Przygotowanie oferty w zamówieniu publicznym to proces wymagający precyzyjnego zrozumienia przepisów oraz umiejętności strategicznego myślenia. Dla wielu organizacji, zwłaszcza tych działających w sektorze publicznym, istotne jest nie tylko spełnienie formalnych wymogów, ale także wyróżnienie się…",
-      "link": "https://www.nowiny.pl/wiadomosci/251332-jak-poprawnie-przygotowac-oferte-w-zamowieniu-publicznym.html",
-      "published": "2026-10-05T10:30",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "imgw-Sk20261005080808655",
-      "title": "IMGW: Gęsta mgła",
-      "summary": "Stopień 1. Obowiązuje do 2026-10-06 09:00. Prognozuje się gęste mgły, w zasięgu których widzialność może miejscami wynosić poniżej 200 m.",
-      "link": "https://danepubliczne.imgw.pl/api/data/warningsmeteo",
-      "published": "2026-10-05T10:08",
-      "source": "IMGW",
-      "category": "Ostrzeżenia",
-      "priority": "ALERT"
-    },
-    {
       "id": "deada06503b6229a6c5835da16252530ef9c6ea1",
       "title": "Odbędzie się Święto Pieczonego Ziemniaka w Czernicy. Jedną z atrakcji będą gigantyczne warzywa! [PATRONAT]",
       "summary": "Warzywa giganty na Święcie Pieczonego Ziemniaka w Czernicy. W sobotę (10.10) przy Zameczku, rodzinne wydarzenie w klimacie country.",
@@ -229,26 +329,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "38d93ca7b7b92656f65b7c0da18c39a3fd233d4b",
-      "title": "Wędka teleskopowa – kiedy warto ją wybrać i na co zwrócić uwagę?",
-      "summary": "Wędka teleskopowa od lat cieszy się dużą popularnością zarówno wśród początkujących, jak i bardziej doświadczonych wędkarzy. Jej największą zaletą jest kompaktowa konstrukcja – po złożeniu zajmuje niewiele miejsca, a przygotowanie jej do łowienia trwa zaledwie chwilę. Nie oznacza to jednak, że…",
-      "link": "https://www.nowiny.pl/wiadomosci/251329-wedka-teleskopowa-kiedy-warto-ja-wybrac-i-na-co-zwrocic-uwage.html",
-      "published": "2026-10-05T08:35",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "9cc07895427bbd2020aae993faaeae0e2123512e",
-      "title": "Studio Nowiny.pl podczas wydarzenia Local Networkers in Wodzisław Śląski",
-      "summary": "Już w najbliższy czwartek 8 października w kompleksie Jordaszka przy ul. Czyżowickiej 85 odbędzie się druga edycja wydarzenia Local Networkers in Wodzisław Śląski. Po udanym debiucie wiosną, przedsiębiorcy znów spotkają się w jednym miejscu, by wziąć udział w spotkaniach, rozmowach, wymianie…",
-      "link": "https://www.nowiny.pl/wiadomosci/251328-studio-nowinypl-podczas-wydarzenia-local-networkers-in-wodzislaw-slaski.html",
-      "published": "2026-10-05T08:14",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "65ec9bca281953be02d4c0c0c85f535f60e615bc",
       "title": "TS Volley Rybnik i KS Jastrzębie-Borynia z wyjazdowymi wygranymi w II lidze siatkówki. Rybniczanie nie stracili seta",
       "summary": "Drugi mecz i druga wygrana siatkarzy Volleya Rybnik. Tym razem na wyjeździe pokonali UMKS Kęczanin Kęty 3:0. Tylko pierwszy set sobotniego (03.10) spotkania był wyrównany, Rybniczanie wygrali go ostatecznie 25:21.",
@@ -257,16 +337,6 @@
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
-    },
-    {
-      "id": "4c468749110f739d536c68f49a413012e142af59",
-      "title": "Ewakuacja na basenie w Radlinie. Uczniowie zgłosili złe samopoczucie [ZDJĘCIA]",
-      "summary": "Uczniowie, opiekunowie i ratownicy zostali ewakuowani po tym, jak dwie osoby zgłosiły złe samopoczucie. Na miejsce skierowano strażaków.",
-      "link": "https://www.nowiny.pl/wiadomosci/251327-ewakuacja-na-basenie-w-radlinie-uczniowie-zglosili-zle-samopoczucie-zdjecia.html",
-      "published": "2026-10-05T07:44",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "ALERT"
     },
     {
       "id": "22963c0a3d60e294e68aaf8690725b4c58fb5ff9",
@@ -459,36 +529,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "f9f997ad8e7af60a089b46e90ff08fdbf0c5f5aa",
-      "title": "Budżet Obywatelski w Rybniku. Ponad 39 tysięcy oddanych głosów",
-      "summary": "Ponad 39 i pół tysiąca głosów oddali mieszkańcy Rybnika na projekty Budżetu Obywatelskiego na 2027 rok. Miasto podsumowała tegoroczne głosowanie.",
-      "link": "https://www.radio90.pl/budzet-obywatelski-w-rybniku-ponad-39-tysiecy-oddanych-glosow.html",
-      "published": "2026-10-03T09:30",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "eee828c87511f901a4da0328277e006f3070e514",
-      "title": "Wypadek na autostradzie A1. Są kłopoty z przejazdem",
-      "summary": "Wypadek na autostradzie A1. Przed godziną 7 rano doszło tam do zderzenia osobówki i samochodu ciężarowego. Początkowo trasa była zablokowana, obecnie ruch odbywa się jednym pasem.",
-      "link": "https://www.radio90.pl/wypadek-na-autostradzie-a1-sa-klopoty-z-przejazdem.html",
-      "published": "2026-10-03T06:12",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ca9ab440410d04f76c17e5c8d93a803dc876c913",
-      "title": "Kuchnia Radia 90: szarlotka grecka… Smakołyk z jabłkami i orzechami",
-      "summary": "Szarlotka grecka, czyli milopita, to wspomnienia z greckich wakacji. Ciasto z jabłkami, migdałami i orzechami włoskimi, wilgotne i nie za słodkie. W sam raz do kawy!",
-      "link": "https://www.radio90.pl/kuchnia-radia-90-szarlotka-grecka.html",
-      "published": "2026-10-03T06:10",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a77149d199d9b5d451a0fcf617393a173d60f8fa",
       "title": "Miasto Rybnik i Koleje Śląskie Sp. z o.o. łączą siły na wypadek awarii",
       "summary": "W dniu 28 września 2026 r. Miasto Rybnik i Koleje Śląskie podpisały umowę dotyczącą wzajemnej współpracy w sytuacjach awarii i utrudnień w funkcjonowaniu transportu kolejowego.",
@@ -526,46 +566,6 @@
       "published": "2026-10-02T00:00",
       "source": "rybnik.eu",
       "category": "Sport",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0b414447434fd0555ed636f841eb39bbc6ebca73",
-      "title": "Podziel się opinią o budżecie obywatelskim",
-      "summary": "Zachęcamy do udziału w krótkiej ankiecie dotyczącej tegorocznej edycji budżetu obywatelskiego. Wasze opinie pomogą lepiej przygotować kolejne edycje.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/podziel-sie-opinia-o-budzecie-obywatelskim",
-      "published": "2026-10-02T00:00",
-      "source": "rybnik.eu",
-      "category": "Budżet obywatelski",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "1737133b72ab10a14e86a596f64f317718d4f937",
-      "title": "Nutrie i woda. Co daje im sztuczna rzeka w Nutriowisku?",
-      "summary": "Woda jest jednym z najważniejszych elementów środowiska, z którego nutrie korzystają na co dzień. Ma to szczególne znaczenie w Nutriowisku – izolowanym azylu, w którym nutrie odłowione z terenów Rybnika mogą żyć w warunkach odpowiadających ich potrzebom, bez zagrożenia dla rodzimych ekosystemów.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/nutrie-i-woda-co-daje-im-sztuczna-rzeka-w-nutriowisku",
-      "published": "2026-10-02T00:00",
-      "source": "rybnik.eu",
-      "category": "Zwierzęta",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e80b95e480264d5044a6efca19d4e16fa703d382",
-      "title": "Mieszkańcy wybrali projekty Budżetu Obywatelskiego na 2027 rok",
-      "summary": "Zakończyło się głosowanie na projekty Budżetu Obywatelskiego Miasta Rybnika na 2027 rok. Przez 9 dni – od 19 do 27 września 2026 roku – mieszkańcy mogli oddawać swoje głosy.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/mieszkancy-wybrali-projekty-budzetu-obywatelskiego-na-2027-rok",
-      "published": "2026-10-01T00:00",
-      "source": "rybnik.eu",
-      "category": "Budżet obywatelski",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e1c517dd0901581735ef720c8a12b24a35f3233c",
-      "title": "Rybnik laureatem konkursu Green Changer w kategorii „Miasto dla Klimatu”",
-      "summary": "Wyróżnienie zostało wręczone 30 września podczas konferencji Business PRECOP w Międzynarodowym Centrum Kongresowym w Katowicach. Nagrodę w imieniu miasta odebrał Zastępca Prezydenta Miasta Rybnika Wojciech Kiljańczyk.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/rybnik-laureatem-konkursu-green-changer-w-kategorii-miasto-dla-klimatu",
-      "published": "2026-10-01T00:00",
-      "source": "rybnik.eu",
-      "category": "Ekologia",
       "priority": "NORMAL"
     },
     {
