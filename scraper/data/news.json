@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T18:24:11",
+  "generated_at": "2026-10-07T06:00:21",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,66 @@
     }
   ],
   "items": [
+    {
+      "id": "8f8b1e4437d5e256cf13447ff6f4c8941933258f",
+      "title": "Ukrywał się przez 10 lat. Policjanci zatrzymali go w Rybniku",
+      "summary": "Przez około dekadę pozostawał nieuchwytny. Poszukiwania 33-latka zakończyły się dopiero w Rybniku, gdzie namierzyli go żorscy kryminalni.",
+      "link": "https://www.nowiny.pl/wiadomosci/251362-ukrywal-sie-przez-10-lat-policjanci-zatrzymali-go-w-rybniku.html",
+      "published": "2026-10-07T05:47",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d8e9f62fd0b4606365beb6c37ffe1f09a76521b0",
+      "title": "10-latek na hulajnodze elektrycznej w Raciborzu. Sprawa trafi do sądu rodzinnego",
+      "summary": "Nietypową jazdę 10-latka przerwali policjanci na ulicy Pracy w Raciborzu. Szybko okazało się, że problemem był nie tylko wiek chłopca, ale również stan hulajnogi, którą wcześniej sam zmodyfikował.",
+      "link": "https://www.nowiny.pl/wiadomosci/251360-10-latek-na-hulajnodze-elektrycznej-w-raciborzu-sprawa-trafi-do-sadu-rodzinnego.html",
+      "published": "2026-10-07T05:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "23115505872c3ef82501bf89d4a822ca92d9c0fa",
+      "title": "Nowi proboszczowie w archidiecezji katowickiej. Duchowni odebrali dekrety",
+      "summary": "Duchowni, którzy dotychczas kierowali parafiami jako administratorzy, otrzymali nominacje proboszczowskie. Dekrety wręczono podczas spotkania w Kurii Metropolitalnej w Katowicach. Zmiany dotyczą m.in. parafii w Wodzisławiu Śląskim i Rybniku.",
+      "link": "https://www.nowiny.pl/wiadomosci/251361-nowi-proboszczowie-w-archidiecezji-katowickiej-duchowni-odebrali-dekrety.html",
+      "published": "2026-10-07T04:48",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f6d964d93359a62d6eb5a4e7cdb7c024be10adcc",
+      "title": "Głębokie Doły na pograniczu Rybnika i Książenic już rezerwatem. Co zmienia się dla mieszkańców?",
+      "summary": "Ponad 183 hektary lasów na pograniczu Rybnika i Książenic objęto ochroną. Nadal można tu spacerować i jeździć rowerem po wyznaczonych trasach. Przyrodnicy zabiegali o ochronę tego lasu przez ponad trzy dekady. Od 6 października teren ma formalnie status rezerwatu przyrody.",
+      "link": "https://www.nowiny.pl/wiadomosci/251359-glebokie-doly-na-pograniczu-rybnika-i-ksiazenic-juz-rezerwatem-co-zmienia-sie-dla-mieszkancow.html",
+      "published": "2026-10-06T20:47",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a5af2c80f01bafda00f4d087f4799b2345e61cfc",
+      "title": "Tragedia w Wilczy. Nie żyje 44-letni mężczyzna. Policja publikuje alarmujące dane",
+      "summary": "Tragiczny poniedziałkowy wieczór na ulicy Rybnickiej w Wilczy. W wypadku samochodu osobowego zginął 44-letni mieszkaniec powiatu gliwickiego. Dokładne okoliczności zdarzenia są wyjaśniane.",
+      "link": "https://www.nowiny.pl/wiadomosci/251357-tragedia-w-wilczy-nie-zyje-44-letni-mezczyzna-policja-publikuje-alarmujace-dane.html",
+      "published": "2026-10-06T18:36",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "ALERT"
+    },
+    {
+      "id": "114bb9ca5085872385a05ec4b7fc69173f11d789",
+      "title": "Służby z Jastrzębia-Zdroju w szeroko zakrojonych ćwiczeniach [ZDJĘCIA]",
+      "summary": "6 października w Jastrzębiu-Zdroju odbyły się miejskie ćwiczenia łączące działania służb pod kryptonimem „WODA 2026”. Manewry organizowane były w ramach programu Ochrony Ludności i Obrony Cywilnej (OLIOC), a ich celem była praktyczna koordynacja współdziałania służb, instytucji i podmiotów…",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251358-sluzby-z-jastrzebia-zdroju-w-szeroko-zakrojonych-cwiczeniach-zdjecia.html",
+      "published": "2026-10-06T17:30",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "5b4c1ca766b5c1ddc5a9b8c4c019b007f3b0d8f5",
       "title": "LPR w Rydułtowach. Dziecko spadło z balkonu na 5. piętrze",
@@ -51,7 +111,7 @@
     {
       "id": "f6721acf881ffc9e36579c78770b724a2ce94b7c",
       "title": "Umówił się z 13-latką. 34-latek zatrzymany w Radlinie",
-      "summary": "Mieszkaniec powiatu rybnickiego usłyszał zarzut za nawiązanie przez internet kontaktu z osobą małoletnią poniżej 15. roku życia w celu doprowadzenia do spotkania o charakterze seksualnym.",
+      "summary": "Mieszkaniec powiatu rybnickiego usłyszał zarzut składania osobie małoletniej poniżej 15 roku życie za pośrednictwem internetu propozycji o charakterze seksualnym i zmierzania do ich realizacji.",
       "link": "https://www.nowiny.pl/wiadomosci/251353-umowil-sie-z-13-latka-34-latek-zatrzymany-w-radlinie.html",
       "published": "2026-10-06T13:11",
       "source": "nowiny.pl",
@@ -149,26 +209,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "46ee70491cf8f4e47b735028634087de273e60d6",
-      "title": "Pościg z Czech zakończył się w Chałupkach. Kierowca nadal jest poszukiwany",
-      "summary": "Pościg rozpoczął się po czeskiej stronie granicy, a zakończył w Chałupkach, gdzie uciekające BMW utknęło na bocznicy kolejowej. Kierowca porzucił samochód i uciekł pieszo.",
-      "link": "https://www.nowiny.pl/wiadomosci/251346-poscig-z-czech-zakonczyl-sie-w-chalupkach-kierowca-nadal-jest-poszukiwany.html",
-      "published": "2026-10-06T05:30",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d6e93a985e6c8d686bc45607f63c9661d7d7dfcd",
-      "title": "Kupił zrujnowany pałac w Rzuchowie. Od 16 lat go odbudowuje. Nie chce bramy ani płotu. Chce miejsca otwartego dla ludzi i niezależnego od energii [WYWIAD]",
-      "summary": "– Nie wierzę. Wiarę zostawmy dla rzeczy, których nie da się do końca sprawdzić. Ja natomiast idę w tym kierunku i zrobimy to – mówi Janusz Gładysz o planie całkowitej energetycznej autonomii pałacu w Rzuchowie (gm. Kornowac). Kiedy 16 lat temu kupował zrujnowany obiekt, nie wiedział jeszcze, że…",
-      "link": "https://www.nowiny.pl/wiadomosci/251326-kupil-zrujnowany-palac-w-rzuchowie-od-16-lat-go-odbudowuje-nie-chce-bramy-ani-plotu-chce-miejsca-otwartego-dla-ludzi-i-niezaleznego-od-energii-wywiad.html",
-      "published": "2026-10-06T05:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "d633d8293b2993807b94397e054ed9d5a559629a",
       "title": "Szukają nowego domu dla psiaków z rybnickiego schroniska. W niedzielę akcja „Poznaj schroniaka na wybiegu Górka dla Burka”",
       "summary": "Chodzi o to, by zobaczyć psy poza schroniskiem. Co miesiąc rybnickie psiaki do adopcji można spotkać na wybiegu przy osiedlu Nowiny w Rybniku. W te niedzielę (11.10) akcja od 10.00 do 11.30.",
@@ -226,36 +266,6 @@
       "published": "2026-10-06T00:00",
       "source": "rybnik.eu",
       "category": "Aktualności",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "67968701f3acff09c88a3a9b6be56cdba654c4dd",
-      "title": "Katowicka 24: Wulgaryzmy, alkohol i wrzaski",
-      "summary": "Katowicka 24 od miesięcy jest miejscem, które mieszkańcy wskazują jako źródło codziennych zakłóceń. Powtarzające się wykroczenia sprawiły, że policja obejmuje rejon działaniami priorytetowymi. Patrole mają pojawiać się częściej, a reakcje na zgłoszenia będą prowadzone bez zwłoki. Służby liczą na…",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251345-katowicka-24-wulgaryzmy-alkohol-i-wrzaski.html",
-      "published": "2026-10-05T21:44",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0adb0693524d52ab1f8775e6a247eab432b6ed9a",
-      "title": "8 października ważna decyzja dla Raciborzan. Czy muszą chwytać się za kieszenie?",
-      "summary": "- Pojawia się realne ryzyko wzrostu opłaty za śmieci dla mieszkańców - piszą do prezydenta Jacka Wojciechowicza radni „Silnego Raciborza” i podpowiadają mu, jak można uniknąć ryzyka.",
-      "link": "https://www.nowiny.pl/wiadomosci/251344-8-pazdziernika-wazna-decyzja-dla-raciborzan-czy-musza-chwytac-sie-za-kieszenie.html",
-      "published": "2026-10-05T21:27",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f8a2f307862ac3c0ac22f4c66ebc3496ddc93321",
-      "title": "Zaczynali od produkcji trumien. Dziś są bezkonkurencyjni w regionie. Kompleks Pogrzebowy Tomasz Pientka obchodzi 40-lecie działalności",
-      "summary": "W połowie kwietnia 2026 firma Kompleks Pogrzebowy Tomasz Pientka obchodziła zacny jubileusz 40-lecia nieprzerwanego prowadzenia swojej działalności w branży pogrzebowej.",
-      "link": "https://www.nowiny.pl/wiadomosci/251343-zaczynali-od-produkcji-trumien-dzis-sa-bezkonkurencyjni-w-regionie-kompleks-pogrzebowy-tomasz-pientka-obchodzi-40-lecie-dzialalnosci.html",
-      "published": "2026-10-05T19:42",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -943,16 +953,6 @@
       "title": "WYŁOŻENIE PROJEKTU PLANU MIEJSCOWEGO dla 6 obszarów MPZP 69-7",
       "summary": "Od 21.09 do 19.10.2026 można zapoznawać się z projektem miejscowego planu zagospodarowania przestrzennego obejmującego 6 obszarów w rejonach ulic: W. Poloczka, Lipowej, Granicznej, W. Pełczyńskiego i Wodzisławskiej (MPZP 69-7). Uwagi do projektu można składać do 02.11.2026 r.",
       "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/wylozenie-projektu-planu-miejscowego-przy-ulicach-poloczka-lipowej-granicznej-pelczynskiego-i-wodzislawskiej",
-      "published": "2026-09-21T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "65598c6859f78306a2d548074e5ece5256367c2f",
-      "title": "WYŁOŻENIE PROJEKTU PLANU MIEJSCOWEGO W DZIELNICACH STODOŁY I CHWAŁĘCICE",
-      "summary": "Od 21 września do 19 października 2026 r. można zapoznawać się z projektem miejscowego planu zagospodarowania przestrzennego dla części miasta Rybnika obejmującej dziesięć obszarów dla wybranych fragmentów w dzielnicach: Stodoły, Chwałęcice (MPZP 54-61). Uwagi do projektu można składać do 2…",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/wylozenie-projektu-planu-miejscowego-w-dzielnicach-stodoly-i-chwalecice",
       "published": "2026-09-21T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
