@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:25:06",
+  "generated_at": "2026-10-07T23:07:09",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,116 @@
     }
   ],
   "items": [
+    {
+      "id": "a03b917a9c24eccd49d951a4a63d1d38236fbad8",
+      "title": "Program „Rehabilitacja 25 plus” w Wodzisławiu Śląskim: kontynuacja terapii i integracji społecznej",
+      "summary": "1 września 2026 roku w Zespole Placówek Szkolno-Wychowawczo-Rewalidacyjnych w Wodzisławiu Śląskim wystartowała dziewiąta edycja programu „Rehabilitacja 25 plus”. Dzięki finansowaniu ze środków PFRON, 34 absolwentów szkół przysposabiających do pracy z Powiatu Wodzisławskiego ma możliwość…",
+      "link": "https://www.radio90.pl/program-rehabilitacja-25-plus-w-wodzislawiu-slaskim-kontynuacja-terapii-i-integracji-spolecznej.html",
+      "published": "2026-10-07T22:01",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "714f3600c6701dcc651652a6c741bd1691885786",
+      "title": "Podkowa na szczęście w prezencie. Powiatowy Stół Gospodarczy gościnnie w nowym zakładzie firmy Seget",
+      "summary": "Rodzinna firma zainwestowała w strefie gospodarczej przy 1 Maja w Raciborzu. Producent wędlin, który działa już blisko 50 lat w regionie, zbudował nowy zakład, a jego otwarcie (7 października) połączono z czwartą edycją Powiatowego Stołu Gospodarczego - spotkania lokalnego biznesu i samorządu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251395-podkowa-na-szczescie-w-prezencie-powiatowy-stol-gospodarczy-goscinnie-w-nowym-zakladzie-firmy-seget.html",
+      "published": "2026-10-07T20:31",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "15e727b5c351a815ca9dc24fc7fa6c8687dd7284",
+      "title": "Nowy wiadukt w Leszczynach już stoi nad torami. Kiedy wrócą kierowcy?",
+      "summary": "Przebudowa wiaduktu nad torami kolejowymi w Czerwionce-Leszczynach weszła w kolejny etap. Nowa konstrukcja nośna jest już zabetonowana, a wcześniej na wykonanych podporach zamontowano 30-metrowe belki. Roboty prowadzone są zgodnie z harmonogramem, a zakończenie całej inwestycji zaplanowano na luty…",
+      "link": "https://www.nowiny.pl/wiadomosci/251394-nowy-wiadukt-w-leszczynach-juz-stoi-nad-torami-kiedy-wroca-kierowcy.html",
+      "published": "2026-10-07T19:15",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "cc37b34d2a0e1210307f7e2b8023fb1e1376d6b0",
+      "title": "Pali się Biedronka w Jastrzębiu-Zdroju. \"Sytuacja jest dynamiczna\"",
+      "summary": "Sklep Biedronka przy ulicy Niepodległości w Jastrzębiu-Zdroju stanął w płomieniach. Trwają intensywne działania strażaków.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251393-pali-sie-biedronka-w-jastrzebiu-zdroju-sytuacja-jest-dynamiczna.html",
+      "published": "2026-10-07T19:12",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f93d7f94d9af82c6219f7cb763bb1c1dad202616",
+      "title": "Szymon Dudek nowym prezesem GPWiK w Kuźni Raciborskiej",
+      "summary": "Gminne Przedsiębiorstwo Wodociągów i Kanalizacji w Kuźni Raciborskiej ma nowego prezesa. Funkcję objął Szymon Dudek, który zastąpił Agnieszkę Sawoszczuk. Pod koniec września Sawoszczuk przeszła do Wodociągów Raciborskich, gdzie została prezesem.",
+      "link": "https://www.nowiny.pl/wiadomosci/251392-szymon-dudek-nowym-prezesem-gpwik-w-kuzni-raciborskiej.html",
+      "published": "2026-10-07T18:08",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "33f56f22eefefa8cafecca14dcf0e78396af2d31",
+      "title": "Przedszkolak oddalił się od grupy i sam wracał do domu. W Rybniku, przy Bazylice zauważyli go przechodnie",
+      "summary": "Mały chłopiec oddalił się od grupy przedszkolnej podczas spaceru w parku w centrum Rybnika.",
+      "link": "https://www.radio90.pl/przedszkolak-oddalil-sie-od-grupy-i-sam-wracal-do-domu-w-rybniku-przy-bazylice-zauwazyli-go-przechodnie.html",
+      "published": "2026-10-07T17:14",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8673046fcb1750f27af35900b81571b7613d1d11",
+      "title": "Iberhantuch? Wanszoner? Garnitura? Dom Kultury Niedobczyce zaprasza",
+      "summary": "Iberhantuch. Wanszoner. Garnitura. To nic innego jak tradycyjne śląskie makatki!",
+      "link": "https://www.radio90.pl/iberhantuch-wanszoner-garnitura-dom-kultury-niedobczyce-zaprasza.html",
+      "published": "2026-10-07T16:45",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9b78ee69b20ce35f222dba75cc748168c9ac18e0",
+      "title": "Ślubowanie, „tyty” i pierwszy ważny szkolny dzień w Zespole Placówek Szkolno-Wychowawczo-Rewalidacyjnych",
+      "summary": "Siedmioro uczniów rozpoczynających naukę w Zespole Placówek Szkolno-Wychowawczo-Rewalidacyjnych w Wodzisławiu Śląskim zostało oficjalnie przyjętych do szkolnej społeczności. Po ślubowaniu pierwszoklasiści otrzymali tradycyjne rogi obfitości.",
+      "link": "https://www.nowiny.pl/wiadomosci/251391-slubowanie-tyty-i-pierwszy-wazny-szkolny-dzien-w-zespole-placowek-szkolno-wychowawczo-rewalidacyjnych.html",
+      "published": "2026-10-07T16:32",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8c7db133830414ca4e328694577f1eca4a49789f",
+      "title": "105 mieszkań komunalnych na osiedlu Sikorskiego. Żory dostały ponad 38,5 mln zł",
+      "summary": "Na os. Sikorskiego w Żorach powstanie 105 mieszkań komunalnych. Miasto ma już wybranego wykonawcę inwestycji, a teraz otrzymało ponad 38,5 mln zł bezzwrotnego wsparcia na jej realizację.",
+      "link": "https://ezory.pl/wiadomosci/251390-105-mieszkan-komunalnych-na-osiedlu-sikorskiego-zory-dostaly-ponad-385-mln-zl.html",
+      "published": "2026-10-07T16:15",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "63d68aaf2dd407910250d8a9e675ed99349df9b0",
+      "title": "Prawie 3 mln zł na sport w naszym regionie. Pieniądze dla Żor, Jastrzębia, Czerwionki-Leszczyn, Zebrzydowic i Pawłowic",
+      "summary": "Pięć samorządów z naszego regionu znalazło się wśród beneficjentów najnowszych programów ministerstwa sportu. Łącznie do Żor, Jastrzębia-Zdroju, Czerwionki-Leszczyn, Zebrzydowic i Pawłowic trafi prawie 2,91 mln zł na modernizację orlików, bieżnię oraz krytą pływalnię.",
+      "link": "https://www.nowiny.pl/wiadomosci/251389-prawie-3-mln-zl-na-sport-w-naszym-regionie-pieniadze-dla-zor-jastrzebia-czerwionki-leszczyn-zebrzydowic-i-pawlowic.html",
+      "published": "2026-10-07T15:56",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9a5828fec5b4ebdc855f86a876722a2398cadf2a",
+      "title": "Moc różnorodnych seansów w kinach Helios",
+      "summary": "Nadchodzący tydzień w kinach Helios przyniesie premierę animacji „Vincent. Legenda oceanu”, jak też projekcje licznych filmowych hitów na czele z popularną „Lalką”. Ponadto w repetuarze znajdą się rozmaite seanse specjalne, takie jak „Bing i opowieści o zwierzątkach” dla najmłodszych oraz…",
+      "link": "https://www.nowiny.pl/wiadomosci/251377-moc-roznorodnych-seansow-w-kinach-helios.html",
+      "published": "2026-10-07T14:30",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "2bf32e520466d8e92758f8fb95d93911b697dec5",
       "title": "„Co nam w duszy gra…”- coroczny koncert pieśni chóralnej już w najbliższy piątek w Domu Kultury „Strzecha”",
@@ -109,26 +219,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "0a92eb91b312cea34a053130d5e00abd58a823c4",
-      "title": "Serce, higiena, rehabilitacja. Uczniowie odkrywają kulisy pracy szpitala",
-      "summary": "Pierwsza klasa medyczno‑psychologiczna z Zespołu Szkół nr 2 im. Wojciecha Korfantego nie czeka na przyszłość – oni już w nią wchodzą. Zamiast uczyć się wyłącznie z podręczników, 30 września pojawili się w Szpitalu Wojewódzkim w Jastrzębiu‑Zdroju, gdzie mogli zobaczyć prawdziwą pracę personelu…",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251380-serce-higiena-rehabilitacja-uczniowie-odkrywaja-kulisy-pracy-szpitala.html",
-      "published": "2026-10-07T10:25",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "913e089c14f6730d753a56dad7eb7543bdea3b32",
-      "title": "Prezydent Wojciechowicz powiedział o radnym Polowym, że ten „był frontmanem od ataków na sekretarza Kaliciaka, w stylu: kompletne dno”",
-      "summary": "W „Monitorze Samorządowym” Radia Vanessa włodarz miasta powiedział o liderze klubu „Silny Racibórz” - Dariuszu Polowym, że ten odegrał na ostatniej sesji rady miasta „mocno negatywną rolę”. Wojciechowicz krytykował swego poprzednika w fotelu prezydenta za jego stanowczy sprzeciw dla przyznawania…",
-      "link": "https://www.nowiny.pl/wiadomosci/251379-prezydent-wojciechowicz-powiedzial-o-radnym-polowym-ze-ten-byl-frontmanem-od-atakow-na-sekretarza-kaliciaka-w-stylu-kompletne-dno.html",
-      "published": "2026-10-07T10:13",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "7ea4452ba9ddaea9791f7436e18d7d06dad71af3",
       "title": "Pożary traw w regionie. Strażaków wzywano do Czerwionki i do Zwonowic",
       "summary": "Jest słońce, są pożary traw. W raportach strażaków z regionu akcje na nieużytkach.",
@@ -139,46 +229,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "a99ec07682eb25f74611a03795c251bd00198824",
-      "title": "Trzylatek wypadł z okna w Rydułtowach. Policja sprawdza, czy nie doszło do przestępstwa",
-      "summary": "Do poważnego zdarzenia doszło przy ul. Ofiar Terroru w Rydułtowach. Policjanci ustalają, w jakich okolicznościach trzyletni chłopiec wypadł z okna mieszkania.",
-      "link": "https://www.nowiny.pl/wiadomosci/251378-trzylatek-wypadl-z-okna-w-rydultowach-policja-sprawdza-czy-nie-doszlo-do-przestepstwa.html",
-      "published": "2026-10-07T10:09",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "5365a6c18c4a91de8387c0e005c5aab91499dd50",
-      "title": "Nowa atrakcja na wodzisławskim Rynku. Miasto sprzed wieku odtworzone w brązie",
-      "summary": "Na wodzisławskim rynku pojawił się nowy element, który pozwala spojrzeć na centrum miasta z zupełnie innej perspektywy. Brązowa makieta pokazuje, jak wyglądał Wodzisław Śląski na przełomie XIX i XX wieku.",
-      "link": "https://www.nowiny.pl/wiadomosci/251366-nowa-atrakcja-na-wodzislawskim-rynku-miasto-sprzed-wieku-odtworzone-w-brazie.html",
-      "published": "2026-10-07T10:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f775ae7f4069d386f93f75e94ef3dd1efb950583",
-      "title": "Aleja Żyrafy odzyskała blask. Modernizacja trwała półtora roku [ZDJĘCIA]",
-      "summary": "Ponad pół kilometra jednej z głównych alei Parku Śląskiego przeszło modernizację za prawie 10 mln zł. Aleja Żyrafy ma nowe nawierzchnie, oświetlenie i ławki, a część rozwiązań dostosowano do potrzeb osób z niepełnosprawnościami.",
-      "link": "https://www.nowiny.pl/wiadomosci/251375-aleja-zyrafy-odzyskala-blask-modernizacja-trwala-poltora-roku-zdjecia.html",
-      "published": "2026-10-07T09:29",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6e0304e7d273835424e469d87516f67f4e7c4eca",
-      "title": "Poseł Michał Woś: każdy wyjazd z Raciborza jest zakorkowany, a prezydent zamiast inwestycjami zajmuje się kwiatkami",
-      "summary": "Poseł prawicy wylicza: ludzie w Markowicach stoją w korkach na przejeździe kolejowym, a powinien być tam wiadukt; Ludzie w Brzeziu stoją w korkach bo nie ma tam nowego mostu; Na Głubczyckiej też ludzie stoją w korku, a dramat jest zwłaszcza przy szpitalu i przy \"nerce\"; Dochodzą jeszcze kroki na…",
-      "link": "https://www.nowiny.pl/wiadomosci/251376-posel-michal-wos-kazdy-wyjazd-z-raciborza-jest-zakorkowany-a-prezydent-zamiast-inwestycjami-zajmuje-sie-kwiatkami.html",
-      "published": "2026-10-07T09:13",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a3cda5c2b32292a469b35d4072ed203ee8438a4a",
       "title": "Dlaczego kawa z ekspresu jest kwaśna albo gorzka? 7 przyczyn i sposobów naprawy",
       "summary": "Jeśli kawa z automatu nagle robi się zbyt kwaśna albo nieprzyjemnie gorzka, nie trzeba od razu podejrzewać awarii ekspresu. Najczęściej problem da się zawęzić do kilku rzeczy: ziaren, mielenia, temperatury albo czystości urządzenia. Najlepiej sprawdzać je po kolei. Zacznij od kawy, którą wsypujesz…",
@@ -186,36 +236,6 @@
       "published": "2026-10-07T09:00",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "ALERT"
-    },
-    {
-      "id": "5e56aa274212b0f8fad734fa9cbc7c48087cdaa8",
-      "title": "Newag chce 2,5 mld zł, Pesa prawie 3 mld. Przetarg na nowe pociągi dla GZM i województwa śląskiego",
-      "summary": "Są dwie oferty na dostawę 32 nowych pociągów dla GZM i województwa śląskiego. Tańsza opiewa na 2,521 mld zł, podczas gdy zamawiający mają obecnie zabezpieczone 2,154 mld zł.",
-      "link": "https://www.nowiny.pl/wiadomosci/251374-newag-chce-25-mld-zl-pesa-prawie-3-mld-przetarg-na-nowe-pociagi-dla-gzm-i-wojewodztwa-slaskiego.html",
-      "published": "2026-10-07T08:52",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "9da903edd607546625545588293c8f5838d0c132",
-      "title": "Niebezpieczne znalezisko w Jastrzębiu-Zdroju. Na miejsce wezwano saperów",
-      "summary": "Prace ziemne przy ulicy Rolniczej w Jastrzębiu-Zdroju zakończyły się niespodziewanym odkryciem. Znaleziony przedmiot okazał się pociskiem artyleryjskim z czasów II wojny światowej.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251371-niebezpieczne-znalezisko-w-jastrzebiu-zdroju-na-miejsce-wezwano-saperow.html",
-      "published": "2026-10-07T08:21",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3b17f05b9b12835146334016082ba55a75dc9f41",
-      "title": "Rybnik z nowym rozwiązaniem dla pasażerów kolei. Chodzi o awarie i utrudnienia",
-      "summary": "Awaria pociągu lub poważne utrudnienia na kolei nie muszą już oznaczać konieczności kupowania kolejnego biletu, by kontynuować podróż po Rybniku. Miasto zawarło porozumienie z Kolejami Śląskimi, które przewiduje nowe rozwiązanie na wypadek zakłóceń w ruchu kolejowym.",
-      "link": "https://www.nowiny.pl/wiadomosci/251369-rybnik-z-nowym-rozwiazaniem-dla-pasazerow-kolei-chodzi-o-awarie-i-utrudnienia.html",
-      "published": "2026-10-07T07:33",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "ALERT"
     },
     {
@@ -544,36 +564,6 @@
       "summary": "To nie był udany weekend dla koszykarek i koszykarzy z Rybnika. Te pierwsze, RKMS Xbest Rybnik walczyły na wyjeździe ze Spartą Ziębice.",
       "link": "https://www.radio90.pl/to-nie-byl-udany-weekend-dla-koszykowki-w-rybniku-przegrana-rkms-xbest-rybnik-i-koszykarzy.html",
       "published": "2026-10-04T07:09",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b539a7d77ec5dd9081739331795ac1d5a2cd3795",
-      "title": "Eko Patrol Radia 90 – odcinek 39/2026. Ekoprzedszkolak – pilotażowy program WFOŚiGW",
-      "summary": "Ekologia i kontakt z przyrodą mogą być dla najmłodszych nie tylko tematem lekcji, ale przede wszystkim doświadczeniem. Właśnie temu ma służyć pilotażowy program „Ekoprzedszkolak 2026”, w ramach którego wybrano 75 projektów z województwa śląskiego.",
-      "link": "https://www.radio90.pl/eko-patrol-radia-90-odcinek-39-2026-ekoprzedszkolak-pilotazowy-program-wfosigw.html",
-      "published": "2026-10-04T06:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d8597621dbf0c7b2c3cb434194f4b445a0c86fa2",
-      "title": "Szkoły w Czerwionce-Leszczynach: w dwóch z nich powstaną ekopracownie. Placówkom przyznano na ten cel pieniądze",
-      "summary": "Dwie szkoły w Czerwionce-Leszczynach dostaną po 70 tysięcy złotych na ekopracownie pod chmurką. Pieniądze trafią do Szkoły Podstawowej numer 5 i Szkoły Podstawowej numer 3.",
-      "link": "https://www.radio90.pl/szkoly-w-czerwionce-leszczynach-w-dwoch-z-nich-powstana-ekopracownie-placowkom-przyznano-na-ten-cel-pieniadze.html",
-      "published": "2026-10-03T15:05",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3e76c58e8cf8aef78759d59026a10a44af39fc8a",
-      "title": "Zabytkowa dzwonnica w Rybniku wymaga remontu. Miasto da ponad 67 tys. zł",
-      "summary": "Ponad 67 tysięcy złotych z budżetu Rybnika trafi na remont zabytkowej dzwonnicy kościoła ewangelicko-augsburskiego przy ulicy Miejskiej. Dotacja pokryje całość kosztów zaplanowanych prac.",
-      "link": "https://www.radio90.pl/zabytkowa-dzwonnica-w-rybniku-wymaga-remontu-miasto-da-ponad-67-tys-zl.html",
-      "published": "2026-10-03T14:13",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -957,6 +947,16 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
+    },
+    {
+      "id": "71c68498e94c20bc3aa27f361eaa0e90679eba3e",
+      "title": "Wyłożenie projektu planu miejscowego MPZP 54-66",
+      "summary": "Od 21 września do 19 października 2026 r. można zapoznawać się z wyłożeniem projektu planu miejscowego przy ulicach Maksymiliana Buhla, Majowej, Granicznej, Władysława Broniewskiego, Stefana Żeromskiego i Żużlowej.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/wylozenie-projektu-planu-miejscowego-dla-6-obszarow",
+      "published": "2026-09-21T00:00",
+      "source": "rybnik.eu",
+      "category": "Komunikaty",
+      "priority": "NORMAL"
     },
     {
       "id": "e049a27530751ed922e87b2a0b36be46e89cdc93",
