@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T06:03:34",
+  "generated_at": "2026-10-08T13:29:00",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,7 +7,7 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 133,
+  "count": 134,
   "failures": [],
   "events": [
     {
@@ -328,6 +328,17 @@
       "description": null,
       "sourceName": "biletyna.pl",
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=708991#opis"
+    },
+    {
+      "id": "iryb-wyklad-historyczny-o-ksiedzu-franciszku-blachnickim",
+      "title": "Wykład historyczny o księdzu Franciszku Blachnickim",
+      "category": "Warsztaty",
+      "start": "2026-10-13T17:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Wykład poświęcony historii i dziedzictwu księdza Franciszka Blachnickiego odbędzie się pod hasłem „Był naprawdę dobry”. Spotkanie będzie okazją, by poznać jego historię, a także porozmawiać o jego życiu i dorobku. Prelegentami będą dr Mateusz Sobeczko i mgr Patrycja Tomiczek . Wykład przybliży historię oraz dziedzictwo księdza Franciszka Blachnickiego. Po spotkaniu uczestnicy będą mogli wziąć udział w dyskusji i kupić książkę z autografami autorów. Wykład organizuje Starostwo Powiatowe w Rybniku . Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/wyklad-historyczny-o-ksiedzu-franciszku-blachnickim"
     },
     {
       "id": "tzr-wajda-kilar-slask",
@@ -1007,7 +1018,7 @@
       "start": "2026-11-02T18:00",
       "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Pięcioro artystów, jedna muzyczna opowieść. Wracają do miasta, w którym wszystko się zaczęło. Kwintet fortepianowy Silesian Chamber Ensemble w składzie: Monika Kruk (fortepian), Michał Marcol (skrzypce), Agata Francuz (skrzypce), Anna Wałek (altówka) i Jacek Francuz (wiolonczela) spotka się w muzycznej przestrzeni, w której tradycja spotyka się z indywidualnością, a doświadczenie z żywiołem wspólnego muzykowania. W centrum ich zainteresowania jest muzyka kameralna: sztuka dialogu, słuchania i wzajemnego inspirowania się. Ich drogi prowadziły przez różne sceny i ośrodki muzyczne w Polsce i za granicą, ale wspólnym punktem pozostaje Rybnik. To tu stawiali pierwsze muzyczne kroki. Ten koncert jest powrotem do źródeł artystycznej wrażliwości. W programie: ▪️ Mieczysław Weinberg – Trio smyczkowe op. 48 (1950) ▪️ Andrzej Panufnik – Trio fortepianowe op. 1 (1934) ▪️ Szymon Laks – Kwintet fortepianowy (1967) Koncert odbywa się w ramach 14. Festiwalu Muzycznego im. H. M. Góreckiego „U źródeł sławy\". Partnerzy: Teatr Ziemi Rybnickiej, Towarzystwo Muzyczne im. Braci Szafranków,",
+      "description": "Pięcioro artystów, jedna muzyczna opowieść. Wracają do miasta, w którym wszystko się zaczęło. Kwintet fortepianowy Silesian Chamber Ensemble w składzie: Monika Kruk (fortepian), Michał Marcol (skrzypce), Agata Francuz (skrzypce), Anna Wałek (altówka) i Jacek Francuz (wiolonczela) spotka się w muzycznej przestrzeni, w której tradycja spotyka się z indywidualnością, a doświadczenie z żywiołem wspólnego muzykowania. W centrum ich zainteresowania jest muzyka kameralna: sztuka dialogu, słuchania i wzajemnego inspirowania się. Ich drogi prowadziły przez różne sceny i ośrodki muzyczne w Polsce i za granicą, ale wspólnym punktem pozostaje Rybnik. To tu stawiali pierwsze muzyczne kroki. Ten koncert jest powrotem do źródeł artystycznej wrażliwości. W programie: ▪️ Mieczysław Weinberg – Trio smyczkowe op. 48 (1950) ▪️ Andrzej Panufnik – Trio fortepianowe op. 1 (1934) ▪️ Szymon Laks – Kwintet fortepianowy (1967)",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/koncert-kameralny-silesian-chamber-ensemble.html"
     },
