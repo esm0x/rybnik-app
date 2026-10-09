@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:23:10",
+  "generated_at": "2026-10-09T06:11:09",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,46 @@
     }
   ],
   "items": [
+    {
+      "id": "2122ba45109e4043ddfafae1f5ec4cc6cab159d9",
+      "title": "Górnośląska Nagroda Literacka Juliusz. Czas na galę",
+      "summary": "W najbliższą sobotę, 10 października gala Górnośląskiej Nagrody Literackiej Juliusz - jedynej w Polsce nagrody za biografię powstałą w języku polskim w minionym roku. Uroczystość w Domu Kultury w Rybniku-Chwałowicach. Wciąż jeszcze dostępne są bezpłatne wejściówki na to wydarzenie.",
+      "link": "https://www.radio90.pl/gornoslaska-nagroda-literacka-juliusz-czas-na-gale.html",
+      "published": "2026-10-09T05:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6eed03893b7ed8e4e28e54b7692a0c5fa9e9152d",
+      "title": "Na razie asfaltu nie będzie. Gmina uznała drogę w Rudach za niepilną",
+      "summary": "Z Rud płyną kolejne sygnały w sprawie drogi na odcinku ul. Przerycie - ul. Powstańców. Po otrzymaniu odpowiedzi gminy na petycję, pod którą podpisały się 133 osoby, do redakcji wrócił temat stanu nawierzchni. Chodzi o drogę w części sołectwa Rudy. Po opadach deszczu nadal tworzą się na niej kałuże…",
+      "link": "https://www.nowiny.pl/wiadomosci/251401-na-razie-asfaltu-nie-bedzie-gmina-uznala-droge-w-rudach-za-niepilna.html",
+      "published": "2026-10-09T05:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0af9c6ecbb9abd9a17071b375c139177efc4c55a",
+      "title": "Aneta Gajos pokaże obrazy, saksofonista znany z Lao Che zagra filmowe melodie. Wszystko w Łukowie Śląskim",
+      "summary": "Polska muzyka filmowa w nowych aranżacjach na saksofon i fortepian zabrzmi w niedzielę, 11 października, w Dworze w Łukowie Śląskim. Koncert poprzedzi otwarcie wystawy Anety Gajos.",
+      "link": "https://www.nowiny.pl/wiadomosci/251409-aneta-gajos-pokaze-obrazy-saksofonista-znany-z-lao-che-zagra-filmowe-melodie-wszystko-w-lukowie-slaskim.html",
+      "published": "2026-10-09T05:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a03b917a9c24eccd49d951a4a63d1d38236fbad8",
+      "title": "Program „Rehabilitacja 25 plus” w Wodzisławiu Śląskim: kontynuacja terapii i integracji społecznej",
+      "summary": "1 września 2026 roku w Zespole Placówek Szkolno-Wychowawczo-Rewalidacyjnych w Wodzisławiu Śląskim wystartowała dziewiąta edycja programu „Rehabilitacja 25 plus”. Dzięki finansowaniu ze środków PFRON, 34 absolwentów szkół przysposabiających do pracy z Powiatu Wodzisławskiego ma możliwość…",
+      "link": "https://www.radio90.pl/program-rehabilitacja-25-plus-w-wodzislawiu-slaskim-kontynuacja-terapii-i-integracji-spolecznej.html",
+      "published": "2026-10-08T22:01",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "e4816f116719b1c07774715c56dea91d22b968f1",
       "title": "Koniec odcinkowego pomiaru prędkości na trasie Rybnik-Gliwice. Kamery znikną z Wilczy",
@@ -179,26 +219,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "674f76d2fabb53548c68eba80e9a940f41eea2cb",
-      "title": "Tworzą z pasją, teraz pokażą swoje prace. Zlot Rzemieślników w Pietrowicach Wielkich [ZAPOWIEDŹ]",
-      "summary": "18 października w Stacji Kultura w Pietrowicach Wielkich odbędzie się Zlot Rzemieślników, organizowany cyklicznie przez miejscową instytucję kultury.",
-      "link": "https://www.nowiny.pl/wiadomosci/251400-tworza-z-pasja-teraz-pokaza-swoje-prace-zlot-rzemieslnikow-w-pietrowicach-wielkich-zapowiedz.html",
-      "published": "2026-10-08T09:32",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e08bfada4187bbf886b46b40e345c40b5d7fb076",
-      "title": "Czy 65-metrowy maszt telefonii komórkowej stanie w pobliżu domów w Ligocie Książęcej? Gmina: liczy się zgodność z przepisami",
-      "summary": "Inwestycja podzieliła mieszkańców niewielkiej wsi w gminie Rudnik, liczącej około 140 osób. W trakcie postępowania do urzędu napływały uwagi, a sama gmina zwróciła się do inwestora o ponowne przeanalizowanie lokalizacji 65-metrowego masztu. Ostatecznie jednak 31 lipca wydała decyzję o ustaleniu…",
-      "link": "https://www.nowiny.pl/wiadomosci/251399-czy-65-metrowy-maszt-telefonii-komorkowej-stanie-w-poblizu-domow-w-ligocie-ksiazecej-gmina-liczy-sie-zgodnosc-z-przepisami.html",
-      "published": "2026-10-08T08:26",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "78d81323aaafd61da994b7de17276a4c827a673b",
       "title": "W Rybniku powstaje film Byzuch 3. To historia po śląsku i z przymrużeniem oka",
       "summary": "Radio 90 na planie filmu „Byzuch 3: Nazod”. W Rybniku na kampusie kręcono zdjęcia do sceny konferencji prasowej filmowego burmistrza.",
@@ -236,16 +256,6 @@
       "published": "2026-10-08T00:00",
       "source": "rybnik.eu",
       "category": "Bezpieczeństwo",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a03b917a9c24eccd49d951a4a63d1d38236fbad8",
-      "title": "Program „Rehabilitacja 25 plus” w Wodzisławiu Śląskim: kontynuacja terapii i integracji społecznej",
-      "summary": "1 września 2026 roku w Zespole Placówek Szkolno-Wychowawczo-Rewalidacyjnych w Wodzisławiu Śląskim wystartowała dziewiąta edycja programu „Rehabilitacja 25 plus”. Dzięki finansowaniu ze środków PFRON, 34 absolwentów szkół przysposabiających do pracy z Powiatu Wodzisławskiego ma możliwość…",
-      "link": "https://www.radio90.pl/program-rehabilitacja-25-plus-w-wodzislawiu-slaskim-kontynuacja-terapii-i-integracji-spolecznej.html",
-      "published": "2026-10-07T22:01",
-      "source": "Radio 90",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -534,16 +544,6 @@
       "summary": "Prace zbrojarskie już wykonano. Podobnie, jak betonowanie jego części nośnej. W Leszczynach, tuż przy granicy z Rybnikiem-Kamieniem trwają prace związane z budową nowego wiaduktu nad przebiegającą tam linią kolejową. W rybnickim Starostwie Powiatowym, które jest zleceniodawcą robót, informują, że…",
       "link": "https://www.radio90.pl/remont-wiaduktu-w-leszczynach-zamontowano-30-metrowe-belki-pod-podpory-zakonczono-kolejny-etap-robot-zdjecia.html",
       "published": "2026-10-05T08:50",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "65ec9bca281953be02d4c0c0c85f535f60e615bc",
-      "title": "TS Volley Rybnik i KS Jastrzębie-Borynia z wyjazdowymi wygranymi w II lidze siatkówki. Rybniczanie nie stracili seta",
-      "summary": "Drugi mecz i druga wygrana siatkarzy Volleya Rybnik. Tym razem na wyjeździe pokonali UMKS Kęczanin Kęty 3:0. Tylko pierwszy set sobotniego (03.10) spotkania był wyrównany, Rybniczanie wygrali go ostatecznie 25:21.",
-      "link": "https://www.radio90.pl/ts-volley-rybnik-i-ks-jastrzebie-borynia-z-wyjazdowymi-wygranymi-w-ii-lidze-siatkowki-rybniczanie-nie-stracili-seta.html",
-      "published": "2026-10-05T08:05",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
