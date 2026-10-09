@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:18:31",
+  "generated_at": "2026-10-09T22:40:23",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,56 @@
     }
   ],
   "items": [
+    {
+      "id": "15e4a6d1ef8105c80253252ac24c5c064660ed6e",
+      "title": "Prezent dla kobiety – sprawdzone i mniej oczywiste pomysły na różne okazje",
+      "summary": "Wiele kobiet uwielbia dostawać prezenty, bez względu na to, czy są to drobne upominki, czy duże przyjemności związane z okazjami takimi jak urodziny, rocznica, święta czy Dzień Kobiet. Każde podejście wymaga innego spojrzenia na pasje oraz potrzeby osoby obdarowywanej. Sprawdź nasze propozycje.",
+      "link": "https://www.radio90.pl/prezent-dla-kobiety-sprawdzone-i-mniej-oczywiste-pomysly-na-rozne-okazje.html",
+      "published": "2026-10-09T22:01",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4bd62c301df3e85590020ff9eea926da7a6400fd",
+      "title": "Nocna prohibicja w całej Polsce. Jak głosowali posłowie z regionu?",
+      "summary": "Sejm przyjął ustawę zaostrzającą przepisy dotyczące sprzedaży i promocji alkoholu. Za nowymi regulacjami zagłosowało 400 posłów, przeciw było 29, a czterech wstrzymało się od głosu. Wśród przeciwników zmian są politycy z naszego regionu. Tymczasem w Rybniku już wcześniej rozpoczęto dyskusję o…",
+      "link": "https://www.nowiny.pl/wiadomosci/251435-nocna-prohibicja-w-calej-polsce-jak-glosowali-poslowie-z-regionu.html",
+      "published": "2026-10-09T18:10",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9dc9cb03ceb9f271b9edc3a65776d5468a34b418",
+      "title": "Jutro mobilna zbiórka odpadów w Rybniku. Odbędzie się w trzech dzielnicach miasta. W których?",
+      "summary": "Popielów, Niedobczyce i Maroko-Nowiny. Kolejne dzielnice Rybnika, a w nich mobilne punkty odbioru odpadów. Zbiórki odbywać się będą jutro, w sobotę (10.10).",
+      "link": "https://www.radio90.pl/jutro-mobilna-zbiorka-odpadow-w-rybniku-odbedzie-sie-w-trzech-dzielnicach-miasta-w-ktorych.html",
+      "published": "2026-10-09T15:20",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "487e7377860f82b78a6e133668fb38ed553269a9",
+      "title": "Dzieje się w Rybniku: Dwurnik, Juliusz, Vinyl Swap i zaproszenie do muzeum",
+      "summary": "Giełda winyli, jarmark staroci, a także ciekawa wystawa w Galerii Sztuki Rzeczna. Jak zwykle sporo dzieje się w Rybniku w najbliższy weekend. Którą propozycję wybieracie?",
+      "link": "https://www.radio90.pl/dzieje-sie-w-rybniku-7.html",
+      "published": "2026-10-09T14:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "60aad9834cf7dd31e3794b9024c6931daadf20b6",
+      "title": "Politechnika Śląska w Rybniku zainaugurowała kolejny rok akademicki",
+      "summary": "Brak konieczności wynajmowania mieszkania, bliski dojazd i dobry kierunek. To coraz częściej decyduje o tym, że młodzi ludzie wybierają małe ośrodki.",
+      "link": "https://www.radio90.pl/politechnika-slaska-w-rybniku-zainaugurowala-kolejny-rok-akademicki.html",
+      "published": "2026-10-09T13:30",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "7a6c944721c1d3c3dd52cc199bb7a075e3e2308e",
       "title": "Awaria pociągu w Czerwionce-Leszczynach. Na miejsce wezwano strażaków, którzy pomogli podróżnym opuścić pociąg",
@@ -69,10 +119,10 @@
       "priority": "NORMAL"
     },
     {
-      "id": "e12813485395b9b3551485dd9f4c5c9c3eb4d088",
-      "title": "Biznes zjechał do Wodzisławia. 140 przedsiębiorców na Local Networkers [ZDJĘCIA]",
+      "id": "dbdc4c0cab65f39292eb3f4bd6778fd4384160a0",
+      "title": "Biznes zjechał do Wodzisławia. 140 przedsiębiorców na Local Networkers [ZDJĘCIA, VIDEO]",
       "summary": "Druga edycja wydarzenia Local Networkers in Wodzisław Śląski okazała się ogromnym sukcesem frekwencyjnym. Do sali konferencyjnej Hotelu Jordaszka przybyło 140 przedstawicieli firm i instytucji z regionu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251426-biznes-zjechal-do-wodzislawia-140-przedsiebiorcow-na-local-networkers-zdjecia.html",
+      "link": "https://www.nowiny.pl/wiadomosci/251426-biznes-zjechal-do-wodzislawia-140-przedsiebiorcow-na-local-networkers-zdjecia-video.html",
       "published": "2026-10-09T10:31",
       "source": "nowiny.pl",
       "category": "Region",
@@ -179,6 +229,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "8fadb631f866f0d62035c423bdf1d7ef43ad60f9",
+      "title": "\"Derby Południa\" wracają na najniższy szczebel. GKS 62 Jastrzębie podejmnie WTS Odrę Wodzisław",
+      "summary": "To będzie spotkanie z gatunku tych, w których ligowa tabela nie mówi całej prawdy. GKS 62 Jastrzębie kontra WTS Odra Wodzisław – dwa kluby z regionu, których historia przez lata była związana z zupełnie innym poziomem futbolu, ponownie staną naprzeciw siebie. Tym razem areną ich rywalizacji będzie…",
+      "link": "https://jastrzebieonline.pl/sport/251319-derby-poludnia-wracaja-na-najnizszy-szczebel-gks-62-jastrzebie-podejmnie-wts-odre-wodzislaw.html",
+      "published": "2026-10-09T07:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
       "id": "2122ba45109e4043ddfafae1f5ec4cc6cab159d9",
       "title": "Górnośląska Nagroda Literacka Juliusz. Czas na galę",
       "summary": "W najbliższą sobotę, 10 października gala Górnośląskiej Nagrody Literackiej Juliusz - jedynej w Polsce nagrody za biografię powstałą w języku polskim w minionym roku. Uroczystość w Domu Kultury w Rybniku-Chwałowicach. Wciąż jeszcze dostępne są bezpłatne wejściówki na to wydarzenie.",
@@ -189,11 +249,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "32814d42df7bf60d233707be7c71a751f16696b2",
-      "title": "Droga w Rudach nadal bez asfaltu. Gmina ma inne priorytety",
-      "summary": "Z Rud płyną kolejne sygnały w sprawie drogi na odcinku ul. Przerycie - ul. Powstańców. Po otrzymaniu odpowiedzi gminy na petycję, pod którą podpisały się 133 osoby, do redakcji wrócił temat stanu nawierzchni. Chodzi o drogę w części sołectwa Rudy. Po opadach deszczu nadal tworzą się na niej kałuże…",
-      "link": "https://www.nowiny.pl/wiadomosci/251401-droga-w-rudach-nadal-bez-asfaltu-gmina-ma-inne-priorytety.html",
-      "published": "2026-10-09T05:00",
+      "id": "c56401c8a0d4b4b64038938bb6962f362caf9507",
+      "title": "Podatek od blaszaka. Kiedy garaż blaszany staje się budynkiem i co ma do tego podłoże",
+      "summary": "Od 2025 roku o tym, czy od garażu blaszanego trzeba płacić podatek od nieruchomości, przesądza sposób jego posadowienia. Fundament i kotwy mogą sprawić, że w świetle przepisów “blaszak” stanie się budynkiem. Wyjaśniamy, jak czytać nowe definicje po pierwszym wyroku sądu i interpretacji ministra…",
+      "link": "https://www.nowiny.pl/wiadomosci/251434-podatek-od-blaszaka-kiedy-garaz-blaszany-staje-sie-budynkiem-i-co-ma-do-tego-podloze.html",
+      "published": "2026-10-09T05:30",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -226,26 +286,6 @@
       "published": "2026-10-08T22:01",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e4816f116719b1c07774715c56dea91d22b968f1",
-      "title": "Koniec odcinkowego pomiaru prędkości na trasie Rybnik-Gliwice. Kamery znikną z Wilczy",
-      "summary": "Odcinkowy pomiar prędkości między Wilczą a Nieborowicami zostanie zdemontowany. Decyzja zapadła w momencie, gdy temat bezpieczeństwa na tej trasie ponownie wrócił z dużą siłą. 6 października w Wilczy zginął 44-letni kierowca. To nie pierwszy śmiertelny wypadek w tym miejscu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251413-koniec-odcinkowego-pomiaru-predkosci-na-trasie-rybnik-gliwice-kamery-znikna-z-wilczy.html",
-      "published": "2026-10-08T21:39",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b8229f59e0401ea6984136d0f71ca827169f8237",
-      "title": "Zmarło dwoje nauczycieli raciborskiego Mechanika - Teresa Kowalska i Zygmunt Młynarczyk",
-      "summary": "Teresa Kowalska przez 30 lat była zatrudniona w „Mechaniku” i uczyła tu języka angielskiego. Zygmunt Młynarczyk to były wicedyrektor szkoły i nauczyciel przedmiotów zawodowych.",
-      "link": "https://www.nowiny.pl/wiadomosci/251412-zmarlo-dwoje-nauczycieli-raciborskiego-mechanika-teresa-kowalska-i-zygmunt-mlynarczyk.html",
-      "published": "2026-10-08T20:59",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -509,16 +549,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "d633d8293b2993807b94397e054ed9d5a559629a",
-      "title": "Szukają nowego domu dla psiaków z rybnickiego schroniska. W niedzielę akcja „Poznaj schroniaka na wybiegu Górka dla Burka”",
-      "summary": "Chodzi o to, by zobaczyć psy poza schroniskiem. Co miesiąc rybnickie psiaki do adopcji można spotkać na wybiegu przy osiedlu Nowiny w Rybniku. W te niedzielę (11.10) akcja od 10.00 do 11.30.",
-      "link": "https://www.radio90.pl/szukaja-nowego-domu-dla-psiakow-z-rybnickiego-schroniska-w-niedziele-akcja-poznaj-schroniaka-na-wybiegu-gorka-dla-burka.html",
-      "published": "2026-10-06T04:45",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "fda43df4da431377fb51814c1be47dc28535167e",
       "title": "Wrzesień w Urban Lab Rybnik: Gorące dyskusje, rozwój biznesu i decyzje o przyszłości miasta!",
       "summary": "Wrzesień w Urban Labie udowodnił, jak różnorodne jest nasze miasto i jak zaangażowaną posiada społeczność. Za nami miesiąc pełen ważnych debat, warsztatów i spotkań. Zobaczcie, co się działo w minionych tygodniach.",
@@ -526,36 +556,6 @@
       "published": "2026-10-06T00:00",
       "source": "rybnik.eu",
       "category": "Urban Lab",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "263f49f1b27dc092f84f31f2d88ce7beaea5f217",
-      "title": "Egzotyka w zabytkowych wnętrzach. W weekend kolejna Wystawa Ptaków Egzotycznych w Zabytkowej Kopalni Ignacy",
-      "summary": "XVI Wystawa Ptaków Egzotycznych w Zabytkowej Kopalni Ignacy w Rybniku. W ten weekend (10-11.10) w industrialnych wnętrzach kolorowe upierzenie, śpiew i pasja hodowców.",
-      "link": "https://www.radio90.pl/egzotyka-w-zabytkowych-wnetrzach-w-weekend-kolejna-wystawa-ptakow-egzotycznych-w-zabytkowej-kopalni-ignacy.html",
-      "published": "2026-10-05T16:30",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "155ea204b8fd354487c12770b0e99aeecdcb256e",
-      "title": "Wybiorą najpiękniejszy dyniowy lampion. Jego twórcę hojnie nagrodzą. Odbędzie się kolejny Festiwal Dyni w Kamieniu [PATRONAT]",
-      "summary": "Festiwal Dyni w Rybniku-Kamieniu, po raz 11. odbędzie się jesienne święto przygotowane przez Radę Dzielnicy. Głównym punktem będzie przyznanie nagród w konkursie na najpiękniejszy dyniowy lampion.",
-      "link": "https://www.radio90.pl/wybiora-najpiekniejszy-dyniowy-lampion-jego-tworce-hojnie-nagrodza-odbedzie-sie-kolejny-festiwal-dyni-w-kamieniu.html",
-      "published": "2026-10-05T14:50",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c30554d1e2341ebbaffb375b3ec11c8ba97ba211",
-      "title": "Budowa biogazowni w Rybniku. Podpisano umowę z inwestorem zastępczym. Została nim firma z Częstochowy",
-      "summary": "Firma z Częstochowy będzie nadzorować budowę biogazowni w Rybniku. Centrum Zielonej Energii (CZE) podpisało umowę z Wielobranżowym Przedsiębiorstwem Inwestycyjnym Wudimeks, które będzie inwestorem zastępczym.",
-      "link": "https://www.radio90.pl/budowa-biogazowni-w-rybniku-podpisano-umowe-z-inwestorem-zastepczym-zostala-nim-firma-z-czestochowy.html",
-      "published": "2026-10-05T13:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {

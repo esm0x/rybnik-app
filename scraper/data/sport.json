@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:18:39",
+  "generated_at": "2026-10-09T22:41:57",
   "count": 60,
   "failures": [],
   "teams": [
@@ -623,7 +623,7 @@
       "teamId": "row-kobiety",
       "competition": "Kolejka 8",
       "date": "2026-10-17",
-      "time": null,
+      "time": "13:00",
       "home": "ROW Rybnik (k)",
       "away": "Wisła Skoczów (k)",
       "isHome": true,
