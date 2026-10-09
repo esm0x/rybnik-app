@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T06:11:09",
+  "generated_at": "2026-10-09T13:18:31",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,176 @@
     }
   ],
   "items": [
+    {
+      "id": "7a6c944721c1d3c3dd52cc199bb7a075e3e2308e",
+      "title": "Awaria pociągu w Czerwionce-Leszczynach. Na miejsce wezwano strażaków, którzy pomogli podróżnym opuścić pociąg",
+      "summary": "Na szlaku kolejowym w Czerwionce-Leszczynach zepsuł się pociąg. O tym, że na miejsce zostali wezwani strażacy i mieli ewakuować podróżnych poinformował Radio 90, nasz słuchacz.",
+      "link": "https://www.radio90.pl/awaria-pociagu-w-czerwionce-leszczynach-na-miejsce-wezwano-strazakow-ktorzy-pomogli-podroznym-opuscic-pociag.html",
+      "published": "2026-10-09T13:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "7c84fd9004c3d3a68ca2d9088c552df2109b3870",
+      "title": "Parking wielopoziomowy w Rybniku w remoncie, szykują się zmiany dla parkujących",
+      "summary": "Uwaga kierowcy ! Od najbliższego poniedziałku, 12 października, z użytkowania wyłączone będzie najwyższe piętro na parkingu wielopoziomowym przy ulicy Hallera w Rybniku.",
+      "link": "https://www.radio90.pl/parking-wielopoziomowy-w-rybniku-w-remoncie-szykuja-sie-zmiany-dla-parkujacych.html",
+      "published": "2026-10-09T12:29",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c3d67c61e59afd1df186e7cca1e6af2d3348b3f2",
+      "title": "Janetomat już w Raciborzu. Domowa garmażerka dostępna przez całą dobę",
+      "summary": "W Raciborzu pojawił się Janetomat – automat z domową garmażerką, z którego można korzystać 24 godziny na dobę, 7 dni w tygodniu. To wygodne rozwiązanie dla osób, które mają ochotę na gotowe, domowe jedzenie bez konieczności czekania na otwarcie sklepu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251414-janetomat-juz-w-raciborzu-domowa-garmazerka-dostepna-przez-cala-dobe.html",
+      "published": "2026-10-09T12:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "099c17e94e1088afc9ea0fdb93e8659d98173439",
+      "title": "Młynek z kryształkami ukryty w bieliźnie. Tak zakończyła się kontrola w Żorach",
+      "summary": "Nocna kontrola samochodu na ul. Orlej w Żorach zakończyła się zatrzymaniem trzech mężczyzn. Jeden z nich próbował też ukryć w bieliźnie młynek z substancją w postaci kryształków.",
+      "link": "https://ezory.pl/wiadomosci/251429-mlynek-z-krysztalkami-ukryty-w-bieliznie-tak-zakonczyla-sie-kontrola-w-zorach.html",
+      "published": "2026-10-09T11:35",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b625ae0a93689e7180aec050fb537639fe1ca927",
+      "title": "Ktoś przywiązał małego psa do drzewa w Rybniku. Znalazł go spacerowicz",
+      "summary": "Mały pies rasy shih tzu był przywiązany do drzewa w lesie przy ul. Rajskiej w Rybniku. Zwierzę zauważył przypadkowy spacerowicz, który zawiadomił policję. Na miejsce przyjechali dzielnicowi ze Świerklan.",
+      "link": "https://www.nowiny.pl/wiadomosci/251428-ktos-przywiazal-malego-psa-do-drzewa-w-rybniku-znalazl-go-spacerowicz.html",
+      "published": "2026-10-09T11:21",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e474e7becc0f5bc3486c4e3b41e2b2c13ff3dbca",
+      "title": "Więcej policji w pobliżu szkół. Patrole także w naszym regionie",
+      "summary": "Policjanci zwracają szczególną uwagę na bezpieczeństwo w pobliżu szkół. Patrole można zobaczyć m.in. w Raciborzu i Wodzisławiu Śląskim. To reakcja na ostatnie wydarzenia w placówkach oświatowych w kraju. Śląska policja apeluje o spokój i nierozpowszechnianie niesprawdzonych informacji.",
+      "link": "https://www.nowiny.pl/wiadomosci/251427-wiecej-policji-w-poblizu-szkol-patrole-takze-w-naszym-regionie.html",
+      "published": "2026-10-09T11:14",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e12813485395b9b3551485dd9f4c5c9c3eb4d088",
+      "title": "Biznes zjechał do Wodzisławia. 140 przedsiębiorców na Local Networkers [ZDJĘCIA]",
+      "summary": "Druga edycja wydarzenia Local Networkers in Wodzisław Śląski okazała się ogromnym sukcesem frekwencyjnym. Do sali konferencyjnej Hotelu Jordaszka przybyło 140 przedstawicieli firm i instytucji z regionu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251426-biznes-zjechal-do-wodzislawia-140-przedsiebiorcow-na-local-networkers-zdjecia.html",
+      "published": "2026-10-09T10:31",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "fcc89705462ad876c45947b5140a14a9cd559412",
+      "title": "„Dziady” z dreszczykiem. Narodowe Czytanie w Kobyli [ZDJĘCIA]",
+      "summary": "Uczniowie klasy VIII Zespołu Szkolno-Przedszkolnego w Kobyli (gm. Kornowac) zaprezentowali fragmenty „Dziadów” cz. II Adama Mickiewicza. Tegoroczna odsłona Narodowego Czytania, która odbyła się 8 października, nawiązywała do mrocznego klimatu romantycznego dramatu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251425-dziady-z-dreszczykiem-narodowe-czytanie-w-kobyli-zdjecia.html",
+      "published": "2026-10-09T10:15",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6f513a80f6390fcae422ca0dbc7c4d89390d0cd5",
+      "title": "Prof. Julian Gembalski na finał „Muzyki w starym opactwie”",
+      "summary": "W niedzielę, 18 października, w bazylice Matki Bożej Pokornej w Rudach odbędzie się ostatni w tym roku koncert festiwalu „Muzyka w starym opactwie”. Wystąpią prof. Julian Gembalski oraz zespół wokalny Vox Amici pod kierownictwem Krzysztofa Hrycyszyna.",
+      "link": "https://www.nowiny.pl/wiadomosci/251424-prof-julian-gembalski-na-final-muzyki-w-starym-opactwie.html",
+      "published": "2026-10-09T10:08",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "286423663047e7ca825d5a095abc720ea722ebba",
+      "title": "Trudna sytuacja w szkołach. Jak poradzić sobie ze stresem i pomóc dziecku?",
+      "summary": "Ataki nożowników w szkołach, seria policyjnych zatrzymań nastolatków w Warszawie i okolicach, do tego policyjne patrole w naszych szkołach. To wszystko powoduje stres i u rodziców, i u dzieci. Jak poradzić sobie z tą sytuacją?",
+      "link": "https://www.radio90.pl/trudna-sytuacja-w-szkolach-jak-poradzic-sobie-ze-stresem-i-pomoc-dziecku.html",
+      "published": "2026-10-09T10:00",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "05fae139843ae154c6e0a567d4828601a6ee9914",
+      "title": "Praca w domu pomocy społecznej \"Złota Jesień\" w Raciborzu",
+      "summary": "Dom Pomocy Społecznej „Złota Jesień” w Raciborzu zatrudni osobę na stanowisko GŁÓWNY KSIĘGOWY / GŁÓWNA KSIĘGOWA Oferujemy pracę na pełny etat, termin rozpoczęcia pracy od dnia 01.12.2026 r.",
+      "link": "https://www.nowiny.pl/wiadomosci/251418-praca-w-domu-pomocy-spolecznej-zlota-jesien-w-raciborzu.html",
+      "published": "2026-10-09T09:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "cdb92f777ae2421db46e69d01ea7692e2038a1bd",
+      "title": "Przyszła jesień, z drzew spadły liście. Zarząd Zieleni Miejskiej w Rybniku także je sprząta, ale nie wszędzie",
+      "summary": "Symbol jesieni - liść. Dla jednych radość, dla drugich problem. Ze spadających z drzew liści cieszą się najmłodsi, ale już starsi niekoniecznie.",
+      "link": "https://www.radio90.pl/przyszla-jesien-z-drzew-spadly-liscie-zarzad-zieleni-miejskiej-w-rybniku-takze-je-sprzata-ale-nie-wszedzie.html",
+      "published": "2026-10-09T08:15",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4a454c92420e65cc07e1f5d7130badd54d3037fb",
+      "title": "80 mln zł na rozwój lokalnej energetyki. NFOŚiGW zapowiada nowy program",
+      "summary": "Jeszcze w 2026 roku ma ruszyć program z budżetem 80 mln zł, który wesprze rozwój lokalnych społeczności energetycznych. Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej chce zachęcić samorządy, mieszkańców i przedsiębiorców do wspólnego wytwarzania i wykorzystywania energii.",
+      "link": "https://www.nowiny.pl/ekonowiny/251421-80-mln-zl-na-rozwoj-lokalnej-energetyki-nfosigw-zapowiada-nowy-program.html",
+      "published": "2026-10-09T08:15",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "07488803948c55914491e3825d8f79a08e5da778",
+      "title": "RCK świętuje 25-lecie. Są jeszcze darmowe wejściówki na jubileuszowy koncert",
+      "summary": "Raciborskie Centrum Kultury obchodzi 25-lecie działalności. Z tej okazji w niedzielę, 11 października, odbędzie się koncert Kwintetu Śląskich Kameralistów. Na wydarzenie można jeszcze odebrać bezpłatne wejściówki.",
+      "link": "https://www.nowiny.pl/wiadomosci/251420-rck-swietuje-25-lecie-sa-jeszcze-darmowe-wejsciowki-na-jubileuszowy-koncert.html",
+      "published": "2026-10-09T08:05",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a92aed07ec5871dcc28f084951f77151e35361d6",
+      "title": "Kto widział upadek trzylatka w Rydułtowach? Policja apeluje do mieszkańców",
+      "summary": "Policja apeluje do świadków wypadku trzyletniego chłopca, który wypadł z okna mieszkania na czwartym piętrze bloku w Rydułtowach. Funkcjonariusze proszą o kontakt także osoby, które mają informacje mogące pomóc w wyjaśnieniu zdarzenia.",
+      "link": "https://www.nowiny.pl/wiadomosci/251417-kto-widzial-upadek-trzylatka-w-rydultowach-policja-apeluje-do-mieszkancow.html",
+      "published": "2026-10-09T07:44",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c0e1a3bdaeefb8589180cf7fc5aec62d0f7be209",
+      "title": "Atak nożownika w szpitalu w Jastrzębiu-Zdroju. Areszt przedłużony, konieczna obserwacja psychiatryczna",
+      "summary": "Damian B., podejrzany o usiłowanie zabójstwa czterech osób w jastrzębskim szpitalu, pozostaje w areszcie. Prokuratura uzyskała opinię dotyczącą jego stanu psychicznego. Konieczna będzie obserwacja sądowo-psychiatryczna.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251415-atak-nozownika-w-szpitalu-w-jastrzebiu-zdroju-areszt-przedluzony-konieczna-obserwacja-psychiatryczna.html",
+      "published": "2026-10-09T07:29",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0b00294f1b8e90cab80b1533c148578cb937ebe0",
+      "title": "Apel policji o zachowanie spokoju. „Nie panikujmy, nie powielajmy niesprawdzonych informacji”",
+      "summary": "Nie ma potwierdzonych informacji o internetowym challenge’u w szkołach, nie ma informacji o atakach na terenie regionu, są za to apele o zachowanie spokoju.",
+      "link": "https://www.radio90.pl/apel-policji-o-zachowanie-spokoju-nie-panikujmy-nie-powielajmy-niesprawdzonych-informacji.html",
+      "published": "2026-10-09T07:15",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "2122ba45109e4043ddfafae1f5ec4cc6cab159d9",
       "title": "Górnośląska Nagroda Literacka Juliusz. Czas na galę",
@@ -19,23 +189,33 @@
       "priority": "NORMAL"
     },
     {
-      "id": "6eed03893b7ed8e4e28e54b7692a0c5fa9e9152d",
-      "title": "Na razie asfaltu nie będzie. Gmina uznała drogę w Rudach za niepilną",
+      "id": "32814d42df7bf60d233707be7c71a751f16696b2",
+      "title": "Droga w Rudach nadal bez asfaltu. Gmina ma inne priorytety",
       "summary": "Z Rud płyną kolejne sygnały w sprawie drogi na odcinku ul. Przerycie - ul. Powstańców. Po otrzymaniu odpowiedzi gminy na petycję, pod którą podpisały się 133 osoby, do redakcji wrócił temat stanu nawierzchni. Chodzi o drogę w części sołectwa Rudy. Po opadach deszczu nadal tworzą się na niej kałuże…",
-      "link": "https://www.nowiny.pl/wiadomosci/251401-na-razie-asfaltu-nie-bedzie-gmina-uznala-droge-w-rudach-za-niepilna.html",
+      "link": "https://www.nowiny.pl/wiadomosci/251401-droga-w-rudach-nadal-bez-asfaltu-gmina-ma-inne-priorytety.html",
       "published": "2026-10-09T05:00",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
     },
     {
-      "id": "0af9c6ecbb9abd9a17071b375c139177efc4c55a",
-      "title": "Aneta Gajos pokaże obrazy, saksofonista znany z Lao Che zagra filmowe melodie. Wszystko w Łukowie Śląskim",
-      "summary": "Polska muzyka filmowa w nowych aranżacjach na saksofon i fortepian zabrzmi w niedzielę, 11 października, w Dworze w Łukowie Śląskim. Koncert poprzedzi otwarcie wystawy Anety Gajos.",
-      "link": "https://www.nowiny.pl/wiadomosci/251409-aneta-gajos-pokaze-obrazy-saksofonista-znany-z-lao-che-zagra-filmowe-melodie-wszystko-w-lukowie-slaskim.html",
-      "published": "2026-10-09T05:00",
-      "source": "nowiny.pl",
-      "category": "Region",
+      "id": "a8c2462c12befdcded255e3bcb6283ff634a87e1",
+      "title": "Pomoc dla osób w kryzysie bezdomności w sezonie jesienno-zimowym",
+      "summary": "Wraz ze spadkiem temperatur służby w Rybniku docierają do osób przebywających w nieogrzewanych i niebezpiecznych miejscach. Działania te mają na celu zapewnienie każdemu potrzebującemu bezpiecznego schronienia i posiłku.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/pomoc-dla-osob-w-kryzysie-bezdomnosci-w-sezonie-jesienno-zimowym",
+      "published": "2026-10-09T00:00",
+      "source": "rybnik.eu",
+      "category": "Zdrowie",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "59961a4ec010fae4f90c4fc8c54f99c3cda7fa0d",
+      "title": "Planujesz oddać odpady niebezpieczne? Sprawdź nowe ograniczenia i harmonogram",
+      "summary": "W związku z przerwą techniczną i limitami magazynowymi punkt przy ul. Jankowickiej czasowo ogranicza odbiór wybranych odpadów, takich jak rozpuszczalniki czy środki ochrony roślin. Aby wygodnie przekazać zebrane materiały, warto skorzystać z tras mobilnych punktów zaplanowanych na 10 i 24…",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/planujesz-oddac-odpady-niebezpieczne-sprawdz-nowe-ograniczenia-i-harmonogram",
+      "published": "2026-10-09T00:00",
+      "source": "rybnik.eu",
+      "category": "Odpady komunalne",
       "priority": "NORMAL"
     },
     {
@@ -69,26 +249,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "908bee436d9687c028355cb4c9b99144b2315754",
-      "title": "Zginęli podczas akcji w lesie. Po 7 latach Kuźnia Raciborska znów oddała im hołd [ZDJĘCIA, WIDEO]",
-      "summary": "W Kuźni Raciborskiej odbyła się uroczystość upamiętniającą trzech saperów, którzy siedem lat temu zginęli podczas wykonywania obowiązków służbowych. W 7. rocznicę tragedii mieszkańcy, żołnierze oraz przedstawiciele samorządu oddali hołd poległym.",
-      "link": "https://www.nowiny.pl/wiadomosci/251411-zgineli-podczas-akcji-w-lesie-po-7-latach-kuznia-raciborska-znow-oddala-im-hold-zdjecia-wideo.html",
-      "published": "2026-10-08T19:45",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c0741bfcf6ff80b87ad11732826bb1475c96e4f7",
-      "title": "Lawenda, muzyka i fioletowy zawrót głowy. Niecodzienne spotkanie w wodzisławskiej szkole muzycznej [ZDJĘCIA]",
-      "summary": "W Państwowej Szkole Muzycznej I stopnia im. Wojciecha Kilara w Wodzisławiu Śląskim odbyło się wydarzenie pod hasłem „Lawenda z muzyką”. Spotkanie połączyło muzykę, aromaty lawendy oraz dobrą zabawę w fioletowych barwach.",
-      "link": "https://www.nowiny.pl/wiadomosci/251402-lawenda-muzyka-i-fioletowy-zawrot-glowy-niecodzienne-spotkanie-w-wodzislawskiej-szkole-muzycznej-zdjecia.html",
-      "published": "2026-10-08T18:08",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "3c65b47574d3bfaedfefe33a9ccf6bd08c4d7aaf",
       "title": "Kolejny Vinyl Swap już w najbliższą niedzielę",
       "summary": "Jeśli lubicie muzyczne poszukiwania, zajrzyjcie na 95. Vinyl Swap – giełdę płyt winylowych do rybnickiej Biblioteki.",
@@ -96,16 +256,6 @@
       "published": "2026-10-08T16:15",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "42d5a5cb98b98ef277b1f72da62535e8dee1d1f8",
-      "title": "Jubileusz Kolei Śląskich: 15 lat – inny świat",
-      "summary": "Kiedy 1 października 2011 roku pierwszy pociąg Kolei Śląskich wyjechał na tory, przewoźnik dysponował łącznie 11 składami i obsługiwał dwie linie – z Gliwic do Częstochowy oraz z Katowic w kierunku Wisły. Dziś pociągi Kolei Śląskich jeżdżą na 24 liniach. Półtorej dekady wystarczyło by przewiozły…",
-      "link": "https://www.nowiny.pl/wiadomosci/251410-jubileusz-kolei-slaskich-15-lat-inny-swiat.html",
-      "published": "2026-10-08T15:55",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -119,56 +269,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "1c50d256dee6a2e018216741be2352b0938b691b",
-      "title": "Dwa wydarzenia, jeden cel. W Niedobczycach będzie można pomóc hospicjum",
-      "summary": "W sobotę, 17 października, w Domu Kultury w Rybniku-Niedobczycach odbędą się dwa wydarzenia organizowane przez Fundację Puls-Med „Blisko Ciebie”. Najpierw będzie można dowiedzieć się, jak zostać wolontariuszem hospicjum i pomagać jego podopiecznym. Wieczorem odbędzie się koncert charytatywny…",
-      "link": "https://www.nowiny.pl/wiadomosci/251408-dwa-wydarzenia-jeden-cel-w-niedobczycach-bedzie-mozna-pomoc-hospicjum.html",
-      "published": "2026-10-08T15:21",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "24fb721515a59c52207dab6ca5ef3a220eba4410",
-      "title": "„Mechanik” podpisał umowę z Kolejami Śląskimi. Uczniowie dostaną praktyki i szansę na stypendia",
-      "summary": "Z jednej strony kolej, z drugiej nowoczesna motoryzacja. Zespół Szkół Mechaniczno-Elektrycznych im. Tadeusza Kościuszki w Rybniku w ostatnich tygodniach podpisał porozumienie z Kolejami Śląskimi, a jednocześnie doposażył pracownie samochodowe w silniki i skrzynie biegów wykorzystywane we…",
-      "link": "https://www.nowiny.pl/wiadomosci/251407-mechanik-podpisal-umowe-z-kolejami-slaskimi-uczniowie-dostana-praktyki-i-szanse-na-stypendia.html",
-      "published": "2026-10-08T14:58",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "773384e01b45883d522d8c15a9164f6e787d9ebf",
-      "title": "Wraca do szpitala po latach. Nowy ordynator interny mówi o potencjale i sali reanimacyjnej",
-      "summary": "Dr n. med. Andrzej Muras zna rybnicki szpital niemal od początku jego działalności. Pracował tutaj na internie, później współtworzył rozwijającą się kardiologię. Teraz wraca jako ordynator Oddziału Chorób Wewnętrznych. Mówi o młodych lekarzach, potrzebie rozwoju i przywróceniu sali reanimacyjnej…",
-      "link": "https://www.nowiny.pl/wiadomosci/251406-wraca-do-szpitala-po-latach-nowy-ordynator-interny-mowi-o-potencjale-i-sali-reanimacyjnej.html",
-      "published": "2026-10-08T14:44",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "9ec4bc3753adfe6e099d4d25610aa050f3a089a9",
-      "title": "Rybnicka okulistka napisała książkę o Kreciku. Przy okazji przypomina rodzicom o wzroku dzieci",
-      "summary": "Co zrobić, żeby dziecko dobrze widziało? Wyjść z nim na dwór, ograniczać czas przed ekranem, ale też po prostu usiąść obok i poczytać książkę. O wzroku najmłodszych i znaczeniu wspólnego czytania rozmawiali lekarze Wojewódzkiego Szpitala Specjalistycznego nr 3 w Rybniku. Okazją była premiera…",
-      "link": "https://www.nowiny.pl/wiadomosci/251405-rybnicka-okulistka-napisala-ksiazke-o-kreciku-przy-okazji-przypomina-rodzicom-o-wzroku-dzieci.html",
-      "published": "2026-10-08T14:26",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "7917a20a3d78dd1a1b00be3d332d22fcaea0424f",
-      "title": "Z górnictwa na kolej. Byli górnicy uczą się prowadzić pociągi",
-      "summary": "Przez lata pracowali w górnictwie. Teraz uczą się przepisów kolejowych, sygnalizacji, budowy pojazdów i zasad prowadzenia ruchu. Trzy osoby odchodzące z górnictwa rozpoczęły kurs na licencję maszynisty organizowany przez Koleje Śląskie. To jeden z elementów programu, który ma pomóc pracownikom…",
-      "link": "https://www.nowiny.pl/wiadomosci/251404-z-gornictwa-na-kolej-byli-gornicy-ucza-sie-prowadzic-pociagi.html",
-      "published": "2026-10-08T14:15",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "d161a3d7b10383861a2473fbd973b9a6a90d57b8",
       "title": "Tegoroczna Literacka Nagroda Nobla wręczona. Książki Anne Carson można było kupić w księgarni w Rybniku, teraz niestety ich nie ma",
       "summary": "Kanadyjska poetka i eseistka Anne Carson otrzymała Nagrodę Nobla w dziedzinie literatury. Nasz reporter z pytaniem o książki tej autorki zajrzał do księgarni Orbita w centrum Rybnika.",
@@ -179,16 +279,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "6e88425dc33d082d3aa666f213d2b072bb8abdb0",
-      "title": "Urząd miasta w Raciborzu drugi raz wydłużył termin przetargu na wywóz śmieci. To zlecenie za 23 miliony złotych",
-      "summary": "Na dzień przed wyznaczonym terminem w raciborskim magistracie wydłużono czas na składanie ofert w przetargu na „Odbieranie odpadów komunalnych powstających na terenie nieruchomości zamieszkałych i niezamieszkałych na terenie Miasta Racibórz”. To już druga zmiana terminu w tym przetargu, jako powód…",
-      "link": "https://www.nowiny.pl/wiadomosci/251403-urzad-miasta-w-raciborzu-drugi-raz-wydluzyl-termin-przetargu-na-wywoz-smieci-to-zlecenie-za-23-miliony-zlotych.html",
-      "published": "2026-10-08T13:17",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "7dfcde4f1f03c14c0bc69463cd29c09f8fd9e2b5",
       "title": "Wydatek poniesiony „w celu osiągnięcia przychodu”. Co to oznacza? Doradca podatkowy wyjaśnia",
       "summary": "Co oznacza w praktyce warunek, że wydatek ma być poniesiony „w celu osiągnięcia przychodu\" i kto ma to udowodnić: podatnik czy urząd? To jest temat dzisiejszego spotkania z doradcą podatkowym Dariuszem Graczykiem.",
@@ -196,26 +286,6 @@
       "published": "2026-10-08T12:00",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "02d7792cb3bbf030d820679f61ae562a19b112c6",
-      "title": "Racibórz szykuje się na upały i ulewy. Mniej betonu, więcej zieleni i miejsca na deszczówkę",
-      "summary": "Gdzie w Raciborzu można usunąć zbędną kostkę, posadzić drzewa i zatrzymać deszczówkę? Uczestnicy spaceru z kamerą termowizyjną przyglądali się miejskim przestrzeniom, szukając miejsc, które można lepiej przygotować na skutki zmian klimatu.",
-      "link": "https://www.nowiny.pl/ekonowiny/251062-raciborz-szykuje-sie-na-upaly-i-ulewy-mniej-betonu-wiecej-zieleni-i-miejsca-na-deszczowke.html",
-      "published": "2026-10-08T11:45",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "40e1fbd6d1d67bee129c2452f08d3d6234cc3b57",
-      "title": "Haluks bez dużego cięcia. Nowoczesna metoda zmienia chirurgię stopy",
-      "summary": "Jeszcze niedawno operacja palucha koślawego kojarzyła się z dużym cięciem, bólem i długim powrotem do sprawności. Dziś coraz częściej stosuje się małoinwazyjną metodę MICA, w której korekcję wykonuje się przez kilkumilimetrowe nacięcia. – Najważniejsze nie jest jednak to, jak mała zostanie blizna…",
-      "link": "https://www.nowiny.pl/wiadomosci/251308-haluks-bez-duzego-ciecia-nowoczesna-metoda-zmienia-chirurgie-stopy.html",
-      "published": "2026-10-08T11:00",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -459,26 +529,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "192e42038ad98a546b7ff09f935628c8bea90404",
-      "title": "Trening Akcji Kurierskiej w Urzędzie Miasta",
-      "summary": "W magistracie odbył się planowany trening doręczania dokumentów powołania do służby wojskowej oraz wezwań do świadczeń na rzecz obrony. Wnioski z ćwiczeń pomogą jeszcze lepiej zadbać o ciągłość działania administracji i sprawność systemów w sytuacjach podwyższonej gotowości.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/trening-akcji-kurierskiej-w-urzedzie-miasta",
-      "published": "2026-10-06T00:00",
-      "source": "rybnik.eu",
-      "category": "Bezpieczeństwo",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c362856004bb6486666a5358b4fadb2370244d9a",
-      "title": "MSWiA opublikowało nową instrukcję reagowania na wypadek ataku z powietrza",
-      "summary": "MSWiA udostępniło nową, szczegółową instrukcję postępowania na wypadek zagrożeń z powietrza. Materiał stanowi rozwinięcie „Poradnika Bezpieczeństwa”, który trafił do milionów polskich domów. Dokument powstał przy ścisłej współpracy z ekspertami ds. ochrony ludności oraz Państwową Strażą Pożarną.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/mswia-opublikowalo-nowa-instrukcje-reagowania-na-wypadek-ataku-z-powietrza",
-      "published": "2026-10-06T00:00",
-      "source": "rybnik.eu",
-      "category": "Bezpieczeństwo",
-      "priority": "NORMAL"
-    },
-    {
       "id": "263f49f1b27dc092f84f31f2d88ce7beaea5f217",
       "title": "Egzotyka w zabytkowych wnętrzach. W weekend kolejna Wystawa Ptaków Egzotycznych w Zabytkowej Kopalni Ignacy",
       "summary": "XVI Wystawa Ptaków Egzotycznych w Zabytkowej Kopalni Ignacy w Rybniku. W ten weekend (10-11.10) w industrialnych wnętrzach kolorowe upierzenie, śpiew i pasja hodowców.",
@@ -509,46 +559,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "fa7cca2953c59e084f7636dfe09903d2a3867191",
-      "title": "Przedpokój i wiatrołap w domu – jak zaplanować zabudowę dla całej rodziny",
-      "summary": "W domu jednorodzinnym drzwi wejściowe pracują inaczej niż w mieszkaniu. Przez jedno wejście przechodzą wszyscy domownicy, a razem z nimi buty po ogrodzie, mokre kurtki, plecaki, torby z zakupami i sprzęt na trening. Jeśli to wszystko trafia do jednej szafy, szybko przestaje być jasne, co gdzie…",
-      "link": "https://www.radio90.pl/przedpokoj-i-wiatrolap-w-domu-jak-zaplanowac-zabudowe-dla-calej-rodziny.html",
-      "published": "2026-10-05T12:28",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "dd93657fa76cca13081cb52dbd07c772e7f2260b",
-      "title": "Weekend Seniora z Kulturą w Rybniku. W halo!Rybnik odbył się konkurs wokalny. Zwycięzca będzie gościem Radia 90! [ZDJĘCIA, WIDEO]",
-      "summary": "10 osób zaśpiewało w konkursie wokalnym na finał Weekendu Seniora z Kulturą w halo!Rybnik. Wszystkim uczestnikom gratulowano odwagi i poradzenia sobie z tremą, bo występ na deptaku w Rybniku w słoneczne popołudnie, wzbudzał spore zainteresowanie przechodniów.",
-      "link": "https://www.radio90.pl/weekend-seniora-z-kultura-w-rybniku-w-halorybnik-odbyl-sie-konkurs-wokalny-zwyciezca-bedzie-gosciem-radia-90-wideo.html",
-      "published": "2026-10-05T11:35",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "deada06503b6229a6c5835da16252530ef9c6ea1",
-      "title": "Odbędzie się Święto Pieczonego Ziemniaka w Czernicy. Jedną z atrakcji będą gigantyczne warzywa! [PATRONAT]",
-      "summary": "Warzywa giganty na Święcie Pieczonego Ziemniaka w Czernicy. W sobotę (10.10) przy Zameczku, rodzinne wydarzenie w klimacie country.",
-      "link": "https://www.radio90.pl/odbedzie-sie-swieto-pieczonego-ziemniaka-w-czernicy-jedna-z-atrakcji-beda-gigantyczne-warzywa-patronat.html",
-      "published": "2026-10-05T09:45",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "31653883942e111d6e692a22b633aed11c4c812e",
-      "title": "Remont wiaduktu w Leszczynach: zamontowano 30 metrowe belki pod podpory. „Zakończono kolejny etap robót” [ZDJĘCIA]",
-      "summary": "Prace zbrojarskie już wykonano. Podobnie, jak betonowanie jego części nośnej. W Leszczynach, tuż przy granicy z Rybnikiem-Kamieniem trwają prace związane z budową nowego wiaduktu nad przebiegającą tam linią kolejową. W rybnickim Starostwie Powiatowym, które jest zleceniodawcą robót, informują, że…",
-      "link": "https://www.radio90.pl/remont-wiaduktu-w-leszczynach-zamontowano-30-metrowe-belki-pod-podpory-zakonczono-kolejny-etap-robot-zdjecia.html",
-      "published": "2026-10-05T08:50",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "5661eed897d97bb64941ffcd2de77817b8c5abab",
       "title": "Trzy skwery z nową nazwą",
       "summary": "Podczas sesji 24 września Rada Miasta Rybnika nadała nazwy trzem skwerom. Ich patronami zostali rzeźbiarze Zygmunt Brachmański i prof. Adolf Ryszka oraz Fryderyk Petruski, pionier szkolnictwa rolniczego w Popielowie.",
@@ -557,16 +567,6 @@
       "source": "rybnik.eu",
       "category": "Komunikaty",
       "priority": "NORMAL"
-    },
-    {
-      "id": "2be2fc4329cf4d6f2a46c6e6e2779c299321db86",
-      "title": "Mamy najnowszy alert pogodowy. Kierowcy, uważajcie na mgły",
-      "summary": "Uwaga kierowcy. W nocy i o poranku nad częścią regionu mogą pojawić się gęste mgły. Regionalne Biuro Prognoz Meteorologicznych w Krakowie wydało ostrzeżenie pierwszego stopnia.",
-      "link": "https://www.radio90.pl/mamy-najnowszy-alert-pogodowy-kierowcy-uwazajcie-na-mgly.html",
-      "published": "2026-10-04T19:57",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "ALERT"
     },
     {
       "id": "a77149d199d9b5d451a0fcf617393a173d60f8fa",
@@ -1069,11 +1069,11 @@
       "priority": "ALERT"
     },
     {
-      "id": "imgw-939647ed84ac1aea0470a7048a26216ea0361a16",
+      "id": "imgw-2bfed84e3c4d281bfa7f35d032eea97ff7ee52ae",
       "title": "IMGW (region): Susza hydrologiczna",
-      "summary": "W związku z występującymi niskimi przepływami wody, w kolejnych dniach na obszarze zlewni Małej Wisły wraz ze zb. Goczałkowice spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.",
+      "summary": "W związku z występującymi niskimi przepływami wody, w kolejnych dniach na obszarze zlewni Soły wraz z kaskadą zbiorników, spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.",
       "link": "https://danepubliczne.imgw.pl/api/data/warningshydro",
-      "published": "2026-09-04T08:30",
+      "published": "2026-09-03T10:04",
       "source": "IMGW",
       "category": "Ostrzeżenia",
       "priority": "ALERT"
