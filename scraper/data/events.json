@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:31:18",
+  "generated_at": "2026-10-10T15:57:20",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,64 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 125,
+  "count": 133,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-spotkanie-edukacyjne-misja-72-ekstremalne-zjawiska-pogodowe",
-      "title": "Spotkanie edukacyjne MISJA/72: Ekstremalne zjawiska pogodowe",
-      "category": "Wystawa",
-      "start": "2026-10-10T10:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Jak przygotować się na fale upałów, suszę, intensywne opady czy burze? O tym będzie można porozmawiać podczas bezpłatnego spotkania edukacyjnego w Rybniku. Wydarzenie ma pomóc mieszkańcom i lokalnym środowiskom lepiej przygotować się na skutki ekstremalnych zjawisk pogodowych. Spotkanie zaplanowano na 10 października 2026 roku o godz. 10:00 w Galerii Sztuki Rzeczna w Rybniku . Udział jest bezpłatny, ale wymaga wcześniejszego zgłoszenia. Zapisy trwają do 5 października , a liczba miejsc jest ograniczona. Wydarzenie odbędzie się w ramach programu „Budowanie odporności społeczności lokalnych – Misja/72”. Jego pełna nazwa brzmi: „Spotkanie edukacyjne MISJA/72: Jak przygotować się na ekstremalne zjawiska pogodowe?”",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/spotkanie-edukacyjne-misja-72-ekstremalne-zjawiska-pogodowe"
-    },
-    {
-      "id": "iryb-warsztaty-bachata-ladies-vol-7-w-rybniku",
-      "title": "WARSZTATY BACHATA LADIES Vol. 7 w Rybniku",
-      "category": "Warsztaty",
-      "start": "2026-10-10T10:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Bachata, kobieca energia i poranek w rytmie muzyki — tak zapowiada się siódma edycja warsztatów Bachata Ladies w Rybniku. Trzy godziny na parkiecie będą połączeniem tańca, zmysłowości i dobrej zabawy. Warsztaty odbędą się 10 października 2026 roku (sobota), w godz. 10:00–13:00 w Havana Dance Studio & Events Rybnik przy ul. Jana Kotucza 36. Udział kosztuje 100 zł . Zapisy prowadzone są w wiadomości prywatnej do organizatorki lub telefonicznie pod numerem 784 570 143 . Liczba miejsc jest ograniczona. Zajęcia mają mieć kobiecy, zmysłowy i energetyczny charakter, a organizatorka zapowiada sporą dawkę uśmiechu i swobodnej zabawy. Na uczestniczki będzie czekać lampka szampana — także w wersji bezalkoholowej — oraz kawa, herbata, woda i słodkie przekąski podczas przerwy.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/warsztaty-bachata-ladies-vol-7-w-rybniku"
-    },
-    {
-      "id": "iryb-pomozmy-razem-podopiecznym-pet-patrol-w-rybniku",
-      "title": "Pomóżmy razem podopiecznym Pet Patrol w Rybniku",
-      "category": "DlaDzieci",
-      "start": "2026-10-10T11:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "W Rybnik Plaza pojawi się Pet Patrol Rybnik, a wraz z nim okazja, by wesprzeć potrzebujące zwierzaki. W programie są zbiórka karmy i żwirku, losowanie upominków oraz kolorowanki dla najmłodszych. Na stoisku Pet Patrol Rybnik będzie można przekazać karmę i żwirek dla podopiecznych fundacji. Dostępne będą także baloniki oraz gadżety z jej logo, które będzie można kupić. Osoby wspierające zbiórkę wezmą udział w losowaniu drobnych upominków — do wyboru będą cztery kategorie. Na dzieci czeka natomiast strefa z kolorowankami. To propozycja dla mieszkańców, którzy chcą poznać działalność Pet Patrol i dowiedzieć się, jak wygląda pomoc jego podopiecznym. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/pomozmy-razem-podopiecznym-pet-patrol-w-rybniku"
-    },
-    {
-      "id": "iryb-farma-dyniowa-w-rybnik-plaza-jesienne-atrakcje",
-      "title": "Farma Dyniowa w Rybnik Plaza: jesienne atrakcje",
-      "category": "Warsztaty",
-      "start": "2026-10-10T12:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Dynie, kasztany, kreatywne warsztaty i zabawy w jesiennym klimacie — 10 października Rybnik Plaza zamieni się w małą farmę pełną kolorów. To propozycja na rodzinne popołudnie, podczas którego można stworzyć własne pamiątki i poznać kilka ciekawostek o jesiennych skarbach. Kiedy: 10 października 2026 roku (sobota), godz. 12:00–18:00 Gdzie: Rybnik Plaza, ul. Raciborska 16, 44-200 Rybnik Cena i wejściówki: nie podano informacji o cenie udziału ani o wejściówkach. Podczas wydarzenia będzie można przygotować własny piórnik lub ekotorbę z wybranym jesiennym wzorem, zrobić zawieszkę z koralików i zaprojektować przypinkę. Nie zabraknie też tworzenia magnesów na lodówkę: do wyboru będą gotowe ilustracje do pokolorowania oraz puste karty, na których każdy narysuje coś od siebie. Gotowy magnes będzie można zabrać do domu. Na uczestników czekają również kolorowanki i plakaty, a w specjalnej strefie — quiz o jesieni oraz ciekawostki o dyniach, kasztanach i szyszkach. Będzie można przyjrzeć się tym skarbom z bliska i rozegrać partię wielkoformatowego kółka i krzyżyka.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/farma-dyniowa-w-rybnik-plaza-jesienne-atrakcje"
-    },
-    {
-      "id": "bilnya-prestiz-przewrotna-terapia-spektakl-202610101600",
-      "title": "Prestiż - przewrotna terapia | spektakl",
-      "category": "Spektakl",
-      "start": "2026-10-10T16:00",
-      "end": "2026-10-10T17:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "Luksus, skandale i śmiech do łez! 😂 \"Prestiż\" to komedia o kulcie sukcesu – ostra jak brzytwa, błyskotliwa i pełna absurdów. 🔥 Zobacz, co kryje się za maską perfekcji – zanim znikną szybciej niż egzotyczne wakacje bohaterów! 🎭✨.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Prestiz-wspolczesny-spektakl?eid=666229#opis"
-    },
     {
       "id": "iryb-xi-festiwal-dyni",
       "title": "XI Festiwal Dyni",
@@ -86,6 +31,17 @@
       "description": "W sobotę, 10 października, w Rybniku odbędzie się gala wręczenia Górnośląskiej Nagrody Literackiej „Juliusz”. Wydarzeniu towarzyszyć będzie monodram „Jadwiga” w wykonaniu Agnieszki Przepiórskiej. Wydarzenie odbywa się za zaproszeniami. Pula bezpłatnych wejściówek jest dostępna w kasie domu kultury. Głównym punktem spotkania będzie wręczenie Górnośląskiej Nagrody Literackiej „Juliusz”. W programie zaplanowano także monodram „Jadwiga”, który zaprezentuje Agnieszka Przepiórska. Organizatorem gali jest Dom Kultury w Rybniku-Chwałowicach. Adres placówki: ul. 1 Maja 91b, 44-206 Rybnik.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/gala-wreczenia-gornoslaskiej-nagrody-literackiej-juliusz"
+    },
+    {
+      "id": "bilnya-prestiz-przewrotna-terapia-spektakl-202610101830",
+      "title": "Prestiż - przewrotna terapia | spektakl",
+      "category": "Spektakl",
+      "start": "2026-10-10T18:30",
+      "end": "2026-10-10T20:00",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "Luksus, skandale i śmiech do łez! 😂 \"Prestiż\" to komedia o kulcie sukcesu – ostra jak brzytwa, błyskotliwa i pełna absurdów. 🔥 Zobacz, co kryje się za maską perfekcji – zanim znikną szybciej niż egzotyczne wakacje bohaterów! 🎭✨.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Prestiz-wspolczesny-spektakl?eid=666230#opis"
     },
     {
       "id": "iryb-grom-koncert-szanty-w-rybniku",
@@ -785,7 +741,7 @@
       "title": "Guru",
       "category": "Film",
       "start": "2026-10-26T15:30",
-      "end": null,
+      "end": "2026-10-26T17:36",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Matt Vasseur to odnoszący sukcesy, charyzmatyczny trener rozwoju osobistego, prowadzący perfekcyjnie wyreżyserowane, elektryzujące wydarzenia motywacyjne. Dzięki imponującej karierze, wspierającej dziewczynie i niezliczonej ilości oddanych fanów, jest osobą, która inspiruje innych. Jednak, gdy senacka komisja zaczyna zagrażać jego działalności, a niektórzy ze zwolenników popadają w niebezpieczną obsesję, świat Matta zaczyna się rozpadać, odsłaniając ciemne strony, kryjące się za jego pozornie idealnym życiem.",
       "sourceName": "TZR",
@@ -847,11 +803,22 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/rybnik-stand-up-mateusz-ipkis-dudek-traci-myszka-na-zywo"
     },
     {
+      "id": "bilnya-cyrk-na-wodzie-imperial-show-202610301730",
+      "title": "Cyrk na wodzie Imperial Show",
+      "category": "DlaDzieci",
+      "start": "2026-10-30T17:30",
+      "end": "2026-10-30T19:00",
+      "venue": "Namiot Cyrkowy, Plac: Obwiednia Północna ( obok Carrefour)",
+      "description": "🌊 Szukasz naprawdę wyjątkowych wrażeń? Chcesz mieć super zabawę razem z dziećmi? 🥳 Cyrk na wodzie Imperial Show co roku cieszy polską publiczność niezapomnianymi programami..",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/cyrk/Cyrk-na-wodzie-Imperial-Show?eid=701271#opis"
+    },
+    {
       "id": "iryb-13-rybnickie-zaduszki-muzyczne-w-rybniku",
       "title": "13. Rybnickie Zaduszki Muzyczne w Rybniku",
       "category": "Koncert",
       "start": "2026-10-30T18:00",
-      "end": null,
+      "end": "2026-10-30T19:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Muzyczne wspomnienia, rockowe brzmienia i znane utwory w zupełnie nowych odsłonach — tak zapowiada się 13. edycja Rybnickich Zaduszek Muzycznych. Na scenie Teatru Ziemi Rybnickiej spotka się aż 12 zespołów, a koncert poprowadzi Marek Żyła. Piątek, 30 października 2026 r., godz. 18:00–19:30 Teatr Ziemi Rybnickiej Informacje o cenie biletów i sposobie ich zakupu nie zostały podane w dostępnych szczegółach wydarzenia. Rybnickie Zaduszki Muzyczne od lat łączą wykonawców, którzy przypominają twórczość artystów już nieobecnych, ale wciąż żywych w swojej muzyce. Podczas tegorocznego koncertu zabrzmią rockowe utwory, ballady, mocniejsze granie i nastrojowe aranżacje. Każda edycja przynosi inny repertuar — wykonywane piosenki nie powtarzają się z poprzednich koncertów.",
       "sourceName": "iRybnik",
@@ -884,8 +851,8 @@
       "title": "Imperial Show w Rybniku: cyrk na wodzie",
       "category": "Spektakl",
       "start": "2026-10-31T13:00",
-      "end": null,
-      "venue": "Rybnik",
+      "end": "2026-10-31T14:30",
+      "venue": "Namiot Cyrkowy, Plac: Obwiednia Północna ( obok Carrefour)",
       "description": "W Rybniku pojawi się widowisko, w którym cyrkowe występy spotykają się z tańczącymi fontannami, światłem i muzyką. Imperial Show zapowiada też klauna, bajkowe postacie oraz fireshow — propozycję na rodzinne popołudnie pełne efektów i emocji. Kiedy: 31 października 2026 roku (sobota), godz. 13:00–14:30 Gdzie: Rybnik Bilety: dzieci do 3. roku życia nie muszą mieć biletu. W udostępnionych informacjach nie podano cen ani sposobu zakupu wejściówek. Za utworzenie wydarzenia odpowiada serwis Biletyna. W programie znalazły się cyrkowe wyczyny, kolorowe kostiumy i widowiskowa oprawa z wodą, światłem oraz muzyką. Publiczność mają rozbawić komediowe popisy klauna, a najmłodszych zainteresować bajkowe postacie. Jednym z efektownych punktów będzie fireshow, łączące ogień, taniec i muzykę. To wydarzenie może przypaść do gustu rodzinom szukającym wspólnego wyjścia i widowiska z różnorodnymi atrakcjami.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/imperial-show-w-rybniku-cyrk-na-wodzie"
@@ -922,6 +889,17 @@
       "description": "Rybnik szykuje głośny wieczór dla fanów młodej, niezależnej muzyki. STACJA B. x HAMULEC to wspólny przegląd kapel szkolnych z udziałem zespołów Rybnik , My Own Abyss oraz kolejnego składu, który zostanie ogłoszony. Wpadnij na koncert i sprawdź, jak brzmi nowa fala lokalnego grania. To pierwszy wspólny przegląd zespołów STACJA B. i HAMULEC , zapowiadany jako część większej trasy obejmującej 15 miast. Na scenie pojawią się młode składy, które dopiero budują swoją pozycję poza szkolnymi salami prób i lokalnymi koncertami. Wieczór zapowiada się różnorodnie: od cięższych, metalowych dźwięków po surową, bezpośrednią energię alternatywnej sceny. To propozycja dla osób, które lubią odkrywać nowe zespoły, zanim trafią do większych klubów. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/stacja-b-x-hamulec-przeglad-kapel"
+    },
+    {
+      "id": "bilnya-mistyczka-202611021530",
+      "title": "Mistyczka",
+      "category": "Film",
+      "start": "2026-11-02T15:30",
+      "end": "2026-11-02T17:00",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/film/Mistyczka?eid=711458#opis"
     },
     {
       "id": "tzr-koncert-kameralny-silesian-chamber-ensemble",
@@ -961,7 +939,7 @@
       "title": "Dobry wieczór...? – Andrzej Poniedzielski w Rybniku",
       "category": "Kabaret",
       "start": "2026-11-05T19:00",
-      "end": null,
+      "end": "2026-11-05T20:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Andrzej Poniedzielski przywozi do Rybnika program, w którym piosenki spotykają się z inteligentną satyrą, a poezja z łagodnym humorem. Wieczór „Dobry wieczór…?” będzie okazją, by usłyszeć zarówno znane utwory, jak i nowe teksty artysty. Program łączy koncert z wieczorem kabaretowym. Wśród piosenek i satyrycznych obserwacji pojawią się tematy bliskie twórczości Poniedzielskiego: marzenia, tęsknota i miłość — przedstawione z charakterystycznym dystansem i ciepłym humorem. Andrzej Poniedzielski jest poetą, satyrykiem i aktorem, a także autorem piosenek wykonywanych między innymi przez Grzegorza Turnaua, Edytę Geppert i Dawida Podsiadłę. W 2011 roku otrzymał tytuł Mistrza Mowy Polskiej, a pięć lat później został Ambasadorem Polszczyzny. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
@@ -1005,7 +983,7 @@
       "title": "Adam Rajski",
       "category": "Spektakl",
       "start": "2026-11-07T18:00",
-      "end": null,
+      "end": "2026-11-07T19:30",
       "venue": "Dom Kultury Rybnik-Chwałowice",
       "description": "Teatr Lalek Marka Żyły w zupełnie nowej odsłonie. Tym razem nie dla dzieci a dla starszego odbiorcy (16+)! Już 7 listopada 2026 roku o 18:00 \"Adam Rajski\".",
       "sourceName": "DK Chwałowice",
@@ -1027,18 +1005,29 @@
       "title": "Małgorzata Ostrowska - 45 lat: koncert jubileuszowy",
       "category": "Koncert",
       "start": "2026-11-08T17:00",
-      "end": null,
+      "end": "2026-11-08T18:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Małgorzata Ostrowska, legenda polskiej piosenki, zaprasza na jubileuszowe koncerty z okazji 45-lecia pracy artystycznej! Jedna z największych ikon polskiej muzyki rockowej, właścicielka rozpoznawalnego od pierwszych dźwięków głosu, idąca zawsze własną drogą artystka bezkompromisowa – taką ją uwielbiamy i z taką spotkamy się ponownie na żywo w 2026 roku. Rocznicowa trasa przeprowadzi nas przez wszystkie etapy kariery artystki: od drapieżnych i kolorowych lat 80. przez dojrzałą solową twórczość, aż po ostatnie dokonania, w tym doskonale przyjętą płytę „Legenda”, na której artystka wróciła do swoich muzycznych korzeni. Każdy z koncertów będzie okazją do wspomnień, wzruszeń, ale też wspólnej zabawy kilku pokoleń słuchaczy, które wychowały się na piosenkach takich jak Meluzyna, Szklana pogoda, Gołębi puch, Mam dość, Taniec pingwina na szkle czy Mister of America .",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/malgorzata-ostrowska-45-lat-koncert-jubileuszowy.html"
     },
     {
+      "id": "bilnya-lalka-2026-202611091530",
+      "title": "Lalka (2026)",
+      "category": "Film",
+      "start": "2026-11-09T15:30",
+      "end": "2026-11-09T17:00",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/film/Lalka-2026?eid=711459#opis"
+    },
+    {
       "id": "tzr-x-biesiada-slaska-szczesliwej-drogi-juz-czas",
       "title": "X Biesiada Śląska. \"Szczęśliwej drogi, już czas\"",
       "category": "Koncert",
       "start": "2026-11-11T17:00",
-      "end": null,
+      "end": "2026-11-11T18:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Zapraszamy na jubileuszową, X Biesiadę Śląską – wieczór pełen znanych piosenek, wspólnego śpiewania, wzruszeń i dobrej zabawy.",
       "sourceName": "TZR",
@@ -1049,7 +1038,7 @@
       "title": "Echo Rodu w Rybniku. Koncert pełen słowiańskich brzmień w Klubie Odyseja",
       "category": "Koncert",
       "start": "2026-11-13T19:00",
-      "end": null,
+      "end": "2026-11-13T20:30",
       "venue": "Klub Odyseja",
       "description": "Rybnik szykuje się na wieczór, który trudno będzie pomylić z czymkolwiek innym Echo Rodu przywiezie do Klubu Odyseja muzykę inspirowaną dawnymi rytuałami, folklorem i transową elektroniką. To jeden z tych koncertów, które bardziej się przeżywa niż tylko słucha — więc warto zarezerwować sobie ten termin. Kiedy: 13 listopada 2026 (piątek), godz. 19:00–21:00 Wejście na teren wydarzenia: od godz. 18:00 Gdzie: Klub Odyseja , ul. Raciborska 9a, Rybnik Wejściówki są dostępne w sprzedaży online. Echo Rodu to projekt muzyczny, który łączy słowiański folklor , plemienne rytmy i współczesne, elektroniczne brzmienia W ich muzyce słychać m.in. słowiańską harfę, lirę korbową i bębny , a całość buduje klimat trochę mistyczny, trochę pierwotny — taki, który od razu wciąga w swój rytm.",
       "sourceName": "iRybnik",
@@ -1071,11 +1060,22 @@
       "title": "40. Silesian Jazz Meeting: dwa koncerty",
       "category": "Koncert",
       "start": "2026-11-14T18:00",
-      "end": null,
+      "end": "2026-11-14T19:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Dwa różne muzyczne światy spotkają się jednego wieczoru w Rybniku. Pierwszy dzień 40. Silesian Jazz Meeting przyniesie energetyczne brzmienia zespołu KLAWO, a później jazzowe aranżacje piosenek Wojciecha Młynarskiego w wykonaniu kwintetu Myrczek & Schmidt. Wieczór rozpocznie KLAWO – gdański zespół, który swobodnie łączy funk, soul, jazz, psychodelię i elektronikę. Jego koncerty słyną z wyrazistego rytmu, mocnych melodii i energii, która najlepiej wybrzmiewa na żywo. Grupa występowała już na festiwalach i scenach w 15 krajach. Druga część wieczoru należeć będzie do Wojciecha Myrczka i Piotra Schmidta oraz ich kwintetu. W programie „Młynarski. Bynajmniej” znane i mniej oczywiste piosenki Wojciecha Młynarskiego zyskają nowe, jazzowe aranżacje Krzysztofa Herdzina. Nie zabraknie improwizacji, muzycznych dialogów i charakterystycznego dla twórczości Młynarskiego humoru. W programie drugiego koncertu znalazły się między innymi „Bynajmniej”, „Księżyc nad Kościeliskiem” i „Podchodzą mnie wolne numery”. To propozycja dla osób, które cenią jazz, a także dla tych, którzy chcą usłyszeć piosenki Młynarskiego w świeżej odsłonie.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/40-silesian-jazz-meeting-dwa-koncerty"
+    },
+    {
+      "id": "bilnya-mariusz-kalamaga-mamo-papier-sie-konczy-202611141800",
+      "title": "Mariusz Kałamaga - Mamo! Papier się kończy!",
+      "category": "Kabaret",
+      "start": "2026-11-14T18:00",
+      "end": "2026-11-14T19:30",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": "🤣 Mariusz Kałamaga wraca na scenę z programem \"Mamo! Papier się kończy!\"🎤💥 Humor, dystans i inteligentne obserwacje o świecie, który głupieje szybciej niż AI! 😜 Przyjdź po solidną dawkę śmiechu i pozytywnej energii! 🎟️✨.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/kabaret/Mariusz-Kalamaga/Mamo-Papier-sie-konczy?eid=670773#opis"
     },
     {
       "id": "iryb-hate-damnation-synapsa-i-nuclear-venom-zagraja-w-rybniku-met",
@@ -1104,18 +1104,29 @@
       "title": "40. Silesian Jazz Meeting – Kinga Głyk na żywo",
       "category": "Koncert",
       "start": "2026-11-15T20:00",
-      "end": null,
+      "end": "2026-11-15T21:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Drugi wieczór jubileuszowego Silesian Jazz Meeting w Rybniku wypełnią jazzowa improwizacja, funkowy groove i nowoczesne brzmienia. Na Dużej Scenie Teatru Ziemi Rybnickiej wystąpi Kinga Głyk z koncertem z trasy „The Chapters”. 15 listopada 2026 roku (niedziela), godz. 20:00 Duża Scena Teatru Ziemi Rybnickiej Plac Teatralny im. Kazimierza Kutza 1, 44-200 Rybnik Informacje o cenach biletów i ich sprzedaży nie zostały podane. Kinga Głyk to basistka i kompozytorka, która łączy jazzową swobodę improwizacji z funkowym rytmem i elektroniką. Koncertowała między innymi na North Sea Jazz Festival, w Blue Note Rio oraz w Japonii. Jej wykonanie „Tears in Heaven” zdobyło w internecie dziesiątki milionów wyświetleń, a „Joy Joy” należy do najbardziej rozpoznawalnych utworów artystki.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/40-silesian-jazz-meeting-kinga-glyk-na-zywo"
     },
     {
+      "id": "bilnya-takie-jest-zycie-202611161530",
+      "title": "Takie jest życie",
+      "category": "Film",
+      "start": "2026-11-16T15:30",
+      "end": "2026-11-16T17:00",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/film/Takie-jest-zycie?eid=711460#opis"
+    },
+    {
       "id": "tzr-30-rybnicka-jesien-kabaretowa-ryjek-2026-kabaret-hrabi-wojtek-kaminski-oraz-dzikie-weze-improwizacje",
       "title": "30. Rybnicka Jesień Kabaretowa Ryjek 2026 - Kabaret hrAbi & Wojtek Kamiński oraz DZIKIE WĘŻE IMPROWIZACJE",
       "category": "Kabaret",
       "start": "2026-11-19T17:30",
-      "end": null,
+      "end": "2026-11-19T19:00",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Kabaret hrAbi & Wojtek Kamiński W premierowym programie \"BYĆ FACETEM\" Nowy program kabaretu hrAbi to spojrzenie na współczesną męskość. Stworzony przez mężczyzn i opowiedziany męskim głosem, ale kierowany do wszystkich - a zwłaszcza do tych, którzy dobrze wiedzą, z kim żyją i kogo próbują zrozumieć. DZIKIE WĘŻE IMPROWIZACJE To wyjątkowy projekt komediowy, który redefiniuje pojęcie rozrywki na żywo. Grupę tworzą czołowe postacie polskiej sceny kabaretowej, stand-upowej i improwizacyjnej: Abelard Giza Szymon Jachimek Wojciech Tremiszewski Jakub Śliwiński Karolina Rucińska",
       "sourceName": "TZR",
@@ -1137,7 +1148,7 @@
       "title": "30. Rybnicka Jesień Kabaretowa RYJEK 2026 - Konkurs Główny cz.I i KONKURS SHORTÓW",
       "category": "Kabaret",
       "start": "2026-11-20T17:30",
-      "end": null,
+      "end": "2026-11-20T19:00",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "KONKURS GŁÓWNY cz. I Udział wezmą: Kabaret DNO Fair Play Crew Kabaret Jurki Łowcy.B Układ Komediowy Zdolni i Skromni Tematy konkurencji: „Czyje to są majtki\" „Płuco” „Którędy na szczyt?”",
       "sourceName": "TZR",
@@ -1192,7 +1203,7 @@
       "title": "30. Rybnicka Jesień Kabaretowa RYJEK 2026 - Konkurs Główny cz.II i KONKURS O MELODYJNĄ NAGRODĘ IM. ARTURA",
       "category": "Kabaret",
       "start": "2026-11-21T16:30",
-      "end": null,
+      "end": "2026-11-21T18:00",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "KONKURS GŁÓWNY cz. II Udział wezmą: Kabaret DNO Fair Play Crew Kabaret Jurki Łowcy.B Układ Komediowy Zdolni i Skromni Tematy konkurencji: „To takie polskie” „Specjaliści” „Na końcu jest liczenie”",
       "sourceName": "TZR",
@@ -1214,7 +1225,7 @@
       "title": "Jesienne impresje – Take Trio",
       "category": "Koncert",
       "start": "2026-11-22T18:00",
-      "end": null,
+      "end": "2026-11-22T19:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Jesień ma swój własny dźwięk. Czasem spokojny i nostalgiczny, czasem pełen energii i kolorów. Właśnie takie muzyczne nastroje przyniesie koncert „Jesienne impresje” zespołu Take Trio.",
       "sourceName": "TZR",
@@ -1236,7 +1247,7 @@
       "title": "30. Rybnicka Jesień Kabaretowa RYJEK 2026 - KONCERT FINAŁOWY I JUBILEUSZOWY 30. RYJKA TELEWIZJA POLSAT",
       "category": "Kabaret",
       "start": "2026-11-22T19:00",
-      "end": null,
+      "end": "2026-11-22T20:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "KONCERT FINAŁOWY I JUBILEUSZOWY 30. RYJKA. TELEWIZJA POLSAT Udział wezmą: KABARET MŁODYCH PANÓW ANI MRU MRU Laureaci Konkursów Festiwalowych Piotr Kotas Band",
       "sourceName": "TZR",
@@ -1276,6 +1287,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/andrzejkowa-dyskoteka-w-olimpiirybnik"
     },
     {
+      "id": "bilnya-labirynt-fauna-202611301530",
+      "title": "Labirynt fauna",
+      "category": "Film",
+      "start": "2026-11-30T15:30",
+      "end": "2026-11-30T17:28",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/film/Labirynt-fauna?eid=711461#opis"
+    },
+    {
       "id": "iryb-rybnik-w-swiatecznym-klimacie",
       "title": "Rybnik w świątecznym klimacie",
       "category": "Festiwal",
@@ -1285,6 +1307,17 @@
       "description": "Grudniowe centrum Rybnika wypełnią świąteczne jarmarki, rodzinne atrakcje i muzyka lokalnych wykonawców. Wydarzeniom towarzyszyć będzie Festiwal Grzańca, a na fasadzie bazyliki św. Antoniego zaplanowano mapping. Wydarzenie rozpocznie się 4 grudnia 2026 roku w centrum Rybnika. Obejmie rynek, rejon bazyliki św. Antoniego, deptak i przyległe ulice. W przekazanych informacjach nie podano godziny rozpoczęcia. W programie znajdą się stoiska z rękodziełem i regionalnymi produktami, a także atrakcje dla rodzin. Na wydarzeniu wystąpią lokalni muzycy. Jednym z punktów będzie mapping wyświetlany na fasadzie bazyliki św. Antoniego. Dwa jarmarki, 15 beczek i mapping bazyliki. Grudzień w Rybniku",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/rybnik-w-swiatecznym-klimacie"
+    },
+    {
+      "id": "bilnya-selfie-czyli-milosc-na-pstryk-202612041900",
+      "title": "Selfie, czyli miłość na pstryk!",
+      "category": "Spektakl",
+      "start": "2026-12-04T19:00",
+      "end": "2026-12-04T20:30",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "😂💘 \"Selfie\" to komedia o randkach, nieporozumieniach i sercach, które potrafią zaskoczyć nawet swoich właścicieli! Gdy blokowisko spotyka świat online, zaczyna się zabawna spirala emocji. 🤳❤️ Zarezerwuj bilety i baw się świetnie! 🎟️✨.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Selfie-czyli-milosc-na-pstryk?eid=703614#opis"
     },
     {
       "id": "tzr-koncert-zespolu-universe",
@@ -1298,6 +1331,17 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/koncert-zespolu-universe.html"
     },
     {
+      "id": "bilnya-universe-202612051800",
+      "title": "Universe",
+      "category": "Koncert",
+      "start": "2026-12-05T18:00",
+      "end": "2026-12-05T19:30",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🔥Universe! Dołącz do nas, aby wspólnie świętować magię muzyki i tworzyć niezapomniane wspomnienia. Zakup bilet i przygotuj się na niezapomnianą podróż muzyczną podczas koncertu zespołu Universe ‼️🎶.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/Universe?eid=697526#opis"
+    },
+    {
       "id": "iryb-22-bieg-barborkowy-w-rybniku-uliczny-start-na-10-km-juz-6-gr",
       "title": "22. Bieg Barbórkowy w Rybniku. Uliczny start na 10 km już 6 grudnia",
       "category": "Sport",
@@ -1307,6 +1351,39 @@
       "description": "Grudniowy Rybnik znów pobiegnie w barbórkowym klimacie — 22. Bieg Barbórkowy to propozycja dla tych, którzy lubią miejskie bieganie, atestowaną trasę i sportowy start w samym środku zimy. Jeśli masz ochotę poczuć atmosferę miasta w ruchu, to może być bardzo dobry plan na niedzielne południe ‍ To klasyczny miejski bieg z barbórkowym charakterem — bez kombinowania, za to z dobrą trasą i konkretnym dystansem. Organizatorzy podają, że bieg ma charakter uliczny i jest atestowany, a nawierzchnia to głównie asfalt oraz kostka brukowa, więc można spodziewać się typowo „miejskiego” biegania W opisie wydarzenia pojawia się też informacja o trasie około 5 km, dlatego przy zapisach warto zwrócić uwagę na szczegóły dotyczące dystansu i przebiegu trasy. To wydarzenie może zainteresować zarówno osoby szukające sportowego wyzwania, jak i tych, którzy po prostu lubią atmosferę dużych lokalnych startów. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/22-bieg-barborkowy-w-rybniku-uliczny-start-na-10-km-juz-6-grudnia"
+    },
+    {
+      "id": "bilnya-pani-domu-jest-tylko-jedna-spektakl-komediowy-202612061530",
+      "title": "Pani domu jest tylko jedna - spektakl komediowy",
+      "category": "Spektakl",
+      "start": "2026-12-06T15:30",
+      "end": "2026-12-06T17:00",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🎭🤣 \"Pani domu jest tylko jedna\" to wybuchowa farsa z gwiazdorską obsadą! Pomoc domowa Nadia ratuje sytuację w domku letniskowym, gdzie spotkają się żona, kochanka i przyjaciel producenta filmowego. 🔥🎟️ Mnóstwo śmiechu i zwrotów akcji – nie przegap!.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Pani-domu-jest-tylko-jedna?eid=709014#opis"
+    },
+    {
+      "id": "bilnya-lukasz-kaczmarczyk-stand-up-przerwa-techniczna-202612101900",
+      "title": "Łukasz Kaczmarczyk stand-up - Przerwa techniczna",
+      "category": "Kabaret",
+      "start": "2026-12-10T19:00",
+      "end": "2026-12-10T21:00",
+      "venue": "Klub Odyseja, Raciborska 9",
+      "description": "😂🎤 Łukasz Kaczmarczyk z Kabaretu Młodych Panów zaprasza na \"Przerwę Techniczną\" – nowy stand-up pełen błyskotliwego humoru i życiowych obserwacji! Absurd codzienności w najlepszym wydaniu. Nie przegap tej dawki śmiechu! 🎟️🤣.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/stand-up/Lukasz-Kaczmarczyk?eid=696696#opis"
+    },
+    {
+      "id": "bilnya-francuski-numerek-202612111715",
+      "title": "Francuski Numerek",
+      "category": "Spektakl",
+      "start": "2026-12-11T17:15",
+      "end": "2026-12-11T18:45",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🎭 Francuski Numerek to wybuchowa mieszanka absurdu, wielkiego biznesu i... bezkompromisowej gosposi! 🧳💼 Gdy plan życia wymyka się spod kontroli, śmiech gwarantowany! 😂 Nie przegap tej komedii – bilety znikają jak świeże bagietki! 🥖🎟️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Francuski-Numerek?eid=709019#opis"
     },
     {
       "id": "iryb-inertia-over-rybnik-ironbound-kingsphere-i-m2r1-w-klubie-ody",
@@ -1335,11 +1412,22 @@
       "title": "Osiecka Królową Piosenki: koncert w Rybniku",
       "category": "Koncert",
       "start": "2026-12-13T18:07",
-      "end": null,
+      "end": "2026-12-13T20:07",
       "venue": "Klub Odyseja",
       "description": "Piosenki Agnieszki Osieckiej zabrzmią w kameralnej odsłonie w Klubie Odyseja w Rybniku. W programie znajdą się utwory znane z interpretacji m.in. Maryli Rodowicz, Marka Grechuty, Edyty Geppert i Skaldów. Data: 13 grudnia 2026 roku (niedziela), godz. 18:07 Miejsce: Klub Odyseja, Rybnik Bilety: dostępne w serwisach KupBilecik, Biletyna i Biletomat. Ceny nie podano. Podczas koncertu zabrzmią utwory, które przed laty wykonywali m.in. Edmund Fetting, Krystyna Janda, Łucja Prus i Seweryn Krajewski. To muzyczna podróż przez piosenki pełne charakterystycznych tekstów i melodii, które na stałe zapisały się w polskiej kulturze. Wystąpią Bartosz Baltazar Zbroszczyk – śpiewający i grający na gitarze oraz fortepianie – oraz Krzysztof Szmytke, który zagra na skrzypcach i zaśpiewa. Zbroszczyk jest muzykiem, kompozytorem i aranżerem, a także autorem albumu „Baltazar – Jestem nikim”. Koncertuje również z programem poświęconym twórczości Seweryna Krajewskiego.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/osiecka-krolowa-piosenki-koncert-w-rybniku"
+    },
+    {
+      "id": "bilnya-najdrozszy-spektakl-komediowy-202612201500",
+      "title": "Najdroższy - spektakl komediowy",
+      "category": "Spektakl",
+      "start": "2026-12-20T15:00",
+      "end": "2026-12-20T16:30",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🎭✨ \"Najdroższy\" to błyskotliwa komedia o pechowcu, który za wszelką cenę próbuje odmienić swój los! 😄 Absurdalne sytuacje, zaskakujące zwroty akcji i humor w paryskim stylu – baw się do łez! Sprawdź repertuar i zarezerwuj bilety już dziś! 🎟️❤️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Najdrozszy?eid=707088#opis"
     },
     {
       "id": "tzr-soyka-grott-orkiestra-w-holdzie-mistrzowi-przelozony",

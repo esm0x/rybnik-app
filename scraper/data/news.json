@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:32:35",
+  "generated_at": "2026-10-10T15:58:31",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,66 @@
     }
   ],
   "items": [
+    {
+      "id": "5745c56dba1779ca1048da21a7f1a418b054af1b",
+      "title": "Fortepian przy Starostwie Powiatowym w Rybniku znów zniszczony… Kilka dni temu wrócił z naprawy",
+      "summary": "Po zaledwie kilku dniach od powrotu z naprawy, znów został uszkodzony. Ktoś zniszczył fortepian, znajdujący się przy rybnickim Starostwie Powiatowym. Jego przedstawiciele deklarują jednak, że zrobią wszystko, aby ponownie go zreperować. - Mamy nadzieję, że już wkrótce znów będzie można usłyszeć…",
+      "link": "https://www.radio90.pl/fortepian-przy-starostwie-powiatowym-w-rybniku-znow-zniszczony-kilka-dni-temu-wrocil-z-naprawy.html",
+      "published": "2026-10-10T15:20",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3aa8b9d55bae551bbb7591ebee865f15e1ba0abb",
+      "title": "6 kilometrów wyzwania i sportowej rywalizacji. Modzurów-Jastrzębie postawiło na ruch! [ZDJĘCIA]",
+      "summary": "Biegacze i miłośnicy nordic walking spotkali się w Modzurowie-Jastrzębiu, by wziąć udział w drugiej edycji zawodów „Drabko II”. Na uczestników czekała około sześciokilometrowa trasa, a wydarzenie było okazją do aktywnego spędzenia czasu i sportowej rywalizacji.",
+      "link": "https://www.nowiny.pl/wiadomosci/251439-6-kilometrow-wyzwania-i-sportowej-rywalizacji-modzurow-jastrzebie-postawilo-na-ruch-zdjecia.html",
+      "published": "2026-10-10T13:59",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "306dbad277503f77e4881ac2a1cf82049da98fc8",
+      "title": "Wyprzedaż garażowa w Rydułtowach. Będzie można kupić i sprzedać niepotrzebne rzeczy [ZDJĘCIA]",
+      "summary": "Stare płyty, książki, zabawki, ubrania czy przedmioty, które od lat zalegają w szafach, mogą znaleźć nowych właścicieli. W sobotę 17 października na targowisku miejskim w Rydułtowach odbędzie się jarmark staroci połączony z wyprzedażą garażową. Udział w wydarzeniu będzie bezpłatny.",
+      "link": "https://www.nowiny.pl/wiadomosci/251440-wyprzedaz-garazowa-w-rydultowach-bedzie-mozna-kupic-i-sprzedac-niepotrzebne-rzeczy-zdjecia.html",
+      "published": "2026-10-10T13:58",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e7a164d943e92cf6781fba4c2496699dc9953f80",
+      "title": "Rybnik w grze komputerowej! Miasto odwzorowano w Minecrafcie. Mają się w nim pojawić wszystkie polskie miasta [ZDJĘCIA]",
+      "summary": "Jest bazylika i pobliski skwer noszący imię Polskiej Organizacji Wojskowej (POW). Jest rynek z fontanną, która w świecie rzeczywistym niedawno remontowano. Wreszcie jest kampus, na którym swoją siedzibę mamy my - Radio 90. Rybnik trafił do gry komputerowej - Minecraft. Miasto zostało odwzorowane w…",
+      "link": "https://www.radio90.pl/rybnik-w-grze-komputerowej-miasto-odwzorowano-w-minecrafcie-maja-sie-w-nim-pojawic-wszystkie-polskie-miasta-zdjecia.html",
+      "published": "2026-10-10T13:57",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c92b3e165507eecc9f3ef44ce73fbf5d4916301a",
+      "title": "Ćwiczenia strażaków na terenie zakładu produkcyjnego w Wodzisławiu. W akcji kilkanaście jednostek [ZDJĘCIA]",
+      "summary": "Kilkanaście jednostek ochotniczych straży pożarnych z powiatu wodzisławskiego wzięło udział w ćwiczeniach na terenie firmy Luxecasting Poland BodTech, zajmującej się produkcją sprzętu strażackiego. Działaniami dowodził Dawid Fortuna, komendant miejsko-gminny ZOSP RP w Wodzisławiu Śl.",
+      "link": "https://www.nowiny.pl/wiadomosci/251438-cwiczenia-strazakow-na-terenie-zakladu-produkcyjnego-w-wodzislawiu-w-akcji-kilkanascie-jednostek-zdjecia.html",
+      "published": "2026-10-10T13:41",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "39a59d9b9ed2ee0ce5cb8471069d03262c332305",
+      "title": "Hubertus 2026 w Żerdzinach [ZDJĘCIA]",
+      "summary": "Miłośnicy koni i tradycji jeździeckich spotkali się w sobotę, 10 października, w Żerdzinach w gminie Pietrowice Wielkie. W programie tegorocznego Hubertusa znalazły się uroczysty korowód jeźdźców i zaprzęgów, gonitwa za lisem w Kornicach oraz konkurencje sprawnościowe.",
+      "link": "https://agronowiny.pl/wiadomosci/251437-hubertus-2026-w-zerdzinach-zdjecia.html",
+      "published": "2026-10-10T13:31",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "bd649c44846923ed30e8a035375b2877c519ea82",
       "title": "Bezpieczne grzybobranie. Mamy dla was porady, warto to przeczytać przed wyjściem do lasu",
@@ -219,26 +279,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "fcc89705462ad876c45947b5140a14a9cd559412",
-      "title": "„Dziady” z dreszczykiem. Narodowe Czytanie w Kobyli [ZDJĘCIA]",
-      "summary": "Uczniowie klasy VIII Zespołu Szkolno-Przedszkolnego w Kobyli (gm. Kornowac) zaprezentowali fragmenty „Dziadów” cz. II Adama Mickiewicza. Tegoroczna odsłona Narodowego Czytania, która odbyła się 8 października, nawiązywała do mrocznego klimatu romantycznego dramatu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251425-dziady-z-dreszczykiem-narodowe-czytanie-w-kobyli-zdjecia.html",
-      "published": "2026-10-09T10:15",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6f513a80f6390fcae422ca0dbc7c4d89390d0cd5",
-      "title": "Prof. Julian Gembalski na finał „Muzyki w starym opactwie”",
-      "summary": "W niedzielę, 18 października, w bazylice Matki Bożej Pokornej w Rudach odbędzie się ostatni w tym roku koncert festiwalu „Muzyka w starym opactwie”. Wystąpią prof. Julian Gembalski oraz zespół wokalny Vox Amici pod kierownictwem Krzysztofa Hrycyszyna.",
-      "link": "https://www.nowiny.pl/wiadomosci/251424-prof-julian-gembalski-na-final-muzyki-w-starym-opactwie.html",
-      "published": "2026-10-09T10:08",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "286423663047e7ca825d5a095abc720ea722ebba",
       "title": "Trudna sytuacja w szkołach. Jak poradzić sobie ze stresem i pomóc dziecku?",
       "summary": "Ataki nożowników w szkołach, seria policyjnych zatrzymań nastolatków w Warszawie i okolicach, do tego policyjne patrole w naszych szkołach. To wszystko powoduje stres i u rodziców, i u dzieci. Jak poradzić sobie z tą sytuacją?",
@@ -249,16 +289,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "05fae139843ae154c6e0a567d4828601a6ee9914",
-      "title": "Praca w domu pomocy społecznej \"Złota Jesień\" w Raciborzu",
-      "summary": "Dom Pomocy Społecznej „Złota Jesień” w Raciborzu zatrudni osobę na stanowisko GŁÓWNY KSIĘGOWY / GŁÓWNA KSIĘGOWA Oferujemy pracę na pełny etat, termin rozpoczęcia pracy od dnia 01.12.2026 r.",
-      "link": "https://www.nowiny.pl/wiadomosci/251418-praca-w-domu-pomocy-spolecznej-zlota-jesien-w-raciborzu.html",
-      "published": "2026-10-09T09:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "cdb92f777ae2421db46e69d01ea7692e2038a1bd",
       "title": "Przyszła jesień, z drzew spadły liście. Zarząd Zieleni Miejskiej w Rybniku także je sprząta, ale nie wszędzie",
       "summary": "Symbol jesieni - liść. Dla jednych radość, dla drugich problem. Ze spadających z drzew liści cieszą się najmłodsi, ale już starsi niekoniecznie.",
@@ -266,16 +296,6 @@
       "published": "2026-10-09T08:15",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "4a454c92420e65cc07e1f5d7130badd54d3037fb",
-      "title": "80 mln zł na rozwój lokalnej energetyki. NFOŚiGW zapowiada nowy program",
-      "summary": "Jeszcze w 2026 roku ma ruszyć program z budżetem 80 mln zł, który wesprze rozwój lokalnych społeczności energetycznych. Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej chce zachęcić samorządy, mieszkańców i przedsiębiorców do wspólnego wytwarzania i wykorzystywania energii.",
-      "link": "https://www.nowiny.pl/ekonowiny/251421-80-mln-zl-na-rozwoj-lokalnej-energetyki-nfosigw-zapowiada-nowy-program.html",
-      "published": "2026-10-09T08:15",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -434,36 +454,6 @@
       "summary": "\"Autoportret, portret. Apolonia Dwurnik, Edward Dwurnik\". Już w piątek (9.10) wernisaż wystawy, przygotowanej w Galerii Rzeczna w Rybniku przez malarkę Apolonię Dwurnik, po ponad 40 latach jej prace oraz prace jej ojca będą na jednej ekspozycji.",
       "link": "https://www.radio90.pl/galeria-sztuki-rzeczna-w-rybniku-w-piatek-wernisaz-wystawy-prac-malarki-apolonii-dwurnik-oraz-jej-ojca-zdjecia.html",
       "published": "2026-10-07T11:55",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "20e74cbf05026ced96bf3c1567fecd153b1ea051",
-      "title": "Raportowanie schematów podatkowych – czym jest, kogo dotyczy i co się zmieni w październiku 2026?",
-      "summary": "Przepisy dotyczące raportowania schematów podatkowych (z ang. Mandatory Disclosure Rules – MDR) stanowią jeden z najbardziej skomplikowanych i krytycznych obszarów polskiego prawa podatkowego. Wprowadzone w celu przeciwdziałania unikaniu opodatkowania, przez lata nakładały na przedsiębiorców…",
-      "link": "https://www.radio90.pl/raportowanie-schematow-podatkowych-czym-jest-kogo-dotyczy-i-co-sie-zmieni-w-pazdzierniku-2026.html",
-      "published": "2026-10-07T11:39",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "95010368676ca6cc7ac4ad1fb10de45a3b7a5d8c",
-      "title": "Konkurs dziennikarski w ramach Rybnickich Dni Kariery. Nagrodą warsztaty w Radiu 90",
-      "summary": "Konkurs dziennikarski „Za każdym zawodem stoi człowiek” w ramach Rybnickich Dni Kariery. Przygotował go Powiatowy Urząd Pracy w Rybniku dla uczniów szkół ponadpodstawowych.",
-      "link": "https://www.radio90.pl/konkurs-dziennikarski-w-ramach-rybnickich-dni-kariery-nagroda-warsztaty-w-radiu-90.html",
-      "published": "2026-10-07T11:20",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "7ea4452ba9ddaea9791f7436e18d7d06dad71af3",
-      "title": "Pożary traw w regionie. Strażaków wzywano do Czerwionki i do Zwonowic",
-      "summary": "Jest słońce, są pożary traw. W raportach strażaków z regionu akcje na nieużytkach.",
-      "link": "https://www.radio90.pl/pozary-traw-w-regionie-strazakow-wzywano-do-czerwionki-i-do-zwonowic.html",
-      "published": "2026-10-07T10:10",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -976,6 +966,16 @@
       "published": "2026-09-18T12:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "f40e419e6ecb586444c970f72b3bb7d650a2b793",
+      "title": "Rusza budowa łącznika ulic Kominka i Orzepowickiej",
+      "summary": "Od poniedziałku 21 września ulica Jośki zostanie częściowo zamknięta z powodu prac rozbiórkowych i budowy kanalizacji deszczowej. Sprawdź, jak dojechać do Młodzieżowego Domu Kultury na czas trwania robót.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/powstanie-polaczenie-ulic-kardynala-kominka-i-orzepowickiej-1",
+      "published": "2026-09-18T00:00",
+      "source": "rybnik.eu",
+      "category": "Komunikaty",
       "priority": "ALERT"
     },
     {
