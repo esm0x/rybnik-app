@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:08:16",
+  "generated_at": "2026-10-10T17:25:13",
   "count": 60,
   "failures": [],
   "teams": [
@@ -595,10 +595,10 @@
       "home": "ROW 1964 Rybnik",
       "away": "Ślęza Wrocław",
       "isHome": true,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 1,
       "scoreNote": null,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "stage": "REGULAR",
       "url": null
     },
