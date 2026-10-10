@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:40:23",
+  "generated_at": "2026-10-10T05:54:19",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,26 @@
     }
   ],
   "items": [
+    {
+      "id": "37f1f0e39656c53b546a51aa4e0183152572c7b2",
+      "title": "20 miejsc na Jarmarku św. Marcina w Żorach. Wystawcy mogą składać oferty",
+      "summary": "Żory szukają wystawców na tegoroczny Jarmark św. Marcina. Na rynku przygotowano 20 miejsc handlowych, a minimalna stawka za jedno z nich wynosi 200 zł netto. Oferty można składać do 29 października.",
+      "link": "https://ezory.pl/wiadomosci/251388-20-miejsc-na-jarmarku-sw-marcina-w-zorach-wystawcy-moga-skladac-oferty.html",
+      "published": "2026-10-10T04:11",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "eee9556c5b3576fef4a8e45a0909a97bafad1c47",
+      "title": "Śmiech to zdrowie, więc pośmiejmy się razem! [KONKURS w Radiu 90]",
+      "summary": "Czy wiesz, że śmiech to najlepsze lekarstwo? W Radiu 90 mamy dla Was wesoły konkurs, w którym do wygrania bilety na występ kabaretu Neo-Nówka w Jastrzębiu-Zdroju. Zapraszamy wszystkich słuchaczy do wspólnej zabawy!",
+      "link": "https://www.radio90.pl/smiech-to-zdrowie-wiec-posmiejmy-sie-razem-konkurs-w-radiu-90.html",
+      "published": "2026-10-10T04:00",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "15e4a6d1ef8105c80253252ac24c5c064660ed6e",
       "title": "Prezent dla kobiety – sprawdzone i mniej oczywiste pomysły na różne okazje",
@@ -246,16 +266,6 @@
       "published": "2026-10-09T05:40",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c56401c8a0d4b4b64038938bb6962f362caf9507",
-      "title": "Podatek od blaszaka. Kiedy garaż blaszany staje się budynkiem i co ma do tego podłoże",
-      "summary": "Od 2025 roku o tym, czy od garażu blaszanego trzeba płacić podatek od nieruchomości, przesądza sposób jego posadowienia. Fundament i kotwy mogą sprawić, że w świetle przepisów “blaszak” stanie się budynkiem. Wyjaśniamy, jak czytać nowe definicje po pierwszym wyroku sądu i interpretacji ministra…",
-      "link": "https://www.nowiny.pl/wiadomosci/251434-podatek-od-blaszaka-kiedy-garaz-blaszany-staje-sie-budynkiem-i-co-ma-do-tego-podloze.html",
-      "published": "2026-10-09T05:30",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -534,16 +544,6 @@
       "summary": "Ma 184 hektarów powierzchni i jest jednym z największych na Śląsku. Dotychczasowe uroczysko \"Głębokie Doły\" na granicy Rybnika Ochojca i Książenic od dziś (06.10) oficjalnie stało się rezerwatem \"Głębokie Doły\". Największą wartością tego miejsca są buczyny - przyznają zgodnie miłośnicy przyrody.",
       "link": "https://www.radio90.pl/ponad-180-hektarow-lasow-pod-ochrona-powstal-rezerwat-glebokie-doly.html",
       "published": "2026-10-06T09:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "046746a5d1c74913a35b6fdf3040c991f22c5090",
-      "title": "Mamy najnowszy raport śląskiej drogówki",
-      "summary": "Do 98 zdarzeń drogowych doszło wczoraj (5.10) na trasach regionu. Mamy codzienny raport śląskiej drogówki.",
-      "link": "https://www.radio90.pl/mamy-najnowszy-raport-slaskiej-drogowki.html",
-      "published": "2026-10-06T07:10",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
