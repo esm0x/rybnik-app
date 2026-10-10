@@ -24,8 +24,8 @@ android {
         applicationId = "com.adminstack.rybnik"
         minSdk = 26
         targetSdk = 35
-        versionCode = 17
-        versionName = "1.2.7"
+        versionCode = 18
+        versionName = "1.3.0"
     }
 
     signingConfigs {
@@ -59,7 +59,11 @@ android {
         targetCompatibility = JavaVersion.VERSION_17
     }
     kotlinOptions { jvmTarget = "17" }
-    buildFeatures { compose = true }
+    buildFeatures {
+        compose = true
+        // VERSION_CODE lets a developer announcement target only older builds.
+        buildConfig = true
+    }
 }
 
 dependencies {

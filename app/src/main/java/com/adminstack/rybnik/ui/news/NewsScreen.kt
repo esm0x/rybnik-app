@@ -294,12 +294,17 @@ private fun NewsCard(
  * read within a minute, leaving the notification worker nothing to announce.
  */
 @Composable
-internal fun MarkSeenWhenShown(alertId: String) {
+internal fun MarkSeenWhenShown(alertId: String) =
+    WhenReadOnScreen(alertId) { Graph.prefs.markAlertsSeen(listOf(alertId)) }
+
+/** The rule above, for anything else that should stay quiet once read. */
+@Composable
+internal fun WhenReadOnScreen(key: Any, onRead: suspend () -> Unit) {
     val lifecycle = LocalLifecycleOwner.current.lifecycle
-    LaunchedEffect(alertId, lifecycle) {
+    LaunchedEffect(key, lifecycle) {
         lifecycle.repeatOnLifecycle(Lifecycle.State.RESUMED) {
             delay(SEEN_AFTER_MS)
-            Graph.prefs.markAlertsSeen(listOf(alertId))
+            onRead()
         }
     }
 }

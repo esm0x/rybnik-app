@@ -29,6 +29,10 @@ limit 120 pozycji, więc bez tego remont ulicy potrafił wisieć na górze tygod
 Ukryte siedzą w DataStore, da się je przejrzeć i przywrócić, i nie wracają jako
 powiadomienie.
 
+Ogłoszenia od autora: karta na samej górze Startu plus jedno powiadomienie (kanał
+„Od autora aplikacji”). Treść to ręcznie edytowany `scraper/data/announcement.json`,
+patrz niżej.
+
 Motyw: jasny / ciemny / jak system, przełączany w Ustawieniach.
 Ekran „Wesprzyj projekt" w zakładce Więcej: buycoffee, link do repo i zgłaszanie błędów.
 
@@ -95,6 +99,35 @@ zawiera tylko adres aktualnego `gtfs.zip`, a apka pobiera i importuje go sama do
 
 Kontrakt pól opisuje `scraper/CONTRACT.md` — **nazwy pól i wartości enumów są wiążące**,
 Kotlin deserializuje je 1:1.
+
+## Ogłoszenie od autora: jak wysłać
+
+1. Na GitHubie otwórz `scraper/data/announcement.json` → ołówek (Edit).
+2. Wklej i dostosuj:
+   ```json
+   {
+     "id": "2026-11-aktualizacja-1-3",
+     "title": "Nowa wersja w Sklepie Play",
+     "body": "Poprawiliśmy powiadomienia. Zaktualizuj aplikację.",
+     "link": "https://play.google.com/store/apps/details?id=com.adminstack.rybnik",
+     "link_label": "Aktualizuj",
+     "max_version": 17,
+     "until": "2026-11-30"
+   }
+   ```
+3. Commit na `main`. Gotowe.
+
+- **`id` musi być nowe przy każdym ogłoszeniu.** Po nim apka pamięta, że już
+  powiadomiła i że ktoś kartę zamknął. Poprawka literówki z tym samym `id` zmieni
+  kartę, ale nie wyśle drugiego powiadomienia.
+- Wymagane są tylko `id` i `title`. `notify: false` pokazuje kartę bez powiadomienia.
+- `min_version` / `max_version` to **versionCode** (z `app/build.gradle.kts`), nie
+  numer wersji. `"max_version": 17` = tylko ci, którzy mają 1.2.7 lub starszą.
+- `until` to ostatni dzień wyświetlania (`RRRR-MM-DD`). Błędna data ukrywa ogłoszenie.
+- Wyłączenie: zamień całą treść pliku na `{}`.
+- Kiedy dotrze: przy otwarciu apki od razu (GitHub cache'uje plik do ~5 min),
+  powiadomienie przy najbliższym przebiegu workera, czyli do ~3 h.
+- Kto przeczytał kartę na Starcie (1,5 s na ekranie), nie dostaje już powiadomienia.
 
 ## Pułapki w danych (zweryfikowane, obsłużone w kodzie)
 
@@ -304,7 +337,8 @@ Kotlin deserializuje je 1:1.
 7. ✅ v1.1 — widget na pulpit, PSZOK/GPZON + „gdzie wyrzucić X", ostrzeżenia IMGW
 8. ✅ v1.2 — przypomnienia odporne na Doze (alarm dobowy), przetrwanie restartu,
    sekcja o oszczędzaniu baterii; play-offy żużla i linki do relacji meczów;
-   każdy komunikat z osobnym powiadomieniem, bez duplikatów i bez przeczytanych
+   każdy komunikat z osobnym powiadomieniem, bez duplikatów i bez przeczytanych;
+   v1.3 — ogłoszenia od autora (karta na Starcie + powiadomienie, z `announcement.json`)
 9. ⏭️ Mapa przystanków i tras (OSM, bo GTFS nie ma geometrii)
 10. ❌ Odjazdy na żywo — odrzucone: KM Rybnik nie ma danych GPS (patrz ograniczenia)
 11. ✅ Ciemny motyw + przełącznik jasny / ciemny / jak system

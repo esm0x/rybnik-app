@@ -1,5 +1,11 @@
 package com.adminstack.rybnik.ui.home
 
+import androidx.compose.material.icons.outlined.Campaign
+import androidx.compose.material3.TextButton
+import androidx.compose.ui.platform.LocalContext
+import com.adminstack.rybnik.data.announce.Announcement
+import com.adminstack.rybnik.ui.common.openExternalLink
+import com.adminstack.rybnik.ui.news.WhenReadOnScreen
 import androidx.compose.ui.platform.LocalLifecycleOwner
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.repeatOnLifecycle
@@ -93,6 +99,7 @@ data class HomeUi(
     val alerts: List<NewsItem> = emptyList(),
     val outages: List<Outage> = emptyList(),
     val sport: Highlight? = null,
+    val announcement: Announcement? = null,
     /** Set when the sources could not be reached, so the empty cards get an explanation. */
     val offline: Boolean = false,
     val hasAnyData: Boolean = false,
@@ -120,7 +127,12 @@ class HomeViewModel : ViewModel() {
         // render the dashboard a moment too early and leave those cards blank until the
         // user hit refresh by hand — which is exactly what a first launch looks like.
         viewModelScope.launch {
-            combine(Graph.eventRepo.data, Graph.newsRepo.data, Graph.sportRepo.data) { _, _, _ -> }
+            combine(
+                Graph.eventRepo.data,
+                Graph.newsRepo.data,
+                Graph.sportRepo.data,
+                Graph.announceRepo.data,
+            ) { _, _, _, _ -> }
                 .collect { recomputeDerived() }
         }
         // Four empty cards and no explanation is what a first launch with no signal looked
@@ -140,9 +152,12 @@ class HomeViewModel : ViewModel() {
     }
 
     private suspend fun recomputeDerived() {
-        val hidden = Graph.prefs.settings.first().hiddenNewsIds
+        val settings = Graph.prefs.settings.first()
+        val hidden = settings.hiddenNewsIds
         _ui.update {
             it.copy(
+                announcement = Graph.announceRepo.current()
+                    ?.takeIf { a -> a.id != settings.announcementDismissedId },
                 nextEvents = upcomingEvents(),
                 alerts = Graph.newsRepo.currentAlerts(hidden),
                 sport = Graph.sportRepo.highlight(),
@@ -169,6 +184,13 @@ class HomeViewModel : ViewModel() {
         viewModelScope.launch {
             Graph.prefs.hideNews(id)
             _ui.update { ui -> ui.copy(alerts = ui.alerts.filterNot { it.id == id }) }
+        }
+    }
+
+    fun dismissAnnouncement(id: String) {
+        viewModelScope.launch {
+            Graph.prefs.dismissAnnouncement(id)
+            _ui.update { it.copy(announcement = null) }
         }
     }
 
@@ -199,6 +221,7 @@ class HomeViewModel : ViewModel() {
             Graph.eventRepo.refresh()
             Graph.newsRepo.refresh()
             Graph.sportRepo.refresh()
+            Graph.announceRepo.refresh()
 
             _ui.update {
                 it.copy(
@@ -273,6 +296,12 @@ fun HomeScreen(
                         },
                         onRetry = vm::refresh,
                     )
+                }
+            }
+
+            ui.announcement?.let { a ->
+                item(key = "announcement") {
+                    AnnouncementCard(a, onClose = { vm.dismissAnnouncement(a.id) })
                 }
             }
 
@@ -552,6 +581,62 @@ private fun AlertCard(
                 "${item.source} · ${item.published.format(SHORT_DAY_FMT)}",
                 style = MaterialTheme.typography.labelSmall,
             )
+        }
+    }
+}
+
+/**
+ * A message from the developer, from announcement.json. First on the dashboard because
+ * it is rare and usually matters, and closable for good: a new id brings it back.
+ */
+@Composable
+private fun AnnouncementCard(announcement: Announcement, onClose: () -> Unit) {
+    val context = LocalContext.current
+    // Read here means no notification later; see DailyReminderWorker.checkAnnouncement.
+    WhenReadOnScreen(announcement.id) { Graph.prefs.markAnnouncementSeen(announcement.id) }
+    Card(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(horizontal = 16.dp),
+        shape = RoundedCornerShape(18.dp),
+        colors = CardDefaults.cardColors(
+            containerColor = MaterialTheme.colorScheme.primaryContainer,
+            contentColor = MaterialTheme.colorScheme.onPrimaryContainer,
+        ),
+    ) {
+        Column(Modifier.padding(start = 16.dp, end = 4.dp, top = 4.dp, bottom = 12.dp)) {
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Icon(Icons.Outlined.Campaign, null, Modifier.size(18.dp))
+                Spacer(Modifier.width(8.dp))
+                Text(
+                    "Od autora aplikacji",
+                    style = MaterialTheme.typography.labelLarge,
+                    modifier = Modifier.weight(1f),
+                )
+                IconButton(onClick = onClose, modifier = Modifier.size(48.dp)) {
+                    Icon(
+                        Icons.Outlined.Close,
+                        contentDescription = "Zamknij ogłoszenie",
+                        modifier = Modifier.size(18.dp),
+                    )
+                }
+            }
+            Column(Modifier.padding(end = 12.dp)) {
+                Text(
+                    announcement.title,
+                    style = MaterialTheme.typography.titleSmall,
+                    fontWeight = FontWeight.SemiBold,
+                )
+                announcement.body?.let {
+                    Spacer(Modifier.height(4.dp))
+                    Text(it, style = MaterialTheme.typography.bodyMedium)
+                }
+            }
+            announcement.link?.let { url ->
+                TextButton(onClick = { openExternalLink(context, url) }) {
+                    Text(announcement.linkLabel)
+                }
+            }
         }
     }
 }

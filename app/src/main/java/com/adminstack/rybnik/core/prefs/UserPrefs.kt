@@ -43,6 +43,10 @@ data class Settings(
     val seenAlertIds: Set<String> = emptySet(),
     /** Everything already announced, as dated keys; see NotificationRules.key. */
     val notifiedKeys: Set<String> = emptySet(),
+    /** The developer announcement already read on the dashboard or announced. */
+    val announcementSeenId: String? = null,
+    /** The developer announcement the user closed; a new id brings the card back. */
+    val announcementDismissedId: String? = null,
     val notifyWaste: Boolean = true,
     val notifyEvents: Boolean = true,
     val notifySmog: Boolean = true,
@@ -73,6 +77,8 @@ class UserPrefs(private val context: Context) {
             hiddenNewsIds = p[KEY_HIDDEN_NEWS] ?: emptySet(),
             seenAlertIds = p[KEY_SEEN_ALERTS] ?: emptySet(),
             notifiedKeys = p[KEY_NOTIFIED] ?: emptySet(),
+            announcementSeenId = p[KEY_ANNOUNCE_SEEN],
+            announcementDismissedId = p[KEY_ANNOUNCE_DISMISSED],
             notifyWaste = p[KEY_NOTIFY_WASTE] ?: true,
             notifyEvents = p[KEY_NOTIFY_EVENTS] ?: true,
             notifySmog = p[KEY_NOTIFY_SMOG] ?: true,
@@ -159,6 +165,14 @@ class UserPrefs(private val context: Context) {
         }
     }
 
+    suspend fun markAnnouncementSeen(id: String) = context.dataStore.edit { p ->
+        if (p[KEY_ANNOUNCE_SEEN] != id) p[KEY_ANNOUNCE_SEEN] = id
+    }
+
+    suspend fun dismissAnnouncement(id: String) = context.dataStore.edit { p ->
+        p[KEY_ANNOUNCE_DISMISSED] = id
+    }
+
     /** Replaces the ledger; pruning is the caller's job, it knows what "old" means. */
     suspend fun setNotifiedKeys(keys: Set<String>) = context.dataStore.edit { p ->
         p[KEY_NOTIFIED] = keys
@@ -223,6 +237,8 @@ private val KEY_FAV_STOPS = stringSetPreferencesKey("fav_stops")
 private val KEY_HIDDEN_NEWS = stringSetPreferencesKey("hidden_news")
 private val KEY_SEEN_ALERTS = stringSetPreferencesKey("seen_alerts")
 private val KEY_NOTIFIED = stringSetPreferencesKey("notified_keys")
+private val KEY_ANNOUNCE_SEEN = stringPreferencesKey("announce_seen")
+private val KEY_ANNOUNCE_DISMISSED = stringPreferencesKey("announce_dismissed")
 private val KEY_NOTIFY_WASTE = booleanPreferencesKey("notify_waste")
 private val KEY_NOTIFY_EVENTS = booleanPreferencesKey("notify_events")
 private val KEY_NOTIFY_SMOG = booleanPreferencesKey("notify_smog")

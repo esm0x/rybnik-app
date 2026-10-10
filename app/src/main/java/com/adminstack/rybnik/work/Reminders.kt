@@ -1,5 +1,6 @@
 package com.adminstack.rybnik.work
 
+import com.adminstack.rybnik.data.announce.shouldNotify
 import android.Manifest
 import android.app.NotificationChannel
 import android.app.NotificationManager
@@ -38,6 +39,7 @@ object Reminders {
     const val CHANNEL_SMOG = "smog"
     const val CHANNEL_ALERTS = "alerts"
     const val CHANNEL_OUTAGES = "outages"
+    const val CHANNEL_APP = "app"
 
     fun createChannels(context: Context) {
         if (Build.VERSION.SDK_INT < Build.VERSION_CODES.O) return
@@ -48,6 +50,7 @@ object Reminders {
             Triple(CHANNEL_SMOG, "Jakość powietrza", "Ostrzeżenia o smogu"),
             Triple(CHANNEL_ALERTS, "Komunikaty miejskie", "Awarie i utrudnienia"),
             Triple(CHANNEL_OUTAGES, "Wyłączenia prądu", "Wyłączenia pod Twoim adresem"),
+            Triple(CHANNEL_APP, "Od autora aplikacji", "Ważne informacje o aplikacji, np. o aktualizacjach"),
         ).forEach { (id, name, desc) ->
             mgr.createNotificationChannel(
                 NotificationChannel(id, name, NotificationManager.IMPORTANCE_DEFAULT).apply {
@@ -231,6 +234,9 @@ class DailyReminderWorker(
         if (settings.notifySmog) runCatching { checkSmog(settings.smogThreshold, ledger) }
         if (settings.notifyCityAlerts) runCatching { checkAlerts(ledger) }
         if (settings.notifyOutages) runCatching { checkOutages(ledger) }
+        // No switch in the app's settings: it is rare, and its own system channel can be
+        // silenced like any other.
+        runCatching { checkAnnouncement() }
 
         val pruned = NotificationRules.prune(ledger, LocalDate.now())
         if (pruned != before) Graph.prefs.setNotifiedKeys(pruned)
@@ -377,12 +383,28 @@ class DailyReminderWorker(
         if (posted) ledger += keyOf(next)
     }
 
+    /** The developer's message, once, unless it was already read on the dashboard. */
+    private suspend fun checkAnnouncement() {
+        Graph.announceRepo.refresh()
+        val announcement = Graph.announceRepo.current() ?: return
+        val settings = Graph.prefs.settings.first()
+        if (!announcement.shouldNotify(settings.announcementSeenId, settings.announcementDismissedId)) return
+        val posted = Reminders.notify(
+            applicationContext, Reminders.CHANNEL_APP, NOTIF_APP,
+            announcement.title,
+            announcement.body.orEmpty(),
+            Reminders.DEST_HOME,
+        )
+        if (posted) Graph.prefs.markAnnouncementSeen(announcement.id)
+    }
+
     private companion object {
         const val NOTIF_WASTE = 1001
         const val NOTIF_EVENTS = 1002
         const val NOTIF_SMOG = 1003
         const val NOTIF_ALERTS = 1004
         const val NOTIF_OUTAGES = 1005
+        const val NOTIF_APP = 1006
 
         val runLock = Mutex()
     }

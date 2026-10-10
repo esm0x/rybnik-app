@@ -257,6 +257,25 @@ Wpis bez `item` albo `where` jest pomijany z ostrzeżeniem.
 
 ---
 
+## announcement.json (wejście, edytuje człowiek)
+
+Ogłoszenie od autora aplikacji. Żaden scraper go nie czyta ani nie pisze; `{}` znaczy
+„brak ogłoszenia”. Wszystkie pola są opcjonalne, ale bez `id` i `title` nic się nie
+pokazuje.
+
+| Pole | Typ | Znaczenie |
+|---|---|---|
+| `id` | string | unikalne dla każdego ogłoszenia; po nim apka pamięta „powiadomiono” i „zamknięto” |
+| `title` | string | tytuł karty i powiadomienia |
+| `body` | string? | treść |
+| `link` | string? | tylko `http(s)://`, inne schematy są odrzucane |
+| `link_label` | string? | napis na przycisku, domyślnie „Otwórz” |
+| `notify` | bool | domyślnie `true`; `false` = sama karta, bez powiadomienia |
+| `min_version`, `max_version` | int? | zakres versionCode włącznie |
+| `until` | `YYYY-MM-DD`? | ostatni dzień wyświetlania; niepoprawna data = ukryte |
+
+---
+
 ## transit_meta.json
 
 Rozkład jest za duży na JSON — apka pobiera `gtfs.zip` bezpośrednio.
