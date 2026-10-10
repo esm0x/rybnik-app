@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T20:40:56",
+  "generated_at": "2026-10-10T21:42:34",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,16 @@
     }
   ],
   "items": [
+    {
+      "id": "035abea436d891e7485a1129e6243091a6ecc273",
+      "title": "Sowa, miś Puchatek i karoca z końmi. 64 dyniowe lampiony w Rybniku",
+      "summary": "Aż 64 prace zgłoszono do konkursu na „Najpiękniejszy dyniowy lampion”, który odbył się podczas XI Festiwalu Dyni w Rybniku-Kamieniu. Wśród pomysłów były zwierzęta, motywy związane z Rybnikiem, nawiązania do internetowych trendów, a nawet kompozycje z końmi.",
+      "link": "https://agronowiny.pl/wiadomosci/251444-sowa-mis-puchatek-i-karoca-z-konmi-64-dyniowe-lampiony-w-rybniku.html",
+      "published": "2026-10-10T21:15",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "0d3f16a4a0440af18ea8a044ce352622366ebde9",
       "title": "Pięć okrążeń, setki powodów do pomagania. „5 Kółek dla Paczki” na stadionie w Rybniku [ZDJĘCIA]",
@@ -424,16 +434,6 @@
       "summary": "Nocna kontrola samochodu na ul. Orlej w Żorach zakończyła się zatrzymaniem trzech mężczyzn. Jeden z nich próbował też ukryć w bieliźnie młynek z substancją w postaci kryształków.",
       "link": "https://ezory.pl/wiadomosci/251429-mlynek-z-krysztalkami-ukryty-w-bieliznie-tak-zakonczyla-sie-kontrola-w-zorach.html",
       "published": "2026-10-09T11:35",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b625ae0a93689e7180aec050fb537639fe1ca927",
-      "title": "Ktoś przywiązał małego psa do drzewa w Rybniku. Znalazł go spacerowicz",
-      "summary": "Mały pies rasy shih tzu był przywiązany do drzewa w lesie przy ul. Rajskiej w Rybniku. Zwierzę zauważył przypadkowy spacerowicz, który zawiadomił policję. Na miejsce przyjechali dzielnicowi ze Świerklan.",
-      "link": "https://www.nowiny.pl/wiadomosci/251428-ktos-przywiazal-malego-psa-do-drzewa-w-rybniku-znalazl-go-spacerowicz.html",
-      "published": "2026-10-09T11:21",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
