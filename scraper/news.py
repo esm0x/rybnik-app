@@ -73,30 +73,47 @@ IMGW_VOIVODESHIP = "śląskie"
 # --------------------------------------------------------------------------
 ALERT_KEYWORDS = [
     "awari",
-    "utrudnieni",
-    "ostrzezeni",
+    # Stems are cut before the inflected ending: "utrudnieni" caught "utrudnienia" but
+    # not "utrudnień", so "Ogłoszenie w sprawie czasowych utrudnień w ruchu" went out
+    # as an ordinary news item. Same for ostrzeżeń, zamknięć, skażeń.
+    "utrudnien",
+    "utrudnion",          # utrudniony / utrudniona / utrudnione przejazd, dojazd
+    "ostrzezen",
     "alarm",
     "brak wody",
     "brak pradu",
     "przerwa w dostaw",
     "wstrzymani dostaw",
-    "zamknieci",
+    "wstrzymani ruchu",
+    "zamkniec",
     "wylaczeni",
     "wylaczen",
     "ewakuacj",
-    "skazeni",
+    "skazen",
+    "nieprzejezdn",
+    "ruch wahadlow",
+    "niezdatn",           # woda niezdatna do picia / spożycia
+    "gololedz",
 ]
 
 # Words that only mean trouble in the right company. "objazd" alone flagged
 # "Bosak rozpoczyna objazd po Polsce" — a campaign tour, not a detour — so it now
 # needs a road word nearby. Add to this rather than to the list above when a keyword
 # turns out to be ambiguous.
+ROAD_CONTEXT = (
+    "ruchu drogow", "organizacji ruchu", "ulic", "drodze", "drogow", "droga",
+    "kierowc", "skrzyzowani", "remont", "przejazd", "jezdni", "most", "wiadukt",
+)
 ALERT_KEYWORDS_IN_CONTEXT = {
     # Bare "ruch" is not usable as context — it matched "prezes Ruchu Narodowego".
-    "objazd": (
-        "ruchu drogow", "organizacji ruchu", "ulic", "drodze", "drogow",
-        "kierowc", "skrzyzowani", "remont", "przejazd", "jezdni",
-    ),
+    "objazd": ROAD_CONTEXT,
+    # "zamknięta droga" is an alert, "za zamkniętymi drzwiami" is not.
+    "zamkniet": ROAD_CONTEXT,
+    "wylaczon": ("z ruchu", "pradu", "wody", "gazu", "ogrzewani"),
+    # A service that is shut for the day: "PSZOK nieczynny 18-19 września".
+    "nieczynn": ("pszok", "urzad", "punkt", "przychodni", "kasa", "biuro", "oczyszczalni"),
+    "przekroczeni": ("norm", "parametr"),
+    "zagrozeni": ("powodzi", "powodziow", "lawin"),
 }
 # Deliberately NOT here: "smog" (matches eco advertorials) and the bare stem
 # "zamkniet" (matches "zamknietych drzwiach" and similar prose).
