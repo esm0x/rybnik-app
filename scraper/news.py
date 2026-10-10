@@ -85,7 +85,6 @@ ALERT_KEYWORDS = [
     "przerwa w dostaw",
     "wstrzymani dostaw",
     "wstrzymani ruchu",
-    "zamkniec",
     "wylaczeni",
     "wylaczen",
     "ewakuacj",
@@ -101,7 +100,8 @@ ALERT_KEYWORDS = [
 # needs a road word nearby. Add to this rather than to the list above when a keyword
 # turns out to be ambiguous.
 ROAD_CONTEXT = (
-    "ruchu drogow", "organizacji ruchu", "ulic", "drodze", "drogow", "droga",
+    # "drog" covers droga/drogi/drogowy; only ever checked next to a keyword above.
+    "ruchu drogow", "organizacji ruchu", "ulic", "drodze", "drog",
     "kierowc", "skrzyzowani", "remont", "przejazd", "jezdni", "most", "wiadukt",
 )
 ALERT_KEYWORDS_IN_CONTEXT = {
@@ -109,10 +109,18 @@ ALERT_KEYWORDS_IN_CONTEXT = {
     "objazd": ROAD_CONTEXT,
     # "zamknięta droga" is an alert, "za zamkniętymi drzwiami" is not.
     "zamkniet": ROAD_CONTEXT,
+    # "zamknięcie drogi" yes, "planowane zamknięcie porodówki" (a political story) no.
+    "zamkniec": ROAD_CONTEXT,
     "wylaczon": ("z ruchu", "pradu", "wody", "gazu", "ogrzewani"),
     # A service that is shut for the day: "PSZOK nieczynny 18-19 września".
     "nieczynn": ("pszok", "urzad", "punkt", "przychodni", "kasa", "biuro", "oczyszczalni"),
     "przekroczeni": ("norm", "parametr"),
+    # Sanepid water notices: "niezgodność z wartością parametryczną", "brak
+    # przydatności", "warunkowa przydatność" (drink only after boiling) are all an alert;
+    # "stwierdza przydatność" is the all-clear and stays ordinary news.
+    "niezgodnos": ("parametr", "wody"),
+    "brak przydatnosci": ("wody", "spozyci"),
+    "warunkow": ("przydatnos",),
     "zagrozeni": ("powodzi", "powodziow", "lawin"),
 }
 # Deliberately NOT here: "smog" (matches eco advertorials) and the bare stem
