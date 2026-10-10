@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T17:25:05",
+  "generated_at": "2026-10-10T20:40:56",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,26 @@
     }
   ],
   "items": [
+    {
+      "id": "0d3f16a4a0440af18ea8a044ce352622366ebde9",
+      "title": "Pięć okrążeń, setki powodów do pomagania. „5 Kółek dla Paczki” na stadionie w Rybniku [ZDJĘCIA]",
+      "summary": "Na stadionie lekkoatletycznym w Rybniku liczył się nie rekord życiowy, lecz obecność i wspólne działanie. W XI edycji „5 Kółek dla Paczki” na trasę ruszyli młodsi i starsi, a także osoby poruszające się na wózkach. Poza biegiem na uczestników czekały pokazy, konkursy, żużlowe motocykle i spotkania…",
+      "link": "https://www.nowiny.pl/wiadomosci/251443-piec-okrazen-setki-powodow-do-pomagania-5-kolek-dla-paczki-na-stadionie-w-rybniku-zdjecia.html",
+      "published": "2026-10-10T20:20",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "824a0b97d98b709364eccb2e6040f8ca1b174230",
+      "title": "Dąb Gaszowice uratował remis. Unia Turza Śląska II przedłuża serię bez porażki [ZDJĘCIA]",
+      "summary": "GKS Dąb Gaszowice zremisował 2:2 z rezerwami Unii Turza Śląska w 10. kolejce ligowej. Gospodarze prowadzili do przerwy, ale po zmianie stron goście dwukrotnie trafili do siatki. Dąb nie złożył jednak broni i ostatecznie podzielił się punktami z rywalem.",
+      "link": "https://sport.nowiny.pl/sport/251442-dab-gaszowice-uratowal-remis-unia-turza-slaska-ii-przedluza-serie-bez-porazki-zdjecia.html",
+      "published": "2026-10-10T18:09",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "3668a0ee32f525337a6fa7914070a67b8fc67122",
       "title": "„5 Kółek dla Paczki”. Obecny był też Pan Babcia (foto)",
@@ -414,26 +434,6 @@
       "summary": "Mały pies rasy shih tzu był przywiązany do drzewa w lesie przy ul. Rajskiej w Rybniku. Zwierzę zauważył przypadkowy spacerowicz, który zawiadomił policję. Na miejsce przyjechali dzielnicowi ze Świerklan.",
       "link": "https://www.nowiny.pl/wiadomosci/251428-ktos-przywiazal-malego-psa-do-drzewa-w-rybniku-znalazl-go-spacerowicz.html",
       "published": "2026-10-09T11:21",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e474e7becc0f5bc3486c4e3b41e2b2c13ff3dbca",
-      "title": "Więcej policji w pobliżu szkół. Patrole także w naszym regionie",
-      "summary": "Policjanci zwracają szczególną uwagę na bezpieczeństwo w pobliżu szkół. Patrole można zobaczyć m.in. w Raciborzu i Wodzisławiu Śląskim. To reakcja na ostatnie wydarzenia w placówkach oświatowych w kraju. Śląska policja apeluje o spokój i nierozpowszechnianie niesprawdzonych informacji.",
-      "link": "https://www.nowiny.pl/wiadomosci/251427-wiecej-policji-w-poblizu-szkol-patrole-takze-w-naszym-regionie.html",
-      "published": "2026-10-09T11:14",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "dbdc4c0cab65f39292eb3f4bd6778fd4384160a0",
-      "title": "Biznes zjechał do Wodzisławia. 140 przedsiębiorców na Local Networkers [ZDJĘCIA, VIDEO]",
-      "summary": "Druga edycja wydarzenia Local Networkers in Wodzisław Śląski okazała się ogromnym sukcesem frekwencyjnym. Do sali konferencyjnej Hotelu Jordaszka przybyło 140 przedstawicieli firm i instytucji z regionu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251426-biznes-zjechal-do-wodzislawia-140-przedsiebiorcow-na-local-networkers-zdjecia-video.html",
-      "published": "2026-10-09T10:31",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
