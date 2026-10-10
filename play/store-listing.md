@@ -33,6 +33,9 @@ Mój Rybnik zbiera w jednym miejscu to, czego rybniczanin szuka w ciągu dnia: k
 jedzie autobus, kiedy zabiorą śmieci spod domu, co się dzieje wieczorem w mieście i
 czy da się dziś otworzyć okno.
 
+To niezależny projekt, a nie oficjalna aplikacja Urzędu Miasta Rybnika. Skąd
+pochodzą dane, piszemy na końcu opisu.
+
 CO ZNAJDZIESZ W APLIKACJI
 
 Start
@@ -101,10 +104,11 @@ systemu.
 
 ŹRÓDŁA DANYCH
 
-KM Rybnik (rozkład jazdy), EKO Sp. z o.o. i Miasto Rybnik (odpady, PSZOK, GPZON),
-Główny Inspektorat Ochrony Środowiska (powietrze), IMGW (ostrzeżenia), Tauron
-Dystrybucja (wyłączenia prądu), lokalne redakcje i instytucje kultury (wydarzenia
-i wiadomości), 90minut.pl i kluby (sport).
+KM Rybnik, km.rybnik.pl (rozkład jazdy); Miasto Rybnik i EKO Sp. z o.o., rybnik.eu
+(odpady, PSZOK, GPZON); Główny Inspektorat Ochrony Środowiska, gios.gov.pl
+(powietrze); IMGW, danepubliczne.imgw.pl (ostrzeżenia); Tauron Dystrybucja,
+tauron-dystrybucja.pl (wyłączenia prądu); lokalne redakcje i instytucje kultury
+(wydarzenia i wiadomości); 90minut.pl i kluby (sport).
 
 Aplikacja jest projektem niezależnym i nie jest oficjalnym produktem Miasta Rybnik ani
 żadnej z wymienionych instytucji. Dane prezentujemy w dobrej wierze, ale nie
@@ -114,7 +118,7 @@ gwarantujemy ich poprawności ani aktualności. W sprawach urzędowych zawsze sp
 Błąd, brakujące wydarzenie albo pomysł na nową funkcję: office@admin-stack.com
 ```
 
-*(3626 znaków.)*
+*(3924 znaków. Do wklejenia bierz `play/opis-pelny.txt` — tu wiersze są łamane dla czytelności, a Play zachowałby każde złamanie.)*
 
 ---
 
@@ -154,23 +158,35 @@ o wywozie, smogu i awariach. Jasny i ciemny motyw.
 
 ## Zrzuty ekranu
 
-W `play/screenshots/`, wszystkie 1080 × 2280 px (Pixel 4, Android 13). Google wymaga
-od 2 do 8 sztuk dla telefonu, proporcje między 9:16 a 16:9, krótszy bok minimum 320 px.
-Nasze spełniają te warunki bez przeróbek.
+⚠️ **Stare zrzuty z `play/screenshots/` (1080 × 2280) się nie nadają.** Play Console
+wymaga proporcji dokładnie 9:16 albo 16:9, a te mają 19:9. Zostają tylko jako archiwum.
 
-Sugerowana kolejność w sklepie — pierwsze trzy widać w wynikach wyszukiwania, więc
-niosą najwięcej:
+Nowe zrzuty są w `play/screenshots-916/`, zrobione na wersji 1.2.5 na emulatorach
+o proporcjach 9:16. Każdy ma podpis w górnym pasie, który zajmuje 18,75% wysokości
+(Google pozwala na 20%). Nie mają ramek urządzeń ani haseł typu „Pobierz teraz”.
+Przebudowa: `python play/make_store_assets.py` (surowe zrzuty w `raw-*`).
 
-1. `01-start.png` — ekran główny, wszystko naraz
-2. `03-smieci-lista.png` — harmonogram odpadów dla konkretnego adresu
-3. `05-transport.png` — przystanki z ulubionym na górze
-4. `02-wydarzenia.png` — lista wydarzeń z filtrami
-5. `06-wiadomosci.png` — wiadomości i komunikaty
-6. `08-powietrze.png` — jakość powietrza
-7. `07-sport.png` — terminarz i wyniki
-8. `09-ciemny-motyw.png` — ciemny motyw
+**Telefon** — `phone/`, 1080 × 1920, w tej kolejności (pierwsze trzy widać
+w wynikach wyszukiwania):
+
+1. `01-start.png` — Najważniejsze na jednym ekranie
+2. `02-odpady.png` — Wywóz odpadów pod Twój adres
+3. `03-polaczenia.png` — Połączenia skąd–dokąd
+4. `04-wydarzenia.png` — Co się dzieje w mieście
+5. `05-wiadomosci.png` — Lokalne wiadomości i komunikaty
+6. `06-gdzie-wyrzucic.png` — Gdzie to wyrzucić?
+7. `07-kalendarz-odpadow.png` — Kalendarz wywozów
+8. `08-ciemny-motyw.png` — Jasny i ciemny motyw
+
+**Tablet 7"** — `tablet-7/`, 1080 × 1920 (emulator 7", 617 dp szerokości).
+**Tablet 10"** — `tablet-10/`, 1440 × 2560 (emulator 10", 720 dp szerokości).
+Po cztery, bo tyle Google wymaga dla tabletów: start, odjazdy z przystanku,
+kalendarz wywozów, wydarzenia. To prawdziwe zrzuty z tabletu: aplikacja nie ma
+osobnego układu dla dużych ekranów, więc pokazują rozciągnięty układ z telefonu.
 
 ## Grafiki
 
-- `play/graphics/icon-512.png` — ikona 512 × 512 (wymagana)
-- `play/graphics/feature-graphic-1024x500.png` — grafika promocyjna 1024 × 500 (wymagana)
+- `play/graphics/icon-512.png` — ikona 512 × 512 **bez wewnętrznej ramki**. Poprzednia
+  (`icon-512-z-ramka.png`) miała zaokrąglony kwadrat z obwódką, a Play sam zaokrągla
+  rogi, więc w sklepie wyszłaby „ikona w ikonie”.
+- `play/graphics/feature-graphic-1024x500.png` — grafika promocyjna 1024 × 500 (bez zmian)

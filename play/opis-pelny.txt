@@ -1,0 +1,52 @@
+Mój Rybnik zbiera w jednym miejscu to, czego rybniczanin szuka w ciągu dnia: kiedy jedzie autobus, kiedy zabiorą śmieci spod domu, co się dzieje wieczorem w mieście i czy da się dziś otworzyć okno.
+
+To niezależny projekt, a nie oficjalna aplikacja Urzędu Miasta Rybnika. Skąd pochodzą dane, piszemy na końcu opisu.
+
+CO ZNAJDZIESZ W APLIKACJI
+
+Start
+Jeden ekran z tym, co ważne dzisiaj: jakość powietrza, komunikaty o awariach i utrudnieniach, najbliższy wywóz odpadów, odjazdy z Twojego przystanku, nadchodzące wydarzenia i wynik ostatniego meczu rybnickiej drużyny.
+
+Wydarzenia
+Ponad sto wydarzeń zebranych z Teatru Ziemi Rybnickiej, iRybnika, biletyny, trzech domów kultury i innych źródeł, z podziałem na koncerty, spektakle, kabarety, filmy, wystawy i warsztaty. Wydarzenie można dodać do ulubionych i dostać przypomnienie dzień wcześniej.
+
+Transport
+Pełny rozkład jazdy Komunikacji Miejskiej Rybnik: 626 przystanków, 44 linie, ponad 70 tysięcy odjazdów. Odliczanie do najbliższego autobusu, ulubione przystanki i podgląd trasy linii. Rozkład zapisuje się na telefonie, więc działa też bez internetu.
+
+Wyszukiwarka połączeń
+Wpisz skąd i dokąd, a aplikacja pokaże konkretne kursy z godzinami, również z przesiadką: którą linią jechać, gdzie się przesiąść i ile poczekać. Możesz podać całą dzielnicę zamiast konkretnego przystanku.
+
+Odpady
+Harmonogram wywozu dla Twojego adresu. W Rybniku terminy zależą od ulicy, numeru domu i typu zabudowy, a nie od dzielnicy, więc aplikacja pyta o konkretny numer i pokazuje dokładnie Twój rejon, w formie listy albo kalendarza. Przypomnienie przychodzi wieczorem dnia poprzedniego.
+
+Wiadomości i komunikaty
+Lokalne newsy z Radia 90, rybnik.com.pl, rybnik.eu, nowin i tuRybnika, a do tego oficjalne ostrzeżenia IMGW dla Rybnika. Awarie, utrudnienia i ostrzeżenia trafiają na górę listy i na ekran główny. Komunikat, który Cię nie dotyczy, możesz ukryć jednym kliknięciem.
+
+Gdzie wyrzucić
+Wpisz przedmiot, a aplikacja powie, do którego pojemnika trafia i dlaczego: baterie, styropian, choinka, paragon, żarówka. Do tego adresy i godziny obu rybnickich PSZOK-ów oraz punktu odpadów niebezpiecznych GPZON, razem z listą tego, co przyjmują.
+
+Widget na pulpicie
+Najbliższy wywóz i aktualne PM10 bez otwierania aplikacji.
+
+Jakość powietrza
+Pomiary PM10 i PM2,5 ze stacji GIOŚ Rybnik-Borki wraz z indeksem jakości. Możesz ustawić własny próg i dostać powiadomienie, gdy zostanie przekroczony.
+
+Wyłączenia prądu
+Planowane i awaryjne wyłączenia Tauron Dystrybucja, dopasowane do Twojego numeru domu, a nie do całej dzielnicy.
+
+Sport
+Wyniki i terminarz rybnickich drużyn: ROW 1964 Rybnik, żużlowy INNPRO ROW Rybnik i piłkarki ROW Rybnik.
+
+DLACZEGO TAKA APLIKACJA
+
+Bez reklam. Bez kont i logowania. Bez zbierania danych o użytkowniku i bez żadnego naszego serwera. Harmonogram odpadów dopasowujemy do adresu wyłącznie na Twoim telefonie. Jedyny wyjątek to wyłączenia prądu: żeby je sprawdzić, aplikacja pyta serwis Tauron Dystrybucja o Twoją ulicę i numer domu, bo inaczej nie da się ich ustalić.
+
+Po pierwszym uruchomieniu dane zapisują się lokalnie, więc aplikacja działa również bez zasięgu. Jest jasny i ciemny motyw, do wyboru ręcznie albo zgodnie z ustawieniem systemu.
+
+ŹRÓDŁA DANYCH
+
+KM Rybnik, km.rybnik.pl (rozkład jazdy); Miasto Rybnik i EKO Sp. z o.o., rybnik.eu (odpady, PSZOK, GPZON); Główny Inspektorat Ochrony Środowiska, gios.gov.pl (powietrze); IMGW, danepubliczne.imgw.pl (ostrzeżenia); Tauron Dystrybucja, tauron-dystrybucja.pl (wyłączenia prądu); lokalne redakcje i instytucje kultury (wydarzenia i wiadomości); 90minut.pl i kluby (sport).
+
+Aplikacja jest projektem niezależnym i nie jest oficjalnym produktem Miasta Rybnik ani żadnej z wymienionych instytucji. Dane prezentujemy w dobrej wierze, ale nie gwarantujemy ich poprawności ani aktualności. W sprawach urzędowych zawsze sprawdź źródło.
+
+Błąd, brakujące wydarzenie albo pomysł na nową funkcję: office@admin-stack.com
