@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T05:54:19",
+  "generated_at": "2026-10-10T12:05:05",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,76 @@
     }
   ],
   "items": [
+    {
+      "id": "bd649c44846923ed30e8a035375b2877c519ea82",
+      "title": "Bezpieczne grzybobranie. Mamy dla was porady, warto to przeczytać przed wyjściem do lasu",
+      "summary": "Coraz więcej grzybów w lasach. Można już znaleźć podgrzybki, borowiki czy maślaki a to dopiero początek tegorocznego grzybobrania. Mamy dla wszystkich wybierających się na grzyby, kilka ważnych porad.",
+      "link": "https://www.radio90.pl/bezpieczne-grzybobranie-mamy-dla-was-porady-warto-to-przeczytac-przed-wyjsciem-do-lasu.html",
+      "published": "2026-10-10T10:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6f540e9d3ed590e86cc4eee8ce6e72540cf09f89",
+      "title": "Przez Łężczok do Dębu Sobieskiego. RDOŚ zaprasza na bezpłatny spacer z przewodnikiem",
+      "summary": "Sześciokilometrowa trasa przez rezerwat Łężczok, przystanek przy platformie widokowej i wędrówka do Dębu Sobieskiego. W niedzielę, 18 października, będzie można poznać to miejsce podczas spaceru prowadzonego przez pracowników Regionalnej Dyrekcji Ochrony Środowiska w Katowicach.",
+      "link": "https://www.nowiny.pl/wiadomosci/251419-przez-lezczok-do-debu-sobieskiego-rdos-zaprasza-na-bezplatny-spacer-z-przewodnikiem.html",
+      "published": "2026-10-10T09:02",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0314741960ccc173002696738f7511c394495174",
+      "title": "Trzy dni dla siebie i dobrego samopoczucia. Festiwal Zdrowia Kobiet w Kornowacu [ZAPOWIEDŹ]",
+      "summary": "Od 16 do 18 października w Centrum Kultury i Bibliotece w Kornowacu odbędzie się II Festiwal Zdrowia Kobiet. W programie znalazły się spotkania ze specjalistami, warsztaty praktyczne, kino dla kobiet, a także możliwość wykonania mammografii i oddania krwi.",
+      "link": "https://www.nowiny.pl/wiadomosci/251436-trzy-dni-dla-siebie-i-dobrego-samopoczucia-festiwal-zdrowia-kobiet-w-kornowacu-zapowiedz.html",
+      "published": "2026-10-10T08:36",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "734bc89348efe1c68f728ba5cc421b2462ca0f42",
+      "title": "Wsparcie dla cudzoziemców na Śląsku. Na co mogą liczyć przyjezdni?",
+      "summary": "Bezpłatne wsparcie dla cudzoziemców w województwie śląskim. To projekt „Śląskie Centrum Kariery Migrantów” skierowany do osób mieszkających lub pracujących w regionie.",
+      "link": "https://www.radio90.pl/wsparcie-dla-cudzoziemcow-na-slasku-na-co-moga-liczyc-przyjezdni.html",
+      "published": "2026-10-10T08:35",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "16652ac3f527ddcad874ba2f1cacc7bf814fac3a",
+      "title": "Wojsko będzie ćwiczyć w powiecie raciborskim. Rusza „Ognista Kuźnia-26”",
+      "summary": "W połowie października na terenie powiatu raciborskiego będzie można zauważyć wzmożone działania wojskowe. Mieszkańcy mogą też usłyszeć nietypowe odgłosy i zobaczyć zadymienie. Wszystko będzie związane z zaplanowanymi ćwiczeniami obronnymi.",
+      "link": "https://www.nowiny.pl/wiadomosci/251364-wojsko-bedzie-cwiczyc-w-powiecie-raciborskim-rusza-ognista-kuznia-26.html",
+      "published": "2026-10-10T08:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4c79f251b0ce6a0812c7f2b50170e37b14a456dc",
+      "title": "Remonty ulic w Baranowicach, Kleszczowie i Rogoźnej zakończone [ZDJĘCIA]",
+      "summary": "W kilku dzielnicach Żor zakończyły się kolejne remonty lokalnych ulic. Prace objęły zarówno dłuższe odcinki dróg, jak i mniejsze zadania realizowane w różnych częściach miasta.",
+      "link": "https://ezory.pl/wiadomosci/251368-remonty-ulic-w-baranowicach-kleszczowie-i-rogoznej-zakonczone-zdjecia.html",
+      "published": "2026-10-10T06:33",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8169a7a0fafd1a61362ca119c7a3c6726db15c05",
+      "title": "Kuchnia Radia 90: prosta zupa grzybowa. Wyśmienita",
+      "summary": "Sezon na grzyby w pełni, czas więc w naszej radiowej kuchni na zupę z leśnych grzybów, z ziemniakami i z natką pietruszki. Oto nasza zupa grzybowa!",
+      "link": "https://www.radio90.pl/kuchnia-radia-90-prosta-zupa-grzybowa-wysmienita.html",
+      "published": "2026-10-10T06:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "37f1f0e39656c53b546a51aa4e0183152572c7b2",
       "title": "20 miejsc na Jarmarku św. Marcina w Żorach. Wystawcy mogą składać oferty",
@@ -209,36 +279,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "07488803948c55914491e3825d8f79a08e5da778",
-      "title": "RCK świętuje 25-lecie. Są jeszcze darmowe wejściówki na jubileuszowy koncert",
-      "summary": "Raciborskie Centrum Kultury obchodzi 25-lecie działalności. Z tej okazji w niedzielę, 11 października, odbędzie się koncert Kwintetu Śląskich Kameralistów. Na wydarzenie można jeszcze odebrać bezpłatne wejściówki.",
-      "link": "https://www.nowiny.pl/wiadomosci/251420-rck-swietuje-25-lecie-sa-jeszcze-darmowe-wejsciowki-na-jubileuszowy-koncert.html",
-      "published": "2026-10-09T08:05",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a92aed07ec5871dcc28f084951f77151e35361d6",
-      "title": "Kto widział upadek trzylatka w Rydułtowach? Policja apeluje do mieszkańców",
-      "summary": "Policja apeluje do świadków wypadku trzyletniego chłopca, który wypadł z okna mieszkania na czwartym piętrze bloku w Rydułtowach. Funkcjonariusze proszą o kontakt także osoby, które mają informacje mogące pomóc w wyjaśnieniu zdarzenia.",
-      "link": "https://www.nowiny.pl/wiadomosci/251417-kto-widzial-upadek-trzylatka-w-rydultowach-policja-apeluje-do-mieszkancow.html",
-      "published": "2026-10-09T07:44",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c0e1a3bdaeefb8589180cf7fc5aec62d0f7be209",
-      "title": "Atak nożownika w szpitalu w Jastrzębiu-Zdroju. Areszt przedłużony, konieczna obserwacja psychiatryczna",
-      "summary": "Damian B., podejrzany o usiłowanie zabójstwa czterech osób w jastrzębskim szpitalu, pozostaje w areszcie. Prokuratura uzyskała opinię dotyczącą jego stanu psychicznego. Konieczna będzie obserwacja sądowo-psychiatryczna.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251415-atak-nozownika-w-szpitalu-w-jastrzebiu-zdroju-areszt-przedluzony-konieczna-obserwacja-psychiatryczna.html",
-      "published": "2026-10-09T07:29",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "0b00294f1b8e90cab80b1533c148578cb937ebe0",
       "title": "Apel policji o zachowanie spokoju. „Nie panikujmy, nie powielajmy niesprawdzonych informacji”",
       "summary": "Nie ma potwierdzonych informacji o internetowym challenge’u w szkołach, nie ma informacji o atakach na terenie regionu, są za to apele o zachowanie spokoju.",
@@ -246,16 +286,6 @@
       "published": "2026-10-09T07:15",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8fadb631f866f0d62035c423bdf1d7ef43ad60f9",
-      "title": "\"Derby Południa\" wracają na najniższy szczebel. GKS 62 Jastrzębie podejmnie WTS Odrę Wodzisław",
-      "summary": "To będzie spotkanie z gatunku tych, w których ligowa tabela nie mówi całej prawdy. GKS 62 Jastrzębie kontra WTS Odra Wodzisław – dwa kluby z regionu, których historia przez lata była związana z zupełnie innym poziomem futbolu, ponownie staną naprzeciw siebie. Tym razem areną ich rywalizacji będzie…",
-      "link": "https://jastrzebieonline.pl/sport/251319-derby-poludnia-wracaja-na-najnizszy-szczebel-gks-62-jastrzebie-podejmnie-wts-odre-wodzislaw.html",
-      "published": "2026-10-09T07:00",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -449,16 +479,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "441fcb465fec801795efba3d6b24da082188927e",
-      "title": "Pisał z 13-latką, chciał się z nią umówić. Policyjny dozór dla 34-latka. Mężczyźnie grozi więzienie",
-      "summary": "Policyjny dozór i zakaz kontaktów z nastolatką dla 34-latka zatrzymanego w weekend w Radlinie. Mężczyzna korespondował z 13-latką z Rybnika, gdy matka dziewczyny odkryła korespondencję córki, powiadomiła policję.",
-      "link": "https://www.radio90.pl/pisal-z-13-latka-chcial-sie-z-nia-umowic-policyjny-dozor-dla-34-latka-mezczyznie-grozi-wiezienie.html",
-      "published": "2026-10-07T06:35",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "e51ccc508c46b173d8aa98064e7a505e9cde0b30",
       "title": "Miasto szuka spadkobierców nieruchomości",
       "summary": "Miasto zamierza wszcząć postępowanie o ograniczenie sposobu korzystania z nieruchomości położonej w Rybniku, działka nr 4378.",
@@ -526,26 +546,6 @@
       "published": "2026-10-07T00:00",
       "source": "rybnik.eu",
       "category": "Kultura",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "efff6f51049ce245590fd1dea533dc36866e6331",
-      "title": "Nowe pociągi na Śląsku. Zakup 32 elektrycznych zespołów planuje Metropolia i Województwo Śląskie",
-      "summary": "Nowe pociągi na Śląsku Pesa Bydgoszcz i Newag złożyły oferty w przetargu na dostawę 32 elektrycznych zespołów trakcyjnych dla Górnośląsko-Zagłębiowskiej Metropolii i Województwa Śląskiego – po 16 dla każdego z zamawiających. GZM planuje zakup 16 pociągów, które będą wykorzystywane w ramach Kolei…",
-      "link": "https://www.radio90.pl/nowe-pociagi-na-slasku-zakup-32-elektrycznych-zespolow-planuje-metropolia-i-wojewodztwo-slaskie.html",
-      "published": "2026-10-06T14:35",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "1abfa3fefd6ebb115577aca26be390989e144d01",
-      "title": "Ponad 180 hektarów lasów pod ochroną. Powstał rezerwat „Głębokie Doły”",
-      "summary": "Ma 184 hektarów powierzchni i jest jednym z największych na Śląsku. Dotychczasowe uroczysko \"Głębokie Doły\" na granicy Rybnika Ochojca i Książenic od dziś (06.10) oficjalnie stało się rezerwatem \"Głębokie Doły\". Największą wartością tego miejsca są buczyny - przyznają zgodnie miłośnicy przyrody.",
-      "link": "https://www.radio90.pl/ponad-180-hektarow-lasow-pod-ochrona-powstal-rezerwat-glebokie-doly.html",
-      "published": "2026-10-06T09:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
