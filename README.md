@@ -1,3 +1,15 @@
+> **Od 10.10.2026 Rybnik jest scrapowany w [esm0x/miasto-engine](https://github.com/esm0x/miasto-engine)**
+> (silnik aplikacji miejskich, ten sam kod dla wszystkich miast). To repo już nie scrapuje:
+> `.github/workflows/mirror.yml` co godzinę kopiuje gotowe pliki z `miasto-engine/data/rybnik/`
+> do `scraper/data/`, skąd czytają je zainstalowane wersje 1.3.x. Skrypty w `scraper/` zostają
+> jako historia i nie są uruchamiane.
+>
+> - **Ogłoszenie do użytkowników Rybnika** edytuj w `miasto-engine/data/rybnik/announcement.json`,
+>   nie tutaj — tutaj jest kopia i zostanie nadpisana.
+> - **Poprawki parserów, słów kluczowych, ręczne wydarzenia** (`cities/rybnik/manual_events.json`)
+>   — też w silniku.
+> - **Kolejne wydania apki** budujesz z silnika: `./gradlew bundleRybnikRelease` (versionCode > 19).
+
 # Rybnik — aplikacja miejska
 
 Natywna aplikacja Android dla mieszkańców Rybnika: wydarzenia, harmonogram odpadów,
