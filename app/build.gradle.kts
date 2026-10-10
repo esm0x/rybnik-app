@@ -18,14 +18,14 @@ val keystoreProps = Properties().apply {
 
 android {
     namespace = "com.adminstack.rybnik"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.adminstack.rybnik"
         minSdk = 26
-        targetSdk = 35
-        versionCode = 18
-        versionName = "1.3.0"
+        targetSdk = 36
+        versionCode = 19
+        versionName = "1.3.1"
     }
 
     signingConfigs {
