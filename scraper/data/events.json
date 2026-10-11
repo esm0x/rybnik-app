@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T21:41:14",
+  "generated_at": "2026-10-11T05:43:26",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,42 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 119,
+  "count": 116,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-grom-koncert-szanty-w-rybniku",
-      "title": "GrOm | Koncert Szanty w Rybniku",
-      "category": "Koncert",
-      "start": "2026-10-10T19:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Żeglarski sezon w Rybniku zakończy się przy szantach, wspólnym śpiewaniu i solidnej porcji dobrej zabawy. GrOm wystąpi w Odyseji 10 października — to propozycja dla miłośników morskich pieśni i wieczorów z energią. Koncert GrOm ma być okazją do symbolicznego pożegnania sezonu żeglarskiego i wspólnego zaśpiewania szant. Organizatorzy zapowiadają wieczór pełen humoru i dobrej zabawy — w morskim klimacie, który najlepiej smakuje przy znanych żeglarskich pieśniach. Formularz wymaga JavaScriptu — napisz do nas na adres podany niżej.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/grom-koncert-szanty-w-rybniku"
-    },
-    {
-      "id": "iryb-starcie-tytanow-koncert-w-rybniku",
-      "title": "Starcie Tytanów – koncert w Rybniku",
-      "category": "Koncert",
-      "start": "2026-10-10T20:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "10 października w Odysei w Rybniku zapowiada się wieczór pełen rock’n’rolla, punkowej energii, absurdu i dobrego humoru. Na jednej scenie spotkają się Johnny 3 Palce, Teściowa Śpiewa oraz Zacier — trzy zespoły, trzy różne style i jeden konkretny koncertowy chaos. Wpadnijcie na muzyczne starcie tytanów! Każdy z występujących zespołów gra po swojemu, dlatego trudno spodziewać się przewidywalnego koncertu. Johnny 3 Palce dorzuci rock’n’rollowy pazur, Teściowa Śpiewa zadba o punkową energię i charakterystyczny humor, a Zacier wprowadzi do tego wszystkiego sporą dawkę absurdu To propozycja dla osób, które lubią koncerty bez nadęcia — za to z żywiołową muzyką, nietypowym poczuciem humoru i atmosferą, która szybko przenosi się spod sceny na całą salę. Nudy raczej nie będzie, a repertuar i temperament wykonawców mogą zaskoczyć nawet stałych bywalców rockowych imprez. „Starcie Tytanów” połączy różne odmiany gitarowego grania, punkową bezpośredniość i sceniczny luz. To wieczór dla tych, którzy chcą posłuchać czegoś nieoczywistego, pośmiać się i dać się porwać energii zespołów występujących na żywo.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/starcie-tytanow-koncert-w-rybniku"
-    },
-    {
-      "id": "iryb-koncerty-fortepianowe-przy-swiecach",
-      "title": "Koncerty fortepianowe przy świecach",
-      "category": "Koncert",
-      "start": "2026-10-11T00:00",
-      "end": null,
-      "venue": "Dom Kultury Rybnik-Chwałowice",
-      "description": "W niedzielę 11 października 2026 roku w Domu Kultury Rybnik-Chwałowice odbędą się trzy koncerty fortepianowe przy świecach. Wydarzenie organizowane przez Candle Live Music połączy muzykę fortepianową z kameralną atmosferą sali oświetlonej świecami. Strona wydarzenia nie podaje godzin rozpoczęcia poszczególnych koncertów. W Domu Kultury Rybnik-Chwałowice zaplanowano trzy koncerty fortepianowe. Ich wspólnym elementem będzie oprawa przy świecach, która ma stworzyć kameralne tło dla muzyki wykonywanej na fortepianie. W dostępnych informacjach nie przedstawiono szczegółowego programu koncertów ani nie wskazano wykonawców. Nie podano również dodatkowych atrakcji towarzyszących wydarzeniu.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/koncerty-fortepianowe-przy-swiecach"
-    },
     {
       "id": "bilnya-galeria-sztuki-rzeczna-202610111100",
       "title": "Galeria Sztuki Rzeczna",
