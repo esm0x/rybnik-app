@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:44:48",
+  "generated_at": "2026-10-11T13:12:32",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,76 @@
     }
   ],
   "items": [
+    {
+      "id": "7d9b5c9319994728acb91dc9b3f8107c6bb039c3",
+      "title": "O zbrodniach na Wołyniu. Spotkanie z Ewą Siemaszko w Jastrzębiu-Zdroju",
+      "summary": "Badaczka zbrodni popełnionych przez ukraińskich nacjonalistów na ludności polskiej Wołynia podczas II wojny światowej, będzie gościem spotkania w Jastrzębiu-Zdroju. Wykładowi towarzyszyć będzie prezentacja dokumentów, fotografii i relacji świadków.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251423-o-zbrodniach-na-wolyniu-spotkanie-z-ewa-siemaszko-w-jastrzebiu-zdroju.html",
+      "published": "2026-10-11T10:15",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8800724387e2b2eb090b2014dfa0cbaebff553c5",
+      "title": "Rybnik: powstanie nowy kompleks sportowy w Chwałowicach. MOSiR ogłosił przetarg na jego wybudowanie",
+      "summary": "Boisko piłkarskie, a także boisko wielofunkcyjne. Do tego sprawnościowy plac zabaw i siłownia plenerowa. Z takich elementów ma składać się nowy kompleks sportowy, który powstać ma w rybnickiej dzielnicy Chwałowice. Miejski Ośrodek Sportu i Rekreacji w Rybniku właśnie ogłosił przetarg na jego…",
+      "link": "https://www.radio90.pl/rybnik-powstanie-nowy-kompleks-sportowy-w-chwalowicach-mosir-oglosil-przetarg-na-jego-wybudowanie-to-bedzie-obiekt-do-wielu-sportow.html",
+      "published": "2026-10-11T09:25",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "938a230278e6c3cd0efb6d4bc4216eec4d1ea94b",
+      "title": "Od pomysłu do przedmiotu z drukarki 3D. Rodzinne warsztaty w Raciborzu [ZAPOWIEDŹ]",
+      "summary": "Czy można samodzielnie zaprojektować przedmiot, a potem go wydrukować? Dzieci wraz z rodzicami i opiekunami będą mogły spróbować swoich sił w projektowaniu 3D. SOWA Racibórz zaprasza na warsztaty, podczas których uczestnicy stworzą własne pieczątki.",
+      "link": "https://www.nowiny.pl/wiadomosci/251422-od-pomyslu-do-przedmiotu-z-drukarki-3d-rodzinne-warsztaty-w-raciborzu-zapowiedz.html",
+      "published": "2026-10-11T08:12",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "00b16fcc05d61c815e20056c0e200c37c817d801",
+      "title": "50 lat Grupy Artystycznej Konar. Jubileuszowa wystawa „Dziedzictwo” w Rydułtowach [ZDJĘCIA]",
+      "summary": "Grupa Artystyczna Konar świętuje 50-lecie działalności. Z tej okazji w RCK Feniks w Rydułtowach prezentowana jest wystawa „Dziedzictwo”, która skłania do refleksji nad przeszłością, pamięcią i dorobkiem kolejnych pokoleń twórców.",
+      "link": "https://www.nowiny.pl/wiadomosci/251446-50-lat-grupy-artystycznej-konar-jubileuszowa-wystawa-dziedzictwo-w-rydultowach-zdjecia.html",
+      "published": "2026-10-11T07:48",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "36e89df944589f7a3e1120fef9cc119271034c1f",
+      "title": "II Święto Pieczonego Ziemniaka w Czernicy [ZDJĘCIA]",
+      "summary": "Park przy Zameczku w Czernicy zamienił się w miejsce jesiennej zabawy w stylu country. Podczas II Święta Pieczonego Ziemniaka nie zabrakło regionalnych przy",
+      "link": "https://agronowiny.pl/wiadomosci/251445-ii-swieto-pieczonego-ziemniaka-w-czernicy-zdjecia.html",
+      "published": "2026-10-11T07:28",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f023da1cd5af3f768e2f78cfe56917ec008ba5b9",
+      "title": "Eko Patrol Radia 90 – odcinek 40/2026. Nowy rezerwat w województwie śląskim. Powstał na granicy Rybnika i Książenic",
+      "summary": "Jest jednym z największych na Śląsku, a jednocześnie najnowszym spośród rezerwatów w naszym województwie. Od kilku dni \"Głębokie Doły\", wyjątkowy las na granicy Rybnika-Ochojca i Książenic oficjalnie są rezerwatem. O tym w najnowszym odcinku programu Eko Patrol Radia 90.",
+      "link": "https://www.radio90.pl/eko-patrol-radia-90-odcinek-40-2026-nowy-rezerwat-w-wojewodztwie-slaskim-powstal-na-granicy-rybnika-i-ksiazenic.html",
+      "published": "2026-10-11T06:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "99b9d491ff49145b56f542270316932bf1abbd73",
+      "title": "Racibórz znów ruszy w świat. Przed nami XXII Festiwal „Wiatraki”",
+      "summary": "Pod koniec października Racibórz ponownie stanie się miejscem spotkań miłośników podróży i dalekich wypraw. Od 22 do 25 października w Raciborskim Centrum Kultury odbędzie się XXII Raciborski Festiwal Podróżniczy „Wiatraki”.",
+      "link": "https://www.nowiny.pl/wiadomosci/251365-raciborz-znow-ruszy-w-swiat-przed-nami-xxii-festiwal-wiatraki.html",
+      "published": "2026-10-11T06:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "035abea436d891e7485a1129e6243091a6ecc273",
       "title": "Sowa, miś Puchatek i karoca z końmi. 64 dyniowe lampiony w Rybniku",
@@ -199,26 +269,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "16652ac3f527ddcad874ba2f1cacc7bf814fac3a",
-      "title": "Wojsko będzie ćwiczyć w powiecie raciborskim. Rusza „Ognista Kuźnia-26”",
-      "summary": "W połowie października na terenie powiatu raciborskiego będzie można zauważyć wzmożone działania wojskowe. Mieszkańcy mogą też usłyszeć nietypowe odgłosy i zobaczyć zadymienie. Wszystko będzie związane z zaplanowanymi ćwiczeniami obronnymi.",
-      "link": "https://www.nowiny.pl/wiadomosci/251364-wojsko-bedzie-cwiczyc-w-powiecie-raciborskim-rusza-ognista-kuznia-26.html",
-      "published": "2026-10-10T08:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "4c79f251b0ce6a0812c7f2b50170e37b14a456dc",
-      "title": "Remonty ulic w Baranowicach, Kleszczowie i Rogoźnej zakończone [ZDJĘCIA]",
-      "summary": "W kilku dzielnicach Żor zakończyły się kolejne remonty lokalnych ulic. Prace objęły zarówno dłuższe odcinki dróg, jak i mniejsze zadania realizowane w różnych częściach miasta.",
-      "link": "https://ezory.pl/wiadomosci/251368-remonty-ulic-w-baranowicach-kleszczowie-i-rogoznej-zakonczone-zdjecia.html",
-      "published": "2026-10-10T06:33",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "8169a7a0fafd1a61362ca119c7a3c6726db15c05",
       "title": "Kuchnia Radia 90: prosta zupa grzybowa. Wyśmienita",
       "summary": "Sezon na grzyby w pełni, czas więc w naszej radiowej kuchni na zupę z leśnych grzybów, z ziemniakami i z natką pietruszki. Oto nasza zupa grzybowa!",
@@ -226,16 +276,6 @@
       "published": "2026-10-10T06:05",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "37f1f0e39656c53b546a51aa4e0183152572c7b2",
-      "title": "20 miejsc na Jarmarku św. Marcina w Żorach. Wystawcy mogą składać oferty",
-      "summary": "Żory szukają wystawców na tegoroczny Jarmark św. Marcina. Na rynku przygotowano 20 miejsc handlowych, a minimalna stawka za jedno z nich wynosi 200 zł netto. Oferty można składać do 29 października.",
-      "link": "https://ezory.pl/wiadomosci/251388-20-miejsc-na-jarmarku-sw-marcina-w-zorach-wystawcy-moga-skladac-oferty.html",
-      "published": "2026-10-10T04:11",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -276,16 +316,6 @@
       "published": "2026-10-09T21:22",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "4bd62c301df3e85590020ff9eea926da7a6400fd",
-      "title": "Nocna prohibicja w całej Polsce. Jak głosowali posłowie z regionu?",
-      "summary": "Sejm przyjął ustawę zaostrzającą przepisy dotyczące sprzedaży i promocji alkoholu. Za nowymi regulacjami zagłosowało 400 posłów, przeciw było 29, a czterech wstrzymało się od głosu. Wśród przeciwników zmian są politycy z naszego regionu. Tymczasem w Rybniku już wcześniej rozpoczęto dyskusję o…",
-      "link": "https://www.nowiny.pl/wiadomosci/251435-nocna-prohibicja-w-calej-polsce-jak-glosowali-poslowie-z-regionu.html",
-      "published": "2026-10-09T18:10",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -399,16 +429,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "c3d67c61e59afd1df186e7cca1e6af2d3348b3f2",
-      "title": "Janetomat już w Raciborzu. Domowa garmażerka dostępna przez całą dobę",
-      "summary": "W Raciborzu pojawił się Janetomat – automat z domową garmażerką, z którego można korzystać 24 godziny na dobę, 7 dni w tygodniu. To wygodne rozwiązanie dla osób, które mają ochotę na gotowe, domowe jedzenie bez konieczności czekania na otwarcie sklepu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251414-janetomat-juz-w-raciborzu-domowa-garmazerka-dostepna-przez-cala-dobe.html",
-      "published": "2026-10-09T12:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "7fbfa336259735d85a1e8a7f46482b1b7d35c913",
       "title": "Sejm przyjął ustawę antyalkoholową. Nocna sprzedaż alkoholu ma być zakazana",
       "summary": "Nocny zakaz sprzedaży alkoholu na wynos w całym kraju, koniec reklamy i promocji alkoholu, obowiązkowe sprawdzanie wieku w razie wątpliwości oraz wyższe opłaty za zezwolenia. Sejm przyjął ustawę antyalkoholową, która zakłada szerokie zmiany w zasadach sprzedaży i promocji napojów alkoholowych…",
@@ -419,6 +439,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "c3d67c61e59afd1df186e7cca1e6af2d3348b3f2",
+      "title": "Janetomat już w Raciborzu. Domowa garmażerka dostępna przez całą dobę",
+      "summary": "W Raciborzu pojawił się Janetomat – automat z domową garmażerką, z którego można korzystać 24 godziny na dobę, 7 dni w tygodniu. To wygodne rozwiązanie dla osób, które mają ochotę na gotowe, domowe jedzenie bez konieczności czekania na otwarcie sklepu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251414-janetomat-juz-w-raciborzu-domowa-garmazerka-dostepna-przez-cala-dobe.html",
+      "published": "2026-10-09T12:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
       "id": "086b0cd698a33cad1fc920a24e07dc2c6f1a2034",
       "title": "Marta Piszczek z Rybnika ze złotem Drużynowego Pucharu Polski PLJ",
       "summary": "Rybnicka amazonka Marta Piszczek dołożyła do swojego dorobku kolejny ważny puchar. Wraz z reprezentacją Opolskiego Związku Jeździeckiego wywalczyła pierwsze miejsce w rywalizacji drużynowej w cyklu Polskiej Ligi Jeździeckiej.",
@@ -426,16 +456,6 @@
       "published": "2026-10-09T11:40",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "099c17e94e1088afc9ea0fdb93e8659d98173439",
-      "title": "Młynek z kryształkami ukryty w bieliźnie. Tak zakończyła się kontrola w Żorach",
-      "summary": "Nocna kontrola samochodu na ul. Orlej w Żorach zakończyła się zatrzymaniem trzech mężczyzn. Jeden z nich próbował też ukryć w bieliźnie młynek z substancją w postaci kryształków.",
-      "link": "https://ezory.pl/wiadomosci/251429-mlynek-z-krysztalkami-ukryty-w-bieliznie-tak-zakonczyla-sie-kontrola-w-zorach.html",
-      "published": "2026-10-09T11:35",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -687,26 +707,6 @@
       "source": "rybnik.eu",
       "category": "Bezpieczeństwo",
       "priority": "NORMAL"
-    },
-    {
-      "id": "33f56f22eefefa8cafecca14dcf0e78396af2d31",
-      "title": "Przedszkolak oddalił się od grupy i sam wracał do domu. W Rybniku, przy Bazylice zauważyli go przechodnie",
-      "summary": "Mały chłopiec oddalił się od grupy przedszkolnej podczas spaceru w parku w centrum Rybnika.",
-      "link": "https://www.radio90.pl/przedszkolak-oddalil-sie-od-grupy-i-sam-wracal-do-domu-w-rybniku-przy-bazylice-zauwazyli-go-przechodnie.html",
-      "published": "2026-10-07T17:14",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a3cda5c2b32292a469b35d4072ed203ee8438a4a",
-      "title": "Dlaczego kawa z ekspresu jest kwaśna albo gorzka? 7 przyczyn i sposobów naprawy",
-      "summary": "Jeśli kawa z automatu nagle robi się zbyt kwaśna albo nieprzyjemnie gorzka, nie trzeba od razu podejrzewać awarii ekspresu. Najczęściej problem da się zawęzić do kilku rzeczy: ziaren, mielenia, temperatury albo czystości urządzenia. Najlepiej sprawdzać je po kolei. Zacznij od kawy, którą wsypujesz…",
-      "link": "https://www.radio90.pl/dlaczego-kawa-z-ekspresu-jest-kwasna-albo-gorzka-7-przyczyn-i-sposobow-naprawy.html",
-      "published": "2026-10-07T09:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "ALERT"
     },
     {
       "id": "e51ccc508c46b173d8aa98064e7a505e9cde0b30",
