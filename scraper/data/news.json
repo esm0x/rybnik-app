@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T13:12:32",
+  "generated_at": "2026-10-11T22:08:10",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,26 @@
     }
   ],
   "items": [
+    {
+      "id": "965b6c10f2aa53d3aaa5a7052e4f821e7ef8bea3",
+      "title": "Za nami Zawody Grzybiarskie w Rudach. Zobacz, kto zdobył tytuł Najlepszego Grzybiarza Ziemi Raciborskiej [ZDJĘCIA]",
+      "summary": "W niedzielę, 11 października, odbyły się Zawody Grzybiarskie o tytuł Najlepszego Grzybiarza Ziemi Raciborskiej. Uczestnicy wyruszyli kolejką wąskotorową w kierunku Rybnika-Stodół, by następnie ruszyć na grzybobranie. Po leśnych poszukiwaniach przyszedł czas na ważenie zbiorów, poczęstunek przy…",
+      "link": "https://www.nowiny.pl/wiadomosci/251448-za-nami-zawody-grzybiarskie-w-rudach-zobacz-kto-zdobyl-tytul-najlepszego-grzybiarza-ziemi-raciborskiej-zdjecia.html",
+      "published": "2026-10-11T19:57",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "175b9b65c39201fecd0dadaff6a7a502af810e33",
+      "title": "Wyjątkowy jubileusz w Raciborzu. Najpierw podziękowania, potem muzyczna niespodzianka! [ZDJĘCIA, WIDEO]",
+      "summary": "Raciborskie Centrum Kultury w Raciborzu świętowało 25-lecie działalności. Jubileuszowe spotkanie przy ul. Chopina stało się okazją do wyrażenia wdzięczności osobom, które przez lata współtworzyły tę instytucję, oraz do wspólnego świętowania przy dźwiękach muzyki.",
+      "link": "https://www.nowiny.pl/wiadomosci/251447-wyjatkowy-jubileusz-w-raciborzu-najpierw-podziekowania-potem-muzyczna-niespodzianka-zdjecia-wideo.html",
+      "published": "2026-10-11T18:57",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "7d9b5c9319994728acb91dc9b3f8107c6bb039c3",
       "title": "O zbrodniach na Wołyniu. Spotkanie z Ewą Siemaszko w Jastrzębiu-Zdroju",
@@ -226,26 +246,6 @@
       "published": "2026-10-10T10:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6f540e9d3ed590e86cc4eee8ce6e72540cf09f89",
-      "title": "Przez Łężczok do Dębu Sobieskiego. RDOŚ zaprasza na bezpłatny spacer z przewodnikiem",
-      "summary": "Sześciokilometrowa trasa przez rezerwat Łężczok, przystanek przy platformie widokowej i wędrówka do Dębu Sobieskiego. W niedzielę, 18 października, będzie można poznać to miejsce podczas spaceru prowadzonego przez pracowników Regionalnej Dyrekcji Ochrony Środowiska w Katowicach.",
-      "link": "https://www.nowiny.pl/wiadomosci/251419-przez-lezczok-do-debu-sobieskiego-rdos-zaprasza-na-bezplatny-spacer-z-przewodnikiem.html",
-      "published": "2026-10-10T09:02",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0314741960ccc173002696738f7511c394495174",
-      "title": "Trzy dni dla siebie i dobrego samopoczucia. Festiwal Zdrowia Kobiet w Kornowacu [ZAPOWIEDŹ]",
-      "summary": "Od 16 do 18 października w Centrum Kultury i Bibliotece w Kornowacu odbędzie się II Festiwal Zdrowia Kobiet. W programie znalazły się spotkania ze specjalistami, warsztaty praktyczne, kino dla kobiet, a także możliwość wykonania mammografii i oddania krwi.",
-      "link": "https://www.nowiny.pl/wiadomosci/251436-trzy-dni-dla-siebie-i-dobrego-samopoczucia-festiwal-zdrowia-kobiet-w-kornowacu-zapowiedz.html",
-      "published": "2026-10-10T08:36",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
