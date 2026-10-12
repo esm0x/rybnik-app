@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T22:08:10",
+  "generated_at": "2026-10-12T05:54:46",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,16 @@
     }
   ],
   "items": [
+    {
+      "id": "1a93f77a8788f0c719cfae0328eaa2bae0a3dedb",
+      "title": "Derby Południa na remis. GKS 62 Jastrzębie i WTS Odra Wodzisław podzieliły się punktami [ZDJĘCIA]",
+      "summary": "Emocje, walka i prestiż – Derby Południa pomiędzy GKS 62 Jastrzębie a WTS Odrą Wodzisław zakończyły się remisem.",
+      "link": "https://jastrzebieonline.pl/sport/251450-derby-poludnia-na-remis-gks-62-jastrzebie-i-wts-odra-wodzislaw-podzielily-sie-punktami-zdjecia.html",
+      "published": "2026-10-11T22:07",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "965b6c10f2aa53d3aaa5a7052e4f821e7ef8bea3",
       "title": "Za nami Zawody Grzybiarskie w Rudach. Zobacz, kto zdobył tytuł Najlepszego Grzybiarza Ziemi Raciborskiej [ZDJĘCIA]",
@@ -204,16 +214,6 @@
       "summary": "Kilkanaście jednostek ochotniczych straży pożarnych z powiatu wodzisławskiego wzięło udział w ćwiczeniach na terenie firmy Luxecasting Poland BodTech, zajmującej się produkcją sprzętu strażackiego. Działaniami dowodził Dawid Fortuna, komendant miejsko-gminny ZOSP RP w Wodzisławiu Śl.",
       "link": "https://www.nowiny.pl/wiadomosci/251438-cwiczenia-strazakow-na-terenie-zakladu-produkcyjnego-w-wodzislawiu-w-akcji-kilkanascie-jednostek-zdjecia.html",
       "published": "2026-10-10T13:41",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "39a59d9b9ed2ee0ce5cb8471069d03262c332305",
-      "title": "Hubertus 2026 w Żerdzinach [ZDJĘCIA]",
-      "summary": "Miłośnicy koni i tradycji jeździeckich spotkali się w sobotę, 10 października, w Żerdzinach w gminie Pietrowice Wielkie. W programie tegorocznego Hubertusa znalazły się uroczysty korowód jeźdźców i zaprzęgów, gonitwa za lisem w Kornicach oraz konkurencje sprawnościowe.",
-      "link": "https://agronowiny.pl/wiadomosci/251437-hubertus-2026-w-zerdzinach-zdjecia.html",
-      "published": "2026-10-10T13:31",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
