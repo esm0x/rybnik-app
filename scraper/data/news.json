@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-10-12T18:27:45",
+  "generated_at": "2026-10-13T00:39:32",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "b816d0f8d2648d9c31ddbb63b507d42b1beb5b70",
+      "title": "Mazurek w Zagrzebiu, złoto dla Polski. Fenomenalny bieg Wojciecha Lizaka",
+      "summary": "Wojciech Lizak, zawodnik TL Athletics Jastrzębie i reprezentant Polski, wrócił z Zagrzebia z jednym z najcenniejszych trofeów w swojej karierze. Podczas Mistrzostw Świata Masters w maratonie wywalczył 9. miejsce indywidualnie w kategorii M45, a przede wszystkim - wraz z Arturem Jasińskim i Maciejem…",
+      "link": "https://jastrzebieonline.pl/sport/251468-mazurek-w-zagrzebiu-zloto-dla-polski-fenomenalny-bieg-wojciecha-lizaka.html",
+      "published": "2026-10-12T22:08",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a81f9ffb3faabf82e6575552c2835db35acfffd8",
+      "title": "Jest nowy naczelnik Wydziału Edukacji - Ireneusz Komorowski z Żor",
+      "summary": "Urząd Miasta Jastrzębie‑Zdrój ogłosił wyniki otwartego i konkurencyjnego naboru na stanowisko Naczelnika Wydziału Edukacji. Po przeprowadzeniu pełnej procedury rekrutacyjnej komisja wskazała najlepszego kandydata. Funkcję obejmie Ireneusz Komorowski, mieszkaniec Żor.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251467-jest-nowy-naczelnik-wydzialu-edukacji-ireneusz-komorowski-z-zor.html",
+      "published": "2026-10-12T20:57",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e1890f8717d203e3a6862a676828930b0fad5bdc",
+      "title": "Rekordowy sum znów złowiony w Zalewie Rybnickim! „Ta ryba jest kosmicznym dinozaurem”",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdWRJWm5EdklxLS1vNjVUUjN4cndzNEpBdFVjYlZxX1hDMmVJUVB1YnM3MGRuWXhoemZXNlNQcmVZZTd1Zm9HenRmNi13VVJfSVoyT2lxMmVLWUhnSTVQTHduRGxXOFBvYWhIZXVGc0hvR09kR0ZiM1h4NXRxSzJwTzVHZ0c1dWZKUjlSYVNtcVhHTmFzYm1iYWtfeXptNlJEdFFpR0VNTmtmVUkxQUZuNWZxMGtGRVFVVl9RMmZzZTVtUGQ4SHN6aWdlMVpYNV9vUXBOMkdING9ZUQ?oc=5",
+      "published": "2026-10-12T20:43",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "879d940fb8710b7b8c2a11d107fff3c48b032d50",
+      "title": "Historyczny sukces Polonii Rybnik. Brązowy medal Drużynowych Mistrzostw Polski w judo",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNnY0cTdyNlI3ODRFS0ZFN2tYT2Rkc3VRdlh0TlM0UDllYURSd3hEZm93U0pkdkNIZWNaM1JNVXdDY2twbHAyejdXeFAyUGZpZlpKazVVNVI4OU9wb0hMenFPTjBvUkgyM2Z2Y3pDWmNSUURhWXllX2ZVSjhmS1BUMEVXcUctNG1HX01MZU9XaG10cmxDQkdhODZrcTJZeW5OSWtsai1KRUhhaHlPUXN4T0E3bW5UZ21kWm5lWnBSSUZjOHF0QXNnaEtKUGVJem1wQWU2amtBaDl0dw?oc=5",
+      "published": "2026-10-12T18:54",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "a0f9d3bd5ddcfa7ed24f1132b03a80fa96ed71b1",
       "title": "Nie wie, za co ją aresztowano. „Przesłuchanie” na scenie Łaźni Moszczenica [ZAPOWIEDŹ]",
@@ -50,16 +90,6 @@
       "link": "https://www.radio90.pl/probowal-przekupic-strozow-mundurowych-dajac-im-150-zlotych-37-latka-zatrzymali-policjanci-z-raciborza.html",
       "published": "2026-10-12T17:05",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "7443d4c3852f5df39c6dad07013e9df9963f8edc",
-      "title": "Rekordowy sum znów złowiony w Zalewie Rybnickim! „Ta ryba jest kosmicznym dinozaurem”",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTmsyRWxOYTRvQmExV3JNV3BjdS1WRTQ1S2J2MGJKRFZqWXkwTVRxbXpiYUVfSGlDbThkSElCX2hjd1lXTS1rd3IzblJLZEs5ZExocTh1NUdQbDN4SGplMjZCOXllcU5PWU5udVV4ZUwzOFlrdVFGWkFDTG4wV2ZGSGRYRGJEeXlZa2xzblEyVjBJYjdKR20tZ2tRQ0lkR3NRVHp3X3RVdjFHZVZPSGhoN0Rta0V6eXlISmZDa19mWVFreWRqVnhjdEdFTm9fa0RMSnVDNUxpUQ?oc=5",
-      "published": "2026-10-12T17:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -324,16 +354,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "d29e9735f7100e87b4cec873c16cd2c9073be0c6",
-      "title": "Ponad 1100 osób na mecie Żorskiego Biegu Ulicznego 2026 [ZDJĘCIA]",
-      "summary": "Aż 1126 uczestników ukończyło 19. Żorski Bieg Uliczny. Więcej osób wybrało krótszy, 2,5-kilometrowy dystans niż bieg główny na 10 km. W obu rywalizacjach o zwycięstwie decydowały sekundy, a w czołówce znaleźli się zawodnicy z naszego regionu.",
-      "link": "https://ezory.pl/wiadomosci/251451-ponad-1100-osob-na-mecie-zorskiego-biegu-ulicznego-2026-zdjecia.html",
-      "published": "2026-10-12T07:34",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "27490376a57e4695fc7a304492bce6fc0c528227",
       "title": "Gadająca papuga, muzyka na żywo i sezonowa karta. Pomysł na weekendowy wypad z Rybnika do Gliwic",
       "summary": "",
@@ -401,16 +421,6 @@
       "published": "2026-10-12T00:00",
       "source": "rybnik.eu",
       "category": "Kultura",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "1a93f77a8788f0c719cfae0328eaa2bae0a3dedb",
-      "title": "Derby Południa na remis. GKS 62 Jastrzębie i WTS Odra Wodzisław podzieliły się punktami [ZDJĘCIA]",
-      "summary": "Emocje, walka i prestiż – Derby Południa pomiędzy GKS 62 Jastrzębie a WTS Odrą Wodzisław zakończyły się remisem.",
-      "link": "https://jastrzebieonline.pl/sport/251450-derby-poludnia-na-remis-gks-62-jastrzebie-i-wts-odra-wodzislaw-podzielily-sie-punktami-zdjecia.html",
-      "published": "2026-10-11T22:07",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -924,31 +934,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "f7dd1801b4c1a0cfd7e2b14d2a3d6d05174f2a6c",
-      "title": "Gdzie nie będzie prądu? Harmonogram wyłączeń w Rybniku i powiecie rybnickim",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNTFsZDlTMVBjbERRdWw2T3RIUlhnTmVDU0NOLUp5TjJsc1hBc3ZKd0JPTERCdEZBcXZmMlNhU3lMb2V2ZTRucE5nQXFFUnVkbDZYckx2cUNqT09nNGFFQlA5aWF0VmNxNU01V25RS0hjdDBmVHEyczNubVJEdm5jbXZYZ3VucFdEc0xHVDVva2NUdGlCcXdTdUJ3T1BhRWtTa1cyTnFJZmwwVjI4bkpja0Fhd2ZEckYzRVZ0WjB5SUZETG5hUlV3dGNRMzU?oc=5",
-      "published": "2026-10-04T11:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "ALERT"
-    },
-    {
       "id": "9b4b78ea2b6c75d7fcd07777c2cc52c044282ebd",
       "title": "Czad nie daje ostrzeżenia. Zadbaj o bezpieczeństwo przed sezonem grzewczym",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPXzE0Z1ZmdzdLYlFmNW9lWm4xWkZGeU1oOGFjWkU4d0wtaEFtVVkzeHJWSTV3NDJjQU9naHpqWVh2dU9aZ3RrWnIzMXJDaWQwYWw4dGs1Sl9abEhPeENKc1JDZURtQVRMLWNaWGYwaDlyb0JZbFNhMTNHWXZ5SXlWWkF3cHlKUkJZUUEyTl9BUm5oRF85bVpEdVF6ckZJMURnellDWU9VcDhIVEVyMGE3QjhuZERCcHJYWlJLQjhpbW12bmM3VHZ6WVB2SQ?oc=5",
       "published": "2026-10-03T13:40",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "ALERT"
-    },
-    {
-      "id": "7600bd7346bb04157b66699c0f6379efa586565c",
-      "title": "Ulica Dworcowa zostanie zamknięta. Sprawdź trasę objazdu i utrudnienia w ruchu",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2FuY2dGeVE1S0llb1dXOVh4TlU0bjFoVTlON1RTZUc2ODZMdUNqTTcyaWR1T3QtbncwcHFKbk92dHFxUTNjaTlTVThyd2h5a0xBVkt5bUwzVl9GejNrNXpyT1ZBaGk0dEVoRGtsaWdHU2JOY1B4QktxRG8tSGVtSTVxWTYzbHBVaDhmbEY5bDBHVEZfbDhVZmZfMk9aTlNZNXBQRlpFaVlLcEsxelhlR3RMZDhMa3ZhS25pTldNMjZaS3ZfQ0hWbERmbWN1dHhL?oc=5",
-      "published": "2026-10-03T12:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
@@ -1114,6 +1104,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "6762670b8032c3cada6f6193f05976fb805d29ff",
+      "title": "Miasto kupuje teren przy zamkniętej Biedronce",
+      "summary": "Podczas najbliższej sesji Rady Miasta Rybnika radni zdecydują o zakupie działek o powierzchni ponad 1,1 ha, na których znajdują się obiekty handlowe, usługowe i biurowe.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/miasto-kupuje-teren-przy-zamknietej-biedronce",
+      "published": "2026-09-21T00:00",
+      "source": "rybnik.eu",
+      "category": "Inwestycje",
+      "priority": "NORMAL"
+    },
+    {
       "id": "f40e419e6ecb586444c970f72b3bb7d650a2b793",
       "title": "Rusza budowa łącznika ulic Kominka i Orzepowickiej",
       "summary": "Od poniedziałku 21 września ulica Jośki zostanie częściowo zamknięta z powodu prac rozbiórkowych i budowy kanalizacji deszczowej. Sprawdź, jak dojechać do Młodzieżowego Domu Kultury na czas trwania robót.",
@@ -1140,7 +1140,7 @@
       "link": "https://turybnik.pl/czy-duze-przeszklenia-bez-strat-ciepla-sa-mozliwe-poznaj-systemy-przesuwne-pvc-od-kapica",
       "published": "2026-07-27T11:19",
       "source": "tuRybnik.pl",
-      "category": "Dom i Ogród",
+      "category": "Poradniki",
       "priority": "NORMAL"
     },
     {
@@ -1150,7 +1150,7 @@
       "link": "https://turybnik.pl/jak-nowoczesnie-kupowac-beton-i-kruszywa",
       "published": "2026-07-24T09:23",
       "source": "tuRybnik.pl",
-      "category": "Lifestyle",
+      "category": "Poradniki",
       "priority": "NORMAL"
     },
     {
@@ -1160,7 +1160,7 @@
       "link": "https://turybnik.pl/integracja-systemu-produkcyjnego-z-erp-checklista-przed-wdrozeniem-w-zakladzie-przemyslowym",
       "published": "2026-07-22T08:29",
       "source": "tuRybnik.pl",
-      "category": "Biznes i Praca",
+      "category": "Poradniki",
       "priority": "NORMAL"
     },
     {
@@ -1180,7 +1180,7 @@
       "link": "https://turybnik.pl/drzewce-i-podstawy-kluczowe-elementy-kazdego-sztandaru",
       "published": "2026-05-11T08:57",
       "source": "tuRybnik.pl",
-      "category": "Dom i Ogród",
+      "category": "Poradniki",
       "priority": "NORMAL"
     },
     {
@@ -1190,7 +1190,7 @@
       "link": "https://turybnik.pl/wiosenny-przeglad-motocykla-10-rzeczy-ktore-musisz-sprawdzic-przed-pierwsza-jazda",
       "published": "2026-02-23T08:28",
       "source": "tuRybnik.pl",
-      "category": "Motoryzacja",
+      "category": "Poradniki",
       "priority": "NORMAL"
     },
     {
@@ -1200,7 +1200,7 @@
       "link": "https://turybnik.pl/jak-dopasowac-wzor-cv-do-oferty-pracy",
       "published": "2025-11-03T09:06",
       "source": "tuRybnik.pl",
-      "category": "Biznes i Praca",
+      "category": "Poradniki",
       "priority": "NORMAL"
     }
   ],
