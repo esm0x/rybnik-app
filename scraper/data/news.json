@@ -1,15 +1,135 @@
 {
-  "generated_at": "2026-10-13T14:10:34",
+  "generated_at": "2026-10-13T22:44:44",
   "count": 120,
   "failures": [],
   "items": [
     {
-      "id": "83501c136dcc1e6c5dbfd56bea5b62e9874d1580",
+      "id": "2fb941da7b3dbad46a8140dff95cbb222601256b",
+      "title": "Bójka w gronie Ukraińców. 30-latek pobity przez znajomych jego byłej partnerki",
+      "summary": "Żorscy kryminalni szybko ustalili i zatrzymali osoby podejrzane o pobicie 30-letniego mężczyzny. Wśród zatrzymanych znalazła się jego była partnerka oraz dwóch młodych mężczyzn. Cała trójka usłyszy zarzuty związane z udziałem w pobiciu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251486-bojka-w-gronie-ukraincow-30-latek-pobity-przez-znajomych-jego-bylej-partnerki.html",
+      "published": "2026-10-13T22:39",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f8f6679aa7eebac770fb390a1ff48199cf47b8d4",
+      "title": "Za młody na crossa. Motor był niesprawny, kierowca nie miał uprawnień",
+      "summary": "W niedzielę na ulicy Olimpijczyka w Raciborzu policjanci zauważyli kierującego pojazdem typu cross, którego zatrzymali do kontroli drogowej.",
+      "link": "https://www.nowiny.pl/wiadomosci/251485-za-mlody-na-crossa-motor-byl-niesprawny-kierowca-nie-mial-uprawnien.html",
+      "published": "2026-10-13T22:32",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e69d8a6db7821ecabfeab1d752059d7a979d68cd",
+      "title": "Zamiast przebywać w więzieniu cieszyli się wolnością i posiadali narkotyki",
+      "summary": "Dwóch mężczyzn wpadło podczas nocnych interwencji żorskich policjantów. Obaj mieli przy sobie substancje odurzające. Po sprawdzeniu w policyjnych bazach danych wykazało, że są poszukiwani do odbycia kar pozbawienia wolności za nieuiszczone grzywny. Zamiast uniknąć odpowiedzialności, obaj trafili…",
+      "link": "https://ezory.pl/wiadomosci/251484-zamiast-przebywac-w-wiezieniu-cieszyli-sie-wolnoscia-i-posiadali-narkotyki.html",
+      "published": "2026-10-13T22:21",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1bdd28437cd28eed7c4c70b71fb4f842e78e2e1e",
+      "title": "Trener INNPRO ROW-u Rybnik zabrał głos. Podsumowuje sezon 2026, jest też coś jeszcze",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXpfMnlodkNrdlU2REp3VVlEM3BHU2xEajdMck1vN1FwdHVBcnFtUFZoOEc3WUl4OXhEUklBd1B3TG9obHNDR0xtbEZzNC1Sb2thVTNtRzQ5dmRhZ2s3M2xDWktpdjlnR0dwb3pyTFZfb1pralAxMzc1VGlidDloYWNzQVc3OWtSQXlONmhqbTFvZHI4MHdwYkJmVXhSaldGd3gyZUNTVTJKOVNoQTU5bA?oc=5",
+      "published": "2026-10-13T20:10",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5364bd43bc4cf24630668c938a88a19744806cda",
+      "title": "Tragiczny wypadek w Syryni. Jedna osoba nie żyje, dwie osoby trafiły do szpitala [ZDJĘCIA]",
+      "summary": "W Syryni na skrzyżowaniu ulic Raciborskiej z Bukowską doszło do tragicznego w skutkach wypadku.",
+      "link": "https://www.nowiny.pl/wiadomosci/251482-tragiczny-wypadek-w-syryni-jedna-osoba-nie-zyje-dwie-osoby-trafily-do-szpitala-zdjecia.html",
+      "published": "2026-10-13T19:23",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3c99cc71f969a71eea32ffe2d44a4870462f1445",
+      "title": "Rybnicki Feniks-Arete z 7 medalami Pucharu Świata Taekwon-Do ITF w Benidormie",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUmRJUHBBV1ZVSmdXZWswVU5KT0hJdi1KMFk3dTBydzhHSTZQUjlwTWZpY3hCWkZvaGVQQVROMEtTTVJObldHWXJIT2tQa0J6b2NiUFRFTjcydVpuVjVEUFJWYTVqOGZBYll5b3p1NjlFNmhGQ2Jsbmc1aWx6alpYNC1PX0RFd01BeGZMcXpEMFI1OV9BQXhKS1ZOSmxMbm5qNzFEVnZUbDdzaXRDanluTjc3a0ZvWmYtcXBsQVlvb1dRT2tMWkl2VDE4RldBRjVy?oc=5",
+      "published": "2026-10-13T18:56",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6029122ab4352ba90e3ef5f0cfb04c900963a3af",
       "title": "Sędzia Anna Maria Wesołowska na nowe otwarcie w Rybniku. WSBiNOZ inauguruje rok akademicki na kampusie (foto)",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNT0NkRG4zOTV4ak1wRTRWaENrQlJ5RUctU05iZEo5WFBlTFZKdnRpVHdoYmxOSGVzLUNWTTdNcUowOWMwaGZrMjBCWDlyODBPSkVsS0lfYlA1dWRRNmdGOEVCSjlrUDlSODNVZE9WUmZBVkxqU3lvVFZvVjhhTVkxSTFJUWM2WGNPYk9qR0VJQTZyN1BCYVd3ZTlsVlhNV3ozblkwV3FpVXhOLWhtNll2c3MtZ2tlMzg0YWRCQksySmFpaGlnSV85V3BwRnlZNDdmWVJDMGFsN2IwVjVRWnRiZjkxUVE4ZGhFQTdoWUpQWXVFOC1Oa19r?oc=5",
-      "published": "2026-10-13T14:00",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMEtLNURUOXBTX29Nel9LTzZKZDBJNHZfd1hfdDM2R0FmRXVvWkdSUkFPRlJQWEV6VFNyeXFtZU9DZ2pQQ0xOSURURWxtMXJYS0w0Vm1IcE41NTJidkxnSVF2YjlweXgwMXNuNk5CakRuN0RwcU8zZTRWUkdvZEV5SElrNy1lTUtOVzNZZGVrTUJxYVhWSnl5MVMwV040QUVSSTFJTzNRVUp6LUVXcHBRVllKc21nLXU1dmNoQ25PX1dpdGcxQXE3VHcycHhuNC04ZV8tNkFxUjFCdXhya1hnc3pZWWVoZW8zVjI3eWNlc2dBXzlHcTRwV1FR?oc=5",
+      "published": "2026-10-13T18:54",
       "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a943efba1ae19290176eda58e254ab2cc389c55c",
+      "title": "Żeglarstwo: Wojciech Wójcik triumfuje w Pucharze Polski ILCA",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUTM3ZmFwaWpzQk5BdkpxMTBjMUpjMkFmdGpuVlFFYmlHYnZDajhZUlo3TEhPSUhleDRRbUNoM1Z5bG82OW1IRDFnMjBYeXNRWFItMGhIOS1MdENwc1BmM3N1MkE0SmRBVHYzMzRNZGpyVnUzSUxFQWtfd01aZFNBMkNhZGFUN0pfZjBZa09DbklxNVVHR255S2FBNWEzTTJUSXVZbnZCejlBR2E2S0FEVHB2bEh2S3Qz?oc=5",
+      "published": "2026-10-13T17:15",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "27b14ceafec6c711bb26b6bddb33d13c85cddef7",
+      "title": "Uczniowie wodzisławskiego \"Kilara\" zagrali piękny koncert z okazji Dnia Nauczyciela [ZDJĘCIA]",
+      "summary": "Soliści, akompaniatorzy oraz szkolny zespół instrumentów dętych wystąpili przed publicznością we wtorek 13 października, prezentując utwory muzyki klasycznej i rozrywkowej. Był to prezent dla nauczycieli z okazji Dnia Edukacji Narodowej.",
+      "link": "https://www.nowiny.pl/wiadomosci/251481-uczniowie-wodzislawskiego-kilara-zagrali-piekny-koncert-z-okazji-dnia-nauczyciela-zdjecia.html",
+      "published": "2026-10-13T16:57",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9a9f688437027aca82500eed41f55f000bd94f8c",
+      "title": "PDK zainaguruje nowy rok kulturalny 22 października",
+      "summary": "Starosta Raciborski oraz Dyrektor Powiatowego Domu Kultury w Raciborzu mają zaszczyt zaprosić na Inaugurację Roku Kulturalnego 2026/2027, która odbędzie się w czwartek 22 października 2026 r. o godz. 16.00 w sali widowiskowej PDK w Raciborzu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251480-pdk-zainaguruje-nowy-rok-kulturalny-22-pazdziernika.html",
+      "published": "2026-10-13T16:35",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e5abd7902d39a5e2b7fdba335621205841b4bc57",
+      "title": "Most w Krowiarkach przejdzie remont za 640 tys. zł. To efekt współpracy starosty Swobody z wójtem Wajdą",
+      "summary": "Powiat Raciborski podał informację o kolejnej inwestycji drogowej na drodze powiatowej. Zostanie sfinansowana za pozyskaną dotację. - Poprawi się infrastruktura drogowa, podniesie poziom bezpieczeństwa użytkowników tej drogi - informuje starostwo.",
+      "link": "https://www.nowiny.pl/wiadomosci/251479-most-w-krowiarkach-przejdzie-remont-za-640-tys-zl-to-efekt-wspolpracy-starosty-swobody-z-wojtem-wajda.html",
+      "published": "2026-10-13T16:29",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "dd266e6d97532cfbe25a0de7a3ba31dedb8451be",
+      "title": "Uważaj na „pewne zyski”. Oszuści polują na osoby inwestujące w internecie",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY0pqYTZoMFFTemp4TVhhakQwb2FiZGFDNXVlLTFiTnJWYW0xRzF2R2NJVlM0QUFfckJOcEVvZktGU08yczZwbHhKS3N1TVNBUzN2alAySjRnWW1YNC1IWTlSdUE5dVN5WUlLQ1dtUHc5M09oOHEzWmxqUnZjeTRwNG9nTk91VFNXUjFtUzhwSXlZTVktTkJ1OEx6QmdBam9jX1VBalRBWFFhWmlqZFJTQzBOd3o1S3htbVJfLVlxUkNSYnVzMkFj?oc=5",
+      "published": "2026-10-13T16:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2597d15721c3b52fb31e1bc772c5fde2dc18494b",
+      "title": "Rybnicka Rada Kobiet ostrzega przed oszustami. Podszywają się pod stowarzyszenie, którego nie ma",
+      "summary": "Na parkingach przy marketach, dworcach i w centrach handlowych w Rybniku znów pojawiają się oszuści prowadzący fikcyjne zbiórki pieniędzy - ostrzega w swoich mediach społecznościowych Rybnicka Rada Kobiet.",
+      "link": "https://www.radio90.pl/rybnicka-rada-kobiet-ostrzega-przed-oszustami-podszywaja-sie-pod-stowarzyszenie-ktorego-nie-ma.html",
+      "published": "2026-10-13T15:40",
+      "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -44,23 +164,13 @@
       "priority": "NORMAL"
     },
     {
-      "id": "89f869f36b3640ffc1a0c99d1d8524675243bad6",
-      "title": "Akademia Nauk Stosowanych w Raciborzu rozpoczęła rok akademicki 2026/2027 [ZDJĘCIA]",
-      "summary": "We wtorek, 13 października, w Raciborskim Centrum Kultury odbyła się uroczysta inauguracja roku akademickiego 2026/2027 Akademii Nauk Stosowanych w Raciborzu. Wydarzenie oficjalnie rozpoczęło kolejny rok nauki dla studentów oraz pracy dydaktycznej i naukowej kadry uczelni.",
-      "link": "https://www.nowiny.pl/wiadomosci/251466-akademia-nauk-stosowanych-w-raciborzu-rozpoczela-rok-akademicki-2026-2027-zdjecia.html",
+      "id": "03ee39847dfef0210539c9437b71b95b707c661c",
+      "title": "\"Wiedza i działanie definiują nas jako uczelnię potrzebną\". Akademia Nauk Stosowanych w Raciborzu rozpoczęła rok akademicki 2026/2027",
+      "summary": "- Nie jesteśmy mniejszą wersją wielkiego uniwersytetu, chociaż szanujemy wielkie uczelnie i doceniamy ich dorobek. Ale my również mamy własną tożsamość i własne zadanie. Naszą siłą jest bliskość praktyki, bliskość studentów, bliskość pracodawców, bliskość samorządów i instytucji - mówił rektor ANS…",
+      "link": "https://www.nowiny.pl/wiadomosci/251466-wiedza-i-dzialanie-definiuja-nas-jako-uczelnie-potrzebna-akademia-nauk-stosowanych-w-raciborzu-rozpoczela-rok-akademicki-2026-2027.html",
       "published": "2026-10-13T12:10",
       "source": "nowiny.pl",
       "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d3a6f9f936cc18cf078054c4889e8aff417ab27b",
-      "title": "Kolor to „bezpłatny pracownik” twojej firmy. Wyjątkowe śniadanie biznesowe BMH w Rybniku (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNandnR2oyVFctRG1yZXV2dmNTN1dCNUQzQzc1cVFBRFZseTlPYk45d1ZIVTNNX0JGVjJTcmpLWEFMbkszdk9FRkdFd0VUSmthZkpDQl9jandaTGFQcTZlaGQydEtnekVjUmJoTWtXZ1hCeXpaVFRFbWdNYnlIam96UTBoNDlEOHM5UjI4QzBBOHZSY0ZOWWpCNGt1ME9GQkhMV0QwVk1mNGxWWTRMenVQTUJ2bzBiZjJOYVhkMTk4NmM2VEVlVEtpMU5fUGp3T0JFWm5pd1JjdWl4bzZ5cEdIdzFB?oc=5",
-      "published": "2026-10-13T12:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -70,6 +180,16 @@
       "link": "https://www.radio90.pl/policja-w-rybniku-zorganizowala-spotkanie-dla-dyrektorow-szkol-poruszono-kwestie-bezpieczenstwa-uczniow-i-pracownikow.html",
       "published": "2026-10-13T12:00",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d3a6f9f936cc18cf078054c4889e8aff417ab27b",
+      "title": "Kolor to „bezpłatny pracownik” twojej firmy. Wyjątkowe śniadanie biznesowe BMH w Rybniku (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNandnR2oyVFctRG1yZXV2dmNTN1dCNUQzQzc1cVFBRFZseTlPYk45d1ZIVTNNX0JGVjJTcmpLWEFMbkszdk9FRkdFd0VUSmthZkpDQl9jandaTGFQcTZlaGQydEtnekVjUmJoTWtXZ1hCeXpaVFRFbWdNYnlIam96UTBoNDlEOHM5UjI4QzBBOHZSY0ZOWWpCNGt1ME9GQkhMV0QwVk1mNGxWWTRMenVQTUJ2bzBiZjJOYVhkMTk4NmM2VEVlVEtpMU5fUGp3T0JFWm5pd1JjdWl4bzZ5cEdIdzFB?oc=5",
+      "published": "2026-10-13T12:00",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -84,22 +204,22 @@
       "priority": "NORMAL"
     },
     {
-      "id": "a8d3dece71c50369d272ed9e18e971f84f9f861a",
-      "title": "Burmistrz Weber wrócił przed rybnicki magistrat. Naprawa kosztowała 14 tys. zł netto (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRVBpYkgzbjdSbEFrWEU3S0FIT2YzcVJwczBCWFVxVFNYSlE0QWhrd2dGcmhZaFlINXVxaFR6VXg1R1AxZ1FUQVNDNEp6TmpSekhJdDhXaWdsdUs1YzEzZjhJUEt6di1lVU5CSGRybXB2eTdWaEMzNmZLOF91Rl9sem9SY2xTOXU2d0QteFBYSDY5WUt6d0JkT09NY3pEMmZZRGdQUkUySjBON0xTOENGMUk1cEVfbml6Y3ZGWWxvVThsZ01ITEs4VE82ZmstMGJOTUhob0QxSXl3dDFDRmc?oc=5",
-      "published": "2026-10-13T10:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "cc3468cf4315778b1fbccc8abdbc76999a4e2b64",
       "title": "Teatr Ziemi Rybnickiej: dziś spektakl „Wajda Kilar Śląsk”. W ramach trwających Rybnickich Dni Literatury",
       "summary": "\"Wajda Kilar Śląsk\". Dziś (13.10) w ramach 57. Rybnickich Dni Literatury wyjątkowy spektakl w wykonaniu artystów, chóru, baletu i orkiestry Zespołu Pieśni i Tańca „Śląsk” im. Stanisława Hadyny, inspirowany twórczością Andrzeja Wajdy i muzyką Wojciecha Kilara.",
       "link": "https://www.radio90.pl/teatr-ziemi-rybnickiej-dzis-spektakl-wajda-kilar-slask-w-ramach-trwajacych-rybnickich-dni-literatury.html",
       "published": "2026-10-13T10:00",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a8d3dece71c50369d272ed9e18e971f84f9f861a",
+      "title": "Burmistrz Weber wrócił przed rybnicki magistrat. Naprawa kosztowała 14 tys. zł netto (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRVBpYkgzbjdSbEFrWEU3S0FIT2YzcVJwczBCWFVxVFNYSlE0QWhrd2dGcmhZaFlINXVxaFR6VXg1R1AxZ1FUQVNDNEp6TmpSekhJdDhXaWdsdUs1YzEzZjhJUEt6di1lVU5CSGRybXB2eTdWaEMzNmZLOF91Rl9sem9SY2xTOXU2d0QteFBYSDY5WUt6d0JkT09NY3pEMmZZRGdQUkUySjBON0xTOENGMUk1cEVfbml6Y3ZGWWxvVThsZ01ITEs4VE82ZmstMGJOTUhob0QxSXl3dDFDRmc?oc=5",
+      "published": "2026-10-13T10:00",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -224,16 +344,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "fb1213955de239fb0b9120ea1b34ef2f9ec58234",
-      "title": "Brutalny rozbój w centrum Rybnika. Młodzi sprawcy użyli m.in. tłuczka do mięsa",
-      "summary": "Spotkanie w mieszkaniu przy Placu Wolności w Rybniku zakończyło się brutalnym atakiem na 20-letniego mieszkańca powiatu rybnickiego. Sprawa szybko przerodziła się w szeroko zakrojoną policyjną akcję, a dwoje młodych podejrzanych trafiło do tymczasowego aresztu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251470-brutalny-rozboj-w-centrum-rybnika-mlodzi-sprawcy-uzyli-min-tluczka-do-miesa.html",
-      "published": "2026-10-13T05:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "903c83bf0de429c9496ef8631952b44e2cf73703",
       "title": "Bezdomni w Rybniku: rozpoczęły się kontrole miejsc, w których przebywają. Oferowany jest im ciepły posiłek",
       "summary": "Wzmożone kontrole miejsc, w których mogą przebywać osoby w kryzysie bezdomności ruszyły w Rybniku. Prowadzą je pracownicy socjalni, strażnicy miejscy i policjanci.",
@@ -274,13 +384,13 @@
       "priority": "NORMAL"
     },
     {
-      "id": "b816d0f8d2648d9c31ddbb63b507d42b1beb5b70",
-      "title": "Mazurek w Zagrzebiu, złoto dla Polski. Fenomenalny bieg Wojciecha Lizaka",
-      "summary": "Wojciech Lizak, zawodnik TL Athletics Jastrzębie i reprezentant Polski, wrócił z Zagrzebia z jednym z najcenniejszych trofeów w swojej karierze. Podczas Mistrzostw Świata Masters w maratonie wywalczył 9. miejsce indywidualnie w kategorii M45, a przede wszystkim - wraz z Arturem Jasińskim i Maciejem…",
-      "link": "https://jastrzebieonline.pl/sport/251468-mazurek-w-zagrzebiu-zloto-dla-polski-fenomenalny-bieg-wojciecha-lizaka.html",
-      "published": "2026-10-12T22:08",
-      "source": "nowiny.pl",
-      "category": "Region",
+      "id": "bd652e72f3ec8a5759d9b1d522ca917e2f668737",
+      "title": "Rekordowy sum znów złowiony w Zalewie Rybnickim! „Ta ryba jest kosmicznym dinozaurem”",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbmpwemVHZzMyUlpUUmlKdjNmMnFCaHR5cmNWUnllTU5Calo5WGlyNW9vcVFzQ21SRVZTX2ROaGtLcnhONVBFZEVLVFBZaUxheERVZlNhOGF4ejg4ZWZmTGZxZDNIMWN1enRMeXVTcWY1N3YtLVRMOHJXUFhDVWZmdlkydUVtaVFBMG9XdGtmT3lQYWJqdHVTZnc1OWZaUmtGY1dBek1MVVBOV1ZBYllRMTNGYXdOSGtpRTVEenQxOURWMVNqQVJid3E2MUpqRFBsaXhhalJBWjhwQQ?oc=5",
+      "published": "2026-10-12T23:55",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -290,26 +400,6 @@
       "link": "https://www.radio90.pl/program-rehabilitacja-25-plus-w-wodzislawiu-slaskim-kontynuacja-terapii-i-integracji-spolecznej.html",
       "published": "2026-10-12T22:01",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a81f9ffb3faabf82e6575552c2835db35acfffd8",
-      "title": "Jest nowy naczelnik Wydziału Edukacji - Ireneusz Komorowski z Żor",
-      "summary": "Urząd Miasta Jastrzębie‑Zdrój ogłosił wyniki otwartego i konkurencyjnego naboru na stanowisko Naczelnika Wydziału Edukacji. Po przeprowadzeniu pełnej procedury rekrutacyjnej komisja wskazała najlepszego kandydata. Funkcję obejmie Ireneusz Komorowski, mieszkaniec Żor.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251467-jest-nowy-naczelnik-wydzialu-edukacji-ireneusz-komorowski-z-zor.html",
-      "published": "2026-10-12T20:57",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e1890f8717d203e3a6862a676828930b0fad5bdc",
-      "title": "Rekordowy sum znów złowiony w Zalewie Rybnickim! „Ta ryba jest kosmicznym dinozaurem”",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdWRJWm5EdklxLS1vNjVUUjN4cndzNEpBdFVjYlZxX1hDMmVJUVB1YnM3MGRuWXhoemZXNlNQcmVZZTd1Zm9HenRmNi13VVJfSVoyT2lxMmVLWUhnSTVQTHduRGxXOFBvYWhIZXVGc0hvR09kR0ZiM1h4NXRxSzJwTzVHZ0c1dWZKUjlSYVNtcVhHTmFzYm1iYWtfeXptNlJEdFFpR0VNTmtmVUkxQUZuNWZxMGtGRVFVVl9RMmZzZTVtUGQ4SHN6aWdlMVpYNV9vUXBOMkdING9ZUQ?oc=5",
-      "published": "2026-10-12T20:43",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -324,16 +414,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "a0f9d3bd5ddcfa7ed24f1132b03a80fa96ed71b1",
-      "title": "Nie wie, za co ją aresztowano. „Przesłuchanie” na scenie Łaźni Moszczenica [ZAPOWIEDŹ]",
-      "summary": "Aresztowanie bez wyjaśnienia, kolejne przesłuchania i próba złamania człowieka przez system. W sobotę, 24 października, w Łaźni Moszczenica w Jastrzębiu-Zdroju będzie można zobaczyć spektakl „Przesłuchanie”, oparty na filmie Ryszarda Bugajskiego. Wstęp jest bezpłatny.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251463-nie-wie-za-co-ja-aresztowano-przesluchanie-na-scenie-lazni-moszczenica-zapowiedz.html",
-      "published": "2026-10-12T18:15",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "ac873a11c6f285010c08093ea8b88f1277103a5a",
       "title": "Niezwykły charakter siatkarek z Rybnika. KS Grom odrobił straty w Wodzisławiu i odniósł drugie zwycięstwo",
       "summary": "",
@@ -344,26 +424,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "396193054113777eb56a160b502b99c6f5accd8d",
-      "title": "Przyszłość zaczyna się od wyboru szkoły. Festiwal Perspektyw 2026 już 28 października",
-      "summary": "Jaką szkołę wybrać po ósmej klasie? Odpowiedzi będzie można poszukać 28 października podczas Festiwalu Perspektyw w Raciborzu. Wydarzenie ponownie odbędzie się w hali przy ul. Łąkowej, dawnej Arenie Rafako.",
-      "link": "https://www.nowiny.pl/wiadomosci/251430-przyszlosc-zaczyna-sie-od-wyboru-szkoly-festiwal-perspektyw-2026-juz-28-pazdziernika.html",
-      "published": "2026-10-12T17:29",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f7dd30a50c93c8afce18a413e3929df2189436a6",
-      "title": "Joanna Staniczek będzie kierować Służbami Komunalnymi Miasta w Wodzisławiu Śląskim",
-      "summary": "Prezydent Mieczysław Kieca poinformował, że nowym dyrektorem wodzisławskich służb komunalnych została Joanna Staniczek.",
-      "link": "https://www.nowiny.pl/wiadomosci/251465-joanna-staniczek-bedzie-kierowac-sluzbami-komunalnymi-miasta-w-wodzislawiu-slaskim.html",
-      "published": "2026-10-12T17:28",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "feb2dd80de99f5535c08cebffee28169b0b4f780",
       "title": "Próbował przekupić stróżów mundurowych, dając im 150 złotych. 37-latka zatrzymali policjanci z Raciborza",
       "summary": "Zarzuty niestosowania się do sądowych zakazów prowadzenia pojazdów, a także usiłowania wręczenia korzyści majątkowej, czyli po prostu łapówki - usłyszał 37-letni mieszkaniec Rybnika. Mężczyzna został zatrzymany przez policję w Raciborzu. A wszystko zaczęło się od tego, że mundurowi zwrócili uwagę…",
@@ -371,16 +431,6 @@
       "published": "2026-10-12T17:05",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ade708a3748908bda9eceebee05a1776a7c6cf28",
-      "title": "Żorzanie zdecydowali. 3,5 mln zł na remizę OSP i zaplecze dla harcerzy",
-      "summary": "Ponad 12,7 tys. mieszkańców wzięło udział w głosowaniu na projekty Żorskiego Budżetu Obywatelskiego 2027. Zdecydowanie zwyciężyła propozycja budowy remizy OSP przy ul. Ogniowej oraz doposażenia stanicy harcerskiej nad stawem Śmieszek. Projekt zdobył 9104 głosy i wykorzysta całą pulę 3,5 mln zł…",
-      "link": "https://ezory.pl/wiadomosci/251462-zorzanie-zdecydowali-35-mln-zl-na-remize-osp-i-zaplecze-dla-harcerzy.html",
-      "published": "2026-10-12T16:51",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -450,6 +500,16 @@
       "link": "https://www.radio90.pl/volley-rybnik-odniosl-kolejne-zwyciestwo-we-wlasnej-hali-rybniccy-siatkarze-pokonali-zespol-z-rzeszowa.html",
       "published": "2026-10-12T13:30",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7b7cbd42931aed4ac99e4578ff50424ef3225f5c",
+      "title": "Brutalny napad podczas libacji w centrum Rybnika. Użyli noża i tłuczka do mięsa",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeWhTMVpWWnc2U1cxZ3gtckRZLWw1N3Z5SGlTSW84bmo0S3FWT1J1RHVkQXU3Wmw5bXBmcHVEdHJ1RmxlbU0wbnJOQk9wSC1lU0JrQnpseEZSM3FNRkFxS0pqbGF0TnFvZGdYc2xQaXlXMmdhZnU3T3pwVDlEcWpFN1htakJvc2NpcXVDMWdGczBHUjhEYWZ5b2JQa29ZMWg0ZWlTaVJsSnJIeXY3ZGw3YlVJQ1U2MzRlaXNKVDRkSmZ1VlRHX2ZlcEtaaE9SZDJsUmZLXw?oc=5",
+      "published": "2026-10-12T13:06",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -524,16 +584,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "ede90e8bb7379aafd122bb384f0982c1279eb183",
-      "title": "Brutalny napad podczas libacji w centrum Rybnika. Użyli noża i tłuczka do mięsa",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOejAwSWN0WUI1bDZRdnNaeFZWcVVhLW42T1J4dEp4Ukg3WnFUVVdldktWRWE1QTFHRXU0bmdkSTBuZ09Cb0lDUnRkcWtOMmUyRlZQR0J6Sm9MYUdsby1IWm1fV0R0UHNQNGJZbERQTFNQQkJqWmZaNkxxWDIwclJTazZXSnlWNDNTQmxpOFZOVkZLWEV4cWpncFNsRzlPOTRXdm5fSl9UU1JUYjB5VkxTMU5ZanB2WE54c0ZPbUFHRjFzaWNwX3lDVkI1aDVhS0w3Tnc?oc=5",
-      "published": "2026-10-12T09:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "274fe3f1a574dc59ffce172ef9b84ba03467a67b",
       "title": "Ryzyko zatrucia bakteryjnego. Wycofano z rynku sery Camembert oraz boczek wędzony",
       "summary": "",
@@ -549,26 +599,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUVNFaVFqQm01Rkk1NTExNGZ5ajJCZ0lfakpOVGdTVEs2Y0lUWjJBMmctNlFYWDZoenA1REo0Tl9rNERiRWFtcC1UWTMzSmpfRV82X29WWi1HZTEzdEg5cHdWUkc0WTQ1d2hFTEh0TGV2RUlFSjRzejNBbFVkRHhuaGJ5X2FKMUlOUGd3YlhfWXNwbDRXc1JlVXZsNFBjMUlLMVVROUxuQ1N5S2lMUC1iSEtiVENCeEM2OHV2bXJWTHVkdnJfQVZ1TlZOcC1rSjdMdXJDUHFCaGFjZkZMcDRvUmpxZ1dWeGc?oc=5",
       "published": "2026-10-12T07:25",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "92be5a64f22faf8ec4c07a7e4be086c64b9d72e0",
-      "title": "Co kryje rybnicki schron „Chrobry”? Dzień otwarty miejsca ukrycia dla Rybniczan",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZm95NUlobHRCSjhMUnpuUnBBTkNpLXBka18wM0x4Zktjbm5ZcGNjNXhsYlFlbTVPam1LUzI1YXlVNXFRXzhoUEVwblNNeEk1U3NBVW52RjFndHFqRjY2UG02cWt5ZGNvUWp3VlY0ZXpaNURXOVROUzdfRXVjaktSeTc5d0VxZmp2dzVRWFFoWndLRDZUU3FJeDFJRjlwYU1iRzlBUzZ0bmZlRjloTXpzMmp1dm03ZHRPOVMyZ0FuZjNRM21Obms1VC1WQ1RUYWlnYUE?oc=5",
-      "published": "2026-10-12T07:02",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8905ec4cf994ffe3ec894eb9bd9b5921b57ad6ad",
-      "title": "„Gdzieś po drodze zgubiliśmy dzieci”. Rybnicka psycholog o przemocy w szkołach, internecie i roli rodziców",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNklwYkdubEJFcmlZTGl1ZDhCUUlkRHF1b2l0c1pjUHpYenBaTGNlcXpDaUItbWt3bktSaWZpZHMyNnBLYmhvUkVDNHk0VUo5cVhQUjNyMnE4VmdBclRaRS1acnpKNTZSeVVLVHRBOUpLLXdoOFQ4ZGRhekhnOVBQN3p5N1loZURMeVg2U1hYaFB6RUFNUFkwLV9LTFdKN1RadGl2TWVMS1p0MUMxUXBuVHRXMTJ6Y1h6bnRXdE9TWWRIUFp0NDI0UHktNExNa0owVk4ybW9vaHY0d2x6LTdCZFpvRWZNR25pZVBlQ1NBMFhtZw?oc=5",
-      "published": "2026-10-12T07:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -614,6 +644,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "0db102e7a64bcc69ab0b3adb78a363dce8dc98e4",
+      "title": "Co kryje rybnicki schron „Chrobry”? Dzień otwarty miejsca ukrycia dla Rybniczan",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNWxhVU5kZ3ZHZ1g2aEFsVVI1TEpCWXdEeEt6NVZVYXlnS0JDdFg5UzBGc3V0elZNa2ZJQWRsX1EwNldOX0pKcjUxVzVUSWJNQ3o4Q3ZhYjlQaVJiSGk1R2ZWdWlvenZDRmtnODE4b3UtN2NqLVBDckxNdzV6SjBPREJnRnNEWm1NTmdkT1ZrYjE0ZW8zU1VrR1FfN2FwNFVPSXNIclNOTFZfLWU5QmxvREV1Y3dpZVlqU0I1N2t1alk5YVlzTUlnSEFBZlZyY0o0YlE?oc=5",
+      "published": "2026-10-11T18:49",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "33a6ef17a0e59a9dde93541256db33ee2594ea47",
       "title": "Cykl z książki „20 lat Konkursu Człowiek Roku Rybnik.com.pl”: Czesław Gawlik",
       "summary": "",
@@ -629,16 +669,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbi1qS2p0ZGlxRDZfNTlsUlhPSDZSeHNsUDBOQ2k2T2lwb29RQnBYRjBmLXlzZzRxZFpWOUdPRkRvTVVFQXBfMTJSdlpNb2pKelZ5NHFMYVdMR0RNekI0OW1BNzNTdE5uaVNqcUo5VHJoeVMzTldqdXVHbmY1c190QllDX1RUMTNEZ0hUR2pUX1hCUnNXZE5zQndxZ2VlRktIbnc?oc=5",
       "published": "2026-10-11T11:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a0e8e328add9453c0d329819b61df81f98c543af",
-      "title": "Pomarańczowo w Kamieniu. Zobaczcie cuda z dyni (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdlF0aUx5MTA2d1hCT2VRbjRDTWMyS3pndEFtaktiUGpncm1CTFlpY0hiT09XRmJNR2lSRFFQaVRHOTlybmxFeURMY1J5aDVxenJZZllqWm56NFBwZ21Rcm4yLWprRXZ4NTFfLS1RUlg3UWpnQjVNTW5VMHRJSzByYWpRRlJoRndFaGVJd1plUUd6bk1sbFZSdkhYUkkyMFRsRlNHU2ZCSkNFV0s0MjFz?oc=5",
-      "published": "2026-10-11T10:33",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -674,21 +704,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "f52bda0683bae6f5012c694f8d61a83113924704",
-      "title": "Pomarańczowo w Kamieniu. Zobaczcie, jakie cuda z dyni wymyślili mieszkańcy!",
+      "id": "5d3bd860b5bcb6ac3c094958aa69b26b4283be16",
+      "title": "Pomarańczowo w Kamieniu. Zobaczcie cuda z dyni (foto)",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOME5zdkJIMzhWTXlLNFFKNFB1ajN4OXd4RWtxVmZhR3gxbFVDVFRXaU1fc1c2R19VWUpUaTFIdHZla0ItNVJvZmU5Yl9wVUQ3cGY4c1FjNTdxV00xMGk0ZUh5UlVTVzBhQ1VGUUh0TlV4S3JENzFRWTV2cG9GeHd0YVdFMHRrVUFFaVl2TWRla3RrNl9vUDZmNkVENTJXUTBsV2xiWTNBYWdVaUhINlFVQU10M3lhRmU0TkdVU29MWG1OckFDOVE?oc=5",
-      "published": "2026-10-11T06:37",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a4eeee4d974509f1f1ee9a2dd37697f4eeb66dc3",
-      "title": "Imponujący start Volleya. Rybniczanie bez straty seta liderują w II lidze",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYkw3NTlFNkdoS2tLUEZ1Wm5INnVIT0l6NlRkZHZzRVJ3XzdqbWU0LUF5WkR3WDBnd01jc1dwQzNfS2M4WFd1aWxCRUpfZUtwTmRWdjdOZjAxQjM3SkFrUWZwQllRczJINkdoejVGSzNqY0Vld0k2aVAwZjRaNTYzRUt6WURjU25NRVlUdGp3STlncFVwUXZYQVFOWExjWHJDV3NxMUNEeG5nUGcyaUtkbUtEd3JBa01Kc3FoWkFXLWpWNHp5ZUpqMGh3?oc=5",
-      "published": "2026-10-10T18:58",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHUwNXlzVlZYUlYtSFhKYkZBeTJCNUpkbmE4ZjNjWVY0eldHY2VBUmJ6VS14dWFaMVZrSkFKNVRtc0lrZkIya1o3d1Utdm1Oc2xPLXNZOVNabFhSSE9BVUpKMVNEMjJPYXZETFJkRVk2eERqZjZMNjUzc1BiX241eExMYXRweWpVRGF2dnFIYXJ4UHZKWW9EbVJaNUh2cmRtN05iNENfdTVQOG1V?oc=5",
+      "published": "2026-10-11T06:35",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -824,16 +844,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "487e7377860f82b78a6e133668fb38ed553269a9",
-      "title": "Dzieje się w Rybniku: Dwurnik, Juliusz, Vinyl Swap i zaproszenie do muzeum",
-      "summary": "Giełda winyli, jarmark staroci, a także ciekawa wystawa w Galerii Sztuki Rzeczna. Jak zwykle sporo dzieje się w Rybniku w najbliższy weekend. Którą propozycję wybieracie?",
-      "link": "https://www.radio90.pl/dzieje-sie-w-rybniku-7.html",
-      "published": "2026-10-09T14:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a8c2462c12befdcded255e3bcb6283ff634a87e1",
       "title": "Pomoc dla osób w kryzysie bezdomności w sezonie jesienno-zimowym",
       "summary": "Wraz ze spadkiem temperatur służby w Rybniku docierają do osób przebywających w nieogrzewanych i niebezpiecznych miejscach. Działania te mają na celu zapewnienie każdemu potrzebującemu bezpiecznego schronienia i posiłku.",
@@ -949,16 +959,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPXzE0Z1ZmdzdLYlFmNW9lWm4xWkZGeU1oOGFjWkU4d0wtaEFtVVkzeHJWSTV3NDJjQU9naHpqWVh2dU9aZ3RrWnIzMXJDaWQwYWw4dGs1Sl9abEhPeENKc1JDZURtQVRMLWNaWGYwaDlyb0JZbFNhMTNHWXZ5SXlWWkF3cHlKUkJZUUEyTl9BUm5oRF85bVpEdVF6ckZJMURnellDWU9VcDhIVEVyMGE3QjhuZERCcHJYWlJLQjhpbW12bmM3VHZ6WVB2SQ?oc=5",
       "published": "2026-10-03T13:40",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "ALERT"
-    },
-    {
-      "id": "7600bd7346bb04157b66699c0f6379efa586565c",
-      "title": "Ulica Dworcowa zostanie zamknięta. Sprawdź trasę objazdu i utrudnienia w ruchu",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2FuY2dGeVE1S0llb1dXOVh4TlU0bjFoVTlON1RTZUc2ODZMdUNqTTcyaWR1T3QtbncwcHFKbk92dHFxUTNjaTlTVThyd2h5a0xBVkt5bUwzVl9GejNrNXpyT1ZBaGk0dEVoRGtsaWdHU2JOY1B4QktxRG8tSGVtSTVxWTYzbHBVaDhmbEY5bDBHVEZfbDhVZmZfMk9aTlNZNXBQRlpFaVlLcEsxelhlR3RMZDhMa3ZhS25pTldNMjZaS3ZfQ0hWbERmbWN1dHhL?oc=5",
-      "published": "2026-10-03T12:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
