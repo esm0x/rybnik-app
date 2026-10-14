@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:44:44",
+  "generated_at": "2026-10-14T04:51:44",
   "count": 120,
   "failures": [],
   "items": [
@@ -64,16 +64,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "6029122ab4352ba90e3ef5f0cfb04c900963a3af",
-      "title": "Sędzia Anna Maria Wesołowska na nowe otwarcie w Rybniku. WSBiNOZ inauguruje rok akademicki na kampusie (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMEtLNURUOXBTX29Nel9LTzZKZDBJNHZfd1hfdDM2R0FmRXVvWkdSUkFPRlJQWEV6VFNyeXFtZU9DZ2pQQ0xOSURURWxtMXJYS0w0Vm1IcE41NTJidkxnSVF2YjlweXgwMXNuNk5CakRuN0RwcU8zZTRWUkdvZEV5SElrNy1lTUtOVzNZZGVrTUJxYVhWSnl5MVMwV040QUVSSTFJTzNRVUp6LUVXcHBRVllKc21nLXU1dmNoQ25PX1dpdGcxQXE3VHcycHhuNC04ZV8tNkFxUjFCdXhya1hnc3pZWWVoZW8zVjI3eWNlc2dBXzlHcTRwV1FR?oc=5",
-      "published": "2026-10-13T18:54",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a943efba1ae19290176eda58e254ab2cc389c55c",
       "title": "Żeglarstwo: Wojciech Wójcik triumfuje w Pucharze Polski ILCA",
       "summary": "",
@@ -130,6 +120,16 @@
       "link": "https://www.radio90.pl/rybnicka-rada-kobiet-ostrzega-przed-oszustami-podszywaja-sie-pod-stowarzyszenie-ktorego-nie-ma.html",
       "published": "2026-10-13T15:40",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "83501c136dcc1e6c5dbfd56bea5b62e9874d1580",
+      "title": "Sędzia Anna Maria Wesołowska na nowe otwarcie w Rybniku. WSBiNOZ inauguruje rok akademicki na kampusie (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNT0NkRG4zOTV4ak1wRTRWaENrQlJ5RUctU05iZEo5WFBlTFZKdnRpVHdoYmxOSGVzLUNWTTdNcUowOWMwaGZrMjBCWDlyODBPSkVsS0lfYlA1dWRRNmdGOEVCSjlrUDlSODNVZE9WUmZBVkxqU3lvVFZvVjhhTVkxSTFJUWM2WGNPYk9qR0VJQTZyN1BCYVd3ZTlsVlhNV3ozblkwV3FpVXhOLWhtNll2c3MtZ2tlMzg0YWRCQksySmFpaGlnSV85V3BwRnlZNDdmWVJDMGFsN2IwVjVRWnRiZjkxUVE4ZGhFQTdoWUpQWXVFOC1Oa19r?oc=5",
+      "published": "2026-10-13T14:00",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -954,16 +954,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "9b4b78ea2b6c75d7fcd07777c2cc52c044282ebd",
-      "title": "Czad nie daje ostrzeżenia. Zadbaj o bezpieczeństwo przed sezonem grzewczym",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPXzE0Z1ZmdzdLYlFmNW9lWm4xWkZGeU1oOGFjWkU4d0wtaEFtVVkzeHJWSTV3NDJjQU9naHpqWVh2dU9aZ3RrWnIzMXJDaWQwYWw4dGs1Sl9abEhPeENKc1JDZURtQVRMLWNaWGYwaDlyb0JZbFNhMTNHWXZ5SXlWWkF3cHlKUkJZUUEyTl9BUm5oRF85bVpEdVF6ckZJMURnellDWU9VcDhIVEVyMGE3QjhuZERCcHJYWlJLQjhpbW12bmM3VHZ6WVB2SQ?oc=5",
-      "published": "2026-10-03T13:40",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "ALERT"
-    },
-    {
       "id": "a77149d199d9b5d451a0fcf617393a173d60f8fa",
       "title": "Miasto Rybnik i Koleje Śląskie Sp. z o.o. łączą siły na wypadek awarii",
       "summary": "W dniu 28 września 2026 r. Miasto Rybnik i Koleje Śląskie podpisały umowę dotyczącą wzajemnej współpracy w sytuacjach awarii i utrudnień w funkcjonowaniu transportu kolejowego.",
@@ -1111,6 +1101,16 @@
       "published": "2026-09-21T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "44d71b27afbdbd113919edaf813e1e81a01e82ec",
+      "title": "Przemysłowa 22 czeka na remont",
+      "summary": "Budynek ma przejść kompleksową modernizację, która obejmie mieszkania, części wspólne oraz wszystkie najważniejsze instalacje. W postępowaniu uczestniczą trzy firmy, a najtańsza zadeklarowała realizację zadania za ponad 9 mln zł.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/przemyslowa-22-czeka-na-remont",
+      "published": "2026-09-21T00:00",
+      "source": "rybnik.eu",
+      "category": "Inwestycje",
       "priority": "NORMAL"
     },
     {
