@@ -1,14 +1,364 @@
 {
-  "generated_at": "2026-10-15T04:36:51",
+  "generated_at": "2026-10-15T11:26:42",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "1f0b20e5408a4220d6deb557d3f92032191a03be",
+      "title": "Trzecia wygrana koszykarzy MKKS Rybnik. Dobra passa niech trwa jak najdłużej",
+      "summary": "Koszykarze MKKS Rybnik wygrali trzeci mecz w tym sezonie. Wczoraj (14.10) we własnej hali pokonali drugi zespół GTK Gliwice 85:75.",
+      "link": "https://www.radio90.pl/trzecia-wygrana-koszykarzy-mkks-rybnik-dobra-passa-niech-trwa-jak-najdluzej.html",
+      "published": "2026-10-15T11:20",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c4b19640d707251a9b03d8859dfddb35808d8cc8",
+      "title": "Kryzys w JSW KOKS. „Solidarność” żąda interwencji ministra. W tle ogromne straty spółki-córki JSW",
+      "summary": "Problemy z płynnością finansową, zagrożenie dla miejsc pracy i obawy o bezpieczeństwo pracowników. Śląsko-dąbrowska „Solidarność” alarmuje o sytuacji w JSW KOKS i domaga się interwencji rządu. Trudną kondycję sektora koksowego potwierdzają również wyniki finansowe Grupy JSW.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251529-kryzys-w-jsw-koks-solidarnosc-zada-interwencji-ministra-w-tle-ogromne-straty-spolki-corki-jsw.html",
+      "published": "2026-10-15T10:32",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "356e90e06a77b6349c833deb9016369677f5848c",
+      "title": "Utrudnienia w Gaszowicach w związku z biegiem WARTKO. Będą zamknięte drogi",
+      "summary": "Utrudnienia w ruchu na drogach w związku z biegiem WARTKO w Gaszowicach.",
+      "link": "https://www.radio90.pl/utrudnienia-w-gaszowicach-w-zwiazku-z-biegiem-wartko-beda-zamkniete-drogi.html",
+      "published": "2026-10-15T10:30",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "b09741497a04d90d25c1db5d49bb7c0fe4925429",
+      "title": "Mieszkańcy województwa śląskiego produkują więcej śmieci niż przeciętny Polak. Rocznie 427 kg na osobę",
+      "summary": "Statystyczny mieszkaniec województwa śląskiego wytwarza rocznie 427 kg odpadów komunalnych, podczas gdy średnia krajowa wynosi 381 kg. Samorząd województwa rozpoczyna kampanię, która ma zachęcać mieszkańców do ograniczania ilości śmieci, ich segregowania i ponownego wykorzystywania.",
+      "link": "https://www.nowiny.pl/ekonowiny/251528-mieszkancy-wojewodztwa-slaskiego-produkuja-wiecej-smieci-niz-przecietny-polak-rocznie-427-kg-na-osobe.html",
+      "published": "2026-10-15T10:01",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9ee0b26a4818b4a1e610c4e7e1dbf70e57c511d9",
+      "title": "Pijany wjechał w garaże. Auto stanęło w płomieniach, a 33-latek groził policjantom (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT1FmeW15ekpEN2tuai13N09QUjB1VFV6Z0dURzB1ZFJJeEwybnA1Ny1vYVV3bVVVdWdyTjhSSTZqV285ZThlMnVJUS1qRWVtQXdpdVFtS0g3VUI5cndTMFF3VG9Td1Fkc3ZJR0NjWXppdnhibUNUNTkyaVNmU2hqLUlOYWZBb3g4bkx3TjRHMjZNNDN2V3drUzM3TjM3ZUtDWm5Bd2VUenk2M3FicWlTdXFDVllDMmF3bGEtQUEyaWJibGROc09BeEdvcm9rVXBnMEZneF9jMGhCWk0?oc=5",
+      "published": "2026-10-15T10:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "cfde9ebcb247c00bfe5bc613505810fe23665ede",
+      "title": "Pompy ciepła Katowice, czy wymiana starego źródła ogrzewania się opłaca? Kliwent wyjaśnia, co sprawdzić przed inwestycją.",
+      "summary": "Pompa ciepła nie zawsze zwraca się szybko, ale w dobrze przygotowanym domu potrafi obniżyć rachunki. Sprawdź, od czego zależy opłacalność, zanim zdecydujesz o wymianie.",
+      "link": "https://www.radio90.pl/pompy-ciepla-katowice-czy-wymiana-starego-zrodla-ogrzewania-sie-oplaca-kliwent-wyjasnia-co-sprawdzic-przed-inwestycja.html",
+      "published": "2026-10-15T09:58",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f3ccea394db74aac111534ddc2ee4e4cf62deaf3",
+      "title": "Jastor w przebudowie. Montaż trybun postępuje, wkrótce kolejne prace przy hali",
+      "summary": "Na modernizowanym lodowisku Jastor w Jastrzębiu-Zdroju trwają prace przy trybunach i konstrukcji hali. Zakończono również termomodernizację budynku technicznego. W najbliższych tygodniach wykonawca zajmie się montażem pokrycia hali.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251527-jastor-w-przebudowie-montaz-trybun-postepuje-wkrotce-kolejne-prace-przy-hali.html",
+      "published": "2026-10-15T09:14",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "333d34bfb350b91471d7fdc46ad208693e0d78ea",
+      "title": "Pijany kierowca wyciągnął plik banknotów. Chciał przekupić żorskiego policjanta",
+      "summary": "Miał ponad 3 promile alkoholu, a uprawnienia do kierowania stracił już w 2007 roku. Kiedy żorscy policjanci zatrzymali 47-latka, próbował uniknąć konsekwencji, oferując jednemu z funkcjonariuszy pieniądze.",
+      "link": "https://ezory.pl/wiadomosci/251526-pijany-kierowca-wyciagnal-plik-banknotow-chcial-przekupic-zorskiego-policjanta.html",
+      "published": "2026-10-15T09:07",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "925e25872e54234adafa33ebc3d9345a50e5c049",
+      "title": "Alarm, alert RCB, ewakuacja. W Rydułtowach pokażą, jak przygotować rodzinę na sytuację kryzysową",
+      "summary": "Jak reagować na alarmy, gdzie szukać schronienia i co zrobić w razie zagrożenia? Odpowiedzi na te pytania będzie można poznać podczas Krajowego Treningu Rodzinnego, który odbędzie się 17 października w Rydułtowach.",
+      "link": "https://www.nowiny.pl/wiadomosci/251525-alarm-alert-rcb-ewakuacja-w-rydultowach-pokaza-jak-przygotowac-rodzine-na-sytuacje-kryzysowa.html",
+      "published": "2026-10-15T09:01",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "ALERT"
+    },
+    {
+      "id": "1030327ef523f33936731795d5497d7f25838ba9",
+      "title": "www.rybnik.com.pl",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Gdkl6b19TZ3c0QjJwbF9xWENMTHVwekQ3WkhZRjB3RFh0S2gxam56Z0VTT21NUDJPZndlRUZ2VHR3ZjFaQmU2Ym8zLXNBYTA0QkY4YWZ4R0FQQWZBN244?oc=5",
+      "published": "2026-10-15T09:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "12760c8bb549d4f0270d4db315b981ee87128856",
+      "title": "Olfen MAX wycofany z aptek. Lek przekracza limit zanieczyszczeń",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWk3dF9zM2N0R1NiLTdXVmhBdjNvUzNqVGdYN0M2MDVtalM5bFFzRExaMzVCRUxJbW4wTElYcWdYbHNEY3ZqbTNRQVJVdmw2SktvRzgxZ0MxLWZsVk5sb1RKODU1SVJnZU42bjlHNmJlanBOSkV1T25zdUlfT3YteFFhLUhFeVdEcTdoQUtDMTV3MjdPQ2thUWdLb2E3QXZGZTBIZURuVl9sb1dqcm45Wmd0NjlqMDBvX1JYWQ?oc=5",
+      "published": "2026-10-15T09:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "abf850207bbc0ae99ef324783e8398ebe6d1eefa",
+      "title": "Collection Jadwiga. Biznes z pasją – historia, która trwa już ponad 35 lat",
+      "summary": "Historia firmy Collection Jadwiga rozpoczęła się ponad 35 lat temu od pasji do szycia i potrzeby stworzenia czegoś własnego. Pani Jadwiga Staroń przez 10 lat pracowała w Spółdzielni Krawieckiej „Jedność” w Pietrowicach Wielkich. Zdobyte tam doświadczenie i lata pracy przy maszynie stały się…",
+      "link": "https://www.nowiny.pl/nie-przegap/251512-collection-jadwiga-biznes-z-pasja-historia-ktora-trwa-juz-ponad-35-lat.html",
+      "published": "2026-10-15T09:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2bee98464ce455986de3e42cfc1eca42fcc6c49e",
+      "title": "Świętujemy 170 lat kolei w Rybniku. Specjalne pociągi, spacery, atrakcje",
+      "summary": "170 lat kolei w Rybniku, w ten weekend uroczysty przejazd Kolei Śląskich.",
+      "link": "https://www.radio90.pl/swietujemy-170-lat-kolei-w-rybniku-specjalne-pociagi-spacery-atrakcje.html",
+      "published": "2026-10-15T08:57",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5df8bccc1d3a0cbdad12b57109f4f111d7646933",
+      "title": "Polowania zbiorowe w Wodzisławiu Śląskim i okolicach. Podano 12 terminów",
+      "summary": "Od 25 października do końca stycznia w Wodzisławiu Śląskim i okolicznych miejscowościach zaplanowano 12 polowań zbiorowych. Urząd Miasta Wodzisławia Śląskiego opublikował harmonogram Koła Łowieckiego „Lis” na sezon 2026/2027.",
+      "link": "https://agronowiny.pl/wiadomosci/251524-polowania-zbiorowe-w-wodzislawiu-slaskim-i-okolicach-podano-12-terminow.html",
+      "published": "2026-10-15T08:49",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "24b08e1169e61ec5eed69059027a9343330a88c4",
+      "title": "Nowy asfalt na ulicy Cieszyńskiej. Kierowcy muszą przygotować się na ruch wahadłowy",
+      "summary": "Rozpoczął się remont dwóch odcinków ulicy Cieszyńskiej w Jastrzębiu-Zdroju. Prace obejmują łącznie 1,74 km drogi i mają potrwać do połowy listopada. Kierowcy muszą przygotować się na utrudnienia w ruchu.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251523-nowy-asfalt-na-ulicy-cieszynskiej-kierowcy-musza-przygotowac-sie-na-ruch-wahadlowy.html",
+      "published": "2026-10-15T08:42",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "ALERT"
+    },
+    {
+      "id": "bcde24e67f4cf3d320f267f8ffd54e4da3be72a4",
+      "title": "Szyba hartowana",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sWlI5QnZLQUpWNGs0Q1Q3dHNKR25KdHhES2k4ZEdiYkVDZ3ZJTFhNdXpzMl9qaTlkNE1US2JTVjFueUVXMVFBRi1MYzFSbkVCM2RyMEU3MXRlTnFVTnNqWUFmVjc2RExYakdSTTVfMURCSjM1UVNHTE1CN09acU0?oc=5",
+      "published": "2026-10-15T08:38",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d78a644f182b6e4bff022dcf4750a6fe1b48e019",
+      "title": "Ważna zmiana dla kierowców w Żorach. Na tym skrzyżowaniu pojawi się STOP",
+      "summary": "Kierowcy przyzwyczajeni do pierwszeństwa przejazdu na ulicy Drwali w Żorach będą musieli dostosować się do nowych zasad. Od 20 października planowana jest zmiana organizacji ruchu na skrzyżowaniu z ulicami Wiedeńską i Karłowicza.",
+      "link": "https://ezory.pl/wiadomosci/251522-wazna-zmiana-dla-kierowcow-w-zorach-na-tym-skrzyzowaniu-pojawi-sie-stop.html",
+      "published": "2026-10-15T08:32",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "fec53469a4431e3a3c331945b471c2e435ce7f03",
+      "title": "Śląska policja z raportem drogowym z minionej doby. I znów apel o zachowanie ostrożności",
+      "summary": "Wczoraj (14.10) na śląskich drogach doszło do 157 zdarzeń, siedem osób zostało rannych.",
+      "link": "https://www.radio90.pl/slaska-policja-z-raportem-drogowym-z-minionej-doby-i-znow-apel-o-zachowanie-ostroznosci.html",
+      "published": "2026-10-15T08:30",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "964f33769aa255fc12d18f3602ec75a182d28364",
+      "title": "15-latka z Wodzisławia zdobywa laury w jeździectwie. Za sukcesami stoi ciężka praca",
+      "summary": "Dobrze poprowadzony młody zawodnik i odpowiednio przygotowany koń mogą razem naprawdę dużo osiągnąć. Historia 15-letniej Emilki Skaby jest dobrym przykładem tego, że w jeździectwie wynik na parkurze zaczyna się na długo przed startem.",
+      "link": "https://agronowiny.pl/agronowiny/251521-15-latka-z-wodzislawia-zdobywa-laury-w-jezdziectwie-za-sukcesami-stoi-ciezka-praca.html",
+      "published": "2026-10-15T08:14",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "861d64f70bdf9702bacba1f5b8abac345a723e4c",
+      "title": "Własna marka odzieżowa bez własnego magazynu? Zacznij sprzedaż własnych produktów z Fabryką Koszulek i VibeCartel",
+      "summary": "Masz pomysł na własną markę odzieżową, ale nie chcesz od razu inwestować w magazyn, kupować dużych ilości produktów i samodzielnie zajmować się realizacją każdego zamówienia? Dziś rozpoczęcie sprzedaży własnej kolekcji może być znacznie prostsze. Dzięki połączeniu produkcji odzieży, sklepu…",
+      "link": "https://www.radio90.pl/wlasna-marka-odziezowa-bez-wlasnego-magazynu-zacznij-sprzedaz-wlasnych-produktow-z-fabryka-koszulek-i-vibecartel.html",
+      "published": "2026-10-15T08:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "11715fc4a8648ceddd63d525c05b9dd497d14364",
+      "title": "Strażacy z Rybnika znów mieli pełne ręce roboty",
+      "summary": "Mamy najnowsze raporty służb w regionie. Pełne ręce roboty mieli między innymi strażacy z Rybnika.",
+      "link": "https://www.radio90.pl/strazacy-z-rybnika-znow-mieli-pelne-rece-roboty.html",
+      "published": "2026-10-15T07:50",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8561f5fc4952d07d6c4ee7ede5aa16371ac91f7e",
+      "title": "Szafka RTV",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBieVpROUpuUTMtMzF3eGk5ekJWTFJoMFRSV0Y0dUU5Q2RFNVFqTnR6TnJ2bjl6OV9ZU0Z0V0ZJalVKaXJhNG1SbGZxMG5wUnhUbmx1RlpUVmJ3NlVfRVRsbWhrOHZlSUF6SjZOamZxSG5YQkw5b0lxUg?oc=5",
+      "published": "2026-10-15T07:39",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9ce7372f62c5962270f13004127fcb6d850d3836",
+      "title": "Operator maszyn na produkcji murawy syntetycznej - praca w Hola",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSExzNjhYNGU0US0wYTJueVdSS1FRTG96WTBvcmtjakNZLVZmNUhDdGRROTFXTGZ0WXFXVlIzMTFuSFVXRDBPSVlJSWNvMHdvMFVDeE1mcWFmRHRkQ25vYndyZ3F4c2c2alpqZklGcTZLelNMMzJIQndQSzdWVDFrNkVDQmJTb0xJMEY3ZTFQZnZ3cDhNOFZiSTRRdjk3SkxYb0M2Y1FZd3c4UVhyekVWQXJvdk5rN3RuWExySw?oc=5",
+      "published": "2026-10-15T07:39",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "deb93a7bc920f8f115ee4ed021b3cfdcd6ab3d3b",
+      "title": "Popłyną po Zalewie Rybnickim… w gigantycznej dyni",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR3pJQU9KejZsYlhJb1VScUNZX2tJQUFCN0I2bU9VcmxJYlFOVkplRHU1QXEwQzZXRHpSM0x1YmlaSlpYODB3OTBEdnUyWTNIemxncU1RZkNfWkw2aC1oQ282Smt5a2VHWE9pTHlqd1FzUThtckk5eFl2bEVlV1RpV3BhcEkycG1EalpPNUQ3bURQT0lnY3phRlBuYzN1anNnZTZISDNibmQtcDIw?oc=5",
+      "published": "2026-10-15T07:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "172cb60e7bad4f43eff10bfcf9ae16a742e18d01",
+      "title": "Zielone pracownie otwarte w Bieńkowicach i Chałupkach. Co przygotowano dla uczniów?",
+      "summary": "Uczniowie szkół podstawowych w Bieńkowicach i Chałupkach zyskali nowe pracownie do nauki biologii, chemii i fizyki. Obie sale oficjalnie otwarto 13 października.",
+      "link": "https://www.nowiny.pl/ekonowiny/251513-zielone-pracownie-otwarte-w-bienkowicach-i-chalupkach-co-przygotowano-dla-uczniow.html",
+      "published": "2026-10-15T07:15",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "64d652f9230f73521cddf3b2fdb593d661c9d0f9",
+      "title": "Pierwsza porażka siatkarzy TS Volley Rybnik",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOXg0X2xhTUJ2ajJ3Q3RtbUZTcW5zaGlnSjJfaHRVNnFrWGZISlBpR3hBNVJxTG4tVW5lZFk1cDF2UnZhSXlRaDFFQ09wamt0UGg5MVdGMWtsVEc1VEJwQkdhMDVVYzZnMEJzZWJQRWZiRGFUcFl3RlFSZV9CSk5SNUxZN25xMHdmdnFqU3dQVnVha3lhZGd0a3ZhNHhjZTkxMTJj?oc=5",
+      "published": "2026-10-15T07:12",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1dc134a2d659d2cecea48d2e3a0b48ed2310c9c2",
+      "title": "Helios prezentuje filmy, które musisz zobaczyć tej jesieni",
+      "summary": "Tegoroczna jesień obfituje w moc filmowych wrażeń. W nadchodzącym tygodniu widzowie kin Helios będą mogli obejrzeć różnorodne nowości, takie jak polski tytuł „Czas, który nie nadszedł” oraz animacja „Baranek Shaun i kudłata bestia”. W repertuarze znajdą się także seanse przebojowej „Lalki”…",
+      "link": "https://www.nowiny.pl/wiadomosci/251520-helios-prezentuje-filmy-ktore-musisz-zobaczyc-tej-jesieni.html",
+      "published": "2026-10-15T07:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c8936c0738d665cb12c60c7a2f0874a549e44211",
+      "title": "Gigantyczna awaria czy planowana przerwa? Ważne rejestry sądowe zostaną wyłączone",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNDBpZ285ck92Y2tMQjRkOUw1MVVTUzBMQUdEWEhDMFJ6LVNoQlpHckdWWVdzQ2k3SjVPMExESlNOWktyX3lEazZOMmFFeWJ3QjBjeml2TWQwOU5TZ0lETEg2Unk0VkZMZjZsUTEwaWJBTDJ0QS1XM0hlSlFoQ3dLYU9jakk3VkV2RDh4bFo4eTdBVTRPc3ktZHhsUzdkVEpkU2tkM0JWVnB6bE1qSnBSckVVOWEtWGhLRDcxMG9LT2JmRGpJNU53S2sya04zRHk5QmRteQ?oc=5",
+      "published": "2026-10-15T06:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e89af0a75b3ce059b44a7034e895beda9bb7038c",
+      "title": "Rondo w Jastrzębiu zablokowane. Przewróciła się ciężarówka wioząca śmieci [ZDJĘCIA]",
+      "summary": "Około godziny 6.00 rano w czwartek 15 października doszło do zdarzenia drogowego na rondzie Włodzimierza Ostaszewskiego nieopodal Zofiówki. Przy pokonywaniu ronda na bok przewróciła się ciężarówka. Występują utrudnienia w ruchu.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251519-rondo-w-jastrzebiu-zablokowane-przewrocila-sie-ciezarowka-wiozaca-smieci-zdjecia.html",
+      "published": "2026-10-15T06:19",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "ALERT"
+    },
+    {
+      "id": "9949b5c6f2df7166508cc28ea40b99ba44546605",
+      "title": "ZAMÓW GROSZEK Z TRANSPORTEM GRATIS - PROMOCJA!",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQkc2NktFeXk0U1BjN0JpZHpxY0REb05QNEYzd1puSDZ6SzBIdHNVY1c1dW1ralZKaXIyVWtTb3A2SWdNVG16RzF0TmNiSGNQcWh4elBaYkh4RHNZTmVMcGtGdGhhWTlsQVdiRUZMazhwQW5CN3paMjhvNFV5LXhiSGVRWlFET0dmcjBHWjQ4WkhLVTNHUVFfSldCd0Y1WHlqaUpCeA?oc=5",
+      "published": "2026-10-15T04:39",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "95010368676ca6cc7ac4ad1fb10de45a3b7a5d8c",
+      "title": "Konkurs dziennikarski w ramach Rybnickich Dni Kariery. Nagrodą warsztaty w Radiu 90",
+      "summary": "Konkurs dziennikarski „Za każdym zawodem stoi człowiek” w ramach Rybnickich Dni Kariery. Przygotował go Powiatowy Urząd Pracy w Rybniku dla uczniów szkół ponadpodstawowych.",
+      "link": "https://www.radio90.pl/konkurs-dziennikarski-w-ramach-rybnickich-dni-kariery-nagroda-warsztaty-w-radiu-90.html",
+      "published": "2026-10-15T04:20",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3b9d28aa498486d2b2cedf4b8fd629a39fc52091",
+      "title": "Ważne zmiany dla przedsiębiorców dotyczące obsługi wniosków CEIDG",
+      "summary": "W związku z wejściem w życie przepisów dotyczących nowelizacji ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy, informujemy o zmianach związanych z obsługą wniosków CEIDG.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/wazne-zmiany-dla-przedsiebiorcow-dotyczace-obslugi-wnioskow-ceidg",
+      "published": "2026-10-15T00:00",
+      "source": "rybnik.eu",
+      "category": "Biznes",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0a0319408aa0c9513a5871f992228fdf0d09d090",
+      "title": "Rusza rządowy Program Przydomowe Magazyny Energii - część 2",
+      "summary": "Od 20 października prosumenci posiadający mikroinstalację OZE mogą składać wnioski o dofinansowanie do przydomowych magazynów energii.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/rusza-rzadowy-program-przydomowe-magazyny-energii-czesc-2",
+      "published": "2026-10-15T00:00",
+      "source": "rybnik.eu",
+      "category": "Ekologia",
+      "priority": "NORMAL"
+    },
     {
       "id": "0b3e5dd80a82c9abcd106f28be539ac611c38884",
       "title": "„WARTKO!” - biegacze i kijkarze opanują ulice Gaszowic",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaG1PeEU2WE1qRnFNSmxxbDJfRFdHdW1pcXJNenBDY3hpOEtQZ1BXTzVnOWlnMTJ4dm9ac2VLQmY0SEppWkpUTFJmRnNkeWw4Mi1hTERRbmFwdGpxMVJVSHlxbGJXOGoyQ3FaMm9scHR5Q2NNWTE2Sm1VNFVZZGFEM2ZKb3BsY05UTkVBM3dMUERjb1BmS1hmQnRrM29PTEFfY0Vv?oc=5",
       "published": "2026-10-14T22:03",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a03b917a9c24eccd49d951a4a63d1d38236fbad8",
+      "title": "Program „Rehabilitacja 25 plus” w Wodzisławiu Śląskim: kontynuacja terapii i integracji społecznej",
+      "summary": "1 września 2026 roku w Zespole Placówek Szkolno-Wychowawczo-Rewalidacyjnych w Wodzisławiu Śląskim wystartowała dziewiąta edycja programu „Rehabilitacja 25 plus”. Dzięki finansowaniu ze środków PFRON, 34 absolwentów szkół przysposabiających do pracy z Powiatu Wodzisławskiego ma możliwość…",
+      "link": "https://www.radio90.pl/program-rehabilitacja-25-plus-w-wodzislawiu-slaskim-kontynuacja-terapii-i-integracji-spolecznej.html",
+      "published": "2026-10-14T22:01",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "923b27bfc20cfa32ddb8bb5bb8886cc3dfb613f5",
+      "title": "Upamiętniono powstańców śląskich. Na ich grobach pojawił się znak „Tobie Polsko” (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcEJaVDdhVEJURnl1b3ltWnhmX3ZMX0JBaVpuTVVYNkFWUHZRemlOZFlXUlJMc19ZbkZHMGZHVkxoRTJzSkhmVDE1S2Rsa2JxcGFzSW8weFcwV2ZkNDA5SmhpcHRHQUpmeEU4Z29LaFVDZUhWNlNsSzR5TldWT0FqdklMSDZkSTJveEpuVHZLVzB2VkR5WDE3LUlXeWlaV2NWaGZsQ1JZYmlWWWpKMGZPWUFRMG9aWlRaZXRMRnZMaUZyU19XaENnV0pJcFlpTGxxUHZ5cjQ2SG1QZw?oc=5",
+      "published": "2026-10-14T21:42",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -64,16 +414,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "136eca0b7bcfb8aba28f7b1975782952bc95545f",
-      "title": "Analogowy kontratak: Jak odzyskać mózg analityka w erze AI?",
-      "summary": "Wyobraź sobie taką scenę: mecz na szczycie, trybuny płoną, a analityk w loży prasowej nie patrzy na boisko. Wlepia wzrok w tablet, gdzie algorytm w czasie rzeczywistym „wypluwa” gotowe wnioski. Problem w tym, że maszyna właśnie zaliczyła potężny błąd logiczny, a człowiek – zamiast go wyłapać – kiwa…",
-      "link": "https://www.nowiny.pl/wiadomosci/251498-analogowy-kontratak-jak-odzyskac-mozg-analityka-w-erze-ai.html",
-      "published": "2026-10-14T19:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "c95713da63592e1fdbf316ea6e3c1f3f0f1f5dbc",
       "title": "Ruszyła Liga Nox Platinum Americano. Ponad 40 graczy walczy w Rybniku o tytuł mistrza (foto)",
       "summary": "",
@@ -91,46 +431,6 @@
       "published": "2026-10-14T17:40",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "052196f3a6822fb7c7c31d99b198e9ed9b9c793c",
-      "title": "Czy da się pływać w dyni? W sobotę sprawdzą to na Zalewie Rybnickim",
-      "summary": "W sobotę, 17 października, na Zalewie Rybnickim odbędzie się nietypowe wodowanie dyni ważącej 230 kg. W Ośrodku Żeglarskim Koga Kotwica w Rybniku Piotr Holewa i Dawid Panic będą pływać w wydrążonej dyni.",
-      "link": "https://agronowiny.pl/wiadomosci/251508-czy-da-sie-plywac-w-dyni-w-sobote-sprawdza-to-na-zalewie-rybnickim.html",
-      "published": "2026-10-14T17:06",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3effe3f7c1fc0a9835ab84a707aeb4f84c2bfc71",
-      "title": "Upamiętniono powstańców śląskich. Na ich grobach pojawił się znak „Tobie Polsko” (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNckJPbTE5Nk51T1Y4VTc3ZDc3QUplUC1YWEZ0VVd2Ql8zc1ZtYXV0ZHhYcXotdkZXZUFsS29TcjZIX01IaXlEMnYwSUQtZmNJbnBON2FBZXdXdFZxREd6NFJhajE3MW5NLVJEaUZvQ3RwbE1uYXZ1dU5ORlhROHByNDFMRG9IVlZ2R3loVy1XQ1hQT0o3cDFyNzlWOHFoWTZoNFhQS3J4SWQ4TkJxRVIwNDlaaV9YUVhDdnhna1NBMDk0V29TVUdLNHpaYnplM2hlR1VOV3Nycw?oc=5",
-      "published": "2026-10-14T17:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ec44264324461a40fc441696476a1e4f0a643536",
-      "title": "Pracują z pasją dla uczniów. Starosta Swoboda nagrodził kadrę szkół Powiatu Raciborskiego",
-      "summary": "- Tak wielu ważnych gości oznacza, że istota święta Edukacji Narodowej obdarzona jest ponadstandardową uwagą - podkreślał dyrektor Ekonomika, Jacek Pierzchała prowadzący wydarzenie w ramach powiatowych obchodów Dni Edukacji Narodowej. Dziękuję za to, że tworzycie naszą raciborską powiatową oświatę…",
-      "link": "https://www.nowiny.pl/wiadomosci/251507-pracuja-z-pasja-dla-uczniow-starosta-swoboda-nagrodzil-kadre-szkol-powiatu-raciborskiego.html",
-      "published": "2026-10-14T16:41",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f5bfc841d92ec6afbb05436812871d54076b78c5",
-      "title": "Z Rybnika na Hel starą Jawą. Paweł Hanusek przejechał Polskę, by pomóc choremu na raka",
-      "summary": "Paweł Hanusek z Rybnika zakończył wyprawę „Piździkiem na ratunek”. Wyruszył, by nagłośnić zbiórkę na leczenie Andrzeja Pawlika. Po drodze dotarł do tysięcy internautów, a po zakończeniu akcji poinformował, że udało się wspólnie zebrać ponad 75 tys. zł.",
-      "link": "https://www.nowiny.pl/wiadomosci/251506-z-rybnika-na-hel-stara-jawa-pawel-hanusek-przejechal-polske-by-pomoc-choremu-na-raka.html",
-      "published": "2026-10-14T16:34",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -152,16 +452,6 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
-    },
-    {
-      "id": "9c3d12ee005747dedcb8f5d55dac211667e93eaf",
-      "title": "Śląsk walczy o miliardy z Unii Europejskiej. Zmieniają się zasady podziału pieniędzy",
-      "summary": "Śląsk staje się bogatszy, ale może przez to otrzymać mniej unijnych pieniędzy. Wojciech Saługa i Mirosława Nykiel wyjaśniają, jak zmienią się zasady finansowania regionu i dlaczego potrzebne są kolejne 2 mld euro.",
-      "link": "https://www.nowiny.pl/wiadomosci/251505-slask-walczy-o-miliardy-z-unii-europejskiej-zmieniaja-sie-zasady-podzialu-pieniedzy.html",
-      "published": "2026-10-14T13:37",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
     },
     {
       "id": "41739526571f583d24f7d615226d83b651cf9abf",
@@ -204,66 +494,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "42015e61597f61564a712eea6f8b982d9d5d6e35",
-      "title": "Dzień Edukacji Narodowej w Jastrzębiu-Zdroju. Nagrodzono 70 nauczycieli i dyrektorów [ZDJĘCIA]",
-      "summary": "70 nauczycieli i dyrektorów jastrzębskich placówek oświatowych otrzymało nagrody z okazji Dnia Edukacji Narodowej. Wyróżnienia wręczono 13 października podczas miejskiej uroczystości w Kinie Centrum.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251503-dzien-edukacji-narodowej-w-jastrzebiu-zdroju-nagrodzono-70-nauczycieli-i-dyrektorow-zdjecia.html",
-      "published": "2026-10-14T12:08",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d7ea0696e9aaaf70282f00352052424b52d05148",
-      "title": "Skandal w komendzie w Wodzisławiu. Naboje ze strzelnicy trafiły do prywatnego domu",
-      "summary": "Czy funkcjonariusze Komendy Powiatowej Policji w Wodzisławiu Śląskim nielegalnie wynosili ze strzelnicy naboje, które miały służyć celom szkoleniowym? Na to pytanie odpowie dochodzenie prokuratury. Sprawa wyszła na jaw po ujawnieniu arsenału 1321 sztuk amunicji w piwnicy prywatnego domu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251501-skandal-w-komendzie-w-wodzislawiu-naboje-ze-strzelnicy-trafily-do-prywatnego-domu.html",
-      "published": "2026-10-14T12:01",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "210199783007ec10974d3152b3a85031f718ac45",
-      "title": "Romuald Turakiewicz ponownie powołany na dyrektora raciborskiego muzeum",
-      "summary": "Pięć lat temu Romuald Turakiewicz wygrał konkurs na dyrektora Muzeum w Raciborzu. Teraz prezydent miasta zdecydował o jego ponownym powołaniu na to stanowisko.",
-      "link": "https://www.nowiny.pl/wiadomosci/251499-romuald-turakiewicz-ponownie-powolany-na-dyrektora-raciborskiego-muzeum.html",
-      "published": "2026-10-14T11:46",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a9d713a38089ddc54f5441f705abce6a1eeb74a6",
-      "title": "Toyota zderzyła się z Kią na skrzyżowaniu w Jastrzębiu-Zdroju. Jedna osoba w szpitalu",
-      "summary": "Na skrzyżowaniu ulicy Pochwacie z Drogą Główną Południową w Jastrzębiu-Zdroju zderzyły się dwa samochody osobowe. Jeden z pasażerów został przewieziony do szpitala. Policja wskazuje na nieustąpienie pierwszeństwa przejazdu.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251496-toyota-zderzyla-sie-z-kia-na-skrzyzowaniu-w-jastrzebiu-zdroju-jedna-osoba-w-szpitalu.html",
-      "published": "2026-10-14T11:23",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "07d3701fbb9e5b9eb2a541bcc362cf0d52b6f668",
-      "title": "Najlepsi uczniowie i nauczyciele z Żor nagrodzeni. Kto znalazł się na liście? [ZDJĘCIA]",
-      "summary": "Siedmioro uczniów otrzymało stypendia prezydenta Żor za osiągnięcia w nauce, a nauczyciele i dyrektorzy miejskich placówek odebrali nagrody za swoją pracę. Uroczystość odbyła się 13 października, w przeddzień Dnia Edukacji Narodowej.",
-      "link": "https://ezory.pl/wiadomosci/251495-najlepsi-uczniowie-i-nauczyciele-z-zor-nagrodzeni-kto-znalazl-sie-na-liscie-zdjecia.html",
-      "published": "2026-10-14T11:16",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "9357b60e05204e69a4c62bd381456ef650f86537",
-      "title": "Wracamy z „Książką do kawy”. Na początek reportaż o niemieckich babkach z Dolnego Śląska: Niedotlenienie. Marta Hożewska",
-      "summary": "Wracamy z cyklem „Książka do kawy”. Będziemy w nim regularnie przedstawiać ciekawe nowości wydawnicze, od reportaży po powieści i książki historyczne, a dla czytelników przygotujemy konkursy, w których będzie można wygrać omawiane tytuły. Na początek „Niedotlenienie” Marty Hożewskiej, poruszający…",
-      "link": "https://www.nowiny.pl/wiadomosci/251494-wracamy-z-ksiazka-do-kawy-na-poczatek-reportaz-o-niemieckich-babkach-z-dolnego-slaska-niedotlenienie-marta-hozewska.html",
-      "published": "2026-10-14T11:10",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a2e78c33743e085ca711a0701fcc7d1c14ec89a1",
       "title": "PiS w regionie kończy współpracę z Izabelą Kloc. Nieoficjalnie: poszło o Morawieckiego",
       "summary": "",
@@ -271,16 +501,6 @@
       "published": "2026-10-14T11:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "36bf9fc183c733013ceedcdbaa692c2bfbfaf034",
-      "title": "Problemy z ciepłą wodą i ogrzewaniem w Raciborzu. Kiedy sytuacja wróci do normy?",
-      "summary": "Mieszkańcy Raciborza mogą odczuwać spadek temperatury ciepłej wody i słabsze ogrzewanie. Powodem są prace modernizacyjne prowadzone przez ORLEN Termika Silesia. Spółka podała termin przywrócenia normalnych parametrów dostaw ciepła.",
-      "link": "https://www.nowiny.pl/wiadomosci/251493-problemy-z-ciepla-woda-i-ogrzewaniem-w-raciborzu-kiedy-sytuacja-wroci-do-normy.html",
-      "published": "2026-10-14T10:58",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -384,16 +604,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "debed215d5b83792281f518aa58ccd67de1ee274",
-      "title": "Pożar w Niedobczycach, strażacy w akcji na ul. Lotników",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQi1iQVhsY3RRYnI0VGVzckhhQWs5NVJCY2Nzb3JwbFQ2MEgwenR5NjJDdm9iOGF4R0NsRndxZm03cWl0YVk3cGdLdW91TjBIZldtUTZKLWUxeWxGeWVTOE0wcWhPUWhrT0xLcE5KUHRnVUxvQlBKcWgxZzBJemJZMXJFV1FNNDdQdHhtLTlNZWlObDktNnVKRGdRVkk5M0hyWTUwNW5Fbm55WTBhVmNMSQ?oc=5",
-      "published": "2026-10-14T05:25",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "0c30970dccfb30413c27ed578aeba9a47f706707",
       "title": "Pożar garażu w Niedobczycach, strażacy w akcji na ul. Lotników (wideo)",
       "summary": "",
@@ -434,12 +644,12 @@
       "priority": "NORMAL"
     },
     {
-      "id": "a03b917a9c24eccd49d951a4a63d1d38236fbad8",
-      "title": "Program „Rehabilitacja 25 plus” w Wodzisławiu Śląskim: kontynuacja terapii i integracji społecznej",
-      "summary": "1 września 2026 roku w Zespole Placówek Szkolno-Wychowawczo-Rewalidacyjnych w Wodzisławiu Śląskim wystartowała dziewiąta edycja programu „Rehabilitacja 25 plus”. Dzięki finansowaniu ze środków PFRON, 34 absolwentów szkół przysposabiających do pracy z Powiatu Wodzisławskiego ma możliwość…",
-      "link": "https://www.radio90.pl/program-rehabilitacja-25-plus-w-wodzislawiu-slaskim-kontynuacja-terapii-i-integracji-spolecznej.html",
-      "published": "2026-10-13T22:01",
-      "source": "Radio 90",
+      "id": "5fea8b959b8edf61f5d11f3abeb2eb07a82d7e21",
+      "title": "Sędzia Anna Maria Wesołowska na nowe otwarcie w Rybniku. WSBiNOZ inauguruje rok akademicki na kampusie (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONHhITm0zYlJDZ0RJYUtVTEFkNVBJZzB5VFkxSWRELU93Wl9Pd3JIdE1IZm03bDhvbmVOaFMyY2ZhOUszN0RjMFVzbk5YMV9QREFXakRWYmU2MEJHOWt4UDZxN2FJc1BoZWwwM3h0NlZYY3AtYXRjX2pNeDdZTHJXYmFNZUl4YXAzTXVZazk1b01DNXZINzFldWdLalktTDlxbFd2TzVKTG9pYy12QVdjU2l6aXdMbURsTDBnMFZTWTZUZnBic2Fob2cxdTBRWEFiMVphclUtdTV1Um12b2NjbWpvaG4wOF83ZFpsSll4RjVTMHlNbDJ4Zm1R?oc=5",
+      "published": "2026-10-13T21:01",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -459,16 +669,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUmRJUHBBV1ZVSmdXZWswVU5KT0hJdi1KMFk3dTBydzhHSTZQUjlwTWZpY3hCWkZvaGVQQVROMEtTTVJObldHWXJIT2tQa0J6b2NiUFRFTjcydVpuVjVEUFJWYTVqOGZBYll5b3p1NjlFNmhGQ2Jsbmc1aWx6alpYNC1PX0RFd01BeGZMcXpEMFI1OV9BQXhKS1ZOSmxMbm5qNzFEVnZUbDdzaXRDanluTjc3a0ZvWmYtcXBsQVlvb1dRT2tMWkl2VDE4RldBRjVy?oc=5",
       "published": "2026-10-13T18:56",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6029122ab4352ba90e3ef5f0cfb04c900963a3af",
-      "title": "Sędzia Anna Maria Wesołowska na nowe otwarcie w Rybniku. WSBiNOZ inauguruje rok akademicki na kampusie (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMEtLNURUOXBTX29Nel9LTzZKZDBJNHZfd1hfdDM2R0FmRXVvWkdSUkFPRlJQWEV6VFNyeXFtZU9DZ2pQQ0xOSURURWxtMXJYS0w0Vm1IcE41NTJidkxnSVF2YjlweXgwMXNuNk5CakRuN0RwcU8zZTRWUkdvZEV5SElrNy1lTUtOVzNZZGVrTUJxYVhWSnl5MVMwV040QUVSSTFJTzNRVUp6LUVXcHBRVllKc21nLXU1dmNoQ25PX1dpdGcxQXE3VHcycHhuNC04ZV8tNkFxUjFCdXhya1hnc3pZWWVoZW8zVjI3eWNlc2dBXzlHcTRwV1FR?oc=5",
-      "published": "2026-10-13T18:54",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -554,11 +754,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "45ee6e83d535bf0f86c64ef16eb02a1b6390470f",
-      "title": "Co z cenami ciepła w Rybniku? Radni pytają o rachunki, prezydent wyjaśnia rolę miasta",
+      "id": "a8d3dece71c50369d272ed9e18e971f84f9f861a",
+      "title": "Burmistrz Weber wrócił przed rybnicki magistrat. Naprawa kosztowała 14 tys. zł netto (foto)",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNG5mWDQ2eFFaWmw4ZFRwS3hkUDc0NDFCS1RQb0xpS0tHNlRFWlNOWkZDRXgyamxMMFhxZ2NlcFVORE1ZRHdWMU12cFllQXlET0x5bmtlQ0tacENuY29wbklpcV96S3NVZDFFQkxkalplRExHVG9rR1RaZDF2eWFkYjRFYWo4My1BTHo0MTg5Q3J0TGo0QlJmbll4UGRiUlBvTWNiYkc5NUNEME10TEM5cXcwcncwdmxJVHNfSVZZVVFIeTNIMUlSZnYyRG9fcC05MDhxcUY1cFA?oc=5",
-      "published": "2026-10-13T09:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRVBpYkgzbjdSbEFrWEU3S0FIT2YzcVJwczBCWFVxVFNYSlE0QWhrd2dGcmhZaFlINXVxaFR6VXg1R1AxZ1FUQVNDNEp6TmpSekhJdDhXaWdsdUs1YzEzZjhJUEt6di1lVU5CSGRybXB2eTdWaEMzNmZLOF91Rl9sem9SY2xTOXU2d0QteFBYSDY5WUt6d0JkT09NY3pEMmZZRGdQUkUySjBON0xTOENGMUk1cEVfbml6Y3ZGWWxvVThsZ01ITEs4VE82ZmstMGJOTUhob0QxSXl3dDFDRmc?oc=5",
+      "published": "2026-10-13T10:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -584,32 +784,12 @@
       "priority": "NORMAL"
     },
     {
-      "id": "ce80d2b737d02d6f6709a49a14247ea6cbdad114",
-      "title": "Zima to trudny czas dla osób w kryzysie bezdomności. Nasze miasto intensyfikuje działania pomocowe",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMHpPbUVCWFJCQ1VrclNVRVdIbjR3XzlmbXhySTVuXy02RWFBX21nRXZHUHdjcHMtMkU1N2RldkZVY2pfVWt5TzVBNVYzTndwc2JSeFJ0YndUZnZLQl8xX1RMVEU0YWdPaVFuZFNUWTBrVHVxSjRMYXlMNlNkY1hycmczV2c4dktpeEIyYWRyaVR0SThFQlB3Z2thU3liUHlfUFBuVEFiZkgyU2lyY1BYdkFqVko0X2Y0VGRveG1XSExJd3ZmdXk3WVk2VzlUWHFkdDBaMjFlQUNKSnJtVldzWWszajhpUXYwbmtr?oc=5",
-      "published": "2026-10-13T07:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "0493b3031258c0936cbbfcdf8f9271b0c3260a0c",
       "title": "Bezpieczeństwo w szkołach: jak je poprawić? Jak sprawić, by młodzi ludzie czuli się bezpiecznie?",
       "summary": "Dyrektor czy nauczyciel nie ma prawa sprawdzić, co uczeń ma w plecaku. Może to zrobić tylko policjant. Takie mamy obecnie przepisy.",
       "link": "https://www.radio90.pl/bezpieczenstwo-w-szkolach-jak-je-poprawic-jak-sprawic-by-mlodzi-ludzie-czuli-sie-bezpiecznie.html",
       "published": "2026-10-13T05:49",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e8e4e933679e2a867753ab7efe91ddbf0d3b747e",
-      "title": "Kolejny incydent na basenie krytym! „Akwarium” w Boguszowicach zamknięte do odwołania",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdW1HYlpLQkM5VU03anB0TFp3a0QtRjluSjZ4X0hRWWNQSVEtOVNBTEYxRVFLcnBlSWdLX2tLT3kteEVvSXdrYVIwWlBrX0dZSEh0TkJ0Vm1Ddk1fb2hKTkdGcUxIeVdacFFVanphX2tGYzkxMm1uNmxDU0EzSzl3VmVRaEw3Snp3X2hTU2pQRUh4RDJpb00zSjFsR0pSckRoQ2FjWGpzak5jMHJLNGdGOE83cWJVczE2bEtEUUdNYlRFcTRVNGZKaXVxb0VJTkpxZlhqMDR4TQ?oc=5",
-      "published": "2026-10-13T05:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -651,26 +831,6 @@
       "published": "2026-10-13T00:00",
       "source": "rybnik.eu",
       "category": "Wydarzenia",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "bd652e72f3ec8a5759d9b1d522ca917e2f668737",
-      "title": "Rekordowy sum znów złowiony w Zalewie Rybnickim! „Ta ryba jest kosmicznym dinozaurem”",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbmpwemVHZzMyUlpUUmlKdjNmMnFCaHR5cmNWUnllTU5Calo5WGlyNW9vcVFzQ21SRVZTX2ROaGtLcnhONVBFZEVLVFBZaUxheERVZlNhOGF4ejg4ZWZmTGZxZDNIMWN1enRMeXVTcWY1N3YtLVRMOHJXUFhDVWZmdlkydUVtaVFBMG9XdGtmT3lQYWJqdHVTZnc1OWZaUmtGY1dBek1MVVBOV1ZBYllRMTNGYXdOSGtpRTVEenQxOURWMVNqQVJid3E2MUpqRFBsaXhhalJBWjhwQQ?oc=5",
-      "published": "2026-10-12T23:55",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ac873a11c6f285010c08093ea8b88f1277103a5a",
-      "title": "Niezwykły charakter siatkarek z Rybnika. KS Grom odrobił straty w Wodzisławiu i odniósł drugie zwycięstwo",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcXA0RnFfNWRaN0t5dGFEWnhpTDI5VDBuYnd0dWtSbHh3cVpvYWJ1cTlmNHdVc3lLX1FIaE1WMm1LcmhlUllRZDN3cG8xYWdOY3g3RkZrVXVIcEJwQUZPR2dfSVhDdnJNdlpzY1dtR2F0WklEcXVTU3dmUmxvdEhYNGF2WDlybU1YUjNpdU9Sc3NrZ2FmSEQzYlAxY2NVMzdaNHdPenFJTG1CUXpTN2RDUEg2dEZwdGxNWk1HS19SQ2ZReVRSaERxOFJmMUtjUm45cGZXVGwweWNDU1Q3Y21JaVRWMDNFWlkzbzhlYjVqTUVoc1Q1?oc=5",
-      "published": "2026-10-12T17:46",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -724,113 +884,13 @@
       "priority": "ALERT"
     },
     {
-      "id": "3944e5d63d056e17f1ffcaf31aabe262bd49be22",
-      "title": "Nowy Orlik i tor OCR w Chwałowicach coraz bliżej. MOSiR szuka wykonawcy",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDdocVhsMEhjS3RMLWowalJHY2F2ek5XbGNKenh6V2RGYkdpd01yT2ZwRklWS2RTNjFzLXFxQ1N0U0pqclVCOVl3aURkQzJKVWQ1YTZOWTlTaHhlV3Jjbl9wc2RsdThvd2NwMDBZUnhtRUt1QjYzUDd0NkNPN2dtVHNqN1o1VHktSXNKUnhlRkFaS1hRWm9CTWVObXJ0cUZvc3EyaVRlWHFuYUNBX283Rmh1a3BjWkFCWmt0cm0wQ0FnVGRVcUhj?oc=5",
-      "published": "2026-10-12T14:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "2b55651e20b5f1891ccbcb681e3139aa85924085",
-      "title": "TS Volley Rybnik odniósł kolejne zwycięstwo. We własnej hali rybniccy siatkarze pokonali zespół z Rzeszowa",
-      "summary": "Trzeci mecz i trzecie zwycięstwo siatkarzy Volleya Rybnik. Tym razem Rybniczanie podejmowali we własnej hali AKS V LO Rzeszów.",
-      "link": "https://www.radio90.pl/volley-rybnik-odniosl-kolejne-zwyciestwo-we-wlasnej-hali-rybniccy-siatkarze-pokonali-zespol-z-rzeszowa.html",
-      "published": "2026-10-12T13:30",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "7b7cbd42931aed4ac99e4578ff50424ef3225f5c",
-      "title": "Brutalny napad podczas libacji w centrum Rybnika. Użyli noża i tłuczka do mięsa",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeWhTMVpWWnc2U1cxZ3gtckRZLWw1N3Z5SGlTSW84bmo0S3FWT1J1RHVkQXU3Wmw5bXBmcHVEdHJ1RmxlbU0wbnJOQk9wSC1lU0JrQnpseEZSM3FNRkFxS0pqbGF0TnFvZGdYc2xQaXlXMmdhZnU3T3pwVDlEcWpFN1htakJvc2NpcXVDMWdGczBHUjhEYWZ5b2JQa29ZMWg0ZWlTaVJsSnJIeXY3ZGw3YlVJQ1U2MzRlaXNKVDRkSmZ1VlRHX2ZlcEtaaE9SZDJsUmZLXw?oc=5",
-      "published": "2026-10-12T13:06",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "bf6b5672124a9c6c4a173960fd71c4094c83d5e3",
-      "title": "Szkoły w Rybniku pod okiem policji. To pokłosie ostatnich zdarzeń na Mazowszu. Będą spotkania dyrekcji ze służbami",
-      "summary": "Dziś, w poniedziałek (12 października), podobnie jak i w piątek pod szkołami, wzmożone patrole policji. Ma to związek z tragicznymi wydarzeniami z ubiegłego tygodnia z Mazowsza, gdzie młodzi ludzie z nożami dokonali ataków.",
-      "link": "https://www.radio90.pl/szkoly-w-rybniku-pod-okiem-policji-to-poklosie-ostatnich-zdarzen-na-mazowszu-beda-spotkania-dyrekcji-ze-sluzbami.html",
-      "published": "2026-10-12T13:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8ffc4f833fd02bd27320a96259ce469ee42c4129",
-      "title": "ROW Rybnik odniósł trzecią kolejną wygraną. Na własnym stadionie, Rybniczanie ograli Ślęzę Wrocław",
-      "summary": "To już trzecie zwycięstwo z rzędu. Piłkarze trzecioligowego ROW-u Rybnik pokonali w minioną sobotę (10.10) na własnym stadionie Ślęzę Wrocław 2:1.",
-      "link": "https://www.radio90.pl/row-rybnik-odniosl-trzecia-kolejna-wygrana-na-wlasnym-stadionie-rybniczanie-ograli-sleze-wroclaw.html",
-      "published": "2026-10-12T12:15",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "5e33116d6621b2b2d98b1b034db42e3593e9651b",
-      "title": "Koniec ery centrów w rybnickim magistracie. Sekretarz Miasta ujawnia powody i koszty reorganizacji",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNGlRY2lhSV81RUhqNVg4Q2tpbEF0Q19qVW5WUEVXV0tGY3FIaTE1dW50UlNfSTJITUJmdnVBNHpNX29PTmhKbHpPZkMxQ1VGZ2laUHZIZXNNTU9DMk55TkZHanltMHo0WllyeUtLdVZyREtKZ2J1TGU1V1piTk1UamRvNDlMS3JvY1FlaF95alVISUJmTGRRMzZTbmVrLUhFUm1yZDdwekhLOThhcE1WblNFSnhFUzhTMHcxck8yZUJEYmlrU2o3UUV4Z2s5OHZCX2hQOGxPVUk3czljU1JxREFEY3lRVy1HOGY0?oc=5",
-      "published": "2026-10-12T12:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "01222d73b5ca5a4cc606e0bf9f73fb784d758eb9",
-      "title": "Rozbój w Rybniku: zaatakowali 20-latka nożem, tłuczkiem do mięsa uderzyli go w głowę. Są już w areszcie",
-      "summary": "Z nożem i tłuczkiem do mięsa zaatakowali 20-latka w jednym z mieszkań na Placu Wolności w Rybniku, kradnąc mu telefon, buty i biżuterię. Policja zatrzymała 17-letnią mieszkankę Rybnika i 20-letniego mieszkańca Wodzisławia Śląskiego. A Sąd Rejonowy aresztował ich na trzy miesiące.",
-      "link": "https://www.radio90.pl/rozboj-w-rybniku-zaatakowali-20-latka-nozem-tluczkiem-do-miesa-uderzyli-go-w-glowe-sa-juz-w-areszcie.html",
-      "published": "2026-10-12T11:30",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b994332a90177bdae053818877c7c6b359bcdcc1",
-      "title": "Zmiana na szczycie PGG. „Powody osobiste” w cieniu finansowych wyzwań",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPai1UMUQzQllSejJDTWlHS21xcGk1ZFhMbmhkYUVudnRoVkdCSlp2N1l4V0E2TGthTlQ3bk9pdFZGNXA0RzhOYlZqVUI3TnJDNG5EOUZUMzAzaTl3NVZzT3o0Z0ZFdFpLRjlNdkxyWlpERDU3U3lKRzQ3NTFMNXU2MFp3MzRTQkNDUE00c0x6NzlMYlY3cFdJMnNRLXJ2RmxwRjdTd196bWk5Y2ZfbWptdjdFeDctbmp0djdOcWVJRlBqQQ?oc=5",
-      "published": "2026-10-12T11:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a079dc169b5749252d688c78367e781d2923c5c9",
-      "title": "Tegoroczna Górnośląska Literacka Nagroda „Juliusz” dla Marii Ciesielskiej i Anny Wacławik. Za biografię Ludwika Flecka",
-      "summary": "Znamy laureatów Górnośląskiej Nagrody Literackiej \"Juliusz\". Wręczono ją podczas uroczystej gali w Domu Kultury w Rybniku-Chwałowicach, która odbyła się w minioną sobotę.",
-      "link": "https://www.radio90.pl/tegoroczna-gornoslaska-literacka-nagroda-juliusz-dla-marii-ciesielskiej-i-anny-waclawik-za-biografie-ludwika-flecka.html",
-      "published": "2026-10-12T10:45",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e4034634a2dcbe68dfef1bcdcfad538693bf2ef8",
-      "title": "Koszykarki RMKS XBest Rybnik lepsze od ekipy z Ksawerowa. Rybniczanki są na podium w ligowej tabeli",
-      "summary": "Koszykarki RMKS-u Xbest Rybnik z drugim zwycięstwem w tym sezonie. Rybniczanki pokonały na własnym parkiecie Basket 4Ever AZS UMed Ksawerów 69:50.",
-      "link": "https://www.radio90.pl/koszykarki-rmks-xbest-rybnik-lepsze-od-ekipy-z-ksawerowa-rybniczanki-sa-na-podium-w-ligowej-tabeli.html",
-      "published": "2026-10-12T10:05",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "274fe3f1a574dc59ffce172ef9b84ba03467a67b",
-      "title": "Ryzyko zatrucia bakteryjnego. Wycofano z rynku sery Camembert oraz boczek wędzony",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMHdraktDLXkxSXNyNU44bmpsSjllemQtd3gwYUZ5T3FlMHJDZ3hZcmctRzdIelBQeFhjeHVqMFBMZ2VZY1lkOUtvRjJhT1I1aG1PUzFVVVBoRXFNZXpzWmZTeWZZdlRkSEtoLVhYMDlveUxqZElNVmc2c05KY3N3OW80a1d2WWdNYWtjV3laSDh6OV9uUEU5TERmR1dQREQycHlKTHFpek92QUZMUlpUalBpMy1VNTRjVGQyNWZsTDZUcVlMRVB4TC1NU1Z3V1AydUh3Qw?oc=5",
-      "published": "2026-10-12T08:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
+      "id": "d031358246ae1f282ffd05f5ba90d00a0763fd2b",
+      "title": "Prezydent Miasta Knurów ogłasza pierwsze przetargi ustne nieograniczone na sprzedaż prawa własności niezabudowanych nieruchomości położonych w Knurowie",
+      "summary": "Prezydent Miasta Knurów ogłasza pierwsze przetargi ustne nieograniczone na sprzedaż prawa własności niezabudowanych nieruchomości położonych w Knurowie (przy granicy z Gminą Czerwionka – Leszczyny, obręb Czuchów) w rejonie ul. Zwycięstwa, ul. Starowiejskiej, ul. Granicznej, które odbędą się…",
+      "link": "https://www.nowiny.pl/wiadomosci/251458-prezydent-miasta-knurow-oglasza-pierwsze-przetargi-ustne-nieograniczone-na-sprzedaz-prawa-wlasnosci-niezabudowanych-nieruchomosci-polozonych-w-knurowie.html",
+      "published": "2026-10-12T10:30",
+      "source": "nowiny.pl",
+      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -864,26 +924,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "8800724387e2b2eb090b2014dfa0cbaebff553c5",
-      "title": "Rybnik: powstanie nowy kompleks sportowy w Chwałowicach. MOSiR ogłosił przetarg na jego wybudowanie",
-      "summary": "Boisko piłkarskie, a także boisko wielofunkcyjne. Do tego sprawnościowy plac zabaw i siłownia plenerowa. Z takich elementów ma składać się nowy kompleks sportowy, który powstać ma w rybnickiej dzielnicy Chwałowice. Miejski Ośrodek Sportu i Rekreacji w Rybniku właśnie ogłosił przetarg na jego…",
-      "link": "https://www.radio90.pl/rybnik-powstanie-nowy-kompleks-sportowy-w-chwalowicach-mosir-oglosil-przetarg-na-jego-wybudowanie-to-bedzie-obiekt-do-wielu-sportow.html",
-      "published": "2026-10-11T09:25",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f023da1cd5af3f768e2f78cfe56917ec008ba5b9",
-      "title": "Eko Patrol Radia 90 – odcinek 40/2026. Nowy rezerwat w województwie śląskim. Powstał na granicy Rybnika i Książenic",
-      "summary": "Jest jednym z największych na Śląsku, a jednocześnie najnowszym spośród rezerwatów w naszym województwie. Od kilku dni \"Głębokie Doły\", wyjątkowy las na granicy Rybnika-Ochojca i Książenic oficjalnie są rezerwatem. O tym w najnowszym odcinku programu Eko Patrol Radia 90.",
-      "link": "https://www.radio90.pl/eko-patrol-radia-90-odcinek-40-2026-nowy-rezerwat-w-wojewodztwie-slaskim-powstal-na-granicy-rybnika-i-ksiazenic.html",
-      "published": "2026-10-11T06:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a8c2462c12befdcded255e3bcb6283ff634a87e1",
       "title": "Pomoc dla osób w kryzysie bezdomności w sezonie jesienno-zimowym",
       "summary": "Wraz ze spadkiem temperatur służby w Rybniku docierają do osób przebywających w nieogrzewanych i niebezpiecznych miejscach. Działania te mają na celu zapewnienie każdemu potrzebującemu bezpiecznego schronienia i posiłku.",
@@ -901,16 +941,6 @@
       "published": "2026-10-09T00:00",
       "source": "rybnik.eu",
       "category": "Odpady komunalne",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "dfbb0c5a63a22bca5059f92ec6c797c923b31287",
-      "title": "Zapowiedzi sportowe",
-      "summary": "W najbliższy weekend, w domowych meczach, będzie można kibicować koszykarkom RMKS Xbest, siatkarzom Volleya i piłkarzom ROW-u 1964.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zapowiedzi-sportowe-2",
-      "published": "2026-10-08T00:00",
-      "source": "rybnik.eu",
-      "category": "Sport",
       "priority": "NORMAL"
     },
     {
@@ -972,16 +1002,6 @@
       "source": "rybnik.eu",
       "category": "Komunikaty",
       "priority": "NORMAL"
-    },
-    {
-      "id": "f7dd1801b4c1a0cfd7e2b14d2a3d6d05174f2a6c",
-      "title": "Gdzie nie będzie prądu? Harmonogram wyłączeń w Rybniku i powiecie rybnickim",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNTFsZDlTMVBjbERRdWw2T3RIUlhnTmVDU0NOLUp5TjJsc1hBc3ZKd0JPTERCdEZBcXZmMlNhU3lMb2V2ZTRucE5nQXFFUnVkbDZYckx2cUNqT09nNGFFQlA5aWF0VmNxNU01V25RS0hjdDBmVHEyczNubVJEdm5jbXZYZ3VucFdEc0xHVDVva2NUdGlCcXdTdUJ3T1BhRWtTa1cyTnFJZmwwVjI4bkpja0Fhd2ZEckYzRVZ0WjB5SUZETG5hUlV3dGNRMzU?oc=5",
-      "published": "2026-10-04T07:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "ALERT"
     },
     {
       "id": "a77149d199d9b5d451a0fcf617393a173d60f8fa",
@@ -1099,26 +1119,6 @@
       "summary": "Galeria Sztuki Rzeczna po raz kolejny udowadnia, że sztuka może być w pełni dostępna i otwarta dla każdego, niezależnie od indywidualnych potrzeb czy barier architektonicznych.",
       "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/podwojny-sukces-rybnickiej-kultury",
       "published": "2026-09-22T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "71c68498e94c20bc3aa27f361eaa0e90679eba3e",
-      "title": "Wyłożenie projektu planu miejscowego MPZP 54-66",
-      "summary": "Od 21 września do 19 października 2026 r. można zapoznawać się z wyłożeniem projektu planu miejscowego przy ulicach Maksymiliana Buhla, Majowej, Granicznej, Władysława Broniewskiego, Stefana Żeromskiego i Żużlowej.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/wylozenie-projektu-planu-miejscowego-dla-6-obszarow",
-      "published": "2026-09-21T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "bd9ec54e04080b0dc9793ef663df6716eb9d89c6",
-      "title": "WYŁOŻENIE PROJEKTU PLANU MIEJSCOWEGO dla 6 obszarów MPZP 69-7",
-      "summary": "Od 21.09 do 19.10.2026 można zapoznawać się z projektem miejscowego planu zagospodarowania przestrzennego obejmującego 6 obszarów w rejonach ulic: W. Poloczka, Lipowej, Granicznej, W. Pełczyńskiego i Wodzisławskiej (MPZP 69-7). Uwagi do projektu można składać do 02.11.2026 r.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/wylozenie-projektu-planu-miejscowego-przy-ulicach-poloczka-lipowej-granicznej-pelczynskiego-i-wodzislawskiej",
-      "published": "2026-09-21T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
       "priority": "NORMAL"
