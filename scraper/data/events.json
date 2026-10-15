@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:58:26",
+  "generated_at": "2026-10-15T21:21:56",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,31 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 134,
+  "count": 138,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-mediujemy-porozmawiaj-z-sedzia-i-mediatorem-przy-jednym-stol",
-      "title": "MediujeMY! – porozmawiaj z sędzią i mediatorem przy jednym stoliku",
-      "category": "DlaDzieci",
-      "start": "2026-10-15T16:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Jak rozwiązać spór bez angażowania się w kosztowny proces sądowy? O mediacji i polubownym szukaniu porozumienia będzie można porozmawiać podczas otwartego spotkania w Urban Labie w Rybniku. Wydarzenie organizowane jest z okazji Międzynarodowego Tygodnia Mediacji. Spotkanie rozpocznie wprowadzenie do tematu mediacji, które poprowadzi mediator Justyna Zapotoczny-Pelak . Następnie uczestnicy będą mogli wziąć udział w rozmowach przy stolikach i przy kawie porozmawiać z sędziami oraz mediatorami o polubownym rozwiązywaniu sporów. Spór przy jednym stoliku. W Rybniku sędziowie i mediatorzy wyjaśnią, co zamiast procesu Wydarzenie jest skierowane między innymi do osób doświadczających konfliktu rodzinnego lub majątkowego, które obawiają się kosztów postępowania sądowego i chcą dowiedzieć się więcej o mediacji.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/mediujemy-porozmawiaj-z-sedzia-i-mediatorem-przy-jednym-stoliku"
-    },
-    {
-      "id": "tzr-kantor-w-fotografii-pollescha-otwarcie-wystawy-fotografii-konrada-karola-pollescha",
-      "title": "„Kantor w fotografii Pollescha”. Otwarcie wystawy fotografii Konrada Karola Pollescha",
-      "category": "Wystawa",
-      "start": "2026-10-15T17:30",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Otwarcie wystawy fotografii Konrada Karola Pollescha „Kantor w fotografii Pollescha”. Galeria Sztuki. Wystawa trwa do 29.11.2026, wstęp wolny.",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/kantor-w-fotografii-pollescha-otwarcie-wystawy-fotografii-konrada-karola-pollescha.html"
-    },
     {
       "id": "bilnya-galeria-sztuki-rzeczna-202610161100",
       "title": "Galeria Sztuki Rzeczna",
@@ -1401,7 +1379,7 @@
       "title": "Osiecka Królową Piosenki: koncert w Rybniku",
       "category": "Koncert",
       "start": "2026-12-13T18:07",
-      "end": null,
+      "end": "2026-12-13T20:07",
       "venue": "Klub Odyseja",
       "description": "Piosenki Agnieszki Osieckiej zabrzmią w kameralnej odsłonie w Klubie Odyseja w Rybniku. W programie znajdą się utwory znane z interpretacji m.in. Maryli Rodowicz, Marka Grechuty, Edyty Geppert i Skaldów. Data: 13 grudnia 2026 roku (niedziela), godz. 18:07 Miejsce: Klub Odyseja, Rybnik Bilety: dostępne w serwisach KupBilecik, Biletyna i Biletomat. Ceny nie podano. Podczas koncertu zabrzmią utwory, które przed laty wykonywali m.in. Edmund Fetting, Krystyna Janda, Łucja Prus i Seweryn Krajewski. To muzyczna podróż przez piosenki pełne charakterystycznych tekstów i melodii, które na stałe zapisały się w polskiej kulturze. Wystąpią Bartosz Baltazar Zbroszczyk – śpiewający i grający na gitarze oraz fortepianie – oraz Krzysztof Szmytke, który zagra na skrzypcach i zaśpiewa. Zbroszczyk jest muzykiem, kompozytorem i aranżerem, a także autorem albumu „Baltazar – Jestem nikim”. Koncertuje również z programem poświęconym twórczości Seweryna Krajewskiego.",
       "sourceName": "iRybnik",
@@ -1419,22 +1397,66 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/najdrozszy-122026.html"
     },
     {
+      "id": "bilnya-najdrozszy-spektakl-komediowy-202612201500",
+      "title": "Najdroższy - spektakl komediowy",
+      "category": "Spektakl",
+      "start": "2026-12-20T15:00",
+      "end": "2026-12-20T16:30",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🎭✨ \"Najdroższy\" to błyskotliwa komedia o pechowcu, który za wszelką cenę próbuje odmienić swój los! 😄 Absurdalne sytuacje, zaskakujące zwroty akcji i humor w paryskim stylu – baw się do łez! Sprawdź repertuar i zarezerwuj bilety już dziś! 🎟️❤️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Najdrozszy?eid=707088#opis"
+    },
+    {
+      "id": "bilnya-golo-i-wesolo-202612311800",
+      "title": "Goło i Wesoło",
+      "category": "Spektakl",
+      "start": "2026-12-31T18:00",
+      "end": "2026-12-31T20:30",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🤔 Kto z nas nie marzył o wielkiej karierze gwiazdy filmu czy rock'n'rolla? 🎸 Na prawie taki sam pomysł wpadła grupka przyjaciół, która postanowiła zostać... striptizerami 🙊 Jak im poszło? Dowiecie się w przezabawnym spektaklu Goło i wesoło. Jedno jest pewne - będzie gorąco! 🔥.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Golo-i-Wesolo?eid=712049#opis"
+    },
+    {
+      "id": "bilnya-piano-best-covers-best-film-soundtracks-202701161900",
+      "title": "Piano Best Covers: Best Film Soundtracks",
+      "category": "Koncert",
+      "start": "2027-01-16T19:00",
+      "end": "2027-01-16T20:30",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": "🎬 Najpiękniejsza muzyka filmowa w wyjątkowym wydaniu! Dombrova Piano Duo zagra na fortepianach kultowe melodie Zimmera, Williamsa, Morricone i innych mistrzów. 🎹✨ Zanurz się w świecie kina i wielkich emocji!.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/Piano-Best-Covers-Best-Film-Soundtracks-Candles?eid=696728#opis"
+    },
+    {
       "id": "tzr-ballady-rockowe-przy-swiecach-polskie-legendy-najwazniejsze-utwory-polskiego-rocka-w-jednym-koncercie",
       "title": "Ballady Rockowe przy Świecach: Polskie Legendy. Najważniejsze utwory polskiego rocka w jednym koncercie",
       "category": "Koncert",
       "start": "2027-01-21T19:30",
-      "end": null,
+      "end": "2027-01-21T21:00",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "„Ballady Rockowe przy Świecach” to cykl kameralnych koncertów przy blasku świec, który zdobył uznanie publiczności dzięki swojej wyjątkowej atmosferze i brzmieniu na żywo. Projekt zachwycił już ponad 70 000 widzów podczas ponad 100 występów w ośmiu krajach, potwierdzając swoją popularność i uniwersalność formatu. W ramach tej serii kultowe rockowe ballady zyskują nowe, bardziej subtelne, akustyczne i emocjonalne oblicze, pozwalając odkryć ich głębię, lirykę i siłę na nowo. Projekt nieustannie się rozwija, otwierając kolejne muzyczne kierunki. Jednym z nich jest program poświęcony polskiemu rockowi – legendarnym utworom, które stały się symbolem całej epoki. Piosenki takich zespołów jak Dżem, Perfect, Lady Pank, Budka Suflera, Maanam i wielu innych zabrzmią w nowej, bardziej intymnej i poruszającej interpretacji. Delikatne światło świec podkreśli romantyzm i subtelność ballad polskiego rocka, zachowując jednocześnie ich siłę i energię, czyniąc ten wieczór naprawdę magicznym. Starannie dobrany repertuar koncertu „Ballady Rockowe przy Świecach” nie pozostawi obojętnym żadnego słuchacza. Głębia uczuć i emocji zawarta w każdej piosence poruszy najczulsze struny duszy – od miłości, szczęścia, inspiracji i nostalgii, po stratę, poszukiwanie sensu życia, samotność i wewnętrzne przeżycia. To doskonała okazja, aby oderwać się od miejskiego zgiełku, zanurzyć się w świecie legendarnego polskiego rocka i zapomnieć o codziennych troskach. Spędź ten wieczór z bliskimi i przyjaciółmi, delektując się wspomnieniami i tworząc nowe. Dlaczego warto wybrać się na koncert „Ballady Rockowe przy Świecach: Polskie Legendy”? Ponownie przeżyć najpiękniejsze momenty swojego życia Usłyszeć wyjątkowe aranżacje poruszających ballad polskiego rocka przy blasku świec. Spędzić ciepły wieczór w gronie najbliższych. Czy już wiesz, z kim chcesz przeżyć te niezapomniane emocje? Zaproś bliskich i spędźcie razem wyjątkowy wieczór! Pamiętaj, że liczba biletów jest ograniczona – im dłużej zwlekasz, tym szybciej znikają najlepsze miejsca.",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/ballady-rockowe-przy-swiecach-polskie-legendy-najwazniejsze-utwory-polskiego-rocka-w-jednym-koncercie.html"
     },
     {
+      "id": "bilnya-sklep-z-facetami-202701241700",
+      "title": "Sklep z facetami",
+      "category": "Spektakl",
+      "start": "2027-01-24T17:00",
+      "end": "2027-01-24T18:30",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": "😂 Komedia o kobietach, mężczyznach i miłości, w której każdy odnajdzie cząstkę siebie. 💕 Błyskotliwe dialogi, zaskakujące zwroty akcji i doskonała zabawa sprawiły, że „Sklep z facetami” pokochało już ponad 50 000 widzów w całej Polsce..",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Sklep-z-facetami?eid=677848#opis"
+    },
+    {
       "id": "tzr-soyka-grott-orkiestra-w-holdzie-mistrzowi-przelozony",
       "title": "Soyka / Grott Orkiestra w hołdzie mistrzowi - przełożony",
       "category": "Koncert",
       "start": "2027-01-24T18:00",
-      "end": null,
+      "end": "2027-01-24T19:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Szanowni Państwo, informujemy, że koncert Soyka / Grott Orkiestra w hołdzie Mistrzowi, który miał odbyć się w dniu 9 października, w Teatrze Ziemi Rybnickiej, z przyczyn niezależnych od Organizatora, zostaje przełożony na nowy termin: 24 stycznia 2027 roku.",
       "sourceName": "TZR",
@@ -1445,7 +1467,7 @@
       "title": "NOWOROCZNA GALA – Koncert Wiedeński",
       "category": "Koncert",
       "start": "2027-01-26T18:00",
-      "end": null,
+      "end": "2027-01-26T20:00",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Najnowsza edycja 2027 ogólnopolskiej trasy koncertowej! - magiczne, pełne kolorytu widowisko, nie mające sobie równych! - na scenie ponad 30 osobowy zespół najwybitniejszych Solistów, Orkiestry i baletu oraz Gość Specjalny! - zachwycające doznania muzyczne, wypełnione szelestem błyszczących sukien, wśród widoku rozlewanego szampana i dźwięku stukających obcasów - najnowszy program koncertu – edycja 2027 - połączenie klasyki z rozrywką, które łączy pokolenia",
       "sourceName": "TZR",
@@ -1456,11 +1478,22 @@
       "title": "Vivaldi przy świecach",
       "category": "Koncert",
       "start": "2027-01-28T19:30",
-      "end": null,
+      "end": "2027-01-28T21:00",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Barok na wyciągnięcie ręki 300 lat temu „Cztery pory roku” Antonio Vivaldiego zaskoczyły świat swoją niezwykłą mocą i emocjami. Dziś masz szansę poczuć je tak, jak słuchali ich pierwsi odbiorcy – w kameralnej atmosferze, przy blasku świec, otoczeni muzyką, która łączy duchową głębię z radością życia. To nie tylko koncert – to podróż w czasie, pełna emocji, które przetrwały wieki.",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/vivaldi-przy-swiecach.html"
+    },
+    {
+      "id": "bilnya-ponad-chmurami-202701291900",
+      "title": "Ponad Chmurami",
+      "category": "Koncert",
+      "start": "2027-01-29T19:00",
+      "end": "2027-01-29T20:30",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": "🎶✨ Odkryj świat pełen emocji z zespołem Ponad Chmurami! Ich delikatne brzmienia i poetyckie teksty przeniosą Cię w krainę nostalgii i wzruszeń. Przyjdź na koncert i poczuj magię muzyki, która porusza serca. Nie przegap! 🎤☁️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/Ponad-Chmurami?eid=712260#opis"
     },
     {
       "id": "dk-bog-11035-dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-godz-16-00",
@@ -1483,6 +1516,17 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
+    },
+    {
+      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
+      "title": "NutkoSfera - CeZik dzieciom",
+      "category": "DlaDzieci",
+      "start": "2027-12-03T17:00",
+      "end": "2027-12-03T18:20",
+      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
+      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }
