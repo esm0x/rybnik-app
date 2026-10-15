@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-10-14T21:41:31",
+  "generated_at": "2026-10-15T04:36:51",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "0b3e5dd80a82c9abcd106f28be539ac611c38884",
+      "title": "„WARTKO!” - biegacze i kijkarze opanują ulice Gaszowic",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaG1PeEU2WE1qRnFNSmxxbDJfRFdHdW1pcXJNenBDY3hpOEtQZ1BXTzVnOWlnMTJ4dm9ac2VLQmY0SEppWkpUTFJmRnNkeWw4Mi1hTERRbmFwdGpxMVJVSHlxbGJXOGoyQ3FaMm9scHR5Q2NNWTE2Sm1VNFVZZGFEM2ZKb3BsY05UTkVBM3dMUERjb1BmS1hmQnRrM29PTEFfY0Vv?oc=5",
+      "published": "2026-10-14T22:03",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2ec5b785064a7efe53eb47b3c314b719dc931fc0",
+      "title": "Padel: ruszyła 5. edycja Ligi Nox Platinum Americano",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHVXaGdmcGstaUFRYi1JU2h3N1BaU3ZzSjlRem5sQ0JKckJSVENIbFc1QjdtQklxOWM4OU44WXZ2SXZOM1k2MnRBVW5RMlY5eXdkb3MwRnlCNTExRzRIRXFidTdOSUFpeldKZkhnTDYxdGN4VWlabFJEbzFQNkNqOVNjQkszODh5NDlWM0dLNTg1MWZxaVJySXZUaHpWVDJPZkh5NE5DVGo?oc=5",
+      "published": "2026-10-14T20:52",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e97d6df56475638b551928f20566c36abd24171b",
+      "title": "Jaka będzie Strefa Centrum i gdzie będzie rynek?",
+      "summary": "Park, miejski rynek, mieszkania i usługi. Te elementy pojawiają się we wszystkich czterech wariantach zagospodarowania Strefy Centrum. Różnice są jednak spore. W jednej wersji przewidziano około 242 mieszkań, w innej aż 620. Różne jest też podejście do ul. Sybiraków i skali przyszłej zabudowy…",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251516-jaka-bedzie-strefa-centrum-i-gdzie-bedzie-rynek.html",
+      "published": "2026-10-14T20:42",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "967b1dca678a9191d4c928daa45eb10953d13243",
       "title": "Przez zabawę do świata muzyki. „Brzydkie kaczątko” zainauguruje nowy sezon „Maluchów w krainie dźwięku” w RCK!",
@@ -21,16 +51,6 @@
       "published": "2026-10-14T19:33",
       "source": "nowiny.pl",
       "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c95713da63592e1fdbf316ea6e3c1f3f0f1f5dbc",
-      "title": "Ruszyła Liga Nox Platinum Americano. Ponad 40 graczy walczy w Rybniku o tytuł mistrza (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMnRoMUZPUmlQM21zWFhDQmlIT1dwRkR4aFVMQlJiTFFDd2dFVmc0am4zSTdiVlJsYWNxVHhnQW9fdU41OEpJZEhTdjRlcENZR0JBY1ZrcmlnU0lxLWJXZjE1TElsdDJXY3JqVTJ1MzJjRENBdWFFRmpwVTFqbmZzV00yX2pHQzBCdFlJSjNZQk90SzVHa3pINnBPRFRodnoyTkFUbzBIbHVveEg1V3VCMWxTWm5jLUJtWGVhNnFWY2JYTXhrU3JMMzhWSlFFTGozMDVvUEhNLU13OHA3cnd5Ug?oc=5",
-      "published": "2026-10-14T19:27",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -54,21 +74,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "ef7eb380f2fd8c33e4ea5d7b8853463ba8353f90",
-      "title": "Ruszyła Liga Nox Platinum Americano. Ponad 40 graczy walczy w Rybniku o tytuł mistrza",
+      "id": "c95713da63592e1fdbf316ea6e3c1f3f0f1f5dbc",
+      "title": "Ruszyła Liga Nox Platinum Americano. Ponad 40 graczy walczy w Rybniku o tytuł mistrza (foto)",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZHByazFUYW8xNmVJNHVLRDE0a2phcm9Kd0hCZVlmM2c5LVNPTTMzMnBDQmhLMUV0aEdGb3VxMFVnNVR5VGZkV0tldm9IcWg1dUd6aU1QSzlSS1E3NDhLdUZfbG12aDVpTll1RGIxNjBIM05IS3FYZS1KdWtEdGtPS2hYR2d4al9DdVFmclpjS3dzWVVLT1N4dVZjTFJxb0pmX2pKVmN5c0pwT0FJWGE3dTFhaFRXWDh4T1hjS1c1eGpGdWpLTW5fODhZM0NGNUg2Rkh3MkFrZV90QQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMnRoMUZPUmlQM21zWFhDQmlIT1dwRkR4aFVMQlJiTFFDd2dFVmc0am4zSTdiVlJsYWNxVHhnQW9fdU41OEpJZEhTdjRlcENZR0JBY1ZrcmlnU0lxLWJXZjE1TElsdDJXY3JqVTJ1MzJjRENBdWFFRmpwVTFqbmZzV00yX2pHQzBCdFlJSjNZQk90SzVHa3pINnBPRFRodnoyTkFUbzBIbHVveEg1V3VCMWxTWm5jLUJtWGVhNnFWY2JYTXhrU3JMMzhWSlFFTGozMDVvUEhNLU13OHA3cnd5Ug?oc=5",
       "published": "2026-10-14T18:25",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "2ec5b785064a7efe53eb47b3c314b719dc931fc0",
-      "title": "Padel: ruszyła 5. edycja Ligi Nox Platinum Americano",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHVXaGdmcGstaUFRYi1JU2h3N1BaU3ZzSjlRem5sQ0JKckJSVENIbFc1QjdtQklxOWM4OU44WXZ2SXZOM1k2MnRBVW5RMlY5eXdkb3MwRnlCNTExRzRIRXFidTdOSUFpeldKZkhnTDYxdGN4VWlabFJEbzFQNkNqOVNjQkszODh5NDlWM0dLNTg1MWZxaVJySXZUaHpWVDJPZkh5NE5DVGo?oc=5",
-      "published": "2026-10-14T18:16",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -274,16 +284,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "66156a8acd95b710982fa7f24681ad213b19d674",
-      "title": "Kto najlepiej zna zasady BHP w JSW? Zwycięzca konkursu otrzymał 5000 zł",
-      "summary": "Marcin Kubicki z kopalni Budryk wygrał XIII edycję konkursu wiedzy o bezpieczeństwie pracy organizowanego przez Jastrzębską Spółkę Węglową. O pierwsze miejsce rywalizowało 240 pracowników.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251491-kto-najlepiej-zna-zasady-bhp-w-jsw-zwyciezca-konkursu-otrzymal-5000-zl.html",
-      "published": "2026-10-14T10:16",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "8306eac2302b5c4777694c14428d3766df9c0b56",
       "title": "Sędzia Anna Maria Wesołowska na nowe otwarcie w Rybniku. WSBiNOZ inauguruje rok akademicki na kampusie",
       "summary": "",
@@ -464,6 +464,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "6029122ab4352ba90e3ef5f0cfb04c900963a3af",
+      "title": "Sędzia Anna Maria Wesołowska na nowe otwarcie w Rybniku. WSBiNOZ inauguruje rok akademicki na kampusie (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMEtLNURUOXBTX29Nel9LTzZKZDBJNHZfd1hfdDM2R0FmRXVvWkdSUkFPRlJQWEV6VFNyeXFtZU9DZ2pQQ0xOSURURWxtMXJYS0w0Vm1IcE41NTJidkxnSVF2YjlweXgwMXNuNk5CakRuN0RwcU8zZTRWUkdvZEV5SElrNy1lTUtOVzNZZGVrTUJxYVhWSnl5MVMwV040QUVSSTFJTzNRVUp6LUVXcHBRVllKc21nLXU1dmNoQ25PX1dpdGcxQXE3VHcycHhuNC04ZV8tNkFxUjFCdXhya1hnc3pZWWVoZW8zVjI3eWNlc2dBXzlHcTRwV1FR?oc=5",
+      "published": "2026-10-13T18:54",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "a943efba1ae19290176eda58e254ab2cc389c55c",
       "title": "Żeglarstwo: Wojciech Wójcik triumfuje w Pucharze Polski ILCA",
       "summary": "",
@@ -490,16 +500,6 @@
       "link": "https://www.radio90.pl/rybnicka-rada-kobiet-ostrzega-przed-oszustami-podszywaja-sie-pod-stowarzyszenie-ktorego-nie-ma.html",
       "published": "2026-10-13T15:40",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "83501c136dcc1e6c5dbfd56bea5b62e9874d1580",
-      "title": "Sędzia Anna Maria Wesołowska na nowe otwarcie w Rybniku. WSBiNOZ inauguruje rok akademicki na kampusie (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNT0NkRG4zOTV4ak1wRTRWaENrQlJ5RUctU05iZEo5WFBlTFZKdnRpVHdoYmxOSGVzLUNWTTdNcUowOWMwaGZrMjBCWDlyODBPSkVsS0lfYlA1dWRRNmdGOEVCSjlrUDlSODNVZE9WUmZBVkxqU3lvVFZvVjhhTVkxSTFJUWM2WGNPYk9qR0VJQTZyN1BCYVd3ZTlsVlhNV3ozblkwV3FpVXhOLWhtNll2c3MtZ2tlMzg0YWRCQksySmFpaGlnSV85V3BwRnlZNDdmWVJDMGFsN2IwVjVRWnRiZjkxUVE4ZGhFQTdoWUpQWXVFOC1Oa19r?oc=5",
-      "published": "2026-10-13T14:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -550,16 +550,6 @@
       "link": "https://www.radio90.pl/teatr-ziemi-rybnickiej-dzis-spektakl-wajda-kilar-slask-w-ramach-trwajacych-rybnickich-dni-literatury.html",
       "published": "2026-10-13T10:00",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a8d3dece71c50369d272ed9e18e971f84f9f861a",
-      "title": "Burmistrz Weber wrócił przed rybnicki magistrat. Naprawa kosztowała 14 tys. zł netto (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRVBpYkgzbjdSbEFrWEU3S0FIT2YzcVJwczBCWFVxVFNYSlE0QWhrd2dGcmhZaFlINXVxaFR6VXg1R1AxZ1FUQVNDNEp6TmpSekhJdDhXaWdsdUs1YzEzZjhJUEt6di1lVU5CSGRybXB2eTdWaEMzNmZLOF91Rl9sem9SY2xTOXU2d0QteFBYSDY5WUt6d0JkT09NY3pEMmZZRGdQUkUySjBON0xTOENGMUk1cEVfbml6Y3ZGWWxvVThsZ01ITEs4VE82ZmstMGJOTUhob0QxSXl3dDFDRmc?oc=5",
-      "published": "2026-10-13T10:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -669,6 +659,16 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbmpwemVHZzMyUlpUUmlKdjNmMnFCaHR5cmNWUnllTU5Calo5WGlyNW9vcVFzQ21SRVZTX2ROaGtLcnhONVBFZEVLVFBZaUxheERVZlNhOGF4ejg4ZWZmTGZxZDNIMWN1enRMeXVTcWY1N3YtLVRMOHJXUFhDVWZmdlkydUVtaVFBMG9XdGtmT3lQYWJqdHVTZnc1OWZaUmtGY1dBek1MVVBOV1ZBYllRMTNGYXdOSGtpRTVEenQxOURWMVNqQVJid3E2MUpqRFBsaXhhalJBWjhwQQ?oc=5",
       "published": "2026-10-12T23:55",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ac873a11c6f285010c08093ea8b88f1277103a5a",
+      "title": "Niezwykły charakter siatkarek z Rybnika. KS Grom odrobił straty w Wodzisławiu i odniósł drugie zwycięstwo",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcXA0RnFfNWRaN0t5dGFEWnhpTDI5VDBuYnd0dWtSbHh3cVpvYWJ1cTlmNHdVc3lLX1FIaE1WMm1LcmhlUllRZDN3cG8xYWdOY3g3RkZrVXVIcEJwQUZPR2dfSVhDdnJNdlpzY1dtR2F0WklEcXVTU3dmUmxvdEhYNGF2WDlybU1YUjNpdU9Sc3NrZ2FmSEQzYlAxY2NVMzdaNHdPenFJTG1CUXpTN2RDUEg2dEZwdGxNWk1HS19SQ2ZReVRSaERxOFJmMUtjUm45cGZXVGwweWNDU1Q3Y21JaVRWMDNFWlkzbzhlYjVqTUVoc1Q1?oc=5",
+      "published": "2026-10-12T17:46",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
