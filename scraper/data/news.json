@@ -1,13 +1,118 @@
 {
-  "generated_at": "2026-10-16T11:22:29",
+  "generated_at": "2026-10-16T16:39:13",
   "count": 120,
-  "failures": [
-    {
-      "source": "IMGW",
-      "error": "HTTPSConnectionPool(host='danepubliczne.imgw.pl', port=443): Max retries exceeded with url: /api/data/warningsmeteo (Caused by NameResolutionError(\"HTTPSConnection(host='danepubliczne.imgw.pl', port=443): Failed to resolve 'danepubliczne.imgw.pl' ([Errno -3] Temporary failure in name resolution)\"))"
-    }
-  ],
+  "failures": [],
   "items": [
+    {
+      "id": "636afef8ee13f4653c3267a01cb4896b226189bd",
+      "title": "Morcinka ma przestać tonąć po ulewach. Prawie 29 mln zł z UE na walkę z podtopieniami w Rybniku",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUmVLYk1lVlk3N0hOYjRrbndFc0hXNklwY0Q0UXVNYkJ3cGdxNGFEZE9rMlBZU1R6WHVUN1JyRVZDR0Y3V2pTODQ4bU1nd1puOFBzZDJXRnRubHpzTHB2SHNVRHpTWGNnOElxakI4cW1mMEE2UHhzeGRybmJTanpheU5zeUlpbzFIb3o0a1dUUW9WdGRVRXZVMmJWTjFTNnVtV0ZFWThZRXM5N183VW9OdHJuekRzMnFUODkyNlVyeFhHV0cwTTVmR0hJWHd3MHpPRGduVmxuQk40Q0x5dWU3YWVPQXNIZ2c?oc=5",
+      "published": "2026-10-16T16:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b4a6816bdb754ff94f914482c756fec766b91212",
+      "title": "Książka do kawy: „Obłęd w Breslau”. Jak Śląsk stał się laboratorium teorii rasowych",
+      "summary": "12 listopada ukaże się nowa książka Tomasza Bonka. Reporter prowadzi czytelnika ulicami przedwojennego Wrocławia i pokazuje, jak praca antropologów, lekarzy i urzędników dała „naukowe” uzasadnienie przymusowym sterylizacjom, mordowaniu pacjentów szpitali psychiatrycznych i Zagładzie.",
+      "link": "https://www.nowiny.pl/wiadomosci/251500-ksiazka-do-kawy-obled-w-breslau-jak-slask-stal-sie-laboratorium-teorii-rasowych.html",
+      "published": "2026-10-16T16:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ff007864433705a4376d6809e857452e5d10692d",
+      "title": "Iphone 14 pro (128 GB) + etui, kabel oraz 2 szkła hartowane",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVXpHeFkyN3V1TlpVSVFCcllBNm1QVkNjNmNneXg5QkZhQ001YzVyblBmQjdOWUFIVkRhRkYwU2JEODNhRVpCTGhad1RBSjVvakVQV3hrVVpmcm1wVEM1Tnd4a3R6TDRiWVpkT0hTV3lHYVlpYS1Id2ZJRVo3azJGSHQtSjVFRWpLQ2ZWQ2s0dnFVd3c0N0NPWnhjMDhWSWpDcXkzMGNOa2tMR2N6Rjdud3BaYw?oc=5",
+      "published": "2026-10-16T15:59",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0708e824b761841451033886efc2dd96b254ba1a",
+      "title": "Firmy coraz częściej stawiają na AI. Jak nowe technologie zmieniają sposób pracy?",
+      "summary": "Sztuczna inteligencja zmienia sposób funkcjonowania firm, przyspiesza analizę danych i automatyzuje codzienne zadania. ChatGPT, Google Gemini, Microsoft Copilot oraz agenci AI coraz częściej wspierają pracowników w marketingu, finansach, sprzedaży, administracji i przemyśle. W 2026 roku…",
+      "link": "https://www.nowiny.pl/nie-przegap/251566-firmy-coraz-czesciej-stawiaja-na-ai-jak-nowe-technologie-zmieniaja-sposob-pracy.html",
+      "published": "2026-10-16T15:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f9cbd776b6be12a9d37c5a4307d5fdccf19f2ab3",
+      "title": "Warhouse: sklep MMA z oficjalną dystrybucją topowych marek sportów walki",
+      "summary": "Rynek sprzętu do sportów walki rośnie w Polsce konsekwentnie od kilku lat - coraz więcej osób sięga po rękawice, ochraniacze i odzież treningową nie tylko na siłowniach, ale też na salach MMA, boksu czy BJJ. Warhouse, sklep MMA z szeroką ofertą sprzętu i odzieży, wyróżnia się na tym tle oficjalną…",
+      "link": "https://www.nowiny.pl/nie-przegap/251542-warhouse-sklep-mma-z-oficjalna-dystrybucja-topowych-marek-sportow-walki.html",
+      "published": "2026-10-16T15:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9ee50d51d39b36f7542d0ca749d493ef6bd30620",
+      "title": "Dzieje się w Rybniku: świętujemy dzień szefa, jeżdzimy pociągami retro i bawimy się na 30-leciu pracy artystycznej Ani Wyszkoni",
+      "summary": "Dzieje się w Rybniku: dziś świętujemy dzień szefa W kalendarzu 16 października. Dziś przypada Dzień Szefa, Jaki powinien być dobry szef? Pytamy prezydenta Rybnika Piotra Kuczerę: Piotr Kuczera: Słuchać głosu współpracowników i podejmować na tej podstawie dobre decyzje. Trudno samego siebie oceniać…",
+      "link": "https://www.radio90.pl/dzieje-sie-w-rybniku-swietujemy-dzien-szefa-jezdzimy-pociagami-retro-i-bawimy-sie-na-30-leciu-pracy-artystycznej-ani-wyszkoni.html",
+      "published": "2026-10-16T14:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3ff2faedfff7c3a3d32374c0adfd45590f973adc",
+      "title": "Demolka w Juliuszu. Prace na terenie dawnego szpitala nabierają tempa. Sprawdzamy, co dzieje się na budowie (foto, wideo)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeEJLeHJ4Slh5TXdjODdSS0NNT2tHUjNvVjlxZkxmYkhNVzBZTEU3eDF4QXFWSFJwR3ZZcTJ5djhCWjNjQVhpTmhiZGRlbXhha2M4UHU0SllJRVdleGVfUTZJOURnX2JHTWJPemkzZHZRR1F1V1hIckxudHRYbGhVTlNtUU5ET3F6R2xlRE1XMkhBam8xWHJFVUFGMjJhaTBNTGdjRlM4T0dzMVEwNGZNYVBodHVBZkQzbmZ4QnB4THpELU8xNmVXckctdkUtdnJDVHIwVWdsT2xBaGpwQ0llRFlrNFozTk5ZNkY0ZkQxYTVBMFRqQm9HRnliZlNaMGk5b2tj?oc=5",
+      "published": "2026-10-16T14:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "69a30cca448d5e169f17aea7b7b585a376b1d18f",
+      "title": "Lody Szypuła 1974 – rodzinna tradycja, która stała się częścią Raciborza",
+      "summary": "Historia firmy Lody Szypuła rozpoczęła się w 1974 roku. Od ponad pół wieku kolejne pokolenia naszej rodziny rozwijają lodziarskie rzemiosło, łącząc doświadczenie przekazywane z pokolenia na pokolenie z nieustannym poszukiwaniem nowych smaków, surowców i technologii. Dziś możemy powiedzieć, że lody…",
+      "link": "https://www.nowiny.pl/nie-przegap/251550-lody-szypula-1974-rodzinna-tradycja-ktora-stala-sie-czescia-raciborza.html",
+      "published": "2026-10-16T14:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6c617123323e6ab7ec187751ec4995f9b855e5dc",
+      "title": "Niesamowita historia Zawady na wyciągnięcie ręki. Gra terenowa z nagrodami dla mieszkańców",
+      "summary": "W Zawadzie powstanie ścieżka edukacyjna z grą terenową, która ma zachęcić m.in. młodych mieszkańców do odkrywania lokalnej historii. Już niebawem w dzielnicy Wodzisławia Śląskiego pojawią się specjalne tablice z ciekawostkami, a każdy będzie mógł przejść wytyczoną przez nie trasę i zdobyć nagrody.",
+      "link": "https://www.nowiny.pl/wiadomosci/251569-niesamowita-historia-zawady-na-wyciagniecie-reki-gra-terenowa-z-nagrodami-dla-mieszkancow.html",
+      "published": "2026-10-16T13:27",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c76c7efc2d082ae6c899a7ea25297ccfe31fd884",
+      "title": "Ruch wahadłowy między ul. Pojdy a Dworcową. Zmiana organizacji ruchu w Czerwionce-Leszczynach",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT0Q3MFYtM2pPNEk3ZzZKX3NPb0w1c1VGWU5LT3dzQkhOZURpb19MWnpLVi05NW1LSWUteng3bjB1OWh3Ym9aU2U1bWdtdy12eTdLSmZWa0J6ekloaTFKazJ2SkZUQkVIRThPcUNHMzZqSWFwZFFvOGtxY1VCV2VlQnd5TWVySWtVcXR4d3hlaGxaeC1MaDFHNnF3Q3NRR1JRck1JaHhFNUh1SnNiRzZ5VHpmTkhxRDQ4bThtcF93WVhOeDZRMmpPekRmVllNc3BsQkJORlJqM0gxUjBUeW1TVXJuRQ?oc=5",
+      "published": "2026-10-16T12:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "160d19ba943478eccec59c1420ffa1a8c57c70ea",
+      "title": "Paryski szyk na polskich ulicach - dlaczego skórzane mokasyny podbijają trendy?",
+      "summary": "Wyobraź sobie spacer malowniczymi uliczkami Montmartre, gdzie wrodzona nonszalancja idealnie łączy się z naturalną elegancją. Ten francuski styl niepostrzeżenie przeniósł się na nasze ulice, wnosząc powiew autentycznej świeżości do codziennych stylizacji. Kobiety coraz chętniej sięgają po…",
+      "link": "https://www.nowiny.pl/wiadomosci/251565-paryski-szyk-na-polskich-ulicach-dlaczego-skorzane-mokasyny-podbijaja-trendy.html",
+      "published": "2026-10-16T12:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "ALERT"
+    },
     {
       "id": "5444fe02c2f3cd9b3604b270b1bd91f23bca68e5",
       "title": "Dzisiaj dzień szefa. Pytamy, jaki powinien być szef?",
@@ -15,6 +120,16 @@
       "link": "https://www.radio90.pl/dzisiaj-dzien-szefa-pytamy-jaki-powinien-byc-szef.html",
       "published": "2026-10-16T11:00",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "564ee344058007836c0b2e1fb80044f2e3ea8ec9",
+      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcmFkS2JEMFJPaG1JM1pKMER6Wm9FUWNCQU8yY1lYRlZ4QlRqWHY4UGV1eEFYNDFsQkJVaE9rd2ZZSlluRXlqNW5DSi1OUVc4NENFcWZOSnpvMV8zSlVnMnVoZk9OYXZPOXA5YVB5OVo3dngzZEUwRWpWZ3o0b3kyXw?oc=5",
+      "published": "2026-10-16T10:11",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -79,16 +194,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "ca5bfc57f7e4512217d4f3fcc8ec99e4c3faa234",
-      "title": "Fortepian przy Starostwie Powiatowym w Rybniku znów zniszczony. „Sprawcy skakali po instrumencie” (foto, wideo)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMEVtN0NwelkyeFJDNmFJRzhnY1ljTnhrV1gzRXE3b2gxREl3djJqamxsenFkMkRxd2xqRm8xaGZMMEE2RTFjcG5CZ1VncDh4aWVPcWJidUZ4VjRNYmNWZUpmQWtuRGpaYVBjQXMtelVmc25jOTRmN01vbDRjMElBWWhCZjAyYm9DLVBfbVh0bVBESldOWmxIWW1qQXNFZXJaRWJjbW5xSFczR3U5bGRqYjJLcUFvVmxjYjNjaG5Wa2QxeENDOFlROG40QWpobmZCenI1aUhMMVdfVUhVWjlzeHd6QjdhSWI0NEw3eTRJa2ZwdF9LOEE?oc=5",
-      "published": "2026-10-16T09:04",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "bf800f4fc6599f09551ee53ba287120759e64444",
       "title": "Ominął samochody i wjechał ciężarówką na przejazd na czerwonym. Wszystko widział policjant",
       "summary": "W piątek rano, 16 października, na ulicy Gliwickiej w Szymocicach kierowca ciężarówki ominął samochody stojące przed przejazdem kolejowym i wjechał na tory mimo czerwonego światła oraz opuszczonej z jednej strony rogatki. Niebezpieczny manewr zauważył policjant jadący do służby. 34-letni kierowca…",
@@ -139,6 +244,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "ca5bfc57f7e4512217d4f3fcc8ec99e4c3faa234",
+      "title": "Fortepian przy Starostwie Powiatowym w Rybniku znów zniszczony. „Sprawcy skakali po instrumencie” (foto, wideo)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMEVtN0NwelkyeFJDNmFJRzhnY1ljTnhrV1gzRXE3b2gxREl3djJqamxsenFkMkRxd2xqRm8xaGZMMEE2RTFjcG5CZ1VncDh4aWVPcWJidUZ4VjRNYmNWZUpmQWtuRGpaYVBjQXMtelVmc25jOTRmN01vbDRjMElBWWhCZjAyYm9DLVBfbVh0bVBESldOWmxIWW1qQXNFZXJaRWJjbW5xSFczR3U5bGRqYjJLcUFvVmxjYjNjaG5Wa2QxeENDOFlROG40QWpobmZCenI1aUhMMVdfVUhVWjlzeHd6QjdhSWI0NEw3eTRJa2ZwdF9LOEE?oc=5",
+      "published": "2026-10-16T08:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "d68b984e8d560548ae75818891e68869d7a7f14b",
       "title": "Schronisko dla Bezdomnych Zwierząt w Rybniku będzie zachęcać do adopcji psiaków. Jutro w Gotartowicach, Kłakuczino",
       "summary": "Kłakuczino czyli propozycja na sobotę, napij się kawy w towarzystwie psów z rybnickiego schroniska. W kawiarni przy lotnisku w Gotartowicach, akcja jutro (17.10), od 11.00 do 12.30.",
@@ -169,46 +284,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "3d6150b9946c8779c86835fee463b12a5081a13a",
-      "title": "Zamiast pilota od telewizora wybierają taniec. Tak bawią się raciborscy seniorzy [ZDJĘCIA]",
-      "summary": "Nie trzeba wielkiej okazji, żeby spotkać się przy wspólnym stole, porozmawiać, pośmiać się i potańczyć. Raciborscy emeryci z Koła Południe udowadniają, że jesień życia wcale nie musi być spokojna. Przeciwnie – ich kalendarz jest tak wypełniony, że niejeden młodszy mógłby im pozazdrościć.",
-      "link": "https://www.nowiny.pl/wiadomosci/251553-zamiast-pilota-od-telewizora-wybieraja-taniec-tak-bawia-sie-raciborscy-seniorzy-zdjecia.html",
-      "published": "2026-10-16T07:07",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "395fad0034de13f7d959b3ac456d4fb64c52efc4",
-      "title": "Jedno życie. Dwa światy. Ten sam dom. Rita Libera opowiada o swoim Raciborzu",
-      "summary": "Ulice zmieniały nazwy, sąsiedzi znikali, wojna rozrzucała rodziny po świecie, a Rita Libera do dziś mieszka w domu, w którym przyszła na świat w 1937 roku. W jej rodzinnej historii jak w soczewce odbijają się losy przedwojennego Raciborza, wojna, podziały i świat, w którym przez chwilę katolicy…",
-      "link": "https://historion.pl/nie-przegap/251492-jedno-zycie-dwa-swiaty-ten-sam-dom-rita-libera-opowiada-o-swoim-raciborzu.html",
-      "published": "2026-10-16T07:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "85bd7cbb263f58d3932f64a6ddb6bb3c943db044",
-      "title": "Firma KAFELEK. Pierwsza w okolicy!",
-      "summary": "Firma „KAFELEK” zajmuje się sprzedażą detaliczną płytek ceramicznych oraz wyposażeniem łazienek. W ofercie posiadamy wanny, kabiny natryskowe, meble łazienkowe, brodziki, lustra, grzejniki drabinkowe, armaturę łazienkową i kuchenną. W Kafelku znajdziecie zawsze szeroki wybór asortymentu, znane i…",
-      "link": "https://www.nowiny.pl/nie-przegap/251517-firma-kafelek-pierwsza-w-okolicy.html",
-      "published": "2026-10-16T07:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "96e7e2cc729a6f01a22c1ed68f35e3092b498581",
-      "title": "Kolej uczyniła Racibórz wielkim. Czy dziś potrafimy wyciągnąć z tego wnioski?",
-      "summary": "Wielu mieszkańców Raciborza z sentymentem wraca do minionych czasów wielkości Raciborza i Ziemi Raciborskiej. W XIX wieku, po kilkuset latach \"długiego trwania\", przemiany w mieście przyspieszyły niesamowicie. Jednym ze źródeł tego przyspieszenia był rozwój kolei i włączenie Raciborza w europejską…",
-      "link": "https://historion.pl/historia/102796-kolej-uczynila-raciborz-wielkim-czy-dzis-potrafimy-wyciagnac-z-tego-wnioski.html",
-      "published": "2026-10-16T06:30",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a6e85e96d20de33740b00ddb9aa8ba64f5743851",
       "title": "Szybka akcja policjantów z Boguszowic. 38-letni złodziej roweru zatrzymany",
       "summary": "",
@@ -216,16 +291,6 @@
       "published": "2026-10-16T06:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6587e461d7a52a8754e248c1d2b7e0de43322b4f",
-      "title": "Najpierw kolejka, potem alarm bombowy. Tak otwierano raciborski Mini-Mal",
-      "summary": "Przed wejściem tłoczyli się ludzie z wózkami, a w urzędowych gabinetach trwały ostatnie uzgodnienia. Otwarcie Mini-Mala miało być wielkim wydarzeniem w raciborskim handlu. Było. Tyle że pierwszy dzień zakupów przyniósł także emocje, których nikt nie zamawiał.",
-      "link": "https://historion.pl/historia/251490-najpierw-kolejka-potem-alarm-bombowy-tak-otwierano-raciborski-mini-mal.html",
-      "published": "2026-10-16T06:00",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -459,6 +524,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "eab1802d904dfb7f5536a59beec135dc2a07134c",
+      "title": "Popłyną po Zalewie Rybnickim… w gigantycznej dyni",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVMtMVZVTEJlanhGNUFhMkN0eG5JVDRxVHFCNV9jN3kxLUVvc0NEOUdfdkk1YW9IUjNlMW54eEFjQVRtendzeVZyMjA1b0d0MzVXdmotcGxvVG92NDEta1NmU2QyOXhOWF9jNnJoT213bU9pQTlaTmJoYzB1SXhXeFRtUWxOb0FjbXBzSEZjYWhZM0duU0o0TVV1TW1FVGRjT1NtTnJpZWdZN1FxSXQ4?oc=5",
+      "published": "2026-10-15T11:03",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "356e90e06a77b6349c833deb9016369677f5848c",
       "title": "Utrudnienia w Gaszowicach w związku z biegiem WARTKO. Będą zamknięte drogi",
       "summary": "Utrudnienia w ruchu na drogach w związku z biegiem WARTKO w Gaszowicach.",
@@ -515,16 +590,6 @@
       "link": "https://www.radio90.pl/strazacy-z-rybnika-znow-mieli-pelne-rece-roboty.html",
       "published": "2026-10-15T07:50",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "deb93a7bc920f8f115ee4ed021b3cfdcd6ab3d3b",
-      "title": "Popłyną po Zalewie Rybnickim… w gigantycznej dyni",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR3pJQU9KejZsYlhJb1VScUNZX2tJQUFCN0I2bU9VcmxJYlFOVkplRHU1QXEwQzZXRHpSM0x1YmlaSlpYODB3OTBEdnUyWTNIemxncU1RZkNfWkw2aC1oQ282Smt5a2VHWE9pTHlqd1FzUThtckk5eFl2bEVlV1RpV3BhcEkycG1EalpPNUQ3bURQT0lnY3phRlBuYzN1anNnZTZISDNibmQtcDIw?oc=5",
-      "published": "2026-10-15T07:30",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -629,6 +694,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "84c9e20dc110450c44e445101feeb735fc169840",
+      "title": "Szermierka: Laura Strzebinczyk wygrywa w Gliwicach. Medale dla Misiak, Niedobeckiej i Gruszki",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdnVINXlnTzVKZkZFMklrTE5FNjhDRnZaVUQ0c01wWmRTZ294djh5WHdGSkVxTlV6SkxBZzI3YXQ0R1hndHhpVWNZVW5GYmYxODJuVGl1RWRRbnVRYXZsVGlDX1paYXBHWGEwXzBlZXNvSm84S0R5YVpmWjZIQ3ZpOVVZS2RmZnE3enRyMG1xbFZGZlBGSnB4VzBLZ3dRd1Q3VFl6SGN2enltcDRWaWZFT0ZhOWNLYWRGQ2djd3NycF9scS0xS1htMGhibmlXLUtaQTBLQ192Xzk4eExVekNHN0tR?oc=5",
+      "published": "2026-10-14T19:20",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "c65ee00e65689fb13f5a28a82c4bf81fe8c36f3f",
       "title": "„Bomba kolorystyczna”. Będzie nowy mural w Rybniku",
       "summary": "Kolorowa bomba rozświetli Zebrzydowicką- w taki sposób Rybnik zapowiada nowy mural w mieście. W ramach projektu z Budżetu Obywatelskiego, malowidło przygotuje Ryszard Paurowski, autor wielu murali między innymi w Raciborzu.",
@@ -659,16 +734,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "41739526571f583d24f7d615226d83b651cf9abf",
-      "title": "Skok w przyszłość z Przedszkolem nr 39 w Rybniku. Nauczyciele na scenie",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSW14Um00SnJ3LTNXMWVpa2cyTEtWZThELWxEdzY1NUZDN1BiUHpUMHpFMHo4ZkFaemdZaHprOEdla093MjJoLUJKSi1CWUJNUzkydGxjNGJ3RmlEYWhUeldJcm80UFdJQmNXQklmYVFWdmhJNDNZTWJRTVRTbXVER09FRFVhYmlOVkFnYU9naEpZMTZBV3ZXMkNMbWI0WnZJVEhZRWlCWWdwSkRHVzZMaXJsVk1EUDhUSlRpbEFvTHRKVTQ?oc=5",
-      "published": "2026-10-14T13:06",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "66f2ebe7d6742fa0a96a2c3200decd0a595e24a4",
       "title": "Jak opowiadać i uczyć o Śląsku, gwarze i tradycjach?",
       "summary": "Trzeba wyjść ze szkolnych klas i pomóc odkrywać młodym ludziom naszą małą ojczyznę - mówi Maria Stachowicz-Polak koordynatorka Centrum Edukacji Regionalnej i dyrektor Szkoły Podstawowej nr 19 w Rybniku.",
@@ -679,31 +744,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "41bd4e21bde0a028377ae20a1a36fbf6587cbddc",
-      "title": "Skok w przyszłość z Przedszkolem nr 39 w Rybniku. Nauczyciele na scenie o rewolucyjnej podstawie programowej (foto, wideo)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMDBnU3dESHBXYmp4UUluUTU5cWhJYVlQdHJMOEJ3dnhWNUVDU29zY05DVlNodmJEN2hNY2N0VWRxVkU4Nzh3Q21QMEVfOTlveVlwM2tQMHZVanZ4RWUyckc3Z01aMHc2eEE0clFnWjlwaDdwa2MwT2JWU3Z4LW5uMzdlSFozV0o4SlZPeHNCZGxnRDZfTUVXSE1pN0dGYkU3Z3VsWWtYTUQ4RGdDUnBnY3VIVkZLUGgxalUxbHFrbjk3QlBRQmRoR1ZuM1RjajZVTFlKdThJRVV1cDdqNDkzQXNnQ2JuZldIb3Q5NVBvQmd4YW1EWlFQeUFhVi1TTktFRnNxZjcySQ?oc=5",
-      "published": "2026-10-14T13:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "3adabd170c70a79c400bb65793e19a5b302d8327",
       "title": "Przedstawiamy żużel od kuchni! Wycieczki na G72",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclIybzNZdU9na2dtS2ZmTXpGTUNrZXZDbFJKREYwWk51VHJvUWswNkRNeVdMMjhwN3hSRGdnNjdlNzdTYjRCcmhfMkI4NnZXblBLN082QTRQZE9zdXJmSVFyVUc4TVBIMzJsYXhaaXFBMGpvWXJYT01nbFlmVTJXYkdQRQ?oc=5",
       "published": "2026-10-14T12:11",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "86ce3cda6fb58d1ed5ae2ef1a6d4a353a2654a7a",
-      "title": "Dziurawe drogi przyspieszają zużycie amortyzatorów",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTE5nMUtsakZFZmJlQzJwUFY0X25yNlV4NVdEckVaam4zNC1RVjcxTmVveWxlUjV6QlhiMmFtUVBmcXBzVkxIWVlGNVFNMG5xQUtRZzZ0NWVEZ3BaY3VnUFhNNUZkWlJQOTNQRG5qaWtTSDczTXo4Y3U4T1BxeVNfZUZfWDRXS0lvV1VRdGdhUnZfeElfN0FnMnF5ZGhCQXZUSlJvemRqUlVtR2ha?oc=5",
-      "published": "2026-10-14T11:22",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -774,36 +819,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS2l5U2xDY19wb3psUVZMSHNMSHVyRmJwQUo0cVFkZlBtd1VJRzQ1R2I2MWFvVDU4UTBjazJ5eV9kYWV6VzlxbzJyVTJZaUpIZmtFaUwtZHFOb0I0VHlodHlvbU5IM0Q5N0k4ajlaZzlscjVrbHI2RHRhdGdMMjA2R2Q3NFpDYU82SktOVlVkZWhKV3dZbVV4cjB0azFNbTlsdUdoeng5M1RYajR4bkJWSnB6NXlwbDMxNlNfVXNJYnY3ZFgzT2NlSVpLcDlZSUt5TUJXdmU5bm1McmRaQ2dkSA?oc=5",
       "published": "2026-10-14T07:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "45af628ec5b6ed652932cb427d38616f522779c9",
-      "title": "Jak tablety przemysłowe zmieniają organizację pracy i wspierają cyfrowy rozwój przedsiębiorstw?",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOczhLa2Q1MVZVMzhILWNyWFVfWmljSFJxVkxEVXRBc0tuaW1tdUcwSk90WC0taldtWF9iSzQyUDFMNFNQSFBnQjNEd05CUHZxd2poc2hpbjZwXzdENy04NnphaWwzakpoWWN3dDdrLUZWUnpEcUdQbDJ1cGFWR2VBeUpiaDh1bmVldEJ3MkVkY3hLRHhpM254NUhNM3d0bm95eFI2dHpwcHVRXzVveGxROHc0c1ZaX09WajlEREROQ2NrUDh6TFpHTF9RbzdTc0phYzh2anM5T1FvYjljdTU0V2szVExJbnc?oc=5",
-      "published": "2026-10-14T07:26",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "fd6a8e4435c56024f3b96cd55dd3c35676e6a4af",
-      "title": "wiadomości, baza firm i ogłoszenia • Portal",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80SmtZdElkVmR4bHl1MklpMDFtTkQxSVdXS2VBZXg1SlNXaGstUVlKWXIwN3NCLVVqWXlhQ19RWXZqeEx2c0p3Y1FfZUtRanNpenVKR195RXkyRXZsRVA3NmtxRFgwMXhoZmdiZ29vQXpMd2JiQUpmSVBVdGw5Zw?oc=5",
-      "published": "2026-10-14T07:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "aad799fc04a92077f58ac1a74a17634dadb4f836",
-      "title": "Polowania zbiorowe w Rybniku i okolicy. Pięć kół łowieckich podało harmonogramy na sezon 2026/2027",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdGI5cU51QjRLb1RXMDZ1eXRZbXJvdF9xd2RlcjNZT0xzU2JmMTRCUERsRTgtU1VSWHBCTS10azhpUmp6T2JFWEt4RmM1WWIyeXlYcTNjc05ZYTlHY0NYM0JlT0haRkhxX1pZdkd5NEZUM2Y0cUVWd0hjSHNNTmRHWFFjd3VFOW5XQ1VqWWhxOVlkNmxCS1U3YnVIYzF0Q3dZWUREYXYtT2pyZDNwajRSdUxDS0tYOHpmYmt5UzlmUXFKYUR6T1B6Ukh5ak5IaW82QkNxYXBQV0FONGxrejdORDJoLUgybTRNLWVR?oc=5",
-      "published": "2026-10-14T07:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -894,16 +909,6 @@
       "summary": "Policja z Rybnika przygotowała dziś (13.10) spotkanie z dyrektorami szkół i przedszkoli z całego powiatu. Rozmawiano głównie o bezpieczeństwie dzieci i młodzieży.",
       "link": "https://www.radio90.pl/policja-w-rybniku-zorganizowala-spotkanie-dla-dyrektorow-szkol-poruszono-kwestie-bezpieczenstwa-uczniow-i-pracownikow.html",
       "published": "2026-10-13T12:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d322e15aecf510132fd12e5f6670c915be95fb91",
-      "title": "Rybnik: basen w Boguszowicach wyłączony z użytkowania. Z powodu… incydentu wymiotnego",
-      "summary": "Uwaga, zamknięta kryta pływalnia w Boguszowicach. Jak podał Miejski Ośrodek Sportu i Rekreacji w Rybniku, wczoraj (12.10) wyłączono pływalnię Akwarium.",
-      "link": "https://www.radio90.pl/rybnik-basen-w-boguszowicach-wylaczony-z-uzytkowania-z-powodu-incydentu-wymiotnego.html",
-      "published": "2026-10-13T11:25",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -1113,16 +1118,6 @@
       "title": "Zmienia się park przy Gliwickiej. Trwa renowacja",
       "summary": "Park im. św. Jana Sarkandra przy ul. Gliwickiej/Cegielnianej zmienia się krok po kroku. W ramach prowadzonej renowacji trwają obecnie prace przy ścieżkach, nawierzchni oraz instalacji elektrycznej i oświetleniu.",
       "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zmienia-sie-park-przy-gliwickiej-trwa-renowacja",
-      "published": "2026-09-24T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "2d2fe683cd1ef38c43049f2ef30c621aee2e3a2e",
-      "title": "Przyszłość parku Bukówka w rękach mieszkańców",
-      "summary": "29 września odbędą się konsultacje społeczne dotyczące przebudowy parku wraz z placem zabaw. Przyjdź porozmawiać z projektantami oraz przedstawicielami Zarządu Zieleni Miejskiej i wskaż potrzebne zmiany.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/przyszlosc-parku-bukowka-w-rekach-mieszkancow",
       "published": "2026-09-24T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
