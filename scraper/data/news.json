@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-10-16T16:39:13",
+  "generated_at": "2026-10-16T21:07:08",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "8b3a7495e1d1a4bcde43a97352cee37177634b43",
+      "title": "Strażacy z naszego regionu oddali hołd zmarłym kolegom. O godz. 18.00 zawyły syreny",
+      "summary": "W piątek, 16 października, o godz. 18.00 w wielu remizach i komendach straży pożarnej rozległy się syreny. Strażacy z wielu miejscowości regionu oddali hołd dwóm kolegom, którzy zginęli podczas gaszenia pożaru w Nisku na Podkarpaciu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251571-strazacy-z-naszego-regionu-oddali-hold-zmarlym-kolegom-o-godz-1800-zawyly-syreny.html",
+      "published": "2026-10-16T18:25",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "201299873f749d81b807dce01836d11a0e5196df",
+      "title": "Ostrog.net – ponad 23 lata internetu po raciborsku",
+      "summary": "Od pomysłu zapisanego na kartce papieru do rozbudowanej sieci światłowodowej. Historia ostrog.net to ponad dwie dekady rozwoju lokalnej firmy, ale również opowieść o tym, jak zmieniał się internet w Raciborzu. Marka, której nazwa pochodzi od dzielnicy Ostróg, pozostaje związana z miastem nie tylko…",
+      "link": "https://www.nowiny.pl/nie-przegap/251551-ostrognet-ponad-23-lata-internetu-po-raciborsku.html",
+      "published": "2026-10-16T17:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4fd6559c6995a05ed7d544ad035278a9198be0f5",
+      "title": "Trzydzieści lat razem. Wodzisławska Dziupla uczciła jubileusz festynem [ZDJĘCIA]",
+      "summary": "W piątek, 16 października, Wodzisławska Dziupla świętowała 30-lecie swojej działalności. Z tej okazji zorganizowano jubileuszowy festyn, który licznie zgromadził rodziny z dziećmi.",
+      "link": "https://www.nowiny.pl/wiadomosci/251570-trzydziesci-lat-razem-wodzislawska-dziupla-uczcila-jubileusz-festynem-zdjecia.html",
+      "published": "2026-10-16T16:35",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "636afef8ee13f4653c3267a01cb4896b226189bd",
       "title": "Morcinka ma przestać tonąć po ulewach. Prawie 29 mln zł z UE na walkę z podtopieniami w Rybniku",
@@ -51,6 +81,16 @@
       "published": "2026-10-16T15:00",
       "source": "nowiny.pl",
       "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b9e5e83a7203fd1b7f7ea6866ea1fc5ab5c1e0d0",
+      "title": "Sportowy weekend w Rybniku (17-18.10.2026)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWlaeHZvc3NJcmpwS0FyZjc2UXlFekQzSkZSZlVMMGFzOW5CcFdDUTF0UnZvWmhDdjVSRFMwWXpEWDJ0eFdjVHdNUy1Lcy1RM3pGai14WWItdHpqSFVJZGZkM2ZKYzNFcHZtODExTm5RcHJ3enRmYTA2TGNhNnlFUGJEOW9GSG5wNTdrS1k1aUJfNDBzYnlzTHZhd0d4b0E?oc=5",
+      "published": "2026-10-16T14:43",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -214,26 +254,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "a453acb9fbdf18fc3a54f2e0e678bb0ad7272e0b",
-      "title": "Miała pomóc policji złapać oszustów. Jastrzębianka straciła prawie 30 tys. zł",
-      "summary": "45-letnia Jastrzębianka uwierzyła mężczyznom podającym się za pracowników banku i policjanta. Przekonali ją, że jej oszczędności są zagrożone, a następnie namówili do udziału w rzekomej policyjnej prowokacji. Kobieta straciła ponad 8 tys. zł oszczędności i dodatkowo zaciągnęła kredyt na 20 tys. zł.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251556-miala-pomoc-policji-zlapac-oszustow-jastrzebianka-stracila-prawie-30-tys-zl.html",
-      "published": "2026-10-16T08:40",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a9fe8e1d98cc14ad54cf9f5cbd952d44483598c5",
-      "title": "Oszczędności, zatrudnienie i remonty. JSW KOKS odpowiada na pytania o kryzys",
-      "summary": "JSW KOKS przyznaje, że znajduje się w trudnej sytuacji finansowej i musi ograniczać koszty. Spółka przedstawiła nam założenia programu naprawczego, który ma być realizowany do 2035 roku. Nie odpowiedziała jednak jednoznacznie na pytanie, czy zagrożone są miejsca pracy i ciągłość produkcji w jej…",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251555-oszczednosci-zatrudnienie-i-remonty-jsw-koks-odpowiada-na-pytania-o-kryzys.html",
-      "published": "2026-10-16T08:27",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "b34ac4a050408251c1a97df6786a39fe540f4e54",
       "title": "Nadmiar wyobraźni czy zwykły egoizm? Strażnicy pokazują kolejnych „mistrzów” parkowania (foto)",
       "summary": "",
@@ -271,16 +291,6 @@
       "published": "2026-10-16T07:26",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "14b0c4529090013318e1fdd2a3d3c725faa74044",
-      "title": "Powiatowy Dzień Nauczyciela w Wodzisławiu Śląskim - wręczono nagrody dla dyrektorów i pedagogów [ZDJĘCIA]",
-      "summary": "",
-      "link": "https://www.nowiny.pl/wiadomosci/251554-powiatowy-dzien-nauczyciela-w-wodzislawiu-slaskim-wreczono-nagrody-dla-dyrektorow-i-pedagogow-zdjecia.html",
-      "published": "2026-10-16T07:26",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -500,16 +510,6 @@
       "link": "https://www.radio90.pl/volley-rybnik-przegral-pierwszy-mecz-w-sezonie.html",
       "published": "2026-10-15T12:30",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0f1dde5212e7d1af4bd99d8f4db78b6e7e3d7442",
-      "title": "Tata Indica, 1 właściciel, bardzo niski przebieg 1.4 2010r.",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc2ZSYWFyb252TnNPbkRZQ3JPWWs3cjVQV2ZiOTdRbGRCdnl4UzlsdEo0ekdxTTdoaTFxYkF4UVI1VXdkVUg1RGlDRkl5eDhYaFFRMTRodk8wWXVRdjZFUlVtX0ZSM25MTndrbmFuM0o5SWhQelhhbkV2aE40azhyQ0t5ODhCeVV0VWI1N1dlMkdIRlg5dERmNS1jbXBXajItZThRLUlGV1ZReEdHUDZBUEFya1g4Zw?oc=5",
-      "published": "2026-10-15T11:45",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -774,16 +774,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "e9b8589168bc9fa4beb66d8890d0195adacd01ba",
-      "title": "Ponad 20 lat przy szkolnej tablicy. Rozmowa z historykiem i anglistką na Dzień Nauczyciela (wideo)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcWJTMXNETUF2djk5c1dVOWlfbHQxZjRCaVhCcTE4eHdaWWZUTlExYzM3V29Hb20tQkpWZzd0MkE0OXFqbnVNNVFGMmNOcE0yUjJ6V2tLTzVTMWNjWHRLUWNrU2pibGpCSnFlZFhndmE5Wk11VXpfRGpmYUEtYkNKUmt0VUZXYlR4YlBVejZjdTBFTGFkVUZKUVlrd3BERFRUR1E2bURZLUdPeGxaVXFiV0VrU19LUU50RWoydV8xd1ZnMUZPQy1hZGNGYk9MeW44ZzJHbkFQczJ4Rk5ITE1ZWUxWWnVVNV9f?oc=5",
-      "published": "2026-10-14T09:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "9ab1dc9b458b874fc24665d27aa327c8194e2da2",
       "title": "Pierwszy dzień nauczyciela w nowej, szkolnej rzeczywistości",
       "summary": "Pierwszy dzień nauczyciela w nowej rzeczywistości - pisze do nas słuchaczka: nie mogłam kwiatów wnieść do szkoły, wychowawczyni odebrała ode mnie prezent dla samej siebie.",
@@ -819,6 +809,16 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS2l5U2xDY19wb3psUVZMSHNMSHVyRmJwQUo0cVFkZlBtd1VJRzQ1R2I2MWFvVDU4UTBjazJ5eV9kYWV6VzlxbzJyVTJZaUpIZmtFaUwtZHFOb0I0VHlodHlvbU5IM0Q5N0k4ajlaZzlscjVrbHI2RHRhdGdMMjA2R2Q3NFpDYU82SktOVlVkZWhKV3dZbVV4cjB0azFNbTlsdUdoeng5M1RYajR4bkJWSnB6NXlwbDMxNlNfVXNJYnY3ZFgzT2NlSVpLcDlZSUt5TUJXdmU5bm1McmRaQ2dkSA?oc=5",
       "published": "2026-10-14T07:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "aad799fc04a92077f58ac1a74a17634dadb4f836",
+      "title": "Polowania zbiorowe w Rybniku i okolicy. Pięć kół łowieckich podało harmonogramy na sezon 2026/2027",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdGI5cU51QjRLb1RXMDZ1eXRZbXJvdF9xd2RlcjNZT0xzU2JmMTRCUERsRTgtU1VSWHBCTS10azhpUmp6T2JFWEt4RmM1WWIyeXlYcTNjc05ZYTlHY0NYM0JlT0haRkhxX1pZdkd5NEZUM2Y0cUVWd0hjSHNNTmRHWFFjd3VFOW5XQ1VqWWhxOVlkNmxCS1U3YnVIYzF0Q3dZWUREYXYtT2pyZDNwajRSdUxDS0tYOHpmYmt5UzlmUXFKYUR6T1B6Ukh5ak5IaW82QkNxYXBQV0FONGxrejdORDJoLUgybTRNLWVR?oc=5",
+      "published": "2026-10-14T07:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
