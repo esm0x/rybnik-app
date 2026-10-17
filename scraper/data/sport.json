@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:41:17",
+  "generated_at": "2026-10-17T15:33:10",
   "count": 60,
   "failures": [],
   "teams": [
@@ -611,10 +611,10 @@
       "home": "Sparta Katowice",
       "away": "ROW 1964 Rybnik",
       "isHome": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 0,
       "scoreNote": null,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "stage": "REGULAR",
       "url": null
     },
@@ -627,10 +627,10 @@
       "home": "ROW Rybnik (k)",
       "away": "Wisła Skoczów (k)",
       "isHome": true,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 9,
+      "awayScore": 0,
       "scoreNote": null,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "stage": "REGULAR",
       "url": null
     },

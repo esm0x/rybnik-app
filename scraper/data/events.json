@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:39:48",
+  "generated_at": "2026-10-17T15:31:32",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,37 +7,15 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 134,
+  "count": 132,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-podroz-do-wnetrza-warsztaty-oddechowe-w-rybniku",
-      "title": "Podróż do wnętrza. Warsztaty oddechowe w Rybniku",
-      "category": "Warsztaty",
-      "start": "2026-10-17T09:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Ciało w napięciu, gonitwa myśli i emocje, na które trudno znaleźć przestrzeń — warsztaty „Podróż do wnętrza” w Rybniku poświęcone są świadomej pracy z oddechem i lepszemu kontaktowi ze sobą. Nie trzeba mieć wcześniejszego doświadczenia. Kiedy: sobota, 17 października 2026 r., godz. 9:00 Gdzie: Rybnik Centrum Cena: 250 zł, płatne przy zapisie Zapisy: telefonicznie pod numerem 509 139 031. Liczba miejsc jest ograniczona. Warsztaty organizuje Aurora Mentis Katarzyna Musiał. Podczas spotkania uczestnicy będą pracować ze świadomym oddechem, by zatrzymać się i uważniej przyjrzeć temu, co dzieje się w ciele i emocjach. Doświadczenie może pomóc w wyciszeniu, rozluźnieniu napięcia oraz spojrzeniu na siebie z innej perspektywy. Każdy przeżywa je indywidualnie — nie ma jednego właściwego sposobu ani celu, który trzeba osiągnąć.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/podroz-do-wnetrza-warsztaty-oddechowe-w-rybniku"
-    },
-    {
-      "id": "iryb-krajowy-trening-rodzinny-akademii-ochrony-ludnosci-i-obrony",
-      "title": "Krajowy Trening Rodzinny Akademii Ochrony Ludności i Obrony Cywilnej",
-      "category": "DlaDzieci",
-      "start": "2026-10-17T10:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Jak zachować się, gdy pojawi się zagrożenie? Mieszkańcy Rybnika będą mogli przećwiczyć rodzinne przygotowanie na sytuacje kryzysowe. Trening ma pomóc lepiej rozpoznawać alarmy i poznać zasady postępowania w bezpieczny, praktyczny sposób. Wydarzenie zaplanowano na 17 października 2026 roku , w godzinach 10:00–14:00 . Miejscem spotkania będzie Zespół Szkolno-Przedszkolny nr 6 przy ul. Małachowskiego 44 w Rybniku . Uczestnicy wezmą udział w ćwiczeniach związanych z reagowaniem na sytuacje zagrożenia. W programie przewidziano: Krajowy Trening Rodzinny Akademii Ochrony Ludności i Obrony Cywilnej organizują Miasto Rybnik oraz Komenda Miejska Państwowej Straży Pożarnej w Rybniku .",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/krajowy-trening-rodzinny-akademii-ochrony-ludnosci-i-obrony-cywilnej"
-    },
     {
       "id": "iryb-rybnik-arkadiusz-jakubik-z-spektaklem-romeo-i-julia-zyja",
       "title": "Rybnik: Arkadiusz Jakubik z spektaklem „Romeo i Julia żyją”",
       "category": "Spektakl",
       "start": "2026-10-17T17:00",
-      "end": "2026-10-17T18:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "W Rybniku szykuje się wieczór z dużą dawką emocji, muzyki i teatralnego pazura Arkadiusz Jakubik przywiezie swój autorski projekt „Romeo i Julia żyją” — opowieść o miłości, zdradzie, tęsknocie i tych wszystkich decyzjach, które potrafią wywrócić życie do góry nogami. To będzie coś więcej niż zwykły koncert, więc warto zapisać ten termin . 17 października 2026 r. (sobota), godz. 17:00–18:30 Teatr Ziemi Rybnickiej , Plac Teatralny im. Kazimierza Kutza 1, Rybnik W informacji o wydarzeniu nie podano ceny biletów ani szczegółów sprzedaży . Wejściówki i aktualną dostępność najlepiej sprawdzić bezpośrednio w Teatrze Ziemi Rybnickiej lub u organizatora wydarzenia. „Romeo i Julia żyją” to współczesna, muzyczno-teatralna historia inspirowana Szekspirem, ale przeniesiona daleko od Werony — do zwyczajnego życia pod Warszawą, do Piaseczna. Bohaterami są Jan i Krystyna Marzec , a ich relacja pokazana jest przez dziesięć autorskich utworów z płyty o tym samym tytule.",
       "sourceName": "iRybnik",
