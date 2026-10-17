@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T21:07:08",
+  "generated_at": "2026-10-17T04:24:01",
   "count": 120,
   "failures": [],
   "items": [
@@ -254,16 +254,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "b34ac4a050408251c1a97df6786a39fe540f4e54",
-      "title": "Nadmiar wyobraźni czy zwykły egoizm? Strażnicy pokazują kolejnych „mistrzów” parkowania (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaTZtLVE1X3FRRW1lT3VXUGItczlFckZINHpRRmlmTTFfZFlUdVpOV0cxcmhaN3dWNThpaXZpSkdRbUdlZzNubk5nUGVMckl6S3RQNDhrMzZtZzZ4aTJzTkM3ZVdtV1lfalV4TWxCNTBUd0ZoTzdxalpuN0pkQWRKSS1pSktaaHF4czhWT2VvdEw3Y2JSd09GQVRxR1dFQ2wwcm5OSzE4UjJFcHpRUzVkSE1QT25RV2xmTnpmQ1FKVndmU3NiQUg2cFV6T3lrOXVOeThGd3VyQ3huOGMxa3pvOFdYRQ?oc=5",
-      "published": "2026-10-16T08:24",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "ca5bfc57f7e4512217d4f3fcc8ec99e4c3faa234",
       "title": "Fortepian przy Starostwie Powiatowym w Rybniku znów zniszczony. „Sprawcy skakali po instrumencie” (foto, wideo)",
       "summary": "",
@@ -294,6 +284,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "4b9c4ce0e532d0a0c2f240c063ae3d6c2e5f4719",
+      "title": "Koniec poszukiwań pacjenta szpitala psychiatrycznego",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ01DUDdyUGhkZGlwS0FhYkdOZzFkdjFFUWdwM2RZTEtYcUxSa1RCSnlYMWpyWXktaUp4cnJPRHpROF9vOF9KbUhkQXlOZHBTLWxYUHhKM3kzMDBTS1FPSmhRR3lsQ1ZYVHF6THBMbENZZ3RRVW9rSnNpQ19IYVJNaGk3U3J1dDdGRm1ZYTBtMjNKem16SmhzQ21GWElROFowVGNsNVRtQUNNRUNlTC1N?oc=5",
+      "published": "2026-10-16T06:50",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "a6e85e96d20de33740b00ddb9aa8ba64f5743851",
       "title": "Szybka akcja policjantów z Boguszowic. 38-letni złodziej roweru zatrzymany",
       "summary": "",
@@ -309,16 +309,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdGt6UzNsSDU2bXplRTZfWnptcjE5VndKWnBMNTl1Vmo2YW1YWTM3UXNBd1ZneG91REtET1FJazZ5Njk0Mm5NanlIX1JNc05DVXNoM2U5bUJTNGppbzNWc2FqZXhuaHdtcHV4TzFfRDBpeG8yc2tLcDlOMUR2eVAxaWxCT2lkV3RXTmRkSEpPX2JfY2t4THp1TnR0aHExQkh2U09xODhiN3B6Tkw5NDRybw?oc=5",
       "published": "2026-10-16T05:53",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "24a83675778fe568f9387b437bdab8b5d5cde311",
-      "title": "Koniec poszukiwań pacjenta szpitala psychiatrycznego",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMzdPbVF0aHJTaGNnd09ZSEVJMW03OEJFcTIyT20xOFhvT0VFeGJhdWk4OVFlVHNXZlZ3V3hqVHp2bVhETTZtUDE4dVA3NlZ0SmRlRjIybXYxMDFqYjNCQ1JGS25yX0ppcXhqZ1cxRzF3dUhYbzRVZm9rZVlVVjhhX3kwdngxVDc1blBmUVItUlVsTTlBelduSDVOWEFFRTBDd2d6QXdBWlFpZ1JzUWFYckZ0TQ?oc=5",
-      "published": "2026-10-16T00:16",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -364,6 +354,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "311606c8268b959963382a5384fdc8366a9ba8f1",
+      "title": "Nadmiar wyobraźni czy zwykły egoizm? Strażnicy pokazują kolejnych „mistrzów” parkowania (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeS1XX0J3cWdmdW5aV21ESTVHRFhuamJFZ2w4cEw1bjF5SXk2NkNhWWx5ZlBDQlhxcVVyMVBJY2lsZnA5X3g2S0FyZ3BjOXk3WGpVQ2h1SGZhRFBqTjIzZFZUNEhRWVRvM2RNSU1YNU5vZWF4QUs1WU1xV1oxYTJNSGJha0ZsSW9kYkNoTWkzYnFRQXdseVVNS1dRaTh3M0xBVFdZWVZqTlYtMDZDT1hYMHlYTVVKU0U4cmtISXh3VmZ2QTVXLTdIUlExaFp0cm5oUnJ4b0tMam12cENORkpEdHBtYw?oc=5",
+      "published": "2026-10-15T22:13",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "861d64f70bdf9702bacba1f5b8abac345a723e4c",
       "title": "Własna marka odzieżowa bez własnego magazynu? Zacznij sprzedaż własnych produktów z Fabryką Koszulek i VibeCartel",
       "summary": "Masz pomysł na własną markę odzieżową, ale nie chcesz od razu inwestować w magazyn, kupować dużych ilości produktów i samodzielnie zajmować się realizacją każdego zamówienia? Dziś rozpoczęcie sprzedaży własnej kolekcji może być znacznie prostsze. Dzięki połączeniu produkcji odzieży, sklepu…",
@@ -384,42 +384,12 @@
       "priority": "NORMAL"
     },
     {
-      "id": "fd2e9578ee5e4bdaf3a353161f2ab62b954388bb",
-      "title": "RKJJS: podium w klasyfikacji drużynowej Jurajskiego Turnieju Ju-Jitsu",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRkg4UDlzUkpvOWMxUWIzSnNpM20xWGI5WENleEhzd1hIa0FBQnJrOWczbmpMa0wybHdCejFMU2xDUWpMMFo3bUxUZUcySzd1SXk1SVN3eVEyUzlxLTVhRUhRbEpVQVUzZ3FrRkM3NGxlLUVaTFFLMkFtenE1LW5Wc0xWejBnRFlxOFYyRzlsYms3cUJIb1hRYUxpWmtxcV9lSko1b1RrOWxSX2t2SzFtTkp6dHc5UmhtYlRLN2gwcDBKMnNJ?oc=5",
-      "published": "2026-10-15T19:02",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "e1f64cf22f914ee7874c9a6fd879e1e7a483fa30",
       "title": "Pijany kierowca uderzył w garaże w Rybniku. Samochód stanął w ogniu [ZDJĘCIA]",
       "summary": "Blisko dwa promile alkoholu, dożywotni zakaz prowadzenia pojazdów i uderzenie w garaże, po którym samochód stanął w ogniu. Do takiego zdarzenia doszło w rybnickich Boguszowicach.",
       "link": "https://www.radio90.pl/pijany-kierowca-uderzyl-w-garaze-w-rybniku-samochod-stanal-w-ogniu-zdjecia.html",
       "published": "2026-10-15T18:15",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "65e0258031aabaaf720599d4ef2c00047f21a5e7",
-      "title": "Żużel od kuchni dla najmłodszych. Wycieczki i edukacja na stadionie przy Gliwickiej",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUXM2WkpnMU9xLUY0TmFEX2g2MUE3bTNFVHRiWGpFRU02OUYzRGxIWER1RzhSVzE2aG8ybUpxZlpuQmM1dFhOYmIyN3RJYVVrWmJDbUJ2NEQyR1hqSGtoaWVFWjdmeU14ZHk0emtLdEdoRDVZOXFkbXpGSGdyekRPS2FBOGZ4eXBIQnIzMnEycXFnMk1WU01VTDY5QVd0T0Y2Z3o4OEl2SGgyVEdjOVdnX1BmR3dVOGFYZTI5X1BkMWpVUVl3VXlkZHE5UGdBUzVFX29ydjhhaw?oc=5",
-      "published": "2026-10-15T18:13",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "44f1fd9b0feff1740395159fdb7745857f3a1720",
-      "title": "Trzecie zwycięstwo MKKS-u. Po zaciętym meczu rybniccy koszykarze wygrywają z GTK II Gliwice",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMURDU3plN1BLNDVKLXpZQWhhRXd5anVDRXYxSk9vdE13T000NzBMbVhURlo0RHJWQ0xabEFneHB0amtyWEFKWEFtdlltUEk0ZXpzUEw4dTUzdlNlUDJjTVdHNjFWSVVCSUl0Z0w5T1BmUHVnLTJDMjE1Z2xNUS05cEtKVFRmc2pLUVJLQ294Vkl0MmpMdTRBYm01RWZGYXhDTXVpWE9pcGdfMnNKQVE5Ym03X0tER2tUbXJBMUF1Z0M0QUZadTR4ZXV3Zk5nWEp4cTBBdFFIUGdWU1ZMd05mNzFR?oc=5",
-      "published": "2026-10-15T17:57",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -724,16 +694,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "56c4e4ac3ba37cae543da1d688ebd5d962e69793",
-      "title": "Biegacze i kijkarze opanują ulice Gaszowic. Sprawdź zamknięte ulice i trasę biegu „WARTKO!”",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcl8wMkZqYl9EakJUQ0V0dWFwd1o1dGw4RUxjdktDbzVVc09WeVo1bXJLcTkxbS1CMjFXT1MzX18yZXN5ZjhZU1NsX0RqSVJNUEU3ZlQydkt3cEJaYkNoeEhkZm5XV1lJOTNoXzJzX0pGTXJfQldBRWxSYURXRk9wcm5icXBGSTNkNS1EX2toSU0tOXRWWmU0d1dhS3BlcExFTDJ2QkxrYmM3NE81OWF6TmxmVEtCekJoNnFhb3BFRWxzbTNNMnFrdERwSWJyQ080LXNJZEhWZ3ZTME92dWc?oc=5",
-      "published": "2026-10-14T15:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "ALERT"
-    },
-    {
       "id": "66f2ebe7d6742fa0a96a2c3200decd0a595e24a4",
       "title": "Jak opowiadać i uczyć o Śląsku, gwarze i tradycjach?",
       "summary": "Trzeba wyjść ze szkolnych klas i pomóc odkrywać młodym ludziom naszą małą ojczyznę - mówi Maria Stachowicz-Polak koordynatorka Centrum Edukacji Regionalnej i dyrektor Szkoły Podstawowej nr 19 w Rybniku.",
@@ -854,6 +814,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "0c30970dccfb30413c27ed578aeba9a47f706707",
+      "title": "Pożar garażu w Niedobczycach, strażacy w akcji na ul. Lotników (wideo)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPanJBZElWY0ZkcnYtcUxkYUMtZkl0S0Nvanl4aUNJVldGR25aYnR3RVdZQ29wd1NCdFVxeEVnSUlLUWp3UWlPcGVFbWQ5Wm1HamVEMWs4aDJEdmpsdEx4QmxtRzJJZjhIRDhRbVNKM19XbFgwbWQ2S0t6M2VwOXR2OTVHOGlRckIwaV9UeWtSNzFhNkdnWjEwenFyLXJsaWFnYnpRczJpMVJZUGpsVDh2R21wbldQMHBlVUY2Q0h5TGtuQQ?oc=5",
+      "published": "2026-10-14T05:25",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "1d41120a7ab9ce65cc7c3a052fa8c3153d405226",
       "title": "Bezpłatne konsultacje z mediatorami w Urban Labie",
       "summary": "Zapraszamy na bezpłatne spotkanie „MediujeMY!”, podczas którego będzie można porozmawiać z sędziami i mediatorami o polubownym rozwiązywaniu sporów.",
@@ -881,6 +851,36 @@
       "published": "2026-10-14T00:00",
       "source": "rybnik.eu",
       "category": "Inwestycje",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5fea8b959b8edf61f5d11f3abeb2eb07a82d7e21",
+      "title": "Sędzia Anna Maria Wesołowska na nowe otwarcie w Rybniku. WSBiNOZ inauguruje rok akademicki na kampusie (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONHhITm0zYlJDZ0RJYUtVTEFkNVBJZzB5VFkxSWRELU93Wl9Pd3JIdE1IZm03bDhvbmVOaFMyY2ZhOUszN0RjMFVzbk5YMV9QREFXakRWYmU2MEJHOWt4UDZxN2FJc1BoZWwwM3h0NlZYY3AtYXRjX2pNeDdZTHJXYmFNZUl4YXAzTXVZazk1b01DNXZINzFldWdLalktTDlxbFd2TzVKTG9pYy12QVdjU2l6aXdMbURsTDBnMFZTWTZUZnBic2Fob2cxdTBRWEFiMVphclUtdTV1Um12b2NjbWpvaG4wOF83ZFpsSll4RjVTMHlNbDJ4Zm1R?oc=5",
+      "published": "2026-10-13T21:01",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1bdd28437cd28eed7c4c70b71fb4f842e78e2e1e",
+      "title": "Trener INNPRO ROW-u Rybnik zabrał głos. Podsumowuje sezon 2026, jest też coś jeszcze",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXpfMnlodkNrdlU2REp3VVlEM3BHU2xEajdMck1vN1FwdHVBcnFtUFZoOEc3WUl4OXhEUklBd1B3TG9obHNDR0xtbEZzNC1Sb2thVTNtRzQ5dmRhZ2s3M2xDWktpdjlnR0dwb3pyTFZfb1pralAxMzc1VGlidDloYWNzQVc3OWtSQXlONmhqbTFvZHI4MHdwYkJmVXhSaldGd3gyZUNTVTJKOVNoQTU5bA?oc=5",
+      "published": "2026-10-13T20:10",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3c99cc71f969a71eea32ffe2d44a4870462f1445",
+      "title": "Rybnicki Feniks-Arete z 7 medalami Pucharu Świata Taekwon-Do ITF w Benidormie",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUmRJUHBBV1ZVSmdXZWswVU5KT0hJdi1KMFk3dTBydzhHSTZQUjlwTWZpY3hCWkZvaGVQQVROMEtTTVJObldHWXJIT2tQa0J6b2NiUFRFTjcydVpuVjVEUFJWYTVqOGZBYll5b3p1NjlFNmhGQ2Jsbmc1aWx6alpYNC1PX0RFd01BeGZMcXpEMFI1OV9BQXhKS1ZOSmxMbm5qNzFEVnZUbDdzaXRDanluTjc3a0ZvWmYtcXBsQVlvb1dRT2tMWkl2VDE4RldBRjVy?oc=5",
+      "published": "2026-10-13T18:56",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -932,16 +932,6 @@
       "source": "rybnik.eu",
       "category": "Sport",
       "priority": "NORMAL"
-    },
-    {
-      "id": "27d9f68f4aeed3f411505e18a72ec46d0f9c0743",
-      "title": "Brak prądu i wody w Rybniku oraz powiecie rybnickim. Sprawdź harmonogram wyłączeń",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONVRyTk5EV19ZSkZ5dnVwUUQwSGJ1U3o3cnhXU2JWNk4wQ3g5SGFOR1JncnpjT1I3ejYySjZ1ZEJMSmhGN1VWTk93NVYtRThhc3R2NHFzbGZtSWc3X0MwN2VlalV5Q2FiaG1VNjZ5MmdOMjlmOEpJd2RqVnZ1eEJJTlRhVjluY2szcXUxZ0w5eTBSUlZCQ1owTjZNdUVQaTJuWG95b1d5cEo0UFhGTENFQmJDODRkNV8wSzNzenFEVU9KbWFsdlFOLWx5YnM5ZHVRM21HZg?oc=5",
-      "published": "2026-10-12T15:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "ALERT"
     },
     {
       "id": "daa9648077394f72280ad37a8578e1caca808732",
@@ -1118,6 +1108,16 @@
       "title": "Zmienia się park przy Gliwickiej. Trwa renowacja",
       "summary": "Park im. św. Jana Sarkandra przy ul. Gliwickiej/Cegielnianej zmienia się krok po kroku. W ramach prowadzonej renowacji trwają obecnie prace przy ścieżkach, nawierzchni oraz instalacji elektrycznej i oświetleniu.",
       "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/zmienia-sie-park-przy-gliwickiej-trwa-renowacja",
+      "published": "2026-09-24T00:00",
+      "source": "rybnik.eu",
+      "category": "Komunikaty",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2d2fe683cd1ef38c43049f2ef30c621aee2e3a2e",
+      "title": "Przyszłość parku Bukówka w rękach mieszkańców",
+      "summary": "29 września odbędą się konsultacje społeczne dotyczące przebudowy parku wraz z placem zabaw. Przyjdź porozmawiać z projektantami oraz przedstawicielami Zarządu Zieleni Miejskiej i wskaż potrzebne zmiany.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/przyszlosc-parku-bukowka-w-rekach-mieszkancow",
       "published": "2026-09-24T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
