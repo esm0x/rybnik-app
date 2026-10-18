@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-10-17T20:36:25",
+  "generated_at": "2026-10-18T04:29:58",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "cfd84678036e98f9670089301bb65a93d352ca7e",
+      "title": "„Cieszę się, że można liczyć na Państwa pomoc”. Motocyklista podziękował policjantom",
+      "summary": "Pan Bartosz przewrócił się motocyklem po najechaniu na plamę oleju w Radlinie. Odniósł obrażenia, a jego pojazd został uszkodzony. Policjanci pomogli mu wyjaśnić, skąd olej znalazł się na drodze. Mężczyzna postanowił podziękować im za pomoc, szczególnie wyróżniając sierż. Kingę Hrapeć z…",
+      "link": "https://www.nowiny.pl/wiadomosci/251560-ciesze-sie-ze-mozna-liczyc-na-panstwa-pomoc-motocyklista-podziekowal-policjantom.html",
+      "published": "2026-10-18T04:12",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "741a72731c6808f5f647cdbeb14b1f90e415a9a7",
+      "title": "Angielski- korepetycje, konwersacje, kursy. Dojazd do domu/firmy",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcExpTnFDRzFZcVA1VkVYanVHWk90cG9aSFFWTVRBU3daNTF4THNSSXEtVTlpNXdjRjUzcFhsanAxc0U5RWJzVFJWekNHYUVWMF9idnM2eDNNcWtBS3l6aFE0ZlhGQzV4alA3WjdCU0Y4dkZCWlZFZUM3dzZVTldXQzFsUEgwVVg1Q3ptLWZUS0FHcG4wckJ6YnNhODBtNEd6QU85VkQ5X0VpMnlxX3IwQVFNSlJKSHFqNFE?oc=5",
+      "published": "2026-10-17T22:27",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c0c0574b7612a35b6a4bf37c7d56e8f06217d525",
+      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUER6RkJWTjBndzdBbEVkZ3VBU2ZQSE43aS1yWDlLc2FZUzdtRi1Vbzc2dGpiYUpmVkZZOUZ2NG5wQ0ozdDExTU1EbnVSSFFPeW1OXzVmZ1lrS1Rodm9mRklnLUdJVkNCc0VGQ0YyVmNTeWxCdlRqLXl2LWtDN0puTFN5R3ZJZDMzWl9RUmYzX0tCb1U?oc=5",
+      "published": "2026-10-17T22:06",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0b3e5dd80a82c9abcd106f28be539ac611c38884",
+      "title": "„WARTKO!” - biegacze i kijkarze opanują ulice Gaszowic",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaG1PeEU2WE1qRnFNSmxxbDJfRFdHdW1pcXJNenBDY3hpOEtQZ1BXTzVnOWlnMTJ4dm9ac2VLQmY0SEppWkpUTFJmRnNkeWw4Mi1hTERRbmFwdGpxMVJVSHlxbGJXOGoyQ3FaMm9scHR5Q2NNWTE2Sm1VNFVZZGFEM2ZKb3BsY05UTkVBM3dMUERjb1BmS1hmQnRrM29PTEFfY0Vv?oc=5",
+      "published": "2026-10-17T21:03",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6addb9925509ee7144c95ddeaa8c42b16e3a98af",
+      "title": "Z Jastrzębia na pustynię nie jest aż tak daleko [ZDJĘCIA]",
+      "summary": "Sahara? Spokojnie, nie trzeba jechać aż tak daleko. Z Jastrzębia-Zdroju do Pustyni Błędowskiej można dotrzeć samochodem w około półtorej godziny. Kilkadziesiąt kilometrów wystarczy, żeby znaleźć się w miejscu, którego zupełnie nie spodziewamy się w tej części Polski. Jest tam trasa rowerowa, która…",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251577-z-jastrzebia-na-pustynie-nie-jest-az-tak-daleko-zdjecia.html",
+      "published": "2026-10-17T21:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "a6a558c5d379fb6af583a5f59e8acdb682a645dd",
       "title": "Zwycięstwo po dramatycznej końcówce. MKKS Rybnik pokonuje Resovię Rzeszów!",
@@ -234,16 +284,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "4d40cfcdb08f16780430cccc5d1f0a1c34f215fb",
-      "title": "Uważaj na fake news i deepfake’i w sieci. Nie udostępniaj treści, zanim jej nie sprawdzisz!",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc1dJdzNMWHY3d1djc2pvd1Q5dVR3ZUZXTnh3Yklzc1NBUlZpSmRPTkJmeHJqWnY2aV93VVpjdU9sY0FxdFFSdmhJa3lBb0QzTzJUbXRjTENkMFFfTnplaTFBb1cydFhESlM3bXlOdThMME16RGV6cGFHYWJvaDBRXzczWFFqTE1yanJqQXZjckRFUjEyYUJRVnlTR05qME84VmJhbC1RMkdzRDNxYTREcGVMa0lWc3VsdTQtWnltdUJHRUI1b1ZZOC1ib0R5WWRGVFRPZFRJS2hvZFJHZFMw?oc=5",
-      "published": "2026-10-17T07:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "5104c0fb66540422b604c9db72d70920c0d69008",
       "title": "Tort w kształcie piłki – wyjątkowa niespodzianka dla kibica od cukierni K.Zieliński",
       "summary": "Tort w kształcie piłki to pomysł na słodką niespodziankę dla fana futbolu. Pasuje na urodziny, komunię czy zakończenie sezonu, a podczas wspólnego oglądania meczu może być poczęstunkiem dla kibiców. Udekorowany barwami ulubionego klubu, imieniem lub numerem z koszulki nawiązuje do pasji osoby, dla…",
@@ -251,6 +291,16 @@
       "published": "2026-10-17T07:00",
       "source": "nowiny.pl",
       "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4d40cfcdb08f16780430cccc5d1f0a1c34f215fb",
+      "title": "Uważaj na fake news i deepfake’i w sieci. Nie udostępniaj treści, zanim jej nie sprawdzisz!",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc1dJdzNMWHY3d1djc2pvd1Q5dVR3ZUZXTnh3Yklzc1NBUlZpSmRPTkJmeHJqWnY2aV93VVpjdU9sY0FxdFFSdmhJa3lBb0QzTzJUbXRjTENkMFFfTnplaTFBb1cydFhESlM3bXlOdThMME16RGV6cGFHYWJvaDBRXzczWFFqTE1yanJqQXZjckRFUjEyYUJRVnlTR05qME84VmJhbC1RMkdzRDNxYTREcGVMa0lWc3VsdTQtWnltdUJHRUI1b1ZZOC1ib0R5WWRGVFRPZFRJS2hvZFJHZFMw?oc=5",
+      "published": "2026-10-17T07:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -304,16 +354,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "4fd6559c6995a05ed7d544ad035278a9198be0f5",
-      "title": "Trzydzieści lat razem. Wodzisławska Dziupla uczciła jubileusz festynem [ZDJĘCIA]",
-      "summary": "W piątek, 16 października, Wodzisławska Dziupla świętowała 30-lecie swojej działalności. Z tej okazji zorganizowano jubileuszowy festyn, który licznie zgromadził rodziny z dziećmi.",
-      "link": "https://www.nowiny.pl/wiadomosci/251570-trzydziesci-lat-razem-wodzislawska-dziupla-uczcila-jubileusz-festynem-zdjecia.html",
-      "published": "2026-10-16T16:35",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "636afef8ee13f4653c3267a01cb4896b226189bd",
       "title": "Morcinka ma przestać tonąć po ulewach. Prawie 29 mln zł z UE na walkę z podtopieniami w Rybniku",
       "summary": "",
@@ -321,16 +361,6 @@
       "published": "2026-10-16T16:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b4a6816bdb754ff94f914482c756fec766b91212",
-      "title": "Książka do kawy: „Obłęd w Breslau”. Jak Śląsk stał się laboratorium teorii rasowych",
-      "summary": "12 listopada ukaże się nowa książka Tomasza Bonka. Reporter prowadzi czytelnika ulicami przedwojennego Wrocławia i pokazuje, jak praca antropologów, lekarzy i urzędników dała „naukowe” uzasadnienie przymusowym sterylizacjom, mordowaniu pacjentów szpitali psychiatrycznych i Zagładzie.",
-      "link": "https://www.nowiny.pl/wiadomosci/251500-ksiazka-do-kawy-obled-w-breslau-jak-slask-stal-sie-laboratorium-teorii-rasowych.html",
-      "published": "2026-10-16T16:00",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -544,6 +574,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "65e0258031aabaaf720599d4ef2c00047f21a5e7",
+      "title": "Żużel od kuchni dla najmłodszych. Wycieczki i edukacja na stadionie przy Gliwickiej",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUXM2WkpnMU9xLUY0TmFEX2g2MUE3bTNFVHRiWGpFRU02OUYzRGxIWER1RzhSVzE2aG8ybUpxZlpuQmM1dFhOYmIyN3RJYVVrWmJDbUJ2NEQyR1hqSGtoaWVFWjdmeU14ZHk0emtLdEdoRDVZOXFkbXpGSGdyekRPS2FBOGZ4eXBIQnIzMnEycXFnMk1WU01VTDY5QVd0T0Y2Z3o4OEl2SGgyVEdjOVdnX1BmR3dVOGFYZTI5X1BkMWpVUVl3VXlkZHE5UGdBUzVFX29ydjhhaw?oc=5",
+      "published": "2026-10-15T18:13",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "462ce8d5e47bae1284bfe697ddaa2f41196f3afc",
       "title": "Policjanci z Rybnika odzyskali skradziony rower",
       "summary": "Jest sprawca, jest odzyskany rower. Mowa o złodzieju, który ukradł pojazd z terenu szkoły przy ulicy Wodzisławskiej w Rybniku.",
@@ -704,6 +744,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "c8936c0738d665cb12c60c7a2f0874a549e44211",
+      "title": "Gigantyczna awaria czy planowana przerwa? Ważne rejestry sądowe zostaną wyłączone",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNDBpZ285ck92Y2tMQjRkOUw1MVVTUzBMQUdEWEhDMFJ6LVNoQlpHckdWWVdzQ2k3SjVPMExESlNOWktyX3lEazZOMmFFeWJ3QjBjeml2TWQwOU5TZ0lETEg2Unk0VkZMZjZsUTEwaWJBTDJ0QS1XM0hlSlFoQ3dLYU9jakk3VkV2RDh4bFo4eTdBVTRPc3ktZHhsUzdkVEpkU2tkM0JWVnB6bE1qSnBSckVVOWEtWGhLRDcxMG9LT2JmRGpJNU53S2sya04zRHk5QmRteQ?oc=5",
+      "published": "2026-10-15T06:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "95010368676ca6cc7ac4ad1fb10de45a3b7a5d8c",
       "title": "Konkurs dziennikarski w ramach Rybnickich Dni Kariery. Nagrodą warsztaty w Radiu 90",
       "summary": "Konkurs dziennikarski „Za każdym zawodem stoi człowiek” w ramach Rybnickich Dni Kariery. Przygotował go Powiatowy Urząd Pracy w Rybniku dla uczniów szkół ponadpodstawowych.",
@@ -754,16 +804,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "0b3e5dd80a82c9abcd106f28be539ac611c38884",
-      "title": "„WARTKO!” - biegacze i kijkarze opanują ulice Gaszowic",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaG1PeEU2WE1qRnFNSmxxbDJfRFdHdW1pcXJNenBDY3hpOEtQZ1BXTzVnOWlnMTJ4dm9ac2VLQmY0SEppWkpUTFJmRnNkeWw4Mi1hTERRbmFwdGpxMVJVSHlxbGJXOGoyQ3FaMm9scHR5Q2NNWTE2Sm1VNFVZZGFEM2ZKb3BsY05UTkVBM3dMUERjb1BmS1hmQnRrM29PTEFfY0Vv?oc=5",
-      "published": "2026-10-14T22:03",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a03b917a9c24eccd49d951a4a63d1d38236fbad8",
       "title": "Program „Rehabilitacja 25 plus” w Wodzisławiu Śląskim: kontynuacja terapii i integracji społecznej",
       "summary": "1 września 2026 roku w Zespole Placówek Szkolno-Wychowawczo-Rewalidacyjnych w Wodzisławiu Śląskim wystartowała dziewiąta edycja programu „Rehabilitacja 25 plus”. Dzięki finansowaniu ze środków PFRON, 34 absolwentów szkół przysposabiających do pracy z Powiatu Wodzisławskiego ma możliwość…",
@@ -784,11 +824,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "84c9e20dc110450c44e445101feeb735fc169840",
-      "title": "Szermierka: Laura Strzebinczyk wygrywa w Gliwicach. Medale dla Misiak, Niedobeckiej i Gruszki",
+      "id": "2ec5b785064a7efe53eb47b3c314b719dc931fc0",
+      "title": "Padel: ruszyła 5. edycja Ligi Nox Platinum Americano",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdnVINXlnTzVKZkZFMklrTE5FNjhDRnZaVUQ0c01wWmRTZ294djh5WHdGSkVxTlV6SkxBZzI3YXQ0R1hndHhpVWNZVW5GYmYxODJuVGl1RWRRbnVRYXZsVGlDX1paYXBHWGEwXzBlZXNvSm84S0R5YVpmWjZIQ3ZpOVVZS2RmZnE3enRyMG1xbFZGZlBGSnB4VzBLZ3dRd1Q3VFl6SGN2enltcDRWaWZFT0ZhOWNLYWRGQ2djd3NycF9scS0xS1htMGhibmlXLUtaQTBLQ192Xzk4eExVekNHN0tR?oc=5",
-      "published": "2026-10-14T19:20",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHVXaGdmcGstaUFRYi1JU2h3N1BaU3ZzSjlRem5sQ0JKckJSVENIbFc1QjdtQklxOWM4OU44WXZ2SXZOM1k2MnRBVW5RMlY5eXdkb3MwRnlCNTExRzRIRXFidTdOSUFpeldKZkhnTDYxdGN4VWlabFJEbzFQNkNqOVNjQkszODh5NDlWM0dLNTg1MWZxaVJySXZUaHpWVDJPZkh5NE5DVGo?oc=5",
+      "published": "2026-10-14T20:52",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -824,26 +864,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "3adabd170c70a79c400bb65793e19a5b302d8327",
-      "title": "Przedstawiamy żużel od kuchni! Wycieczki na G72",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclIybzNZdU9na2dtS2ZmTXpGTUNrZXZDbFJKREYwWk51VHJvUWswNkRNeVdMMjhwN3hSRGdnNjdlNzdTYjRCcmhfMkI4NnZXblBLN082QTRQZE9zdXJmSVFyVUc4TVBIMzJsYXhaaXFBMGpvWXJYT01nbFlmVTJXYkdQRQ?oc=5",
-      "published": "2026-10-14T12:11",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e9b8589168bc9fa4beb66d8890d0195adacd01ba",
-      "title": "Ponad 20 lat przy szkolnej tablicy. Rozmowa z historykiem i anglistką na Dzień Nauczyciela (wideo)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcWJTMXNETUF2djk5c1dVOWlfbHQxZjRCaVhCcTE4eHdaWWZUTlExYzM3V29Hb20tQkpWZzd0MkE0OXFqbnVNNVFGMmNOcE0yUjJ6V2tLTzVTMWNjWHRLUWNrU2pibGpCSnFlZFhndmE5Wk11VXpfRGpmYUEtYkNKUmt0VUZXYlR4YlBVejZjdTBFTGFkVUZKUVlrd3BERFRUR1E2bURZLUdPeGxaVXFiV0VrU19LUU50RWoydV8xd1ZnMUZPQy1hZGNGYk9MeW44ZzJHbkFQczJ4Rk5ITE1ZWUxWWnVVNV9f?oc=5",
-      "published": "2026-10-14T09:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "9ab1dc9b458b874fc24665d27aa327c8194e2da2",
       "title": "Pierwszy dzień nauczyciela w nowej, szkolnej rzeczywistości",
       "summary": "Pierwszy dzień nauczyciela w nowej rzeczywistości - pisze do nas słuchaczka: nie mogłam kwiatów wnieść do szkoły, wychowawczyni odebrała ode mnie prezent dla samej siebie.",
@@ -862,26 +882,6 @@
       "source": "IMGW",
       "category": "Ostrzeżenia",
       "priority": "ALERT"
-    },
-    {
-      "id": "31b12e4b3616e2e99e8abd6ac3c254119f51818e",
-      "title": "Potrącenie rowerzysty na rondzie w Rybniku. 18-letnia kierująca nie ustąpiła pierwszeństwa",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS2l5U2xDY19wb3psUVZMSHNMSHVyRmJwQUo0cVFkZlBtd1VJRzQ1R2I2MWFvVDU4UTBjazJ5eV9kYWV6VzlxbzJyVTJZaUpIZmtFaUwtZHFOb0I0VHlodHlvbU5IM0Q5N0k4ajlaZzlscjVrbHI2RHRhdGdMMjA2R2Q3NFpDYU82SktOVlVkZWhKV3dZbVV4cjB0azFNbTlsdUdoeng5M1RYajR4bkJWSnB6NXlwbDMxNlNfVXNJYnY3ZFgzT2NlSVpLcDlZSUt5TUJXdmU5bm1McmRaQ2dkSA?oc=5",
-      "published": "2026-10-14T07:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "fd6a8e4435c56024f3b96cd55dd3c35676e6a4af",
-      "title": "wiadomości, baza firm i ogłoszenia • Portal",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80SmtZdElkVmR4bHl1MklpMDFtTkQxSVdXS2VBZXg1SlNXaGstUVlKWXIwN3NCLVVqWXlhQ19RWXZqeEx2c0p3Y1FfZUtRanNpenVKR195RXkyRXZsRVA3NmtxRFgwMXhoZmdiZ29vQXpMd2JiQUpmSVBVdGw5Zw?oc=5",
-      "published": "2026-10-14T07:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
     },
     {
       "id": "1d41120a7ab9ce65cc7c3a052fa8c3153d405226",
