@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-10-18T11:02:57",
+  "generated_at": "2026-10-18T15:52:21",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "aa85ceb32393381f39f9726a522b7c5df31c4883",
+      "title": "Wojciechowicz odpowiedział Ficie, dlaczego remont rynku był zasadny właśnie teraz",
+      "summary": "Radny Michał Fita spytał prezydenta we wrześniu o zasadność przebudowy raciborskiego rynku w sytuacji, kiedy Miasto zaciągnęło pożyczkę i jego zadłużenie sięga 105 mln zł. Po trzech tygodniach uzyskał odpowiedź Jacka Wojciechowicza. Ten przekazał radnemu m.in., że zrealizował to, czego oczekiwała…",
+      "link": "https://www.nowiny.pl/wiadomosci/251582-wojciechowicz-odpowiedzial-ficie-dlaczego-remont-rynku-byl-zasadny-wlasnie-teraz.html",
+      "published": "2026-10-18T15:35",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "994ba15c66f152a4f7e18db6751f680e4c45cecc",
+      "title": "Kiedy szpital założy klimatyzację w salach chorych? Radna zwraca uwagę na warunki pobytu pacjentów",
+      "summary": "Małgorzata Paletta zapytała starostę i dyrekcję lecznicy o montaż klimatyzacji w Szpitalu Rejonowym im. dr. Józefa Rostka w Raciborzu. Zależy jej na poprawie komfortu termicznego pacjentów jak i lepszych warunkach pracy personelu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251581-kiedy-szpital-zalozy-klimatyzacje-w-salach-chorych-radna-zwraca-uwage-na-warunki-pobytu-pacjentow.html",
+      "published": "2026-10-18T15:15",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2eeffb3da67bd5a7d9cf4de460cf13cc50f388fd",
+      "title": "Nowoczesna gospodarka zaczyna się od wydobycia. Posłanka Lenartowicz o przyszłości sektora wydobywczego",
+      "summary": "Posłanka Gabriela Lenartowicz wzięła udział jako uczestnik jednego z paneli dyskusyjnych wydarzenia Future – Mining Forum & Expo, które stało się centrum międzynarodowego dialogu o przyszłości sektora wydobywczego, bezpieczeństwie surowcowym i nowoczesnym przemyśle. To nowa formuła spotkań w tym…",
+      "link": "https://www.nowiny.pl/wiadomosci/251580-nowoczesna-gospodarka-zaczyna-sie-od-wydobycia-poslanka-lenartowicz-o-przyszlosci-sektora-wydobywczego.html",
+      "published": "2026-10-18T15:11",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5da98dc67e73f276714ec8d5f4da29a54fc3dd68",
+      "title": "Remonty w szpitalu w Rybniku. „Pracujemy, aby nasz szpital był miejscem dostępnym dla każdego pacjenta”",
+      "summary": "Do ich potrzeb dostosowane zostały dwie z łazienek, znajdujące się w pawilonie poradni specjalistycznych. Łatwiej ma być też poruszać im się po parkingu, z którego zniknęły bariery architektoniczne. W rybnickim szpitalu przeprowadzone zostały remonty z myślą o potrzebach osób z…",
+      "link": "https://www.radio90.pl/remonty-w-szpitalu-w-rybniku-pracujemy-aby-nasz-szpital-byl-miejscem-dostepnym-dla-kazdego-pacjenta.html",
+      "published": "2026-10-18T14:50",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "be24fdf12513bf756d2e371045e9f06c84ad0355",
+      "title": "Bieg WARTKO bez Gaszowice za nami. 200 śmiałków na trasie [WIDEO, ZDJĘCIA]",
+      "summary": "Za nami WARTKO bez Gaszowice, bieg na 10 kilometrów oraz marsz nordic walking. Na starcie samego biegu stanęło 200 uczestników, wszyscy podkreślali, że trasa była wymagająca. Wydarzenie odbywało się pod patronatem Radia 90.",
+      "link": "https://www.radio90.pl/bieg-wartko-bez-gaszowice-za-nami-200-smialkow-na-trasie-zdjecia.html",
+      "published": "2026-10-18T13:30",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "795b4dbc6cc5f580560599fcc354e02030af141c",
+      "title": "Było co oglądać! Zlot Rzemieślników w Pietrowicach Wielkich [ZDJĘCIA]",
+      "summary": "Stacja Kultura w Pietrowicach Wielkich stała się miejscem spotkania osób, które łączy pasja do tworzenia i zamiłowanie do rękodzieła. Zlot Rzemieślników był okazją do zaprezentowania własnych prac, poznania lokalnych twórców oraz odkrycia bogactwa pomysłów, które powstają dzięki ich kreatywności i…",
+      "link": "https://www.nowiny.pl/wiadomosci/251579-bylo-co-ogladac-zlot-rzemieslnikow-w-pietrowicach-wielkich-zdjecia.html",
+      "published": "2026-10-18T13:28",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "235a9385cde943090c8dbd61005525492f8f027d",
+      "title": "Biegacze i kijkarze opanowali Gaszowice. Zobacz zdjęcia z Wartko bez Gaszowice!",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSm1wT052OV9xai1ZSTU3T3ljQjRzVzhBZzJGaEdEdTdtRmhHaEhzM3FIX2NIZ3g5cXBYM3N6WGNHRFIwakNDWkY3Z2ZxcGt6aHRzcXg1dHNRZ2lOV0x2cFFTcTdkQVhJQ28ySGc5N09jeUltNTBWenhwTnJyMDQ2Mmlpc29NVkFRbHJWWjRkV0dVVEh4U1UtMk8tY0pwV1REWDhnMVlURWlSWklTZzVhd19Sem05LTNRRzNyalctTVpJUHE2UzV1b2pfQmw?oc=5",
+      "published": "2026-10-18T12:56",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "fa71bb4ac84ab6ff651f78d127c23d5c5c043767",
+      "title": "Ponad tysiąc zwierząt i niezwykłe okazy. Co działo się w Pietrowicach Wielkich? [ZDJĘCIA]",
+      "summary": "Centrum Wystawiennicze w Pietrowicach Wielkich ponownie stało się miejscem spotkania hodowców i miłośników zwierząt. W dniach 17–18 października odbyła się tam Regionalna Wystawa Gołębi Rasowych, Drobiu, Inwentarza Drobnego i Królików. Odwiedzający mogli przyjrzeć się wielu rasom zwierząt oraz…",
+      "link": "https://agronowiny.pl/wiadomosci/251578-ponad-tysiac-zwierzat-i-niezwykle-okazy-co-dzialo-sie-w-pietrowicach-wielkich-zdjecia.html",
+      "published": "2026-10-18T12:55",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "20235b73fd520453496c66c1bd8284c1694deb52",
+      "title": "Wszystkiego Najlepszego, Mistrzu!",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtR3J2WDFVR212OXl1NDJ0V19HeWNtOUVpN0c1SFpiM1F2dHZ4T2xPTnBvMXdMeFZjR2NHcjVYN294UkllcFpWS2xUdTdTUTgyRFZsaktsQzgyMWlNSk01M1ZscFRCSGpjZEJKZ1hNRQ?oc=5",
+      "published": "2026-10-18T12:15",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9d4ab21a4c5299fcb4cf9eb37629dd841a9d26b0",
+      "title": "Ścianki balonowe od 250 zł-Rybnik tel.881168861",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdlNJVlRROW1qTmhvaUdfM2RhWGNHYjZKMHlibk9LclNEWDVxQzF4VUg3X21kV3dfRURJLUdnYVAwQUtDeDNCdGVvSEFJWG56TzZUUGNtNUVRdG1tSTdUekVpQm1YZEZfRFE2UkpvMzlTRXdWT1l5Z2J0Nk5BM09UUVBnQThnajVEbzdWdDBKUjhmS0hmVkZiekppb0hTV3A2OHByN3pGellHZw?oc=5",
+      "published": "2026-10-18T11:12",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "196ffe203eda4aa01217d1dc44107959dc72f9a8",
+      "title": "Balony z helem- hel do balonów tel.883644900",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUllNR2IwTy1zUWVIQlFDQmpQNzRyWVBacWNEMzlHbDVVRGUxVDRqWXJETlZ0b2VweWNFU0pYdUxhbktvcm9CM0pFZmhRTnNnSi1WekNRYlJUR09jN3lRblE2QzdEb3dINVk5Sk10akJKVEFReXUwTUpSdjRVdzdlVFNSRnVOaTdjRlBGcGdjS0JYNHNidkt6NG1LVFE4TndUN0EyZg?oc=5",
+      "published": "2026-10-18T11:12",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "247896b9fc74d9b00e1e0ad98599252c6398792c",
       "title": "TS Volley Rybnik przegrywa po tie-breaku z Hutnikiem Kraków",
@@ -110,6 +220,16 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUER6RkJWTjBndzdBbEVkZ3VBU2ZQSE43aS1yWDlLc2FZUzdtRi1Vbzc2dGpiYUpmVkZZOUZ2NG5wQ0ozdDExTU1EbnVSSFFPeW1OXzVmZ1lrS1Rodm9mRklnLUdJVkNCc0VGQ0YyVmNTeWxCdlRqLXl2LWtDN0puTFN5R3ZJZDMzWl9RUmYzX0tCb1U?oc=5",
       "published": "2026-10-17T22:06",
       "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "861d64f70bdf9702bacba1f5b8abac345a723e4c",
+      "title": "Własna marka odzieżowa bez własnego magazynu? Zacznij sprzedaż własnych produktów z Fabryką Koszulek i VibeCartel",
+      "summary": "Masz pomysł na własną markę odzieżową, ale nie chcesz od razu inwestować w magazyn, kupować dużych ilości produktów i samodzielnie zajmować się realizacją każdego zamówienia? Dziś rozpoczęcie sprzedaży własnej kolekcji może być znacznie prostsze. Dzięki połączeniu produkcji odzieży, sklepu…",
+      "link": "https://www.radio90.pl/wlasna-marka-odziezowa-bez-wlasnego-magazynu-zacznij-sprzedaz-wlasnych-produktow-z-fabryka-koszulek-i-vibecartel.html",
+      "published": "2026-10-17T22:05",
+      "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -244,16 +364,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "91ff77a933b94d0b8f6d7afbf964a394915ec108",
-      "title": "Motocyklowy finał sezonu z pomocą dla strażaków. OSP otrzymały sprzęt ratowniczy [ZDJĘCIA]",
-      "summary": "Ryk silników, koncerty, pokazy motocyklowego stuntu i konkursy z nagrodami – tak wyglądało Jastrzębskie Zakończenie Sezonu Motocyklowego, które odbyło się 17 października na Jarze Południowym w Jastrzębiu-Zdroju.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251572-motocyklowy-final-sezonu-z-pomoca-dla-strazakow-osp-otrzymaly-sprzet-ratowniczy-zdjecia.html",
-      "published": "2026-10-17T15:43",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "0e2bd30b8988b352d35fabc76ad5b7fc1e4d5b76",
       "title": "Śmiertelny wypadek w Rybniku. Na ulicy Karłowicza rozbił się motocykl. Zginęła 37-letnia kobieta",
       "summary": "Na ulicy Karłowicza w Rybniku doszło do śmiertelnego wypadku. Jak informuje rybnicka straż pożarna, w sobotnie (17.10) popołudnie, rozbił się tam motocykl. Jechały nim dwie osoby: kierującym był 19-latek, a pasażerką 37-letnia kobieta. To właśnie pasażerka zginęła w tym zdarzeniu. Motocyklista…",
@@ -324,16 +434,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "28f8b33c6ab9e94eef71196210913ce06f0fdfbe",
-      "title": "Obowiązkowe oświetlenie przyczepy i lawety w świetle przepisów – sprawdź, jakie lampy tylne, obrysowe i odblaski musisz posiadać",
-      "summary": "Prawidłowe oświetlenie przyczepy nie jest dodatkiem, tylko warunkiem dopuszczenia pojazdu do ruchu. Liczy się nie tylko Kodeks Drogowy, ale też przepisy o warunkach technicznych i homologacji. Dla kierowcy oznacza to jedno: każda przyczepa i laweta musi być widoczna, czytelna dla innych uczestników…",
-      "link": "https://www.nowiny.pl/wiadomosci/251541-obowiazkowe-oswietlenie-przyczepy-i-lawety-w-swietle-przepisow-sprawdz-jakie-lampy-tylne-obrysowe-i-odblaski-musisz-posiadac.html",
-      "published": "2026-10-17T09:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "9687670da08d77a5c6580e971db360c85dc58c8a",
       "title": "Kiepski początek weekendu w regionie. Wypadki w Rybniku i Pstrążnej. Są poszkodowani",
       "summary": "",
@@ -341,16 +441,6 @@
       "published": "2026-10-17T08:04",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e10f1509afc172a3570010dfabb1132946be5b9c",
-      "title": "Emerytura z Holandii nawet po krótkim pobycie? Sprawdź, czy też masz do niej prawo",
-      "summary": "Ponad 6,1 tys. Polaków pobiera już holenderską emeryturę państwową. ZUS zwraca uwagę, że wiele osób, które mieszkały lub pracowały w Holandii, może nie wiedzieć o przysługujących im prawach. W październiku odbędą się bezpłatne spotkania z ekspertami, również w Opolu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251530-emerytura-z-holandii-nawet-po-krotkim-pobycie-sprawdz-czy-tez-masz-do-niej-prawo.html",
-      "published": "2026-10-17T07:52",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -364,16 +454,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "6f96024f876119ed73fd72b69c6ab16b523b611c",
-      "title": "Miał znęcać się nad byłą partnerką i grozić jej rodzinie. 28-latek z Jastrzębia-Zdroju zatrzymany",
-      "summary": "Groźby śmierci, pobicia i zniszczenia mienia. Takie zachowania swojego byłego partnera zgłosiła policjantom mieszkanka Jastrzębia-Zdroju. 28-latek został zatrzymany i usłyszał zarzuty znęcania się oraz gróźb karalnych.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251559-mial-znecac-sie-nad-byla-partnerka-i-grozic-jej-rodzinie-28-latek-z-jastrzebia-zdroju-zatrzymany.html",
-      "published": "2026-10-17T07:11",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "4d40cfcdb08f16780430cccc5d1f0a1c34f215fb",
       "title": "Uważaj na fake news i deepfake’i w sieci. Nie udostępniaj treści, zanim jej nie sprawdzisz!",
       "summary": "",
@@ -384,31 +464,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "5104c0fb66540422b604c9db72d70920c0d69008",
-      "title": "Tort w kształcie piłki – wyjątkowa niespodzianka dla kibica od cukierni K.Zieliński",
-      "summary": "Tort w kształcie piłki to pomysł na słodką niespodziankę dla fana futbolu. Pasuje na urodziny, komunię czy zakończenie sezonu, a podczas wspólnego oglądania meczu może być poczęstunkiem dla kibiców. Udekorowany barwami ulubionego klubu, imieniem lub numerem z koszulki nawiązuje do pasji osoby, dla…",
-      "link": "https://www.nowiny.pl/wiadomosci/251540-tort-w-ksztalcie-pilki-wyjatkowa-niespodzianka-dla-kibica-od-cukierni-kzielinski.html",
-      "published": "2026-10-17T07:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "26e61178cd9aa013df8e501ef2ead60d56287506",
       "title": "Kuchnia Radia 90: puszyste ciasto z gruszkami",
       "summary": "Gruszki pod puszystym ciastem jogurtowym ze skorupką z cukru i płatków migdałowych, do tego cynamon. Pachnie świetnie, wygląda świetnie, smakuje świetnie.",
       "link": "https://www.radio90.pl/kuchnia-radia-90-puszyste-ciasto-z-gruszkami.html",
       "published": "2026-10-17T06:05",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "861d64f70bdf9702bacba1f5b8abac345a723e4c",
-      "title": "Własna marka odzieżowa bez własnego magazynu? Zacznij sprzedaż własnych produktów z Fabryką Koszulek i VibeCartel",
-      "summary": "Masz pomysł na własną markę odzieżową, ale nie chcesz od razu inwestować w magazyn, kupować dużych ilości produktów i samodzielnie zajmować się realizacją każdego zamówienia? Dziś rozpoczęcie sprzedaży własnej kolekcji może być znacznie prostsze. Dzięki połączeniu produkcji odzieży, sklepu…",
-      "link": "https://www.radio90.pl/wlasna-marka-odziezowa-bez-wlasnego-magazynu-zacznij-sprzedaz-wlasnych-produktow-z-fabryka-koszulek-i-vibecartel.html",
-      "published": "2026-10-16T22:05",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -634,16 +694,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "fd2e9578ee5e4bdaf3a353161f2ab62b954388bb",
-      "title": "RKJJS: podium w klasyfikacji drużynowej Jurajskiego Turnieju Ju-Jitsu",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRkg4UDlzUkpvOWMxUWIzSnNpM20xWGI5WENleEhzd1hIa0FBQnJrOWczbmpMa0wybHdCejFMU2xDUWpMMFo3bUxUZUcySzd1SXk1SVN3eVEyUzlxLTVhRUhRbEpVQVUzZ3FrRkM3NGxlLUVaTFFLMkFtenE1LW5Wc0xWejBnRFlxOFYyRzlsYms3cUJIb1hRYUxpWmtxcV9lSko1b1RrOWxSX2t2SzFtTkp6dHc5UmhtYlRLN2gwcDBKMnNJ?oc=5",
-      "published": "2026-10-15T19:02",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "e1f64cf22f914ee7874c9a6fd879e1e7a483fa30",
       "title": "Pijany kierowca uderzył w garaże w Rybniku. Samochód stanął w ogniu [ZDJĘCIA]",
       "summary": "Blisko dwa promile alkoholu, dożywotni zakaz prowadzenia pojazdów i uderzenie w garaże, po którym samochód stanął w ogniu. Do takiego zdarzenia doszło w rybnickich Boguszowicach.",
@@ -690,16 +740,6 @@
       "link": "https://www.radio90.pl/zespol-szkol-wyzszych-w-rybniku-reaktywacja-piec-uczelni-zainaugurowalo-wspolnie-nowy-rok-akademicki.html",
       "published": "2026-10-15T13:45",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "dff54b6ee39e88c4405d98746f64219c1935faef",
-      "title": "Pijany wjechał w garaże. Auto stanęło w płomieniach, a 33-latek groził policjantom (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXRvWHBZdmVvUHlON0dIMi1JRFZ1WF9leVY4d3hIUjZfLXhmSkNHU2RSZE44bHNkTG41TWFoTFY2MFR3cGZiLUJRV2NVUHdya0phRTRPeXdtTVVUMEtNS2NmeDI0cVNWMDJ5dEd3NnN1RndINURGaE5sc2NzNW1fWG9XcFF3ajFTTE45SWlIWHFlZVA0VDI2eExFLXlUR0lxYjNxNHZKRElxVlNXRndYc1hIcm84bFJfOXVRZ0ZJYmUzNmU3em5ONkF5Z3JxMHhlNFUza1c4aDhwZU94Snc?oc=5",
-      "published": "2026-10-15T13:28",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -784,26 +824,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "64d652f9230f73521cddf3b2fdb593d661c9d0f9",
-      "title": "Pierwsza porażka siatkarzy TS Volley Rybnik",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOXg0X2xhTUJ2ajJ3Q3RtbUZTcW5zaGlnSjJfaHRVNnFrWGZISlBpR3hBNVJxTG4tVW5lZFk1cDF2UnZhSXlRaDFFQ09wamt0UGg5MVdGMWtsVEc1VEJwQkdhMDVVYzZnMEJzZWJQRWZiRGFUcFl3RlFSZV9CSk5SNUxZN25xMHdmdnFqU3dQVnVha3lhZGd0a3ZhNHhjZTkxMTJj?oc=5",
-      "published": "2026-10-15T07:12",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c8936c0738d665cb12c60c7a2f0874a549e44211",
-      "title": "Gigantyczna awaria czy planowana przerwa? Ważne rejestry sądowe zostaną wyłączone",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNDBpZ285ck92Y2tMQjRkOUw1MVVTUzBMQUdEWEhDMFJ6LVNoQlpHckdWWVdzQ2k3SjVPMExESlNOWktyX3lEazZOMmFFeWJ3QjBjeml2TWQwOU5TZ0lETEg2Unk0VkZMZjZsUTEwaWJBTDJ0QS1XM0hlSlFoQ3dLYU9jakk3VkV2RDh4bFo4eTdBVTRPc3ktZHhsUzdkVEpkU2tkM0JWVnB6bE1qSnBSckVVOWEtWGhLRDcxMG9LT2JmRGpJNU53S2sya04zRHk5QmRteQ?oc=5",
-      "published": "2026-10-15T06:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "95010368676ca6cc7ac4ad1fb10de45a3b7a5d8c",
       "title": "Konkurs dziennikarski w ramach Rybnickich Dni Kariery. Nagrodą warsztaty w Radiu 90",
       "summary": "Konkurs dziennikarski „Za każdym zawodem stoi człowiek” w ramach Rybnickich Dni Kariery. Przygotował go Powiatowy Urząd Pracy w Rybniku dla uczniów szkół ponadpodstawowych.",
@@ -851,26 +871,6 @@
       "published": "2026-10-15T00:00",
       "source": "rybnik.eu",
       "category": "Ekologia",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a03b917a9c24eccd49d951a4a63d1d38236fbad8",
-      "title": "Program „Rehabilitacja 25 plus” w Wodzisławiu Śląskim: kontynuacja terapii i integracji społecznej",
-      "summary": "1 września 2026 roku w Zespole Placówek Szkolno-Wychowawczo-Rewalidacyjnych w Wodzisławiu Śląskim wystartowała dziewiąta edycja programu „Rehabilitacja 25 plus”. Dzięki finansowaniu ze środków PFRON, 34 absolwentów szkół przysposabiających do pracy z Powiatu Wodzisławskiego ma możliwość…",
-      "link": "https://www.radio90.pl/program-rehabilitacja-25-plus-w-wodzislawiu-slaskim-kontynuacja-terapii-i-integracji-spolecznej.html",
-      "published": "2026-10-14T22:01",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c65ee00e65689fb13f5a28a82c4bf81fe8c36f3f",
-      "title": "„Bomba kolorystyczna”. Będzie nowy mural w Rybniku",
-      "summary": "Kolorowa bomba rozświetli Zebrzydowicką- w taki sposób Rybnik zapowiada nowy mural w mieście. W ramach projektu z Budżetu Obywatelskiego, malowidło przygotuje Ryszard Paurowski, autor wielu murali między innymi w Raciborzu.",
-      "link": "https://www.radio90.pl/bomba-kolorystyczna-bedzie-nowy-mural-w-rybniku.html",
-      "published": "2026-10-14T17:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
