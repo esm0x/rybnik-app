@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-19T22:22:39",
+  "generated_at": "2026-10-20T04:47:20",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "f13ec44b8dad5fd8efce37daece680dee93d4b37",
+      "title": "Czas na doroczny Turniej Siatkówki Samorządowców Subregionu Zachodniego",
+      "summary": "Siedem ekip na parkiecie VIII Turnieju Siatkówki Samorządowców Subregionu Zachodniego, zawody w sobotę (24.10) od 8.30 do 14.00, w hali sportowej przy ul. Grunwaldzkiej w Rybniku.",
+      "link": "https://www.radio90.pl/czas-na-doroczny-turniej-siatkowki-samorzadowcow-subregionu-zachodniego.html",
+      "published": "2026-10-20T04:45",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "6753f0bfde3e1f9f0b960d701e024e0af7badf7f",
       "title": "14-latka samodzielnie wykonała 5 lotów szybowcem. Młoda Zuzia marzy o pilotowaniu samolotów pasażerskich",
@@ -34,16 +44,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "28beaa6f9caf7eec6171c557ef41c6edac8021da",
-      "title": "Złoto Otylii Kwaśniewskiej i brąz Marka Zakupry. Rybniccy dżudocy walczyli w mistrzostwach Polski",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRmVCRmNDR2tsUENPUFJGY1FmZUVDWFE2TFdmdHVUUERHZUI1WENORzFJR0p4Q0hnZWFmVU11SzJkaWh5TENSYzVyVlkzc2J4VEtpeEZlMzdMd3dCZDdLNFhOTWtRSjVpaW9iZ2JfS01kbGpHbm5HZ1BVdWlWdW1oZVN0bVBJMktFMld1alZKdHc3TjB5YWk1UnFvZE9KTkVfYkEwZnlza1BLUDlkY05vSXdqSnNveUlnbkg5TGllS0NWc25YUnpuck1DQ1VWSVJHcFhzNk9FOUFjNVNYaFY3Z2poLWR3bjZONWc?oc=5",
-      "published": "2026-10-19T19:04",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "67d5bbe517f36305ba9361ac56b2c8225fee04f4",
       "title": "Ryanair uruchamia trzy nowe połączenia z Katowic. Dokąd polecimy zimą?",
       "summary": "Malaga, Neapol i Turyn to trzy nowe kierunki, które Ryanair wprowadza do zimowego rozkładu lotów z Katowice Airport. Łącznie przewoźnik zaoferuje pasażerom 13 tras.",
@@ -54,10 +54,10 @@
       "priority": "NORMAL"
     },
     {
-      "id": "5b1d75f882b87c39673e51e46dbe4b69a8794058",
-      "title": "Złoto Otylii Kwaśniewskiej. Zawodniczka Kejza Team mistrzynią Polski w judo (foto)",
+      "id": "28beaa6f9caf7eec6171c557ef41c6edac8021da",
+      "title": "Złoto Otylii Kwaśniewskiej i brąz Marka Zakupry. Rybniccy dżudocy walczyli w mistrzostwach Polski",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZFZyakVmY2U3X09MenY5WGlERkZQTXBGbE1HUHlnMDJuVHFxblZWOGQ4VVp2cHZKTTBrLWt4QWZOenFFSm1nVDV0VW4wUGE0RlRjR08yQmhjNExmdW56NWJDZVFjdVdNbmN6TXdxN0JCTHBYcUhVajR3WDJBQk5tMkNfeHpfMThNaWwzNGRYR3I0TFQzVXNmSlpMcEdvcXpIMTRTUW5pc0FIR0t6WDdnSTRkMkJGd2lQMmhHX3ZaWnQ1X25JbG03Q2RxTVcxdW4yTl9z?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRmVCRmNDR2tsUENPUFJGY1FmZUVDWFE2TFdmdHVUUERHZUI1WENORzFJR0p4Q0hnZWFmVU11SzJkaWh5TENSYzVyVlkzc2J4VEtpeEZlMzdMd3dCZDdLNFhOTWtRSjVpaW9iZ2JfS01kbGpHbm5HZ1BVdWlWdW1oZVN0bVBJMktFMld1alZKdHc3TjB5YWk1UnFvZE9KTkVfYkEwZnlza1BLUDlkY05vSXdqSnNveUlnbkg5TGllS0NWc25YUnpuck1DQ1VWSVJHcFhzNk9FOUFjNVNYaFY3Z2poLWR3bjZONWc?oc=5",
       "published": "2026-10-19T18:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
@@ -754,16 +754,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "b9e5e83a7203fd1b7f7ea6866ea1fc5ab5c1e0d0",
-      "title": "Sportowy weekend w Rybniku (17-18.10.2026)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWlaeHZvc3NJcmpwS0FyZjc2UXlFekQzSkZSZlVMMGFzOW5CcFdDUTF0UnZvWmhDdjVSRFMwWXpEWDJ0eFdjVHdNUy1Lcy1RM3pGai14WWItdHpqSFVJZGZkM2ZKYzNFcHZtODExTm5RcHJ3enRmYTA2TGNhNnlFUGJEOW9GSG5wNTdrS1k1aUJfNDBzYnlzTHZhd0d4b0E?oc=5",
-      "published": "2026-10-16T14:43",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "9ee50d51d39b36f7542d0ca749d493ef6bd30620",
       "title": "Dzieje się w Rybniku: świętujemy dzień szefa, jeżdzimy pociągami retro i bawimy się na 30-leciu pracy artystycznej Ani Wyszkoni",
       "summary": "Dzieje się w Rybniku: dziś świętujemy dzień szefa W kalendarzu 16 października. Dziś przypada Dzień Szefa, Jaki powinien być dobry szef? Pytamy prezydenta Rybnika Piotra Kuczerę: Piotr Kuczera: Słuchać głosu współpracowników i podejmować na tej podstawie dobre decyzje. Trudno samego siebie oceniać…",
@@ -790,6 +780,26 @@
       "link": "https://www.radio90.pl/dzisiaj-dzien-szefa-pytamy-jaki-powinien-byc-szef.html",
       "published": "2026-10-16T11:00",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "961efdc86c03dd945d98f32272669904b43d5849",
+      "title": "„Wiemy, co robić, ale nie wiemy, gdzie iść”. Rybniczanie o schronach i sytuacji alarmowej (wideo)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdUVkZE85VjRUZjBmY0pyMUxCWkE5RFR5UTY3TUlpYU9RRzVNcE5GMDJyemllR3ZLb1FoZzREX0phNG9qZlo4RXk3UVh4NDc4LUt0QWthR05KaGtFeng3Q3l2ckVYNWRsUi12NU1xeHl4a0hBbktOMGdFbUV2WVdlbndwTFhEMnFyLWhydTRDUVdtS2UzNWRsVTBnYTlLaUQ3MXdtSURFaXVzNEp4MkFmUzFpaGVXZllITGo5dk1XTE5MVEtaNGJBU2R6UmRCc042cno5eW1hODRmckdhU0d0Zw?oc=5",
+      "published": "2026-10-16T10:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ca5bfc57f7e4512217d4f3fcc8ec99e4c3faa234",
+      "title": "Fortepian przy Starostwie Powiatowym w Rybniku znów zniszczony. „Sprawcy skakali po instrumencie” (foto, wideo)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMEVtN0NwelkyeFJDNmFJRzhnY1ljTnhrV1gzRXE3b2gxREl3djJqamxsenFkMkRxd2xqRm8xaGZMMEE2RTFjcG5CZ1VncDh4aWVPcWJidUZ4VjRNYmNWZUpmQWtuRGpaYVBjQXMtelVmc25jOTRmN01vbDRjMElBWWhCZjAyYm9DLVBfbVh0bVBESldOWmxIWW1qQXNFZXJaRWJjbW5xSFczR3U5bGRqYjJLcUFvVmxjYjNjaG5Wa2QxeENDOFlROG40QWpobmZCenI1aUhMMVdfVUhVWjlzeHd6QjdhSWI0NEw3eTRJa2ZwdF9LOEE?oc=5",
+      "published": "2026-10-16T08:00",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -869,16 +879,6 @@
       "summary": "Blisko dwa promile alkoholu, dożywotni zakaz prowadzenia pojazdów i uderzenie w garaże, po którym samochód stanął w ogniu. Do takiego zdarzenia doszło w rybnickich Boguszowicach.",
       "link": "https://www.radio90.pl/pijany-kierowca-uderzyl-w-garaze-w-rybniku-samochod-stanal-w-ogniu-zdjecia.html",
       "published": "2026-10-15T18:15",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "462ce8d5e47bae1284bfe697ddaa2f41196f3afc",
-      "title": "Policjanci z Rybnika odzyskali skradziony rower",
-      "summary": "Jest sprawca, jest odzyskany rower. Mowa o złodzieju, który ukradł pojazd z terenu szkoły przy ulicy Wodzisławskiej w Rybniku.",
-      "link": "https://www.radio90.pl/policjanci-z-rybnika-odzyskali-skradziony-rower.html",
-      "published": "2026-10-15T17:00",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
