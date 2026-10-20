@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-10-20T11:35:20",
+  "generated_at": "2026-10-20T17:02:43",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "12b82ddbd60ac626d9e0dc9a8dc04d4f58ea7689",
+      "title": "Wkrótce kolejna edycja konferencji „Rybnik dla Biznesu”. Będą szkolenia i uroczysta gala w domu kultury",
+      "summary": "Sztuczna inteligencja w promocji firmy, czy zapobieganie wypaleniu zawodowemu, to niektóre z tematów ósmej edycji konferencji \"Rybnik dla Biznesu\".",
+      "link": "https://www.radio90.pl/wkrotce-kolejna-edycja-konferencji-rybnik-dla-biznesu-beda-szkolenia-i-uroczysta-gala-w-domu-kultury.html",
+      "published": "2026-10-20T16:30",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5695032f5fa8837f26f803900e9b0adf0c3aee51",
+      "title": "SKUP AUT DO ZŁOMOWANIA TEL. 501-525-515",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWk4UjNqTDZhMzl0czh5RzJ1dWVrUjg4M0FZWjZaeDBhTW1uU0ZpZTFHN0tzaFRBWGVRVllhOXFWNkFJeUlTUmY0S2QzR3NqcmJ3bkxnSDFEYjljN3dwWDlvLVdwSzEwaEhuQnlmWVdhZHVENHVwclN2ejJNQzRSME9YNDdHczd5MGIzUmxucEFITVN1bDhXSmw3TV83Zw?oc=5",
+      "published": "2026-10-20T16:22",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ac28c818a522688eca49f75756fdc92a8fb649cd",
+      "title": "Złota nić z dziecięcego zeszytu. Mowa noblowska Han Kang ukaże się po polsku",
+      "summary": "W dziecięcym zeszycie Han Kang po latach odnalazła wiersz, w którym miłość była złotą nicią łączącą serca. Od tego obrazu zaczyna się „Światło i nić”, wykład, który laureatka Literackiej Nagrody Nobla 2024 wygłosiła w Sztokholmie. 30 listopada ukaże się on nakładem Wydawnictwa W.A.B. Zapowiadamy go…",
+      "link": "https://www.nowiny.pl/wiadomosci/251615-zlota-nic-z-dzieciecego-zeszytu-mowa-noblowska-han-kang-ukaze-sie-po-polsku.html",
+      "published": "2026-10-20T16:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9caacf082d521af80ddb62842910a8a251d9c2a9",
+      "title": "Zapomniane maszyny i historia dawnej wsi. „Nieodkryte skarby pogranicza” w Nowinach Raciborskich",
+      "summary": "Kieraty, pługi, cepy, a nawet podkowy dla krów. W wydaniu „Nowin Raciborskich” z 20 października zaglądamy do świata dawnego rolnictwa i odwiedzamy niezwykłą kolekcję Jendy Gonsiora z Rudyszwałdu. Cztery strony cyklu „Nieodkryte skarby pogranicza” przygotowała Katarzyna Gruchot.",
+      "link": "https://www.nowiny.pl/wiadomosci/251655-zapomniane-maszyny-i-historia-dawnej-wsi-nieodkryte-skarby-pogranicza-w-nowinach-raciborskich.html",
+      "published": "2026-10-20T15:58",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8992c85f6b695f7676fc30af7c85f417322b5faf",
+      "title": "10 lat walki, pasji i niegasnącego rytmu. Face 2 Face wchodzi w „nową erę” (wideo)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaE5CMUdVTnNwSHRnZFZ0VGxTR0U1cjd5bnBKN3BMcU5DdE9xVElFTlNhYnJxaVk3eEpFcWNhdjE3X2cxZDB6dGwyQXVJUnZNdnRvOXVyQnFLT083Znd3eF9WUGt0NlZlTkU4STRHNEtFc3pGWG5fdHhzV0RBRXBGcElTeThzOTFvcGFRdkpmXzRodlNmV0lwMFhnQnFmMXpGaGpKSHBCVktGN1E5cE1DVkRLa1VFSGpKSXAyV1dDYXVRVURLMmN2VHgtUTl2VGc?oc=5",
+      "published": "2026-10-20T15:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7ea2b15cfc15d7273082f296e540c2344f32b16b",
+      "title": "Zespół Szkół Ponadpodstawowych w Rydułtowach zyskał zielona pracownię [ZDJĘCIA]",
+      "summary": "Nową zieloną pracownię BioChemLab otwarto we wtorek 20 października w Zespole Szkół Ponadpodstawowych w Rydułtowach. W pracowni uczniowie znajdą sprzęty i pomoce dydaktyczne do nauki biologii i chemii.",
+      "link": "https://www.nowiny.pl/ekonowiny/251654-zespol-szkol-ponadpodstawowych-w-rydultowach-zyskal-zielona-pracownie-zdjecia.html",
+      "published": "2026-10-20T14:21",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "278b92000e3a8ba4c11ebf605b6b5543ccd5ceb9",
+      "title": "Nocna akcja policji w Rybniku. Zatrzymano 11 dowodów rejestracyjnych, posypały się mandaty",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSFE4UTNXQVhwMUo1SS1ad0J5a1VVaDN1NWtyYUlNU3FhVVJVeVVsU1ZRS2F0UGY0RFZJS2dWcTNhbjVzNkJlVi1lM3FYSmFZQlRBLVAxbFFRNnhKd05LSUtZWE5DRnd4T0dXUnhwTTJ3WFFVWEhWOXJsR2lRY0FhV0FNTUxQVUg1RS12aC03RVUtS3Nqa3haTVZlWUYxS3hvUDZna1RpZU5oTlJaUC14cGJXMVhDaUVjUENtZnR6cy11eXFZQ0NfZGp3c1k2TmVKSFk5RXlTV0djeWNGd3VZ?oc=5",
+      "published": "2026-10-20T14:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "22c8022f3960978a4193e312d4c8b9b0316841dd",
+      "title": "Przed Dniem Wszystkich Świętych ruszyły porządki na cmentarzach. O czym warto pamiętać, czyszcząc nagrobek? (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM0huMURNQmljZnV2R19HVVpDR0x1Y05Md0RjR2VLMmV0ZllFX3R6RzJ4eDN1bXlocFFiM3VodVdVMnRCV2s4Z2VuWk5jY20yMDVwUWI5MWVjcTMxLUQ5OTE4azFBZUhhSkxqMFlxVWZtSXUyUkttemxTSHR4ZVFadjZ5aEtEb2I0VldVVzFkOHcxaTBpOGt1MmVzT3A4UG9GZFd3YzB2RmotU1pXN2ZpSXNvc3FEZHRua1lpV3hwTFZpTTl2WFpTTnFxTENiakVTYXhYN1BDbzQ2RTZaaFVrNkdjb19haG9nWmdFenhocUtPZ1E5QmdiQVpRaw?oc=5",
+      "published": "2026-10-20T12:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "094fdb147f86de15c145d87bd4a878c913c72ce3",
+      "title": "Wypadek w Pstrążnej. Osobówka wjechała w zaparkowany autobus. Kierowca jest w ciężkim stanie [ZDJĘCIA, WIDEO]",
+      "summary": "Policja z Rybnika podała dziś pierwsze ustalenia dotyczące groźnego wypadku na ulicy Morcinka w Pstrążnej. Do wypadku doszło w sobotę (17.10) około godziny 3.00 w nocy.",
+      "link": "https://www.radio90.pl/wypadek-w-pstraznej-osobowka-wjechala-w-zaparkowany-autobus-kierowca-jest-w-ciezkim-stanie-zdjecia-wideo.html",
+      "published": "2026-10-20T12:20",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3e17e95b5fee1b51782a1f815279a202d32d03e9",
+      "title": "Ojciec zgłosił kradzież auta. Trop prowadził do własnego syna",
+      "summary": "Skoda Rapid warta 25 tys. zł zniknęła z parkingu na osiedlu Korfantego w Żorach. Właściciel, 74-letni mężczyzna, podejrzewał, że za kradzieżą może stać jego syn. Policjanci potwierdzili ten trop, odnaleźli samochód w Dzielnicy Zachód i zatrzymali 44-latka. Mężczyzna usłyszał zarzuty kradzieży auta…",
+      "link": "https://ezory.pl/wiadomosci/251653-ojciec-zglosil-kradziez-auta-trop-prowadzil-do-wlasnego-syna.html",
+      "published": "2026-10-20T11:55",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d4b7e02a2458b3ffac091ac446d6c64eb13bf66d",
+      "title": "Pijana matka zasnęła, a dzieci wyszły same na podwórko po zmroku. Miała prawie 2 promile",
+      "summary": "Prawie 2 promile alkoholu w organizmie miała mieszkanka Jastrzębia-Zdroju, która opiekowała się dziećmi w wieku 5 i 6 lat. Gdy kobieta zasnęła, maluchy wyszły same na podwórko, mimo że było już ciemno. Zaniepokojona sąsiadka zaopiekowała się dziećmi i powiadomiła policję. Ostatecznie trafiły one…",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251649-pijana-matka-zasnela-a-dzieci-wyszly-same-na-podworko-po-zmroku-miala-prawie-2-promile.html",
+      "published": "2026-10-20T11:42",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "dd3c5262590e0167cb24987ae66f54f6d8bba448",
       "title": "MULTI UBEZPIECZENIA: Kiedy praca staje się pasją...",
@@ -19,6 +129,16 @@
       "summary": "Jesienią można go spotkać na elewacjach budynków, parapetach i ramach okiennych, a niekiedy także we wnętrzach mieszkań. Wtyk amerykański osiąga od 15 do 20 mm długości. Ma brązowawe ciało, długie nogi i charakterystyczne rozszerzenia na tylnych odnóżach. Jednak to nie wygląd czyni go uciążliwym…",
       "link": "https://www.nowiny.pl/wiadomosci/251641-smierdzacy-intruz-z-ameryki-coraz-czesciej-zaglada-do-naszych-domow-jesienia-szuka-schronienia.html",
       "published": "2026-10-20T10:58",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "98864b6ea045f9311f0fefc1c4b1747c9b222a8f",
+      "title": "Schował coś do kieszeni na widok policjantów. 22-latek z Żor miał przy sobie klefedron",
+      "summary": "Podczas nocnego patrolu na osiedlu Gwarków w Żorach policjanci zauważyli mężczyznę, który na ich widok szybko schował coś do kieszeni kurtki. Kontrola wykazała, że 22-latek miał przy sobie klefedron, syntetyczną substancję psychoaktywną o działaniu pobudzającym, zaliczaną do katynonów. Za jej…",
+      "link": "https://ezory.pl/wiadomosci/251647-schowal-cos-do-kieszeni-na-widok-policjantow-22-latek-z-zor-mial-przy-sobie-klefedron.html",
+      "published": "2026-10-20T10:56",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -154,33 +274,13 @@
       "priority": "NORMAL"
     },
     {
-      "id": "fc7726b6a845da481385768a7399e6f946260d47",
-      "title": "Wbił się w autobus. 21-letni kierowca w stanie krytycznym trafił do szpitala (wideo)",
+      "id": "9028343f7e9d0e845d1e863afc08240d673b592d",
+      "title": "Wbił się w autobus. 21-letni kierowca w stanie krytycznym trafił do szpitala (wideo, foto)",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmhxRWM3RDV6Rjk4cEJjU1JCVmx1WG5scTR5OUpzaG9nNC1GTE1zWW5rM0hfTnp1MF9pdzU5b2g4RHpzdUVHSERLVmhaMjdfb09kRHJvYjFCS1NlazdhMUJXdVZvYTB5THRFbkFIZ3ZoeFBqN2ZLWlpoX3hZTnd5b3lmMG10NDBnZjdCYzUxR0JRTVIzS0hiUjFDVmVNWnJkTlY2OGk2bmtJa0ttdkNfd2xYc2xja2F1a2JDNlhCbVFNa3hqaUVHRVM0ZklXeDA4Tnljd2VB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNnh5akpsTzloNVFfNTUxeG1LckRBMnFCM1VQRWhsMDc1a2FnRTdReWF2VDNLcnlTT05QWnNhTXBwMGRWLVp3azhwdlQtcDlxVUY2YnJrRENOclJVR1RjS1JrWndMUkk5aTBwckRyNEZKTEFPV25OYVdTTTJXYnhHZklEd1Jrd0txYWhLY2pDSmEwQmhFNmotY2VWTmFxeXFtUWNwVzk1OTY0alR0dHJXRzBBbVBreHhyMTFRWllRQkNRcU1WMnB2ZmxMdFJyZThUZWk5Q3Y4b0dlUHZ5?oc=5",
       "published": "2026-10-20T08:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a8e102629066022a6527f617221ceff3bfbd4738",
-      "title": "Kopał w drzwi urzędu i zniszczył jesienne dekoracje. Miasto pokazało nagranie",
-      "summary": "Kopał w drzwi wejściowe do urzędu miasta i zniszczył jesienne dekoracje. Do zdarzenia doszło w niedzielę, 18 października, przed południem w Wodzisławiu Śląskim. Miasto opublikowało nagranie pokazujące zajście i zwróciło się do mieszkańców z prośbą o pomoc w ustaleniu tożsamości mężczyzny. Jest też…",
-      "link": "https://www.nowiny.pl/wiadomosci/251624-kopal-w-drzwi-urzedu-i-zniszczyl-jesienne-dekoracje-miasto-pokazalo-nagranie.html",
-      "published": "2026-10-20T07:53",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f0be4ed4efc45fa9c907337d6781ce5a11d498c8",
-      "title": "Dyskutowali o zaletach Erasmus+ w Wodzisławiu Śląskim. Konferencja w \"Jedynce\" [ZDJĘCIA]",
-      "summary": "W I Liceum Ogólnokształcącym im. 14. Pułki Powstańców Śląskich w Wodzisławiu Śląskim odbyła się konferencja \"Tu rośnie przyszłość. Kompetencje jutra z Erasmus+\", do której zaproszono nauczycieli szkół podstawowych i ponadpodstawowych z regionu. Podczas wydarzenia można było m.in. dowiedzieć się o…",
-      "link": "https://www.nowiny.pl/wiadomosci/251623-dyskutowali-o-zaletach-erasmus-w-wodzislawiu-slaskim-konferencja-w-jedynce-zdjecia.html",
-      "published": "2026-10-20T07:40",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -194,16 +294,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "2ee4952f8e80bb93dcd666e952dd4c3ff956a4c8",
-      "title": "Kredyt lub pożyczka pomogą szpitalowi w Raciborzu dotrwać do wiosny",
-      "summary": "- Jeżeli chodzi o sytuację naszego szpitala, to posiada on płynność finansową. Na dzisiaj nie mamy żadnych przeterminowanych zobowiązań. Są natomiast problemy z finansowaniem świadczeń, i to dość poważne – dotyczy to świadczeń udzielonych ponad limit. Nie mówię o ryczałcie, tylko o świadczeniach…",
-      "link": "https://www.nowiny.pl/wiadomosci/251622-kredyt-lub-pozyczka-pomoga-szpitalowi-w-raciborzu-dotrwac-do-wiosny.html",
-      "published": "2026-10-20T07:31",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "1e66d3a095b268016410088b632ecd7455eb5a5b",
       "title": "Pakowanie filetów z kurczaka - praca w Holandii",
       "summary": "",
@@ -211,36 +301,6 @@
       "published": "2026-10-20T07:25",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "fb84a6b1438705c82da94f8ffcb3f82477c64343",
-      "title": "Czołowe zderzenie dwóch aut w Raciborzu. Pasażerka trafiła do szpitala",
-      "summary": "Do zdarzenia doszło wczoraj, 19 października, około godz. 15 na ulicy Piaskowej w Raciborzu. Jak informuje Komenda Powiatowa Policji w Raciborzu, 19-letni kierowca Opla stracił panowanie nad samochodem, uderzył w słup i latarnię, a następnie zderzył się czołowo z Seatem.",
-      "link": "https://www.nowiny.pl/wiadomosci/251621-czolowe-zderzenie-dwoch-aut-w-raciborzu-pasazerka-trafila-do-szpitala.html",
-      "published": "2026-10-20T07:11",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "bc55ae2cab77a488891d6df0587e006b91e57901",
-      "title": "Uwaga kierowcy! Od 22 października zmiany w ruchu w Krowiarkach",
-      "summary": "Od 22 października w Krowiarkach, w gminie Pietrowice Wielkie, zostanie wprowadzona tymczasowa organizacja ruchu. Ma to związek z modernizacją obiektu mostowego w ciągu drogi powiatowej. O planowanych zmianach informuje Starostwo Powiatowe w Raciborzu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251620-uwaga-kierowcy-od-22-pazdziernika-zmiany-w-ruchu-w-krowiarkach.html",
-      "published": "2026-10-20T06:48",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "4dd190ac2dff4cdadd97bcda0f7644866609985e",
-      "title": "Co z emeryturami Polaków? Miliony osób szukają odpowiedzi w ZUS",
-      "summary": "Jakiej emerytury można się spodziewać po zakończeniu pracy zawodowej i czy warto odłożyć tę decyzję o rok lub kilka lat? Odpowiedzi na te pytania można uzyskać podczas bezpłatnej konsultacji z doradcą emerytalnym ZUS. Jak informuje Zakład Ubezpieczeń Społecznych, tylko w tym roku z takiej pomocy…",
-      "link": "https://www.nowiny.pl/wiadomosci/251619-co-z-emeryturami-polakow-miliony-osob-szukaja-odpowiedzi-w-zus.html",
-      "published": "2026-10-20T06:37",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -414,16 +474,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "f6561b3b7272088d6b59bbf4b8ea409a5cf30e75",
-      "title": "Nie żyje Alojzy Zimończyk. Były wicedyrektor rybnickiego „Tygla”",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHFFdUp3a2dnY2RyWXV6c0VBcmVfaE1mdmRkdmZuNTJ0bXRKSWdUSHgzaHdnVGs5LU5vWTVMd2ZUeUZTNE9lUlNkUjZ6bV9ST213OUE5OFNCVXFvTkcyMDdOM2xhQnFsb29GcE9scERWTlpCaFF3UlFPMk1KZXVzZWdLS3d6MEtyb2NELXM4VWU4bXNMR1FOejF2N09uR3Joc3RRYWNjaU9qbmxaRDN5MERnaVdVWmh5c3BXZ2RB?oc=5",
-      "published": "2026-10-19T10:47",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "2d865b609ee1f283d87c35f2b7955850c3adb918",
       "title": "Pożar stodoły w Rybniku. Ponad 200 tysięcy złotych strat",
       "summary": "Pożar stodoły w Rybniku. Ogień w obiekcie przy ulicy Brzeziny Miejskie wybuchł w sobotę (17.10) przed 13.",
@@ -470,6 +520,16 @@
       "link": "https://www.radio90.pl/trwa-przebudowa-dawnego-szpitala-juliusz-w-rybniku-prace-trwaja-w-piwnicach-i-na-dachu-tak-postepuja-zdjecia.html",
       "published": "2026-10-19T07:05",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ae11751d870e02db0351bf404abf45d8958863a5",
+      "title": "Nie żyje Alojzy Zimończyk. Były wicedyrektor rybnickiego „Tygla”",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGJTQVAyZ3pYSk9kdzRjOWVkeEtHN0U5RzBVWllINmp4M2FnM1BudElpZngxTXY5N2EwbURVX044OXZrTUU1S1JJQ3UzQW5DVzdGUHVKT09CNkVQVEdFMVZ1RGQ1d05JMERpMWh5YXh6Wk1TYmh1LWVHbm5sV1pPbUdENnV0TUhyNjI5ZzZSTXdNXzB2R0pFTkpmU2pXa3FKME5UTFAyalZWMjB5QmVJTl9GaUtFN09SWTU4?oc=5",
+      "published": "2026-10-19T06:21",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -544,21 +604,31 @@
       "priority": "NORMAL"
     },
     {
-      "id": "253a6594d4314e70613cfd867c4a07cf1974bf7f",
-      "title": "Biegacze i kijkarze opanowali Gaszowice. Zobacz zdjęcia z Wartko bez Gaszowice!",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNekpEZ0NsWXUwLUpuQ2hZdEJaVi0zZGRtWmtSZWgtOXZRN2JSNHlmckZzdVkwY29xU05MNFc4ZnY5UE1WanVKM3hLQkxPTE82WDd4eWVzbkFYcnRVZnJQNGFyZmU0VHpwM3ZnWUc4cTdjQmRKMFo0OXdhV1QzT2xHcmNseHdEblZ0b2hPVTJQNGNZN2h4THRUTkhOMG1pYXRQYlpDMUQ1bUMxc3I0QUxYUmRqYnlZUXlQOFpLZ1Z0WnhLVzRiQ2tYYVhCNUVfbmxSSjI0?oc=5",
-      "published": "2026-10-18T20:40",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "74587b229a026b6ffaac7ae3d07408d7c2db8800",
       "title": "KS Grom Rybnik - SV DEBACOM MOSiR Zabrze 1:3 • www.rybnik.com.pl",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRzd6SXBOZktBMVVfMU5yVkx5ZGdnZ3Nyc1laSVdla2sxNFhkMDVNSEpxV0g0dWN4d3E5S2FGNEx4NDdLdklMNWNtMDZiaFl6ellnYXE0QkhXNnhfZ00xSGl3SGUweFE3a2UtYkppenNDZV9JdzllaUhKa2VPYWRjQTR6V3dGbjRTX3NWZUFEVEVqMkJncGxiekJwOVRyQQ?oc=5",
       "published": "2026-10-18T19:57",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c8bb0b641c93d90aea6a6d95377e238547102d98",
+      "title": "Biegacze i kijkarze opanowali Gaszowice. Zobacz zdjęcia z Wartko bez Gaszowice!",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVzhxMmlPcjQ4WlZYXzJVWERfWkJrMFljaWxLWVRvRE5SZXhiUUVFdGhmdUlDMFUwS2lDcHZCTGwyeTA3VDVGQUFVYzdTMWpzMGxYS1p6Mm12bVdIRDFQbngtb04tbHVaZ0Zaa2ZtQnZzeUd2VDdOOXF2WUNkaE5uMmEzRV9PVFM1R3dSV3p2OVE0S1M5TzlNSDdZa09iTTdES05tdFlZSlhZbjl2N3JkNm5rdlBUUVZEQl9QcHdqMzhQeDBYNElkTWJoU1kyYjZRUGFR?oc=5",
+      "published": "2026-10-18T18:09",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "cb1fb2611af00275194bf36b4367a2c6a18b7727",
+      "title": "Bartosz Bartkowiak z Rybek Rybnik mistrzem Europy",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYXJrM3dLSVFKRFBvWnFuNVVoVXhuNUplVXZTWklqUzBNVzhvOG1SWXo0dGlUdXh3SlhPT09VNjVpUzFsZVRQQXVVRXdRRk9ucGthd3I2V0diWmViRWVZcTBnd0NBY1lWNFJHR1dMenNkajQzX2xhcVpCenN5U05Tamxyb1hmdnowVC1EWTR2ZVNmb05RbjQ4blM1Q0VhMXUybmRETkpYX0NJZGs?oc=5",
+      "published": "2026-10-18T15:42",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -649,16 +719,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaG1PeEU2WE1qRnFNSmxxbDJfRFdHdW1pcXJNenBDY3hpOEtQZ1BXTzVnOWlnMTJ4dm9ac2VLQmY0SEppWkpUTFJmRnNkeWw4Mi1hTERRbmFwdGpxMVJVSHlxbGJXOGoyQ3FaMm9scHR5Q2NNWTE2Sm1VNFVZZGFEM2ZKb3BsY05UTkVBM3dMUERjb1BmS1hmQnRrM29PTEFfY0Vv?oc=5",
       "published": "2026-10-17T21:03",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a6a558c5d379fb6af583a5f59e8acdb682a645dd",
-      "title": "Zwycięstwo po dramatycznej końcówce. MKKS Rybnik pokonuje Resovię Rzeszów!",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZDQtVlJab0sweXJYZEppQjNzel9tbzA2ODk2OXpxYWdacmJJTlNTQ0JCY3Z2eE84aTJ3LW1Ldmlfbkl5WmZ4QXZLbTR6NkpXNmlpNW8xZ2xkY2p6NE5PbmU4RXdqMDdocmtiWmxRa3lqUmhIdG1zMW1WZHJuN0lCRE5NblBzeEpwa1FYVzR6WFh5OENNWWlnTXVsSDR6dDd6b1RRX3kzSVpUcXp6WTlvamYzS2s3Y2lCSnlsY1lIMUVyUEZ6aFluektR?oc=5",
-      "published": "2026-10-17T19:19",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -800,66 +860,6 @@
       "link": "https://www.radio90.pl/kuchnia-radia-90-puszyste-ciasto-z-gruszkami.html",
       "published": "2026-10-17T06:05",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "9aa7d6a94d2ca5eef9c25a95d6cd880cb1038995",
-      "title": "Nisan Qashai igła full.",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQnRZaUlDcFh5Q1BLX0pqa3R4a1plMGF2NUR3SVlhRGN3TFZIbndrak5qUUtYWFl4R0hHVE02Unk4S2ZvSW9OcnM2Mkp5d1E1bV82VWFKUVZOaEZ0cHNOODJWY2FYRkltTnpDRk5aVmI0TU15TWNxSkdXRjFWYnpZMWhFdlplOVVy?oc=5",
-      "published": "2026-10-17T05:24",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "9ee50d51d39b36f7542d0ca749d493ef6bd30620",
-      "title": "Dzieje się w Rybniku: świętujemy dzień szefa, jeżdzimy pociągami retro i bawimy się na 30-leciu pracy artystycznej Ani Wyszkoni",
-      "summary": "Dzieje się w Rybniku: dziś świętujemy dzień szefa W kalendarzu 16 października. Dziś przypada Dzień Szefa, Jaki powinien być dobry szef? Pytamy prezydenta Rybnika Piotra Kuczerę: Piotr Kuczera: Słuchać głosu współpracowników i podejmować na tej podstawie dobre decyzje. Trudno samego siebie oceniać…",
-      "link": "https://www.radio90.pl/dzieje-sie-w-rybniku-swietujemy-dzien-szefa-jezdzimy-pociagami-retro-i-bawimy-sie-na-30-leciu-pracy-artystycznej-ani-wyszkoni.html",
-      "published": "2026-10-16T14:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3ff2faedfff7c3a3d32374c0adfd45590f973adc",
-      "title": "Demolka w Juliuszu. Prace na terenie dawnego szpitala nabierają tempa. Sprawdzamy, co dzieje się na budowie (foto, wideo)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeEJLeHJ4Slh5TXdjODdSS0NNT2tHUjNvVjlxZkxmYkhNVzBZTEU3eDF4QXFWSFJwR3ZZcTJ5djhCWjNjQVhpTmhiZGRlbXhha2M4UHU0SllJRVdleGVfUTZJOURnX2JHTWJPemkzZHZRR1F1V1hIckxudHRYbGhVTlNtUU5ET3F6R2xlRE1XMkhBam8xWHJFVUFGMjJhaTBNTGdjRlM4T0dzMVEwNGZNYVBodHVBZkQzbmZ4QnB4THpELU8xNmVXckctdkUtdnJDVHIwVWdsT2xBaGpwQ0llRFlrNFozTk5ZNkY0ZkQxYTVBMFRqQm9HRnliZlNaMGk5b2tj?oc=5",
-      "published": "2026-10-16T14:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "5444fe02c2f3cd9b3604b270b1bd91f23bca68e5",
-      "title": "Dzisiaj dzień szefa. Pytamy, jaki powinien być szef?",
-      "summary": "W kalendarzu - 16 października. Dziś przypada dzień szefa, znany na świecie od ponad 50 lat jako Boss’s Day. My pytamy jaki powinien być idealny przełożony.",
-      "link": "https://www.radio90.pl/dzisiaj-dzien-szefa-pytamy-jaki-powinien-byc-szef.html",
-      "published": "2026-10-16T11:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "961efdc86c03dd945d98f32272669904b43d5849",
-      "title": "„Wiemy, co robić, ale nie wiemy, gdzie iść”. Rybniczanie o schronach i sytuacji alarmowej (wideo)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdUVkZE85VjRUZjBmY0pyMUxCWkE5RFR5UTY3TUlpYU9RRzVNcE5GMDJyemllR3ZLb1FoZzREX0phNG9qZlo4RXk3UVh4NDc4LUt0QWthR05KaGtFeng3Q3l2ckVYNWRsUi12NU1xeHl4a0hBbktOMGdFbUV2WVdlbndwTFhEMnFyLWhydTRDUVdtS2UzNWRsVTBnYTlLaUQ3MXdtSURFaXVzNEp4MkFmUzFpaGVXZllITGo5dk1XTE5MVEtaNGJBU2R6UmRCc042cno5eW1hODRmckdhU0d0Zw?oc=5",
-      "published": "2026-10-16T10:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ca5bfc57f7e4512217d4f3fcc8ec99e4c3faa234",
-      "title": "Fortepian przy Starostwie Powiatowym w Rybniku znów zniszczony. „Sprawcy skakali po instrumencie” (foto, wideo)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMEVtN0NwelkyeFJDNmFJRzhnY1ljTnhrV1gzRXE3b2gxREl3djJqamxsenFkMkRxd2xqRm8xaGZMMEE2RTFjcG5CZ1VncDh4aWVPcWJidUZ4VjRNYmNWZUpmQWtuRGpaYVBjQXMtelVmc25jOTRmN01vbDRjMElBWWhCZjAyYm9DLVBfbVh0bVBESldOWmxIWW1qQXNFZXJaRWJjbW5xSFczR3U5bGRqYjJLcUFvVmxjYjNjaG5Wa2QxeENDOFlROG40QWpobmZCenI1aUhMMVdfVUhVWjlzeHd6QjdhSWI0NEw3eTRJa2ZwdF9LOEE?oc=5",
-      "published": "2026-10-16T08:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
