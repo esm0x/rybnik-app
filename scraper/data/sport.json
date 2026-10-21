@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:38:01",
+  "generated_at": "2026-10-21T04:44:06",
   "count": 60,
   "failures": [],
   "teams": [
@@ -671,7 +671,7 @@
       "teamId": "row-1964",
       "competition": "III liga, Kolejka 15",
       "date": "2026-10-30",
-      "time": "13:45",
+      "time": "13:30",
       "home": "Raków II Częstochowa",
       "away": "ROW 1964 Rybnik",
       "isHome": false,
