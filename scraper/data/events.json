@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T17:09:59",
+  "generated_at": "2026-10-21T21:40:43",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,7 +7,7 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 112,
+  "count": 113,
   "failures": [],
   "events": [
     {
@@ -26,7 +26,7 @@
       "title": "Lata 80-te przy świecach w Rybniku",
       "category": "Impreza",
       "start": "2026-10-21T19:30",
-      "end": "2026-10-21T21:00",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Wielkie przeboje, ciepłe światło świec i neonowe akcenty stworzą w Teatrze Ziemi Rybnickiej klimat, który przeniesie publiczność do lat 80. Koncert „Lata 80-te przy świecach” połączy znane melodie z kameralnymi, pełnymi emocji aranżacjami. Koncert odbędzie się w środę, 21 października 2026 roku o godz. 19:30 w Teatrze Ziemi Rybnickiej w Rybniku. Bilety są dostępne w sprzedaży internetowej; ich ceny nie podano w przekazanych informacjach. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . W programie znalazły się przeboje takich wykonawców jak A-ha, Alphaville, Queen, Depeche Mode, U2, Roxette, Whitney Houston i Scorpions. Nie zabraknie też tanecznych hitów ABBY, Modern Talking, Bee Gees i Boney M. Całość uzupełni specjalny blok inspirowany filmem „Terminator” oraz jedną z najbardziej rozpoznawalnych polskich piosenek tamtej dekady.",
       "sourceName": "iRybnik",
@@ -686,11 +686,22 @@
       "title": "Małgorzata Ostrowska - 45 lat: koncert jubileuszowy",
       "category": "Koncert",
       "start": "2026-11-08T17:00",
-      "end": null,
+      "end": "2026-11-08T18:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Małgorzata Ostrowska, legenda polskiej piosenki, zaprasza na jubileuszowe koncerty z okazji 45-lecia pracy artystycznej! Jedna z największych ikon polskiej muzyki rockowej, właścicielka rozpoznawalnego od pierwszych dźwięków głosu, idąca zawsze własną drogą artystka bezkompromisowa – taką ją uwielbiamy i z taką spotkamy się ponownie na żywo w 2026 roku. Rocznicowa trasa przeprowadzi nas przez wszystkie etapy kariery artystki: od drapieżnych i kolorowych lat 80. przez dojrzałą solową twórczość, aż po ostatnie dokonania, w tym doskonale przyjętą płytę „Legenda”, na której artystka wróciła do swoich muzycznych korzeni. Każdy z koncertów będzie okazją do wspomnień, wzruszeń, ale też wspólnej zabawy kilku pokoleń słuchaczy, które wychowały się na piosenkach takich jak Meluzyna, Szklana pogoda, Gołębi puch, Mam dość, Taniec pingwina na szkle czy Mister of America .",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/malgorzata-ostrowska-45-lat-koncert-jubileuszowy.html"
+    },
+    {
+      "id": "bilnya-lalka-2026-202611091530",
+      "title": "Lalka (2026)",
+      "category": "Film",
+      "start": "2026-11-09T15:30",
+      "end": "2026-11-09T17:00",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/film/Lalka-2026?eid=711459#opis"
     },
     {
       "id": "tzr-trzy-pozegnania",
