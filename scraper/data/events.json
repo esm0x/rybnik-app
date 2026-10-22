@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T04:40:24",
+  "generated_at": "2026-10-22T11:48:13",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,20 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 113,
+  "count": 115,
   "failures": [],
   "events": [
-    {
-      "id": "bilnya-galeria-sztuki-rzeczna-202610220905",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-10-22T09:05",
-      "end": "2026-10-22T10:35",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=711659#opis"
-    },
     {
       "id": "bilnya-lalka-2026-202610230815",
       "title": "Lalka (2026)",
@@ -330,6 +319,17 @@
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=712074#opis"
     },
     {
+      "id": "dk-chw-koncert-miedzy-sacrum-a-profanum-20261027",
+      "title": "Koncert „Między sacrum a profanum”",
+      "category": "Koncert",
+      "start": "2026-10-27T18:00",
+      "end": null,
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "Koncert „Między sacrum a profanum” - dla misji franciszkańskich już 27.10.2026 r. o 18:00 w naszym domu kultury. Bezpłatne wejściówki na wydarzenie można odebrać w Parafiach: m.in. Rzymskokatolicka Parafia Świętej Teresy od Dzieciątka Jezus w Rybniku-Chwałowicach; Klasztor Franciszkanów i Parafia pw. Św. Józefa Robotnika.",
+      "sourceName": "DK Chwałowice",
+      "sourceUrl": "https://www.dkchwalowice.pl/?news=52360"
+    },
+    {
       "id": "bilnya-galeria-sztuki-rzeczna-202610280900",
       "title": "Galeria Sztuki Rzeczna",
       "category": "Wystawa",
@@ -550,6 +550,17 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/roza.html"
     },
     {
+      "id": "iryb-rozmowy-miedzynarodowe-z-magdalena-parys",
+      "title": "Rozmowy międzynarodowe z Magdaleną Parys",
+      "category": "Impreza",
+      "start": "2026-11-04T18:00",
+      "end": null,
+      "venue": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku",
+      "description": "Polityka, literatura i codzienne życie będą tematami spotkania z Magdaleną Parys w Rybniku. Wydarzenie odbędzie się w ramach cyklu „Rozmowy międzynarodowe”. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Gościnią spotkania będzie Magdalena Parys, polska pisarka i felietonistka mieszkająca w Berlinie. Rozmowa obejmie tematy związane z polityką, książkami i życiem. Spotkanie poprowadzi Aleksandra Klich. Wydarzenie organizuje Powiatowa i Miejska Biblioteka Publiczna w Rybniku.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/rozmowy-miedzynarodowe-z-magdalena-parys"
+    },
+    {
       "id": "iryb-rybnik-dla-biznesu-2026",
       "title": "Rybnik dla Biznesu 2026",
       "category": "Impreza",
@@ -570,6 +581,17 @@
       "description": "„Moja mama gorylica” to pełna humoru, ciepła i wzruszeń animacja, która pokazuje najmłodszym widzom, że prawdziwa rodzina to przede wszystkim miłość, troska i poczucie bezpieczeństwa. Mała Jonna mieszka w domu dziecka i marzy o własnej rodzinie. Pewnego dnia zostaje adoptowana przez… gorylicę! Początkowo obawia się swojej nietypowej mamy, jednak szybko odkrywa, że za jej niecodziennym wyglądem kryje się ogromne serce. Między bohaterkami rodzi się wyjątkowa więź. Nie wszyscy jednak potrafią ją zrozumieć. Inne dzieci chcą „uratować” Jonnę, a lokalne władze zaczynają interesować się jej nową rodziną. Czy dziewczynce i jej mamie uda się obronić wspólne szczęście? „Moja mama gorylica” to mądra i wzruszająca historia o akceptacji odmienności, empatii i sile rodzinnych więzi. Przypomina, że nie warto oceniać innych po wyglądzie, a miłość potrafi pojawić się w najbardziej nieoczekiwanych okolicznościach. Film jest adaptacją książki szwedzkiej pisarki Fridy Nilsson, wydanej w Polsce przez Wydawnictwo Zakamarki. TU KINO – więcej niż seans filmowy! Zapraszamy grupy przedszkolne i uczniów młodszych klas szkół podstawowych na cykl TU KINO, w którym wartościowe europejskie filmy łączymy z krótkimi, angażującymi prelekcjami. Starannie dobrany repertuar rozwija wyobraźnię, uczy empatii i zachęca do rozmów o emocjach oraz relacjach z innymi. „Moja mama gorylica” to doskonały punkt wyjścia do rozmowy o rodzinie, tolerancji, przyjaźni i szacunku wobec odmienności. Seans stanowi wartościowe uzupełnienie zajęć przedszkolnych i edukacji wczesnoszkolnej. Informacje organizacyjne Czas trwania: 75 minut Kategoria wiekowa: 5+ Cena biletu: 15 zł / dziecko Warunek organizacji seansu: udział minimum 100 dzieci Rezerwacje biletów grupowych: e-mail: to@tuczytamy.pl tel.: 731 069 311 Zapraszamy nauczycieli i wychowawców do rezerwacji miejsc dla swoich grup.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/tu-kino-moja-mama-gorylica-seans-dla-szkol-i-przedszkoli/"
+    },
+    {
+      "id": "iryb-nie-tylko-kryminal-o-literaturze-skandynawskiej-spotkanie-z",
+      "title": "Nie tylko kryminał. O literaturze skandynawskiej – spotkanie z cyklu „Bliżej”",
+      "category": "Impreza",
+      "start": "2026-11-05T18:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Literatura skandynawska to nie tylko kryminały. Podczas kolejnego spotkania z cyklu „Bliżej” uczestnicy przyjrzą się jej różnym odsłonom — od książek znanych z dzieciństwa po współczesną twórczość i szwedzką Nagrodę Nobla. Wydarzenie zaplanowano na 5 listopada 2026 roku o godz. 18:00 . Spotkanie odbędzie się w Bibliotece Głównej przy ul. Szafranka 7 w Rybniku . Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Spotkanie poprowadzą Paulina Rzymanek i Elżbieta Janota . W rozmowie pojawią się między innymi skandynawskie kryminały, „Dzieci z Bullerbyn”, współczesna literatura oraz szwedzka Nagroda Nobla.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/nie-tylko-kryminal-o-literaturze-skandynawskiej-spotkanie-z-cyklu-blizej"
     },
     {
       "id": "iryb-dobry-wieczor-andrzej-poniedzielski-w-rybniku",
@@ -697,7 +719,7 @@
       "title": "X Biesiada Śląska. \"Szczęśliwej drogi, już czas\"",
       "category": "Koncert",
       "start": "2026-11-11T17:00",
-      "end": null,
+      "end": "2026-11-11T18:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Zapraszamy na jubileuszową, X Biesiadę Śląską – wieczór pełen znanych piosenek, wspólnego śpiewania, wzruszeń i dobrej zabawy.",
       "sourceName": "TZR",
@@ -1111,6 +1133,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/inertia-over-rybnik-ironbound-kingsphere-i-m2r1-w-klubie-odyseja"
     },
     {
+      "id": "dk-chw-spektakl-wilijo-na-poziomie-650-20261212",
+      "title": "Spektakl \"Wilijo na poziomie 650\"",
+      "category": "Spektakl",
+      "start": "2026-12-12T18:00",
+      "end": null,
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "W sobotę 12 grudnia 2026 r. o 18:00 zapraszamy na spektakl Wilijo na poziomie 650 w wykonaniu Teatru dla Dorosłych. Bilety 45 zł/ 36 zł z Rybką są dostępne w kasie domu kultury lub sprzedaży internetowej.",
+      "sourceName": "DK Chwałowice",
+      "sourceUrl": "https://www.dkchwalowice.pl/?news=52364"
+    },
+    {
       "id": "iryb-the-analogs-rybnik-koncert",
       "title": "THE ANALOGS Rybnik koncert",
       "category": "Koncert",
@@ -1131,6 +1164,17 @@
       "description": "Piosenki Agnieszki Osieckiej zabrzmią w kameralnej odsłonie w Klubie Odyseja w Rybniku. W programie znajdą się utwory znane z interpretacji m.in. Maryli Rodowicz, Marka Grechuty, Edyty Geppert i Skaldów. Data: 13 grudnia 2026 roku (niedziela), godz. 18:07 Miejsce: Klub Odyseja, Rybnik Bilety: dostępne w serwisach KupBilecik, Biletyna i Biletomat. Ceny nie podano. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Podczas koncertu zabrzmią utwory, które przed laty wykonywali m.in. Edmund Fetting, Krystyna Janda, Łucja Prus i Seweryn Krajewski. To muzyczna podróż przez piosenki pełne charakterystycznych tekstów i melodii, które na stałe zapisały się w polskiej kulturze.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/osiecka-krolowa-piosenki-koncert-w-rybniku"
+    },
+    {
+      "id": "dk-bog-11145-ogolnopolski-konkurs-plastyczny-moj-przyjaciel-wyobraznia",
+      "title": "Ogólnopolski Konkurs Plastyczny - \"MÓJ PRZYJACIEL WYOBRAŹNIA\"",
+      "category": "DlaDzieci",
+      "start": "2026-12-18T16:00",
+      "end": "2027-01-15T19:00",
+      "venue": "Dom Kultury Boguszowice",
+      "description": "Dom Kultury w Rybniku-Boguszowicach zaprasza dzieci i młodzież z całej Polski do udziału w konkursie plastycznym „MÓJ PRZYJACIEL WYOBRAŹNIA”. Chcemy zobaczyć świat oczami młodych artystów. Ich pomysły, marzenia, fantastyczne stworzenia i niezwykłe historie. Bez kopiowania cudzych pomysłów i przekonania, że niebieski słoń albo latająca szafa to coś niestosownego. Oferujemy Wam mnóstwo miejsca na własną interpretację! KTO MOŻE WZIĄĆ UDZIAŁ? Zapraszamy przedszkolaki i uczniów szkół podstawowych z całej Polski. Konkurs odbywa się w czterech kategoriach wiekowych: dzieci z przedszkoli (4-6 lat), uczniowie klas I – III, uczniowie klas IV – VI, uczniowie klas VII – VIII. ZADANIE KONKURSOWE Pokaż nam, kim lub czym jest TWÓJ PRZYJACIEL – WYOBRAŹNIA!Możesz go narysować, namalować albo stworzyć z wykorzystaniem różnych technik plastycznych. Może być zabawny, tajemniczy, trochę zwariowany lub zupełnie niepodobny do niczego, co znamy. Najważniejsze, żeby był Twój! Techniki i formaty prac: rysunek, malarstwo, płaskie techniki mieszane – format A3, grafika – format A4 lub A3. Nie dopuszczamy materiałów sypkich ani plasteliny. Każdy uczestnik może zgłosić jedną, samodzielnie wykonaną pracę. Prace stworzone przy użyciu sztucznej inteligencji nie będą brały udziału w konkursie. TERMIN NADSYŁANIA PRAC – 18 GRUDNIA 2026 r. Prace można dostarczyć osobiście lub przesłać pocztą na adres: Dom Kultury w Rybniku-Boguszowicach Plac Pokoju 1, 44-253 Rybnik Z dopiskiem: „MÓJ PRZYJACIEL WYOBRAŹNIA” W przypadku wysyłki decyduje data stempla pocztowego. Do każdej pracy należy dołączyć wypełnioną kartę zgłoszenia, przyklejoną na jej odwrocie. Prosimy nie oprawiać, nie rolować ani nie podklejać prac. NAGRODY I FINAŁ KONKURSU Na zdobywców trzech pierwszych miejsc w każdej kategorii wiekowej czekają nagrody rzeczowe i dyplomy. 15 stycznia 2027 r. w Domu Kultury w Rybniku-Boguszowicach odbędzie się uroczysta prezentacja prac, ogłoszenie wyników i wręczenie nagród. Laureatów poinformujemy drogą mailową. Nagrody nie są wysyłane pocztą. Można będzie je odebrać do 20 marca 2027 r. POBIERZ DOKUMENTY KONKURSOWE: REGULAMIN KONKURSU KARTA ZGŁOSZENIA KONTAKT Z ORGANIZATOREM Dom Kultury w Rybniku-Boguszowicach tel. +48 885 605 588, 32 42 52 016 e-mail: zaopatrzenie@dkboguszowice.pl Rodzice, nauczyciele, wychowawcy – zaproponujcie ten konkurs swoim młodym artystom! Resztą niech się zajmie dziecięca wyobraźnia!",
+      "sourceName": "DK Boguszowice",
+      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/ogolnopolski-konkurs-plastyczny-moj-przyjaciel-wyobraznia/"
     },
     {
       "id": "tzr-krolewna-sniezka-i-siedmiu-rybnickich-krasnoludkow-122026",
@@ -1230,28 +1274,6 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
-    },
-    {
-      "id": "bilnya-bartosz-gajda-po-lecie-stand-up-nowy-program-202704121900",
-      "title": "Bartosz Gajda - \"PO LECIE\" - stand up NOWY PROGRAM",
-      "category": "Kabaret",
-      "start": "2027-04-12T19:00",
-      "end": "2027-04-12T20:30",
-      "venue": "inoWino Świerklaniec, Jana III Sobieskiego 9",
-      "description": "😂⏳ Czas leci jak szalony? To idealny moment na solidną dawkę śmiechu! Bartosz Gajda wraca z nowym stand-upem – inteligentny humor, absurd i zero zbędnych wulgaryzmów. Przyjdź i pośmiej się z życia, zanim znów przyspieszy 🎤✨🎟️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/stand-up/Bartosz-Gajda/po-lecie?eid=713645#opis"
-    },
-    {
-      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
-      "title": "NutkoSfera - CeZik dzieciom",
-      "category": "DlaDzieci",
-      "start": "2027-12-03T17:00",
-      "end": "2027-12-03T18:20",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }
