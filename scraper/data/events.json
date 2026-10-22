@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:40:43",
+  "generated_at": "2026-10-22T04:40:24",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -10,28 +10,6 @@
   "count": 113,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-stand-up-kuba-wu",
-      "title": "Stand-up Kuba Wu",
-      "category": "Kabaret",
-      "start": "2026-10-21T19:00",
-      "end": null,
-      "venue": "Dom Kultury Rybnik-Chwałowice",
-      "description": "21 października w Domu Kultury w Rybniku-Chwałowicach wystąpi Kuba Wu, stand-uper związany z trójmiejską sceną. Wieczór rozpocznie open mic, podczas którego na scenę będą mogli zgłosić się kolejni wykonawcy. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Pierwszą część wieczoru wypełni open mic. Następnie wystąpi Kuba Wu, komik związany z trójmiejską sceną stand-upową. Wydarzenie jest przeznaczone wyłącznie dla osób dorosłych. Podczas występu obowiązuje zakaz nagrywania audio i wideo. Organizatorem jest Dom Kultury w Rybniku-Chwałowicach.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/stand-up-kuba-wu"
-    },
-    {
-      "id": "iryb-lata-80-te-przy-swiecach-w-rybniku",
-      "title": "Lata 80-te przy świecach w Rybniku",
-      "category": "Impreza",
-      "start": "2026-10-21T19:30",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Wielkie przeboje, ciepłe światło świec i neonowe akcenty stworzą w Teatrze Ziemi Rybnickiej klimat, który przeniesie publiczność do lat 80. Koncert „Lata 80-te przy świecach” połączy znane melodie z kameralnymi, pełnymi emocji aranżacjami. Koncert odbędzie się w środę, 21 października 2026 roku o godz. 19:30 w Teatrze Ziemi Rybnickiej w Rybniku. Bilety są dostępne w sprzedaży internetowej; ich ceny nie podano w przekazanych informacjach. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . W programie znalazły się przeboje takich wykonawców jak A-ha, Alphaville, Queen, Depeche Mode, U2, Roxette, Whitney Houston i Scorpions. Nie zabraknie też tanecznych hitów ABBY, Modern Talking, Bee Gees i Boney M. Całość uzupełni specjalny blok inspirowany filmem „Terminator” oraz jedną z najbardziej rozpoznawalnych polskich piosenek tamtej dekady.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/lata-80-te-przy-swiecach-w-rybniku"
-    },
     {
       "id": "bilnya-galeria-sztuki-rzeczna-202610220905",
       "title": "Galeria Sztuki Rzeczna",
@@ -1252,6 +1230,28 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
+    },
+    {
+      "id": "bilnya-bartosz-gajda-po-lecie-stand-up-nowy-program-202704121900",
+      "title": "Bartosz Gajda - \"PO LECIE\" - stand up NOWY PROGRAM",
+      "category": "Kabaret",
+      "start": "2027-04-12T19:00",
+      "end": "2027-04-12T20:30",
+      "venue": "inoWino Świerklaniec, Jana III Sobieskiego 9",
+      "description": "😂⏳ Czas leci jak szalony? To idealny moment na solidną dawkę śmiechu! Bartosz Gajda wraca z nowym stand-upem – inteligentny humor, absurd i zero zbędnych wulgaryzmów. Przyjdź i pośmiej się z życia, zanim znów przyspieszy 🎤✨🎟️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/stand-up/Bartosz-Gajda/po-lecie?eid=713645#opis"
+    },
+    {
+      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
+      "title": "NutkoSfera - CeZik dzieciom",
+      "category": "DlaDzieci",
+      "start": "2027-12-03T17:00",
+      "end": "2027-12-03T18:20",
+      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
+      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }

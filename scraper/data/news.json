@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-21T21:42:15",
+  "generated_at": "2026-10-22T04:41:49",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "3fee83964c16d74bac7c2b1d2ee4503f54a3e7c0",
+      "title": "Nie ankiety, lecz referendum. Tak mieszkańcy chcą rozstrzygnąć, czy Pietrowice Wielkie zostaną miastem",
+      "summary": "Pietrowice Wielkie czeka referendum w sprawie praw miejskich. To najważniejszy rezultat trzygodzinnego spotkania z mieszkańcami 21 października. Wójt Adam Wajda przekonywał, że zmiana statusu może otworzyć drogę do nowych dotacji i ułatwić planowanie zabudowy. Mieszkańcy zarzucali władzom, że o…",
+      "link": "https://www.nowiny.pl/wiadomosci/251685-nie-ankiety-lecz-referendum-tak-mieszkancy-chca-rozstrzygnac-czy-pietrowice-wielkie-zostana-miastem.html",
+      "published": "2026-10-21T21:44",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "19fe78ef0e6ee282fdcfe13a0ab2e3ac464b7dc8",
       "title": "Rybnicki talent z tytułem wicemistrza Czech w motocrossie",
@@ -264,16 +274,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "47b15c030aecc76810e1c8e7c238f5ffea4d8b23",
-      "title": "Najdroższe błędy przy wyborze studiów. Czego nie sprawdzają przyszli studenci?",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNW5KQTUyWHMtb3VncVVGTUE5NnF5VjFzdldvUHpzRFZmUEN1NktDYk41TFR5Skx4SjFIUFBUaC1nN01YeXpDN3RVTF9PbXF5bldSV2d1VGM3MkExNU83ejgxTGN5R2p5RDJwZ1FTeWxqczZCd3lJWkUyaHVkQUozTDh3aE1EeDZQaTRhMWhrZEpJYVRZbHd6dzNvVHpCQTJjODJCSTZUT1FiY0lDRWcwS21jQVhQU2ZLbWNEYXNkZmZlbzMwZm9CMk91dk9RNkk?oc=5",
-      "published": "2026-10-21T10:26",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "06468fd21754d31b49bf25db37f34f807cd5baaf",
       "title": "Martyna Baranowska stworzyła mural o dawnej fabryce czekolady w Raciborzu",
       "summary": "Na ścianie budynku Miejskiego Zarządu Budynków przy ul. Środkowej powstał nowy mural miejski. Przypomina o dawnej fabryce czekolady, która mieściła się w budynku obok - obecnie Urzędzie Miasta Racibórz. Cała realizacja ścienna zajmuje 41 m kw.",
@@ -319,26 +319,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMVlJdzc5ZHczMFBlbVVlbzR2NmZPMUNyUG9Eb0VrdEc3Um1IRDNVSWRzbWV4bF80Mm9Cdm5rd092VTNXTnFaVVVsbUh0dVpCWWhqdG5ReHl6MHROWklOaFI0UnNDM1c4eEZYcjBaMlk0dElhZUJGZG5nZWJpLTJYSVV1dEhENE1ueHRMblBKMjdrSWZFcUg4VGdQaE1IMEYwODh3bF9pYWtZYkNPTlo1aXEzY1BaUkVEbDZvWFN6Sm5laFN6dVNyMThB?oc=5",
       "published": "2026-10-21T09:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "893a8f07f85fea02fd9290f5856fd15e0228ada7",
-      "title": "Szykują się zmiany w wodzisławskich szkołach i przedszkolach. Powstanie 6 nowych zespołów szkolno-przedszkolnych",
-      "summary": "Prezydent Wodzisławia Śląskiego Mieczysław Kieca ogłosił zmiany w sieci szkół i przedszkoli. To efekt analiz i konsultacji, prowadzonych w pierwszej połowie roku. Według zapowiedzi, zmiany nie będą drastyczne, a skupią się wyłącznie na tworzeniu nowych zespołów szkolno-przedszkolnych w roku…",
-      "link": "https://www.nowiny.pl/wiadomosci/251662-szykuja-sie-zmiany-w-wodzislawskich-szkolach-i-przedszkolach-powstanie-6-nowych-zespolow-szkolno-przedszkolnych.html",
-      "published": "2026-10-21T08:13",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d67fd59901d8dd20c5c433894b341e61b41474eb",
-      "title": "Produkcja sałatek - Praca w Holandii ??",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOHM2OEdxMHczQTZJTDJiZjhmRFBMOERWZ2JOU0kzY0R5VGx1RzJwN3ZQbl9aNjU1SERiYlltNHRBVmJpZUVMOGZyQ1ljWmZWYTBuUVVJWU1DQ1dQcDNUVVkzTEhYTDlIRmpEMVVUbF8yNW1oWjZHeFdORkhWeEFzbTRtOVVlMXVxSGZTYzN6dElrbUt0NGJXcw?oc=5",
-      "published": "2026-10-21T07:49",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -454,16 +434,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "59e686e9c71e52b3a72e869fa5a3046bf149170c",
-      "title": "Imponujące zwycięstwo rybnickich „Frelek”. TS ROW Rybnik rozbił Wisłę Skoczów",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObVp6QlJGR0pRZU5vNUEtN21ZRlRpenQtdk9uODJhUmFDdzZvU2tNQkNZMUZjOVZuamdSNDlXTU9NMXAxUDNiM0l3c3ZjQnJkdkpfNnVDWGpxTVRfZDJYNWFzUVY3SUh1TUhQTmx1Y1NCcUFOWFpja2w5RlFVcGZ4RkFDM3I2MUhUR3YyMVBwZk1JSUkzbFVpWmNEVjBiejBWNzZQdWg0MEpEVkdSNTdwU1J2UWp2Vlp5dDB5WVc2RVpWQ0FpbkhyS0lWMTI?oc=5",
-      "published": "2026-10-20T17:23",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "26ad496281636c3b5743001ff87bb0ad93f62651",
       "title": "Polska zmienia taktykę w Brukseli. Resort energii zmienia wniosek o pomoc dla górnictwa",
       "summary": "",
@@ -489,26 +459,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaE5CMUdVTnNwSHRnZFZ0VGxTR0U1cjd5bnBKN3BMcU5DdE9xVElFTlNhYnJxaVk3eEpFcWNhdjE3X2cxZDB6dGwyQXVJUnZNdnRvOXVyQnFLT083Znd3eF9WUGt0NlZlTkU4STRHNEtFc3pGWG5fdHhzV0RBRXBGcElTeThzOTFvcGFRdkpmXzRodlNmV0lwMFhnQnFmMXpGaGpKSHBCVktGN1E5cE1DVkRLa1VFSGpKSXAyV1dDYXVRVURLMmN2VHgtUTl2VGc?oc=5",
       "published": "2026-10-20T15:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "7b7bf22fe36c28cb441964b00b605751a688bfcf",
-      "title": "Wbił się w autobus. 21-letni kierowca w stanie krytycznym trafił do szpitala (wideo, foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRnlLUVNnTlZXb0VuSl9aaEFEMnhtT0JnQXhDVjBOVzY1NjB5T0JkRkg0U01naTVFeEkyOUw4clVSVncwYV9xS21ocGpuSWo3YlE5WFZPRjJfNnZwOWRUNUxnSlBUVEYwbWp4Q1lQMEswLW5ud3dXX0szZkdjcjR5cjBVc0pDa2duc05JeTdzbUI3YXRHUmdFNWFWeVFXS0JIMUgtdHJmVWlnZ2FCUUlSZjQ0R2IwWUN1VVphZVd3QXFMYVlKNThLX1FLZXFvN2RKcE9mclZmU3ZfR1A5LXE4?oc=5",
-      "published": "2026-10-20T15:09",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3b6f31290535f4ea19f99dcfe58668ebfef7b674",
-      "title": "Nie żyje Marek Sachs. Zmarł założyciel i prezes firmy Sachs Trans",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU1N1eDBVSTdxcW9pa1FxVFh2bDlTZ3NWdTl4UVM3VlpsZVV0bFEzV09lTE5lWUVsRGpxcWlqRkg5T3VvcXF0aGJ1c25rQm9nczVxNzByVnhTQW44b3V4aE9DbEw5YTdxSk1XaVVKZDNmbkc0NTVKTVVaaTczYWlBeV9VekpXYW9tZFNfbTB4ckhuYjZKWEJZZnR3RTF2M0xEMVVLMTVfYUF0V19yZWJ1TFlGVlZEQnRQRmxhNTJsSEVzZw?oc=5",
-      "published": "2026-10-20T14:01",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -544,6 +494,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "33716f312107735acb72ee0bc72ff2a8cd746971",
+      "title": "Nie żyje Marek Sachs. Zmarł założyciel i prezes firmy Sachs Trans",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3ltWlNxZmI4YjB6M3ljUmczaGR4am5mMEtjMFBuU1lFM3NNYUNOdmp3ZU9hcWs0R2FVc2JFdm5NeUJuUVU5QWZxbEdaZUlDR0t0M2xGMy1ZY0FIdGl5SHB0N2pmc0loY2pidlhxZV9PSkN2bkNablZqOUdqb0hCMnlNekNQal9LZlhGWHBaM2Q2ZkgxdXVkMmxqYURIdHhQWWhUREktelBQWjBvanF4dmxoSHVsa3JpZVFuSWxBQQ?oc=5",
+      "published": "2026-10-20T10:35",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "72bec0b0dff88a7796feb02c867a7723bcc80e5a",
       "title": "Czego życzą sobie seniorzy? Zdrowia i łatwiejszego dostępu do lekarza [SONDA]",
       "summary": "Ponad 10 milionów seniorów żyje w Polsce, a ich liczba będzie rosła. Z okazji Europejskiego Dnia Seniora pytamy, z jakimi wyzwaniami mierzą się osoby starsze i czego najbardziej im dziś potrzeba.",
@@ -569,6 +529,16 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlM0ZzhRWDE3X3d4ZDdFcTV5S19vLXhSOENMRmxwSm9iYmpud1d6c0liZTRBT3BzZGMxdTdXMFZIS2NScXBLV1pGa0FzU0RaRUZxd3JNVU9LQWVkODRvY2ZoYVpuMGRHLW1ESWxOazU3MjE2MWYwYnB5SHdaSUNCamY1SXVtYkwxY1RlaHVRU29SSjNFNEgxd2MzdFdkYzdaNlNkekgydGQtY2xJTThhT1Z4MG9kdnoxdEdZdndwdnI3ZzAwakE?oc=5",
       "published": "2026-10-20T09:36",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9028343f7e9d0e845d1e863afc08240d673b592d",
+      "title": "Wbił się w autobus. 21-letni kierowca w stanie krytycznym trafił do szpitala (wideo, foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNnh5akpsTzloNVFfNTUxeG1LckRBMnFCM1VQRWhsMDc1a2FnRTdReWF2VDNLcnlTT05QWnNhTXBwMGRWLVp3azhwdlQtcDlxVUY2YnJrRENOclJVR1RjS1JrWndMUkk5aTBwckRyNEZKTEFPV25OYVdTTTJXYnhHZklEd1Jrd0txYWhLY2pDSmEwQmhFNmotY2VWTmFxeXFtUWNwVzk1OTY0alR0dHJXRzBBbVBreHhyMTFRWllRQkNRcU1WMnB2ZmxMdFJyZThUZWk5Q3Y4b0dlUHZ5?oc=5",
+      "published": "2026-10-20T08:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -784,6 +754,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "ae11751d870e02db0351bf404abf45d8958863a5",
+      "title": "Nie żyje Alojzy Zimończyk. Były wicedyrektor rybnickiego „Tygla”",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGJTQVAyZ3pYSk9kdzRjOWVkeEtHN0U5RzBVWllINmp4M2FnM1BudElpZngxTXY5N2EwbURVX044OXZrTUU1S1JJQ3UzQW5DVzdGUHVKT09CNkVQVEdFMVZ1RGQ1d05JMERpMWh5YXh6Wk1TYmh1LWVHbm5sV1pPbUdENnV0TUhyNjI5ZzZSTXdNXzB2R0pFTkpmU2pXa3FKME5UTFAyalZWMjB5QmVJTl9GaUtFN09SWTU4?oc=5",
+      "published": "2026-10-19T06:21",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "a1dcf831cb2a5a7b99b2377c489c4b7026db2deb",
       "title": "RMKS Xbest Rybnik wygrywa w Warszawie",
       "summary": "Trzecie zwycięstwo w tym sezonie koszykarek RMKS Xbest Rybnik. Tym razem rybniczanki wygrały na wyjeździe z zespołem AZS AWF Warszawa 78:46.",
@@ -870,6 +850,26 @@
       "link": "https://www.radio90.pl/bieg-wartko-bez-gaszowice-za-nami-200-smialkow-na-trasie-zdjecia.html",
       "published": "2026-10-18T13:30",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "51fa18e0f3f5b1d561776bb3003b7a3c5ede0e22",
+      "title": "Biegacze i kijkarze opanowali Gaszowice. Zobacz zdjęcia z Wartko bez Gaszowice!",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQnhHSzVDNTdsX1Z6bTN5NW1jUlF2dnVyb1hNc1c5MVdaTVN0ZnA2VmhaY3dxd1ZnVm9EOF94NGZ6UDZqNEtQRENuQjl2QjN3XzZyeFg3TlUwMGhkOWxCR244anItRUtzTmxoSVBWNjNwT0l2N1YwV2V6TE1YZzd2ck0wdWFsOXZBcTd5dG9PcHdOVFBCYzBiNFc5M1J0Wk02R0lyd2UzVHI2dVRqeGlQN1Q3aTFBZjVaN1FTMGNDMFBYSHhrT1lwVzRnbWJxdnVw?oc=5",
+      "published": "2026-10-18T12:53",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "20235b73fd520453496c66c1bd8284c1694deb52",
+      "title": "Wszystkiego Najlepszego, Mistrzu!",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtR3J2WDFVR212OXl1NDJ0V19HeWNtOUVpN0c1SFpiM1F2dHZ4T2xPTnBvMXdMeFZjR2NHcjVYN294UkllcFpWS2xUdTdTUTgyRFZsaktsQzgyMWlNSk01M1ZscFRCSGpjZEJKZ1hNRQ?oc=5",
+      "published": "2026-10-18T12:15",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -1084,6 +1084,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "203e053dbb41b9a1f5b67fbc956c874df4cbde30",
+      "title": "Tragedia na torach. Duże utrudnienia na trasie przez Rybnik",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWs4TllNNVVWSTh6VHExS1V5QndWX1VicG81UUhfYURSbmVpR05TS2dxSnJJWjhNVm5ObzN0T250N2U1VEk2SElXNmdKS0ljTzV5cXdEYTFJZkhBUnFaZ2lKbVpkVkhkZWdRWG5FNUR2S21MTGptZjF5Tmw4ZW9YSFVYMTdzSi0waElXSERhbGprMHBnenhaWGZDclRnbFVfR3FuMWRJel94ODI3MXNoWktNa0lBb3c?oc=5",
+      "published": "2026-09-29T07:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
       "id": "58df2c9bb4518162684e2576b69cd33cfcfcf602",
       "title": "Nowy inwestor w strefie gospodarczej przy ul. Sportowej",
       "summary": "17 września br. rozstrzygnięty został przetarg na sprzedaż terenu o powierzchni 2 ha na terenie strefy gospodarczej przy ul. Sportowej w dzielnicy Niewiadom.",
@@ -1121,16 +1131,6 @@
       "published": "2026-09-25T00:00",
       "source": "rybnik.eu",
       "category": "Rada Miasta",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b273ab316c8bbb65137ca9b6b3801386fa841de7",
-      "title": "Plan miejscowy dla ulicy Janowickiej uchwalony",
-      "summary": "Nowe ustalenia dla Zamysłowa to efekt bezpośrednich rozmów z mieszkańcami i uwzględnienia ich wniosków.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/plan-miejscowy-dla-ulicy-janowickiej-uchwalony",
-      "published": "2026-09-24T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
       "priority": "NORMAL"
     },
     {
