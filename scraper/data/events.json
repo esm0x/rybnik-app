@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:48:13",
+  "generated_at": "2026-10-22T17:08:51",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,7 +7,7 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 115,
+  "count": 119,
   "failures": [],
   "events": [
     {
@@ -319,15 +319,15 @@
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=712074#opis"
     },
     {
-      "id": "dk-chw-koncert-miedzy-sacrum-a-profanum-20261027",
-      "title": "Koncert „Między sacrum a profanum”",
+      "id": "iryb-koncert-miedzy-sacrum-a-profanum-dla-misji-franciszkanskich",
+      "title": "Koncert „Między sacrum a profanum” dla misji franciszkańskich",
       "category": "Koncert",
       "start": "2026-10-27T18:00",
       "end": null,
       "venue": "Dom Kultury Rybnik-Chwałowice",
-      "description": "Koncert „Między sacrum a profanum” - dla misji franciszkańskich już 27.10.2026 r. o 18:00 w naszym domu kultury. Bezpłatne wejściówki na wydarzenie można odebrać w Parafiach: m.in. Rzymskokatolicka Parafia Świętej Teresy od Dzieciątka Jezus w Rybniku-Chwałowicach; Klasztor Franciszkanów i Parafia pw. Św. Józefa Robotnika.",
-      "sourceName": "DK Chwałowice",
-      "sourceUrl": "https://www.dkchwalowice.pl/?news=52360"
+      "description": "W Domu Kultury w Rybniku-Chwałowicach odbędzie się koncert poświęcony misjom franciszkańskim. Wydarzenie „Między sacrum a profanum” połączy występy franciszkanina o. Dymitra Żeglina i sopranistki Aleksandry Stokłosy. Koncert zaplanowano na 27 października 2026 roku o godz. 18:00 w Domu Kultury w Rybniku-Chwałowicach przy ul. 1 Maja 91b w Rybniku . Bezpłatne wejściówki można odebrać między innymi w parafii św. Teresy od Dzieciątka Jezus w Rybniku-Chwałowicach, Klasztorze Franciszkanów oraz parafii pw. św. Józefa Robotnika. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/koncert-miedzy-sacrum-a-profanum-dla-misji-franciszkanskich"
     },
     {
       "id": "bilnya-galeria-sztuki-rzeczna-202610280900",
@@ -1133,15 +1133,15 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/inertia-over-rybnik-ironbound-kingsphere-i-m2r1-w-klubie-odyseja"
     },
     {
-      "id": "dk-chw-spektakl-wilijo-na-poziomie-650-20261212",
-      "title": "Spektakl \"Wilijo na poziomie 650\"",
+      "id": "iryb-spektakl-wilijo-na-poziomie-650",
+      "title": "Spektakl „Wilijo na poziomie 650”",
       "category": "Spektakl",
       "start": "2026-12-12T18:00",
       "end": null,
       "venue": "Dom Kultury Rybnik-Chwałowice",
-      "description": "W sobotę 12 grudnia 2026 r. o 18:00 zapraszamy na spektakl Wilijo na poziomie 650 w wykonaniu Teatru dla Dorosłych. Bilety 45 zł/ 36 zł z Rybką są dostępne w kasie domu kultury lub sprzedaży internetowej.",
-      "sourceName": "DK Chwałowice",
-      "sourceUrl": "https://www.dkchwalowice.pl/?news=52364"
+      "description": "O wydarzeniach historycznych można opowiadać przez pryzmat ludzi, których dotknęły. Spektakl „Wilijo na poziomie 650” przybliży strajk podziemny w KWK Piast w grudniu 1981 roku oraz jego konsekwencje dla górników i ich rodzin. Przedstawienie zostanie wystawione w sobotę 12 grudnia 2026 roku o godz. 18:00 w Domu Kultury w Rybniku-Chwałowicach przy ul. 1 Maja 91b. Bilety kosztują 45 zł , a z Rybką 36 zł . Można je kupić w kasie domu kultury oraz w sprzedaży internetowej. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/spektakl-wilijo-na-poziomie-650"
     },
     {
       "id": "iryb-the-analogs-rybnik-koncert",
@@ -1199,6 +1199,17 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/najdrozszy-122026.html"
     },
     {
+      "id": "tzr-golo-i-wesolo-sylwester-w-teatrze",
+      "title": "Goło i wesoło. Sylwester w Teatrze",
+      "category": "Impreza",
+      "start": "2026-12-31T18:00",
+      "end": "2026-12-31T21:30",
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Kto z nas nie marzył o wielkiej karierze gwiazdy filmu czy rock'n'rolla? Na prawie taki sam pomysł wpadła grupka przyjaciół, która postanowiła zostać... striptizerami. Jak im poszło? Dowiecie się w przezabawnym spektaklu Goło i wesoło. Jedno jest pewne - będzie gorąco!",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/golo-i-wesolo-sylwester-w-teatrze.html"
+    },
+    {
       "id": "dk-chw-koncert-best-film-soundtracks-20270116",
       "title": "Koncert \"Best Film Soundtracks\"",
       "category": "Koncert",
@@ -1247,11 +1258,22 @@
       "title": "Vivaldi przy świecach",
       "category": "Koncert",
       "start": "2027-01-28T19:30",
-      "end": null,
+      "end": "2027-01-28T21:00",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Barok na wyciągnięcie ręki 300 lat temu „Cztery pory roku” Antonio Vivaldiego zaskoczyły świat swoją niezwykłą mocą i emocjami. Dziś masz szansę poczuć je tak, jak słuchali ich pierwsi odbiorcy – w kameralnej atmosferze, przy blasku świec, otoczeni muzyką, która łączy duchową głębię z radością życia. To nie tylko koncert – to podróż w czasie, pełna emocji, które przetrwały wieki.",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/vivaldi-przy-swiecach.html"
+    },
+    {
+      "id": "bilnya-ponad-chmurami-202701291900",
+      "title": "Ponad Chmurami",
+      "category": "Koncert",
+      "start": "2027-01-29T19:00",
+      "end": "2027-01-29T20:30",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": "🎶 Daj się porwać muzycznej podróży z zespołem Ponad Chmurami! Usłysz utwory z albumu „Zaprowadź mnie” i ukochane przeboje w kameralnej, pełnej ciepła atmosferze. ✨ Kup bilet i przeżyj ten wyjątkowy wieczór! 🎟️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/Ponad-Chmurami?eid=712260#opis"
     },
     {
       "id": "dk-bog-11035-dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-godz-16-00",
@@ -1274,6 +1296,28 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
+    },
+    {
+      "id": "bilnya-bartosz-gajda-po-lecie-stand-up-nowy-program-202704121900",
+      "title": "Bartosz Gajda - \"PO LECIE\" - stand up NOWY PROGRAM",
+      "category": "Kabaret",
+      "start": "2027-04-12T19:00",
+      "end": "2027-04-12T20:30",
+      "venue": "inoWino Świerklaniec, Jana III Sobieskiego 9",
+      "description": "😂⏳ Czas leci jak szalony? To idealny moment na solidną dawkę śmiechu! Bartosz Gajda wraca z nowym stand-upem – inteligentny humor, absurd i zero zbędnych wulgaryzmów. Przyjdź i pośmiej się z życia, zanim znów przyspieszy 🎤✨🎟️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/stand-up/Bartosz-Gajda/po-lecie?eid=713645#opis"
+    },
+    {
+      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
+      "title": "NutkoSfera - CeZik dzieciom",
+      "category": "DlaDzieci",
+      "start": "2027-12-03T17:00",
+      "end": "2027-12-03T18:20",
+      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
+      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }
