@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-22T21:35:36",
+  "generated_at": "2026-10-23T04:47:17",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "03a9dfed3eb196189d1a4f800e336872fa59ba96",
+      "title": "Seria ROW-u 1964 Rybnik zakończona. Wicelider za mocny w Katowicach",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZnA2Z0ZnNlZIazNjUkkzNlFOX2szTWpHak1UTHRmWXRPaDJSWDU3d1hZd3hfck1uc0ZzSnhXUVJDTm9fbE9BczlfUmdZU3NSc1VUZTRCRXhDX0dVcURfaFZFQlVIZDdlRGdqdUg5aDM0S2ZzVVk5ejhkaDBBUUE5VEVFSmY3RzMxUEVkcTg2aGJvbGRGTkpsbEpHd0g0b245SGEzZ2NDY19GS3JnN0d1ekxUZFRLc3NKMGdWazNuejdxZw?oc=5",
+      "published": "2026-10-22T21:28",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "42b1bddfa12b75b42a75981fd522683076eabbf3",
       "title": "Sukces uczniów rybnickiej Budowlanki. Zrealizują projekty badawcze z Politechniką Śląską",
@@ -129,16 +139,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aMGp1d1M3Y3Z0c1NFM3BqbUhZcVNtejVTRHU0V0sxX3BEQ2lNaWVWWEVoLWFvRDhNdzFfTGxxcDVzR2wxWGFpekZZT25QbHBPZ2IwQ09kNDlGaTlnOEhuSDRITk5oa01taTk3NzluZVprX0RCSkx2N3gwZFpQTEU?oc=5",
       "published": "2026-10-22T14:28",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8896ec63ac66131047dcc4e2e748dc20a597d0e7",
-      "title": "Państwowe odznaczenia dla kadr klinicznego szpitala i urzędu pracy. „Piękny wyraz uznania za służbę”",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaGQwTmYtdDY4VDlvYUNTaUhDeXVIOVl0LWQ4VkFoYVFiVEdESk80ZzY3SUpMdjRLWkdQQy0xMmdsSFhuVVR6REE3Qzhoamtka3VMMkdnR21pS3RUMVhXSFBjWGg0Ul9VeWd0YzJwX1p4WGNYdUh2NzlGcVRiaXl4eFF0RDlXOXBRS1RDenNQNEtCdWxneDJFUnVUeTNnZG82bllxeUJMT0VNUFQxR3kzWkROS2RfVVhpNmtXNXp4a24yelMyc3FZTjllOHdDX3lHc1kwTWpOeXRFUFVPRkZFUlVRR1Nid2JBeE5TTWh3?oc=5",
-      "published": "2026-10-22T13:35",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -314,6 +314,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "f258f89775bff32a7b92765872d4d2d274ae75cf",
+      "title": "Państwowe odznaczenia dla kadr klinicznego szpitala i urzędu pracy. „Piękny wyraz uznania za służbę”",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWjg0VEZ0U185X0xHWWtLYXpZLThJbnlvYUNpSzZoR19wVmdPbXNHNE15YkRQaUV4b1psUEE2dzVkdDdhZFdoRmpBbXFSWEdXbHhiUWFpYl9aeVhhY2RCVjZ1V2d0cURQb1IwVU9LZ3JCUThxWFhWcGphc2pZQTVvWURzeVBFRzVSRjJHY3JnMVUtbXIyQ21TVlhIeHJaR2ZZaG92cUJHQkF2UVdELThNU0RHYXhtVDJvUVprd3M4Nms0aS1OaGZGTEJhMjdXZzJRcW1pRE9tUjZmRjlaRDNSS0VYckstSFNNMzc4?oc=5",
+      "published": "2026-10-22T09:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "1823d565f363f33964d2e521d3bc9544e2491b8c",
       "title": "Działania kampanii „Życie to nie gra. Masz je tylko jedno”. Policja uczy bezpieczeństwa w szkołach",
       "summary": "",
@@ -434,6 +444,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "ca5479e03a0bc1539e7dbb2061e845ec966fcd92",
+      "title": "Jak zmieni się rynek w Czerwionce? Mieszkańcy współtworzą nową koncepcję (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV2dHdTNpZE1PUGdqaEtDMlBGX1I4WWE0WWRsQWpHVzh5dFZ5bUNjRjR4SzlNLURQcjh0akJ5UHhJLWJOUmFpTzJpeDJ3bEpONWl6a3BZekQ4eVR2WUh6R2NYXy05a3dfZWl0b3hfME5MMkduX3U1TXJ6dGVVVG9jQVdzN0NWQVJLZmhRZ09hUHV6UlZHYkR0MzlxN0E2Sl9KdmpUNExJMFpuOWlYajFrR1Jmb182aUZsZlFTY3EwcFB0emNVbXlPRW9SWUhTYXhnd0E?oc=5",
+      "published": "2026-10-21T17:01",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "306dac0a8cda7b4e0d3b2a60db969d59fc61c360",
       "title": "Jak zwiększyć swoją emeryturę? Doradcy pomogą oszacować przyszłe świadczenie",
       "summary": "",
@@ -490,16 +510,6 @@
       "link": "https://www.radio90.pl/rybnik-beda-ekrany-dzwiekochlonne-przy-stadionie-minizuzlowym.html",
       "published": "2026-10-21T12:50",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "645c7d9558571d2f90fbca8ac1eb37d1c559943d",
-      "title": "Jak zmieni się rynek w Czerwionce? Mieszkańcy współtworzą nową koncepcję (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjc2QTRKdUVOMnRZWlhCU2VnLU9ybkhqcnlyR3pDdjhHQzR0ZG1DN2l4Z1NmVWQ1eHFiejJDM25DWHIwcjhtWlBlbmliSXVOdTFsMk1XUGRnSlVYU1pfQTZhcU1ZWThZQ0lPeGxRSkthUDZfOExmM0F5aUVwVTNzY1ByRlJJS2dzZDVHS0hobWRhczYzVndKdXFRMVJuVkdrd0hlclVVR25PZVVxbGVzSEx6ZFZzemtPY2lmcUd1Um9acE9CX0Ffb1RwLUF2dUpuSUE?oc=5",
-      "published": "2026-10-21T12:36",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -659,16 +669,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTlFCQUFiOUhfMm1Qd1pDalB4ZjhOY01VZWNQUEZzaHNGZmRBbDU4N0tpY0ZFenFZejNIdnliRlQ1c09uVlJjTWp1ak5tY1V0ajRsN2JxLUs3ZTBHd281ZkhCRnZpaEpZMFFfNjFrSFlRaXBmdFpFajJ2NkVVbkRJa1RjdndSb0hzU21HNEZ1dnVvcHJjeVo1X3QwNFZKZXVZaDdZWDFrNW5CN3RzOFViX051bnNCVXhRX2JRTGJmTGo1b3NLcVItVmhmMlJ2NUZyOFNPaHVkUzdRcU9aTHV1R0VhdDlPZWFVYlpYckp4ekN2WVlh?oc=5",
       "published": "2026-10-20T18:19",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "26ad496281636c3b5743001ff87bb0ad93f62651",
-      "title": "Polska zmienia taktykę w Brukseli. Resort energii zmienia wniosek o pomoc dla górnictwa",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeWpTYUY4VVVIOFQtUW5aaVBpQUs0dl96RVVmM0ZjNkZ3SlExZERLbzR4ZTdxV2tCeDJCck40MWpiZUlGa1owLXZnUFBYeDdjOUZ4aXFUcFlqMjgtekduaGhZUnBnWGVJUDNwVzQ2Q200MUdJa0RDVGE5TXJPaE5DaXRzazBIVkNNUlNET2FWQ1VWUTl2RTlrVkVEY3Myb0xXdDVSNHlrX1RYVEtuTEVmR1piT2dPTnNMbWsyYVVFdklIRVpTOFZOeDRaQWhiQktOLXpwY2g3clJ5VWVk?oc=5",
-      "published": "2026-10-20T17:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
