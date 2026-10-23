@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T04:45:58",
+  "generated_at": "2026-10-23T11:35:14",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -10,39 +10,6 @@
   "count": 125,
   "failures": [],
   "events": [
-    {
-      "id": "bilnya-lalka-2026-202610230815",
-      "title": "Lalka (2026)",
-      "category": "Film",
-      "start": "2026-10-23T08:15",
-      "end": "2026-10-23T09:45",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/film/Lalka-2026?eid=701689#opis"
-    },
-    {
-      "id": "tzr-lalka-rez-maciej-kawalski",
-      "title": "„Lalka”, reż. Maciej Kawalski",
-      "category": "Film",
-      "start": "2026-10-23T08:15",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Mała Akademia Filmowa. Temat: Czy literatura ma jeszcze moc jednoczenia? Wykład wprowadzający: Łukasz Tura. Projekcja filmu „Lalka ”reż. Maciej Kawalski, Polska 2026",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/lalka-rez-maciej-kawalski.html"
-    },
-    {
-      "id": "bilnya-galeria-sztuki-rzeczna-202610231100",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-10-23T11:00",
-      "end": "2026-10-23T12:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=711660#opis"
-    },
     {
       "id": "iryb-deep-house-party-balkon-spoleczny-w-rybniku",
       "title": "Deep House Party / Balkon Społeczny w Rybniku",
@@ -1001,6 +968,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/bestfit-games-rx-scaled-2026-w-rybniku"
     },
     {
+      "id": "tzr-adwentowe-wianki",
+      "title": "Adwentowe wianki",
+      "category": "Warsztaty",
+      "start": "2026-11-28T09:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Teatr Ziemi Rybnickiej, Plac Teatralny im. K. Kutza 1,",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/adwentowe-wianki.html"
+    },
+    {
       "id": "dk-bog-8165-uwaga-zmiana-terminu-nastepnego-dnia-rano-spektakl-komediowy-teat",
       "title": "UWAGA! Zmiana terminu! „Następnego dnia rano” spektakl komediowy. Teatr Żelazny",
       "category": "Spektakl",
@@ -1166,6 +1144,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/inertia-over-rybnik-ironbound-kingsphere-i-m2r1-w-klubie-odyseja"
     },
     {
+      "id": "tzr-rubinowe-gody",
+      "title": "Rubinowe Gody",
+      "category": "Spektakl",
+      "start": "2026-12-12T17:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "\"Rubinowe Gody\" – komedia o małżeństwie, które na 40. rocznicę ślubu wplątuje się w intrygę na szczytach władzy! Tajemnice, polityka i miłość w najlepszym wydaniu. Nie przegap tej ekscytującej historii!",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/rubinowe-gody.html"
+    },
+    {
       "id": "iryb-spektakl-wilijo-na-poziomie-650",
       "title": "Spektakl „Wilijo na poziomie 650”",
       "category": "Spektakl",
@@ -1285,6 +1274,17 @@
       "description": "„Ballady Rockowe przy Świecach” to cykl kameralnych koncertów przy blasku świec, który zdobył uznanie publiczności dzięki swojej wyjątkowej atmosferze i brzmieniu na żywo. Projekt zachwycił już ponad 70 000 widzów podczas ponad 100 występów w ośmiu krajach, potwierdzając swoją popularność i uniwersalność formatu. W ramach tej serii kultowe rockowe ballady zyskują nowe, bardziej subtelne, akustyczne i emocjonalne oblicze, pozwalając odkryć ich głębię, lirykę i siłę na nowo. Projekt nieustannie się rozwija, otwierając kolejne muzyczne kierunki. Jednym z nich jest program poświęcony polskiemu rockowi – legendarnym utworom, które stały się symbolem całej epoki. Piosenki takich zespołów jak Dżem, Perfect, Lady Pank, Budka Suflera, Maanam i wielu innych zabrzmią w nowej, bardziej intymnej i poruszającej interpretacji. Delikatne światło świec podkreśli romantyzm i subtelność ballad polskiego rocka, zachowując jednocześnie ich siłę i energię, czyniąc ten wieczór naprawdę magicznym. Starannie dobrany repertuar koncertu „Ballady Rockowe przy Świecach” nie pozostawi obojętnym żadnego słuchacza. Głębia uczuć i emocji zawarta w każdej piosence poruszy najczulsze struny duszy – od miłości, szczęścia, inspiracji i nostalgii, po stratę, poszukiwanie sensu życia, samotność i wewnętrzne przeżycia. To doskonała okazja, aby oderwać się od miejskiego zgiełku, zanurzyć się w świecie legendarnego polskiego rocka i zapomnieć o codziennych troskach. Spędź ten wieczór z bliskimi i przyjaciółmi, delektując się wspomnieniami i tworząc nowe. Dlaczego warto wybrać się na koncert „Ballady Rockowe przy Świecach: Polskie Legendy”? Ponownie przeżyć najpiękniejsze momenty swojego życia Usłyszeć wyjątkowe aranżacje poruszających ballad polskiego rocka przy blasku świec. Spędzić ciepły wieczór w gronie najbliższych. Czy już wiesz, z kim chcesz przeżyć te niezapomniane emocje? Zaproś bliskich i spędźcie razem wyjątkowy wieczór! Pamiętaj, że liczba biletów jest ograniczona – im dłużej zwlekasz, tym szybciej znikają najlepsze miejsca.",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/ballady-rockowe-przy-swiecach-polskie-legendy-najwazniejsze-utwory-polskiego-rocka-w-jednym-koncercie.html"
+    },
+    {
+      "id": "tzr-teresa-werner-15-lecie-solowej-kariery-artystycznej",
+      "title": "Teresa Werner. 15-lecie solowej kariery artystycznej!",
+      "category": "Koncert",
+      "start": "2027-01-22T18:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Teresa Werner to polska piosenkarka pochodząca z Nakła Śląskiego. Kariera Teresy Werner przyspieszyła po nagraniu takich hitów jak \"Miłość jest piękna\", \"Dałabym Ci dała\" czy \"Kocham swoje morze\", które wielokrotnie i bezkonkurencyjnie wygrywały telewizyjne i radiowe listy przebojów. Jej kompozycje oraz teledyski są emitowane na antenach stacji radiowych i telewizyjnych. Dotychczas w dorobku artystki ukazały się płyty CD oraz DVD. Pierwszy album \"Spełnić Marzenia\" uzyskał najpierw status Złotej Płyty, a następnie Platynowej Płyty i Podwójnej Platynowej Płyty! Artystka została wyróżniona przez Ministra Kultury i Dziedzictwa Narodowego odznaką honorową \"Zasłużony dla Kultury Polskiej\". Teresa Werner znalazła się w prestiżowym leksykonie \"Polki mają głos\", w którym zaprezentowano 100 najbardziej wpływowych Polek na stulecie nadania praw wyborczych kobietom w Polsce. W lipcu 2013 Wyższa Rada Ekspertów Międzynarodowego Intelektualnego Społeczeństwa Niezależnego Międzynarodowego PEN Clubu odznaczyła piosenkarkę tytułem doktora honoris causa. Teresa Werner zrealizowała swoje wielkie marzenie i wyprodukowała własną ekskluzywną linię perfum dla kobiet i mężczyzn, które w krótkim czasie stały się absolutnymi bestsellerami! Z okazji jubileuszu 10-lecia solowej pracy artystycznej na rynku ukazała się złota limitowana edycja perfum. Piosenkarka wzięła udział w prestiżowym międzynarodowym festiwalu w chorwackim Szybeniku „Večeri dalmatinske šansone 2013”, gdzie jej występ spotkał się z wielkim uznaniem dla jej twórczości. Teresa Werner jest stałym gościem w telewizyjnym programie \"Śląska Karuzela\" w Telewizji TVS, który prowadzony jest przez Sławomira i Kajrę, którzy z przyjemnością prezentują wszelkie nowości z artystycznego świata Teresy Werner. Obecnie promuje swój najnowszy już czwarty album CD \"Sekret Miłości\", a także książkę \"Marzeniami do sukcesu\". Nie zwalnia tempa i z całą pewnością jest najczęściej koncertującą artystką w Polsce. Ikona stylu dla kobiet, ideał piękna dla mężczyzn. Jedyna i niepowtarzalna – Teresa Werner.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/teresa-werner-15-lecie-solowej-kariery-artystycznej.html"
     },
     {
       "id": "bilnya-sklep-z-facetami-202701241700",
