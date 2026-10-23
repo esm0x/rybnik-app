@@ -1,14 +1,29 @@
 {
-  "generated_at": "2026-10-23T17:05:42",
+  "generated_at": "2026-10-23T21:26:31",
   "count": 120,
-  "failures": [],
+  "failures": [
+    {
+      "source": "nowiny.pl",
+      "error": "HTTPSConnectionPool(host='nowiny.pl', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='nowiny.pl', port=443) at 0x7fab1824d160>, 'Connection to nowiny.pl timed out. (connect timeout=30)'))"
+    }
+  ],
   "items": [
     {
-      "id": "4e8c07ab78c940485184894d100ef503873763e3",
+      "id": "fc6cd202024cf76bf510c20c23f8bd4ab1a569e1",
+      "title": "Zmiana czasu bez wpływu na pociągi Kolei Śląskich",
+      "summary": "W niedzielę, 25 października zmieniamy czas z letniego na zimowy. To także dzień, na który przypada ostatnia korekta obowiązującego rocznego rozkładu jazdy na kolei. Wskutek pilotażu prowadzonego przez PKP PLK, na stacji Mysłowice przybędzie peronów, a zmiany obejmą m.in. połączenia obsługiwane…",
+      "link": "https://www.radio90.pl/zmiana-czasu-bez-wplywu-na-pociagi-kolei-slaskich.html",
+      "published": "2026-10-23T17:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "13dd062318ee2579fe74edb70b208ac2218db84f",
       "title": "Zderzenie dwóch samochodów na Alei ROW (foto)",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ1NEdmNrT3Z5RWxSdXFyUUNNNG0tc1Q0dXBwSlJjZkRpb1k2bmN6bVo0dDBTUl9QS1F0ZmxoeExmLWM3YzBhOGFtYVlLWWdua1lUeUZYLVZ4TlAzcklfc2dsaXFrM0RyU3hhMGdNZGFsMUFUU2RPTE9adXdCT0pJX0tYRnFfU0tLMWFhVGNNNkpYMFM5LWJ3dHdQdVdXbmRnc0ctYnZB?oc=5",
-      "published": "2026-10-23T16:53",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORElxcXVmNWZRdFN1RXhVa1FCQ1d4TkZZbEJpZm9QMVNOSi0xY3pPSktZeXN0M2pnOVFxY3ZOS3UtZDUwUEZ2S21kbVJ6T2ZFbkl3ZlNSZnlwWUlmN3VsNmdFNEZUTjR1aUkwYkE1LW5fQ1pFbHlvaGRYaU5BdlJUVFREVUo5NEVwalNrcHBYQWo5UXQ3SkRyWDlwekxlaGtGSGJnbGF3?oc=5",
+      "published": "2026-10-23T17:01",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -94,18 +109,8 @@
       "priority": "NORMAL"
     },
     {
-      "id": "1041da09f5ec71871616bd68b953c7bb64d06b76",
-      "title": "Zderzenie dwóch aut na Alei ROW",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2VJTXBwdWh4N09rblhTbGgybW5xR2Q3RUMtWTZ4dDFLMTl0akVFR3lXVUJJOS1SekhQVU4tTE1JSWgtT3NqdlV6N1BtOHpIVDU3S3V5bGpMWW1aZlNHcENGc3JTVHczTWNYb0pfTmpzTVlyZTBDb1ZNaGtQLWt1VC1nZWhvLUtSaUdjLXdxc1o2R3kydkNzSVRMVVFuRTgwV3p5ZjdNcHhucTBXWEJ1NA?oc=5",
-      "published": "2026-10-23T13:12",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "44ce5d86115e97db895e6e389d72a3e7515e9a63",
-      "title": "\"Godność, Opieka, Przyszłość\". Konferencja PCPR o pomocy społecznej [patronat]",
+      "title": "Wyzwania i dobre praktyki w pomocy społecznej. Przed nami konferencja „Godność, Opieka, Przyszłość” [patronat]",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVTRSTXRtZFdsc2dMVGkzbVVGY2NuRjVGX1g4UDdVbDZlbXVEU2FoaUJMeDZqQUxXMWxHMm1HRDJpOGtrc1dMODVIYmZZb0xMS01ubXluQjFVU0s5TnhBZ1U0Smx5cnJJSTFzcnFSdVZ6c0NJT2RrdFJBSVhhdklYcFI5U0RQZE04Tm4tcHVPYXFyZVlWSVNLRTdFanNKbWFZaVlWR1lMZXdlN2hnTnQ4Z1dVVlpQUWlpM2x1WEZIM3FRTGRDMEFfU0k4bVBQWWMtZTU2QndTbEZZWER0bDctVmc4MHVWVS1rMnAyajVwTHFJQlk?oc=5",
       "published": "2026-10-23T13:00",
@@ -191,6 +196,16 @@
       "published": "2026-10-23T11:25",
       "source": "nowiny.pl",
       "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2851d703e63075c41a29a99a3d5a7723ae89b7c1",
+      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSU2JvbzhsUEdTSDZKM0dkMGNJVm5VR2RHNERBU1QxS0NjeERSX0FRMjNXSVYzZlk2eWdpT0NOdE1RQ3hWQXJYMGpHSnlDbjBPUjd1bnA2N21RY2lBRWVTQUlvU0h5M0g5ZGRhQVJHMjBVczFQeDhqdFdxMXQ?oc=5",
+      "published": "2026-10-23T10:53",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -314,16 +329,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "60e355408044ee3bc7b1a463769eac0eba20580f",
-      "title": "wiadomości, baza firm i ogłoszenia • Portal",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVkF0NW5aZklJYXo2bnlZYjJDaEpPUkoyTkwwczF5LUxCWUw4ekJHeTJYU20taWd3RGF4eHJBRExLeGZIZVlhZ0xuMFBuU2ZMbG5zZlk0VDM1eG1qY0Z6ajJBQUZtRGsxd2Q2SVJoNXJjNTk4dUhQbmdyclNaZVBva2FPWUdHYWI2MEVPbVRwWFRlT2ZSQ1dUbDk3SFZoR09yWngxOGM1bnZLaVpkR3Yzcm40NTVsWUlYYVJHcFRIejBKWXpsbDBNR1V4SElxU1hKM2tIalBJQnh6Y3l2UEZGN05JY1loZGtQaXo0?oc=5",
-      "published": "2026-10-23T06:24",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "370d3d699a3594f662f788bfa1ff80f2991b1218",
       "title": "Jak bezpieczne są szkoły w Rybniku? Miasto przyznaje: nie ma jednolitych standardów. Kontrole ujawniły nieprawidłowości",
       "summary": "",
@@ -339,6 +344,16 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN3o3U0swdVVLYUNZakdvOHJJZ1VKejItbEVGQVJrcHZkazJqOHZmaFYtUzBUQWtPcnVGMUl5TmhGNVV2a002Q25qT29WT2dpMTJ2blhZdFA0MERUZWQtLTduUUEtRGtPUEExSmpzWGh4ZXUzNjhqRXVPMnNyZ3pwdUhad2FUbnN3bmk4SVdFeXktcUN2TFZUVU52MENnMnBqS2VGM3FKaHp4Y0V2dmFBd3p2cWRsRGo0?oc=5",
       "published": "2026-10-23T06:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0b3e5dd80a82c9abcd106f28be539ac611c38884",
+      "title": "„WARTKO!” - biegacze i kijkarze opanują ulice Gaszowic",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaG1PeEU2WE1qRnFNSmxxbDJfRFdHdW1pcXJNenBDY3hpOEtQZ1BXTzVnOWlnMTJ4dm9ac2VLQmY0SEppWkpUTFJmRnNkeWw4Mi1hTERRbmFwdGpxMVJVSHlxbGJXOGoyQ3FaMm9scHR5Q2NNWTE2Sm1VNFVZZGFEM2ZKb3BsY05UTkVBM3dMUERjb1BmS1hmQnRrM29PTEFfY0Vv?oc=5",
+      "published": "2026-10-23T03:25",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -889,16 +904,6 @@
       "summary": "Rzut w ostatniej sekundzie spotkania zdecydował o zwycięstwie koszykarzy MKKS Rybnik. W minioną sobotę (17.10) rybniczanie podejmowali we własnej hali Resovię Rzeszów.",
       "link": "https://www.radio90.pl/mkks-rybnik-odniosl-zwyciestwo-w-ostatniej-sekundzie.html",
       "published": "2026-10-19T16:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0b8a86fc32007f85d351165d652c514cb3caab9b",
-      "title": "ROW Rybnik musiał uznać wyższość rywali. Teraz czas na pojedynek z Nysą",
-      "summary": "Wicelider za mocny dla piłkarzy ROW Rybnik. Rybniczanie przegrali sobotnie spotkanie ze Spartą Katowice 0:2.",
-      "link": "https://www.radio90.pl/row-rybnik-musial-uznac-wyzszosc-rywali-teraz-czas-na-pojedynek-z-nysa.html",
-      "published": "2026-10-19T14:48",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"

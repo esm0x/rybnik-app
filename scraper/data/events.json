@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:04:26",
+  "generated_at": "2026-10-23T21:23:31",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,31 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 130,
+  "count": 128,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-deep-house-party-balkon-spoleczny-w-rybniku",
-      "title": "Deep House Party / Balkon Społeczny w Rybniku",
-      "category": "Impreza",
-      "start": "2026-10-23T17:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Rybnik szykuje wieczór, w którym wspólne malowanie płynnie przejdzie w taniec przy deep house’owych i etnicznych brzmieniach. Balkon Społeczny ma być miejscem spotkań, muzyki i kreatywnego spędzania czasu — bez alkoholu, za to z planszówkami i dobrą atmosferą. 23 października 2026 r. (piątek), godz. 17:00–21:00 Władysława Broniewskiego 23, Rybnik Wstęp wolny. Organizatorzy proszą o informację o udziale pod adresem: [email protected] . Program rozpocznie się o 17:15 malowaniem na balkonie. O 19:15 wystartuje Deep House Party z Dave’em Baro. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/deep-house-party-balkon-spoleczny-w-rybniku"
-    },
-    {
-      "id": "iryb-filmowy-zefir-zbrodnia-pierwszej-klasy",
-      "title": "Filmowy Zefir: Zbrodnia pierwszej klasy",
-      "category": "Film",
-      "start": "2026-10-23T18:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Jesienny wieczór, luksusowy pociąg uwięziony przez śnieżycę i morderstwo, które może mieć związek z każdym pasażerem. „Zbrodnia pierwszej klasy” to bezpłatny seans dla miłośników kryminalnych zagadek i gwiazdorskiej obsady. Piątek, 23 października 2026 roku, godz. 18:00 Plac Pokoju 1, 44-253 Rybnik Wstęp wolny. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Podróż przez Europę przerywa śnieżyca, a w jednym z przedziałów zostaje znalezione ciało. Sprawca wciąż może być na pokładzie, lecz każdy z pasażerów skrywa jakiś sekret. W rozwikłaniu zagadki pomaga belgijski detektyw, który nie boi się zadawać niewygodnych pytań.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/filmowy-zefir-zbrodnia-pierwszej-klasy"
-    },
     {
       "id": "tzr-goniac-kormorany",
       "title": "Goniąc Kormorany",
