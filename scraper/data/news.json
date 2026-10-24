@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-10-23T21:26:31",
+  "generated_at": "2026-10-24T04:34:27",
   "count": 120,
-  "failures": [
-    {
-      "source": "nowiny.pl",
-      "error": "HTTPSConnectionPool(host='nowiny.pl', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='nowiny.pl', port=443) at 0x7fab1824d160>, 'Connection to nowiny.pl timed out. (connect timeout=30)'))"
-    }
-  ],
+  "failures": [],
   "items": [
+    {
+      "id": "b3fb6e9bb05051931bd61a4493421b72b8fe4949",
+      "title": "Czarująca poetka. O miłości, czarach i sekretach",
+      "summary": "Nie była tylko autorką subtelnych wierszy o miłości. Fascynowały ją magia, duchy, spirytyzm i to, czego nie dawało się łatwo wytłumaczyć. Miała też burzliwe życie uczuciowe. O Marii Pawlikowskiej-Jasnorzewskiej opowiadała w jastrzębskiej bibliotece Joanna Jurgała-Jureczka.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251745-czarujaca-poetka-o-milosci-czarach-i-sekretach.html",
+      "published": "2026-10-23T21:07",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "45e403825f7f37f80ee4a06d31455a9505b41c5e",
+      "title": "Dawny bank przy Piłsudskiego częściowo wyburzony. Co powstanie w tym miejscu?",
+      "summary": "Prace przy dawnym budynku banku przy al. Józefa Piłsudskiego w Jastrzębiu-Zdroju weszły w kolejny etap. Część obiektu została już rozebrana, na placu pracuje ciężki sprzęt, a na ogrodzeniu pojawiła się tablica informacyjna budowy. Z jej treści wynika, że inwestycja dotyczy przebudowy istniejącego…",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251744-dawny-bank-przy-pilsudskiego-czesciowo-wyburzony-co-powstanie-w-tym-miejscu.html",
+      "published": "2026-10-23T20:21",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "fc6cd202024cf76bf510c20c23f8bd4ab1a569e1",
       "title": "Zmiana czasu bez wpływu na pociągi Kolei Śląskich",
@@ -106,6 +121,16 @@
       "published": "2026-10-23T13:13",
       "source": "nowiny.pl",
       "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1041da09f5ec71871616bd68b953c7bb64d06b76",
+      "title": "Zderzenie dwóch aut na Alei ROW",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2VJTXBwdWh4N09rblhTbGgybW5xR2Q3RUMtWTZ4dDFLMTl0akVFR3lXVUJJOS1SekhQVU4tTE1JSWgtT3NqdlV6N1BtOHpIVDU3S3V5bGpMWW1aZlNHcENGc3JTVHczTWNYb0pfTmpzTVlyZTBDb1ZNaGtQLWt1VC1nZWhvLUtSaUdjLXdxc1o2R3kydkNzSVRMVVFuRTgwV3p5ZjdNcHhucTBXWEJ1NA?oc=5",
+      "published": "2026-10-23T13:12",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -299,26 +324,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "833c9104c79563d942484609552b672248bcdddb",
-      "title": "Jak wygląda nauka w raciborskich szkołach? Etatowy członek zarządu powiatu Marek Kurpis zaprasza na Festiwal Perspektyw [WIDEO]",
-      "summary": "O wyborze szkoły najlepiej porozmawiać z tymi, którzy już się w niej uczą. Etatowy członek Zarządu Powiatu Raciborskiego Marek Kurpis zachęca ósmoklasistów do udziału w Festiwalu Perspektyw, który odbędzie się 28 października.",
-      "link": "https://www.nowiny.pl/wiadomosci/251672-jak-wyglada-nauka-w-raciborskich-szkolach-etatowy-czlonek-zarzadu-powiatu-marek-kurpis-zaprasza-na-festiwal-perspektyw-wideo.html",
-      "published": "2026-10-23T08:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e53aa4143e4edf0c6204e933a2bddd3fed99d181",
-      "title": "Złoto i trzy wyróżnienia dla jastrzębian. Sukces uczniów ZS nr 6 w Chorwacji",
-      "summary": "Po raz kolejny uczniowie Zespołu Szkół Nr 6 im. Króla Jana III Sobieskiego w Jastrzębiu-Zdroju udowodnili, że należą do ścisłej czołówki młodych innowatorów. Podczas jubileuszowej, 50. Międzynarodowej Wystawy Wynalazków INOVA 2026 w chorwackim Zagrzebiu zdobyli złoty medal oraz trzy prestiżowe…",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251719-zloto-i-trzy-wyroznienia-dla-jastrzebian-sukces-uczniow-zs-nr-6-w-chorwacji.html",
-      "published": "2026-10-23T07:59",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "b281564147b3b83f5ae10e0cbbfe8e24df4e42c1",
       "title": "Pożar w domu jednorodzinnym. Straty oszacowano na 20 tys. zł",
       "summary": "",
@@ -399,16 +404,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "03a9dfed3eb196189d1a4f800e336872fa59ba96",
-      "title": "Seria ROW-u 1964 Rybnik zakończona. Wicelider za mocny w Katowicach",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZnA2Z0ZnNlZIazNjUkkzNlFOX2szTWpHak1UTHRmWXRPaDJSWDU3d1hZd3hfck1uc0ZzSnhXUVJDTm9fbE9BczlfUmdZU3NSc1VUZTRCRXhDX0dVcURfaFZFQlVIZDdlRGdqdUg5aDM0S2ZzVVk5ejhkaDBBUUE5VEVFSmY3RzMxUEVkcTg2aGJvbGRGTkpsbEpHd0g0b245SGEzZ2NDY19GS3JnN0d1ekxUZFRLc3NKMGdWazNuejdxZw?oc=5",
-      "published": "2026-10-22T21:28",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "42b1bddfa12b75b42a75981fd522683076eabbf3",
       "title": "Sukces uczniów rybnickiej Budowlanki. Zrealizują projekty badawcze z Politechniką Śląską",
       "summary": "",
@@ -464,16 +459,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aMGp1d1M3Y3Z0c1NFM3BqbUhZcVNtejVTRHU0V0sxX3BEQ2lNaWVWWEVoLWFvRDhNdzFfTGxxcDVzR2wxWGFpekZZT25QbHBPZ2IwQ09kNDlGaTlnOEhuSDRITk5oa01taTk3NzluZVprX0RCSkx2N3gwZFpQTEU?oc=5",
       "published": "2026-10-22T14:28",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8896ec63ac66131047dcc4e2e748dc20a597d0e7",
-      "title": "Państwowe odznaczenia dla kadr klinicznego szpitala i urzędu pracy. „Piękny wyraz uznania za służbę”",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaGQwTmYtdDY4VDlvYUNTaUhDeXVIOVl0LWQ4VkFoYVFiVEdESk80ZzY3SUpMdjRLWkdQQy0xMmdsSFhuVVR6REE3Qzhoamtka3VMMkdnR21pS3RUMVhXSFBjWGg0Ul9VeWd0YzJwX1p4WGNYdUh2NzlGcVRiaXl4eFF0RDlXOXBRS1RDenNQNEtCdWxneDJFUnVUeTNnZG82bllxeUJMT0VNUFQxR3kzWkROS2RfVVhpNmtXNXp4a24yelMyc3FZTjllOHdDX3lHc1kwTWpOeXRFUFVPRkZFUlVRR1Nid2JBeE5TTWh3?oc=5",
-      "published": "2026-10-22T13:35",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -549,6 +534,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "f258f89775bff32a7b92765872d4d2d274ae75cf",
+      "title": "Państwowe odznaczenia dla kadr klinicznego szpitala i urzędu pracy. „Piękny wyraz uznania za służbę”",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWjg0VEZ0U185X0xHWWtLYXpZLThJbnlvYUNpSzZoR19wVmdPbXNHNE15YkRQaUV4b1psUEE2dzVkdDdhZFdoRmpBbXFSWEdXbHhiUWFpYl9aeVhhY2RCVjZ1V2d0cURQb1IwVU9LZ3JCUThxWFhWcGphc2pZQTVvWURzeVBFRzVSRjJHY3JnMVUtbXIyQ21TVlhIeHJaR2ZZaG92cUJHQkF2UVdELThNU0RHYXhtVDJvUVprd3M4Nms0aS1OaGZGTEJhMjdXZzJRcW1pRE9tUjZmRjlaRDNSS0VYckstSFNNMzc4?oc=5",
+      "published": "2026-10-22T09:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "9860fb80fbbbf636814409bcffe9ff2ad714e065",
       "title": "Natura i Dom – naturalne inspiracje i pomysły na prezent",
       "summary": "",
@@ -575,6 +570,16 @@
       "link": "https://www.radio90.pl/slaska-policja-z-apelem-o-rozwage-na-drodze.html",
       "published": "2026-10-22T07:30",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "03a9dfed3eb196189d1a4f800e336872fa59ba96",
+      "title": "Seria ROW-u 1964 Rybnik zakończona. Wicelider za mocny w Katowicach",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZnA2Z0ZnNlZIazNjUkkzNlFOX2szTWpHak1UTHRmWXRPaDJSWDU3d1hZd3hfck1uc0ZzSnhXUVJDTm9fbE9BczlfUmdZU3NSc1VUZTRCRXhDX0dVcURfaFZFQlVIZDdlRGdqdUg5aDM0S2ZzVVk5ejhkaDBBUUE5VEVFSmY3RzMxUEVkcTg2aGJvbGRGTkpsbEpHd0g0b245SGEzZ2NDY19GS3JnN0d1ekxUZFRLc3NKMGdWazNuejdxZw?oc=5",
+      "published": "2026-10-22T07:00",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -675,16 +680,6 @@
       "link": "https://www.radio90.pl/galeria-rzeczna-chwali-sie-najnowsza-wystawa-dobra-frekwencja.html",
       "published": "2026-10-21T15:30",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "289d74d6a9793c4108b03a99d486f3d68178eaad",
-      "title": "Wyrok w sprawie o mobbing w rybnickim ZGM. Związkowiec wygrywa w sądzie",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUHlYTlVBNm1Qa2FzYmt2cDQ1bS1odFV6b1JpQXhMZElnSnZfNnFicXZYWlR0UWNJcmtDaERCaXBCVGhtSHZZNGV2dk0yeC05UjAyYUNIYkY2UHBOdDdYOHdWN2ZHM2x1UkRzMHFkVjZnaFY3dGJfNnVUNUx3TDRxejFZWHhJaWx2NTNUWFhuaHVFRExsNzVVRzhjZzVLZUd4ODBFTmxKRXJpdl9QUXVoWFRwcm1IV1JlalZFQkJNT1ZQS2JOWmZR?oc=5",
-      "published": "2026-10-21T15:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
