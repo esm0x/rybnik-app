@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:57:04",
+  "generated_at": "2026-10-24T20:48:02",
   "count": 60,
   "failures": [],
   "teams": [
@@ -659,10 +659,10 @@
       "home": "ROW 1964 Rybnik",
       "away": "Polonia Nysa",
       "isHome": true,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 3,
+      "awayScore": 0,
       "scoreNote": null,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "stage": "REGULAR",
       "url": null
     },
