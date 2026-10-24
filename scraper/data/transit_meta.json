@@ -1,11 +1,14 @@
 {
-  "generated_at": "2026-10-22T04:42:00",
-  "gtfs_url": "https://km.rybnik.pl/download/attachment/643/gtfs.zip",
-  "attachment_id": 643,
+  "generated_at": "2026-10-24T10:57:20",
+  "gtfs_url": "https://raw.githubusercontent.com/esm0x/miasto-engine/main/data/rybnik/gtfs.zip",
+  "attachment_id": null,
   "valid_from": "2026-10-01",
   "valid_to": "2026-12-31",
   "stop_count": 626,
   "route_count": 44,
-  "sha256": "fa856bcb48e10c0e9aa45b26ec84035c5ed7f440b6652b2a02392aee1a96bae7",
+  "sha256": "a8ab70c66e53357accd929ec45ead580667b592a9055e16dc193e36a17dee098",
+  "editions": [
+    "gtfs-kmr.zip?v=1792736638"
+  ],
   "failures": []
 }

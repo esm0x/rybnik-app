@@ -1,8 +1,138 @@
 {
-  "generated_at": "2026-10-24T04:34:27",
+  "generated_at": "2026-10-24T10:57:08",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "imgw-911c998d2a743ba0f1babb6e688da00b7189ec1b",
+      "title": "IMGW (region): Susza hydrologiczna",
+      "summary": "W zlewniach: Psiny, Opawy i Osobłogi przepływ nadal lokalnie utrzymuje się na poziomie SNQ lub niżej. Jeśli kolejne prognozowane opady deszczu spowodują ponowny wzrost przepływu i jego utrzymanie się powyżej SNQ, ostrzeżenie przed hydrologiczną suszą zostanie odwołane.",
+      "link": "https://danepubliczne.imgw.pl/api/data/warningshydro",
+      "published": "2026-10-24T12:20",
+      "source": "IMGW",
+      "category": "Ostrzeżenia",
+      "priority": "ALERT"
+    },
+    {
+      "id": "21beeca5d18edaa4419a70a9c34bdc5d2ff1ffb2",
+      "title": "KS Gotartowice szykuje się do jubileuszu. Trwa zbiórka pamiątek i wspomnień na 70-lecie klubu",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcWVDNUoxcjBwMnFjaUFuNWJqSEotZVhEb0drY2xxdEcwdElJSWxUeWdDa1ZFS1ZkT3VfUFJmN1NCWE5wVE56TnVjQmpOR29sa1RCVkhSX3lqUEdUTUZXVUJQQkdLeTY3em5jbDFfVnpuTmlFZnc3LVREVFkyTHRIS0JBM1h2Snk0c1VIc3g1TUpIQ0w3VnVjRjNSUmNsei05NlpPbHVyZEtETEZCcU8zR1RfdkNFcVN4aXRoUGI3aXNqSllOQ0NtY3MteXVEc2lRVTdHM3JPUHRDdUtlekhpRndaVjE?oc=5",
+      "published": "2026-10-24T10:49",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e9bf9e4aa4ac6c6f836e92ebc2214269bae3ab5e",
+      "title": "Rybnicka Rada Seniorów: do połowy listopada można zgłaszać do niej kandydatów. W grudniu wybory",
+      "summary": "Ruszył nabór kandydatów do Rybnickiej Rady Seniorów. Organizacje działające na rzecz osób starszych mogą zgłaszać osoby, które ukończyły 60 lat i mieszkają w Rybniku.",
+      "link": "https://www.radio90.pl/rybnicka-rada-seniorow-do-polowy-listopada-mozna-zglaszac-do-niej-kandydatow-w-grudniu-wybory.html",
+      "published": "2026-10-24T09:50",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "fc0ed9ca4524312d50bc83772e56dde5c4bb714b",
+      "title": "W Markowicach czekają na latającą Teslę. Przyleci szybciej niż wiadukt",
+      "summary": "- Pociąg staje na stacji, ludzie wysiadają, ludzie wsiadają, konduktor gwiżdże, a my przed szlabanem siedzimy i patrzymy. Raciborzanie nie tylko z Markowic znają ten serial na pamięć. Od stycznia ma też stałego bohatera drugiego planu: posła, który przez osiem lat był u władzy, a o przejeździe…",
+      "link": "https://www.nowiny.pl/opinie/251727-w-markowicach-czekaja-na-latajaca-tesle-przyleci-szybciej-niz-wiadukt.html",
+      "published": "2026-10-24T09:25",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "cccc2d2b59f08e68edace52c080854b71c71225c",
+      "title": "Wiele się zmieniło, ale podstawy biznesu wciąż są takie same",
+      "summary": "Jak przez niemal cztery dekady zmieniło się prowadzenie biznesu w Raciborzu? Co decyduje o sukcesie przedsiębiorcy i jak radzić sobie z niepowodzeniami? Na pytania odpowiada Roman Makulik, właściciel firmy Brax-Ton, jeden z najstarszych stażem raciborskich przedsiębiorców, prowadzący działalność od…",
+      "link": "https://www.nowiny.pl/wiadomosci/251650-wiele-sie-zmienilo-ale-podstawy-biznesu-wciaz-sa-takie-same.html",
+      "published": "2026-10-24T08:41",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ea8a97dcf0e9fff90379b5dc22df3e7e8a9660b2",
+      "title": "Koleje Śląskie: pasażerowie dybią na rydza",
+      "summary": "Jesienią w pociągach Kolei Śląskich nie brakuje entuzjastów grzybobrania, a pełne kosze, z którymi pasażerowie wracają do domów, są najlepszym dowodem na udane wyprawy. Pociągiem można wygodnie dotrzeć do lasu, a po spacerze komfortowo wrócić do domu.",
+      "link": "https://www.radio90.pl/koleje-slaskie-pasazerowie-dybia-na-rydza.html",
+      "published": "2026-10-24T08:30",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c201f106ea2f6d7c54ee0dcb444da0c77e52add3",
+      "title": "Networking i sprzedaż w biznesie – spotkanie BMH w Rybniku [patronat]",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOUFl5dHZQUXJLLWd0T2pLcTN1ZWprVFN4MzJFZFN6TEpYaDdXbW1nT3pBNFhvc0ZfYjZBbkRzeWlKc2JXWER3ZFZzUUZWRDlzUDVUSVpVenNNRGd4UUNROXE3b25DQTVtdFNhRzAwaFgyV1BwVlBiNWpPUERGdjE2blVyb1o0NUh5V2t2SG9jMVRDb3hGMl9NVWJ0eHlCSU1RZDJIUGFrMDJSRGpkTjBaMmQzdTRTWktMc0Q3WjJEd0JvTmFsZUxrRGpKNldDS2NnYVBhYkc1ajlPZVdidmw1WUI3alNnbi1RUGJuRm9wY0c0ZXpRdHVSeG9tS2g3dVlkZmdUemY5ZnFzcVQxOW56RkdKMW9WSzRlVkE?oc=5",
+      "published": "2026-10-24T08:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1e37248d87e876b53797b624efb5436c6dd96f36",
+      "title": "Akcja znakowania rowerów w Rybniku. W tym roku Straż Miejska oznaczyła równo 200 jednośladów [ZDJĘCIA]",
+      "summary": "Straż Miejska w Rybniku zakończyła tegoroczną edycję znakowania rowerów i jak podsumowuje, w tym sezonie specjalne znaki naniesiono łącznie na 200 jednośladach.",
+      "link": "https://www.radio90.pl/akcja-znakowania-rowerow-w-rybniku-w-tym-roku-straz-miejska-oznaczyla-rowno-200-jednosladow-zdjecia.html",
+      "published": "2026-10-24T07:15",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "24ef6c6982632647c8b59a2c8c0b5fef071ccc44",
+      "title": "Niesamowity wiek osiągnęła Marianna Śmigielska. To kolejna 100-latka w naszym regionie",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUUFQX2ZWeUNiVkhtaTZuNDFudjBMM2Rra3lBeGVkTm44T1Rra1V1b2NVTzQ5eHhaWnNDV29td3A5d19FdVVkZThnZS0wWWp3UDNaZEc5ckhhQXFaUXh2ekY2MDkweEV5cUlPS2t1RTMyOGxMdkVhbFNwSGFqdXB0RGZrUk1Sd2RtajJjVDgxNGVwbjBobjIzaHdYRHczNC1TNVl3dTRFUDJ0RWxLTXBENlgwbVJZcldPQ3JOSWVCejc5SG5OZzA4OHMzemNqeDRsQnBieXBfaFQ3dkE?oc=5",
+      "published": "2026-10-24T06:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f6ab4d81f29bae2159cb63dfcb085314d46b384a",
+      "title": "Kuchnia Radia 90: przepis na domowe cynamonki",
+      "summary": "Dziś w naszej radiowej kuchni pachnie cynamonem! Przygotowujemy puszyste cynamonki, które idealnie sprawdzą się na jesienne popołudnie, do filiżanki kawy lub herbaty. Sprawdźcie nasz przepis i upieczcie je razem z nami!",
+      "link": "https://www.radio90.pl/kuchnia-radia-90-przepis-na-domowe-cynamonki.html",
+      "published": "2026-10-24T06:00",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c77d1481df60147a2a3604c166c6c721ef578660",
+      "title": "Gdzie i kiedy wybrać radę dzielnicy? Żory opublikowały pełny harmonogram",
+      "summary": "Pierwsze wybory zaplanowano na 18 listopada. Mieszkańcy 14 dzielnic wybiorą swoich przedstawicieli jeszcze w tym roku, natomiast w dzielnicy Pawlikowskiego zebranie odbędzie się 26 stycznia 2027 roku.",
+      "link": "https://ezory.pl/wiadomosci/251699-gdzie-i-kiedy-wybrac-rade-dzielnicy-zory-opublikowaly-pelny-harmonogram.html",
+      "published": "2026-10-24T04:59",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a965a2d3c1267915ab3a6383f71bfde9bd088cb1",
+      "title": "W Nędzy firm przybywa, ale niemal co piąta jest zawieszona. Jak jest w pozostałych gminach powiatu raciborskiego?",
+      "summary": "W Nędzy liczba zarejestrowanych podmiotów wzrosła w 2025 roku o 4,4 proc., choć niemal co piąty miał zawieszoną działalność. To jedna z ciekawszych sprzeczności, jakie pokazują najnowsze dane GUS o przedsiębiorczości w powiecie raciborskim.",
+      "link": "https://www.nowiny.pl/wiadomosci/251637-w-nedzy-firm-przybywa-ale-niemal-co-piata-jest-zawieszona-jak-jest-w-pozostalych-gminach-powiatu-raciborskiego.html",
+      "published": "2026-10-24T04:58",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "bb91732da3cea87236027dc82b012dae74e56c77",
+      "title": "Rybnicki śpiewnik górniczy pozwoli ocalić od zapomnienia tradycję gwarków",
+      "summary": "Zbiór najpiękniejszych pieśni śpiewanych przed laty w czasie górniczych gwarków na rybnickich kopalniach znalazł się w \"Rybnickim śpiewniku górniczym\".",
+      "link": "https://www.radio90.pl/rybnicki-spiewnik-gorniczy-pozwoli-ocalic-od-zapomnienia-tradycje-gorniczych-gwarkow.html",
+      "published": "2026-10-23T22:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "b3fb6e9bb05051931bd61a4493421b72b8fe4949",
       "title": "Czarująca poetka. O miłości, czarach i sekretach",
@@ -144,16 +274,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "d9b376d82e41c2971767c933196cc14074ab8be1",
-      "title": "Zderzenie dwóch aut na Alei ROW. Są utrudnienia",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd3RMNk42aGUzcHk4SDlUQWtPd2lneGRBQm5QZFVYV1Z5M0E1YnhqQ1NEY1N0ejVwZWI3VG9IQzFrSWxMODREbmVFM2tVc3FkdnQzbVZ5N1J6bW9mbEo5OUljV2dVbi13MHRRMXpHUnN0MnhWakF6Zmd6Qk4teDJNLTZTSXdRY0lQOUpUZjNOc1BTRlJ4WEZqYnFDdnZIM0tzUElqbUF6eU9iMmhtNnloMTJiRmNyRDhDY1A0MFNrSlRNUXM?oc=5",
-      "published": "2026-10-23T12:58",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "ALERT"
-    },
-    {
       "id": "7a823dafa4c120279c5e85ccff5eb98f32b73c20",
       "title": "Miłość, wiara i zdrada w cieniu inkwizycji. „Wrota popiołów” Kamili Cudnik",
       "summary": "Langwedocja, XIII wiek. Na skalnym szczycie Montségur rozgrywa się historia, w której losy przybranego rodzeństwa splatają się z krucjatą przeciwko katarom. „Wrota popiołów. Ostatnie dni katarów” Kamili Cudnik wydało Wydawnictwo Zysk i S-ka. Polecamy je w odnowionym cyklu „Książka do kawy”.",
@@ -174,16 +294,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "5dd24ad48102b5a29a7acdf09373573d6e433260",
-      "title": "Dzień Dostawcy Grupy PGE już 9 listopada na PGE Narodowym w Warszawie",
-      "summary": "Dzień Dostawcy Grupy PGE to wydarzenie skierowane do obecnych i potencjalnych dostawców, wykonawców oraz partnerów technologicznych zainteresowanych współpracą z Grupą PGE. Tegoroczna edycja odbędzie się 9 listopada na PGE Narodowym w Warszawie. Jednym z głównych tematów spotkania będzie komponent…",
-      "link": "https://www.nowiny.pl/wiadomosci/251731-dzien-dostawcy-grupy-pge-juz-9-listopada-na-pge-narodowym-w-warszawie.html",
-      "published": "2026-10-23T12:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "6379673a30ccb4333a98ec25813fe1150064fbe1",
       "title": "Długi wobec ZUS? Doradcy pomagają znaleźć wyjście z trudnej sytuacji",
       "summary": "",
@@ -191,6 +301,16 @@
       "published": "2026-10-23T12:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5dd24ad48102b5a29a7acdf09373573d6e433260",
+      "title": "Dzień Dostawcy Grupy PGE już 9 listopada na PGE Narodowym w Warszawie",
+      "summary": "Dzień Dostawcy Grupy PGE to wydarzenie skierowane do obecnych i potencjalnych dostawców, wykonawców oraz partnerów technologicznych zainteresowanych współpracą z Grupą PGE. Tegoroczna edycja odbędzie się 9 listopada na PGE Narodowym w Warszawie. Jednym z głównych tematów spotkania będzie komponent…",
+      "link": "https://www.nowiny.pl/wiadomosci/251731-dzien-dostawcy-grupy-pge-juz-9-listopada-na-pge-narodowym-w-warszawie.html",
+      "published": "2026-10-23T12:00",
+      "source": "nowiny.pl",
+      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -244,26 +364,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "db9434493dab8e2204c4e96948acfa31d6a65643",
-      "title": "Kiedy warto skorzystać z pomocy adwokata? Przykłady spraw i sytuacji",
-      "summary": "Pomoc adwokata kojarzy się przede wszystkim z rozprawą sądową. Tymczasem z adwokatem można skonsultować się znacznie wcześniej - przed podpisaniem umowy, złożeniem pozwu czy podjęciem decyzji o istotnych konsekwencjach prawnych. Czasami potrzebna jest jedynie porada, innym razem przygotowanie…",
-      "link": "https://www.nowiny.pl/wiadomosci/251726-kiedy-warto-skorzystac-z-pomocy-adwokata-przyklady-spraw-i-sytuacji.html",
-      "published": "2026-10-23T09:05",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "91865d01fa15f7f548977dcb4dde1f5e3a023b9f",
-      "title": "Marszałek Saługa apeluje w sprawie roku UPA",
-      "summary": "„Takie decyzje dzielą Polskę i Ukrainę. Takie decyzje cieszą tylko Rosję. Nie można przejść obojętnym wobec decyzji radnych Obwodu Lwowskiego, regionu partnerskiego dla Województwa Śląskiego, o ogłoszeniu roku 2027 rokiem Ukraińskiej Powstańczej Armii i Romana Szuchewycza, głównego dowódcy UPA…",
-      "link": "https://www.nowiny.pl/wiadomosci/251724-marszalek-saluga-apeluje-w-sprawie-roku-upa.html",
-      "published": "2026-10-23T09:01",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "fac69f6d57ab87786edc1b8b045670922a4b354e",
       "title": "Pożar w Czerwionce-Leszczynach. Ogień pojawił się w jednym z domów. Poszkodowany został 42-latek",
       "summary": "Pożar domu w Czerwionce-Leszczynach, jedna osoba trafiła do szpitala. Dziś (23.10) rano, o godzinie 5:00 strażacy zostali wezwali do domu jednorodzinnego przy ulicy Pojdy.",
@@ -291,26 +391,6 @@
       "published": "2026-10-23T08:26",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8ba8a1207e9f53ab884827fa018231ddc8746822",
-      "title": "Wrócić na zwycięski kurs - JKH GKS Jastrzębie stoczy bój z STS Sanok Sokół",
-      "summary": "Piątkowym meczem z STS Sanok Sokół hokeiści JKH GKS Jastrzębie kontynuować będą ostry październikowy finisz pierwszej części sezonu, który poprzedza listopadową przerwę reprezentacyjną. Po pechowej porażce w Krakowie liczymy, że nasz zespół wróci na zwycięską ścieżkę i pokona ekipę z Sanoka, która…",
-      "link": "https://jastrzebieonline.pl/sport/251722-wrocic-na-zwycieski-kurs-jkh-gks-jastrzebie-stoczy-boj-z-sts-sanok-sokol.html",
-      "published": "2026-10-23T08:22",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b7f7f60107f2c9d19b00c4916d3da7cf2618cf1d",
-      "title": "Monika Mosiek poszukiwana listem gończym. Policja apeluje o pomoc",
-      "summary": "Kryminalni z Jastrzębia-Zdroju poszukują Moniki Mosiek. Podstawą poszukiwań jest list gończy wydany w związku z art. 160 § 2 Kodeksu karnego. Policja prosi o przekazywanie informacji, które mogą pomóc w ustaleniu miejsca pobytu kobiety.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251721-monika-mosiek-poszukiwana-listem-gonczym-policja-apeluje-o-pomoc.html",
-      "published": "2026-10-23T08:12",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -354,16 +434,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "0b3e5dd80a82c9abcd106f28be539ac611c38884",
-      "title": "„WARTKO!” - biegacze i kijkarze opanują ulice Gaszowic",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaG1PeEU2WE1qRnFNSmxxbDJfRFdHdW1pcXJNenBDY3hpOEtQZ1BXTzVnOWlnMTJ4dm9ac2VLQmY0SEppWkpUTFJmRnNkeWw4Mi1hTERRbmFwdGpxMVJVSHlxbGJXOGoyQ3FaMm9scHR5Q2NNWTE2Sm1VNFVZZGFEM2ZKb3BsY05UTkVBM3dMUERjb1BmS1hmQnRrM29PTEFfY0Vv?oc=5",
-      "published": "2026-10-23T03:25",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "17eb30f1a6f8150276701cdda05c989d72ebe514",
       "title": "Powstaną nowoczesne „Pracownie Kompas Jutra”",
       "summary": "Miasto pozyskało dofinansowania na doposażenie 19 szkół podstawowych w nowoczesne pracownie przyrodnicze i praktyczno-techniczne. Dzięki programowi „Pracownie Kompas Jutra” uczniowie zyskają lepsze warunki do eksperymentowania, prowadzenia obserwacji i rozwijania praktycznych umiejętności.",
@@ -391,16 +461,6 @@
       "published": "2026-10-23T00:00",
       "source": "rybnik.eu",
       "category": "Bezpieczeństwo",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "bb91732da3cea87236027dc82b012dae74e56c77",
-      "title": "Rybnicki śpiewnik górniczy pozwoli ocalić od zapomnienia tradycję gwarków",
-      "summary": "Zbiór najpiękniejszych pieśni śpiewanych przed laty w czasie górniczych gwarków na rybnickich kopalniach znalazł się w \"Rybnickim śpiewniku górniczym\".",
-      "link": "https://www.radio90.pl/rybnicki-spiewnik-gorniczy-pozwoli-ocalic-od-zapomnienia-tradycje-gorniczych-gwarkow.html",
-      "published": "2026-10-22T22:05",
-      "source": "Radio 90",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -455,10 +515,20 @@
     },
     {
       "id": "6bf64c203fa3c5a63bdd7b64b49c4f2be02aa0f2",
-      "title": "Nasz nowy zawodnik w liczbach. Był najlepszy",
+      "title": "Nasz nowy zawodnik w liczbach. Był najlepszy – NEWS",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aMGp1d1M3Y3Z0c1NFM3BqbUhZcVNtejVTRHU0V0sxX3BEQ2lNaWVWWEVoLWFvRDhNdzFfTGxxcDVzR2wxWGFpekZZT25QbHBPZ2IwQ09kNDlGaTlnOEhuSDRITk5oa01taTk3NzluZVprX0RCSkx2N3gwZFpQTEU?oc=5",
       "published": "2026-10-22T14:28",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8896ec63ac66131047dcc4e2e748dc20a597d0e7",
+      "title": "Państwowe odznaczenia dla kadr klinicznego szpitala i urzędu pracy. „Piękny wyraz uznania za służbę”",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaGQwTmYtdDY4VDlvYUNTaUhDeXVIOVl0LWQ4VkFoYVFiVEdESk80ZzY3SUpMdjRLWkdQQy0xMmdsSFhuVVR6REE3Qzhoamtka3VMMkdnR21pS3RUMVhXSFBjWGg0Ul9VeWd0YzJwX1p4WGNYdUh2NzlGcVRiaXl4eFF0RDlXOXBRS1RDenNQNEtCdWxneDJFUnVUeTNnZG82bllxeUJMT0VNUFQxR3kzWkROS2RfVVhpNmtXNXp4a24yelMyc3FZTjllOHdDX3lHc1kwTWpOeXRFUFVPRkZFUlVRR1Nid2JBeE5TTWh3?oc=5",
+      "published": "2026-10-22T13:35",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -531,16 +601,6 @@
       "published": "2026-10-22T09:10",
       "source": "nowiny.pl",
       "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f258f89775bff32a7b92765872d4d2d274ae75cf",
-      "title": "Państwowe odznaczenia dla kadr klinicznego szpitala i urzędu pracy. „Piękny wyraz uznania za służbę”",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWjg0VEZ0U185X0xHWWtLYXpZLThJbnlvYUNpSzZoR19wVmdPbXNHNE15YkRQaUV4b1psUEE2dzVkdDdhZFdoRmpBbXFSWEdXbHhiUWFpYl9aeVhhY2RCVjZ1V2d0cURQb1IwVU9LZ3JCUThxWFhWcGphc2pZQTVvWURzeVBFRzVSRjJHY3JnMVUtbXIyQ21TVlhIeHJaR2ZZaG92cUJHQkF2UVdELThNU0RHYXhtVDJvUVprd3M4Nms0aS1OaGZGTEJhMjdXZzJRcW1pRE9tUjZmRjlaRDNSS0VYckstSFNNMzc4?oc=5",
-      "published": "2026-10-22T09:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -659,16 +719,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV2dHdTNpZE1PUGdqaEtDMlBGX1I4WWE0WWRsQWpHVzh5dFZ5bUNjRjR4SzlNLURQcjh0akJ5UHhJLWJOUmFpTzJpeDJ3bEpONWl6a3BZekQ4eVR2WUh6R2NYXy05a3dfZWl0b3hfME5MMkduX3U1TXJ6dGVVVG9jQVdzN0NWQVJLZmhRZ09hUHV6UlZHYkR0MzlxN0E2Sl9KdmpUNExJMFpuOWlYajFrR1Jmb182aUZsZlFTY3EwcFB0emNVbXlPRW9SWUhTYXhnd0E?oc=5",
       "published": "2026-10-21T17:01",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "306dac0a8cda7b4e0d3b2a60db969d59fc61c360",
-      "title": "Jak zwiększyć swoją emeryturę? Doradcy pomogą oszacować przyszłe świadczenie",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMXJNQzl5MTlTUW5JZmxOT0ZLTUE1OFlrTTBoTFZlbHhfX2Y0UVBrb1hiNmh0dmRGMTdJdHNVTUdla0FMOEhVbHZOamxnZW9obVBEOE5sMTJNOHR2azgzdW1OcWtrLXFqdmJpRlN4N0pDVXRmeEdsNFUyLUJzRnVnaTE3VEFSb0FxbG5YUWk3bDJqZ1lkZzNibm5aZzJ6TTNPcFlWN3Q3aGJQMFNjRHBYcUJfOExFYU9ERGpoaUI3anJyZS1IN1NrSzhoSFFIQQ?oc=5",
-      "published": "2026-10-21T17:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -844,26 +894,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "6c5c31ed3fcaad779fa9ab90994f11428d7a2614",
-      "title": "Uwaga na oszustów! Apelują już nawet pracownicy skarbówki",
-      "summary": "Uwaga na oszustów! To kolejny apel o czujność od skarbówki. Urzędnicy przestrzegamy przed oszustami, którzy wysyłają fałszywe maile. Podszywają się pod Ministerstwo Finansów i Krajową Administrację Skarbową.",
-      "link": "https://www.radio90.pl/uwaga-na-oszustow-apeluja-juz-nawet-pracownicy-skarbowki.html",
-      "published": "2026-10-20T05:45",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f13ec44b8dad5fd8efce37daece680dee93d4b37",
-      "title": "Czas na doroczny Turniej Siatkówki Samorządowców Subregionu Zachodniego",
-      "summary": "Siedem ekip na parkiecie VIII Turnieju Siatkówki Samorządowców Subregionu Zachodniego, zawody w sobotę (24.10) od 8.30 do 14.00, w hali sportowej przy ul. Grunwaldzkiej w Rybniku.",
-      "link": "https://www.radio90.pl/czas-na-doroczny-turniej-siatkowki-samorzadowcow-subregionu-zachodniego.html",
-      "published": "2026-10-20T04:45",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "6b96f7a58b46ffd0c5ef91a7a1637e08c7335737",
       "title": "Zbliża się przetarg na lokale użytkowe i garaż",
       "summary": "Miasto ogłasza przetarg na wynajem lokali użytkowych. Zainteresowani przedsiębiorcy mogą zapoznać się z ofertą i obejrzeć wybrane nieruchomości korzystając z wirtualnego spaceru.",
@@ -881,26 +911,6 @@
       "published": "2026-10-20T00:00",
       "source": "rybnik.eu",
       "category": "Rada Miasta",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6de7f28678553497f04a5ae45bbc44c70040dc69",
-      "title": "Raport z siatkarskich parkietów. Jak grały nasze drużyny?",
-      "summary": "Ze zmiennym szczęście grali nasi drugoligowcy na siatkarskich parkietach. Rybniczanie przegrali, zespół z Jastrzębia-Zdroju wygrał.",
-      "link": "https://www.radio90.pl/raport-z-siatkarskich-parkietow-jak-graly-nasze-druzyny.html",
-      "published": "2026-10-19T16:57",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "26a777799c497f4843576cac306d1e9f2b86fd2a",
-      "title": "MKKS Rybnik odniósł zwycięstwo w ostatniej sekundzie",
-      "summary": "Rzut w ostatniej sekundzie spotkania zdecydował o zwycięstwie koszykarzy MKKS Rybnik. W minioną sobotę (17.10) rybniczanie podejmowali we własnej hali Resovię Rzeszów.",
-      "link": "https://www.radio90.pl/mkks-rybnik-odniosl-zwyciestwo-w-ostatniej-sekundzie.html",
-      "published": "2026-10-19T16:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -962,16 +972,6 @@
       "source": "rybnik.eu",
       "category": "Komunikaty",
       "priority": "NORMAL"
-    },
-    {
-      "id": "imgw-250e05a3888836e4fabd0cd2460c43de411e0ea6",
-      "title": "IMGW (region): Susza hydrologiczna",
-      "summary": "W związku z występującymi niskimi przepływami wody, w kolejnych dniach na obszarze zlewni Małej Wisły wraz ze zb. Goczałkowice, spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.",
-      "link": "https://danepubliczne.imgw.pl/api/data/warningshydro",
-      "published": "2026-10-14T09:23",
-      "source": "IMGW",
-      "category": "Ostrzeżenia",
-      "priority": "ALERT"
     },
     {
       "id": "9e06cb1482fc28382040862d07207fa90970b707",
