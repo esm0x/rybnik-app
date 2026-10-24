@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-10-24T10:57:08",
+  "generated_at": "2026-10-24T15:56:56",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "a9ed1b8e10a2baa26859aacdf57e029b2986b97b",
+      "title": "Tradycja, pasja i widowiskowa gonitwa. Hubertus 2026 w Krostoszowicach [ZDJĘCIA]",
+      "summary": "W Krostoszowicach odbył się tegoroczny Hubertus, czyli tradycyjne święto jeźdźców i miłośników koni, będące jednocześnie symbolicznym zakończeniem sezonu jeździeckiego.",
+      "link": "https://agronowiny.pl/wiadomosci/251746-tradycja-pasja-i-widowiskowa-gonitwa-hubertus-2026-w-krostoszowicach-zdjecia.html",
+      "published": "2026-10-24T14:11",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "00a433dc5f34bb27180b7f108e929c36c915052a",
+      "title": "Cykl z książki „20 lat Konkursu Człowiek Roku Rybnik.com.pl”: L. Arkadiusz Geratowski",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOWNuX3pXLXFBRE5faEhiSnRaS0ZfVThQcElPNF9VcXhLUGlSUXcxVnR2QUlxVFlneDlGNlFSUXJuRV81S2FyWGVJQU1EaTJRWkNmVEJZTUdYNk9TYXZ3YXl6QTQ2Qm51YmY4X1BlNHJnUktxeVl4elU1a2lXa0owaWh6aFYwaU9idkRHTGlaLXZWTXlXbEluODRXcDRyMXFndGxlejA5U1h4QzhKTFlXbFBPSmcxdzlYVWFOd0VVOHRYX0tGNm5aa0ZjM2Y0V1o5d2pocXVn?oc=5",
+      "published": "2026-10-24T14:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c251d598f95b71ce5cc5c587a60202186657725c",
+      "title": "Ośrodek Kultury Zameczek w Czernicy: dwa wydarzenia w ostatnich dniach października. Jakie?",
+      "summary": "Ośrodek Kultury w Czernicy zaprasza w ostatnim tygodniu października. We wtorek (27.10) w Klubie Książki rozmowa o \"Limes inferior\" Janusza A. Zajdla, w czwartek (29.10) \"Pan Dynia na Zamku\", czyli zaproszenie dla najmłodszych mieszkańców regionu do świata jesiennych tajemnic i potwornie dobrej…",
+      "link": "https://www.radio90.pl/osrodek-kultury-zameczek-w-czernicy-dwa-wydarzenia-w-ostatnich-dniach-pazdziernika-jakie.html",
+      "published": "2026-10-24T13:55",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "58758b3a2cacead7745dff2687c232af4e71c8aa",
+      "title": "Historia szlaku kolejowego w Leszczynach w pigułce",
+      "summary": "Z okazji 180-lecia istnienia kolei na ziemi rybnickiej Krzysztof Kluczniok, lokalny pasjonat historii z Leszczyn przypomina ciekawą historię leszczyńskiego szlaku kolejowego.",
+      "link": "https://www.radio90.pl/historia-szlaku-kolejowego-w-leszczynach-w-pigulce.html",
+      "published": "2026-10-24T12:30",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "imgw-911c998d2a743ba0f1babb6e688da00b7189ec1b",
       "title": "IMGW (region): Susza hydrologiczna",
@@ -12,6 +52,26 @@
       "source": "IMGW",
       "category": "Ostrzeżenia",
       "priority": "ALERT"
+    },
+    {
+      "id": "9ce502c7a9a9ec80422dcf2b09ea2652de21e148",
+      "title": "16 młodzieżowych drużyn walczyło o zwycięstwo. Halowe zawody MDP w powiecie wodzisławskim [ZDJĘCIA]",
+      "summary": "Młodzieżowa Drużyna Pożarnicza z Bluszczowa zwyciężyła w halowych zawodach sportowo-pożarniczych, które odbyły się w sobotę, 24 października. W rywalizacji uczestniczyło 16 drużyn. Drugie miejsce zajął Rogów, a trzecie Pszów.",
+      "link": "https://www.nowiny.pl/wiadomosci/251747-16-mlodziezowych-druzyn-walczylo-o-zwyciestwo-halowe-zawody-mdp-w-powiecie-wodzislawskim-zdjecia.html",
+      "published": "2026-10-24T11:33",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "315348fb6583be36a568d792e81e9c0e78ae379f",
+      "title": "Zostawić czy sprzątnąć? Jak mądrze postępować z jesiennymi liśćmi",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREZsOHQwcmlVREJBRDV0Rm5pWkh6UG9NX0VWVDlKWDI4cjVBZllPRkxhRlBQTUFBVTZhTkRfSTNFUmxpWVM3djdHdXFneWxzNDlBWWY1R21RLTBzOVdCLTNQSzBMZkdwSUt4NGhyS21WeUJpbi1LbHhMQ1JlX2ZNZkY2VlpubFdNai1nTFpGQ2oxRWQzNVlIbndiMk80ZzR5dWJpM0NqZW9LQ3hSX2lYZjYxN205YnY2eFU5TGxnaw?oc=5",
+      "published": "2026-10-24T11:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
     },
     {
       "id": "21beeca5d18edaa4419a70a9c34bdc5d2ff1ffb2",
@@ -65,7 +125,7 @@
     },
     {
       "id": "c201f106ea2f6d7c54ee0dcb444da0c77e52add3",
-      "title": "Networking i sprzedaż w biznesie – spotkanie BMH w Rybniku [patronat]",
+      "title": "Jak budować kontakty biznesowe, które przekładają się na współpracę i sprzedaż? To temat najbliższego spotkania BMH w Rybniku [patronat]",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOUFl5dHZQUXJLLWd0T2pLcTN1ZWprVFN4MzJFZFN6TEpYaDdXbW1nT3pBNFhvc0ZfYjZBbkRzeWlKc2JXWER3ZFZzUUZWRDlzUDVUSVpVenNNRGd4UUNROXE3b25DQTVtdFNhRzAwaFgyV1BwVlBiNWpPUERGdjE2blVyb1o0NUh5V2t2SG9jMVRDb3hGMl9NVWJ0eHlCSU1RZDJIUGFrMDJSRGpkTjBaMmQzdTRTWktMc0Q3WjJEd0JvTmFsZUxrRGpKNldDS2NnYVBhYkc1ajlPZVdidmw1WUI3alNnbi1RUGJuRm9wY0c0ZXpRdHVSeG9tS2g3dVlkZmdUemY5ZnFzcVQxOW56RkdKMW9WSzRlVkE?oc=5",
       "published": "2026-10-24T08:00",
@@ -160,16 +220,6 @@
       "link": "https://www.radio90.pl/zmiana-czasu-bez-wplywu-na-pociagi-kolei-slaskich.html",
       "published": "2026-10-23T17:40",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "13dd062318ee2579fe74edb70b208ac2218db84f",
-      "title": "Zderzenie dwóch samochodów na Alei ROW (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORElxcXVmNWZRdFN1RXhVa1FCQ1d4TkZZbEJpZm9QMVNOSi0xY3pPSktZeXN0M2pnOVFxY3ZOS3UtZDUwUEZ2S21kbVJ6T2ZFbkl3ZlNSZnlwWUlmN3VsNmdFNEZUTjR1aUkwYkE1LW5fQ1pFbHlvaGRYaU5BdlJUVFREVUo5NEVwalNrcHBYQWo5UXQ3SkRyWDlwekxlaGtGSGJnbGF3?oc=5",
-      "published": "2026-10-23T17:01",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -274,21 +324,21 @@
       "priority": "NORMAL"
     },
     {
+      "id": "d9b376d82e41c2971767c933196cc14074ab8be1",
+      "title": "Zderzenie dwóch aut na Alei ROW. Są utrudnienia",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd3RMNk42aGUzcHk4SDlUQWtPd2lneGRBQm5QZFVYV1Z5M0E1YnhqQ1NEY1N0ejVwZWI3VG9IQzFrSWxMODREbmVFM2tVc3FkdnQzbVZ5N1J6bW9mbEo5OUljV2dVbi13MHRRMXpHUnN0MnhWakF6Zmd6Qk4teDJNLTZTSXdRY0lQOUpUZjNOc1BTRlJ4WEZqYnFDdnZIM0tzUElqbUF6eU9iMmhtNnloMTJiRmNyRDhDY1A0MFNrSlRNUXM?oc=5",
+      "published": "2026-10-23T12:58",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
       "id": "7a823dafa4c120279c5e85ccff5eb98f32b73c20",
       "title": "Miłość, wiara i zdrada w cieniu inkwizycji. „Wrota popiołów” Kamili Cudnik",
       "summary": "Langwedocja, XIII wiek. Na skalnym szczycie Montségur rozgrywa się historia, w której losy przybranego rodzeństwa splatają się z krucjatą przeciwko katarom. „Wrota popiołów. Ostatnie dni katarów” Kamili Cudnik wydało Wydawnictwo Zysk i S-ka. Polecamy je w odnowionym cyklu „Książka do kawy”.",
       "link": "https://www.nowiny.pl/wiadomosci/251736-milosc-wiara-i-zdrada-w-cieniu-inkwizycji-wrota-popiolow-kamili-cudnik.html",
       "published": "2026-10-23T12:28",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "164ea2ae865e9137ca8bcf06402a6c866e579c3a",
-      "title": "Gruszka z orzełkiem, Matusiak w mundurze i Gadowski z serduszkiem. Przedwyborcza analiza jastrzębskiej polityki [FELIETON]",
-      "summary": "Wybory parlamentarne zbliżają się wielkimi krokami, bo już w 2027 roku będziemy mogli zagłosować na naszych przedstawicieli do sejmu i senatu. Kto w Jastrzębiu-Zdroju mógłby ubiegać się o mandat?",
-      "link": "https://jastrzebieonline.pl/opinie/251711-gruszka-z-orzelkiem-matusiak-w-mundurze-i-gadowski-z-serduszkiem-przedwyborcza-analiza-jastrzebskiej-polityki-felieton.html",
-      "published": "2026-10-23T12:20",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -314,31 +364,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "1fe62be8efade72fc0ef028d4da159a788c65dc3",
-      "title": "Jak wybrać dostawcę stali nierdzewnej do wymagających inwestycji przemysłowych?",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUG1lRDFRS1hNalBWZF9zeDNkTm5CUGtJa0dIS292TkxBcDZoMWNiN0RFM25jQm4tUllpS05iM0lYQzA5VVlNX2N0QmQycC1nUUE5cWVTWWVHMDU2UW1keDhJNE1oRnp5V28xbTkwR0Q3Q2ttakw2SktpOU9mNk9GeFJqOVpnYkJJMUVuVHRmeVVEa0ZHYmhRZDRubE94Y1FzMmM1akU0MWI5OU52THl3dzJNT0twVDFrWXRwNW9yVm9EMHZYakJJelc2QUpPSFAyTHc?oc=5",
-      "published": "2026-10-23T11:50",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "f96043e6f3b2fe21489f459ccae8ec4a64fedf3a",
       "title": "Czy członkowie PiS mają powycinać ze wspólnych fotografii Mateusza Morawieckiego - pyta w liście otwartym do Jarosława Kaczyńskiego Izabela Kloc",
       "summary": "W czwartek 22 października minął termin odwołania od decyzji zarządu okręgu 30. PiS w Rybniku, dotyczącej członkostwa w PiS Izabeli Kloc. Była europosłanka nie złożyła odwołania, jednak napisała list otwarty do szefa partii Jarosława Kaczyńskiego.",
       "link": "https://www.nowiny.pl/wiadomosci/251730-czy-czlonkowie-pis-maja-powycinac-ze-wspolnych-fotografii-mateusza-morawieckiego-pyta-w-liscie-otwartym-do-jaroslawa-kaczynskiego-izabela-kloc.html",
       "published": "2026-10-23T11:36",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ac0877732dd729989e2ff574c35ee9319331c990",
-      "title": "Zielona Pracownia otwarta w Pogrzebieniu. Uczniowie będą poznawać przyrodę przez doświadczenia",
-      "summary": "Uczniowie Szkoły Podstawowej im. Juliusza Ligonia w Pogrzebieniu zyskali nową przestrzeń do nauki o przyrodzie i ochronie środowiska. 22 października otwarto tam Zieloną Pracownię, której powstanie wsparł Wojewódzki Fundusz Ochrony Środowiska i Gospodarki Wodnej w Katowicach.",
-      "link": "https://www.nowiny.pl/ekonowiny/251729-zielona-pracownia-otwarta-w-pogrzebieniu-uczniowie-beda-poznawac-przyrode-przez-doswiadczenia.html",
-      "published": "2026-10-23T11:25",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -684,16 +714,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "19fe78ef0e6ee282fdcfe13a0ab2e3ac464b7dc8",
-      "title": "Rybnicki talent z tytułem wicemistrza Czech w motocrossie",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNUpMNHVhYWxVQjhPYzV4Z083LUN1RFZ0RE5oTnNhaHEyMnh4UXVvOFJwSXIybmxuYk5fRjhNd2R4dHBaN29CNjRmV1JLajZmb3JRMjRseGZEblBHNmV2NVlBMkRXN3ZUbl9ENnlVcjJ3UjM2eUVuR1Ata0NQWHQyTXpCM2ZfWFRqYUpsbWlGTkEtZEZGeXpROHBKcjkxcWdoUnBVN0hYS0d6RzJJcXdpZW1iTUJXdw?oc=5",
-      "published": "2026-10-21T19:12",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "20488a3840782d4f495a8d6610ce1c5e521c7afc",
       "title": "Brązowy medal szachistek z Rybnika w drużynowych mistrzostwach Polski",
       "summary": "",
@@ -874,26 +894,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "98c6d1c469b5c7307fbe2546868b5879809549f4",
-      "title": "Jak dobrać metodę znakowania kurtek firmowych?",
-      "summary": "Haft komputerowy, nadruk termotransferowy i naszywki to popularne sposoby znakowania kurtek firmowych, ale nie każda metoda sprawdzi się na każdym materiale. Wybór techniki zależy od rodzaju kurtki, wielkości logo, warunków użytkowania oraz częstotliwości prania. Haft dobrze nadaje się do prostych…",
-      "link": "https://www.radio90.pl/jak-dobrac-metode-znakowania-kurtek-firmowych.html",
-      "published": "2026-10-20T09:38",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8c5cf1bc26350bab4c6d2216c65d2340a986fcdd",
-      "title": "Śniegowce dziecięce hurt – jak przygotować sklep na sezon jesień–zima?",
-      "summary": "W przypadku dziecięcego obuwia sezonowego najważniejsze decyzje zapadają przed spadkiem temperatury. Sklep musi dobrać rozmiarówkę, określić proporcje kolorów i przygotować opisy produktów odpowiadające na pytania rodziców. Śniegowce dziecięce hurt warto planować w oparciu o rzeczywiste cechy…",
-      "link": "https://www.radio90.pl/sniegowce-dzieciece-hurt-jak-przygotowac-sklep-na-sezon-jesien-zima.html",
-      "published": "2026-10-20T07:33",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "6b96f7a58b46ffd0c5ef91a7a1637e08c7335737",
       "title": "Zbliża się przetarg na lokale użytkowe i garaż",
       "summary": "Miasto ogłasza przetarg na wynajem lokali użytkowych. Zainteresowani przedsiębiorcy mogą zapoznać się z ofertą i obejrzeć wybrane nieruchomości korzystając z wirtualnego spaceru.",
@@ -942,16 +942,6 @@
       "source": "rybnik.eu",
       "category": "Komunikaty",
       "priority": "NORMAL"
-    },
-    {
-      "id": "c3788a7588885246bde24100fa41447c56836671",
-      "title": "Gdzie i kiedy nie będzie prądu? Harmonogram wyłączeń na najbliższy tydzień",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNU5rZGZCQW8tYUpwR2VjdWx5N09PZVFGazVRZ21LRXpaZFlMSnFvLVJOOURjek9CV19fU196b1d3dEQyUTFPWHIwUDA4S0FjM0Y0RFR3YlAxQWY3TS1Hd01CWkJ0bVRxYi04NkpZd1B6WGNhWDE0QWNpS2hVNmNGNm9JVEVFR2t3bE1BVkpMQnhfVUZjSVRrT0dLbXlyQzBBUHB5am1BTjVDUG5MaTgtZlA4Z3FFVFpiMXgtSGJhaGNCNkNrZm1mMFI4aw?oc=5",
-      "published": "2026-10-18T10:01",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "ALERT"
     },
     {
       "id": "de1bb448c420443441e610cc9a41f3f2cb5f9b79",
@@ -1072,6 +1062,16 @@
       "source": "rybnik.eu",
       "category": "Komunikaty",
       "priority": "NORMAL"
+    },
+    {
+      "id": "f7dd1801b4c1a0cfd7e2b14d2a3d6d05174f2a6c",
+      "title": "Gdzie nie będzie prądu? Harmonogram wyłączeń w Rybniku i powiecie rybnickim",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNTFsZDlTMVBjbERRdWw2T3RIUlhnTmVDU0NOLUp5TjJsc1hBc3ZKd0JPTERCdEZBcXZmMlNhU3lMb2V2ZTRucE5nQXFFUnVkbDZYckx2cUNqT09nNGFFQlA5aWF0VmNxNU01V25RS0hjdDBmVHEyczNubVJEdm5jbXZYZ3VucFdEc0xHVDVva2NUdGlCcXdTdUJ3T1BhRWtTa1cyTnFJZmwwVjI4bkpja0Fhd2ZEckYzRVZ0WjB5SUZETG5hUlV3dGNRMzU?oc=5",
+      "published": "2026-10-04T07:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
     },
     {
       "id": "a77149d199d9b5d451a0fcf617393a173d60f8fa",
