@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T04:37:43",
+  "generated_at": "2026-10-25T11:21:56",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,7 +7,7 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 117,
+  "count": 119,
   "failures": [],
   "events": [
     {
@@ -22,22 +22,11 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/zdolni-i-skromni-gramy-na-ostro.html"
     },
     {
-      "id": "bilnya-galeria-sztuki-rzeczna-202610251100",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-10-25T11:00",
-      "end": "2026-10-25T12:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=712043#opis"
-    },
-    {
       "id": "dk-chw-spektakl-piracka-przygoda-20261025",
       "title": "Spektakl \"Piracka przygoda\"",
       "category": "Spektakl",
       "start": "2026-10-25T11:00",
-      "end": "2026-10-25T11:45",
+      "end": null,
       "venue": "Dom Kultury Rybnik-Chwałowice",
       "description": "W niedzielę 25 października 2026 r. o 11:00 zapraszamy na spektakl Teatru Lalek Marka Żyły \"Piracka przygoda\".",
       "sourceName": "DK Chwałowice",
@@ -719,7 +708,7 @@
       "title": "40. Silesian Jazz Meeting – Kinga Głyk na żywo",
       "category": "Impreza",
       "start": "2026-11-15T20:00",
-      "end": "2026-11-15T21:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Drugi wieczór jubileuszowego Silesian Jazz Meeting w Rybniku wypełnią jazzowa improwizacja, funkowy groove i nowoczesne brzmienia. Na Dużej Scenie Teatru Ziemi Rybnickiej wystąpi Kinga Głyk z koncertem z trasy „The Chapters”. 15 listopada 2026 roku (niedziela), godz. 20:00 Duża Scena Teatru Ziemi Rybnickiej Plac Teatralny im. Kazimierza Kutza 1, 44-200 Rybnik Informacje o cenach biletów i ich sprzedaży nie zostały podane. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie .",
       "sourceName": "iRybnik",
@@ -1269,11 +1258,22 @@
       "title": "Vivaldi przy świecach",
       "category": "Koncert",
       "start": "2027-01-28T19:30",
-      "end": null,
+      "end": "2027-01-28T21:00",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Barok na wyciągnięcie ręki 300 lat temu „Cztery pory roku” Antonio Vivaldiego zaskoczyły świat swoją niezwykłą mocą i emocjami. Dziś masz szansę poczuć je tak, jak słuchali ich pierwsi odbiorcy – w kameralnej atmosferze, przy blasku świec, otoczeni muzyką, która łączy duchową głębię z radością życia. To nie tylko koncert – to podróż w czasie, pełna emocji, które przetrwały wieki.",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/vivaldi-przy-swiecach.html"
+    },
+    {
+      "id": "bilnya-ponad-chmurami-202701291900",
+      "title": "Ponad Chmurami",
+      "category": "Koncert",
+      "start": "2027-01-29T19:00",
+      "end": "2027-01-29T20:30",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": "🎶 Daj się porwać muzycznej podróży z zespołem Ponad Chmurami! Usłysz utwory z albumu „Zaprowadź mnie” i ukochane przeboje w kameralnej, pełnej ciepła atmosferze. ✨ Kup bilet i przeżyj ten wyjątkowy wieczór! 🎟️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/Ponad-Chmurami?eid=712260#opis"
     },
     {
       "id": "dk-bog-11035-dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-godz-16-00",
@@ -1296,6 +1296,28 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
+    },
+    {
+      "id": "bilnya-bartosz-gajda-po-lecie-stand-up-nowy-program-202704121900",
+      "title": "Bartosz Gajda - \"PO LECIE\" - stand up NOWY PROGRAM",
+      "category": "Kabaret",
+      "start": "2027-04-12T19:00",
+      "end": "2027-04-12T20:30",
+      "venue": "inoWino Świerklaniec, Jana III Sobieskiego 9",
+      "description": "😂⏳ Czas leci jak szalony? To idealny moment na solidną dawkę śmiechu! Bartosz Gajda wraca z nowym stand-upem – inteligentny humor, absurd i zero zbędnych wulgaryzmów. Przyjdź i pośmiej się z życia, zanim znów przyspieszy 🎤✨🎟️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/stand-up/Bartosz-Gajda/po-lecie?eid=713645#opis"
+    },
+    {
+      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
+      "title": "NutkoSfera - CeZik dzieciom",
+      "category": "DlaDzieci",
+      "start": "2027-12-03T17:00",
+      "end": "2027-12-03T18:20",
+      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
+      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }
