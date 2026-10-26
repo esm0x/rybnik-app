@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T04:42:46",
+  "generated_at": "2026-10-26T12:56:01",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,20 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 115,
+  "count": 116,
   "failures": [],
   "events": [
-    {
-      "id": "bilnya-lalka-2026-202610261000",
-      "title": "Lalka (2026)",
-      "category": "Film",
-      "start": "2026-10-26T10:00",
-      "end": "2026-10-26T11:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/film/Lalka-2026?eid=711417#opis"
-    },
     {
       "id": "tzr-guru",
       "title": "Guru",
@@ -297,6 +286,17 @@
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=715187#opis"
     },
     {
+      "id": "iryb-spotkanie-o-ksiazce-nie-do-obrony-w-rybniku",
+      "title": "Spotkanie o książce „Nie do obrony” w Rybniku",
+      "category": "Impreza",
+      "start": "2026-11-03T18:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Sędzia Igor Tuleya i adwokat Jacek Dubois przyjadą do Rybnika, by porozmawiać z czytelnikami o książce „Nie do obrony”. Spotkanie będzie również okazją do rozmowy o roli sędziego i adwokata na sali sądowej. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . W spotkaniu wezmą udział autorzy książki „Nie do obrony” — sędzia Igor Tuleya i mec. Jacek Dubois. Rozmowa dotyczyć będzie zarówno publikacji, jak i funkcji, jakie sędzia oraz adwokat pełnią podczas rozprawy. Spotkanie poprowadzi redaktor Joanna Prokop. W Rybniku o prawie bez prawniczego żargonu - spotkanie „Nie do obrony”",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/spotkanie-o-ksiazce-nie-do-obrony-w-rybniku"
+    },
+    {
       "id": "bilnya-galeria-sztuki-rzeczna-202611040900",
       "title": "Galeria Sztuki Rzeczna",
       "category": "Wystawa",
@@ -407,13 +407,24 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/galeria-pod-oknem-wystawa-prac-magdaleny-gacal/"
     },
     {
+      "id": "iryb-spotkanie-z-agnieszka-dobkiewicz-o-sluzbie-w-zamku-ksiaz",
+      "title": "Spotkanie z Agnieszką Dobkiewicz o służbie w zamku Książ",
+      "category": "Impreza",
+      "start": "2026-11-06T18:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Jak wyglądała codzienność osób pracujących w zamku Książ? O ich doświadczeniach i historiach opowie w Rybniku pisarka i dziennikarka Agnieszka Dobkiewicz, współautorka książki „Zamek Książ. Historia opowiedziana głosami służących”. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Spotkanie poświęcone będzie książce napisanej przez Agnieszkę Dobkiewicz wspólnie z Mateuszem Mykytyszynem. Uczestnicy poznają opowieści o służbie zamkowej i codziennym życiu osób pracujących w Książu. Będzie też okazja, by zapytać autorkę o jej pracę oraz o to, jak zbierała materiały do książki.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/spotkanie-z-agnieszka-dobkiewicz-o-sluzbie-w-zamku-ksiaz"
+    },
+    {
       "id": "dk-chw-wieczor-sztuk-20261106",
       "title": "Wieczór sztuk",
       "category": "Inne",
       "start": "2026-11-06T18:00",
       "end": null,
       "venue": "Dom Kultury Rybnik-Chwałowice",
-      "description": "W piątek 6 listopada 2026r. o godz. 18:00 zapraszamy na wyjątkowy Wieczór Sztuk - pamięci Danuty i Dawida Adamczyk. Wstęp wolny.",
+      "description": "W piątek 6 listopada 2026r. o godz. 18:00 zapraszamy na wyjątkowy Wieczór Sztuk - pamięci Danuty i Dariusza Adamczyk. Wstęp wolny.",
       "sourceName": "DK Chwałowice",
       "sourceUrl": "https://www.dkchwalowice.pl/?news=52410"
     },
