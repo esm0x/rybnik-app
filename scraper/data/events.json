@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T20:49:03",
+  "generated_at": "2026-10-26T04:42:46",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -10,17 +10,6 @@
   "count": 115,
   "failures": [],
   "events": [
-    {
-      "id": "tzr-zdolni-i-skromni-gramy-na-ostro",
-      "title": "Zdolni i Skromni - \"Gramy na ostro\"",
-      "category": "Kabaret",
-      "start": "2026-10-24T17:30",
-      "end": "2026-10-25T19:00",
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Zdolni i Skromni - „Gramy na ostro\" „Najodważniejszy jak dotąd ich program. Żarty ocierające się o brawurę. Komedia w soczystych kawałkach” TAKI BYŁ PLAN A co wyszło? Sprawdźcie sami. Ale uwaga! … Grają na ostro ???? ZDOLNI i SKROMNI (i trochę niegrzeczni) - Kabaret nr 1 w Internecie ⭐ - 120 milionów wyświetleń w Social Mediach [w ostatnim roku] ???? - Najmocniejszy skład ???? Olga ŁASAK, Ewelina WOJTAK, Andrzej KOZŁOWSKI, Łukasz ŻAK Program jest absolutnie premierowy. Żaden ze skeczy nie był wyemitowany w telewizji ani opublikowany w Internecie. Sugerowany minimalny wiek widzów - 16 lat",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/zdolni-i-skromni-gramy-na-ostro.html"
-    },
     {
       "id": "bilnya-lalka-2026-202610261000",
       "title": "Lalka (2026)",
@@ -1274,6 +1263,17 @@
       "description": "😂⏳ Czas leci jak szalony? To idealny moment na solidną dawkę śmiechu! Bartosz Gajda wraca z nowym stand-upem – inteligentny humor, absurd i zero zbędnych wulgaryzmów. Przyjdź i pośmiej się z życia, zanim znów przyspieszy 🎤✨🎟️.",
       "sourceName": "biletyna.pl",
       "sourceUrl": "https://biletyna.pl/stand-up/Bartosz-Gajda/po-lecie?eid=713645#opis"
+    },
+    {
+      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
+      "title": "NutkoSfera - CeZik dzieciom",
+      "category": "DlaDzieci",
+      "start": "2027-12-03T17:00",
+      "end": "2027-12-03T18:20",
+      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
+      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }

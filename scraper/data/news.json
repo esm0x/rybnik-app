@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-10-25T20:50:27",
+  "generated_at": "2026-10-26T04:44:13",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "87ace83c09fab3274784193fbfe184c9af1ab4ad",
+      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1McFNIUnlFalk2M3dERm1oelV3UFJfaVBrbHRCVFVmbGpUbk9oZ19DYWRTRVNxR2dxMWF6WURzQTJndWdjVkhXWWkyS09kQmVWNkpvNW81aDBoRUFIQzhwcTY3WEI4Z1RlRmZQSWtURUEyVXoy?oc=5",
+      "published": "2026-10-25T23:08",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d2fc20aea06bdb26c5f9f98fb96fd3bd55cdac20",
+      "title": "GKS 62 Jastrzębie wygrał 18:0. Awans celem klubu? , WTS Odra Wodzisław depcze po piętach",
+      "summary": "GKS 62 Jastrzębie urządził sobie prawdziwy festiwal strzelecki, rozbijając Inter Krostoszowice aż 18:0. Tak efektowne zwycięstwo robi wrażenie, ale w Jastrzębiu stawka jest znacznie większa niż pojedynczy rekordowy wynik. Klub chce wrócić na wyższy szczebel rozgrywkowy, a jego prezes Paweł…",
+      "link": "https://jastrzebieonline.pl/sport/251758-gks-62-jastrzebie-wygral-18-0-awans-celem-klubu-wts-odra-wodzislaw-depcze-po-pietach.html",
+      "published": "2026-10-25T20:53",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "4b2f54af6f0e4939bb6f021795886c1716db3bf6",
       "title": "Siedem bramek Przyszłości II Rogów. Górnik Pszów zdemolowany na własnym boisku [ZDJĘCIA]",
@@ -254,16 +274,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "fa1310d2df97d042028994a30cea1da733e70d08",
-      "title": "wiadomości, baza firm i ogłoszenia • Portal",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQ2VLbXg1dXZhdFJMVTUzT2FIYUFvekYtYTFyZnN4aVZzLW5TdTdneWs3M29kakJ4dC1uZDg1TGUyTzFKUWtrclJCakcwMFlXakE4WkVLR3I2Zm1STkU5ZkJYSFFPWk9lRUpKMkxaRzhzUi1HeGpSRHJVZHFwMWJkRTdLV0NCdnFuS1BEbVh2b01BbGpmenNPTFdkWVZhSWZiLXZRWnZEeHM5dko1WlhxbXZTV29jVmp5ci1oWmdGcEhIcmRMbVJFdElsQjlEM1FPZU5vN1JFeTNpV3BveVBWVGdyTTA5RDd1VU1wM0V3WjZXTHFtRkZ2cG5xd3dOWi1vMnNtdkpPMzVwS0VkR3dBb1pB?oc=5",
-      "published": "2026-10-24T22:07",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "bb91732da3cea87236027dc82b012dae74e56c77",
       "title": "Rybnicki śpiewnik górniczy pozwoli ocalić od zapomnienia tradycję gwarków",
       "summary": "Zbiór najpiękniejszych pieśni śpiewanych przed laty w czasie górniczych gwarków na rybnickich kopalniach znalazł się w \"Rybnickim śpiewniku górniczym\".",
@@ -321,16 +331,6 @@
       "published": "2026-10-24T18:00",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a1b5cc7d84e5669f76e672e4e834a03613aad925",
-      "title": "Nauczyciel to więcej niż zawód. Związkowcy ZNP spotkali się w Jastrzębiu-Zdroju",
-      "summary": "O pracy nauczyciela, odpowiedzialności za młodego człowieka, godnych warunkach zatrudnienia i zawodowej solidarności mówiono dziś, 24 października, w Jastrzębiu-Zdroju. W sali koncertowej Państwowej Szkoły Muzycznej I i II stopnia odbył się XXIII Dzień Związkowca Okręgu Śląskiego Związku…",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251748-nauczyciel-to-wiecej-niz-zawod-zwiazkowcy-znp-spotkali-sie-w-jastrzebiu-zdroju.html",
-      "published": "2026-10-24T17:44",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -634,16 +634,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "370d3d699a3594f662f788bfa1ff80f2991b1218",
-      "title": "Jak bezpieczne są szkoły w Rybniku? Miasto przyznaje: nie ma jednolitych standardów. Kontrole ujawniły nieprawidłowości",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOU3M0bVFVM0F1aUhBVXVzTGVjb195cW8telo2ZHVWYllBTjgyZjliYkNPTWxqVFc3a3pxdTFuNnVOWGlfZDJTcDBrUEVhZkNueWlybWRXWFJNby1VRGFkWkJxQUJ6WDdEanEwZUtPcDk3X1h6bWhwbUlqanUzb1hPTlQ1dWhqTlRkb3ZJRnloWU55WWdFeDhiQ19wSjlTR2Z0OGhDWEtocDdRUUt4OFEzX0pPSHExQWt4Wkxnc1VGY1NwbGZhakJHR2QwVkNPbXh3enpTQXkybkFpTE5wUFZzbXZMdTJmQzFmeXNHN2o5WEJGcHI0YXJ5cUdPM2FXVGoxc3ZPcA?oc=5",
-      "published": "2026-10-23T06:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "6b1b3265e3768192c4a5838699376bdbec36a03d",
       "title": "Tańsze kino na Śląsku. Bilety do Cinema City już od 14,90 zł.",
       "summary": "",
@@ -684,11 +674,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "42b1bddfa12b75b42a75981fd522683076eabbf3",
-      "title": "Sukces uczniów rybnickiej Budowlanki. Zrealizują projekty badawcze z Politechniką Śląską",
+      "id": "64c73e5a5f0fac0beeb301d54ce91b5c6d6081ef",
+      "title": "Sportowy weekend. W Rybniku zagrają piłkarze i koszykarki",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaXdzOWw0d2Y3UE9hTTRNeW9EV3cyWFI2Nk5lbElvQ2oyX1lxXy1OdHhrTGh4UlEzUzJQc1VmM1k2SElWRnRkVTViTHYwY1NxWFVvT1RWcGpOeHRZVjJXWjVTa2JOQ0RrdUd6MHBoWnpwQ0JSVVhGc2NzQ3Nad1pwSG1SOG5hbzd5bGVzbFFtZV8xdDQxNVRsS2FWMnoyYlc5dy1GdFBiUkRUSzRNOGpCYlVkakszN3cteFgtVUFFOGZMRnh2a18yYzU0QXc3SXdjZGNNNFM0MTVRNHUyMnc?oc=5",
-      "published": "2026-10-22T19:58",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWJYUDFxaFp1OXJCaExZNWN6V29ONUpKOFY2bC1YcW43bUx1MjFuZVItU2UxcFZHSG9lN0pGc0pYMGhYZTVVM1NDVTUwT1lkOEpoUFJoUm05TWw0X3RDNFNRMzRyZG9RdjY3Q0dDSjJtazloMFlMOEZNdDVzOEpyZ0E4eGx0SE5YZGxVcXhkLW8zaWxGWXlUcmYwTjFXZnFfMzQ5U1ZzeWgzalB1Q3BiaUxtdUc?oc=5",
+      "published": "2026-10-22T19:32",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -769,6 +759,16 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQek9SQjgwLUhqLTRQanNLZElTYVk1MjV1Vi1rNWFLUnIxa3RlYkNVbXBmVVRmeFVpQkxIR19HOHNqM29MV0pSVHBNeHBqSFkwXzdvNDNaeU03MEVvUGxPckpfYXpCZXktajAtUGhVUWZSUjFwSmZHSjcycUpFR1J4YzE2VGhfWFF5Qi1YSmRTRjEtRnNoY1lDa0NOS2o2UWZkYVJuUW1pUXY4b19kWGVKckF2alhhLTRYU0N5cEFnRnJWRFlu?oc=5",
       "published": "2026-10-22T11:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d43c5891cdf0f203027acae9021fbd770313dcb3",
+      "title": "Rozpoczęła się sesja Rady Miasta Rybnika. Oglądaj u nas online!",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU0NseVFFc2ZpMVlzcHJzSXNxY3hNY2NNc0kxSjJWUzVjMExqUkNGY3JfUTctN2xfempTX0ltQ0t4QWhwQWphUEFScGdHRExFZ1hnQjNRU1NyOFNMTDhSRmY2WDR3bmZhLXRIdGNNeWdIRk9MdzhheElldElMLVdhZnZ4Z3NySzNFUUstbk5HMUFQLWNtVEFQNG9kbVUzLUJBUUxKZ2RZdlJ1b1BNRVVrd2tWcm1BRExZcng4?oc=5",
+      "published": "2026-10-22T09:50",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -944,6 +944,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "c76c7efc2d082ae6c899a7ea25297ccfe31fd884",
+      "title": "Ruch wahadłowy między ul. Pojdy a Dworcową. Zmiana organizacji ruchu w Czerwionce-Leszczynach",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT0Q3MFYtM2pPNEk3ZzZKX3NPb0w1c1VGWU5LT3dzQkhOZURpb19MWnpLVi05NW1LSWUteng3bjB1OWh3Ym9aU2U1bWdtdy12eTdLSmZWa0J6ekloaTFKazJ2SkZUQkVIRThPcUNHMzZqSWFwZFFvOGtxY1VCV2VlQnd5TWVySWtVcXR4d3hlaGxaeC1MaDFHNnF3Q3NRR1JRck1JaHhFNUh1SnNiRzZ5VHpmTkhxRDQ4bThtcF93WVhOeDZRMmpPekRmVllNc3BsQkJORlJqM0gxUjBUeW1TVXJuRQ?oc=5",
+      "published": "2026-10-16T07:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
       "id": "de1bb448c420443441e610cc9a41f3f2cb5f9b79",
       "title": "PRAWIE 29 MLN ZŁ Z UNII EUROPEJSKIEJ NA REGULACJĘ STOSUNKÓW WODNYCH NA TERENACH POGÓRNICZYCH W RYBNIKU",
       "summary": "W Rybniku rusza projekt regulacji stosunków wodnych, w ramach którego na osiedlu Morcinka przebudowana zostanie kanalizacja deszczowa i powstaną podziemne zbiorniki retencyjne, zapobiegające podtopieniom na terenach pogórniczych.",
@@ -1069,16 +1079,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNTFsZDlTMVBjbERRdWw2T3RIUlhnTmVDU0NOLUp5TjJsc1hBc3ZKd0JPTERCdEZBcXZmMlNhU3lMb2V2ZTRucE5nQXFFUnVkbDZYckx2cUNqT09nNGFFQlA5aWF0VmNxNU01V25RS0hjdDBmVHEyczNubVJEdm5jbXZYZ3VucFdEc0xHVDVva2NUdGlCcXdTdUJ3T1BhRWtTa1cyTnFJZmwwVjI4bkpja0Fhd2ZEckYzRVZ0WjB5SUZETG5hUlV3dGNRMzU?oc=5",
       "published": "2026-10-04T07:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "ALERT"
-    },
-    {
-      "id": "7600bd7346bb04157b66699c0f6379efa586565c",
-      "title": "Ulica Dworcowa zostanie zamknięta. Sprawdź trasę objazdu i utrudnienia w ruchu",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2FuY2dGeVE1S0llb1dXOVh4TlU0bjFoVTlON1RTZUc2ODZMdUNqTTcyaWR1T3QtbncwcHFKbk92dHFxUTNjaTlTVThyd2h5a0xBVkt5bUwzVl9GejNrNXpyT1ZBaGk0dEVoRGtsaWdHU2JOY1B4QktxRG8tSGVtSTVxWTYzbHBVaDhmbEY5bDBHVEZfbDhVZmZfMk9aTlNZNXBQRlpFaVlLcEsxelhlR3RMZDhMa3ZhS25pTldNMjZaS3ZfQ0hWbERmbWN1dHhL?oc=5",
-      "published": "2026-10-03T07:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
