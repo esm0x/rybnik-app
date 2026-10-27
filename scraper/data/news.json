@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-10-26T22:40:35",
+  "generated_at": "2026-10-27T05:01:38",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "0d23a961ea585c7a9f7dc007ee78d609918cbb2c",
+      "title": "Spotkanie otwarte z Przemysławem Czarnkiem w Rybniku. Poruszy m.in. tematy gospodarki i energetyki",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYXNjYlBrX3RxNWw4YlNXRHd5RFFMV3FXbUpCTUFfbEFLR2RNZEkzbC1sV1pILVMtYmhOX3Y1UU81d09CTkdISUVCUUJlM3l6VWhqN1h1V01HWnJjOFBmc05IcVJJVmJXa2d2Zk1peHo5aFV6MlRKd2tMZi1aMWVaWEkyUVM4X3FZNWhUNmFybXQxZVhoYm84RENWQktnYXBnRFNoOXFmNHdhTkVhcm1qQXpqczRxQTBmV1A0eU5qWUdzbEdsVUFEOTVHZlpPZnpHWlZPZnJxSTRvUlNJdExwelEzTUlyOXlzSmc?oc=5",
+      "published": "2026-10-27T03:45",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6c38d8b78f239680d993dd5fe3763f9808fa111f",
+      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRW43a19mWXJTdVRoNjluMXVQdGNXV3VoUjZMZXpZOXVRY0JvSmZVcWJZZk43MDBNY2Y4OGpsRFYxWWkwRW1QU2V4NzY0dThDM2pmLUdZMUdPR0U3dGI4dm1VTVZ6S0huSG5kV1lXRHYwbUMtd3NKbVVtVFh6SFBWM1BoaHEyNF9uTWZxbXNBWlRLLVM3Ym5vNGhia3lhMDdnR2FGbE05OXJNUTJwZERJTTNxWklWZ0FyMGdlUUNWU3ZnTDBsUzJBbg?oc=5",
+      "published": "2026-10-26T23:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "229644b72dde3831a161356fdc81a0e1f55561f4",
       "title": "Jedna noc, trzy horrory. Halloween po jastrzębsku",
@@ -364,16 +384,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "aae3681bee4d0dfc34ede2f99e5489546b9c453a",
-      "title": "wiadomości, baza firm i ogłoszenia • Portal",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2V3MVNwc0lyRE85WHhmYjNWR1NxellIaWxyaEgxcXNWOHV1cFRHOHJlTnNtQWRUMDFtZHZDNmJYQWhzR2xjeTF5Q1RacEtTTXJBVTRBaXNCbV9wWVdJaWU5RHNMTk1XaTgxZU9LbFdOQXlzbkhZcmJxOU5DU2FkeDFsSEQtUHhGY1ROTFBaX0NUVW9OaHl2Q0I2dWgzZ1NXQ0xvaVUzOUZ5REhQQXhDazVkNHhJOVNuUXY4MUQxRk4wMnBMQkM0Wg?oc=5",
-      "published": "2026-10-26T09:33",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "d8cd0b0979fa33bba4537df08e9f2f3bdff9df80",
       "title": "Brother MUKS pokonany! RMKS Xbest Rybnik wiceliderem I ligi",
       "summary": "",
@@ -484,16 +494,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "0d23a961ea585c7a9f7dc007ee78d609918cbb2c",
-      "title": "Spotkanie otwarte z Przemysławem Czarnkiem w Rybniku. Poruszy m.in. tematy gospodarki i energetyki",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYXNjYlBrX3RxNWw4YlNXRHd5RFFMV3FXbUpCTUFfbEFLR2RNZEkzbC1sV1pILVMtYmhOX3Y1UU81d09CTkdISUVCUUJlM3l6VWhqN1h1V01HWnJjOFBmc05IcVJJVmJXa2d2Zk1peHo5aFV6MlRKd2tMZi1aMWVaWEkyUVM4X3FZNWhUNmFybXQxZVhoYm84RENWQktnYXBnRFNoOXFmNHdhTkVhcm1qQXpqczRxQTBmV1A0eU5qWUdzbEdsVUFEOTVHZlpPZnpHWlZPZnJxSTRvUlNJdExwelEzTUlyOXlzSmc?oc=5",
-      "published": "2026-10-25T16:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "add2d7c867e35bf8c3ef3d2cdef6fc38acd9ea7b",
       "title": "INNPRO ROW Rybnik: kibice wybierają na najlepszych żużlowców zakończonego sezonu. W internetowym głosowaniu",
       "summary": "Najlepszego seniora, najlepszego juniora, a także zawodnika, który był największym objawieniem minionego sezonu 2026 wybiorą kibice żużlowego INNPRO ROW-u Rybnik. Zawodnik, który uzyska najwięcej ich głosów otrzyma statuetkę Rekina. Głosowanie już trwa. Pokażcie, kto waszym zdaniem zasłużył na…",
@@ -524,11 +524,11 @@
       "priority": "ALERT"
     },
     {
-      "id": "f8e68d41d21a6e88e4872ebfbb6f8e11d02647b1",
-      "title": "Za nami VIII Turniej Siatkówki Samorządowców Subregionu Zachodniego (foto)",
+      "id": "e25d2787927da3128b96ce6c802289f55e9a8151",
+      "title": "Za nami VIII Turniej Siatkówki Samorządowców Subregionu Zachodniego! (foto)",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYjlrU2pGcnY4eGRfbGtBMWctaWRyV21tcHZPa19NMkE3Y3FfOGdpM3prSHBqc2dMTWlwdHlTT3ZfMEd1YW5jYmVWcXdVOTV5N3d3RkNSTTl3NHFVS2Fab2ZEc2hBQjV2U0VKdDFIY1J1TGRtMFN1ajhvQ3FUV1NEaTQ1eTJCQTZhRUxUaVFmcUc2NDVibl8xYXpfcWt1eDBqQzEzQUtIMmlQOE0yUzRnNFhKQkVQTEJEeUxpQnpOYTNBcFhqMWg3WmVn?oc=5",
-      "published": "2026-10-25T11:00",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc21BemlodVFGMmV0ODhLeVYxU1R2SnNnY1lIQklzMnNRaTdqUFVNc2RQbHI4NU9GTGRBNTFmbzJnZTFxQXlFNm44UFkzblBxMkU5c0wwcXhoMVd6RTRvdWRvMlRrUmNiTU9xSnRKOENiaTc3SUd3UGJMRDV3MXc4LW1JcjlWMER1TWlsckczdGtQNWxvWVRNSFZTX3lsWEFoUW83UWQwQzR6WlQtUmhVQVowaTdyV043SkdWVGdSZ2JCbUgxSlE?oc=5",
+      "published": "2026-10-25T11:06",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -749,16 +749,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWRzb1ZURUttWGhhRzFpWWFNbjFqbVo2WGo3Nlc2bDQyM1BHVElaZC1Ta3FqaWItU3RnRUZ1UkJtM2VqSWVLN1hrNzVDSUtDVzlQOFI5OWZ4WmdXVWRtUVVWYzhMVTkzcUpMUWowQUV1UFJqWXdweUgtMkhzZlBkMTY4RFZOcElJR25jVkhqejJQcFBVTnhSeDdLVzFzMlhFWjh1Ny1B?oc=5",
       "published": "2026-10-23T16:51",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a20842705413c281abeba093a3223fa663c12fc6",
-      "title": "Zawodniczki RMKS-u Rybnik wystąpiły w Pucharze Świata w Casablance",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNjlsWlBtZXpHODVEanhRSjlvVm9RcVdicGFGWHBrd1Z1LXlHZ0hNMHRIbDJhSW41LXJkaWhHcUJ4cFNzV1JUX2twLXZCZzE2N3JpQUFGMnBicU5Ic3E1eWppdFhjWUdUYks4VjdMemtQR215SWQ3SkdpVVA4Yy1EcGV3ZWpRcGZhUGZEYUg5S1FTRmNLLU03c2Q4M0U4LXVvcXBuLWVENEpaNVVudDBFam5kNEo3NzZaY0JxY21IbDlzUQ?oc=5",
-      "published": "2026-10-23T16:38",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -1102,6 +1092,16 @@
       "source": "rybnik.eu",
       "category": "Komunikaty",
       "priority": "NORMAL"
+    },
+    {
+      "id": "f7dd1801b4c1a0cfd7e2b14d2a3d6d05174f2a6c",
+      "title": "Gdzie nie będzie prądu? Harmonogram wyłączeń w Rybniku i powiecie rybnickim",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNTFsZDlTMVBjbERRdWw2T3RIUlhnTmVDU0NOLUp5TjJsc1hBc3ZKd0JPTERCdEZBcXZmMlNhU3lMb2V2ZTRucE5nQXFFUnVkbDZYckx2cUNqT09nNGFFQlA5aWF0VmNxNU01V25RS0hjdDBmVHEyczNubVJEdm5jbXZYZ3VucFdEc0xHVDVva2NUdGlCcXdTdUJ3T1BhRWtTa1cyTnFJZmwwVjI4bkpja0Fhd2ZEckYzRVZ0WjB5SUZETG5hUlV3dGNRMzU?oc=5",
+      "published": "2026-10-04T07:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
     },
     {
       "id": "a77149d199d9b5d451a0fcf617393a173d60f8fa",
