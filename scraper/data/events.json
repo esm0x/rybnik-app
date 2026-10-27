@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:56:01",
+  "generated_at": "2026-10-26T22:39:00",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,31 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 116,
+  "count": 114,
   "failures": [],
   "events": [
-    {
-      "id": "tzr-guru",
-      "title": "Guru",
-      "category": "Film",
-      "start": "2026-10-26T15:30",
-      "end": "2026-10-26T17:36",
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Matt Vasseur to odnoszący sukcesy, charyzmatyczny trener rozwoju osobistego, prowadzący perfekcyjnie wyreżyserowane, elektryzujące wydarzenia motywacyjne. Dzięki imponującej karierze, wspierającej dziewczynie i niezliczonej ilości oddanych fanów, jest osobą, która inspiruje innych. Jednak, gdy senacka komisja zaczyna zagrażać jego działalności, a niektórzy ze zwolenników popadają w niebezpieczną obsesję, świat Matta zaczyna się rozpadać, odsłaniając ciemne strony, kryjące się za jego pozornie idealnym życiem.",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/guru.html"
-    },
-    {
-      "id": "tzr-lalka",
-      "title": "Lalka",
-      "category": "Film",
-      "start": "2026-10-26T19:00",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Warszawa końca XIX wieku. Serce Stanisława Wokulskiego (Marcin Dorociński) owładnięte jest szaloną miłością do Izabeli Łęckiej (Kamila Urzędowska). On, dzięki fortunie zdobytej na wojnie, powraca do kraju i postanawia wkroczyć do świata wyższych sfer, aby zdobyć rękę ukochanej. Ona jest olśniewająca i wyniosła, lecz mimo arystokratycznego pochodzenia zmaga się z widmem finansowej ruiny. U boku Wokulskiego stoi jego wierny przyjaciel – Ignacy Rzecki (Marek Kondrat), romantyk, który z nostalgią obserwuje, jak świat ideałów ustępuje miejsca społecznym aspiracjom i bezwzględnej grze interesów. Wokulski wkracza w labirynt arystokratycznych salonów, gdzie każdy gest może być początkiem intrygi, a każde słowo – zapowiedzią zdrady. Stający na jego drodze rywale, niespodziewane sojusze i dramatyczne wybory wystawią na próbę jego marzenia i wiarę w ludzi. To opowieść o miłosnym zauroczeniu, które zmienia losy bohaterów i zaciera granice między sercem a rozumem. Czas: 2h 42m Dramat obyczajowy, kostiumowy Reżyseria - Maciej Kawalski. Scenariusz - Maciej Kawalski, Piotr Sobociński Jr. Produkcja - Polska",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/lalka.html"
-    },
     {
       "id": "bilnya-galeria-sztuki-rzeczna-202610270900",
       "title": "Galeria Sztuki Rzeczna",
@@ -1126,7 +1104,7 @@
       "title": "Najdroższy",
       "category": "Spektakl",
       "start": "2026-12-20T15:00",
-      "end": "2026-12-20T18:00",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Zapraszamy na rozbrajający spektakl komediowy o cenie, jaką trzeba zapłacić za szaloną odmianę losu. Kto z nas byłby gotów sięgnąć po skrajności, aby poprawić swój status społeczny? Zaskakujące zwroty akcji i błyskotliwe dialogi i sprawią, że „Najdroższy” rozśmieszy Cię do łez! Poznaj historię największego pechowca i nieudacznika, który pewnego dnia postanawia odmienić swój los. Gdy w życiu bohatera przelała się czara goryczy, wpada na genialny pomysł i z dnia na dzień, jak za dotknięciem czarodziejskiej różdżki, odmienia swój los. Czy odnajdzie szczęście w tej uplecionej przez siebie złotej klatce, czy może los trzyma dla niego w zanadrzu coś jeszcze lepszego? Zapraszamy na zabawny i błyskotliwy wieczór z wyborną komedią w paryskim stylu. „Najdroższy” to wspaniała podróż przez absurdalne sytuacje i zakręcone losy bohatera, która bawi i wzrusza. Sprawdź repertuar i zarezerwuj bilety na ten spektakl komediowy.",
       "sourceName": "TZR",

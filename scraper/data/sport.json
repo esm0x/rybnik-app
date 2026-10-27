@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:57:50",
+  "generated_at": "2026-10-26T22:40:42",
   "count": 60,
   "failures": [],
   "teams": [
@@ -664,7 +664,7 @@
       "scoreNote": null,
       "status": "FINISHED",
       "stage": "REGULAR",
-      "url": null
+      "url": "http://www.90minut.pl/mecz.php?id_mecz=2115055"
     },
     {
       "id": "row-1964-2026-10-30-rakow-ii-czestochowa",
