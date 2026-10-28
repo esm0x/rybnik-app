@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-10-27T18:00:53",
+  "generated_at": "2026-10-27T22:12:14",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "097d5373c53b1094bcba8cd2815dc3e76b47855f",
+      "title": "Wszystkich Świętych 2026 - zmiany organizacji ruchu!",
+      "summary": "Warto już dziś zapoznać się ze zmianami, co pomoże w płynnym przemieszczaniu się w okolicy jastrzębskich cmentarzy. Mieszkańcy oraz osoby przyjezdne powinny liczyć się z utrudnieniami w okresie do 28.10.2026 r. do 1.11.2026 r.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251808-wszystkich-swietych-2026-zmiany-organizacji-ruchu.html",
+      "published": "2026-10-27T22:04",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "ALERT"
+    },
+    {
+      "id": "0dcdd59b5a63ed8024a355b0a63744b42699462f",
+      "title": "Śpią w pustostanach i altanach. Przed zimą służby szykują specjalne działania",
+      "summary": "Gdy temperatura spada poniżej zera, dla większości mieszkańców oznacza to konieczność wyjęcia cieplejszej kurtki. Dla osób żyjących w pustostanach, altanach działkowych czy prowizorycznych schronieniach stawką jest znacznie więcej. Niekiedy zdrowie, a nawet życie.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251807-spia-w-pustostanach-i-altanach-przed-zima-sluzby-szykuja-specjalne-dzialania.html",
+      "published": "2026-10-27T21:50",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0d23a961ea585c7a9f7dc007ee78d609918cbb2c",
+      "title": "Spotkanie otwarte z Przemysławem Czarnkiem w Rybniku. Poruszy m.in. tematy gospodarki i energetyki",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYXNjYlBrX3RxNWw4YlNXRHd5RFFMV3FXbUpCTUFfbEFLR2RNZEkzbC1sV1pILVMtYmhOX3Y1UU81d09CTkdISUVCUUJlM3l6VWhqN1h1V01HWnJjOFBmc05IcVJJVmJXa2d2Zk1peHo5aFV6MlRKd2tMZi1aMWVaWEkyUVM4X3FZNWhUNmFybXQxZVhoYm84RENWQktnYXBnRFNoOXFmNHdhTkVhcm1qQXpqczRxQTBmV1A0eU5qWUdzbEdsVUFEOTVHZlpPZnpHWlZPZnJxSTRvUlNJdExwelEzTUlyOXlzSmc?oc=5",
+      "published": "2026-10-27T20:46",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "867444e9fe0507b887e734b11b1f2c3a3eed4eb3",
+      "title": "Nie chcemy być wielką, bezosobową siecią",
+      "summary": "Od niewielkiej rodzinnej lodziarni w Baborowie do marki rozpoznawalnej również poza regionem. Jak buduje się firmę opartą na tradycji, jakości i własnych pomysłach? Na pytanie odpowiada Tomasz Szypuła, właściciel firmy Lodowe Inspiracje i marki Szypuła, związany z Miś Cafe w Raciborzu i Lodziarnią…",
+      "link": "https://www.nowiny.pl/wiadomosci/251652-nie-chcemy-byc-wielka-bezosobowa-siecia.html",
+      "published": "2026-10-27T19:26",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "735380ca21ee37a0b8385a647283e3fc4255a1ad",
+      "title": "Nowy krzyż na cmentarzu w Rogowie. Poświęcił go ks. Bernard Rak [ZDJĘCIA]",
+      "summary": "Na cmentarzu gminnym w Rogowie stanął nowy drewniany krzyż, który zastąpił dotychczasowy. Ufundowała go gmina Gorzyce, a jego poświęcenia dokonał ks. dr Bernard Rak, proboszcz miejscowej parafii.",
+      "link": "https://www.nowiny.pl/wiadomosci/251805-nowy-krzyz-na-cmentarzu-w-rogowie-poswiecil-go-ks-bernard-rak-zdjecia.html",
+      "published": "2026-10-27T18:59",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "8fb5393631929cf4f9bc2786dfd91d34f342de71",
       "title": "Będzie inwestycja w centrum Rybnika. Miasto za kilka milionów sprzedało teren przy ul. Za Komendą [ZDJĘCIA]",
@@ -264,16 +314,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "0d23a961ea585c7a9f7dc007ee78d609918cbb2c",
-      "title": "Spotkanie otwarte z Przemysławem Czarnkiem w Rybniku. Poruszy m.in. tematy gospodarki i energetyki",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYXNjYlBrX3RxNWw4YlNXRHd5RFFMV3FXbUpCTUFfbEFLR2RNZEkzbC1sV1pILVMtYmhOX3Y1UU81d09CTkdISUVCUUJlM3l6VWhqN1h1V01HWnJjOFBmc05IcVJJVmJXa2d2Zk1peHo5aFV6MlRKd2tMZi1aMWVaWEkyUVM4X3FZNWhUNmFybXQxZVhoYm84RENWQktnYXBnRFNoOXFmNHdhTkVhcm1qQXpqczRxQTBmV1A0eU5qWUdzbEdsVUFEOTVHZlpPZnpHWlZPZnJxSTRvUlNJdExwelEzTUlyOXlzSmc?oc=5",
-      "published": "2026-10-27T03:45",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "b07ed626cf87d8ffbd27c44628f2973020d04722",
       "title": "Przetarg na mieszkania - zobacz lokale w wirtualnym spacerze 360°",
       "summary": "Miasto ogłasza przetarg na sprzedaż czterech mieszkań zlokalizowanych w dzielnicach Chwałowice i Niedobczyce.",
@@ -334,26 +374,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "229644b72dde3831a161356fdc81a0e1f55561f4",
-      "title": "Jedna noc, trzy horrory. Halloween po jastrzębsku",
-      "summary": "Halloweenowy wieczór można spędzić na imprezie albo zostać w domu. Kino Centrum proponuje trzecią możliwość. 31 października zgasną światła i rozpocznie się „Noc z Horrorem”. W programie trzy filmy, prawie sześć godzin kina, kawa bez limitu i nagrody. Początek o godz. 20.00.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251793-jedna-noc-trzy-horrory-halloween-po-jastrzebsku.html",
-      "published": "2026-10-26T21:49",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0d28c2a1216e8c953e8554d007c2fa0b5d626e53",
-      "title": "JSW oszczędza, ale fedrować musi. Nowe ściany w Pniówku i Knurowie",
-      "summary": "W Jastrzębskiej Spółce Węglowej trwa zaciskanie pasa. Program naprawczy zakłada ograniczenie wydatków, cięcia inwestycji i zmiany w zatrudnieniu. Równocześnie kopalnie muszą utrzymać produkcję. W Pniówku i Knurowie ruszyły dwie nowe ściany, z których do wydobycia jest łącznie 688 tys. ton węgla.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251792-jsw-oszczedza-ale-fedrowac-musi-nowe-sciany-w-pniowku-i-knurowie.html",
-      "published": "2026-10-26T21:20",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "eae4e93e53a32900d15a88d5566c0db733be26a3",
       "title": "Ponad 93 mln zł z UE na przebudowę Mikołowskiej. Inwestycja trwa, a kierowcy zmagają się z utrudnieniami (foto)",
       "summary": "",
@@ -362,26 +382,6 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "ALERT"
-    },
-    {
-      "id": "be2995666bc6426045c036318706f091000ca764",
-      "title": "Nie żyje ks. Tomasz Rowiński. Kapłan pochodził z Wodzisławia Śląskiego",
-      "summary": "W wieku 52 lat zmarł ks. Tomasz Rowiński, pochodzący z Wodzisławia Śląskiego. Duchowny ostatnio posługiwał w parafii św. Stanisława Biskupa i Męczennika w Bytomiu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251791-nie-zyje-ks-tomasz-rowinski-kaplan-pochodzil-z-wodzislawia-slaskiego.html",
-      "published": "2026-10-26T19:39",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d7ce3b646686a4e0477861655aee51a546e9f000",
-      "title": "Nagrania z interwencji trafiły do sieci. Żorska policja wyjaśnia zatrzymanie 44-latka.",
-      "summary": "Nocna kontrola grupy osób na osiedlu Gwarków zakończyła się zatrzymaniem 44-latka. Policjanci znaleźli przy nim ponad 40 gramów narkotyków.",
-      "link": "https://ezory.pl/wiadomosci/251782-nagrania-z-interwencji-trafily-do-sieci-zorska-policja-wyjasnia-zatrzymanie-44-latka.html",
-      "published": "2026-10-26T18:14",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
     },
     {
       "id": "5ca3e4cba48c1f66217ca0b2b813ee9166577d19",
@@ -581,6 +581,16 @@
       "published": "2026-10-26T10:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9388d6c6d87babfbb4d6f8ddeaba0a5efcad321a",
+      "title": "Szkoła w terenie. Jak sprawić, by uczniowie naprawdę zaczęli pytać?",
+      "summary": "Jest taki moment, który zna chyba każdy nauczyciel. Pada pytanie, na chwilę zapada cisza, po czym ktoś z ostatniej ławki mówi: \"czy to naprawdę działa?\". To właśnie od takich pytań zaczyna się prawdziwa naukowa przygoda. Choć dziś odpowiedź na wiele szkolnych zadań potrafi zapewnić internet czy…",
+      "link": "https://www.nowiny.pl/wiadomosci/251734-szkola-w-terenie-jak-sprawic-by-uczniowie-naprawde-zaczeli-pytac.html",
+      "published": "2026-10-26T09:00",
+      "source": "nowiny.pl",
+      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -1122,16 +1132,6 @@
       "source": "rybnik.eu",
       "category": "Komunikaty",
       "priority": "ALERT"
-    },
-    {
-      "id": "eab92a670daf74917a971e841b02412dfde01b89",
-      "title": "Rybnik dzieli się doświadczeniami",
-      "summary": "Radni z Bełchatowa z wizytą studyjną w sprawie transformacji wodorowej.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/rybnik-dzieli-sie-doswiadczeniami",
-      "published": "2026-10-02T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
     },
     {
       "id": "49fb6eb574b45dd7a80be234eee4d593780d60e7",
