@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:48:38",
+  "generated_at": "2026-10-28T22:33:19",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,20 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 118,
+  "count": 122,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-dkk-wokol-ksiazki-wieslawa-mysliwskiego-traktat-o-luskaniu-f",
-      "title": "DKK wokół książki Wiesława Myśliwskiego „Traktat o łuskaniu fasoli”",
-      "category": "Impreza",
-      "start": "2026-10-28T17:00",
-      "end": null,
-      "venue": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku",
-      "description": "Miłośnicy literatury będą mogli spotkać się, by porozmawiać o powieści Wiesława Myśliwskiego „Traktat o łuskaniu fasoli”. Dyskusję zaplanowano w ramach Dyskusyjnego Klubu Książki w Rybniku. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Spotkanie będzie poświęcone rozmowie o książce „Traktat o łuskaniu fasoli”. Uczestnicy Dyskusyjnego Klubu Książki wspólnie omówią powieść Wiesława Myśliwskiego. Organizatorem spotkania jest Powiatowa i Miejska Biblioteka Publiczna im. Konstantego Prusa w Rybniku .",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/dkk-wokol-ksiazki-wieslawa-mysliwskiego-traktat-o-luskaniu-fasoli"
-    },
     {
       "id": "bilnya-galeria-sztuki-rzeczna-202610290900",
       "title": "Galeria Sztuki Rzeczna",
@@ -671,6 +660,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/listopadowe-medytacje-kulturalne-z-dr-jackiem-kurkiem-twarze-winylu"
     },
     {
+      "id": "iryb-wernisaz-wystawy-o-slazakach-pod-dowodztwem-gen-andersa-w-ry",
+      "title": "Wernisaż wystawy o Ślązakach pod dowództwem gen. Andersa w Rybniku",
+      "category": "Wystawa",
+      "start": "2026-11-18T18:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Losy mieszkańców Górnego Śląska, którzy służyli w 2. Korpusie Polskim, będą tematem wystawy przygotowanej przez Fundację Znaki Pamięci. Wernisaż w Bibliotece Głównej w Rybniku połączy prezentację ekspozycji z wykładem o żołnierzach gen. Władysława Andersa, w tym o tych pochodzących z Rybnika lub związanych z miastem po wojnie. Spotkanie rozpocznie się 18 listopada 2026 roku o godz. 18:00 w Bibliotece Głównej przy ul. Józefa Szafranka 7 w Rybniku . Wydarzenie organizuje Archiwum Pamięci Rybniczan i Rybniczanek. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Wystawa przybliży losy mieszkańców Górnego Śląska, którzy trafili do 2. Korpusu Polskiego, i przypomni udział korpusu w wyzwoleniu Bolonii. Podczas wernisażu odbędzie się także wykład o żołnierzach gen. Władysława Andersa, ze szczególnym uwzględnieniem osób pochodzących z Rybnika lub związanych z miastem po zakończeniu wojny.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/wernisaz-wystawy-o-slazakach-pod-dowodztwem-gen-andersa-w-rybniku"
+    },
+    {
       "id": "tzr-30-rybnicka-jesien-kabaretowa-ryjek-2026-kabaret-hrabi-wojtek-kaminski-oraz-dzikie-weze-improwizacje",
       "title": "30. Rybnicka Jesień Kabaretowa Ryjek 2026 - Kabaret hrAbi & Wojtek Kamiński oraz DZIKIE WĘŻE IMPROWIZACJE",
       "category": "Kabaret",
@@ -812,6 +812,39 @@
       "description": null,
       "sourceName": "biletyna.pl",
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=716862#opis"
+    },
+    {
+      "id": "iryb-spotkanie-z-dr-edyta-korepta-o-ksiazce-czerwony-bruclik",
+      "title": "Spotkanie z dr Edytą Koreptą o książce „Czerwony bruclik”",
+      "category": "Impreza",
+      "start": "2026-11-24T18:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Dr Edyta Korepta opowie o Pawle Łysku, jego twórczości i więzi z Beskidem Śląskim. Spotkanie w Rybniku będzie poświęcone książce „Czerwony bruclik. Pawła Łyska więź z ziemią ojców” i pamięci pisarza o rodzinnych stronach, którą zachował na emigracji. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Autorka przybliży postać Pawła Łyska i jego przywiązanie do Beskidu Śląskiego. Opowie o materiałach, które wykorzystała przy pisaniu książki, a także o siedemnastoletniej korespondencji Łyska z Florianem Śmieją. W rozmowie pojawi się również temat pamięci o rodzinnych stronach, którą pisarz pielęgnował podczas emigracji. Wydarzenie organizuje Archiwum Pamięci Rybniczanek i Rybniczan .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/spotkanie-z-dr-edyta-korepta-o-ksiazce-czerwony-bruclik"
+    },
+    {
+      "id": "iryb-warsztaty-klockowe-z-patrykiem-zietara-finalista-lego-master",
+      "title": "Warsztaty klockowe z Patrykiem Ziętarą – finalistą LEGO MASTERS TVN",
+      "category": "Warsztaty",
+      "start": "2026-11-25T17:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Wspólne budowanie i klockowe wyzwania będą okazją do rozwijania kreatywności oraz umiejętności. Warsztaty poprowadzi Patryk Ziętara, znany w sieci jako Klockowizja i przedstawiany jako finalista programu LEGO MASTERS TVN. Zajęcia zaplanowano na 25 listopada 2026 roku , w godz. 17:00–18:30 . Spotkanie odbędzie się w Bibliotece Głównej przy ul. Józefa Szafranka 7 w Rybniku . Obowiązują zapisy telefoniczne pod numerem 32 42 23 541 wew. 3 lub osobiście w Oddziale dla dzieci . Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/warsztaty-klockowe-z-patrykiem-zietara-finalista-lego-masters-tvn"
+    },
+    {
+      "id": "iryb-historia-jazzu-ilustrowana-muzyka-na-zywo",
+      "title": "Historia jazzu ilustrowana muzyką na żywo",
+      "category": "Impreza",
+      "start": "2026-11-26T18:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Jazz zabrzmi na żywo w Bibliotece Głównej w Rybniku. Spotkanie połączy muzykę z opowieścią o korzeniach tego gatunku, jego narodzinach i rozwoju. Wydarzenie zaplanowano na 26 listopada 2026 roku o godz. 18:00 w Bibliotece Głównej przy ul. Józefa Szafranka 7 w Rybniku . Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Na scenie pojawią się multiinstrumentalista jazzowy Vitalij Ivanov i kontrabasista Dominik Sławiński . O historii jazzu opowie gitarzystka Katarzyna Cielińska , przybliżając jego korzenie, początki i dalszy rozwój.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/historia-jazzu-ilustrowana-muzyka-na-zywo"
     },
     {
       "id": "dk-bog-11140-o-sztuce-na-powaznie-przemyslaw-straczek",
@@ -990,6 +1023,17 @@
       "sourceUrl": "https://biletyna.pl/koncert/Universe?eid=697526#opis"
     },
     {
+      "id": "dk-chw-mikolajki-20261206",
+      "title": "Mikołajki",
+      "category": "DlaDzieci",
+      "start": "2026-12-06T00:00",
+      "end": null,
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "Ho, ho, ho! Mikołaj już szykuje sanie i wkrótce zawita do Chwałowic. Zapraszamy wszystkie dzieci wraz z rodzicami na wyjątkowe popołudnie pełne magii, niespodzianek i świątecznej atmosfery! 6 grudnia 2026 r. (niedziela) w Domu Kultury w Rybniku-Chwałowicach.",
+      "sourceName": "DK Chwałowice",
+      "sourceUrl": "https://www.dkchwalowice.pl/?news=52473"
+    },
+    {
       "id": "bilnya-mikolaj-w-domu-kultury-niedobczyce-202612060900",
       "title": "Mikołaj w Domu Kultury Niedobczyce",
       "category": "DlaDzieci",
@@ -1021,6 +1065,28 @@
       "description": "Pani domu jest tylko jedna – to wystrzałowa farsa mistrza gatunku Marca Camolettiego w tłumaczeniu Bartosza Wierzbięty ( Pomoc Domowa, Boeing Boeing ). Kolejna część przygód Nadii – szalonej Pomocy Domowej, która tym razem stanie się… aktorką! Miejsce akcji to domek letniskowy pewnego producenta filmowego, który przez przypadek zaprosi na weekend swoją żonę, kochankę i najlepszego przyjaciela. By ratować sytuację Nadia stanie się kochanką, a prawdziwa kochanka dostanie do rąk… mopa! Producent filmowy będzie w potrzasku, choć jak się okaże, nie tylko on skrywać będzie miłosne tajemnice… Kto jest kim? Czy romans się wyda? Kto kogo zdradza i czy Nadia znów uratuje sytuację? Tego dowiecie się oglądając „Pani domu jest tylko jedna”! Czas umili Wam gwiazdorska obsada! Nadia: Dominika Gwit / Paweł Koślik Nadia2: Agata Załęcka / Michalina Sosna Joanna: Daria Widawska / Monika Mariotti Robert: Wojtek Medyński / Piotr Ligienza Tomek: Dawid Dziarkowski / Michał Mikolajczak",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/pani-domu-jest-tylko-jedna.html"
+    },
+    {
+      "id": "bilnya-mikolajki-w-chwalowicach-2026-202612061730",
+      "title": "Mikołajki w Chwałowicach 2026",
+      "category": "DlaDzieci",
+      "start": "2026-12-06T17:30",
+      "end": "2026-12-06T19:00",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/kabaret/Mikolajki-w-Chwalowicach-2026?eid=715412#opis"
+    },
+    {
+      "id": "iryb-mikolajki-pokaz-iluzjonistyczny-sebko-elf-i-spotkanie-z-miko",
+      "title": "Mikołajki – pokaz iluzjonistyczny „Sebko elf” i spotkanie z Mikołajem",
+      "category": "Impreza",
+      "start": "2026-12-06T17:30",
+      "end": null,
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "Mikołajki w Rybniku-Chwałowicach będą okazją do wspólnej zabawy dzieci i rodziców. W programie znalazły się iluzjonistyczne show, spotkanie ze Świętym Mikołajem oraz dodatkowe atrakcje w Domu Kultury i przed jego wejściem. Wydarzenie odbędzie się 6 grudnia 2026 roku w Domu Kultury w Rybniku-Chwałowicach przy ul. 1 Maja 91b, 44-206 Rybnik . Główna część rozpocznie się o godz. 17:30 w sali widowiskowej. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . O godz. 17:30 dzieci i ich opiekunowie obejrzą pokaz iluzjonistyczny „Sebko elf” , a następnie spotkają się z Mikołajem. Każde dziecko otrzyma upominek.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/mikolajki-pokaz-iluzjonistyczny-sebko-elf-i-spotkanie-z-mikolajem"
     },
     {
       "id": "bilnya-lukasz-kaczmarczyk-stand-up-przerwa-techniczna-202612101900",
@@ -1285,28 +1351,6 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
-    },
-    {
-      "id": "bilnya-bartosz-gajda-po-lecie-stand-up-nowy-program-202704121900",
-      "title": "Bartosz Gajda - \"PO LECIE\" - stand up NOWY PROGRAM",
-      "category": "Kabaret",
-      "start": "2027-04-12T19:00",
-      "end": "2027-04-12T20:30",
-      "venue": "inoWino Świerklaniec, Jana III Sobieskiego 9",
-      "description": "😂⏳ Czas leci jak szalony? To idealny moment na solidną dawkę śmiechu! Bartosz Gajda wraca z nowym stand-upem – inteligentny humor, absurd i zero zbędnych wulgaryzmów. Przyjdź i pośmiej się z życia, zanim znów przyspieszy 🎤✨🎟️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/stand-up/Bartosz-Gajda/po-lecie?eid=713645#opis"
-    },
-    {
-      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
-      "title": "NutkoSfera - CeZik dzieciom",
-      "category": "DlaDzieci",
-      "start": "2027-12-03T17:00",
-      "end": "2027-12-03T18:20",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }
