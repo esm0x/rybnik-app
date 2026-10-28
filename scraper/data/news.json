@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-10-27T22:12:14",
+  "generated_at": "2026-10-28T05:38:15",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "cd08b08c8e981a9e21cdc5c6fddb0df46f80fd72",
+      "title": "Od pożyczonej wiertarki do sieci światłowodowej. Rybnicki Leon świętuje 25-lecie",
+      "summary": "Pożyczona wiertarka, Fiat 126p i pierwsze przewody prowadzone między blokami na rybnickich Nowinach – tak w 2001 roku zaczynała czwórka przyjaciół. Dziś Leon obsługuje blisko 30 tys. klientów, zatrudnia niemal 100 osób i rozwija sieć światłowodową również w mniejszych miejscowościach oraz na…",
+      "link": "https://www.radio90.pl/od-pozyczonej-wiertarki-do-sieci-swiatlowodowej-rybnicki-leon-swietuje-25-lecie.html",
+      "published": "2026-10-27T23:01",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f80617180f092946027914a6389a69fe4c957f78",
+      "title": "Jak tanio i sprawnie uzyskać świadectwo energetyczne? Zrób to online",
+      "summary": "Świadectwo charakterystyki energetycznej jest dziś potrzebne przy wielu transakcjach dotyczących nieruchomości, ale jego uzyskanie nie musi oznaczać umawiania wizyty i organizowania całego procesu stacjonarnie. W wielu przypadkach dokument można zamówić przez internet, przekazując wykonawcy…",
+      "link": "https://www.radio90.pl/jak-tanio-i-sprawnie-uzyskac-swiadectwo-energetyczne-zrob-to-online-2.html",
+      "published": "2026-10-27T23:01",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "097d5373c53b1094bcba8cd2815dc3e76b47855f",
       "title": "Wszystkich Świętych 2026 - zmiany organizacji ruchu!",
@@ -100,16 +120,6 @@
       "link": "https://www.radio90.pl/straz-graniczna-najwiecej-kolumbijczykow-pracuje-u-nas-na-czarno.html",
       "published": "2026-10-27T16:25",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "9b4340b464a56ec793a098591b9728528967a7ab",
-      "title": "Mieszkańcy skarżą się na zakład chemiczny, instytucje kontrolują, a firma odpiera zarzuty",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeDAzTnRsUVh6TjJ6V1Z5SXlYS0h4WU1oMzl4NnNPT3dzNU5kOXViYXlrVjh2RGIycFBfVmtQNGt6NkRaRVNXcVdxbVFOWjJNaXdpemlycDJiTkp5VG1sRVVXakMyM0JYeFpndzdsTFVqTHg5TC1JUlNQNWNIN3lySDBIZnFGcGRIa0MyRzN2UGpqWUM2UXFfdVRYbGJac2pBR1hzRmpwd05iVVlaTGZCeXRsZWwxYWlpU1pvS2FlbjhOZzIxanhBZjBzc3YySm1RRkU5eE9BMWFid0s2emc?oc=5",
-      "published": "2026-10-27T15:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -374,16 +384,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "eae4e93e53a32900d15a88d5566c0db733be26a3",
-      "title": "Ponad 93 mln zł z UE na przebudowę Mikołowskiej. Inwestycja trwa, a kierowcy zmagają się z utrudnieniami (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaFRaRHBXeDM4X3l5U1JDaEhBZy0xYTMtTVdzUFpjdUROMmhYZHlCOGdkdGtwWXFIUTRGdm5VYm1rNXgwbW1BTFZnaEFPV2tKVGFMeG9mNGxGcHdrMFpPU0dHbmMxWVMyS0VnNmRPcUtNY2MyTEU0am9TSHY2aFItMlViWXhoVDdIeGdUYTZNdzhsRTBwNTY0SnVfTGtLamhZTlVfLXpyMTVrZWZ1Sjd4Ym5VT1NZWUhnVmpjczFvS2ZMN0ZTRTBYdEpBeTh2LWQzZEkyMF9ZU2I4NkFobjYxSkYwbnYxMVhCQmtZY1J6V3EwX1ZjWlhzQnNiOA?oc=5",
-      "published": "2026-10-26T20:57",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "ALERT"
-    },
-    {
       "id": "5ca3e4cba48c1f66217ca0b2b813ee9166577d19",
       "title": "TS ROW Rybnik drugi na koniec rundy jesiennej",
       "summary": "",
@@ -424,66 +424,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "063a88937c05f2fe2d69825fe55d02a2b2bef1ba",
-      "title": "Co zabrać na weekendowy wyjazd tylko we dwoje?",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeTd1TFFOVWdWaG04X0FSYndLcnNsRFZOMmptWFY2SVdDc3dFU0M4ZjJkVnNVbl9nbXNNc0VMRG4tZTc1SjFvMTdsOVJVaVY0VkFvY24yUW56SktfakFrbEZlSVAyQ1ZrSm03Z0YxODVCODEyUGd3QmF4cHp0T1Y4aUVJV2hFRi1OZVJ4VnhXSG91MHZfaGpsaGxkdWhEQTktQzlKWWZB?oc=5",
-      "published": "2026-10-26T14:32",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "45e0431c5cc6b24cd85fadc6cba04d9c3a530bac",
-      "title": "Polecamy na jesień",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBacmd2YVZPT3lyUG1lc210U0RrUHRFX3FfYURqcEY0RjdZWUhkUW5oV0JGZldfOFBqMDdfRFR4bzdUbkdNekNqa3RHSUQ5NndsazJjTkJvRDBaOUs2Si02TUVQUHV1dnJ2TG80VllSS29JTTBwa1JDbmZB?oc=5",
-      "published": "2026-10-26T14:19",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ccc513b15fcccf87655ddb2164440e5e6879277b",
-      "title": "Ciepły dom na jesień i zimę. Poznaj ekogroszek EKO-CHOICE",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVllmR1UtSFNNNnBoVlNUUG1jbTd2N3RkR0QyZWZ1UGdGbTFiWGFTbWRDenZ5NXZsS2RDVXhaX09GckNUdjlwRnBlNy1VSFJybTkxV1BvekdUYmtIdTU5MGRLUHZrTWwtb25STWYwVE5DNGZTQlplR1dDMkpKdDY1SEJmTHFUVTRnUjZEN1gwV1dGM1hzd1JYQUpfdEhfSmVkUy1xdTYtRGpLUTRaOWJzWXJiYWE?oc=5",
-      "published": "2026-10-26T14:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c76d5b5e998f1b47b8b9b2cf7022c19f508635d2",
-      "title": "G&G świętuje 40-lecie. Wielkie doświadczenie, zaskakująco niskie ceny",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNXI2Y2xiYUkwc0NHRVVCSU1MQmFyWUIzZlJxTVp1c3ZyakVKRGprWExHS3BIZ0tDOVI0dk5GSE1wUWhKalBHaUkza244d1M4c244SndIVGNOaXNwdm15NTBXSDZ4cEJwd212SEtKM05ZVkdTeDZMdld0MG9nMU9ubEgtYmVDMlFyd2xqX2JkbVNIN0lKQWZmN2dzM3kwNDI5R016VzZsZjNUWFpmU0VsZGVYbWlBTmtwZGc5Vnc2dUhKUDg?oc=5",
-      "published": "2026-10-26T14:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "44e4bdcae1c4cb8601193ff5aeec53e734173c91",
-      "title": "Ocieplenia, elewacje i remonty. Poznaj firmę MUREK!",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVRrWlZVeGlfYTVoRGhBWlFMUk85aXVUTzlZb2xfOHNvLU5yeEtiOExBZFp1dmFrMVhYZlV0eHBCWEVLWHpzT2g1SWI3dWF4YS0xY2JnWm5WWUpoekJTOU9tZjR1QzBQNzhLMzFKRkJEVkFIRjB0by1WWE55M0x2eUJBZFFvc09TM0l6N01rUHVvam1hZllwcFVqRWt2dmlja293QllwdlBRQQ?oc=5",
-      "published": "2026-10-26T14:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8e6653f2b2ba9684310bc2642d6510496e0f7a55",
-      "title": "„Krótkowzroczność pojawia się coraz wcześniej”. Marcin Rogóż o tym, jak dbamy o wzrok",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTkEzdmJBRWxneEdTVlJiM0N6cWs5aTM1VTFHNGJRZHhrNnNPRGJiTVhLdkZoSk9fdC1iTnIxc2VqSEs2YVpSR1B6Rl9DeUViZzdrcXBvd0hOSU01NVdicE9xNEw1czI2QmdMMnV4NTVtZm9NdjRUbkdwaUc4Q2hWS2haV2JZcFFGSDkzOHFvbC1leGxWS1RzOHJEUXVldFdSR0JveTFocDRUX0MyTlNrTWRsazJ4Yk8wc2FnbTNLV0tJb3Q3aWVNYjE4TjV3cEx2UHY2RjhR?oc=5",
-      "published": "2026-10-26T14:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "2d0046d39065476b634ce3b660360859aca80ee3",
       "title": "„Najwyżej go zwolnimy”. Najdroższe zdanie w rekrutacji",
       "summary": "",
@@ -502,6 +442,16 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
+    },
+    {
+      "id": "bff7a7a8beb3baee7abf01b5c43940e79632c72d",
+      "title": "Ponad 93 mln zł z UE na przebudowę Mikołowskiej. Inwestycja trwa, a kierowcy zmagają się z utrudnieniami (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVW5qYms1WnNDR24wODl1azNrRjZ6Z1FXWE04VE1fZ2dsdGZ1Q0F0V1ZveVM5Q0pzVzNFcXNRSEFEZHpvemtPVUdxVzFJaXQ0LTlMOHZPcEgzRFo4MHdwUUVENW05b2pROWVyVHRvQUZISDBnUVg4WUpuSV9RYzExeVh1Tmx1eHVDZW5Uc0RRczVBNWVESzRzMnY4Rk10QTc0aERTLWl6Y1NSNEsyWE5FVHVKYzJFOHU4S19nVVF6Z2xoT0J0TnVwMS1wN0tTMFlxVWEyZ1FIVWd4UE5UNnllWF8tNmlsVDdYRkwxZ2tMckVxR2VQT2lkdQ?oc=5",
+      "published": "2026-10-26T13:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
     },
     {
       "id": "badf2c83f132ee5189799118ea9a8104713a2011",
@@ -538,16 +488,6 @@
       "title": "KONKURS NADAL TRWA❗ – NEWS",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EQ0dlSEpCVktOZ0FNa3hjRTcxNE1URml6bkN3Q2NSTE9URVBsdVpsSkhtX2NPRHJxMW9KXzg1UnZGOHlqbGdfbnZHcEdjN2RpbnA4M0xwYXRNcjhSSmc?oc=5",
-      "published": "2026-10-26T12:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "07901d63afb15223ad6a01571452582e9676b045",
-      "title": "Plebiscyt Rekiny 2026! Trwa do 30 Października. – NEWS",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORGs0Nzl1OEZsWE5RdnVKQ0JjclVQaXZnNWNoWHV1N1hfQ3FQbmtOSi1KeHFBVEtPTGF1TENYTTh2QWJ1NzVhOTROQXdZRXZ1RVV1aFhkVFE5MG5JYXZHRzlhV1Bsdm5kNWppMU44ZUtxcmZsSzNISFM1UnB2SUM2MnRR?oc=5",
       "published": "2026-10-26T12:30",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
@@ -744,16 +684,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "428945b11b935c160eb57d6f0190b808ef4eff85",
-      "title": "DKF Ekran Rybnik: repertuar na listopad 2026",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQckRfSnNiemMxWFVUUzU3dXVHRDUwdEFtRGdWSmIyTVhxV0VINWF5a0JBc1VZM2hwU3pWWC0yRmV6aXV4d2lPVmhlS2dSWE9HOGREMWl4SG94eFNLYndMWVlGV1FLMllzaFZjVGtZN3FkV2FjbWhqd2l2VXRWa1hVSTF1aWs3OG9sUVpsbzFGcVNBLWdzd0JINXQ3ejFfUHctcTFn?oc=5",
-      "published": "2026-10-25T09:44",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "20da56ac33f230a162ba2e06f31ede9497fc813a",
       "title": "Pewne zwycięstwo MKKS-u Rybnik w Bielsku-Białej. Czwarta wygrana z rzędu podopiecznych Adama Renera",
       "summary": "",
@@ -770,6 +700,16 @@
       "link": "https://www.radio90.pl/inwestycja-ktora-ma-ograniczyc-ryzyko-podtopien-w-radlinie-i-rybniku.html",
       "published": "2026-10-25T09:00",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1c8c6b7efc958c81e592cb16daee8cffaa8e88ee",
+      "title": "Nie tylko święto rasowców. Dzień Kundelka, finanse śląskich schronisk i biznesowy wymiar opieki nad zwierzętami",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWGFJOGxlRktGb1hGNkJSZHl4T3dpVkowYy1XN2xHaGp6NW5WTGtmMWtjbU14YTJJYkxuVkxYbHpIVTlGakVBZGFnVnBneDZ3dFJpNTE3WFU0NWtaNngwZGFELWtNWG93RGFtaTVhTlpudEJBT21NZDF2OUw2d1N2aHpsT1UxSWhuV1daTXd6cnlYMTlac2FDTnhhYUlRdEtJZHFVRmYtNVJFWG9oT3QyV2laWVRVU0lGQlNoWnN4NFBLcXk2cjNaeEFaTkN0RzFva1VZZzd6dURFc01FeE41OXB4Q3V5bHJmcF9JeWNUWHM2dXFhR3plS0tDZw?oc=5",
+      "published": "2026-10-25T09:00",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -794,12 +734,42 @@
       "priority": "NORMAL"
     },
     {
+      "id": "b683b15ae250eda9537e798b5f784abfb554f8cd",
+      "title": "Nokaut w pierwszym secie. Siatkarki Gromu Rybnik wracają na zwycięską ścieżkę",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcHdZc3FPcl9xbWNKUGhIZm5nbnZMV2dEc1lmcWhSUXVFUGtrWG9nc1BjMDNSSXhKOWFDNFNhdTJGUUlxbGxUMmpQWjVJLTNzcUxCQXZJWXBWNHpRTEdxa3ZjdnNiLVhpWWo4TVlXWlBZaTBDNExRUDBmMDVpQW1lQl9mS1RRWURENHo0NlUyUmphblBYZU5ZdktneEdCa2paUm9VSDM0T0tFOXBURC0wTlpCUU9lLWZWbEJ3ZzRPMU03dGZHR3RvZ0Y5Uzd0SzQ?oc=5",
+      "published": "2026-10-24T19:38",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b88f7f343ce96a1854a7051a0b629a2fce77f1d2",
+      "title": "Pełna rehabilitacja i pewne zwycięstwo. ROW 1964 Rybnik pokonał Polonię Nysa",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUcyRWZXUG5FRWtNYzBaV2FUckJpbVhTaWpMczItakF3YVYwX214NlVLWlpYOTlFT28yR0NybGY1NnRHVno4WWZpZjl4YXYycXhUR0Jzc0JTcE85aGJsbVFHV2JkanprSnIza2lQT212Wm93SFg4UWozVW5oQ3ctYWdwVlBNa0poVENoVmVpbnhQbXRVbXhvNnJNakQxd21DRXhnV1FjeUNVeHpPazRVTzViMlVFYlY1RGJSc1AxYjRJd3BucUxfWGpEbmpXUQ?oc=5",
+      "published": "2026-10-24T18:41",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "5a5019edbe9b588938dfdbe602dcbec96f95a6ae",
       "title": "Będą rozmawiać o pomocy seniorom i niepełnosprawnym. Odbędzie się konferencja w Łukowie Śląskim [PATRONAT]",
       "summary": "O pomocy osobom starszym, czy z niepełnosprawnościami będą rozmawiać w czwartek (29.10) w Łukowie Śląskim. Powiatowe Centrum Pomocy Rodzinie w Rybniku organizuje konferencję.",
       "link": "https://www.radio90.pl/beda-rozmawiac-o-pomocy-seniorom-i-niepelnosprawnym-odbedzie-sie-konferencja-w-lukowie-slaskim-patronat.html",
       "published": "2026-10-24T18:00",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "00a433dc5f34bb27180b7f108e929c36c915052a",
+      "title": "Cykl z książki „20 lat Konkursu Człowiek Roku Rybnik.com.pl”: L. Arkadiusz Geratowski",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOWNuX3pXLXFBRE5faEhiSnRaS0ZfVThQcElPNF9VcXhLUGlSUXcxVnR2QUlxVFlneDlGNlFSUXJuRV81S2FyWGVJQU1EaTJRWkNmVEJZTUdYNk9TYXZ3YXl6QTQ2Qm51YmY4X1BlNHJnUktxeVl4elU1a2lXa0owaWh6aFYwaU9idkRHTGlaLXZWTXlXbEluODRXcDRyMXFndGxlejA5U1h4QzhKTFlXbFBPSmcxdzlYVWFOd0VVOHRYX0tGNm5aa0ZjM2Y0V1o5d2pocXVn?oc=5",
+      "published": "2026-10-24T14:00",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -820,6 +790,16 @@
       "link": "https://www.radio90.pl/historia-szlaku-kolejowego-w-leszczynach-w-pigulce.html",
       "published": "2026-10-24T12:30",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "315348fb6583be36a568d792e81e9c0e78ae379f",
+      "title": "Zostawić czy sprzątnąć? Jak mądrze postępować z jesiennymi liśćmi",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREZsOHQwcmlVREJBRDV0Rm5pWkh6UG9NX0VWVDlKWDI4cjVBZllPRkxhRlBQTUFBVTZhTkRfSTNFUmxpWVM3djdHdXFneWxzNDlBWWY1R21RLTBzOVdCLTNQSzBMZkdwSUt4NGhyS21WeUJpbi1LbHhMQ1JlX2ZNZkY2VlpubFdNai1nTFpGQ2oxRWQzNVlIbndiMk80ZzR5dWJpM0NqZW9LQ3hSX2lYZjYxN205YnY2eFU5TGxnaw?oc=5",
+      "published": "2026-10-24T11:00",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -854,6 +834,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "a9f2f1fa73c9f002aa82cb636b1b2d9d357ca873",
+      "title": "Sekcja żeglarska TS Kuźnia zamknęła sezon 2026 (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY0NDRlJ0SGN6a21OX2pzQ1cyYncxVU4tcTNaclJoaEtlYkJnMkpuU3Nmb2FkSmJScVBXdDhEMDFibkZJdGZJUE1xajFLZm5MMDVSaEwxem9ueGZ1X0tnbUF5YnphLU5mVXNaOFluSHMzSGZVQVRDekZNU29JdVJFNFpnMzg1SExLd19ZRlZQaTdQLTE5SUtKM2tMS0Vnd3ZROTcxeWZvQ19NQQ?oc=5",
+      "published": "2026-10-24T07:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "f6ab4d81f29bae2159cb63dfcb085314d46b384a",
       "title": "Kuchnia Radia 90: przepis na domowe cynamonki",
       "summary": "Dziś w naszej radiowej kuchni pachnie cynamonem! Przygotowujemy puszyste cynamonki, które idealnie sprawdzą się na jesienne popołudnie, do filiżanki kawy lub herbaty. Sprawdźcie nasz przepis i upieczcie je razem z nami!",
@@ -864,22 +854,32 @@
       "priority": "NORMAL"
     },
     {
-      "id": "fc6cd202024cf76bf510c20c23f8bd4ab1a569e1",
-      "title": "Zmiana czasu bez wpływu na pociągi Kolei Śląskich",
-      "summary": "W niedzielę, 25 października zmieniamy czas z letniego na zimowy. To także dzień, na który przypada ostatnia korekta obowiązującego rocznego rozkładu jazdy na kolei. Wskutek pilotażu prowadzonego przez PKP PLK, na stacji Mysłowice przybędzie peronów, a zmiany obejmą m.in. połączenia obsługiwane…",
-      "link": "https://www.radio90.pl/zmiana-czasu-bez-wplywu-na-pociagi-kolei-slaskich.html",
-      "published": "2026-10-23T17:40",
-      "source": "Radio 90",
+      "id": "acf89fc71a0bf12b2464a317121681821576e8c6",
+      "title": "Zderzenie dwóch samochodów na Alei ROW (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWRzb1ZURUttWGhhRzFpWWFNbjFqbVo2WGo3Nlc2bDQyM1BHVElaZC1Ta3FqaWItU3RnRUZ1UkJtM2VqSWVLN1hrNzVDSUtDVzlQOFI5OWZ4WmdXVWRtUVVWYzhMVTkzcUpMUWowQUV1UFJqWXdweUgtMkhzZlBkMTY4RFZOcElJR25jVkhqejJQcFBVTnhSeDdLVzFzMlhFWjh1Ny1B?oc=5",
+      "published": "2026-10-23T16:51",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
-      "id": "7d274bddad89167db081c890c0f71e5cdee4eda2",
-      "title": "Podwyżka podatków w Rybniku. Radni przegłosowali wzrost opłat za mieszkania i nieruchomości wykorzystywane w biznesie",
-      "summary": "Od stycznia 2027 roku Rybniczanie zapłacą więcej za mieszkania, domy, działki i nieruchomości wykorzystywane do prowadzenia działalności gospodarczej. Na wczorajszej sesji Rady Miasta, rybniccy radni podnieśli podatki.",
-      "link": "https://www.radio90.pl/podwyzka-podatkow-w-rybniku-radni-przeglosowali-wzrost-oplat-za-mieszkania-i-nieruchomosci-wykorzystywane-w-biznesie.html",
-      "published": "2026-10-23T15:20",
-      "source": "Radio 90",
+      "id": "7f4dcd7384b22bc2779fce93157a42e1077bdd60",
+      "title": "Zmiana czasu na zimowy już w ten weekend. Kiedy cofniemy zegarki?",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUDVmMDdsLUlFYktVNjl6bmVaX1NiYTIwMDBnMVZ5X3ZNaTF3d0JrQnZWWlpMUzd5V3AtR29EOTdwdUt3QzhIb2FQeTRvOGprcnJlTGlYcmM1ak9mcmxDX2FOVm1hNVRXVE5ZOFVlc2hZUmJCN0VEZ3BxVWN4emE4YkRBLVRqU1puYUwyVVRidU9LU0VqSm41d3VFR0todW9wMmUtMlIwa0hSbWZ3bWtqQUtYQWNoUWFOdHFjeDdB?oc=5",
+      "published": "2026-10-23T15:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6379673a30ccb4333a98ec25813fe1150064fbe1",
+      "title": "Długi wobec ZUS? Doradcy pomagają znaleźć wyjście z trudnej sytuacji",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcHM1Wm10OWlleDk1Zi1RQ0J6QVZtR09PZUtCeVFoSVQxeU5aTFpRUVVSWkRSbmRoaG1ST0JNbXpZbGp0Yl9HUklSXzF1ZEZ4NWF0X0xoRC1HZFJ4bUo2S0tWUW9NaGZyX2t1ZGZhejBLSk05b0tCS0tQd0psMmExRDVCa0Q3b3ZLcnBNNVR6ZWFuYUZQejd1U0RQZHY5SDJ3NTYwRjFBZWNCempWLVZsdTZESHJHUm1Kd1lETFZDRkozSUU?oc=5",
+      "published": "2026-10-23T12:00",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
