@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-10-28T22:35:42",
+  "generated_at": "2026-10-29T05:44:48",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "aae3681bee4d0dfc34ede2f99e5489546b9c453a",
+      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2V3MVNwc0lyRE85WHhmYjNWR1NxellIaWxyaEgxcXNWOHV1cFRHOHJlTnNtQWRUMDFtZHZDNmJYQWhzR2xjeTF5Q1RacEtTTXJBVTRBaXNCbV9wWVdJaWU5RHNMTk1XaTgxZU9LbFdOQXlzbkhZcmJxOU5DU2FkeDFsSEQtUHhGY1ROTFBaX0NUVW9OaHl2Q0I2dWgzZ1NXQ0xvaVUzOUZ5REhQQXhDazVkNHhJOVNuUXY4MUQxRk4wMnBMQkM0Wg?oc=5",
+      "published": "2026-10-29T00:28",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b91d157c211a1fd6b6a2d5e785cfa956ea69737c",
+      "title": "90,9 mln zł na likwidację zapożarowania i rekultywację zwałowiska „Wrzosy I”",
+      "summary": "Kontrakt o wartości 90 930 261 zł na likwidację zapożarowania i rekultywację zwałowiska „Wrzosy I” w Pszowie to jedno z dużych zamówień związanych z usuwaniem skutków działalności górniczej. Spółka Restrukturyzacji Kopalń powierzyła realizację zadania konsorcjum firm TREX-HAL, FN GROUP oraz PHU…",
+      "link": "https://www.radio90.pl/909-mln-zl-na-likwidacje-zapozarowania-i-rekultywacje-zwalowiska-wrzosy-i.html",
+      "published": "2026-10-28T23:03",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "b51fee3bcf68f8804716ce37c1f4de900b437f50",
       "title": "Pod rondem i koło kina mają powstać miejsca schronienia",
@@ -21,16 +41,6 @@
       "published": "2026-10-28T21:01",
       "source": "nowiny.pl",
       "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0ea5dacf00704803e31614462b81cca195c5cf30",
-      "title": "„Zostawię tylko na chwilkę”. Strażnicy pokazują kolejnych „mistrzów” parkowania (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUWFwU0NUSXNPN19MbTEtZmdqcU9YMFhBbzlkRFJWcVhHdkZvdGUyelJYWFJTamFuMmU4MHRlc3FSRnczZDFSaUNEZ2NCM2N1YnBtbXFxQnEwdlBlZWZsYmVOZG54WnhtTXctazVjUUExY0tCQlZ4ems4WVZRNEI0Tzd0UDBxUG5OZC1XYzROcVloQTZrREtQUnJwWDVzVXNjLVJLNWpzNFJfdTRLZWV4RmFDSk9LMW9PVkZKSktIVzJnMFNZT25fZXhzYlJ1Q3U4UUEtRVRB?oc=5",
-      "published": "2026-10-28T20:44",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -104,16 +114,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "60e355408044ee3bc7b1a463769eac0eba20580f",
-      "title": "wiadomości, baza firm i ogłoszenia • Portal",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVkF0NW5aZklJYXo2bnlZYjJDaEpPUkoyTkwwczF5LUxCWUw4ekJHeTJYU20taWd3RGF4eHJBRExLeGZIZVlhZ0xuMFBuU2ZMbG5zZlk0VDM1eG1qY0Z6ajJBQUZtRGsxd2Q2SVJoNXJjNTk4dUhQbmdyclNaZVBva2FPWUdHYWI2MEVPbVRwWFRlT2ZSQ1dUbDk3SFZoR09yWngxOGM1bnZLaVpkR3Yzcm40NTVsWUlYYVJHcFRIejBKWXpsbDBNR1V4SElxU1hKM2tIalBJQnh6Y3l2UEZGN05JY1loZGtQaXo0?oc=5",
-      "published": "2026-10-28T17:41",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "b7ca9b412150e6aaab067f1f6e191fa34eafd43a",
       "title": "Ostrzeżenie synoptyków: uważajcie, będzie mgliście",
       "summary": "Mgła w nocy i o poranku! Ostrzeżenie synoptyków o niebezpiecznym zjawisku pogodowym dotyczy prawie całego województwa śląskiego.",
@@ -174,16 +174,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "b672bd77852a8cac5472784ea34022d48f6163aa",
-      "title": "Biskup, małżeństwo i raciborska placówka wśród wyróżnionych. Wręczono Medale im. ks. Stefana Pieczki",
-      "summary": "W Raciborzu uhonorowano tegorocznych laureatów Medalu im. ks. prałata Stefana Pieczki „Unitas in Veritate”. Uroczystości towarzyszyło wykonanie odnalezionego w archiwach utworu raciborskiego kompozytora, który według organizatorów zabrzmiał po ponad 200 latach.",
-      "link": "https://www.nowiny.pl/wiadomosci/251814-biskup-malzenstwo-i-raciborska-placowka-wsrod-wyroznionych-wreczono-medale-im-ks-stefana-pieczki.html",
-      "published": "2026-10-28T15:30",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "557298bf6a8fc097bfec0145c49258aa75502c79",
       "title": "Wszystkich Świętych: od czwartku ważne zmiany w organizacji ruchu przy cmentarzach!",
       "summary": "",
@@ -191,6 +181,16 @@
       "published": "2026-10-28T15:30",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b672bd77852a8cac5472784ea34022d48f6163aa",
+      "title": "Biskup, małżeństwo i raciborska placówka wśród wyróżnionych. Wręczono Medale im. ks. Stefana Pieczki",
+      "summary": "W Raciborzu uhonorowano tegorocznych laureatów Medalu im. ks. prałata Stefana Pieczki „Unitas in Veritate”. Uroczystości towarzyszyło wykonanie odnalezionego w archiwach utworu raciborskiego kompozytora, który według organizatorów zabrzmiał po ponad 200 latach.",
+      "link": "https://www.nowiny.pl/wiadomosci/251814-biskup-malzenstwo-i-raciborska-placowka-wsrod-wyroznionych-wreczono-medale-im-ks-stefana-pieczki.html",
+      "published": "2026-10-28T15:30",
+      "source": "nowiny.pl",
+      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -242,6 +242,16 @@
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "ALERT"
+    },
+    {
+      "id": "c9037d07c34cd5b59528f25add231ed8545adeda",
+      "title": "„Zostawię tylko na chwilkę”. Strażnicy pokazują kolejnych „mistrzów” parkowania (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSjFFV0tuY2I3OFFRSTlZZWdHMlIzYU5rZWJNWjJoNExrODI1QTRORW1SQ0ZCSVRLaERfcnJ2Q1JOSjRmN0VMRnpSN1RJcU1mRWNpc1pSSGxWME1Zd1dTLTZ6VXpGVnViaWNBeUdub3JfNE1jM1dwbnRzLTEzaU51THJfZlA1eDU2cndXZ2NFd0M5LXAwNElXODVnVGtlS2xiajc3WElYdno1M09pVFplT3QyaE5QS01ORUNyendSMWw4bVJ6cXd5T2ltZllBaDJKakFB?oc=5",
+      "published": "2026-10-28T14:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
     },
     {
       "id": "43e3c9b76b75979f6df638d484ef1e606ec77175",
@@ -644,10 +654,30 @@
       "priority": "NORMAL"
     },
     {
+      "id": "45e0431c5cc6b24cd85fadc6cba04d9c3a530bac",
+      "title": "Polecamy na jesień",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBacmd2YVZPT3lyUG1lc210U0RrUHRFX3FfYURqcEY0RjdZWUhkUW5oV0JGZldfOFBqMDdfRFR4bzdUbkdNekNqa3RHSUQ5NndsazJjTkJvRDBaOUs2Si02TUVQUHV1dnJ2TG80VllSS29JTTBwa1JDbmZB?oc=5",
+      "published": "2026-10-26T14:19",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "2d0046d39065476b634ce3b660360859aca80ee3",
       "title": "„Najwyżej go zwolnimy”. Najdroższe zdanie w rekrutacji",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZi05Sl9zTmJsYWxVdVozMnNLc2U0TWZic0Z1N3pFeTdZdzJSYU5pcmJRZzJBeEYzM2FIa0pwTmgzYVNJQkJtVVZuMTRDMklYNTl2WEFPa0dRLWtDU1VKLTVLSkRyUmhWdzNIT1plVW12elN4ZUMzVGFVRVdVaUZkRTBNNzBxQWttZE54TFVzWDZsR0VXcmpBam9HR2RjMm5PRFV3eUN6MEtKV1piTHc?oc=5",
+      "published": "2026-10-26T14:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2504b902ffd60ce8b83c700766c811cc7a44a99b",
+      "title": "Z szacunkiem do tradycji, z otwarciem na przyszłość. 40 lat historii firmy pogrzebowej STYX z Rybnika",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ3dlN0Y0TWVjRUg0QVluS21fRmQtT0tVQVB3d2ZQLWVVRVF2MGowZnVJQ3MtRXNsVEJlUThPZS1sSHBpemQ1T1BLM3FIY18tVEtXaThna3d2VzlvZncyb1lnUDQ5d25nRlBhVG9VSWtweUU1NnNUbnpNaEpRTG95T19NZzV5aXdheUkwNDRBZDltc19GMUxmTFRqb2s1RUJuMzJibDVPdE9QajNCVlhEYkJua1ltSF9MXzgtb1dUOXZYQkszWE5qZnU2ZGhrVm4zdHdvQzFOSWtEc3VZem1hd0F6NHRpZFFWbFhfdXhn?oc=5",
       "published": "2026-10-26T14:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
@@ -674,6 +704,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "4fdc67275ce1b7e536a0cdedaabbab8e9ac502b3",
+      "title": "KONKURS NADAL TRWA❗ – NEWS",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EQ0dlSEpCVktOZ0FNa3hjRTcxNE1URml6bkN3Q2NSTE9URVBsdVpsSkhtX2NPRHJxMW9KXzg1UnZGOHlqbGdfbnZHcEdjN2RpbnA4M0xwYXRNcjhSSmc?oc=5",
+      "published": "2026-10-26T12:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "2f9e6f08367482cab385b715a4339410998556a7",
       "title": "Nowoczesne technologie i siła relacji. IPH ROP zaprasza na śniadanie biznesowe",
       "summary": "",
@@ -690,36 +730,6 @@
       "link": "https://www.radio90.pl/koszykarki-rmks-xbest-rybnik-pokonuja-brother-muks-poznan-byl-to-mecz-z-tych-trudniejszych.html",
       "published": "2026-10-26T10:25",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0d9e0db81a3a0a1974aae4905019d7f2df38124d",
-      "title": "Karuzela najemców w Hotelu Olimpia trwa. Kolejne zmiany i pytania o przyszłość",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQXFyeG0wQjV6cGt2X0FpTk85cjJJdGNtRVdmczUybUlYQVlfU050M1YyT3FDMjBsTmhJT2JwUUM4TVZvOTFETC1jdTVENHU2dXh0MWdEWFlvR29sNTVuR1ppRmRZbHZsaU44aXFwRExaMTlXLXZPeEdPOUZQZjJsR2kteEozXzBCNFNtYWVZQ3V5cFBHbUNDZ3B5aHVsdklkenpCcDBzNl9ZSWNieFBsN2hXTkVkUGF0M0trb2NUWjhTNFpZR1d4Y2hrOENvMkpq?oc=5",
-      "published": "2026-10-26T10:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d8cd0b0979fa33bba4537df08e9f2f3bdff9df80",
-      "title": "Brother MUKS pokonany! RMKS Xbest Rybnik wiceliderem I ligi",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN3dyMXNELThObXJ3a09zX2FxWUdXSlRzTFdIbV9vUGZRcjA1X0dhekNEMUNDb2lJRTBNcVpQQk1xdnVxbjNnWFdkbFlUbjAtX0RnS25LUlFrNklTZ3pKWjB3VjUyWDJDWXlodE5leVNReGZHMjdjWnFsU3RlOVpfZlJ5SF9ZUURtU3hEZGo2bmtpVzdvaHZuRUdqU3A2dHhRMjM0ZDVMVzdlbmFpQmx0aUpxZmpSZ2s?oc=5",
-      "published": "2026-10-26T09:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "807680d1241c9a161778705eae3f6c0d822c4cfb",
-      "title": "Nie deweloper, a firma związana z górnictwem. Kupiła działkę w centrum Rybnika",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWZ4QVhfV0x0NVlEOG5wZEFObXZaSzAxNzNJYXhpa3pYdUVSVm9acld2TlMyVHFlNHBtelBlSTlURXcxbDhxanU4aEJHZl8xVWlYb2xoX1JoNFpFTm1lT1BmR3ZLX0NFVDBhd2h3NU5TYzlLU3FuZmtkZmpfekl0RnhqcEtNRlloOUlmRVNiTFg2UVNYT21SYUpLbGlhOWFmS0Z2X2RyRzZwRGpZb3FrVS1PZzNSYlpPZldEU3NLelBZaVVyaDNYT3JDLVAtRzQ?oc=5",
-      "published": "2026-10-26T08:08",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -859,16 +869,6 @@
       "summary": "Dziś spróbujemy odpowiedzieć na pytanie w jaki sposób zabezpieczyć miasta przed nieuchronnymi zmianami klimatycznymi. Przed gwałtownymi ulewami i burzami, czy suszą. Dlaczego klimat powinien być uwzględniany w planach miejscowych, drogach, placach, budynkach i inwestycjach?",
       "link": "https://www.radio90.pl/eko-patrol-radia-90-odcinek-42-2026-w-jaki-sposob-tworzyc-miasto-odporne-na-zmiany-klimatyczne.html",
       "published": "2026-10-25T07:40",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "bb91732da3cea87236027dc82b012dae74e56c77",
-      "title": "Rybnicki śpiewnik górniczy pozwoli ocalić od zapomnienia tradycję gwarków",
-      "summary": "Zbiór najpiękniejszych pieśni śpiewanych przed laty w czasie górniczych gwarków na rybnickich kopalniach znalazł się w \"Rybnickim śpiewniku górniczym\".",
-      "link": "https://www.radio90.pl/rybnicki-spiewnik-gorniczy-pozwoli-ocalic-od-zapomnienia-tradycje-gorniczych-gwarkow.html",
-      "published": "2026-10-24T22:05",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
