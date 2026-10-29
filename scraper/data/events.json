@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:43:36",
+  "generated_at": "2026-10-29T12:56:49",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,20 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 110,
+  "count": 131,
   "failures": [],
   "events": [
-    {
-      "id": "bilnya-galeria-sztuki-rzeczna-202610290900",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-10-29T09:00",
-      "end": "2026-10-29T10:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=712081#opis"
-    },
     {
       "id": "iryb-domowa-apteczka-warsztaty-zielarskie-w-filii-nr-10",
       "title": "„Domowa Apteczka” – warsztaty zielarskie w Filii nr 10",
@@ -495,6 +484,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/jakub-przebindowski-o-andrzeju-wajdzie-notesy-wajdy"
     },
     {
+      "id": "iryb-koncert-dla-niepodleglej",
+      "title": "Koncert dla Niepodległej",
+      "category": "Koncert",
+      "start": "2026-11-11T16:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "11 listopada w Dworze w Łukowie Śląskim odbędzie się koncert z okazji Narodowego Święta Niepodległości. Wydarzenie połączy patriotyczne pieśni i utwory nawiązujące do historii, tradycji oraz wartości ważnych dla kolejnych pokoleń. Patriotyczne pieśni zabrzmią podczas koncertu w Dworze w Łukowie Śląskim Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Na scenie zaprezentują się laureaci Powiatowego Festiwalu Pieśni i Piosenki Patriotycznej „W kolejne powolność” oraz wychowankowie Powiatowego Ogniska Pracy Pozaszkolnej. W programie znajdą się pieśni patriotyczne i utwory związane z historią oraz tradycją.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/koncert-dla-niepodleglej"
+    },
+    {
       "id": "tzr-x-biesiada-slaska-z-zespolem-vox-szczesliwej-drogi-juz-czas",
       "title": "X Biesiada Śląska z zespołem VOX: \"Szczęśliwej drogi, już czas\"",
       "category": "Koncert",
@@ -572,6 +572,17 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/11134/"
     },
     {
+      "id": "bilnya-galeria-sztuki-rzeczna-202611141100",
+      "title": "Galeria Sztuki Rzeczna",
+      "category": "Wystawa",
+      "start": "2026-11-14T11:00",
+      "end": "2026-11-14T12:30",
+      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717334#opis"
+    },
+    {
       "id": "iryb-40-silesian-jazz-meeting-dwa-koncerty",
       "title": "40. Silesian Jazz Meeting: dwa koncerty",
       "category": "Koncert",
@@ -614,6 +625,17 @@
       "description": "Po trzyletniej przerwie gale Silesian MMA wracają do Rybnika — i to w podwójnym wydaniu. 14 listopada 2026 roku jednego wieczoru odbędą się SILESIAN MMA 28 oraz WiP 18 „Walcz i Pomagaj”, łącząc sportowe pojedynki z ideą aktywnego udziału w wydarzeniu. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . SILESIAN MMA 28 ma przynieść mocne zestawienia, w których pojawią się zarówno młodzi zawodnicy, jak i bardziej doświadczeni fighterzy. Z kolei WiP 18, czyli „Walcz i Pomagaj”, stawia na sportową przygodę i możliwość sprawdzenia się w klatce. Szczegóły dotyczące karty walk, zawodników i biletów mają być ogłaszane w kolejnych tygodniach.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/silesian-mma-28-wip-18-w-rybniku"
+    },
+    {
+      "id": "bilnya-galeria-sztuki-rzeczna-202611151100",
+      "title": "Galeria Sztuki Rzeczna",
+      "category": "Wystawa",
+      "start": "2026-11-15T11:00",
+      "end": "2026-11-15T12:30",
+      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717336#opis"
     },
     {
       "id": "iryb-40-silesian-jazz-meeting-kinga-glyk-na-zywo",
@@ -660,6 +682,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/listopadowe-medytacje-kulturalne-z-dr-jackiem-kurkiem-twarze-winylu"
     },
     {
+      "id": "bilnya-galeria-sztuki-rzeczna-202611180900",
+      "title": "Galeria Sztuki Rzeczna",
+      "category": "Wystawa",
+      "start": "2026-11-18T09:00",
+      "end": "2026-11-18T10:30",
+      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717337#opis"
+    },
+    {
       "id": "iryb-wernisaz-wystawy-o-slazakach-pod-dowodztwem-gen-andersa-w-ry",
       "title": "Wernisaż wystawy o Ślązakach pod dowództwem gen. Andersa w Rybniku",
       "category": "Wystawa",
@@ -669,6 +702,28 @@
       "description": "Losy mieszkańców Górnego Śląska, którzy służyli w 2. Korpusie Polskim, będą tematem wystawy przygotowanej przez Fundację Znaki Pamięci. Wernisaż w Bibliotece Głównej w Rybniku połączy prezentację ekspozycji z wykładem o żołnierzach gen. Władysława Andersa, w tym o tych pochodzących z Rybnika lub związanych z miastem po wojnie. Spotkanie rozpocznie się 18 listopada 2026 roku o godz. 18:00 w Bibliotece Głównej przy ul. Józefa Szafranka 7 w Rybniku . Wydarzenie organizuje Archiwum Pamięci Rybniczan i Rybniczanek. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Wystawa przybliży losy mieszkańców Górnego Śląska, którzy trafili do 2. Korpusu Polskiego, i przypomni udział korpusu w wyzwoleniu Bolonii. Podczas wernisażu odbędzie się także wykład o żołnierzach gen. Władysława Andersa, ze szczególnym uwzględnieniem osób pochodzących z Rybnika lub związanych z miastem po zakończeniu wojny.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/wernisaz-wystawy-o-slazakach-pod-dowodztwem-gen-andersa-w-rybniku"
+    },
+    {
+      "id": "bilnya-galeria-sztuki-rzeczna-202611190900",
+      "title": "Galeria Sztuki Rzeczna",
+      "category": "Wystawa",
+      "start": "2026-11-19T09:00",
+      "end": "2026-11-19T10:30",
+      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717342#opis"
+    },
+    {
+      "id": "iryb-dkk-w-filii-nr-2-wokol-ksiazki-sonata-gustava-rose-tremain",
+      "title": "DKK w Filii nr 2 wokół książki „Sonata Gustava” Rose Tremain",
+      "category": "Impreza",
+      "start": "2026-11-19T16:00",
+      "end": null,
+      "venue": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku",
+      "description": "Miłośnicy literatury będą mogli spotkać się, by porozmawiać o powieści Rose Tremain. Listopadowe spotkanie Dyskusyjnego Klubu Książki odbędzie się w rybnickiej Filii nr 2. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Tematem spotkania będzie powieść „Sonata Gustava” Rose Tremain w tłumaczeniu Dominiki Cieśli-Szymańskiej. Uczestnicy Dyskusyjnego Klubu Książki omówią książkę podczas wspólnej rozmowy. Spotkanie organizuje Powiatowa i Miejska Biblioteka Publiczna im. Konstantego Prusa w Rybniku.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/dkk-w-filii-nr-2-wokol-ksiazki-sonata-gustava-rose-tremain"
     },
     {
       "id": "tzr-30-rybnicka-jesien-kabaretowa-ryjek-2026-kabaret-hrabi-wojtek-kaminski-oraz-dzikie-weze-improwizacje",
@@ -691,6 +746,17 @@
       "description": "Choć jesień dopiero się zaczęła, już dziś zapraszamy do udziału w naszym konkursie plastycznym \"Mieszkańcy zimowego lasu”. Regulamin konkursu znajdziecie na naszej stronie internetowej w zakładce „Pobieralnia”. Termin składania prac upływa z dniem 20 listopada 2026 roku (decyduje data wpływu pracy do domu kultury).",
       "sourceName": "DK Chwałowice",
       "sourceUrl": "https://www.dkchwalowice.pl/?news=51940"
+    },
+    {
+      "id": "bilnya-galeria-sztuki-rzeczna-202611201100",
+      "title": "Galeria Sztuki Rzeczna",
+      "category": "Wystawa",
+      "start": "2026-11-20T11:00",
+      "end": "2026-11-20T12:30",
+      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717348#opis"
     },
     {
       "id": "tzr-30-rybnicka-jesien-kabaretowa-ryjek-2026-konkurs-glowny-czi-i-konkurs-shortow",
@@ -770,6 +836,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/country-nad-nacyna-w-rybniku-koncert-drogi-na-ostroleke-i-impreza-w-klubie-odyseja"
     },
     {
+      "id": "bilnya-galeria-sztuki-rzeczna-202611221100",
+      "title": "Galeria Sztuki Rzeczna",
+      "category": "Wystawa",
+      "start": "2026-11-22T11:00",
+      "end": "2026-11-22T12:30",
+      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717349#opis"
+    },
+    {
       "id": "tzr-jesienne-impresje-take-trio",
       "title": "Jesienne impresje – Take Trio",
       "category": "Koncert",
@@ -796,11 +873,22 @@
       "title": "30. Rybnicka Jesień Kabaretowa RYJEK 2026 - KONCERT FINAŁOWY I JUBILEUSZOWY 30. RYJKA TELEWIZJA POLSAT",
       "category": "Kabaret",
       "start": "2026-11-22T19:00",
-      "end": null,
+      "end": "2026-11-22T20:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "KONCERT FINAŁOWY I JUBILEUSZOWY 30. RYJKA. TELEWIZJA POLSAT Udział wezmą: KABARET MŁODYCH PANÓW ANI MRU MRU Laureaci Konkursów Festiwalowych Piotr Kotas Band",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/30-rybnicka-jesien-kabaretowa-ryjek-2026-koncert-finalowy-i-jubileuszowy-30-ryjka-telewizja-polsat.html"
+    },
+    {
+      "id": "bilnya-galeria-sztuki-rzeczna-202611241200",
+      "title": "Galeria Sztuki Rzeczna",
+      "category": "Wystawa",
+      "start": "2026-11-24T12:00",
+      "end": "2026-11-24T13:30",
+      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=716862#opis"
     },
     {
       "id": "iryb-spotkanie-z-dr-edyta-korepta-o-ksiazce-czerwony-bruclik",
@@ -814,6 +902,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/spotkanie-z-dr-edyta-korepta-o-ksiazce-czerwony-bruclik"
     },
     {
+      "id": "bilnya-galeria-sztuki-rzeczna-202611250900",
+      "title": "Galeria Sztuki Rzeczna",
+      "category": "Wystawa",
+      "start": "2026-11-25T09:00",
+      "end": "2026-11-25T10:30",
+      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717352#opis"
+    },
+    {
       "id": "iryb-warsztaty-klockowe-z-patrykiem-zietara-finalista-lego-master",
       "title": "Warsztaty klockowe z Patrykiem Ziętarą – finalistą LEGO MASTERS TVN",
       "category": "Warsztaty",
@@ -825,6 +924,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/warsztaty-klockowe-z-patrykiem-zietara-finalista-lego-masters-tvn"
     },
     {
+      "id": "bilnya-galeria-sztuki-rzeczna-202611260900",
+      "title": "Galeria Sztuki Rzeczna",
+      "category": "Wystawa",
+      "start": "2026-11-26T09:00",
+      "end": "2026-11-26T10:30",
+      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717366#opis"
+    },
+    {
       "id": "iryb-historia-jazzu-ilustrowana-muzyka-na-zywo",
       "title": "Historia jazzu ilustrowana muzyką na żywo",
       "category": "Impreza",
@@ -834,6 +944,17 @@
       "description": "Jazz zabrzmi na żywo w Bibliotece Głównej w Rybniku. Spotkanie połączy muzykę z opowieścią o korzeniach tego gatunku, jego narodzinach i rozwoju. Wydarzenie zaplanowano na 26 listopada 2026 roku o godz. 18:00 w Bibliotece Głównej przy ul. Józefa Szafranka 7 w Rybniku . Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Na scenie pojawią się multiinstrumentalista jazzowy Vitalij Ivanov i kontrabasista Dominik Sławiński . O historii jazzu opowie gitarzystka Katarzyna Cielińska , przybliżając jego korzenie, początki i dalszy rozwój.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/historia-jazzu-ilustrowana-muzyka-na-zywo"
+    },
+    {
+      "id": "bilnya-galeria-sztuki-rzeczna-202611271100",
+      "title": "Galeria Sztuki Rzeczna",
+      "category": "Wystawa",
+      "start": "2026-11-27T11:00",
+      "end": "2026-11-27T12:30",
+      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717367#opis"
     },
     {
       "id": "dk-bog-11140-o-sztuce-na-powaznie-przemyslaw-straczek",
@@ -869,11 +990,33 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/adwentowe-wianki.html"
     },
     {
+      "id": "bilnya-galeria-sztuki-rzeczna-202611281100",
+      "title": "Galeria Sztuki Rzeczna",
+      "category": "Wystawa",
+      "start": "2026-11-28T11:00",
+      "end": "2026-11-28T12:30",
+      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717369#opis"
+    },
+    {
+      "id": "bilnya-rodzinne-soboty-w-rzecznej-202611281130",
+      "title": "Rodzinne soboty w Rzecznej",
+      "category": "DlaDzieci",
+      "start": "2026-11-28T11:30",
+      "end": "2026-11-28T13:00",
+      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/inne/Rodzinne-soboty-w-Rzecznej?eid=716016#opis"
+    },
+    {
       "id": "iryb-andrzejkowe-czary-mary",
       "title": "Andrzejkowe Czary-Mary",
       "category": "Impreza",
       "start": "2026-11-28T16:00",
-      "end": null,
+      "end": "2026-11-28T18:00",
       "venue": "Dom Kultury Rybnik-Chwałowice",
       "description": "Przebrania i magiczne zabawy będą częścią andrzejkowego spotkania dla dzieci w wieku od 5 do 8 lat. „Andrzejkowe Czary-Mary” odbędzie się w Domu Kultury w Rybniku-Chwałowicach. Andrzejkowe Czary-Mary w Chwałowicach wyprzedały wszystkie bilety Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . To przebierana impreza dla dzieci w wieku od 5 do 8 lat, podczas której zaplanowano magiczne zabawy. Spotkanie poprowadzi Monika Kubica-Skaba, znana jako Ciocia Klocia.",
       "sourceName": "iRybnik",
@@ -902,6 +1045,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/andrzejkowa-dyskoteka-w-olimpiirybnik"
     },
     {
+      "id": "bilnya-galeria-sztuki-rzeczna-202611291100",
+      "title": "Galeria Sztuki Rzeczna",
+      "category": "Wystawa",
+      "start": "2026-11-29T11:00",
+      "end": "2026-11-29T12:30",
+      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717372#opis"
+    },
+    {
       "id": "tzr-matka-spektakl-teatru-na-pol-na-podstawie-dramatu-witkacego",
       "title": "Matka. Spektakl Teatru Na Pół na podstawie dramatu Witkacego",
       "category": "Spektakl",
@@ -913,11 +1067,22 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/matka-spektakl-teatru-na-pol-na-podstawie-dramatu-witkacego.html"
     },
     {
+      "id": "bilnya-matka-spektakl-mlodziezowego-teatru-na-pol-202611300900",
+      "title": "Matka - Spektakl Młodzieżowego Teatru NA PÓŁ.",
+      "category": "Spektakl",
+      "start": "2026-11-30T09:00",
+      "end": "2026-11-30T10:30",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Matka-Spektakl-Mlodziezowego-Teatru-NA-POL-PREMIERA?eid=711864#opis"
+    },
+    {
       "id": "tzr-labirynt-fauna",
       "title": "Labirynt Fauna",
       "category": "Film",
       "start": "2026-11-30T15:30",
-      "end": null,
+      "end": "2026-11-30T17:28",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Mała Ofelia przybywa do domu nowego męża jej matki, kapitana Vidala. Dziewczynce trudno znieść surowość ojczyma. Przez przypadek Ofelia odkrywa w ogrodzie tajemniczy labirynt. Tam spotka Fauna, baśniowego stwora, który rozpozna w niej księżniczkę magicznej krainy, której grozi zagłada. Przed dziewczynką stoją jednak 3 mordercze zadania, które sprawdzą jej nieśmiertelność. Z czasem okrucieństwo zapanuje nad całym rzeczywistym światem.",
       "sourceName": "TZR",
@@ -950,7 +1115,7 @@
       "title": "Selfie, czyli miłość na pstryk!",
       "category": "Spektakl",
       "start": "2026-12-04T19:00",
-      "end": null,
+      "end": "2026-12-04T20:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Co może wyniknąć z zetknięcia się dwóch sąsiadujących mieszkańców wielkiego blokowiska, opanowanych kryzysem samotności? W jednym mieszka Brygida – bojowo nastawiona singielka z córką, a w drugim Gerard – samotny ojciec rozczarowany kobietami. Oboje pielęgnują stereotypy, dopóki sprawy sercowe ich dorosłych dzieci nie każą wyjść z okopów i stanąć twarzą w twarz z własnymi uprzedzeniami.",
       "sourceName": "TZR",
@@ -979,6 +1144,17 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/koncert-zespolu-universe.html"
     },
     {
+      "id": "bilnya-universe-202612051800",
+      "title": "Universe",
+      "category": "Koncert",
+      "start": "2026-12-05T18:00",
+      "end": "2026-12-05T19:30",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🔥Universe! Dołącz do nas, aby wspólnie świętować magię muzyki i tworzyć niezapomniane wspomnienia. Zakup bilet i przygotuj się na niezapomnianą podróż muzyczną podczas koncertu zespołu Universe ‼️🎶.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/Universe?eid=697526#opis"
+    },
+    {
       "id": "dk-chw-mikolajki-20261206",
       "title": "Mikołajki",
       "category": "DlaDzieci",
@@ -988,6 +1164,17 @@
       "description": "Ho, ho, ho! Mikołaj już szykuje sanie i wkrótce zawita do Chwałowic. Zapraszamy wszystkie dzieci wraz z rodzicami na wyjątkowe popołudnie pełne magii, niespodzianek i świątecznej atmosfery! 6 grudnia 2026 r. (niedziela) w Domu Kultury w Rybniku-Chwałowicach.",
       "sourceName": "DK Chwałowice",
       "sourceUrl": "https://www.dkchwalowice.pl/?news=52473"
+    },
+    {
+      "id": "bilnya-mikolaj-w-domu-kultury-niedobczyce-202612060900",
+      "title": "Mikołaj w Domu Kultury Niedobczyce",
+      "category": "DlaDzieci",
+      "start": "2026-12-06T09:00",
+      "end": "2026-12-06T11:00",
+      "venue": "Dom Kultury Niedobczyce, ul. Barbary 23",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/dla-dzieci/Mikolaj-w-Domu-Kultury-Niedobczyce-w-Rybniku?eid=716120#opis"
     },
     {
       "id": "iryb-22-bieg-barborkowy-w-rybniku-uliczny-start-na-10-km-juz-6-gr",
@@ -1012,6 +1199,17 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/pani-domu-jest-tylko-jedna.html"
     },
     {
+      "id": "bilnya-mikolajki-w-chwalowicach-2026-202612061730",
+      "title": "Mikołajki w Chwałowicach 2026",
+      "category": "DlaDzieci",
+      "start": "2026-12-06T17:30",
+      "end": "2026-12-06T19:00",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/kabaret/Mikolajki-w-Chwalowicach-2026?eid=715412#opis"
+    },
+    {
       "id": "iryb-mikolajki-pokaz-iluzjonistyczny-sebko-elf-i-spotkanie-z-miko",
       "title": "Mikołajki – pokaz iluzjonistyczny „Sebko elf” i spotkanie z Mikołajem",
       "category": "Impreza",
@@ -1021,6 +1219,17 @@
       "description": "Mikołajki w Rybniku-Chwałowicach będą okazją do wspólnej zabawy dzieci i rodziców. W programie znalazły się iluzjonistyczne show, spotkanie ze Świętym Mikołajem oraz dodatkowe atrakcje w Domu Kultury i przed jego wejściem. Wydarzenie odbędzie się 6 grudnia 2026 roku w Domu Kultury w Rybniku-Chwałowicach przy ul. 1 Maja 91b, 44-206 Rybnik . Główna część rozpocznie się o godz. 17:30 w sali widowiskowej. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . O godz. 17:30 dzieci i ich opiekunowie obejrzą pokaz iluzjonistyczny „Sebko elf” , a następnie spotkają się z Mikołajem. Każde dziecko otrzyma upominek.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/mikolajki-pokaz-iluzjonistyczny-sebko-elf-i-spotkanie-z-mikolajem"
+    },
+    {
+      "id": "bilnya-lukasz-kaczmarczyk-stand-up-przerwa-techniczna-202612101900",
+      "title": "Łukasz Kaczmarczyk stand-up - Przerwa techniczna",
+      "category": "Kabaret",
+      "start": "2026-12-10T19:00",
+      "end": "2026-12-10T21:00",
+      "venue": "Klub Odyseja, Raciborska 9",
+      "description": "😂🎤 Łukasz Kaczmarczyk z Kabaretu Młodych Panów zaprasza na \"Przerwę Techniczną\" – nowy stand-up pełen błyskotliwego humoru i życiowych obserwacji! Absurd codzienności w najlepszym wydaniu. Nie przegap tej dawki śmiechu! 🎟️🤣.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/stand-up/Lukasz-Kaczmarczyk?eid=696696#opis"
     },
     {
       "id": "tzr-francuski-numerek",
@@ -1045,22 +1254,22 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/inertia-over-rybnik-ironbound-kingsphere-i-m2r1-w-klubie-odyseja"
     },
     {
-      "id": "tzr-rubinowe-gody",
+      "id": "bilnya-rubinowe-gody-202612121700",
       "title": "Rubinowe Gody",
       "category": "Spektakl",
       "start": "2026-12-12T17:00",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "\"Rubinowe Gody\" – komedia o małżeństwie, które na 40. rocznicę ślubu wplątuje się w intrygę na szczytach władzy! Tajemnice, polityka i miłość w najlepszym wydaniu. Nie przegap tej ekscytującej historii!",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/rubinowe-gody.html"
+      "end": "2026-12-12T18:30",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🎭💍 \"Rubinowe Gody\" – komedia o małżeństwie, które na 40. rocznicę ślubu wplątuje się w intrygę na szczytach władzy! 🔥 Tajemnice, polityka i miłość w najlepszym wydaniu. Nie przegap tej ekscytującej historii! 🎟️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Rubinowe-Gody?eid=716105#opis"
     },
     {
       "id": "iryb-spektakl-wilijo-na-poziomie-650",
       "title": "Spektakl „Wilijo na poziomie 650”",
       "category": "Spektakl",
       "start": "2026-12-12T18:00",
-      "end": null,
+      "end": "2026-12-12T19:30",
       "venue": "Dom Kultury Rybnik-Chwałowice",
       "description": "O wydarzeniach historycznych można opowiadać przez pryzmat ludzi, których dotknęły. Spektakl „Wilijo na poziomie 650” przybliży strajk podziemny w KWK Piast w grudniu 1981 roku oraz jego konsekwencje dla górników i ich rodzin. Przedstawienie zostanie wystawione w sobotę 12 grudnia 2026 roku o godz. 18:00 w Domu Kultury w Rybniku-Chwałowicach przy ul. 1 Maja 91b. Bilety kosztują 45 zł , a z Rybką 36 zł . Można je kupić w kasie domu kultury oraz w sprzedaży internetowej. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
       "sourceName": "iRybnik",
@@ -1082,11 +1291,22 @@
       "title": "Osiecka Królową Piosenki: koncert w Rybniku",
       "category": "Koncert",
       "start": "2026-12-13T18:07",
-      "end": null,
+      "end": "2026-12-13T20:07",
       "venue": "Klub Odyseja",
       "description": "Piosenki Agnieszki Osieckiej zabrzmią w kameralnej odsłonie w Klubie Odyseja w Rybniku. W programie znajdą się utwory znane z interpretacji m.in. Maryli Rodowicz, Marka Grechuty, Edyty Geppert i Skaldów. Data: 13 grudnia 2026 roku (niedziela), godz. 18:07 Miejsce: Klub Odyseja, Rybnik Bilety: dostępne w serwisach KupBilecik, Biletyna i Biletomat. Ceny nie podano. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Podczas koncertu zabrzmią utwory, które przed laty wykonywali m.in. Edmund Fetting, Krystyna Janda, Łucja Prus i Seweryn Krajewski. To muzyczna podróż przez piosenki pełne charakterystycznych tekstów i melodii, które na stałe zapisały się w polskiej kulturze.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/osiecka-krolowa-piosenki-koncert-w-rybniku"
+    },
+    {
+      "id": "bilnya-zdolni-i-skromni-testy-nowych-skeczy-202612161800",
+      "title": "Zdolni i Skromni - Testy nowych skeczy",
+      "category": "Kabaret",
+      "start": "2026-12-16T18:00",
+      "end": "2026-12-16T19:30",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/kabaret/Zdolni-i-skromni/Testy-nowych-skeczy?eid=714508#opis"
     },
     {
       "id": "dk-bog-11145-ogolnopolski-konkurs-plastyczny-moj-przyjaciel-wyobraznia",
@@ -1122,15 +1342,26 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/najdrozszy-122026.html"
     },
     {
-      "id": "tzr-golo-i-wesolo-sylwester-w-teatrze",
-      "title": "Goło i wesoło. Sylwester w Teatrze",
-      "category": "Impreza",
+      "id": "bilnya-najdrozszy-spektakl-komediowy-202612201500",
+      "title": "Najdroższy - spektakl komediowy",
+      "category": "Spektakl",
+      "start": "2026-12-20T15:00",
+      "end": "2026-12-20T16:30",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🎭✨ \"Najdroższy\" to błyskotliwa komedia o pechowcu, który za wszelką cenę próbuje odmienić swój los! 😄 Absurdalne sytuacje, zaskakujące zwroty akcji i humor w paryskim stylu – baw się do łez! Sprawdź repertuar i zarezerwuj bilety już dziś! 🎟️❤️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Najdrozszy?eid=707088#opis"
+    },
+    {
+      "id": "bilnya-golo-i-wesolo-202612311800",
+      "title": "Goło i Wesoło",
+      "category": "Spektakl",
       "start": "2026-12-31T18:00",
-      "end": "2026-12-31T21:30",
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Kto z nas nie marzył o wielkiej karierze gwiazdy filmu czy rock'n'rolla? Na prawie taki sam pomysł wpadła grupka przyjaciół, która postanowiła zostać... striptizerami. Jak im poszło? Dowiecie się w przezabawnym spektaklu Goło i wesoło. Jedno jest pewne - będzie gorąco!",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/golo-i-wesolo-sylwester-w-teatrze.html"
+      "end": "2026-12-31T20:30",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🤔 Kto z nas nie marzył o wielkiej karierze gwiazdy filmu czy rock'n'rolla? 🎸 Na prawie taki sam pomysł wpadła grupka przyjaciół, która postanowiła zostać... striptizerami 🙊 Jak im poszło? Dowiecie się w przezabawnym spektaklu Goło i wesoło. Jedno jest pewne - będzie gorąco! 🔥.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Golo-i-Wesolo?eid=712049#opis"
     },
     {
       "id": "dk-chw-koncert-best-film-soundtracks-20270116",
