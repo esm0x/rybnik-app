@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T22:46:27",
+  "generated_at": "2026-10-30T05:44:40",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,26 @@
     }
   ],
   "items": [
+    {
+      "id": "f21c039af022cd8fbe7e7f4409b8bbb138d23f07",
+      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1p5X2xNcDJFcTF6YmxYVFZfdGh4VHQxX1MzdW1MbmR4U2l4M1JRLXgyeWk1S3pHT0FGQi1ubFpRangzNzBuUHI4bHNFTmNRZFpMU2otNndnWkhQX29IN3BpSnhJaW5hSzc0Q3pvZDNEaVhZYXRUeWJhaFpjOWYtN1p5cFY?oc=5",
+      "published": "2026-10-29T23:02",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5082e88a3e5ff656d7ef7ff0bbf771a5e591138d",
+      "title": "Jak ustawić narożnik w salonie, aby dobrze wykorzystać dostępną przestrzeń?",
+      "summary": "Przemyślany wystrój pokoju dziennego gwarantuje domownikom swobodę poruszania się oraz sprzyja codziennemu wypoczynkowi w gronie najbliższych. Kiedy wybierasz centralny mebel wypoczynkowy, często zastanawiasz się, jakie położenie zapewni najwyższy komfort wszystkim mieszkańcom. Właściwe…",
+      "link": "https://www.radio90.pl/jak-ustawic-naroznik-w-salonie-aby-dobrze-wykorzystac-dostepna-przestrzen.html",
+      "published": "2026-10-29T23:01",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "e37775a813aef570463f55ed1b1ce23f722f4ae5",
       "title": "„RysujeMY” w Olzie. Zaprezentowano przegląd sztuki dziecięcej [ZDJĘCIA]",
@@ -66,16 +86,6 @@
       "published": "2026-10-29T17:40",
       "source": "nowiny.pl",
       "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "610e008091704e8dfe9ba0999ca60aff86886524",
-      "title": "www.rybnik.com.pl",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mbE54YTFoeWEtSnZjVG1nS0gxTFBsbkpvVTV5V1p1T2s0d0dkTE1jR2l4TWlBU2NjSk9jcTRHTDlTRUdfaU1qQS15a01aT2RNQ3hKMzB4Ykd4VktqSkE?oc=5",
-      "published": "2026-10-29T17:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -289,16 +299,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "aae3681bee4d0dfc34ede2f99e5489546b9c453a",
-      "title": "wiadomości, baza firm i ogłoszenia • Portal",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2V3MVNwc0lyRE85WHhmYjNWR1NxellIaWxyaEgxcXNWOHV1cFRHOHJlTnNtQWRUMDFtZHZDNmJYQWhzR2xjeTF5Q1RacEtTTXJBVTRBaXNCbV9wWVdJaWU5RHNMTk1XaTgxZU9LbFdOQXlzbkhZcmJxOU5DU2FkeDFsSEQtUHhGY1ROTFBaX0NUVW9OaHl2Q0I2dWgzZ1NXQ0xvaVUzOUZ5REhQQXhDazVkNHhJOVNuUXY4MUQxRk4wMnBMQkM0Wg?oc=5",
-      "published": "2026-10-29T00:28",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "85b3406bcfb324a309458072f6ea780897afbb1a",
       "title": "Akcja Zima w Rybniku",
       "summary": "Już od początku listopada służby miejskie rozpoczynają całodobowe czuwanie nad przejezdnością dróg i bezpieczeństwem mieszkańców. Dowiedz się, jakie tereny odśnieża miasto, a jakie obowiązki leżą po stronie właścicieli prywatnych posesji.",
@@ -345,16 +345,6 @@
       "link": "https://www.radio90.pl/od-pozyczonej-wiertarki-do-sieci-swiatlowodowej-rybnicki-leon-swietuje-25-lecie.html",
       "published": "2026-10-28T23:01",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0ea5dacf00704803e31614462b81cca195c5cf30",
-      "title": "„Zostawię tylko na chwilkę”. Strażnicy pokazują kolejnych „mistrzów” parkowania (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUWFwU0NUSXNPN19MbTEtZmdqcU9YMFhBbzlkRFJWcVhHdkZvdGUyelJYWFJTamFuMmU4MHRlc3FSRnczZDFSaUNEZ2NCM2N1YnBtbXFxQnEwdlBlZWZsYmVOZG54WnhtTXctazVjUUExY0tCQlZ4ems4WVZRNEI0Tzd0UDBxUG5OZC1XYzROcVloQTZrREtQUnJwWDVzVXNjLVJLNWpzNFJfdTRLZWV4RmFDSk9LMW9PVkZKSktIVzJnMFNZT25fZXhzYlJ1Q3U4UUEtRVRB?oc=5",
-      "published": "2026-10-28T20:44",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -469,6 +459,16 @@
       "priority": "ALERT"
     },
     {
+      "id": "c9037d07c34cd5b59528f25add231ed8545adeda",
+      "title": "„Zostawię tylko na chwilkę”. Strażnicy pokazują kolejnych „mistrzów” parkowania (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSjFFV0tuY2I3OFFRSTlZZWdHMlIzYU5rZWJNWjJoNExrODI1QTRORW1SQ0ZCSVRLaERfcnJ2Q1JOSjRmN0VMRnpSN1RJcU1mRWNpc1pSSGxWME1Zd1dTLTZ6VXpGVnViaWNBeUdub3JfNE1jM1dwbnRzLTEzaU51THJfZlA1eDU2cndXZ2NFd0M5LXAwNElXODVnVGtlS2xiajc3WElYdno1M09pVFplT3QyaE5QS01ORUNyendSMWw4bVJ6cXd5T2ltZllBaDJKakFB?oc=5",
+      "published": "2026-10-28T14:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "d2713b006779746905f6653ce425c9cee6316083",
       "title": "Wymiana opon na zimowe. Czy to już czas na taką decyzję?",
       "summary": "Wymieniliście już opony? Wulkanizatorzy zalecają, by to zrobić gdy temperatury w dzień spadną poniżej 7 stopni Celsjusza. Na razie zimne mamy tylko noce i poranki ale sezon na wymianę opon już się zaczął.",
@@ -569,16 +569,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "0d23a961ea585c7a9f7dc007ee78d609918cbb2c",
-      "title": "Spotkanie otwarte z Przemysławem Czarnkiem w Rybniku. Poruszy m.in. tematy gospodarki i energetyki",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYXNjYlBrX3RxNWw4YlNXRHd5RFFMV3FXbUpCTUFfbEFLR2RNZEkzbC1sV1pILVMtYmhOX3Y1UU81d09CTkdISUVCUUJlM3l6VWhqN1h1V01HWnJjOFBmc05IcVJJVmJXa2d2Zk1peHo5aFV6MlRKd2tMZi1aMWVaWEkyUVM4X3FZNWhUNmFybXQxZVhoYm84RENWQktnYXBnRFNoOXFmNHdhTkVhcm1qQXpqczRxQTBmV1A0eU5qWUdzbEdsVUFEOTVHZlpPZnpHWlZPZnJxSTRvUlNJdExwelEzTUlyOXlzSmc?oc=5",
-      "published": "2026-10-27T20:46",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "8fb5393631929cf4f9bc2786dfd91d34f342de71",
       "title": "Będzie inwestycja w centrum Rybnika. Miasto za kilka milionów sprzedało teren przy ul. Za Komendą [ZDJĘCIA]",
       "summary": "Co najmniej 5-kondygnacyjny obiekt usługowy powstanie na działce przy ul. Za Komendą w Rybniku, miasto informuje o sprzedaży miejsca w ścisłym centrum Rybnika, w okolicy dworca kolejowego i w sąsiedztwie biurowca K1.",
@@ -629,11 +619,21 @@
       "priority": "NORMAL"
     },
     {
-      "id": "da70523aa1aa1604de92280ec5c34fa591b5177d",
+      "id": "ed9287950db4297b96a413a27999d3cfde7e032f",
+      "title": "Studiujesz i pobierasz rentę rodzinną? Nie przegap ważnego terminu",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOHloZFgwTG1aaldOT3I1YnI0SDJ1dkZBZnZjRlVudnhpY2lWdmpSTkFRV09KN1ktYlpkcGNIMW1GNkpHZUdObVVqVG5MYUN5dVRlM3BRbl9abUpCRUhhd3dIdHkxcGZIcE1JQXVrS3VUVUZ4T0puYkpWTGlnLXBTVXJRd2V3Smw4YzBSVGFYcE9TWUVpNm9yVDlZb3JPWDd6emtaYkZwYkRSUFlrUEp0dVJWVnJTZVR2WDIyLWlQUU8?oc=5",
+      "published": "2026-10-27T11:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5ecf100ad7ece3e260b92afe169bcd0a7ea4c25a",
       "title": "Złoty sukces w Szklarskiej Porębie! Młodzi szachiści MKSz Rybnik drużynowymi mistrzami Polski",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSTV0b3E5R0J0ZzlYWGFoV2VyUUE0NGZ5YktiQTdDaF9aVlR2RGRqTlVHa2JmZFdTaEpOOGUzWjRTMjJoV0YySmNESG8zcm5sUGRYN0dEbGJUTVVMbGozSHh5anRDczZFQkhrb3otazVDVmRuQ1E0Vjl6VFlEMEJDaVRMT3dVNThkWFRvYzM5SnJ3NFJWQVVIaEZVTEdtNFNNX1F6NEhOdm00dENLNzdiTS01Mk5raGlDU2VIb0dFVHNPMVpNQW1Pc3pBOGVTb0MtR0pqRHdzblp5aGtkR3RXeEU0YXJiYTg?oc=5",
-      "published": "2026-10-27T14:40",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRUEycVFaSGJIZEFrM3ZzZmpTWXJGeXNzZjZMVkRaelUzT2otcWhEV1poeHNuY1UzZnRQVmJGMm5rZXBOM1E3N1hmdEt0Y3FNdDAxWGRBZ2RtVHFCazNINENfRjFyZFlnWWxfUlk4NHJaV0puRG84MnVxZ1dMOTdRZFcxaTdaYThHVmtVczVfUGF6TEpYOG90ZHp6YkdRcUZ1ZHZOeFpxWmwxY2hPS1RxY1VaaEtTVU9hZlFjWTF2X0h6dDR3ZmRRZ1pxVGZDR2xJUHE4M1lyNFpaRzN1N3duNnZPTFk?oc=5",
+      "published": "2026-10-27T10:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -655,6 +655,16 @@
       "link": "https://www.radio90.pl/oszusci-znow-w-akcji-oszukuja-nawet-metoda-na-znicze.html",
       "published": "2026-10-27T08:50",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "26d89823e6e5cbc79b5131adf4be2c9f96a2666f",
+      "title": "Mistrzowie i wicemistrzowie Polski wracają do gry! TSMT Rybnik Futsal Club rozpoczyna nowy sezon",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaHc5MHZvLUhQWmNlQWgza3Awckp2Z0RkRFpTZGVNV2JZRXYzQzdGaEsxT3o4N0ZsNWJCalh4b0VpcXAySFFNXzBqM2NrQ05rTnRrVklFNm5oamswNVRlUjNJRzQ2dTNIZXlwMmE0TjFIUGkwTkxBYlRpcHBjSzV6MkxCMV9idm0xSEluYlJ1VlJVVDJRSHFwc1JoVmNqYV9XQXJ0dXpvRG9EY3dFaGNOeWZmWEZFOEx4SkpxemlWamh3WlZlY1hZaFVnekxQWUNiV1hKS0hoTzlQeWhMb09RZXAyVjBmN3dp?oc=5",
+      "published": "2026-10-27T08:00",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -884,16 +894,6 @@
       "summary": "Najlepszego seniora, najlepszego juniora, a także zawodnika, który był największym objawieniem minionego sezonu 2026 wybiorą kibice żużlowego INNPRO ROW-u Rybnik. Zawodnik, który uzyska najwięcej ich głosów otrzyma statuetkę Rekina. Głosowanie już trwa. Pokażcie, kto waszym zdaniem zasłużył na…",
       "link": "https://www.radio90.pl/innpro-row-rybnik-kibice-wybieraja-na-najlepszych-zuzlowcow-zakonczonego-sezonu-w-internetowym-glosowaniu.html",
       "published": "2026-10-25T14:35",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f43629644121ca49746f6b912ecd27f29ef81f1d",
-      "title": "Pojawią się nowe rośliny w Czerwionce-Leszczynach. Zapowiadają jesienne nasadzenia. „Na terenie całej gminy”",
-      "summary": "Jesień - jak zauważają miejscowi urzędnicy - już się w niej rozgościła, ale prawdziwie jesiennie w Czerwionce-Leszczynach ma się dopiero zrobić. Urzędnicy tamtejszego Urzędu Gminy i Miasta zapowiadają nowe, jesienne nasadzenia na jej terenie. Mają się nimi zająć pracownicy Zarządu Dróg i Służb…",
-      "link": "https://www.radio90.pl/pojawia-sie-nowe-rosliny-w-czerwionce-leszczynach-zapowiadaja-jesienne-nasadzenia-na-terenie-calej-gminy.html",
-      "published": "2026-10-25T13:10",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
