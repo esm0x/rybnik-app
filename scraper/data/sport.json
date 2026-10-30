@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T05:44:46",
+  "generated_at": "2026-10-30T12:52:44",
   "count": 60,
   "failures": [],
   "teams": [
@@ -703,7 +703,7 @@
       "teamId": "row-1964",
       "competition": "III liga, Kolejka 17",
       "date": "2026-11-14",
-      "time": null,
+      "time": "12:00",
       "home": "Miedź II Legnica",
       "away": "ROW 1964 Rybnik",
       "isHome": false,
