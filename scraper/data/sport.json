@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:52:44",
+  "generated_at": "2026-10-30T22:18:35",
   "count": 60,
   "failures": [],
   "teams": [
@@ -675,10 +675,10 @@
       "home": "Raków II Częstochowa",
       "away": "ROW 1964 Rybnik",
       "isHome": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 3,
       "scoreNote": null,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "stage": "REGULAR",
       "url": null
     },
