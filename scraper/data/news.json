@@ -1,8 +1,68 @@
 {
-  "generated_at": "2026-10-31T21:33:14",
+  "generated_at": "2026-11-01T06:00:05",
   "count": 120,
   "failures": [],
   "items": [
+    {
+      "id": "cef189980e8a041ceaa1260bd85fd8b03bc41a62",
+      "title": "Jastrzębski Marsz Niepodległości przejdzie ulicami miasta [ZAPOWIEDŹ]",
+      "summary": "11 listopada ulicami Jastrzębia-Zdroju przejdzie Jastrzębski Marsz Niepodległości. Uczestnicy dotrą na plac Dominika Zdziebły „Kordiana”, gdzie zaplanowano koncerty, pokaz musztry paradnej i wspólne śpiewanie pieśni patriotycznych.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251777-jastrzebski-marsz-niepodleglosci-przejdzie-ulicami-miasta-zapowiedz.html",
+      "published": "2026-11-01T05:11",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a7b087c7199fc1c3593e8f257d3ccbc1998ba476",
+      "title": "„To ona nauczyła mnie żyć i odeszła”. Siostra Dolores o miłości silniejszej niż śmierć",
+      "summary": "Henry planował ślub ze swoją dziewczyną. Po jej nagłej śmierci opowiedział siostrze Dolores, dlaczego chce poświęcać życie innym. Zakonnica z klasztoru Annuntiata w Raciborzu wspomina tę rozmowę i opisuje afrykańskie zwyczaje pogrzebowe.",
+      "link": "https://www.nowiny.pl/wiadomosci/251842-to-ona-nauczyla-mnie-zyc-i-odeszla-siostra-dolores-o-milosci-silniejszej-niz-smierc.html",
+      "published": "2026-11-01T05:11",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9b12a971d332cc89f55a83b1a07a51b52f20bf73",
+      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94OUdFUVplZk04MzBtaGhvMWNpOURSazZmWUNGYTZaenRyQjVlYnljS0pYc2hTQXE3NXJfUG1COHVoTmpxSnJucFZwQzJWb2VHdHJaejMzZzZMc0lRVkl2LUdJckNPNXRWRHRSbkRIeXg4N004TG02OWprZw?oc=5",
+      "published": "2026-10-31T23:08",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2743d896eb0b5ab867400f3905b917c6eeed8a44",
+      "title": "Posłanka zajęła się tematem „ołowianych dzieci”. Zgłasza potrzebę badań i monitoringu zagrożeń",
+      "summary": "Toksyczna działalność naraża dzieci na oddziaływanie ołowiu i metali ciężkich uważa posłanka Gabriela Lenartowicz. - Zwróciłam się z pytaniami do Ministry Zdrowia w sprawie potrzeby zapewnienia systemowej profilaktyki zdrowotnej dzieci zamieszkujących tereny przemysłowe i poprzemysłowe, gdzie…",
+      "link": "https://www.nowiny.pl/wiadomosci/251906-poslanka-zajela-sie-tematem-olowianych-dzieci-zglasza-potrzebe-badan-i-monitoringu-zagrozen.html",
+      "published": "2026-10-31T22:17",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "683d9cfc82175c6271f525b749fe72d9f9787bfd",
+      "title": "Miasto bez…cmentarza komunalnego",
+      "summary": "Gdyby sprawa nie dotyczyła tak poważnego zagadnienia, jak pogrzeb bliskich osób mogłaby być nawet zabawna. Ale, kiedy w 1963 roku powstawało miasto Jastrzębie-Zdrój, nie dysponowało cmentarzem komunalnym. Najwyraźniej w planach więcej miejsca zajmowało życie niż to, co nieuchronnie przychodzi po…",
+      "link": "https://www.nowiny.pl/wiadomosci/251905-miasto-bez-cmentarza-komunalnego.html",
+      "published": "2026-10-31T21:58",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "fb3725123401f16eb85940fc01e8c1ee96ac27ee",
+      "title": "Idziesz na cmentarz? Możesz pomóc jastrzębskiemu hospicjum",
+      "summary": "Pamiętając o tych, którzy odeszli, można pomóc tym, którzy nadal walczą z chorobą. 1 listopada na jastrzębskich cmentarzach prowadzona będzie kwesta na rzecz Hospicjum Domowego w Jastrzębiu-Zdroju. Zebrane pieniądze zostaną przeznaczone na bieżącą działalność placówki.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251903-idziesz-na-cmentarz-mozesz-pomoc-jastrzebskiemu-hospicjum.html",
+      "published": "2026-10-31T21:40",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "dd3bc587c641ecf0ebccd6ca05241c6e67c72ac9",
       "title": "Skolim rozgrzał publiczność w Pszowie! Zobacz zdjęcia z koncertu [ZDJĘCIA]",
@@ -134,16 +194,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "ebb7e6402a4e4e4ef9201024a374ef603ebaee73",
-      "title": "Wiara, która nie ugina się pod naciskiem świata. Święto Reformacji w Jastrzębiu",
-      "summary": "W parafii ewangelicko-augsburskiej w Jastrzębiu-Zdroju odbyło się uroczyste, pełne głębokiej refleksji nabożeństwo, które stało się żywym echem historycznych zmagań o wolność sumienia i niezłomne trwanie przy Słowie Bożym. 31pażdziernika ewangelicy obchodzą Święto Reformacji.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251887-wiara-ktora-nie-ugina-sie-pod-naciskiem-swiata-swieto-reformacji-w-jastrzebiu.html",
-      "published": "2026-10-31T13:06",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "bafe5fa1b2aac9254ba3535e38efb23fa94a8970",
       "title": "Centrum przesiadkowe w Leszczynach już w budowie [WIDEO]",
       "summary": "W Czerwionce-Leszczynach rozpoczęła się budowa centrum przesiadkowego, które ma połączyć kolej, autobusy, samochody i rowery w jednym miejscu.",
@@ -184,16 +234,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "cbf0f0604b483986c2ac9ffeeed9fb437afebbf1",
-      "title": "Górnik z Marcela na podium konkursu PGG. Rywalizowało ponad tysiąc pracowników",
-      "summary": "Marek Knapik z KWK ROW Ruch Marcel zajął trzecie miejsce w finale konkursu „Pracuję bezpiecznie 2026”. W tegorocznej rywalizacji sprawdzającej wiedzę o bezpieczeństwie pracy uczestniczyło ponad tysiąc pracowników Polskiej Grupy Górniczej.",
-      "link": "https://www.nowiny.pl/wiadomosci/251869-gornik-z-marcela-na-podium-konkursu-pgg-rywalizowalo-ponad-tysiac-pracownikow.html",
-      "published": "2026-10-31T10:41",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "2cee5cfb407d1345fd1f965609f83e22b46640a8",
       "title": "„Koleje Śląskie na torach historii” – wyjątkowa monografia na 15-lecie regionalnego przewoźnika już w sprzedaży",
       "summary": "„Koleje Śląskie na torach historii” – wyjątkowa monografia na 15-lecie regionalnego przewoźnika już w sprzedaży.",
@@ -201,16 +241,6 @@
       "published": "2026-10-31T10:16",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e619badc9790b4d369926c246d8b3161fbe4c225",
-      "title": "Modelka, muza, korespondentka wojenna i kucharka. Biografia Lee Miller, która nie dała się zamknąć w żadnej roli",
-      "summary": "Pozowała do zdjęć w modzie, inspirowała surrealistów, fotografowała dla „Vogue'a”, a w czasie wojny została korespondentką. Pod koniec życia zajęła się eksperymentami w kuchni. Carolyn Burke w biografii Lee Miller sprawdza, jak jej bohaterce udało się wymknąć każdemu stereotypowi. Książka ukazała…",
-      "link": "https://www.nowiny.pl/wiadomosci/251885-modelka-muza-korespondentka-wojenna-i-kucharka-biografia-lee-miller-ktora-nie-dala-sie-zamknac-w-zadnej-roli.html",
-      "published": "2026-10-31T10:10",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -231,16 +261,6 @@
       "published": "2026-10-31T08:35",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "7128fe505175a0fb24315df1de659d0d40c377f5",
-      "title": "Ile firm przybyło, ile zniknęło, a ile zawiesiło działalność? Dane dla wszystkich gmin powiatu raciborskiego",
-      "summary": "W październikowym wydaniu „Liderów Biznesu” przyjrzeliśmy się różnym aspektom przedsiębiorczości w powiecie raciborskim. Na prośbę czytelników wracamy do tematu i przedstawiamy szczegółowe dane dla wszystkich ośmiu gmin: liczbę zarejestrowanych podmiotów gospodarczych, nowych rejestracji, wykreśleń…",
-      "link": "https://www.nowiny.pl/wiadomosci/251797-ile-firm-przybylo-ile-zniknelo-a-ile-zawiesilo-dzialalnosc-dane-dla-wszystkich-gmin-powiatu-raciborskiego.html",
-      "published": "2026-10-31T08:29",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -274,32 +294,12 @@
       "priority": "NORMAL"
     },
     {
-      "id": "b7396f1b6b54ea81879ea3b1dba344f307fda28e",
-      "title": "Racibórz i okolice będą się wyludniać. Kto będzie pracował w raciborskich firmach?",
-      "summary": "Powiat raciborski do 2060 roku straci ponad jedną czwartą mieszkańców, ale potencjalny rynek pracy skurczy się aż o 42 proc. Wyzwanie odczują nie tylko firmy szukające rąk do pracy, ale też samorządy, które będą musiały dostosować sieć szkół i opiekę senioralną do nowej rzeczywistości.*",
-      "link": "https://www.nowiny.pl/wiadomosci/251640-raciborz-i-okolice-beda-sie-wyludniac-kto-bedzie-pracowal-w-raciborskich-firmach.html",
-      "published": "2026-10-31T05:28",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "cd08b08c8e981a9e21cdc5c6fddb0df46f80fd72",
       "title": "Od pożyczonej wiertarki do sieci światłowodowej. Rybnicki Leon świętuje 25-lecie",
       "summary": "Pożyczona wiertarka, Fiat 126p i pierwsze przewody prowadzone między blokami na rybnickich Nowinach – tak w 2001 roku zaczynała czwórka przyjaciół. Dziś Leon obsługuje blisko 30 tys. klientów, zatrudnia niemal 100 osób i rozwija sieć światłowodową również w mniejszych miejscowościach oraz na…",
       "link": "https://www.radio90.pl/od-pozyczonej-wiertarki-do-sieci-swiatlowodowej-rybnicki-leon-swietuje-25-lecie.html",
       "published": "2026-10-30T23:01",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d29be1d4bd5dee1125b08f88c48f29c9dd14e6c3",
-      "title": "„Antypody” w MDK Rybnik. Rybnicki kolektyw M6 zaprasza na wystawę i panel multimedialny (patronat)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdmQzSkNXek56SVBkd1dyOERhTVZDMnJjMjRfb3JQMFJBekxpMFhrQjluM2JSQ1l2OGwxeV8wWGdBMl90ekxzbEdlZk5RellBb25nNzlMcmdYTkJhYXN4cElfVFZSYjIzSHE0eWpRcTNvZW9aSWpPOGgtTmRKSjM5LWhKNlgtQ0p2SjdTc21acXFJbzdRUnNiUVpDZUl1WmhKbm5VNlc0NzBMaEZBQlllOG56dG9DWkRXXzZHOXhMMHNIeGNhRm9JWGpKMUN5RjljSF9EQkZhNDduMmY0QWtydjlWRTNPZw?oc=5",
-      "published": "2026-10-30T18:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -474,16 +474,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "07f4918bfb85cbd6e292e8a8e726ac5dc997e726",
-      "title": "Pierwszy obraz po numerach: od jakiego poziomu trudności zacząć?",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHJyMWh3ZG9Jd2wwVW9jeERibmh3YVRUbTY4cndmQlpmNHpTSG1NZmxNX3llZ3cxUjhudHBBSGQyWWs4YWFTc2c3Q29saUJvcTVDQjZ3T1BJVU4zZEs3RnRfc0J2ajlJUTVlSlY5aFVWQ3BWLThZTFl5Ul8zbVc5QzhOOVdOUEVpZ1VVMFgtdVBjRTVRdjNhd1phZGMyN0YyWjZVdmI2VzFKWXI5NXFXRDh3clFjOUVOWVFHQg?oc=5",
-      "published": "2026-10-30T07:06",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "871941455e008241d9c8d10c3b538f09bdf98a40",
       "title": "Nie tylko opieka, ale i relacje. Rybnicki PCPR wyznacza nowe standardy wsparcia dla seniorów (foto)",
       "summary": "",
@@ -521,16 +511,6 @@
       "published": "2026-10-30T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f21c039af022cd8fbe7e7f4409b8bbb138d23f07",
-      "title": "wiadomości, baza firm i ogłoszenia • Portal",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1p5X2xNcDJFcTF6YmxYVFZfdGh4VHQxX1MzdW1MbmR4U2l4M1JRLXgyeWk1S3pHT0FGQi1ubFpRangzNzBuUHI4bHNFTmNRZFpMU2otNndnWkhQX29IN3BpSnhJaW5hSzc0Q3pvZDNEaVhZYXRUeWJhaFpjOWYtN1p5cFY?oc=5",
-      "published": "2026-10-29T23:02",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -588,16 +568,6 @@
       "title": "Chcesz odwiedzić chorego? Rybnicki szpital ogranicza odwiedziny na internie!",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNEtTWEZlTlp4MkVGckpKazRrbXRFNWdBcmgwV2VJY3hmc19fV1N0OGV6WjZrSU9SSXdYb2k5NkVkbWR5SnczaXlYUmJMN1lreXFDbjVfMVVyb0Q5djFYNERPWFljbzVCU3RHWWwzUVhmTUw0UlhqeVV6OWQzQXBIdUpXM1hFdGgwSm10QU5MdmsyakFuemt6NUsxSlIwSWlIanZGSERzb3FOUlBpblJDd0hqQU5fZi1uS2VZa2M5Zms3RnRaY3BvOTFHek8?oc=5",
-      "published": "2026-10-29T14:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e9be0979d8afde0f94fb430fc611ab3530e3b018",
-      "title": "Nowe mieszkanie w Katowicach? Na te dane warto zwrócić uwagę przed zakupem",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOUpLcU1KcWRIUjlXdkd6TUtTWEx6dmZwVllzeEF2al9GN1JqMjR2d0Ffd05kNDlZLVNPS01WMjY5NWFzME03N1NXbXd0WWswdVhqZkUta0VHenJXRnpEc1Q2NVAyUVk2ZTRkRzNBS09Md2FaZXNDeWp5Zlhvc09HQ1o3QzRPdnpSU2xydkRLZDRnNXdCX2hEVFdyTTNxN1ViZFhzaFVBRTRaVS1wVTgyU0JxaWVNRUFrMUtSOG9wV1VmajNkaV9MSTFObw?oc=5",
       "published": "2026-10-29T14:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
@@ -744,6 +714,26 @@
       "priority": "NORMAL"
     },
     {
+      "id": "407c8d41d257e975c67d741e95ac74ebdc9acde8",
+      "title": "Prestiżowe wyróżnienie dla TS Volley Rybnik. Brązowy Certyfikat Akademii Siatkarskich w rękach klubu",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSTVfXzFQNmI2UHhLYXJEMlU1R2JQb1NZS2pJWmFzakZjS0xsUEh2X2lFalNwb201RWZBc2hZeFI3c0hOTDhPU0RxVVVTUlRWZnl6azl3S0Y4NFdWb054TFdWOGxGeXUxVXV3T1hBQ2s5TUR2YzdvUnNVZlRqWXIwWHVTZVVYQXRKWUIweGNHS3pmbkFjQm5ScjdKai01TFJvWVY5U0xOWGRVNGQxRjRCQVljekhGMjBGdVdTbXRXZTV2c0ZqTHg4SnpEbHZKZUtVU1Jvdi1JelNBVWhCS1RTd0RaTk1pX2l0S3hGTktB?oc=5",
+      "published": "2026-10-28T19:36",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2b97435524f53f7ec9cc1cb9de086322c27e0fe1",
+      "title": "Prawie 100 tys. zł kar za reklamy w Rybniku. Rekordzista ma zapłacić ponad 33 tys. zł. ZDM ujawnia dane",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbW1fUmxNSTRyQVE2MUVEaUpTbUoydDU2LXl2MnJObUxoRmgxbEY5SFdZU21vOWJ0bmtfRDRFQXhla1Q3YzRiSGJkV09HdXZ4UWI2RXVVS3N0OXplVDJBZ1F3ODZRWmJUajEyRkdPb0NwZTNXaWJUdEh4UHVaQUQwdXpYcms4SUo3QU44T1k5al9WY2ZvRHRuejQ2R0lkZFItX2FjOG9tTjN4MUpTMlgwNHNMNFEzN25yY3ZUd1h4YUppbGs0VzhibTBvVUtKUEZCYjNUNHBmY3NQZzZFdzJTejlCTk9kSjhvWTVONWY2ZlM?oc=5",
+      "published": "2026-10-28T18:10",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "b7ca9b412150e6aaab067f1f6e191fa34eafd43a",
       "title": "Ostrzeżenie synoptyków: uważajcie, będzie mgliście",
       "summary": "Mgła w nocy i o poranku! Ostrzeżenie synoptyków o niebezpiecznym zjawisku pogodowym dotyczy prawie całego województwa śląskiego.",
@@ -752,6 +742,16 @@
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "ALERT"
+    },
+    {
+      "id": "6fe0d75edd19edc8ec2159c83195e4f54e847773",
+      "title": "Czeka nas „najdroższa zima stulecia”? Czarnek w Rybniku uderza w Tuska",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMGZTampMS01laWxsWnJ0YWtGVEJpcVBXampILTA1SlJHbklBbVVJUi11X3RWUGVmdVRZS05qV3Y5blc3Q2c4bWtLS0FUbDR1Nk41cDQtWVZQQkxfV0lfanE0VmZvX1RVd1J4UDJSLUNtaTNRc2ZrZWNpQkRxaDF2YWh2cG15YlJoQ01Lc0hpaUZlYlZNbzZ2RUpMS0ctakd2RVlIaWtkbEJVT1lUdGNsNmhoV0VFSWxPMkhaNnk5Q0xyMW8xQ0E?oc=5",
+      "published": "2026-10-28T17:08",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
     },
     {
       "id": "3b2afb07d440208a4e98924f0c43848d851ac7a9",
@@ -1014,6 +1014,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "c76c7efc2d082ae6c899a7ea25297ccfe31fd884",
+      "title": "Ruch wahadłowy między ul. Pojdy a Dworcową. Zmiana organizacji ruchu w Czerwionce-Leszczynach",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT0Q3MFYtM2pPNEk3ZzZKX3NPb0w1c1VGWU5LT3dzQkhOZURpb19MWnpLVi05NW1LSWUteng3bjB1OWh3Ym9aU2U1bWdtdy12eTdLSmZWa0J6ekloaTFKazJ2SkZUQkVIRThPcUNHMzZqSWFwZFFvOGtxY1VCV2VlQnd5TWVySWtVcXR4d3hlaGxaeC1MaDFHNnF3Q3NRR1JRck1JaHhFNUh1SnNiRzZ5VHpmTkhxRDQ4bThtcF93WVhOeDZRMmpPekRmVllNc3BsQkJORlJqM0gxUjBUeW1TVXJuRQ?oc=5",
+      "published": "2026-10-16T07:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
       "id": "de1bb448c420443441e610cc9a41f3f2cb5f9b79",
       "title": "PRAWIE 29 MLN ZŁ Z UNII EUROPEJSKIEJ NA REGULACJĘ STOSUNKÓW WODNYCH NA TERENACH POGÓRNICZYCH W RYBNIKU",
       "summary": "W Rybniku rusza projekt regulacji stosunków wodnych, w ramach którego na osiedlu Morcinka przebudowana zostanie kanalizacja deszczowa i powstaną podziemne zbiorniki retencyjne, zapobiegające podtopieniom na terenach pogórniczych.",
@@ -1108,16 +1118,6 @@
       "title": "WYŁOŻENIE PROJEKTU PLANU MIEJSCOWEGO PRZY ULICACH GRUNTOWEJ I GLIWICKIEJ - MPZP 54-41",
       "summary": "Od 7 października do 4 listopada 2026 r. można zapoznawać się z projektem miejscowego planu zagospodarowania przestrzennego dla części miasta Rybnika obejmującej dwa obszary w rejonach ulic Gruntowej i Gliwickiej (MPZP 54-41). Uwagi do projektu można składać do 18 listopada 2026 r.",
       "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/wylozenie-projektu-planu-miejscowego-przy-ulicach-gruntowej-i-gliwickiej-mpzp-54-41",
-      "published": "2026-10-07T00:00",
-      "source": "rybnik.eu",
-      "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c8ecad7910ff483cea73400760df3ddfeedbcc89",
-      "title": "WYŁOŻENIE PROJEKTU PLANU MIEJSCOWEGO PRZY UL. OLSZOWEJ I BUDOWLANYCH",
-      "summary": "Od 7 października do 4 listopada 2026 r. można zapoznawać się z projektem miejscowego planu zagospodarowania przestrzennego dla części miasta Rybnika obejmującej dwa obszary w rejonach ulic Olszowej i Budowlanych (MPZP 54-60). Uwagi do projektu można składać do 18 listopada 2026 r.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/wylozenie-projektu-planu-miejscowego-przy-ulicach-olszowej-i-budowlanych",
       "published": "2026-10-07T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
