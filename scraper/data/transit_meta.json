@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-02T05:59:31",
+  "generated_at": "2026-11-02T15:46:16",
   "gtfs_url": "https://raw.githubusercontent.com/esm0x/miasto-engine/main/data/rybnik/gtfs.zip",
   "attachment_id": null,
-  "valid_from": "2026-11-01",
+  "valid_from": "2026-11-02",
   "valid_to": "2027-12-31",
-  "stop_count": 630,
-  "route_count": 45,
-  "sha256": "075422e239f8cc2361d1327ba340045d1e779316b114d830c17a42c3deab3c22",
+  "stop_count": 626,
+  "route_count": 44,
+  "sha256": "c75493020274fad199b1f948ff729424e15b48bb7b7324ef7030c2b45d76ec4f",
   "editions": [
-    "gtfs-kmr.zip?v=1793351921"
+    "gtfs-kmr.zip?v=1793603077"
   ],
   "failures": []
 }

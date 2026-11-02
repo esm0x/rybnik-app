@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T05:59:27",
+  "generated_at": "2026-11-02T15:46:05",
   "count": 60,
   "failures": [],
   "teams": [
@@ -680,7 +680,7 @@
       "scoreNote": null,
       "status": "FINISHED",
       "stage": "REGULAR",
-      "url": null
+      "url": "http://www.90minut.pl/mecz.php?id_mecz=2115067"
     },
     {
       "id": "row-1964-2026-11-07-mks-kluczbork",
