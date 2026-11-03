@@ -1,22 +1,227 @@
 {
-  "generated_at": "2026-11-03T14:11:53",
+  "generated_at": "2026-11-03T23:20:33",
   "count": 120,
-  "failures": [
-    {
-      "source": "nowiny.pl",
-      "error": "HTTPSConnectionPool(host='nowiny.pl', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='nowiny.pl', port=443) at 0x7f3b138ea300>, 'Connection to nowiny.pl timed out. (connect timeout=30)'))"
-    }
-  ],
+  "failures": [],
   "items": [
     {
-      "id": "d5a39f16653a00668631da6c04003875ed7af783",
-      "title": "Hubertus – święto myśliwych. Grzegorz Świerczyński opowiada o tradycjach i patronie myśliwych (foto, wideo)",
+      "id": "43441e92f6e3db6d1b73d9010c2ff2e9017024d5",
+      "title": "Rękawice do drobnych prac montażowych – dlaczego sam rozmiar to za mało?",
+      "summary": "Prawidłowe wyposażenie rąk podczas precyzyjnych zadań montażowych decyduje o komforcie oraz tempie realizacji zleceń. Wielu fachowców ogranicza się jedynie do standardowej tabeli rozmiarów, co niestety bywa bardzo mylące. Taka numeracja określa wyłącznie ogólny obwód dłoni, pomijając anatomię…",
+      "link": "https://www.radio90.pl/rekawice-do-drobnych-prac-montazowych-dlaczego-sam-rozmiar-to-za-malo.html",
+      "published": "2026-11-03T23:01",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f3a0bbe348651598c3b1503f9da4d7d478095375",
+      "title": "Plon niesiemy, czyli dzieje dożynek i symbole święta plonów w „Nieodkrytych skarbach pogranicza” w Nowinach Raciborskich",
+      "summary": "W wydaniu tygodnika „Nowiny Raciborskich” z 3 listopada Czytelnicy znajdą tematykę dożynkową, choć sezon świętowania efektów żniw mamy już za sobą. To kolejne, nowe cztery strony cyklu „Nieodkryte skarby pogranicza” przygotowane przez Mariusza Weidnera.",
+      "link": "https://www.nowiny.pl/wiadomosci/251981-plon-niesiemy-czyli-dzieje-dozynek-i-symbole-swieta-plonow-w-nieodkrytych-skarbach-pogranicza-w-nowinach-raciborskich.html",
+      "published": "2026-11-03T22:21",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "85c614c6fc3c5b32006443c43c8e15a018cf23db",
+      "title": "Ponad 26 mln zł na modernizację rybnickiego psychiatryka. Jak zmieniły się dwa pawilony?",
+      "summary": "Kliniczny Szpital Psychiatryczny w Rybniku zakończył modernizację dwóch pawilonów. Odnowiono cztery oddziały psychiatrii ogólnej oraz oddział psychiatrii sądowej. Inwestycje kosztowały łącznie ponad 26,3 mln zł.",
+      "link": "https://www.nowiny.pl/wiadomosci/251980-ponad-26-mln-zl-na-modernizacje-rybnickiego-psychiatryka-jak-zmienily-sie-dwa-pawilony.html",
+      "published": "2026-11-03T22:15",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6a98a814b0b36babf8bafbfb845e88f78dff4b4e",
+      "title": "Nowy wóz strażacki za 1,6 mln zł trafił do Rybnika. OSP Kłokocin wymienia Scanię z 2012 roku",
+      "summary": "Ochotnicy z Rybnika-Kłokocina mają nowy ciężki samochód ratowniczo-gaśniczy. Scania P420 4x4 kosztowała blisko 1,6 mln zł. Pojazd zastąpi wysłużony wóz z 2012 roku i został już przygotowany do udziału w akcjach ratowniczych.",
+      "link": "https://www.nowiny.pl/wiadomosci/251979-nowy-woz-strazacki-za-16-mln-zl-trafil-do-rybnika-osp-klokocin-wymienia-scanie-z-2012-roku.html",
+      "published": "2026-11-03T21:56",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "84999f708630fbbb50660531f6a9bc15ce934d9f",
+      "title": "Amelia Lipa zaprasza na koncert „Z miłości do Ojczyzny”. Wstęp bezpłatny",
+      "summary": "Pieśni o Polsce, jej historii i walce o niepodległość zabrzmią podczas koncertu Amelii Lipy. Wokalistka, która rozwijała swoje umiejętności w raciborskim MDK, wystąpi 8 listopada w Miejskim Ośrodku Kultury w Głubczycach.",
+      "link": "https://www.nowiny.pl/wiadomosci/251977-amelia-lipa-zaprasza-na-koncert-z-milosci-do-ojczyzny-wstep-bezplatny.html",
+      "published": "2026-11-03T21:35",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1a91975677a09bf3552bc7d6f401df8d142135c9",
+      "title": "Nie zatrzymał się na STOP-ie i doprowadził do zderzenia. 74-latek stracił prawo jazdy",
+      "summary": "Dwa samochody zderzyły się na skrzyżowaniu ulic Armii Krajowej i Kasztanowej w Jastrzębiu-Zdroju. Jedna osoba trafiła do szpitala, a 74-letni kierowca Hondy stracił prawo jazdy.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251974-nie-zatrzymal-sie-na-stop-ie-i-doprowadzil-do-zderzenia-74-latek-stracil-prawo-jazdy.html",
+      "published": "2026-11-03T21:14",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f4e4e78450d4173d084438087783402accf2b5be",
+      "title": "Voo Voo ponownie zagra w Raciborzu. Koncert już 3 grudnia",
+      "summary": "Zespół Voo Voo wystąpi 3 grudnia w Przystanku Kulturalnym Koniec Świata w Raciborzu. Grupa Wojciecha Waglewskiego powróci do klubu, w którym koncertowała już wielokrotnie. Tym razem zaprezentuje się w ramach trasy promującej najnowszy album „Dźwięczność”.",
+      "link": "https://www.nowiny.pl/wiadomosci/251973-voo-voo-ponownie-zagra-w-raciborzu-koncert-juz-3-grudnia.html",
+      "published": "2026-11-03T21:03",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b1dec42b0d07bf41e044e1e41759c45bc4f2b55e",
+      "title": "I Puchar Polski w szermierce: szpadziści RMKS-u Rybnik walczyli w Szczecinie",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQXVFeEJQdjFBeEZ6TTFXVHBfWUlMcmlNdHZKWFJWa3UxYmJtcmtMNmw3SGxWX2ktODNYS1pENkNxaWctOENHbEZSdXp2OF9YY1FfcjJjeU8wM3JoVFZhTE42RGM5MUZuTEU2M1E3b3lYZWxIQ0ZrLV9YUmNvajRtR0NhZS1UXzNWaFZNYzZJaThhMnpOc0tJdldVWGMxZS1iNzAtaVBLbnd4bDRkaE1PYUNQcWlIdjBSUWdSWVpxM3lySWRiX2JaZ3ZycmV2QjJreDNSdzdBdFlUakZ5cndXbUxnb1lqTExvUThmNmJLNkk?oc=5",
-      "published": "2026-11-03T13:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT3VISG5VR1JsekNWcTlTeHpIWDh2N08wcW42VXdrNVhxTEZOaFNsdHk4WDNrUnAxNmdFZnA1bk4zcDNYOG9hWmhwMjJFd3M3Z1MxdDlLeHR6TnhrTzVOUTFrbVZSWjRuM1ZDYUxzMEtqV2tqdk0zeGljcmpXbkNQM1VJLWd2V1FrMEozRHhiOWNvbUNMX09qX2hNRVFKU0dkMjExZnItbDFIcnl0YnZmMWdCUDZVWHBQOUJWMGpmQnRDMkxIaW1DUEthWnFGUQ?oc=5",
+      "published": "2026-11-03T20:27",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
+    },
+    {
+      "id": "04d0b2ebc1b27b9f7e2582e21bc7ae48269eb05a",
+      "title": "Tytani Wodzisław jadą na finał ogólnopolski! Uczniowie SP 28 nie przegrali ani jednego meczu [ZDJĘCIA]",
+      "summary": "Piłkarze ze Szkoły Podstawowej nr 28 w Wodzisławiu Śląskim wywalczyli awans do finału ogólnopolskiego turnieju „Z Orlika na Stadion”. Drużyna Tytani Wodzisław wygrała wszystkie pięć spotkań podczas turnieju makroregionalnego w Kędzierzynie-Koźlu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251972-tytani-wodzislaw-jada-na-final-ogolnopolski-uczniowie-sp-28-nie-przegrali-ani-jednego-meczu-zdjecia.html",
+      "published": "2026-11-03T20:05",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "25197a7c7fcebf1cd086458b2399d117d2277580",
+      "title": "PGE porozumiała się ze związkami. Jakie świadczenia otrzymają pracownicy Elektrowni Rybnik?",
+      "summary": "PGE GiEK porozumiała się ze związkami zawodowymi Elektrowni Rybnik w sprawie osłon dla pracowników w związku z wygaszaniem bloków węglowych. Uzgodniono odprawy, urlopy energetyczne i możliwość podjęcia pracy w innych spółkach Grupy PGE.",
+      "link": "https://www.nowiny.pl/wiadomosci/251970-pge-porozumiala-sie-ze-zwiazkami-jakie-swiadczenia-otrzymaja-pracownicy-elektrowni-rybnik.html",
+      "published": "2026-11-03T18:13",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "edf9667dc112fa3e4ca0d4a48ab390c09adca50a",
+      "title": "Ornitologiczne Mistrzostwa Śląska Kanarków i Ptaków Egzotycznych: odbędą się w weekend w Zabytkowej Kopalni Ignacy",
+      "summary": "W dniach 6–8 listopada 2026 w Zabytkowej Kopalni Ignacy odbędą się III Ornitologiczne Mistrzostwa Śląska Kanarków i Ptaków Egzotycznych.",
+      "link": "https://www.radio90.pl/ornitologiczne-mistrzostwa-slaska-kanarkow-i-ptakow-egzotycznych-odbeda-sie-w-weekend-w-zabytkowej-kopalni-ignacy.html",
+      "published": "2026-11-03T18:00",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a1a3e2dfdeb92456843bce203e9c756d332663eb",
+      "title": "Kuba od Rolek w Rybniku. Opowie, jak budować markę osobistą i zaufanie klientów (patronat)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb0xWRC1jOHVpaUlYcGxiZkdmYVdlUjkzeHA2WHdhdV9mMWhaNHlieFUyZERyY1ZhZEN3bWl6MU1UcVQ5aEp3cDlrZW4zZUhqNEY0LU1wUWk0U2JMcUpSZUxtNWpvQUFvV3AyeEFvNVNrbjkyLXpOQS1mQUk5TExmVk4yZW5xd2FtQjhDWWxMUWU3TDl0Ty1ZVjF1STlsQ1BhZVhadTRZU2RaSU9ZcE9sNjVNdlpWVEtOSFJjNUpLb1RuV1RXY1dZSGppazd6WEJwMXk5YVhnX0E0NElT?oc=5",
+      "published": "2026-11-03T17:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1d0e0aeeeb8b218816feb2c427d81e16709730af",
+      "title": "Była jej schronieniem i burzą. Poruszające wspomnienia Arundhati Roy w nowej książce",
+      "summary": "- Moje schronienie i moja burza - Arundhati Roy. Jedna z najwyżej ocenianych książek roku – poruszające, bezkompromisowe wspomnienia, które, według „The Wall Street Journal\", „pulsują współczuciem i moralnym sprzeciwem\". Arundhati Roy, autorka Boga rzeczy małych i Ministerstwa niezrównanego…",
+      "link": "https://www.nowiny.pl/wiadomosci/251891-byla-jej-schronieniem-i-burza-poruszajace-wspomnienia-arundhati-roy-w-nowej-ksiazce.html",
+      "published": "2026-11-03T17:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "61278e08f6377213625965723603f18daa3cfe32",
+      "title": "Hubertus – święto myśliwych. Grzegorz Świerczyński opowiada o tradycjach i patronie myśliwych (foto, wideo)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNV0t1bndmMGhKNHlzZU5xTGs4ZDE1akVoYlJnTkFaRGZkbVRKR3lxS2g1RmFIbGwzN2U1RVdpTTh4T0dWXzhqeVE5VHFTRmZkUm1lUXU0MGNQc2daZ3N2TDRFYlJQcGZzYUlJaDh0NWFPRDh2Nm5XLUdRZG1IY3BQd2Rsbjc1emFkWWVCd0g1R3l4S1lzQzZwT05NR1BBWEc1Snkzem5VdWkxeHpUT2tqajdTRTVHbXVkSjNkV0FMS0J5dm51b3BKeTZ4aTJraHdSSGI2S0phT1U5VnJuaGtLZmU4cWczOVF5YjlEclgxemQwTEU?oc=5",
+      "published": "2026-11-03T16:45",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "58e690ae282c6d5884d116ec80b9bd23ed505208",
+      "title": "Ponad 12,5 tysiąca młodych strażaków na Śląsku. Kto z nich zostanie ratownikiem?",
+      "summary": "W województwie śląskim działa 948 dziecięcych i młodzieżowych drużyn pożarniczych, do których należy ponad 12,5 tysiąca młodych ludzi. O ich przygotowaniu do przyszłej służby, edukacji w zakresie bezpieczeństwa i wsparciu finansowym rozmawiano podczas IV Kongresu Rozwojowego Młodzieżowych Drużyn…",
+      "link": "https://www.nowiny.pl/ekonowiny/251969-ponad-125-tysiaca-mlodych-strazakow-na-slasku-kto-z-nich-zostanie-ratownikiem.html",
+      "published": "2026-11-03T15:58",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d1da1c5d266759721ff64df9697c7a4fbcb46b29",
+      "title": "\"Mamy w sobie moc, by pomagać\". Joanna Mazurek z Rybnika zdradza kulisy akcji ratunkowej w Niedobczycach (wideo)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONWFTblptNXhsdUwxd1M1MUpwV2lWcldOU2JjeUtSRjRpcm9WRmFJU19KN3pTMnJEbHNGU1Y1Nlc2UXVwcllvSy1nNDZKYnRBOXhmeHVJNnIzeVhReHlIcjBIVHlWNzEwVThsd3psWVhEODM1c2hFM1NQd1B3ck9Fby1RQnZidk1KYk9zX21FVDhMb1B6ZmJCTUJsc3pVNENIdndHY2VQTzh5RzRnekt3Y0ZfUVcxRFVEeWFGdnJsbXBDTTFRM3dPWTNIUDlKdUQ2U25uTndOX2h1RXNySnBLM3RPMlhFZHF4akN0TUhwVW1kdUtSa0dR?oc=5",
+      "published": "2026-11-03T15:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "21544062071f92d32a7c16f652d7e717d5f6a1cd",
+      "title": "JSW ma nowego prezesa. Został nim Tomasz Gawlik, dotychczasowy wiceprezes ds. rozwoju",
+      "summary": "3 listopada Rada Nadzorcza Jastrzębskiej Spółki Węglowej SA poinformowała o powierzeniu obowiązków prezesa zarządu spółki Tomaszowi Gawlikowi, który jednocześnie pozostaje zastępcą prezesa zarządu ds. rozwoju.",
+      "link": "https://www.nowiny.pl/wiadomosci/251968-jsw-ma-nowego-prezesa-zostal-nim-tomasz-gawlik-dotychczasowy-wiceprezes-ds-rozwoju.html",
+      "published": "2026-11-03T14:59",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8fa8d5eaa8d3ce850cc78a64e54c8de15b38d7f8",
+      "title": "Śledztwo w sprawie zagrody żubrów umorzono, ale prokuratura je wznowiła. Chodzi o inwestycję w Brzeziu za 27 mln zł",
+      "summary": "Odwołanie wobec decyzji prokuratury o umorzeniu śledztwa skutecznie wniosła w październiku Regionalna Dyrekcja Lasów Państwowych w Katowicach. Wcześniej zapadła decyzja o umorzeniu prokuratorskiego śledztwa w sprawie nieprawidłowości przy budowie zagrody żubrów w Raciborzu. To ustalenia Radia Zet…",
+      "link": "https://www.nowiny.pl/wiadomosci/251966-sledztwo-w-sprawie-zagrody-zubrow-umorzono-ale-prokuratura-je-wznowila-chodzi-o-inwestycje-w-brzeziu-za-27-mln-zl.html",
+      "published": "2026-11-03T14:30",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "713c579bc5453bfabb4a7d1bc13b2d487350a85f",
+      "title": "Festiwal Perspektyw 2026 z innej perspektywy. Zobacz zdjęcia Magdy z Ekonomika [ZDJĘCIA]",
+      "summary": "Wracamy do Festiwalu Perspektyw 2026, który 28 października odbył się w Raciborzu. Tym razem prezentujemy zdjęcia autorstwa Magdy, uczennicy Zespołu Szkół Ekonomicznych w Raciborzu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251928-festiwal-perspektyw-2026-z-innej-perspektywy-zobacz-zdjecia-magdy-z-ekonomika-zdjecia.html",
+      "published": "2026-11-03T13:55",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8eab458f046a3b7fe85cdf50daacaa81275eb974",
+      "title": "W środę otwarcie Szynku Wodzisław. To nowa propozycja gastronomiczna w mieście",
+      "summary": "Na środę 4 listopada zaplanowano otwarcie nowego lokalu gastronomicznego Szynk Wodzisław. To miejsce, które ciekawi wielu mieszkańców, a już z początkiem listopada będzie można skosztować tam specjałów kuchni śląskiej w nowoczesnym wydaniu oraz napić się kraftowego piwa.",
+      "link": "https://www.nowiny.pl/wiadomosci/251962-w-srode-otwarcie-szynku-wodzislaw-to-nowa-propozycja-gastronomiczna-w-miescie.html",
+      "published": "2026-11-03T13:30",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0457304faa118f1b47c9f1e6ba397fb715cf255d",
+      "title": "Pociąg Intercity Chopin wróci do Wodzisławia Śląskiego. Zakończono ważną inwestycję na stacji",
+      "summary": "Na stacji kolejowej w Wodzisławiu Śląskim zakończono wydłużanie peronu do 400 metrów. Dzięki inwestycji o wartości prawie 5 mln zł netto będą mogły zatrzymywać się tam dłuższe pociągi. Od grudnia, zgodnie z deklaracją przewoźnika, na stację ma wrócić międzynarodowy pociąg Intercity Chopin.",
+      "link": "https://www.nowiny.pl/wiadomosci/251964-pociag-intercity-chopin-wroci-do-wodzislawia-slaskiego-zakonczono-wazna-inwestycje-na-stacji.html",
+      "published": "2026-11-03T13:09",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "de178f7eb902410ef76272952c7eec1b270dc5fb",
+      "title": "Prezydent Wojciechowicz chce szybkiego remontu mostu na Piaskowej. Odwołuje się do doświadczeń z Warszawy. „10 dni gehenny a nie rok”",
+      "summary": "Przeprawa nad Odrą ulicą Piaskową w Raciborzu zainteresowała radną Magdalenę Kusy z Obory, która na sesji w październiku pytała głowę miasta o zamiar zamknięcia mostu na czas jego przebudowy.",
+      "link": "https://www.nowiny.pl/wiadomosci/251961-prezydent-wojciechowicz-chce-szybkiego-remontu-mostu-na-piaskowej-odwoluje-sie-do-doswiadczen-z-warszawy-10-dni-gehenny-a-nie-rok.html",
+      "published": "2026-11-03T12:13",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "ALERT"
     },
     {
       "id": "d84a0b191ab1d1b117751f018e9b10ba7629db65",
@@ -53,7 +258,7 @@
       "title": "wiadomości, baza firm i ogłoszenia • Portal",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDF3Z28tOWdnX3BnbWlDSFd5U3BVMUdzTjZCazlhbG5kTXVJMHlJSDJJUEI2LU83Z1J5SWhCMk5MclYzR1RoSUhKNWVQSmJRNTJxalZ3bzliQTFkZDVnd2FqUUtjNk05VHdzRm1sbnZjZnFIU0RQbGdHckdaRmFsYWVhMEZpTWhrcGQ0NTJfYkt2eUFQLXNxbQ?oc=5",
-      "published": "2026-11-03T09:19",
+      "published": "2026-11-03T09:14",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -76,6 +281,16 @@
       "published": "2026-11-03T07:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "35562238645af0867ef921b9e6f082dd1a12a285",
+      "title": "Nabór kandydatów na rzeczoznawców ds. określania wartości rynkowej zwierząt",
+      "summary": "Prezydent Miasta Rybnika, informuje o możliwości zgłaszania kandydatów na rzeczoznawców powoływanych do szacowania zwierząt oraz produktów pochodzenia zwierzęcego zniszczonych z nakazu organów Inspekcji Weterynaryjnej.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/nabor-kandydatow-na-rzeczoznawcow-ds-okreslania-wartosci-rynkowej-zwierzat",
+      "published": "2026-11-03T00:00",
+      "source": "rybnik.eu",
+      "category": "Komunikaty",
       "priority": "NORMAL"
     },
     {
@@ -109,16 +324,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "bb7ddf11ecdeea95f34b7e464b5d466879bd6f20",
-      "title": "Najlepsze prezerwatywy z wypustkami w Polsce",
-      "summary": "Tekstura prezerwatywy może oznaczać drobne wypustki, wyraźniejsze wypukłości albo połączenie wypustek z prążkami. W tym artykule wyjaśniamy, czym różnią się te rozwiązania i przedstawiamy modele dostępne w Polsce, by ułatwić wybór odpowiedni do indywidualnych preferencji.",
-      "link": "https://www.nowiny.pl/wiadomosci/251927-najlepsze-prezerwatywy-z-wypustkami-w-polsce.html",
-      "published": "2026-11-02T21:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "0e73598a902e0640a8763a566ecf331c92058323",
       "title": "To będzie wieczór jak dawniej! W sobotę szkubanie pierza w Szczejkowicach. A potem wyszkubki",
       "summary": "Szkubanie pierza w Szczejkowicach. To jest zaproszenie od tamtejszego Koła Gospodyń Wiejskich na sobotę (7.11). Spotkanie będzie poświęcone śląskim tradycjom, wspomnieniom i integracji międzypokoleniowej.",
@@ -149,26 +354,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "a6ac51e8fa0547ff3f383881ef19c7ab34aaf6f8",
-      "title": "Z JSW do PGG. Bogusław Oleksy ma nową posadę w górnictwie",
-      "summary": "Bogusław Oleksy, który pod koniec października zrezygnował z funkcji prezesa Jastrzębskiej Spółki Węglowej, ma nową pracę. W poniedziałek, 2 listopada, objął stanowisko wiceprezesa Polskiej Grupy Górniczej ds. finansowych. Przed nowym zarządem stoją poważne wyzwania: PGG zakończyła 2025 rok z…",
-      "link": "https://www.nowiny.pl/wiadomosci/251948-z-jsw-do-pgg-boguslaw-oleksy-ma-nowa-posade-w-gornictwie.html",
-      "published": "2026-11-02T19:38",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "43cc80c6c402b9de36c5c3f40c3224d7d5581d23",
-      "title": "Wszystkich Świętych na cmentarzu Jeruzalem A.D. 2026. Nieszpory i procesja w Raciborzu [ZDJĘCIA]",
-      "summary": "W uroczystość Wszystkich Świętych na cmentarzu Jeruzalem w Raciborzu odbyły się tradycyjne nieszpory i procesja z modlitwą za zmarłych. Wierni wspólnie wspominali tych, którzy odeszli. Publikujemy zdjęcia z wydarzenia.",
-      "link": "https://www.nowiny.pl/wiadomosci/251947-wszystkich-swietych-na-cmentarzu-jeruzalem-ad-2026-nieszpory-i-procesja-w-raciborzu-zdjecia.html",
-      "published": "2026-11-02T18:27",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "ac8b8b27f0be6820eba05b41a8e56fbe526b3c66",
       "title": "Koleje Śląskie: duże zainteresowanie połączeniem z Rybnika do Bielska. Wkrótce na tej trasie przybędzie kursów",
       "summary": "Ponad 60 tysięcy pasażerów w 8 tygodni. Koleje Śląskie chwalą się frekwencyjnym sukcesem na trasie Rybnik – Bielsko-Biała. To linia S72 łącząca Rybnik, Żory, Pszczynę i Bielsko.",
@@ -176,76 +361,6 @@
       "published": "2026-11-02T18:20",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "1047ad1d8e78065699f222c1ea7a65858cfd4373",
-      "title": "Raciborska biblioteka ma następczynię Małgorzaty Szczygielskiej. Kto wygrał konkurs?",
-      "summary": "Urząd Miasta Racibórz rozstrzygnął konkurs na dyrektora biblioteki. Wybrano kandydatkę, która od lat odpowiada za sprawy administracyjne tej instytucji.",
-      "link": "https://www.nowiny.pl/wiadomosci/251946-raciborska-biblioteka-ma-nastepczynie-malgorzaty-szczygielskiej-kto-wygral-konkurs.html",
-      "published": "2026-11-02T18:15",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c4016b749ef2c92899612faf16f9cf10263ecdcc",
-      "title": "Tkalnia w Kietrzu chce połączyć pokolenia przez taniec",
-      "summary": "Centrum Kultury i Sportu „Tkalnia” w Kietrzu podsumowało projekt, który miał pomóc w stworzeniu stałej oferty zajęć tanecznych dla różnych pokoleń. W wydarzeniu finałowym uczestniczyło również Stowarzyszenie Kultury i Sportu Ziemi Raciborskiej „Źródło”.",
-      "link": "https://www.nowiny.pl/wiadomosci/251945-tkalnia-w-kietrzu-chce-polaczyc-pokolenia-przez-taniec.html",
-      "published": "2026-11-02T18:08",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c4d7c1a638c0cd9b584663a925fb81291b9a01d0",
-      "title": "Strzelanie, tor sprawnościowy i jazda z piłką na masce. Racibórz najlepszy [ZDJĘCIA]",
-      "summary": "Bieg połączony ze strzelaniem, wymagający tor sprawnościowy i jazda samochodem z piłką tenisową na masce. Z takimi zadaniami zmierzyli się funkcjonariusze Śląskiego Oddziału Straży Granicznej. Najlepsza okazała się drużyna komendy w Raciborzu.",
-      "link": "https://www.nowiny.pl/wiadomosci/251944-strzelanie-tor-sprawnosciowy-i-jazda-z-pilka-na-masce-raciborz-najlepszy-zdjecia.html",
-      "published": "2026-11-02T17:58",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c281b5a06d20512dbca8cbaf0c696ddf0c5c5ec2",
-      "title": "List gończy za Pawłem Zygmańskim. Policja poszukuje 50-latka w związku z praniem pieniędzy",
-      "summary": "Jastrzębska policja poszukuje 50-letniego Pawła Zygmańskiego. Mężczyzna jest ścigany listem gończym w związku z wyrokiem za pranie pieniędzy. W policyjnej bazie poszukiwanych wskazano również przepis dotyczący udziału w zorganizowanej grupie przestępczej.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251943-list-gonczy-za-pawlem-zygmanskim-policja-poszukuje-50-latka-w-zwiazku-z-praniem-pieniedzy.html",
-      "published": "2026-11-02T17:52",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "81b1dffb321d5b9ca2599ed07162a4815c3563d6",
-      "title": "Grupa Świt chce produkować proszek do prania w Raciborzu. Zaproponuje pracę byłym pracownikom Henkla",
-      "summary": "Prezydent Raciborza Jacek Wojciechowicz zorganizował w poniedziałkowe popołudnie 2 listopada konferencję prasową w związku z planami wznowienia działalności dawnej fabryki należącej do firmy Henkel, a teraz, grupy kapitałowej Świt. Włodarzowi towarzyszyli przedstawiciele Grupy Świt.",
-      "link": "https://www.nowiny.pl/wiadomosci/251942-grupa-swit-chce-produkowac-proszek-do-prania-w-raciborzu-zaproponuje-prace-bylym-pracownikom-henkla.html",
-      "published": "2026-11-02T17:21",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ca266e77af00bc27c8e44dbd9e1d3380062fcbbe",
-      "title": "Rodzinna tajemnica z 1945 roku. Aleksandra Klonowska-Szałek o losach córki folksdojcza",
-      "summary": "Wnuczka trafia na dokument z 1947 roku z nazwiskiem swojej babki, córki folksdojcza. Babcia stawia jeden warunek: nie otwieraj akt, a opowie wszystko. Tak zaczyna się „Obcy wiatr”, powieść historyczno-obyczajowa Aleksandry Klonowskiej-Szałek inspirowana historią jej rodziny. Książka jest w…",
-      "link": "https://www.nowiny.pl/wiadomosci/251889-rodzinna-tajemnica-z-1945-roku-aleksandra-klonowska-szalek-o-losach-corki-folksdojcza.html",
-      "published": "2026-11-02T17:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "cf872f9174e0fa69a535c268cc829463fa3cb2f9",
-      "title": "Pożar kamienicy w centrum Wodzisławia [ZDJĘCIA]",
-      "summary": "W poniedziałek, 2 listopada, w kamienicy przy ul. Świętego Jana w Wodzisławiu Śląskim wybuchł pożar mieszkania.",
-      "link": "https://www.nowiny.pl/wiadomosci/251940-pozar-kamienicy-w-centrum-wodzislawia-zdjecia.html",
-      "published": "2026-11-02T16:29",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -259,16 +374,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "84b31623f4814cb723cb6d2fabd8828061499610",
-      "title": "Znane przeboje w nowych aranżacjach. W Bojanowie odbędzie się koncert zaduszkowy",
-      "summary": "Utwory Anny Jantar, Whitney Houston i Tiny Turner zabrzmią podczas koncertu zaduszkowego „Gdy milkną słowa” w Bojanowie. W czwartek, 5 listopada, mieszkańcy będą mogli posłuchać znanych przebojów w kameralnych aranżacjach na głos, fortepian i saksofon. Wstęp na wydarzenie jest bezpłatny.",
-      "link": "https://www.nowiny.pl/wiadomosci/251938-znane-przeboje-w-nowych-aranzacjach-w-bojanowie-odbedzie-sie-koncert-zaduszkowy.html",
-      "published": "2026-11-02T14:23",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "e50cb759e3a904fa58e14aec85091b6148499484",
       "title": "Nocne hałasy, hulajnogi i skargi na podpalenia przy SP34. Miasto zapowiada zamknięcie terenu",
       "summary": "",
@@ -276,46 +381,6 @@
       "published": "2026-11-02T14:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "bed446f800bcb1571c1ea69fea596ae0bf4b4f84",
-      "title": "Odzyskiwanie danych z dysków - co naprawdę decyduje o tym, czy odzyskasz swoje pliki",
-      "summary": "Na dyskach trzymamy dziś praktycznie całe swoje życie - zdjęcia z lat, dokumenty, pracę magisterską, a w firmach faktury, projekty i bazy klientów. Dopóki wszystko działa, nie myślimy o tym ani przez chwilę. Problem w tym, że dysk rzadko uprzedza o swojej awarii. Pewnego dnia komputer po prostu się…",
-      "link": "https://www.nowiny.pl/wiadomosci/251926-odzyskiwanie-danych-z-dyskow-co-naprawde-decyduje-o-tym-czy-odzyskasz-swoje-pliki.html",
-      "published": "2026-11-02T14:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "56ca8ba1936713bca3d6f7234024c39c010cda89",
-      "title": "Lodowisko w Rybniku już otwarte. Ile kosztuje godzina jazdy?",
-      "summary": "Sezon łyżwiarski w Rybniku rozpoczął się w poniedziałek, 2 listopada. Lodowisko MOSiR-u przy ul. Gliwickiej 72 jest już dostępne dla mieszkańców. Ceny biletów i harmonogram sesji nie zmieniły się w porównaniu z poprzednim sezonem.",
-      "link": "https://www.nowiny.pl/wiadomosci/251936-lodowisko-w-rybniku-juz-otwarte-ile-kosztuje-godzina-jazdy.html",
-      "published": "2026-11-02T13:50",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "74dd87affcfd169a20c1fdf3eb21a01e123d3b3d",
-      "title": "Silesian MMA 28 i WiP 18 wracają do Rybnika. Dwie gale jednego wieczoru już 14 listopada!",
-      "summary": "Po trzyletniej przerwie organizacja Silesian MMA ponownie zawita do Rybnika. 14 listopada 2026 roku w hali MOSiR odbędzie się wyjątkowe wydarzenie, podczas którego kibice będą mogli obejrzeć dwie gale jednego wieczoru – Silesian MMA 28 oraz WiP 18 „Walcz i Pomagaj”.",
-      "link": "https://www.nowiny.pl/nie-przegap/251935-silesian-mma-28-i-wip-18-wracaja-do-rybnika-dwie-gale-jednego-wieczoru-juz-14-listopada.html",
-      "published": "2026-11-02T13:23",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "a1d8286a4840e32e8b609c2d2498df764a140dc4",
-      "title": "JKH GKS Jastrzębie w programie Klub Pro 2026",
-      "summary": "Jastrzębski Klub Hokejowy GKS Jastrzębie jest w trakcie realizacji Programu wspierania klubów sportowych – KLUB PRO 2026. Program ten to inicjatywa wspierająca kluby sportowe, które osiągają najlepsze wyniki w rozgrywkach młodzieżowych i mogą pochwalić się znaczącymi osiągnięciami w klasyfikacji…",
-      "link": "https://jastrzebieonline.pl/sport/251934-jkh-gks-jastrzebie-w-programie-klub-pro-2026.html",
-      "published": "2026-11-02T13:11",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -395,16 +460,6 @@
       "link": "https://www.radio90.pl/nieczynne-toalety-na-dworcu-kolejowym-w-rybniku-pkp-przepraszamy-podroznych-za-niedogodnosci.html",
       "published": "2026-11-02T09:15",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3a8e60a4ffbf3b78d6a899f1285f32a50da01c33",
-      "title": "Judo: Dawid Szulik bez sukcesu w mistrzostwach Europy U23",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHJaZ0VHdlMweU1COHRVQ2RCcTZHaDViTWp6ZGZHeHZiRk5nS1ZWRzFjVmk0OEpNaXpkMUlWdlk4X3BLaGVBWGdkejVCeUZBSEIyUzdqbjlfbjFJN2EwMWNVYUN2QWNLNm84cTdJVktoSWs5YkZJRGdkMkh0UndXcTlEaHF3cXNQOEN2eGtTYUVjTHVWZU5xQU1LZy02c3g1eWxQX3dYdkZNaUtaQ2pfQjJrb0c?oc=5",
-      "published": "2026-11-02T09:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -524,16 +579,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWE1ad1hqY0NvNXpOcmpxT3ExMWM2Y1hCUy1abjFBYjlsQnRoRXNNR2VLenFrQzd5NVJ4Q29GLWotMXNZejMzdDZlM0JWRHVwYUEzVVowSXBLU3loOGE3MWllRmVXd2NDMUlVaXoxQjd3Z2ZUWXF5aXZoZmRLRWNZMjdLdXNoOEpYbFBkcTlkQThtTEQzX0xScXFTTnowcnRvbG5iSW9zM0tFUmFYSkhTTVRNVGtoRGlkSEpPbjFwT1YyajVaMnU5Rkstby1uQ2ozVXZlTjNfMVdKc19Mc0JJ?oc=5",
       "published": "2026-11-01T16:04",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8a82e1577a55ae98895aaabb084c2749f55181b8",
-      "title": "Dreszczowiec w Boguszowicach. Koszykarze MKKS-u Rybnik pokonali UKS Regis po dogrywce",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaV9LLUw4bldJNTlWMTh3bDdxbE83Q3JUakM2OElCS0FyT0Z0NFhLUW4wQTNqTW8wRHFRQW9SbFljNGJfRUp5SU5GNkV5cjJBY2NfVEVtU3QzM053RHJCSXlCZVhQeFFEMEp1dXI2ODdnbzZwbnRacUtrczRIY0UyOE52LWdQWnRpZE9JOGdmaEt0QTcyWFptbXptaU1GZEhENlFUMElHVXNTYmZ3MkJKYmU5STZzX2FQUXpyWlh3OHRfSHIxS1JJOUZiNDlHOUNCZWFES0hBTE5HZw?oc=5",
-      "published": "2026-11-01T14:38",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -739,31 +784,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "ac0b3399264dad92153430323ec0bc645698772e",
-      "title": "Hat-trick Jakuba Kuczery w Częstochowie. Ósma wygrana ROW-u",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUElqRGV1ckNTdUgtNkFKTXlPellqbnJzYkJvZi13bm1XWlI2bGdGWGNWQXBRbjNjRGdpLVdhVXJ1NGM1dVlnSnZfSmY2dk5ZOERnb1dpaEtoa05iMnZqTG80dF8zdlEtZTRBVzF4dS1VX1dxcHlETXBaVTI4MElmSXNSSDN4Qk9oOUROQW0xY3RndEVvWENBdWhSQkR1WkRfSEIza1pUa1huNU5HMGFZWjJ5SGpBa3M?oc=5",
-      "published": "2026-10-30T16:31",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "2ffeb5444f9aebfaddabe2db108a9e95c6359fd6",
       "title": "Ponad 41 mln zł na wsparcie psychiczne młodzieży. Rybnickie licea w awangardzie ogólnopolskiego projektu",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNb0tYVVJGVXNxeEtiRVJaMlRHb3ZEcjFtWjcwZnVoZXZCbThaMzNNRUdMcGVST1k3SXhnd19pa2lOT3hNR1hLVjFRRk0wb3ZDWm05TGlSWHFDSXd2MTRmTkdzV25FVXo0ZkttV1V5S0dvMTJtc1VSOXA2R1lPR1F1bzNHVU5yYUd1MjFBeWttVnV2SVdHQnZmaUlfVkZoeHRFaGpkLUVxaC1Jc0ZYenNrM0pLRzFqdWtQT3ExeVphZk5VQmxYVGZ0Y3dta2xpME5vWTMtb2NPV3VXVThVRWYybDZlSDZqWG1TS09PWThGWGtadjg?oc=5",
       "published": "2026-10-30T16:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0907f946cc65145751699334ba3eec049acde7dd",
-      "title": "Rybnickie targowisko czeka modernizacja. Miasto pyta mieszkańców, co powinno się zmienić",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY2tSak1kSDVqQjBpalo4dmhTd2VXSkczajhOMW1QY3dVWnFEeUVfNHh4WS1sVDRqN01IcmJZSDFodFlTS0pPVmg0d3MwZDNEQVdnZTdYdE43MFB1MW1wdnhMd3lhRW9SUGEzLUwtUDJLNnBvRnRjU29aM0NYaVdnU3ZmWXBkTU1VTldwTDd1U2duWWxqWnBqN2JsWFl5d1VpOXZWLVhDUlFaODFJUXBtNDIxa0Fkb2F1TmFEand5dVF6VUNxWnNQNjNIZm9QcFRvVHR3X1RXRzhrRDdtZkdR?oc=5",
-      "published": "2026-10-30T15:58",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -824,26 +849,6 @@
       "summary": "Zmiany w organizacji ruchu przy rybnickich cmentarzach obowiązują od wczoraj, czyli do czwartku aż do poniedziałku, 2 listopada. Dodatkowo - wzorem lat ubiegłych w Rybniku będzie kursowała dodatkowa linia autobusowa dowożąca mieszkańców na cmentarz.",
       "link": "https://www.radio90.pl/zmiany-przy-cmentarzach-w-rybniku-bedzie-tez-darmowa-linia-autobusowa.html",
       "published": "2026-10-30T10:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "90b40ec6a45adea81f3078233d610d2ff6568a6d",
-      "title": "Volley Rybnik nareszcie zwycięski. Trzy punkty siatkarze przywożą z Andrychowa",
-      "summary": "Po dwóch porażkach jest przełamanie. Siatkarze drugoligowego Volley Rybnik przywieźli 3 punkty z Andrychowa.",
-      "link": "https://www.radio90.pl/volley-rybnik-nareszcie-zwycieski-trzy-punkty-siatkarze-przywoza-z-andrychowa.html",
-      "published": "2026-10-30T09:30",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "5b7a25bf3244078e084799da32d8bdb48ecd2b37",
-      "title": "Wysoka wygrana koszykarek RMKS Xbest Rybnik w Krakowie",
-      "summary": "Kolejne zwycięstwo na koncie koszykarek RMKS Xbest Rybnik. Wczoraj rybniczanki pokonały w Krakowie tamtejszą Koronę wysoko 90:65.",
-      "link": "https://www.radio90.pl/wysoka-wygrana-koszykarek-rmks-xbest-rybnik-w-krakowie.html",
-      "published": "2026-10-30T07:30",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -926,16 +931,6 @@
       "published": "2026-10-27T00:00",
       "source": "rybnik.eu",
       "category": "Zdrowie",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e3806fa91f866490bda91757eca8c0d1fee03bba",
-      "title": "Nowe boisko wielofunkcyjne w Niewiadomiu już otwarte",
-      "summary": "Uczniowie Zespołu Szkolno-Przedszkolnego nr 2 mogą już korzystać ze współczesnego obiektu ze sztuczną nawierzchnią oraz nowej, trójtorowej bieżni. Inwestycja o wartości blisko 1,05 mln zł stwarza doskonałe warunki do gry w piłkę nożną, koszykówkę, siatkówkę i piłkę ręczną.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/nowe-boisko-wielofunkcyjne-w-niewiadomiu-juz-otwarte",
-      "published": "2026-10-27T00:00",
-      "source": "rybnik.eu",
-      "category": "Sport",
       "priority": "NORMAL"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:07:37",
+  "generated_at": "2026-11-03T23:18:54",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,31 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 129,
+  "count": 132,
   "failures": [],
   "events": [
-    {
-      "id": "tzr-akademia-pogodnego-umyslu-0311",
-      "title": "Akademia Pogodnego Umysłu",
-      "category": "Inne",
-      "start": "2026-11-03T11:30",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": null,
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/akademia-pogodnego-umyslu-0311.html"
-    },
-    {
-      "id": "iryb-spotkanie-o-ksiazce-nie-do-obrony-w-rybniku",
-      "title": "Spotkanie o książce „Nie do obrony” w Rybniku",
-      "category": "Impreza",
-      "start": "2026-11-03T18:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Sędzia Igor Tuleya i adwokat Jacek Dubois przyjadą do Rybnika, by porozmawiać z czytelnikami o książce „Nie do obrony”. Spotkanie będzie również okazją do rozmowy o roli sędziego i adwokata na sali sądowej. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . W spotkaniu wezmą udział autorzy książki „Nie do obrony” — sędzia Igor Tuleya i mec. Jacek Dubois. Rozmowa dotyczyć będzie zarówno publikacji, jak i funkcji, jakie sędzia oraz adwokat pełnią podczas rozprawy. Spotkanie poprowadzi redaktor Joanna Prokop. W Rybniku o prawie bez prawniczego żargonu - spotkanie „Nie do obrony”",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/spotkanie-o-ksiazce-nie-do-obrony-w-rybniku"
-    },
     {
       "id": "bilnya-galeria-sztuki-rzeczna-202611040900",
       "title": "Galeria Sztuki Rzeczna",
@@ -559,6 +537,17 @@
       "description": "Jak wiele można wyczytać z okładki płyty? Podczas listopadowego spotkania z dr. Jackiem Kurkiem winylowe wydawnictwa z lat 60. staną się punktem wyjścia do rozmowy o kulturze — nie tylko rockowej. Wydarzenie odbędzie się w ramach cyklu „Wyobraźnia i poznanie”. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Dr Jacek Kurek przyjrzy się okładkom płyt winylowych z lat 60. i temu, co mówią one o kulturze swojej epoki. Ich perspektywa pozwoli spojrzeć szerzej niż tylko na muzykę rockową. Tematem spotkania będą więc zarówno same okładki, jak i kultura, którą można przez nie odczytywać. Wydarzenie organizuje Powiatowa i Miejska Biblioteka Publiczna w Rybniku. Spotkanie nosi pełną nazwę „Listopadowe medytacje kulturalne z dr. Jackiem Kurkiem: Twarze winylu”.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/listopadowe-medytacje-kulturalne-z-dr-jackiem-kurkiem-twarze-winylu"
+    },
+    {
+      "id": "iryb-gminny-dzien-seniora",
+      "title": "Gminny Dzień Seniora",
+      "category": "Impreza",
+      "start": "2026-11-18T00:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Mieszkańcy Czerwionki-Leszczyn będą mogli wspólnie świętować podczas Gminnego Dnia Seniora. Wydarzenie połączy informacje o bezpieczeństwie z jubileuszem lokalnej grupy oraz muzycznym spotkaniem przy piosenkach Mieczysława Fogga. Spotkanie zaplanowano na 18 listopada 2026 roku w Centrum Kulturalno-Edukacyjnym w Czerwionce-Leszczynach . Wstęp jest wolny. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . W programie przewidziano wystąpienie burmistrza oraz prezentację bezpłatnego pakietu bezpieczeństwa dla mieszkańców, przygotowanego w ramach Projektu Koperta Życia.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/gminny-dzien-seniora"
     },
     {
       "id": "bilnya-galeria-sztuki-rzeczna-202611180900",
@@ -1408,6 +1397,17 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/vivaldi-przy-swiecach.html"
     },
     {
+      "id": "bilnya-ponad-chmurami-202701291900",
+      "title": "Ponad Chmurami",
+      "category": "Koncert",
+      "start": "2027-01-29T19:00",
+      "end": "2027-01-29T20:30",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": "🎶 Daj się porwać muzycznej podróży z zespołem Ponad Chmurami! Usłysz utwory z albumu „Zaprowadź mnie” i ukochane przeboje w kameralnej, pełnej ciepła atmosferze. ✨ Kup bilet i przeżyj ten wyjątkowy wieczór! 🎟️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/Ponad-Chmurami?eid=712260#opis"
+    },
+    {
       "id": "dk-bog-11035-dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-godz-16-00",
       "title": "Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem | godz. 16.00",
       "category": "Spektakl",
@@ -1428,6 +1428,39 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
+    },
+    {
+      "id": "bilnya-bartosz-gajda-po-lecie-stand-up-nowy-program-202704121900",
+      "title": "Bartosz Gajda - \"PO LECIE\" - stand up NOWY PROGRAM",
+      "category": "Kabaret",
+      "start": "2027-04-12T19:00",
+      "end": "2027-04-12T20:30",
+      "venue": "inoWino Świerklaniec, Jana III Sobieskiego 9",
+      "description": "😂⏳ Czas leci jak szalony? To idealny moment na solidną dawkę śmiechu! Bartosz Gajda wraca z nowym stand-upem – inteligentny humor, absurd i zero zbędnych wulgaryzmów. Przyjdź i pośmiej się z życia, zanim znów przyspieszy 🎤✨🎟️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/stand-up/Bartosz-Gajda/po-lecie?eid=713645#opis"
+    },
+    {
+      "id": "bilnya-kabaret-paranienormalni-w-nowym-programie-2027-202710091600",
+      "title": "Kabaret Paranienormalni - w nowym programie 2027",
+      "category": "Kabaret",
+      "start": "2027-10-09T16:00",
+      "end": "2027-10-09T17:30",
+      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/kabaret/Kabaret-Paranienormalni/w-nowym-programie?eid=718872#opis"
+    },
+    {
+      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
+      "title": "NutkoSfera - CeZik dzieciom",
+      "category": "DlaDzieci",
+      "start": "2027-12-03T17:00",
+      "end": "2027-12-03T18:20",
+      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
+      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }
