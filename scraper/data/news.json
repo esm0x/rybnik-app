@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-11-04T23:40:27",
+  "generated_at": "2026-11-05T06:42:35",
   "count": 120,
-  "failures": [
-    {
-      "source": "tuRybnik.pl",
-      "error": "403 Client Error: Forbidden for url: https://turybnik.pl/feed/"
-    }
-  ],
+  "failures": [],
   "items": [
+    {
+      "id": "97065c145fafbeb9cd713bf8a32f67ee91a78b4e",
+      "title": "Korki w Rybniku o poranku. Stoi między innymi Wodzisławska",
+      "summary": "Zderzenie czołowe dwóch samochodów osobowych na odcinku Drogi Śródmiejskiej, to zjazd z drogi Pszczyna- Racibórz do Ronda Biegaczy w Rybniku Obwiedni Południowej.",
+      "link": "https://www.radio90.pl/korki-w-rybniku-o-poranku-stoi-miedzy-innymi-wodzislawska.html",
+      "published": "2026-11-05T06:34",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "16f22091da1508a90c78e8a59dfd27c5864c4214",
+      "title": "Linia 400 kV przez Jastrzębie wstrzymana. Zdecydowały złoża węgla",
+      "summary": "Przez najbliższe lata nie będzie projektowana linia 400 kV przez Jastrzębie-Zdrój. O najnowszych ustaleniach z Polskimi Sieciami Elektroenergetycznymi poinformował zastępca prezydenta Grzegorz Dulemba. Powodem są znajdujące się na tym terenie złoża węgla koksującego, które mogą zostać uznane za…",
+      "link": "https://jastrzebieonline.pl/wiadomosci/252003-linia-400-kv-przez-jastrzebie-wstrzymana-zdecydowaly-zloza-wegla.html",
+      "published": "2026-11-05T04:51",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "5898b4d6a0cc06f7538e5d2b40e312c28aa6bd10",
       "title": "Jak wykończyć wnękę okienną, żeby pasowała do podłogi i stolarki?",
@@ -84,6 +99,16 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNjJSdVhJeEhrSDAyQ3hrTEY4X1FiZE9qbklXS2xjaG90bkdNdy14WEFFYk5JV2tpdTMycGpOWlVDblpLVVRjYVBaRHdyS3NEUkt3ZGgzVnMxMWpNNlpscWxwcWN6UW00S0g4UjR0YjZiMF9WT0NncHkwVVFLV1lDOW9kV0p4eXVhSTJmbDF3UXJpMVhleVgzQktQSVdEY19md0JzdTkydDYycHJLQlFnZWd4a0tVSlAxU01PRGVzU2NuX0JYc1ZwbEYxMlZlMi14cGdZcGlzRkFRUXphTDB0aXlHMWZwMFdNYkJmZGJmOEFEWW1X?oc=5",
       "published": "2026-11-04T17:21",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "8806cc2096f7b81e97a02056e9ee699e827c070d",
+      "title": "Rekordowa frekwencja na Śniadaniu Biznesowym w Rybniku! Przedsiębiorcy wybrali relacje",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZXUzUkpGV0E4bVpaVDFiLTg4ajNrMUNVdV93U01fWEpmc1hJSlhSSHkzdjFHejVLMzhzNFB5MkRMWmw4NlljcHV3cVdsT3g1U3JoVWVOS2lucUViNTBCSFRVejBQaV9RWTk5eGJ4bTZ0VkhYNjVuUnZ5c0VHckgzYl9RaVFyajNPejh1YVhhUlJScGVMaVYzei1VQjRKalVoQmVENlpXOE5pa0c2S2lzc1paZWk0Ykk3MkxrVHo2ODFILXp1eWxBU2JBOGhuci1rcnFlMTl3OA?oc=5",
+      "published": "2026-11-04T17:16",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -254,16 +279,6 @@
       "summary": "Jeden z uczniów syryńskiej podstawówki będzie się tłumaczył przed sądem. To konsekwencja przyniesienia do szkoły niebezpiecznego narzędzia.",
       "link": "https://www.nowiny.pl/wiadomosci/251917-uczen-przyszedl-do-szkoly-z-nozem-policja-interweniowala-w-podstawowce-w-syryni.html",
       "published": "2026-11-04T10:15",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6a9d9c502ac9dfe5c96bc05de184737358f0dc70",
-      "title": "Opowiadał, że Polacy pobili go za śląskie barwy. Czeska policja podważyła jego historię",
-      "summary": "Historia pobicia polskiego rowerzysty w Ostrawie wywołała we wrześniu duże poruszenie. Według relacji poszkodowanego napastnicy (Polacy) mieli wziąć go za Ukraińca z powodu kapelusza w barwach Górnego Śląska. Czeska policja ustaliła jednak, że sprawcami byli dwaj Słowacy, a do ataku doszło po…",
-      "link": "https://www.nowiny.pl/wiadomosci/251990-opowiadal-ze-polacy-pobili-go-za-slaskie-barwy-czeska-policja-podwazyla-jego-historie.html",
-      "published": "2026-11-04T10:04",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -629,16 +644,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "3a8e60a4ffbf3b78d6a899f1285f32a50da01c33",
-      "title": "Judo: Dawid Szulik bez sukcesu w mistrzostwach Europy U23",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHJaZ0VHdlMweU1COHRVQ2RCcTZHaDViTWp6ZGZHeHZiRk5nS1ZWRzFjVmk0OEpNaXpkMUlWdlk4X3BLaGVBWGdkejVCeUZBSEIyUzdqbjlfbjFJN2EwMWNVYUN2QWNLNm84cTdJVktoSWs5YkZJRGdkMkh0UndXcTlEaHF3cXNQOEN2eGtTYUVjTHVWZU5xQU1LZy02c3g1eWxQX3dYdkZNaUtaQ2pfQjJrb0c?oc=5",
-      "published": "2026-11-02T09:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "ea8b54df850fa2ae7f8e457af0544aa33358b218",
       "title": "Infolinia dla osób bezdomnych już działa",
       "summary": "Całodobowo i bezpłatnie. Urząd Wojewódzki wzorem lat poprzednich uruchomił od wczoraj (1.11) infolinię mająca wspierać osoby w kryzysie bezdomności.",
@@ -874,16 +879,6 @@
       "summary": "„Koleje Śląskie na torach historii” – wyjątkowa monografia na 15-lecie regionalnego przewoźnika już w sprzedaży.",
       "link": "https://www.radio90.pl/koleje-slaskie-na-torach-historii-wyjatkowa-monografia-na-15-lecie-regionalnego-przewoznika-juz-w-sprzedazy.html",
       "published": "2026-10-31T10:16",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e619af90979f2f6c990cfd33fb8afe6707ea06d5",
-      "title": "Szkoły podstawowe w Rybniku: do kilkunastu placówek trafi nowe wyposażenie. Do nauki przyrody i ZPT",
-      "summary": "Pomoce dydaktyczne, dzięki którym możliwa będzie pełna realizacja nowej podstawy programowej trafią niedługo do kilkunastu rybnickich szkół podstawowych. Jak informują w Urzędzie Miasta w Rybniku pojawią się one w 19 \"podstawówkach\". Będą wykorzystywane podczas lekcji przyrody oraz Zajęć…",
-      "link": "https://www.radio90.pl/szkoly-podstawowe-w-rybniku-do-kilkunastu-placowek-trafi-nowe-wyposazenie-do-nauki-przyrody-i-zpt.html",
-      "published": "2026-10-31T09:15",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
