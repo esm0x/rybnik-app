@@ -1,8 +1,183 @@
 {
-  "generated_at": "2026-11-04T14:30:48",
+  "generated_at": "2026-11-04T23:40:27",
   "count": 120,
-  "failures": [],
+  "failures": [
+    {
+      "source": "tuRybnik.pl",
+      "error": "403 Client Error: Forbidden for url: https://turybnik.pl/feed/"
+    }
+  ],
   "items": [
+    {
+      "id": "5898b4d6a0cc06f7538e5d2b40e312c28aa6bd10",
+      "title": "Jak wykończyć wnękę okienną, żeby pasowała do podłogi i stolarki?",
+      "summary": "Kiedy aranżujesz pokój, łatwo skupić się wyłącznie na dużych płaszczyznach ścian i pominąć detale architektoniczne. Wnęka okienna stanowi naturalną ramę dla wpadającego światła dziennego i bezpośrednio łączy pionowe przeszklenia z poziomem posadzki. Jeśli zlekceważysz ten fragment wnętrza, cała…",
+      "link": "https://www.radio90.pl/jak-wykonczyc-wneke-okienna-zeby-pasowala-do-podlogi-i-stolarki.html",
+      "published": "2026-11-04T23:06",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "cf912fb2fe978da937a6e2d73b3b6282365e57b0",
+      "title": "Jak połączyć różne doniczki na jednym parapecie?",
+      "summary": "Domowa kolekcja zieleni potrafi rozrastać się w naprawdę szybkim tempie, przez co parapet z czasem zatraca swój pierwotny porządek. Kupowane w różnym czasie pojemniki różnią się materiałem, fakturą czy kolorem, co potrafi wywołać wrażenie niepotrzebnego chaosu. Możesz jednak z łatwością…",
+      "link": "https://www.radio90.pl/jak-polaczyc-rozne-doniczki-na-jednym-parapecie.html",
+      "published": "2026-11-04T23:06",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "bd4bdc4f945bac86904b547efc79dd8fd2bdefa4",
+      "title": "Pomagają chronić nasze zdrowie, a kto chroni je? Książka o kulisach pracy pielęgniarek",
+      "summary": "Pielęgniarka, która nie jest zawsze uśmiechnięta i pomocna, szybko dostaje łatkę „wrednej”. Klaudia Pasikiewicz w książce „Dlaczego pielęgniarki są „wredne”?” pyta, czy to cecha charakteru, czy skutek stresu i przeciążenia w polskich szpitalach. Książka ukazała się 23 października nakładem…",
+      "link": "https://www.nowiny.pl/wiadomosci/251894-pomagaja-chronic-nasze-zdrowie-a-kto-chroni-je-ksiazka-o-kulisach-pracy-pielegniarek.html",
+      "published": "2026-11-04T23:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9a8c35d44626fb0c095dc00244add2c828d87ea0",
+      "title": "Miasto potwierdza rozmowy z Akademią Śląską",
+      "summary": "Wracamy do sprawy uruchomienia w Jastrzębiu-Zdroju kształcenia na kierunku pielęgniarskim. Po zapowiedzi, która padła na październikowej Komisji Edukacji, jest oficjalne stanowisko miasta. Prezydent Jastrzębia-Zdroju prowadzi rozmowy z Akademią Śląską z Katowic o możliwości utworzenia w mieście…",
+      "link": "https://jastrzebieonline.pl/wiadomosci/252000-miasto-potwierdza-rozmowy-z-akademia-slaska.html",
+      "published": "2026-11-04T23:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c97d2826ceb34a2fef944c3bc037b8c1655639b6",
+      "title": "Szpadziści RMKS-u Rybnik reprezentowali Polskę w Austrii",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQekY1QnpfRDJNRk90MWJhZXk2LVlPUWlfNFpIcEtROHNDRkxfVktBSjN6RDhWdExIWFg1dElfSmxHV1Bob1NCSTc2ZXNUdEJrV2wxMi1BZmJwWFVWWkpSN25mVzRsV3VvNElBSXluTFJDZVBuaUFUbUprTEtoNnpIU1FLR3BNUlFWLTNlVTNTMWxINWNvRnBraDBicnJ4djFaN1ppSjVSZG5KcFJIeElkNWNXNkU?oc=5",
+      "published": "2026-11-04T20:38",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b1ea9981b68eaa6f59c750f5ec097f3078fdfe4d",
+      "title": "„Górnicy mają zaciskać pasa, a menedżerowie zmieniają stołki?” Będzie wspólny protest JSW i PGG?",
+      "summary": "Przejście Bogusława Oleksego z JSW do Polskiej Grupy Górniczej wywołało reakcję Danuty Jarczok, przewodniczącej Federacji Pracowniczych Związków Zawodowych w JSW. W piśmie skierowanym do pracowników pyta o odpowiedzialność za decyzje podejmowane w spółkach górniczych i apeluje o rozmowy dotyczące…",
+      "link": "https://jastrzebieonline.pl/wiadomosci/252001-gornicy-maja-zaciskac-pasa-a-menedzerowie-zmieniaja-stolki-bedzie-wspolny-protest-jsw-i-pgg.html",
+      "published": "2026-11-04T20:22",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "12cccf9a684e20a841a666dafa5f08429a7de364",
+      "title": "Seniorzy świętowali w Radlinie. Była muzyka, moda, teatr i regionalne smaki [ZDJĘCIA]",
+      "summary": "4 listopada w Miejskim Ośrodku Kultury w Radlinie odbyły się obchody Radlińskiego Dnia Seniora. Wydarzenie, organizowane już od kilku lat przez Stowarzyszenie Kobiet Aktywnych (SKA), ponownie stało się okazją do wspólnego świętowania, integracji i kultywowania śląskich tradycji.",
+      "link": "https://www.nowiny.pl/wiadomosci/251965-seniorzy-swietowali-w-radlinie-byla-muzyka-moda-teatr-i-regionalne-smaki-zdjecia.html",
+      "published": "2026-11-04T20:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3ee97ac6757a98ac7006441a16abd3fb87c689ce",
+      "title": "Rekordowa frekwencja na śniadaniu IPH ROP. Przedsiębiorcy stawiają na kapitał relacyjny i edukację (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNjJSdVhJeEhrSDAyQ3hrTEY4X1FiZE9qbklXS2xjaG90bkdNdy14WEFFYk5JV2tpdTMycGpOWlVDblpLVVRjYVBaRHdyS3NEUkt3ZGgzVnMxMWpNNlpscWxwcWN6UW00S0g4UjR0YjZiMF9WT0NncHkwVVFLV1lDOW9kV0p4eXVhSTJmbDF3UXJpMVhleVgzQktQSVdEY19md0JzdTkydDYycHJLQlFnZWd4a0tVSlAxU01PRGVzU2NuX0JYc1ZwbEYxMlZlMi14cGdZcGlzRkFRUXphTDB0aXlHMWZwMFdNYkJmZGJmOEFEWW1X?oc=5",
+      "published": "2026-11-04T17:21",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "dad5044def94bc6d0537ab8b2055b70a124aef4f",
+      "title": "Zagraj szybko, odważnie i bez kompromisów! Turniej szachowy TAL BLITZ OPEN już 21 listopada (patronat)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcTdrTjhxRnJFYmE4RVRHYy1ESFdLWktCRDhueDI3ZXJJRUNMRUNyV29fWThRb2JETFdHQmFMamd3YXBzUFVXNnRiZXhuTlc4Y3FTblZVNGllX1phb3dIdFR1WDVoT1o1TlVQb2ZraElkbVhLMTZzRkRPRXByUks0NlVkUUVsREx6aG1QMTJPU3dndVFSdzdaZUVpVDNkd1o1cWV1UlV5R1JHWnFlaWYyZFJIYXhqR2V2eExKbkNkaEZjWFNkdFp4UWlONnhMSENOMjVpYzZ2bUNHUUYtTldsYnVCbDl2UFZBdjBXUQ?oc=5",
+      "published": "2026-11-04T17:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "59a582bc2e5652b6f1841cbd0312d8a947aa2f65",
+      "title": "Kryzys edukacji czy kryzys myślenia? „Umysł zamknięty” Allana Blooma w cyklu „Książka do kawy”",
+      "summary": "Umysł zamknięty to bestseller, sztandarowe dzieło współczesnej myśli konserwatywnej. Pełne rozmachu rozważania Allana Blooma dowodzą, że współczesny kryzys polityczny i społeczny jest w istocie kryzysem intelektualnym. Książka ukazała się 3 listopada nakładem wydawnictwa Zysk i S-ka. Polecamy ją w…",
+      "link": "https://www.nowiny.pl/wiadomosci/251892-kryzys-edukacji-czy-kryzys-myslenia-umysl-zamkniety-allana-blooma-w-cyklu-ksiazka-do-kawy.html",
+      "published": "2026-11-04T17:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3bc72b37dbcce791269cc97bb9a6e7f2c3efd292",
+      "title": "Medale prałata Pieczki wręczono przy ołtarzu kościoła farnego z okazji 24. edycji Dni Księdza Stefana",
+      "summary": "Tegorocznymi Laureatami Medalu „Unitas in Veritate\" zostali: Biskup Diecezjalny Andrzej Czaja, Agata i Zbigniew Wieczorkowie, Jan Duda i Leonard Fulneczek oraz Specjalny Ośrodek Szkolno-Wychowawczy dla Niesłyszących i Słabosłyszących.",
+      "link": "https://www.nowiny.pl/wiadomosci/251998-medale-pralata-pieczki-wreczono-przy-oltarzu-kosciola-farnego-z-okazji-24-edycji-dni-ksiedza-stefana.html",
+      "published": "2026-11-04T16:44",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "67c4497980319748ad590fe44fcfb9ddb19b6244",
+      "title": "Narodowe Święto Niepodległości w Rybniku. Uroczystości na rynku i koncert zespołu VOX [ZAPOWIEDŹ]",
+      "summary": "Msza święta w intencji ojczyzny, uroczystości na rynku, ślubowanie kadetów i wspólne śpiewanie pieśni patriotycznych. Tak Rybnik będzie obchodził Narodowe Święto Niepodległości 11 listopada. Tego samego dnia w Teatrze Ziemi Rybnickiej odbędzie się jubileuszowa X Biesiada Śląska z udziałem zespołu…",
+      "link": "https://www.nowiny.pl/wiadomosci/251992-narodowe-swieto-niepodleglosci-w-rybniku-uroczystosci-na-rynku-i-koncert-zespolu-vox-zapowiedz.html",
+      "published": "2026-11-04T16:16",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "833fe515335cc88e92ed6b7157f29ea0e6c538d3",
+      "title": "Będzie konkurs na nazwę aquaparku w Jastrzębiu-Zdroju. Prezydent ogłosił to na konferencji [WIDEO]",
+      "summary": "Zmiany podatkowe, konkurs na nazwę aquaparku, a także powrót kolei oraz zawieszenie w planach PSE - to tematy, które pojawiły się podczas konferencji prasowej prezydenta Michała Urgoła.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/251986-bedzie-konkurs-na-nazwe-aquaparku-w-jastrzebiu-zdroju-prezydent-oglosil-to-na-konferencji-wideo.html",
+      "published": "2026-11-04T16:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "872365b24d62200ea2d58d2711f17fffd85f6039",
+      "title": "Bańki mydlane, maszyny i złudzenia optyczne. Trzy Kreatywne Soboty w SOWA Racibórz",
+      "summary": "Jak powstają bańki mydlane, co wprawia maszyny w ruch i dlaczego oczy czasem nas oszukują? Odpowiedzi na te pytania poznają dzieci podczas listopadowych warsztatów w Strefie Odkrywania Wyobraźni i Aktywności w Raciborzu. Zaplanowano trzy spotkania, a na każde obowiązują wcześniejsze zapisy.",
+      "link": "https://www.nowiny.pl/wiadomosci/251975-banki-mydlane-maszyny-i-zludzenia-optyczne-trzy-kreatywne-soboty-w-sowa-raciborz.html",
+      "published": "2026-11-04T15:55",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5aeaca7adf778c7701462219c1fc6e919f8779b6",
+      "title": "Zobaczyliśmy Szynk Wodzisław w dniu otwarcia. Klienci już sprawdzili menu [ZDJĘCIA]",
+      "summary": "W środę 4 listopada nastąpiło otwarcie restauracji Szynk Wodzisław, która wzbudziła w ostatnich miesiącach ogromne zainteresowanie. Wreszcie pierwsi mieszkańcy mogli spróbować propozycji z menu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251997-zobaczylismy-szynk-wodzislaw-w-dniu-otwarcia-klienci-juz-sprawdzili-menu-zdjecia.html",
+      "published": "2026-11-04T15:29",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f82c971a6eee21763a34860623920e3248a603d2",
+      "title": "Zwężyli ścieżkę rowerową, żeby łatwiej było malować pasy na jezdni",
+      "summary": "Przesunięcie separatorów na ścieżce rowerowej biegnącej ulicą Warszawską i Wileńską w Raciborzu „to celowe działanie, aby zachować odpowiednie standardy i przestrzegać przepisów”. Po zmianach rowerzyści i użytkownicy hulajnóg z trudem mijają się na zwężonej przestrzeni.",
+      "link": "https://www.nowiny.pl/wiadomosci/251996-zwezyli-sciezke-rowerowa-zeby-latwiej-bylo-malowac-pasy-na-jezdni.html",
+      "published": "2026-11-04T15:14",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "dd410cedbff28d5b20e4ec5b583b0f6499b15a1f",
+      "title": "Złote monety, miliony w gotówce i kontrterroryści. Potężne uderzenie w nielegalny hazard (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWEYxM2F6X3V6U3FzNTZFbl9LTjV5U3Z1enpIeHRqUThIMEJlSkxhREZpemxmVE5RZTZ0b0xyNjlpZEVXUHRya2tCMTZjWDVmU0VHMVJDc0JuRnhkS2Y4SzY1Ri1rY0NLbm5SU1k0Vk5vMVR2MXlDRnJwY1g2XzdlanVBTU9rUnp3SHRvRlY5QXVJNEo1RXFra1F2VnF4WTk5dFBPTEtSQUVjaHFMT1N4LUV5WFl1RzdyeGRuLWdNbmRPakNQVlR2ck55ekFZYlJCYlVuWjRLdFA4R3MyQ1BTSDJVYw?oc=5",
+      "published": "2026-11-04T14:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "e9d1d0de516e54da362b0a6ffda56d5fad132e01",
       "title": "Elektrownia Rybnik: jest porozumienie między innymi w sprawie dobrowolnych odejść",
@@ -94,16 +269,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "e3e1882370a019db607000d3a9cc4210b0d28507",
-      "title": "300 metrów chodnika przy Topolowej w Kuźni Raciborskiej do przebudowy. „Nie mają chodnika, mają tam bagno”",
-      "summary": "Około 300 metrów chodnika przy ulicy Topolowej w Kuźni Raciborskiej, wzdłuż drogi powiatowej, zostanie przebudowanych. Na inwestycję zabezpieczono 330 tys. zł, z czego 180 tys. zł dołoży gmina. – Per aspera ad astra, czyli przez trudy do gwiazd – mówiła podczas ostatniej sesji rady miejskiej radna…",
-      "link": "https://www.nowiny.pl/wiadomosci/251989-300-metrow-chodnika-przy-topolowej-w-kuzni-raciborskiej-do-przebudowy-nie-maja-chodnika-maja-tam-bagno.html",
-      "published": "2026-11-04T10:03",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "6456e35f61e76345e939f1722965873660ae151d",
       "title": "Bezpieczny czas zadumy w Rybniku i ponad 2300 skontrolowanych kierowców (foto)",
       "summary": "",
@@ -111,26 +276,6 @@
       "published": "2026-11-04T10:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "5a13b9749fc33706c225e09b7d36e051c632f405",
-      "title": "Bezpieczeństwo łączy pokolenia. Wyjątkowa akcja w Zwonowicach",
-      "summary": "Są inicjatywy, które nie tylko uczą przepisów, ale przede wszystkim budują więzi i rozgrzewają serca. W ramach ogólnopolskiego konkursu „Odblaskowa Szkoła” uczniowie oraz lokalni seniorzy połączyli siły. Udowodnili tym samym, że troska o drugiego człowieka i bezpieczeństwo na drodze nie mają wieku.",
-      "link": "https://www.nowiny.pl/wiadomosci/251991-bezpieczenstwo-laczy-pokolenia-wyjatkowa-akcja-w-zwonowicach.html",
-      "published": "2026-11-04T10:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "337a61a4abd3c646a71ecc2838c2db539e0905d7",
-      "title": "Most za ponad 350 mln zł między gminami Nędza i Rudnik. Budowa dobiega końca, ale na otwarcie trzeba będzie poczekać",
-      "summary": "Budowa mostu między Grzegorzowicami a Ciechowicami zbliża się do końca. Czy kierowcy będą mogli skorzystać z nowej przeprawy jeszcze w tym roku? Zarząd Dróg Wojewódzkich w Katowicach potwierdza, że wcześniejsze zakończenie prac jest realne, ale zastrzega, że nie oznacza to automatycznego otwarcia…",
-      "link": "https://www.nowiny.pl/wiadomosci/251988-most-za-ponad-350-mln-zl-miedzy-gminami-nedza-i-rudnik-budowa-dobiega-konca-ale-na-otwarcie-trzeba-bedzie-poczekac.html",
-      "published": "2026-11-04T09:34",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -154,26 +299,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "8a8da2ee15b45bd82740c431efb8c28d7c8884ad",
-      "title": "Inauguracja nowego sezonu koncertów umuzykalniających w RCK: Raciborscy uczniowie poznali tajemnice akordeonu.",
-      "summary": "Za nami pierwsze koncerty umuzykalniające w tym roku szkolnym 2026/2027 dla dzieci raciborskich szkół podstawowych klas 1-3. We wtorek 27 października Raciborskie Centrum Kultury gościło wirtuoza akordeonu i kompozytora Adama Potera, który przyjechał do dzieci specjalnie z Katowic. Pan Adam jest…",
-      "link": "https://www.nowiny.pl/wiadomosci/251985-inauguracja-nowego-sezonu-koncertow-umuzykalniajacych-w-rck-raciborscy-uczniowie-poznali-tajemnice-akordeonu.html",
-      "published": "2026-11-04T08:17",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "bcb60ac73932b7c3170876fb9483b4db5dc21fb4",
-      "title": "Czy Kuźnia Raciborska straci ważne pociągi? Ministerstwo mówi jedno, rozkład wskazuje na coś innego",
-      "summary": "Najpierw mowa była o marcu 2027 roku, teraz pojawił się znacznie wcześniejszy termin. Według najnowszych informacji opublikowanych przez Kolejowy Rybnik pociągi IC „Heweliusz” i IC „Artus” mogą przestać zatrzymywać się w Kuźni Raciborskiej już 13 grudnia. Tymczasem gmina poinformowała o odpowiedzi…",
-      "link": "https://www.nowiny.pl/wiadomosci/251984-czy-kuznia-raciborska-straci-wazne-pociagi-ministerstwo-mowi-jedno-rozklad-wskazuje-na-cos-innego.html",
-      "published": "2026-11-04T08:16",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "7baca70c928520096fc8e793aae66df57597733d",
       "title": "Tragiczny wypadek w Czerwionce-Leszczynach. Nie żyje piesza. Została potrącona na przejściu dla pieszych [AKTUALIZACJA]",
       "summary": "Tragiczny wypadek na Parkowej w Czerwionce-Leszczynach, zginęła tam piesza. Doszło do niego dziś (4.11) po godzinie 6.00. W jakich okolicznościach doszło do tego zdarzenia?",
@@ -191,26 +316,6 @@
       "published": "2026-11-04T07:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "15bf25356a3d469297719e6938220e11029fae38",
-      "title": "62,5 tys. podróżnych na trasie Rybnik-Bielsko. Od grudnia pociągi pojadą także do Raciborza",
-      "summary": "Nowe połączenie kolejowe między Rybnikiem a Bielskiem-Białą cieszy się dużym zainteresowaniem. W ciągu pierwszych ośmiu tygodni skorzystało z niego 62,5 tys. pasażerów. Koleje Śląskie zapowiadają więcej kursów, a od grudnia pociągi pojadą jeszcze dalej, bo aż do Raciborza.",
-      "link": "https://www.nowiny.pl/wiadomosci/251976-625-tys-podroznych-na-trasie-rybnik-bielsko-od-grudnia-pociagi-pojada-takze-do-raciborza.html",
-      "published": "2026-11-04T06:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "2888b93f31c2f0b97e4be986565c0ad393772733",
-      "title": "Pielęgniarstwo w Jastrzębiu-Zdroju? Taka zapowiedź padła na Komisji Edukacji",
-      "summary": "W Jastrzębiu-Zdroju może ruszyć kształcenie na kierunku pielęgniarskim. Informacja o takiej możliwości pojawiła podczas październikowego posiedzenia Komisji Edukacji Rady Miasta. Sprawa nie pozostała jedynie w sferze dyskusji. Radny Grzegorz Mosoń zwrócił się do prezydenta miasta o przedstawienie…",
-      "link": "https://jastrzebieonline.pl/wiadomosci/251983-pielegniarstwo-w-jastrzebiu-zdroju-taka-zapowiedz-padla-na-komisji-edukacji.html",
-      "published": "2026-11-04T05:44",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -264,56 +369,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "f3a0bbe348651598c3b1503f9da4d7d478095375",
-      "title": "Plon niesiemy, czyli dzieje dożynek i symbole święta plonów w „Nieodkrytych skarbach pogranicza” w Nowinach Raciborskich",
-      "summary": "W wydaniu tygodnika „Nowiny Raciborskich” z 3 listopada Czytelnicy znajdą tematykę dożynkową, choć sezon świętowania efektów żniw mamy już za sobą. To kolejne, nowe cztery strony cyklu „Nieodkryte skarby pogranicza” przygotowane przez Mariusza Weidnera.",
-      "link": "https://www.nowiny.pl/wiadomosci/251981-plon-niesiemy-czyli-dzieje-dozynek-i-symbole-swieta-plonow-w-nieodkrytych-skarbach-pogranicza-w-nowinach-raciborskich.html",
-      "published": "2026-11-03T22:21",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "85c614c6fc3c5b32006443c43c8e15a018cf23db",
-      "title": "Ponad 26 mln zł na modernizację rybnickiego psychiatryka. Jak zmieniły się dwa pawilony?",
-      "summary": "Kliniczny Szpital Psychiatryczny w Rybniku zakończył modernizację dwóch pawilonów. Odnowiono cztery oddziały psychiatrii ogólnej oraz oddział psychiatrii sądowej. Inwestycje kosztowały łącznie ponad 26,3 mln zł.",
-      "link": "https://www.nowiny.pl/wiadomosci/251980-ponad-26-mln-zl-na-modernizacje-rybnickiego-psychiatryka-jak-zmienily-sie-dwa-pawilony.html",
-      "published": "2026-11-03T22:15",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6a98a814b0b36babf8bafbfb845e88f78dff4b4e",
-      "title": "Nowy wóz strażacki za 1,6 mln zł trafił do Rybnika. OSP Kłokocin wymienia Scanię z 2012 roku",
-      "summary": "Ochotnicy z Rybnika-Kłokocina mają nowy ciężki samochód ratowniczo-gaśniczy. Scania P420 4x4 kosztowała blisko 1,6 mln zł. Pojazd zastąpi wysłużony wóz z 2012 roku i został już przygotowany do udziału w akcjach ratowniczych.",
-      "link": "https://www.nowiny.pl/wiadomosci/251979-nowy-woz-strazacki-za-16-mln-zl-trafil-do-rybnika-osp-klokocin-wymienia-scanie-z-2012-roku.html",
-      "published": "2026-11-03T21:56",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "84999f708630fbbb50660531f6a9bc15ce934d9f",
-      "title": "Amelia Lipa zaprasza na koncert „Z miłości do Ojczyzny”. Wstęp bezpłatny",
-      "summary": "Pieśni o Polsce, jej historii i walce o niepodległość zabrzmią podczas koncertu Amelii Lipy. Wokalistka, która rozwijała swoje umiejętności w raciborskim MDK, wystąpi 8 listopada w Miejskim Ośrodku Kultury w Głubczycach.",
-      "link": "https://www.nowiny.pl/wiadomosci/251977-amelia-lipa-zaprasza-na-koncert-z-milosci-do-ojczyzny-wstep-bezplatny.html",
-      "published": "2026-11-03T21:35",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b1dec42b0d07bf41e044e1e41759c45bc4f2b55e",
-      "title": "I Puchar Polski w szermierce: szpadziści RMKS-u Rybnik walczyli w Szczecinie",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT3VISG5VR1JsekNWcTlTeHpIWDh2N08wcW42VXdrNVhxTEZOaFNsdHk4WDNrUnAxNmdFZnA1bk4zcDNYOG9hWmhwMjJFd3M3Z1MxdDlLeHR6TnhrTzVOUTFrbVZSWjRuM1ZDYUxzMEtqV2tqdk0zeGljcmpXbkNQM1VJLWd2V1FrMEozRHhiOWNvbUNMX09qX2hNRVFKU0dkMjExZnItbDFIcnl0YnZmMWdCUDZVWHBQOUJWMGpmQnRDMkxIaW1DUEthWnFGUQ?oc=5",
-      "published": "2026-11-03T20:27",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "edf9667dc112fa3e4ca0d4a48ab390c09adca50a",
       "title": "Ornitologiczne Mistrzostwa Śląska Kanarków i Ptaków Egzotycznych: odbędą się w weekend w Zabytkowej Kopalni Ignacy",
       "summary": "W dniach 6–8 listopada 2026 w Zabytkowej Kopalni Ignacy odbędą się III Ornitologiczne Mistrzostwa Śląska Kanarków i Ptaków Egzotycznych.",
@@ -334,21 +389,21 @@
       "priority": "NORMAL"
     },
     {
-      "id": "61278e08f6377213625965723603f18daa3cfe32",
-      "title": "Hubertus – święto myśliwych. Grzegorz Świerczyński opowiada o tradycjach i patronie myśliwych (foto, wideo)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNV0t1bndmMGhKNHlzZU5xTGs4ZDE1akVoYlJnTkFaRGZkbVRKR3lxS2g1RmFIbGwzN2U1RVdpTTh4T0dWXzhqeVE5VHFTRmZkUm1lUXU0MGNQc2daZ3N2TDRFYlJQcGZzYUlJaDh0NWFPRDh2Nm5XLUdRZG1IY3BQd2Rsbjc1emFkWWVCd0g1R3l4S1lzQzZwT05NR1BBWEc1Snkzem5VdWkxeHpUT2tqajdTRTVHbXVkSjNkV0FMS0J5dm51b3BKeTZ4aTJraHdSSGI2S0phT1U5VnJuaGtLZmU4cWczOVF5YjlEclgxemQwTEU?oc=5",
-      "published": "2026-11-03T16:45",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "d1da1c5d266759721ff64df9697c7a4fbcb46b29",
       "title": "\"Mamy w sobie moc, by pomagać\". Joanna Mazurek z Rybnika zdradza kulisy akcji ratunkowej w Niedobczycach (wideo)",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONWFTblptNXhsdUwxd1M1MUpwV2lWcldOU2JjeUtSRjRpcm9WRmFJU19KN3pTMnJEbHNGU1Y1Nlc2UXVwcllvSy1nNDZKYnRBOXhmeHVJNnIzeVhReHlIcjBIVHlWNzEwVThsd3psWVhEODM1c2hFM1NQd1B3ck9Fby1RQnZidk1KYk9zX21FVDhMb1B6ZmJCTUJsc3pVNENIdndHY2VQTzh5RzRnekt3Y0ZfUVcxRFVEeWFGdnJsbXBDTTFRM3dPWTNIUDlKdUQ2U25uTndOX2h1RXNySnBLM3RPMlhFZHF4akN0TUhwVW1kdUtSa0dR?oc=5",
       "published": "2026-11-03T15:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d5a39f16653a00668631da6c04003875ed7af783",
+      "title": "Hubertus – święto myśliwych. Grzegorz Świerczyński opowiada o tradycjach i patronie myśliwych (foto, wideo)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQXVFeEJQdjFBeEZ6TTFXVHBfWUlMcmlNdHZKWFJWa3UxYmJtcmtMNmw3SGxWX2ktODNYS1pENkNxaWctOENHbEZSdXp2OF9YY1FfcjJjeU8wM3JoVFZhTE42RGM5MUZuTEU2M1E3b3lYZWxIQ0ZrLV9YUmNvajRtR0NhZS1UXzNWaFZNYzZJaThhMnpOc0tJdldVWGMxZS1iNzAtaVBLbnd4bDRkaE1PYUNQcWlIdjBSUWdSWVpxM3lySWRiX2JaZ3ZycmV2QjJreDNSdzdBdFlUakZ5cndXbUxnb1lqTExvUThmNmJLNkk?oc=5",
+      "published": "2026-11-03T13:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -384,21 +439,21 @@
       "priority": "NORMAL"
     },
     {
-      "id": "07d3d4562431307ea98d8ec7bb8d5c72c1f3daf8",
-      "title": "wiadomości, baza firm i ogłoszenia • Portal",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDF3Z28tOWdnX3BnbWlDSFd5U3BVMUdzTjZCazlhbG5kTXVJMHlJSDJJUEI2LU83Z1J5SWhCMk5MclYzR1RoSUhKNWVQSmJRNTJxalZ3bzliQTFkZDVnd2FqUUtjNk05VHdzRm1sbnZjZnFIU0RQbGdHckdaRmFsYWVhMEZpTWhrcGQ0NTJfYkt2eUFQLXNxbQ?oc=5",
-      "published": "2026-11-03T09:14",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "b5393d9a785ec35e6340b1ea58a843c396f5a31f",
       "title": "62,5 tysiąca pasażerów w osiem tygodni! Pociągi z Rybnika do Bielska-Białej okazały się hitem",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZDVCVGozaFFTWEdCR05vVlQxVlVpNzFqNnRGaS13OWptNE84NzN3WWJPUnM1RUM5N2dZR1lJbnRqZnFsSHRxN3hNXzF5TE5MbnJnMnJKWXVtNkd4d2hvenkwQjN6VUd1SGlWN1hPbFNEdXRzX0R2YW53ZXlPQnlUTmV1SFFIS0RKaE1mNXlWZ1ZvYWVKVGs1Tm5aZk5URWM1eDRZLWVvRXRKMmRxNktlY3ozbThzdDFkNzVNU1hqQk56QXhFZlhqV3hYTlFjMjFFTjk1ejZpTGlwSzE2M29yR0tmdE4?oc=5",
       "published": "2026-11-03T09:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7604d56779d177a06c5713038c43a008c023a62e",
+      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iNVNWMk5NUWVMUVhfM20yNVNIWnZLY01vSGRlbF83aVJ0RFFuOXN6Y0IxRWRZWXlKRE1zTWltNVB2QTBrTGY1S0RzaGNaVGtrODFZLUVqeHVhSHNLRlVDdzVGYnF6dGV2TGNCQVlFa1B0elAzMFNUbE85WUpQRFE?oc=5",
+      "published": "2026-11-03T08:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -564,16 +619,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "d1b51bf6ef6ab7955d7689480a665d905a1befac",
-      "title": "Pomysł na randkę, na wolny wieczór, na sylwestra…",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQWVQa19jU1VOWVBUcTlqRVlNSmJNblFWYjA2MGdpLXVYLTZSUXdlZnYzQmNZSjJ4b3VubDcyQWZKbFV0Z2VVMnJYdFZfeDdjdW9jMU1KSlZXVWlPV0hMVFBOSlYtYTdNZ3hhdHRWeVZYdnBpRGw2REtwVHlNbm5PTS1zZmROaHpyeWltdjlFQmVsWmd2QnM1aUJEWjVjVUx0aERnVmlvZHJHdw?oc=5",
-      "published": "2026-11-02T10:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "06b827a3d2c3fa2257ad83b442cf39697755aad2",
       "title": "Nieczynne toalety na dworcu kolejowym w Rybniku. PKP: „Przepraszamy podróżnych za niedogodności”",
       "summary": "PKP przeprasza podróżnych za stan toalet na rybnickim dworcu kolejowym. Mamy odpowiedź biura prasowego w sprawie, o której informowaliśmy w ostatnich dniach.",
@@ -602,6 +647,16 @@
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
+    },
+    {
+      "id": "4514de2cd09744b8c6ae81a021b62f40791470fc",
+      "title": "Sezonowe zamknięcie korony zapory w Rybniku-Stodołach. Ruszają prace remontowe",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPampZTDlRWXMwYnkzNS13WXlRbzFLUnMzVFV4ZFozdjZ0cTU5TjZET0RoczFiZGF5Sl9DSFdSUWNOa2RBWURoTk1zX3BOMktlemZFeWFGRkZ0cWtYZnFNdFZ3T3F5N09tQmpNQnRyXzE1ejNvR1VoNTBlWGdqSWRSZ3lrUzZVU2xzVFhCa1ZUc0lzTU0zRW1jR2tLOFgteUpVM2wwaE1kV3F0OU1qV2FfUm80U0QyaC1YSGczUHB5QWN3U1gzd2hCRUVmVDZxemVR?oc=5",
+      "published": "2026-11-02T08:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
     },
     {
       "id": "4c1179958e01360f6efb3756ce11af5ed0f76574",
@@ -714,16 +769,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "8b68ec09f9994a8361bf3686a66237967c361216",
-      "title": "Ostatnia droga na koszt miasta. Jak wyglądają pochówki społeczne w Rybniku?",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMUQ5Y1h3Y0dKV2pVOUxoTEx2RnZWcXJZUzJZQ0QycUxicjVfakdKWDIzLVNnVlpycjZQUWxmWlREeXg5VTFYTDIzVG5MYTNkeFdNVE9xMEhybVVIMXJibjZSdGVZdVd1QTFHSHZBa19zNHI0SFpQR2xRZmlBdnhGeWViM0pKdjZtSnl4eHVlazVtSl9lOEhwZDdDZzFSQTA5YUhaZmtxZWJhRE1KRm9aYXk2dlBjbFEyQWdNQlRzMkhZSnUtR2dMMVBsVQ?oc=5",
-      "published": "2026-11-01T14:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "b255cfb5320de8c8ead164142f1ee105b87c5655",
       "title": "Teatr Ziemi Rybnickiej prezentuje repertuar na listopad",
       "summary": "Listopad w Teatrze Ziemi Rybnickiej upłynie jak zwykle pod znakiem dwóch wielkich wydarzeń - to Rybnika Jesień Kabaretowa oraz Silesian Jazz Meeting.",
@@ -749,16 +794,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSTdBVzlsdjM4TGphdnZ2VVlfTnpmLUdZdmkzZ2FsTnJ2TlVtYUI1UEpGTGgzQ2tHRThDNUljalk1R0ZqMk5YOFRkYjdrc2dvb3NPVFZ2SWxLMmkxV2dsb0ZnX0ppSTByS0pnckdwdmxuZENHMk0xT3pBYWtYcGRRdVd2bk5XMjBRVFhNcHUwaHdrRE1lNmhLcFA4TmtlRUcxN0kxOFBpWURJeWNtNTczX2JaRDVQUk1RZm1aVVNyU3lNNUw2T0dsWUVwbEQ?oc=5",
       "published": "2026-11-01T10:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3c0f8ba7580ef90b0739fa44590ea1674781c484",
-      "title": "Odeszli w ciągu minionego roku. Wspominamy znanych zmarłych rybniczan, mieszkańców powiatu rybnickiego (zdjęcia)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaXMzWjZNTWwzb0VpVkZSZ3M4bzVVR2RtSUU5dFp3Y0tXSFlxalpYVTBJQVMyeXJKMmF5MENTS1NEMjdobFJwUm9nMHFCN1lFb0hrRkdicEcwMkpQbE82aVRtQ21iRTBaaGdVMFJaM0p1OEphd0NFQTM0UEU0QkMzS0JLRl8zeXRsZWFZMjNOTFF1YnNzRW96V2dtSFV0am5pZ2Y1NmFsVjl4bVk2V1BfZEJEQTJCQUxnLTFXT2xSaWxXakRndGswSmIwQ1QtY3BWTGl3N1V2OWNEWFJiWTZxTWJyTTg2NnU5X0JHQ0tvem9kcTJSRUg5N1VB?oc=5",
-      "published": "2026-11-01T08:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -849,26 +884,6 @@
       "summary": "Pomoce dydaktyczne, dzięki którym możliwa będzie pełna realizacja nowej podstawy programowej trafią niedługo do kilkunastu rybnickich szkół podstawowych. Jak informują w Urzędzie Miasta w Rybniku pojawią się one w 19 \"podstawówkach\". Będą wykorzystywane podczas lekcji przyrody oraz Zajęć…",
       "link": "https://www.radio90.pl/szkoly-podstawowe-w-rybniku-do-kilkunastu-placowek-trafi-nowe-wyposazenie-do-nauki-przyrody-i-zpt.html",
       "published": "2026-10-31T09:15",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3cac81f4d0c9775f2cf577993b0dac673496b04a",
-      "title": "Kuchnia Radia 90: Ciasto marchewkowe z cynamonem i cukrem pudrem",
-      "summary": "Marchewka świetnie sprawdza się nie tylko w daniach wytrawnych, ale również w słodkich wypiekach. Dodana do ciasta sprawia, że jest ono wilgotne, a cynamon nadaje mu korzenny aromat. Mamy dla Was prosty przepis na domowe ciasto marchewkowe. Koniecznie wypróbujcie go w swojej kuchni!",
-      "link": "https://www.radio90.pl/kuchnia-radia-90-ciasto-marchewkowe-z-cynamonem-i-cukrem-pudrem.html",
-      "published": "2026-10-31T07:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "7120ff535eb0d5524cfe2a1361cc9da33dcba7b6",
-      "title": "Dzieje się w Rybniku: Muzyczne Zaduszki, zaduma i przygotowania do świąt",
-      "summary": "Jak co tydzień przygotowaliśmy dla Was zestaw najważniejszych wydarzeń w mieście. Jak zawsze dzieje się w Rybniku.",
-      "link": "https://www.radio90.pl/dzieje-sie-w-rybniku-muzyczne-zaduszki-zaduma-i-przygotowania-do-swiat.html",
-      "published": "2026-10-30T15:40",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -1062,16 +1077,6 @@
       "source": "rybnik.eu",
       "category": "Komunikaty",
       "priority": "NORMAL"
-    },
-    {
-      "id": "c76c7efc2d082ae6c899a7ea25297ccfe31fd884",
-      "title": "Ruch wahadłowy między ul. Pojdy a Dworcową. Zmiana organizacji ruchu w Czerwionce-Leszczynach",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT0Q3MFYtM2pPNEk3ZzZKX3NPb0w1c1VGWU5LT3dzQkhOZURpb19MWnpLVi05NW1LSWUteng3bjB1OWh3Ym9aU2U1bWdtdy12eTdLSmZWa0J6ekloaTFKazJ2SkZUQkVIRThPcUNHMzZqSWFwZFFvOGtxY1VCV2VlQnd5TWVySWtVcXR4d3hlaGxaeC1MaDFHNnF3Q3NRR1JRck1JaHhFNUh1SnNiRzZ5VHpmTkhxRDQ4bThtcF93WVhOeDZRMmpPekRmVllNc3BsQkJORlJqM0gxUjBUeW1TVXJuRQ?oc=5",
-      "published": "2026-10-16T07:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "ALERT"
     },
     {
       "id": "e1a949b3a0d5f99e715e3d6b3248e7cf6eccb638",
