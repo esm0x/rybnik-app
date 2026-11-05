@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:42:42",
+  "generated_at": "2026-11-05T19:57:17",
   "count": 60,
   "failures": [],
   "teams": [
@@ -715,11 +715,11 @@
       "url": null
     },
     {
-      "id": "row-1964-2026-11-21-warta-gorzow-wielkopolski",
+      "id": "row-1964-2026-11-22-warta-gorzow-wielkopolski",
       "teamId": "row-1964",
       "competition": "III liga, Kolejka 18",
-      "date": "2026-11-21",
-      "time": null,
+      "date": "2026-11-22",
+      "time": "13:00",
       "home": "Warta Gorzów Wielkopolski",
       "away": "ROW 1964 Rybnik",
       "isHome": false,
