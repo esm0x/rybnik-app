@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:57:10",
+  "generated_at": "2026-11-06T06:38:26",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,36 @@
     }
   ],
   "items": [
+    {
+      "id": "378981de79de50b087ae2dd52a026c22ab0fee63",
+      "title": "Kierowcy, noga z gazu! Mróz i mgły utrudniają jazdę",
+      "summary": "Poranny mróz i gęste mgły utrudniają jazdę na drogach regionu. Temperatura spadła poniżej zera, a miejscami widzialność ograniczona jest do mniej niż 200 metrów. Obowiązuje ostrzeżenie meteorologiczne pierwszego stopnia.",
+      "link": "https://www.radio90.pl/kierowcy-noga-z-gazu-mroz-i-mgly-utrudniaja-jazde.html",
+      "published": "2026-11-06T06:01",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "ALERT"
+    },
+    {
+      "id": "7adbdf7dc09b82ee18c46784d7eceaa091175b65",
+      "title": "\"Nasz Nowy Dom\" w Rybniku! Historia Krzysztofa i 11-letniej Julii poruszy całą Polskę",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTjM1Mk9DRVQ5N1ZnUHAxaE8tOTBZOWJmdEVXeGVNMEVjcWFaSFI5X3V3cFhZelhEVlM1Sk1UdDFxU1NXU2lsaHpLM2pWWnRkYkkzWXc3T0ZoVkNVb3V6aE43dUlSUEJqN3JEUk1WdWZERS1kenBncTNFaHhtcHhLUXVBdnN0VVZpSGFvRHVmZWM3d1BZRE90ODdmU3EwS0hjUFZkT3dJYlZ6VVV4TVlsOWJBdGNZMTVlX1pDSnVRd2hOR1FSZjdkWTd0Z0ltRTZCUE9GVU9HclpHQQ?oc=5",
+      "published": "2026-11-05T23:04",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c2bc586de2fd6ee73760d980f7148dd1392546c8",
+      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWTVaQ0hSd3R6UVREbkpnR2RHU3ZDc1kzZDdTaXU4VzU5QzAzcl9TaXFIdFVvZ2o4N3hhZFVDYldHR1IyT2FZWjRuZDVPZmQ1dVJmSFlnOWNTUzFtYUtiQkhmYzQzU2NaYXhDMDRQVlppSk1QYVBmVm5mZ3h1ZTUyNHdCS1h4TjNVOG1PeQ?oc=5",
+      "published": "2026-11-05T21:06",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "c82586e6646e964564e92a00447265d2be0b3aae",
       "title": "Powieść z Wodzisławiem w tle. Maciej Marcisz z Rydułtów wydaje „Gorszego syna”",
@@ -36,16 +66,6 @@
       "published": "2026-11-05T17:19",
       "source": "nowiny.pl",
       "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "478e944a6708a456fefaf2531f3fde9eb9d7a1e3",
-      "title": "\"Nasz Nowy Dom\" w Rybniku! Historia Krzysztofa i 11-letniej Julii poruszy całą Polskę",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRXFGUmtCZmRNYmVWN1pUVmlROVJfbFlKR1BYM2tyd0lPR0dxdW96cERYT3hSRm9naU9zNE9xLUpQOFlKRlMtdnQtRmU3WTdmTEJZd3JZZy1rbm85dXZJc2VFYmk2WGxWX1VNQThTcEZLSnlTMEZmaUQ3a2tuQUJJWElRU1NoXzZEMUhIZTFSRndFc0tOdkdwbFZpOVAzT1ZtLVUwMTlQRmJoTG9IRmhmazdIV0Y2dlhXNFdkZk5fME9sT1JkZEkxdDdiQXBKQWplZmxtc0UyaFJ6QQ?oc=5",
-      "published": "2026-11-05T17:01",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -299,16 +319,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "32041b8e6200b52d52592865d5611831cd5110fc",
-      "title": "JAS-FBG – firma spedycyjna oferująca kompleksowe usługi transportowe i logistyczne",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQczQtUXdpdzFlZmsyb3phaC16X1NXU000UjVYMnAwY01ONXZncVdkeDBjLVo5a3JHSTMxd0R1MVA5NE5GRmlBZmJTNER4TVBNN2ptUlJkSGUyWUQ3LW01eGY0dnRFNGJRdzFKcHlfaG9EU0RoX0MzMHg2Y193Wk5tcVM1QmlzYmVrSHJlRmE4SXY4YzVXT1dZdkUwWkFrU3IxdVFjbk84NVVRWnpHRTBSTFo0UExjckRBbjVuZmR3SHF6WlQxVWlETV9lV04tQjJFUnByOQ?oc=5",
-      "published": "2026-11-05T06:47",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "ceb52095de316164e3ab238c74b61150892476c5",
       "title": "Wypadek w Rybniku o poranku. Drogę udało się już odblokować [AKTUALIZACJA]",
       "summary": "Zderzenie czołowe dwóch samochodów osobowych na odcinku Drogi Śródmiejskiej, to zjazd z drogi Pszczyna- Racibórz do Ronda Biegaczy w Rybniku Obwiedni Południowej.",
@@ -376,16 +386,6 @@
       "published": "2026-11-04T23:00",
       "source": "nowiny.pl",
       "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c97d2826ceb34a2fef944c3bc037b8c1655639b6",
-      "title": "Szpadziści RMKS-u Rybnik reprezentowali Polskę w Austrii",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQekY1QnpfRDJNRk90MWJhZXk2LVlPUWlfNFpIcEtROHNDRkxfVktBSjN6RDhWdExIWFg1dElfSmxHV1Bob1NCSTc2ZXNUdEJrV2wxMi1BZmJwWFVWWkpSN25mVzRsV3VvNElBSXluTFJDZVBuaUFUbUprTEtoNnpIU1FLR3BNUlFWLTNlVTNTMWxINWNvRnBraDBicnJ4djFaN1ppSjVSZG5KcFJIeElkNWNXNkU?oc=5",
-      "published": "2026-11-04T20:38",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -489,26 +489,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "251281e2104a01016dce888d81df45c2dd19a773",
-      "title": "Współpraca z influencerami: Od przerywacza uwagi do przewidywalnego kanału wzrostu",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWTNGWl80MXUydUNBUjRiOGZxVWxEN0JjdS1FVTlsQXVsY3ppdHpnaGNaVFBpWTNJeUl6b2o4djgtYzhvd0kzSnRGUndNMERZOVprTk1ocC0yX180YzJiUlpyUnpWaVNLc0lqRkY0VlJrQVVoSEQ1TnI0YkFJME92UjVFRTBRWktzQ3JYVHE0dmdFc0tQUWpOczhoUEMtSEFqUzhGRzNOMUtfcnJWYnJNNGgtMEE4X05oLVY3TlRjLXl0N2JVOEtrMXhtT1oydExyTUEyakNn?oc=5",
-      "published": "2026-11-04T08:56",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "4240b3ad991ec180752512f5424bd2a996fb0baa",
-      "title": "Ewolucja zaufania. Dlaczego tradycyjna reklama traci siłę przebicia?",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeERmajd6aWtKVnJyakJfbkR6MkdYRlREdE1DdUEzR2cwdjh2V0lyTGdnWHFMbWdZUHBGcWJPODZRZHJxbGE4aUdjallhZG9wYnNNZ3NMU0o5d2lCaU9FMTBqMUJWZUtMOUppMTFsZ3BuOFE3blVpYXFPZFJuQWg1NXN3cTRlOWgxRmJIanBWeVBxcG5RS1g5aWJTOUFISzV2MmhobzUxT0VydEktVDlISjBacmNkN0gyQ2hqaVBzRm9uUQ?oc=5",
-      "published": "2026-11-04T08:26",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "3fdecc74261501e53bee152653bcf22e0e751375",
       "title": "Targowisko miejskie w Rybniku: odbędą się konsultacje dotyczące przyszłości tego miejsca. Dziś i w sobotę",
       "summary": "Mieszkańcy, sprzedawcy i kupujący będą mogli współdecydować o przyszłości miejskiego targowiska w Rybniku. Zaplanowano konsultacje społeczne dotyczące jego modernizacji.",
@@ -524,16 +504,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzYxbHVybENzaVNjZzk2elhudmFLWnRnSWpLbkNTbHVwWVR6bnRjUG1sTjdISW1ZOHFRSzRKNTR2WHRJWEM4U0gtUXpWQlc5WG9fRWxyRG9FdGFHcXpVWkFlTV9QX0N1YnlvRFNXUEY5MXNwbzVnMWlfakJGUDdMdzE5Wk84NFRoNzdqM0ZERTc4eXBocnRyNmFVdVlnNVZYaVFtT2JoZDhtNnpORk9JaDlBYkpTMmtBT3RpTkhn?oc=5",
       "published": "2026-11-04T08:20",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0a8bcec008c4ee575e3ee2d9935b5cb9a6aacc6e",
-      "title": "Jak influencer marketing może pomóc Twojej firmie?",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUtxLWI5LVgwSnRhdkM2YUtBeXJqVGJ6STV2RWprQ0dFQTFiOWVVMWJ3bnB2UXVCR18wRlFlNEJhOUNGNTdYRkxZOGxSaHdpcWVnaXNIeTZPR0N0MXBiVEJxVldtaW1zam5iSlE5M2pjZTNIVjdSYUI0elRWaDFYenl4ZFZHQVVHalpoN3JKemtMRkc2RExGb3pSU3dXQVBRNC1xNXNfMTNDTnc?oc=5",
-      "published": "2026-11-04T08:18",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -634,16 +604,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNV0t1bndmMGhKNHlzZU5xTGs4ZDE1akVoYlJnTkFaRGZkbVRKR3lxS2g1RmFIbGwzN2U1RVdpTTh4T0dWXzhqeVE5VHFTRmZkUm1lUXU0MGNQc2daZ3N2TDRFYlJQcGZzYUlJaDh0NWFPRDh2Nm5XLUdRZG1IY3BQd2Rsbjc1emFkWWVCd0g1R3l4S1lzQzZwT05NR1BBWEc1Snkzem5VdWkxeHpUT2tqajdTRTVHbXVkSjNkV0FMS0J5dm51b3BKeTZ4aTJraHdSSGI2S0phT1U5VnJuaGtLZmU4cWczOVF5YjlEclgxemQwTEU?oc=5",
       "published": "2026-11-03T16:45",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d1da1c5d266759721ff64df9697c7a4fbcb46b29",
-      "title": "\"Mamy w sobie moc, by pomagać\". Joanna Mazurek z Rybnika zdradza kulisy akcji ratunkowej w Niedobczycach (wideo)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONWFTblptNXhsdUwxd1M1MUpwV2lWcldOU2JjeUtSRjRpcm9WRmFJU19KN3pTMnJEbHNGU1Y1Nlc2UXVwcllvSy1nNDZKYnRBOXhmeHVJNnIzeVhReHlIcjBIVHlWNzEwVThsd3psWVhEODM1c2hFM1NQd1B3ck9Fby1RQnZidk1KYk9zX21FVDhMb1B6ZmJCTUJsc3pVNENIdndHY2VQTzh5RzRnekt3Y0ZfUVcxRFVEeWFGdnJsbXBDTTFRM3dPWTNIUDlKdUQ2U25uTndOX2h1RXNySnBLM3RPMlhFZHF4akN0TUhwVW1kdUtSa0dR?oc=5",
-      "published": "2026-11-03T15:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -779,6 +739,26 @@
       "priority": "NORMAL"
     },
     {
+      "id": "2921c05b47aa97963616a1402a1e5d5ceb28e0b0",
+      "title": "Wszystkich Świętych w Rybniku: cmentarz wieczorową porą (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGtJbDl2YlE0Rnl6cG5wUlIydHNFQWFFS2FjRmVMUXMtZURHVk16VEV1aDUxdWluVHU0WEtUWG1JMVhMS1FmdjRNQXF1RUFOMWF0TEJ4aHo4TjJSSmQwaXlPSFFWLWEzNnoySmRWYjd5M05EM19GMUtYWEkwNW5sWlNhMzBXTDlMSVUwMUFrX1lhQ25qQVFHZmtXUXR1Nm5fbmZ0RWc1YlNxYkUtVnA2VEtSSHM?oc=5",
+      "published": "2026-11-02T15:07",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e50cb759e3a904fa58e14aec85091b6148499484",
+      "title": "Nocne hałasy, hulajnogi i skargi na podpalenia przy SP34. Miasto zapowiada zamknięcie terenu",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN0k4VGJFZEM3SzMzSG1jeWU2bjZydVo1VGMwaHRlRl9BaFFPVzJES09RUkRoLXpyYm9ZM0U1UkJJS0MxSGJhajFqT3RRTUR1V1FqbzZyN2gyblE0d0xTT0pQLTV0R016OUFLaDJ0VHVzM3dXb1g4VzY4TFFzUmFUeWhjNFl5Q0ZQaEF3NjM5aEtaRm1JZnA4SWZuNzQ5NmEyR0NQMmpwTWQ3UFoyVWZjS1BKM21WTkFhU21ybFJtZUxfS0hlWUVCMzhuOFhKUV9PQXY5VERXeElQX0FrV3BvSUJB?oc=5",
+      "published": "2026-11-02T14:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "f752280b386eb3c0120a4af9dcc2f77a825c4376",
       "title": "MKKS Rybnik lepszy od UKS-u Regis Wieliczka. Ekipę spod Krakowa pokonali jednak dopiero po dogrywce [ZDJĘCIA]",
       "summary": "Piąta z rzędu wygrana koszykarzy MKKS-u Rybnik. Po dwa punkty sięgnęli jednak dopiero po dogrywce w meczu przeciwko UKS-owi Regis Wieliczka. Wygrali 101:92.",
@@ -849,51 +829,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "3a8e60a4ffbf3b78d6a899f1285f32a50da01c33",
-      "title": "Judo: Dawid Szulik bez sukcesu w mistrzostwach Europy U23",
+      "id": "e5daf25a836c89b0d90e9c6aec07d99c970a59ef",
+      "title": "Rewolucja w urzędach na Śląsku: Podatki i opłaty zrealizujesz w aplikacji mObywatel",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHJaZ0VHdlMweU1COHRVQ2RCcTZHaDViTWp6ZGZHeHZiRk5nS1ZWRzFjVmk0OEpNaXpkMUlWdlk4X3BLaGVBWGdkejVCeUZBSEIyUzdqbjlfbjFJN2EwMWNVYUN2QWNLNm84cTdJVktoSWs5YkZJRGdkMkh0UndXcTlEaHF3cXNQOEN2eGtTYUVjTHVWZU5xQU1LZy02c3g1eWxQX3dYdkZNaUtaQ2pfQjJrb0c?oc=5",
-      "published": "2026-11-02T09:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ea8b54df850fa2ae7f8e457af0544aa33358b218",
-      "title": "Infolinia dla osób bezdomnych już działa",
-      "summary": "Całodobowo i bezpłatnie. Urząd Wojewódzki wzorem lat poprzednich uruchomił od wczoraj (1.11) infolinię mająca wspierać osoby w kryzysie bezdomności.",
-      "link": "https://www.radio90.pl/infolinia-dla-osob-bezdomnych-juz-dziala.html",
-      "published": "2026-11-02T08:39",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "4514de2cd09744b8c6ae81a021b62f40791470fc",
-      "title": "Sezonowe zamknięcie korony zapory w Rybniku-Stodołach. Ruszają prace remontowe",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPampZTDlRWXMwYnkzNS13WXlRbzFLUnMzVFV4ZFozdjZ0cTU5TjZET0RoczFiZGF5Sl9DSFdSUWNOa2RBWURoTk1zX3BOMktlemZFeWFGRkZ0cWtYZnFNdFZ3T3F5N09tQmpNQnRyXzE1ejNvR1VoNTBlWGdqSWRSZ3lrUzZVU2xzVFhCa1ZUc0lzTU0zRW1jR2tLOFgteUpVM2wwaE1kV3F0OU1qV2FfUm80U0QyaC1YSGczUHB5QWN3U1gzd2hCRUVmVDZxemVR?oc=5",
-      "published": "2026-11-02T08:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "ALERT"
-    },
-    {
-      "id": "b2828e91dae6f00453428ed7f777df1dd20623a8",
-      "title": "Zakup używanego auta z zagranicy przez internet: co sprawdzić przed zapłatą i odbiorem",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTXVWQU1LYzFqT01WYkhhOElsQUs0YzRiMHJMVm14Qi1uZ1gtXzJXUUpDRi0wYVZoZDRvemk1Nm9lUVE0Z1YwQ2dnWEdmaFFaUFRQcERiVE13WHpfZWpUY2NSUkdhQ2I3dExXeVcyUWw0ZS1vUkhUT1lkazVhV2Q3djV6YjBRMGxOTDRGRUxLaVJKOW5Ga1FwMGNUQS1fdi1ZQlVCcldKYUtnLV9zb3RqaEstRWpObEtYU1p1UTlwN0prNUVmRnhPbEUyMGJ5b1c0Tm5GTEotZXhjOGs?oc=5",
-      "published": "2026-11-02T07:41",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "64a354ca4718e615a5e4b8b0b71ca97318806d2c",
-      "title": "Pierwsza praca w księgowości – od czego zacząć i jak zdobyć praktyczne kompetencje?",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSHMxeWdYNEh2ZUkxb3k5bEJzelpPTUNzN1A4R2lTbWJ3MndyUEdjTWVvT041VG5FU1FyNWVDOERXb0Vtcnk4QlJBTEJudVk5LWFOejJ1amd0QzVIRzNjWlQ5cU9LSUdxX3JMS09yaVBPZ21IS204UEstOUJoZ0MyLXVQM0dEem1zSXgxTjZFczh4WE0wUHZzRXdiUW9ORFExRzhwOTN0Z1RvYjdBcWVLSzNWc3ZCQWZyUUNPbEs4empyS2Ryd0FLR0dlTnZoNEt5RXJvRQ?oc=5",
-      "published": "2026-11-02T07:01",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS2lDTWNBeFFnc1h3aE5sQmxVUF8tSzFYakRIcS1IT0dETkY0VFpIcFh4aERCMWRzSkhvTHdYT2ZLRnJ5dTJRVHRKYmNjVHhUU3Rtb1B6c2ZCM2Z5bEZNTjlvYVJBUzlqUTdQem90YWs2RWhhY1d0YWJKWnZ2aF9IalphTXhIUWVPTGJGdDhsbDBoUUtCVDlxN2hGbU9UM1JzLWpaMjFGSjNGbXdkU3kwR2VmZk54RjVkVnZmS2Y5ZmtYeUF4WmMzNEhsaTZRd2hrQ2ZTdzk1OA?oc=5",
+      "published": "2026-11-02T07:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -916,6 +856,56 @@
       "published": "2026-11-02T00:00",
       "source": "rybnik.eu",
       "category": "Aktualności",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b285770b208cd0dc5e8dfd4ff3c6ba3db12a60d9",
+      "title": "Znani rybniczanie, którzy zmarli w 2025 i 2026 roku. Wspomnienia",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdXdQdHhuSFUwOFNRdkpPclNkU0NPWXJDMWlYTklhUkN0eXJFV05jQS0yNWplbVVUYmY0ZFVyamJjNGU3NXpzcVVWWmtpZmFGOFJpSUw1OXZjRGVwWlR2YU1sbGpNR05iQTd5NU1neHBReThIRDdERTV5cVpKSC1DX25XaENMa1BGYmJGY2R1WENMdng4blgydUNvTnFycFBqTlYtVlJKaUk5NmVHdnJQa094VXAwVGxhYzlPZ3BWNDVudVpfdFR5N2lxNHZ6MUZlVGp2QzRHMzNNa2tBWjZDQmRsWG8wYXduV3RNSmpHRlZxSkREd0s1UVdGUjk?oc=5",
+      "published": "2026-11-01T20:52",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "562d70b087c00258ff7c311a950e05a16eaee653",
+      "title": "Wszystkich Świętych w Rybniku: mieszkańcy tłumnie odwiedzają największą nekropolię w mieście (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTDZWczVZQlNBaGdQVzJJbDBSQ0VnbHl5RWdjdWxIWlZWU1FJWUdrTnYzVnVMd2dXSXY0OUZGcVRybVd4RUpFN1ZLSXAtcWp6bVBCemZ1QVVYVDZZeUl0Z2hnbE1uMndXUTVUNkFVUXM0NFQyRFNJQUNPczlZMU9aYThuZk5TR0NPTldaamlCbUh5UTFOUnM3U3Rfc2FDRHpRdEtTSTVZcmpOdjBJMWtNQ2NwaVZLbnpYWUNtcE1NWFM0ZUJBb3JnUVd1T0gtRGJRZHlqWXVobTh4OERpZ1lrNkxhcVVFeHVMNVREVA?oc=5",
+      "published": "2026-11-01T20:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c455942218bb2534f95ec74749c95bdda544c5a7",
+      "title": "Wszystkich Świętych w Boguszowicach i Popielowie. Poranny spokój i chwila refleksji nad grobami bliskich (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZW9pQjZYcnVvMFAzUW1aVGhLOWo5Wi1Wam5GdGV4bWRBLXQxdUR2ZVBoeHRrQUpFSXFjeGFfNUZJVnVKend2WGFXMWZjUV9kM2lONUxVb0VzVkI5UHRKM3RnU3JSbmluT1l5ZlZPY003MjZwdjZBY3NoYnl2MVpnWVJLZ2dCNUIyX2tJYWdWVU5xMkxaWWZ4UTJicURmRHpvSEVhQW5vdUoxOTNVSndLR3VKV1RPV0lEYVhIdlVjU1Fva1pHYlAtVVk4M1lvVGJfWTF2UUNnUVlYOWJJSjNxaEc3SmY?oc=5",
+      "published": "2026-11-01T19:06",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "303df956f34eebfdbf401a3a399fd5ceff9b4dfa",
+      "title": "Wszystkich Świętych i Zaduszki: Nadzieja, pamięć i budowanie relacji (rozmowa)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSTdBVzlsdjM4TGphdnZ2VVlfTnpmLUdZdmkzZ2FsTnJ2TlVtYUI1UEpGTGgzQ2tHRThDNUljalk1R0ZqMk5YOFRkYjdrc2dvb3NPVFZ2SWxLMmkxV2dsb0ZnX0ppSTByS0pnckdwdmxuZENHMk0xT3pBYWtYcGRRdVd2bk5XMjBRVFhNcHUwaHdrRE1lNmhLcFA4TmtlRUcxN0kxOFBpWURJeWNtNTczX2JaRDVQUk1RZm1aVVNyU3lNNUw2T0dsWUVwbEQ?oc=5",
+      "published": "2026-11-01T10:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2b02163a92f10fc622ca34a44cb90b5764f3c285",
+      "title": "Nowy wóz dla OSP Kłokocin. Nowoczesna Scania P420 trafiła do rybnickich druhów (foto, wideo)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNmNVTE1wM0VoSWF1Q2NWOURGWm5nMEFwNG5QajlmSDBhbmpBRGNRMzFkaWpyOUZuVGYyb1ltY09pdEpqRFl2QVB5aV9JTTBNV21VaTVUWkNTQWx2Y1RuTFlWMFFIbmJfdDduZmZtQWJXejJMX2dsZjJzNlFneVdieUplMkZ1ZHNsZ1RPdF9GZUJzWHdtbDBuRV85SmxSb1BsQU56SG1YUGNyUUk0bjFERVVOQW1uMEtlUXl4UHkxNXU5ZWN6N1l3VThQNmM4UE5DTXBxcUN6Tzc2bnBQZmV2TmZ3?oc=5",
+      "published": "2026-10-31T17:33",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -1146,6 +1136,16 @@
       "published": "2026-10-12T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a8c2462c12befdcded255e3bcb6283ff634a87e1",
+      "title": "Pomoc dla osób w kryzysie bezdomności w sezonie jesienno-zimowym",
+      "summary": "Wraz ze spadkiem temperatur służby w Rybniku docierają do osób przebywających w nieogrzewanych i niebezpiecznych miejscach. Działania te mają na celu zapewnienie każdemu potrzebującemu bezpiecznego schronienia i posiłku.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/pomoc-dla-osob-w-kryzysie-bezdomnosci-w-sezonie-jesienno-zimowym",
+      "published": "2026-10-09T00:00",
+      "source": "rybnik.eu",
+      "category": "Zdrowie",
       "priority": "NORMAL"
     },
     {
