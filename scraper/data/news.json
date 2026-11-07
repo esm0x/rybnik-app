@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:23:28",
+  "generated_at": "2026-11-07T05:55:58",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,96 @@
     }
   ],
   "items": [
+    {
+      "id": "b9106ed8d7ba0dbc2e96b9e302cbd94974d82680",
+      "title": "Wojskowa grochówka, zabytkowe auta i piknik na rynku. Tak Racibórz będzie świętować 11 listopada [ZAPOWIEDŹ]",
+      "summary": "Pokazy historyczne, wojskowa grochówka i wspólne śpiewanie przy ognisku. Tak będzie wyglądało popołudnie 11 listopada na raciborskim rynku. Wcześniej odbędą się oficjalne uroczystości Narodowego Święta Niepodległości.",
+      "link": "https://www.nowiny.pl/wiadomosci/251932-wojskowa-grochowka-zabytkowe-auta-i-piknik-na-rynku-tak-raciborz-bedzie-swietowac-11-listopada-zapowiedz.html",
+      "published": "2026-11-07T05:35",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "45bf40cb4d21cfd3e134c215fb03b05671f71e8e",
+      "title": "Obchody Święta Niepodległości w Wodzisławiu Śląskim [ZAPOWIEDŹ]",
+      "summary": "11 listopada w Wodzisławiu Śląskim odbędą się uroczystości upamiętniające 108. rocznicę odzyskania przez Polskę niepodległości. Mieszkańcy muszą liczyć się również z czasowym zamknięciem parkingu przy ul. Kubsza i ograniczeniami w ruchu.",
+      "link": "https://www.nowiny.pl/wiadomosci/251779-obchody-swieta-niepodleglosci-w-wodzislawiu-slaskim-zapowiedz.html",
+      "published": "2026-11-07T05:11",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f9e425d6efef2e70437b66cec58fa3167f604cd2",
+      "title": "Tokarka z Rafametu trafi do Branderburgii. Posłanka Lenartowicz o ważnym kontrakcie firmy z Kuźni",
+      "summary": "- Gratuluję spółce z Kuźni Raciborskiej podpisania umowy z niemieckim przewoźnikiem na dostawę i montaż tokarki podtorowej UGE - podkreśla Gabriela Lenartowicz. Kontrahentem jest firma Verkehrsbetriebe z miasta Brandenburg an der Havel. Za tokarkę zapłaci Rafametowi 1 454 891 euro. Zamówienie ma…",
+      "link": "https://www.nowiny.pl/wiadomosci/252056-tokarka-z-rafametu-trafi-do-branderburgii-poslanka-lenartowicz-o-waznym-kontrakcie-firmy-z-kuzni.html",
+      "published": "2026-11-06T22:08",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1e4f5d3d8d19f6d9df11bf325abe55c8e2dfb4a7",
+      "title": "Ponad 86 tys. zł dla jastrzębskiego hospicjum. Tyle zebrano na cmentarzach",
+      "summary": "Dokładnie 86 168,50 zł zebrano podczas tegorocznej kwesty na rzecz Jastrzębskiego Hospicjum Domowego. Przez dwa dni na jastrzębskich cmentarzach kwestowało 414 osób. Zebrane pieniądze zostaną przeznaczone na bieżącą działalność placówki, która w minionym roku opiekowała się 140 chorymi w ciężkim…",
+      "link": "https://jastrzebieonline.pl/wiadomosci/252055-ponad-86-tys-zl-dla-jastrzebskiego-hospicjum-tyle-zebrano-na-cmentarzach.html",
+      "published": "2026-11-06T22:06",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6a7cf93d127b3c87e312a86f977dc9525e63772d",
+      "title": "Międzypowiatowy konkurs WOM „Poliglota Challenge” wygrała szkoła z Krzyżanowic",
+      "summary": "23 szkoły zgłosiły się do konkursu językowego Poliglota Challange organizowanego przez Regionalny Ośrodek Doskonalenia Nauczycieli i Informacji Pedagogicznej „WOM” w Rybniku we współpracy z Zespołem Szkolno-Przedszkolnym nr 4 w Raciborzu-Studziennej.",
+      "link": "https://www.nowiny.pl/wiadomosci/252054-miedzypowiatowy-konkurs-wom-poliglota-challenge-wygrala-szkola-z-krzyzanowic.html",
+      "published": "2026-11-06T21:36",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e7feaf4bc982ba5b0e625dab04c9173ebc71f37a",
+      "title": "Mieszkańcy jadą na Marsz Niepodległości do Warszawy",
+      "summary": "11 listopada część mieszkańców Jastrzębia-Zdroju będzie świętować Narodowe Święto Niepodległości w Warszawie. Jastrzębianie wybierają się na Marsz Niepodległości, a do wspólnego wyjazdu zaprasza miejscowy Klub „Gazety Polskiej”.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/252053-mieszkancy-jada-na-marsz-niepodleglosci-do-warszawy.html",
+      "published": "2026-11-06T21:11",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d85c076f155c88ec31958d7503fdd68fe84b8131",
+      "title": "„O winie, przy winie” – wyjątkowy wieczór w Czyżowicach [ZDJĘCIA]",
+      "summary": "Miłośnicy lokalnych smaków, dobrego wina i muzyki spotkali się w piątkowy wieczór, 6 listopada, w sali widowiskowej Ośrodka Kultury w Czyżowicach. Wydarzenie pod hasłem „O winie, przy winie” było okazją do poznania śląskich tradycji winiarskich oraz degustacji lokalnych produktów.",
+      "link": "https://agronowiny.pl/wiadomosci/252013-o-winie-przy-winie-wyjatkowy-wieczor-w-czyzowicach-zdjecia.html",
+      "published": "2026-11-06T21:02",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "68a75c154a462b49a773cf4984e7c6e4eaf7df26",
+      "title": "Jastrzębie szykuje się do 35. finału WOŚP. Ruszyła rejestracja wolontariuszy",
+      "summary": "Przygotowania do 35. finału Wielkiej Orkiestry Świątecznej Pomocy ruszają także w Jastrzębiu-Zdroju. Jastrzębski sztab rozpoczął rejestrację wolontariuszy, którzy 31 stycznia 2027 roku będą kwestować podczas kolejnej odsłony jednej z największych akcji charytatywnych w Polsce.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/252052-jastrzebie-szykuje-sie-do-35-finalu-wosp-ruszyla-rejestracja-wolontariuszy.html",
+      "published": "2026-11-06T20:15",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "576130c9aee4374dd4aed805938d3c8cff7de957",
+      "title": "Polacy zesłani na stepy Kazachstanu. W Raciborzu wystawa o dramatycznej historii sprzed 90 lat",
+      "summary": "Prawie 70 tysięcy osób wysiedlonych z własnych domów i wywiezionych na kazachskie stepy. Muzeum w Raciborzu przypomni losy Polaków deportowanych przez władze sowieckie w 1936 roku. Otwarcie wystawy „Strażnicy pamięci. Polacy na stepach Kazachstanu 1936–2026” odbędzie się 19 listopada.",
+      "link": "https://www.nowiny.pl/wiadomosci/252017-polacy-zeslani-na-stepy-kazachstanu-w-raciborzu-wystawa-o-dramatycznej-historii-sprzed-90-lat.html",
+      "published": "2026-11-06T19:21",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "3ca0bffdf5f8893f2d34a28c35a7f457e97a5fab",
       "title": "Przy Połomskiej w Wodzisławiu Śląskim spłonął dom. Ruszyła zbiórka dla pogorzelców",
@@ -26,6 +116,16 @@
       "published": "2026-11-06T17:47",
       "source": "nowiny.pl",
       "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4c0aaf9cf2dc30b7ded5977cd18eb64517ff37f2",
+      "title": "Będą testy na budowie PGE Nowy Rybnik. Mieszkańców czekają okresowe hałasy",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd1pMNEhrdTI4SmhHOXB2eUlhRGpNaDl4RE9iMG8zb1lSZ2pxaVJMc2JxZEJFZUlkZ2FxeG8tQ3QtZDBOekJiMkk2eWNmeGg0TFpMdG1mQm5mRW83eWdERHlLbnEtUDlGUUpCSDFEbUZ1OFc5WkNuY3MzUnMyME5HajE0MF9wT3JXNGlidkJpd2JuTVQxNmthazVzc1BLQkYwSFNocWJMd2xsR2hzTFFkb1U0dDh3cVRuVTQ2SEFBTThOb181S1FQLTFiUQ?oc=5",
+      "published": "2026-11-06T17:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -109,26 +209,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "6e7665d5a6b913f7c46ac13fe65145de261a1fbd",
-      "title": "Finał konkursu „LITERACKIE PORTRETY” w jastrzębskiej bibliotece [ZDJĘCIA]",
-      "summary": "89 prac konkursowych, mnóstwo pomysłów i różnorodnych artystycznych interpretacji – tak zakończył się konkurs plastyczny „LITERACKIE PORTRETY”, zorganizowany przez Miejską Bibliotekę Publiczną w Jastrzębiu-Zdroju.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/252047-final-konkursu-literackie-portrety-w-jastrzebskiej-bibliotece-zdjecia.html",
-      "published": "2026-11-06T13:11",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "67b5c6e038d66dbe7fe3293aa20888aaf06fd0d0",
-      "title": "Młodzi rybniczanie planują własne biznesy. Od wypiekaczy chleba po recykling filamentu",
-      "summary": "Jakie biznesy chcieliby rozwijać młodzi mieszkańcy Rybnika? W V edycji konkursu „Rybnicki Biznesplan” nagrodzono m.in. projekt automatycznego wypiekacza chleba, urządzenia do recyklingu materiałów z druku 3D i aplikacji miejskiej. Wyniki ogłoszono podczas konferencji „Rybnik dla Biznesu”.",
-      "link": "https://www.nowiny.pl/wiadomosci/252046-mlodzi-rybniczanie-planuja-wlasne-biznesy-od-wypiekaczy-chleba-po-recykling-filamentu.html",
-      "published": "2026-11-06T13:08",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "5950a5e2126f7b46fea4ef91717ef54bd08977af",
       "title": "Czy w Rybniku powstanie ośrodek dla cudzoziemców? Śląska Straż Graniczna i Miasto ucinają spekulacje",
       "summary": "",
@@ -136,16 +216,6 @@
       "published": "2026-11-06T13:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c35e1841d73d790e6a3ca95365c97e72736005c1",
-      "title": "Depilacja laserowa w Rybniku – jak przygotować się do zabiegu?",
-      "summary": "Decyzja o trwałej redukcji owłosienia to pierwszy krok do gładkiej skóry. Kluczem do sukcesu i bezpieczeństwa jest jednak odpowiednie przygotowanie, które zaczyna się na długo przed wizytą w gabinecie. Prawidłowe postępowanie przed zabiegiem, jakim jest depilacja laserem w Rybniku, minimalizuje…",
-      "link": "https://www.nowiny.pl/wiadomosci/252035-depilacja-laserowa-w-rybniku-jak-przygotowac-sie-do-zabiegu.html",
-      "published": "2026-11-06T13:00",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -169,31 +239,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "1c25b5aa2be7d4f277b350f1dd08bccfa3ff4336",
-      "title": "Tak zarabiają dostawcy jedzenia. Katarzyna Duda z Kietrza ujawnia kulisy pracy za kilka złotych dla wielkich korporacji",
-      "summary": "Najpierw opisała losy robotników, którzy po 1989 roku stracili pracę i musieli odnaleźć się w nowej rzeczywistości. Później w książce „KORPO” przyjrzała się warunkom zatrudnienia w międzynarodowych firmach, gdzie za atrakcyjnymi benefitami często kryją się niskie płace i brak stabilności. Teraz w…",
-      "link": "https://www.nowiny.pl/wiadomosci/252044-tak-zarabiaja-dostawcy-jedzenia-katarzyna-duda-z-kietrza-ujawnia-kulisy-pracy-za-kilka-zlotych-dla-wielkich-korporacji.html",
-      "published": "2026-11-06T12:22",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "f14bf324f4489041badcc3bb33cf45b338fee3fd",
       "title": "Jak obserwować przyrodę wokół Rybnika? Lornetka, aparat czy luneta?",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkk5XzFkd1lTeVltRFBYUzZJc0lFZXM3NGdxQlpPcDVrQjFGQlp4VHZjaWU0N3RNTTMyeFhveHNxbjBRVkhMX01Tc3dSQnVnTzlfMHphaUVuc0tRcEFYQ2F5STItYUN4Q3Nxc25OaEJTOUp5bXN4NUkteWx5SVlDT19uRVd4OVNtbW80Sl9GbnBQVndEWGdRN0h0QVlzYUdZenZzRHUtTldKR3VJdTJPejFnMmQ0SWRGYWZINVF2RQ?oc=5",
       "published": "2026-11-06T12:13",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "2684e2224e3af6d53d344acdd6508cf7760f8a74",
-      "title": "Lecisz z Krakowa do Dublina? Sprawdź, jak zaplanować wyjazd",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcUJhU0pMZTlHS3lKWVdrUWctUlFwcGwtNWNnelFWZVczdlN2ekFjWVZSdlVLWGc5OGVQaWNCaEFtdHRBdzE5NndrV2VxcXBRS1hkNEtQR2JPREVTZE9OdEI4RDdmQVRxcC0tRFRxZ2wtY3NhX1Q5VzhCTjJ3eUtVcmQwaHUyQU04VjFXQnlMNHk5S1ZMVVlVamllWFphVkRMN2dqNkk0MW5xSVJEc3lBNGgtV2xFdw?oc=5",
-      "published": "2026-11-06T12:04",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -239,36 +289,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "68b1c590549ac8ac8643e2b84c0f4a3b253b43a0",
-      "title": "Bez kasku, tablicy i uprawnień. 41-latek zatrzymany na motorowerze w Zabełkowie",
-      "summary": "Policjanci patrolujący ulicę Powstańców Śląskich w Zabełkowie zauważyli motorowerzystę bez kasku. Kontrola wykazała, że lista nieprawidłowości była znacznie dłuższa.",
-      "link": "https://www.nowiny.pl/wiadomosci/252043-bez-kasku-tablicy-i-uprawnien-41-latek-zatrzymany-na-motorowerze-w-zabelkowie.html",
-      "published": "2026-11-06T11:34",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "9f9fbe924b199571b9dd3c68c6a07169bb33bd3e",
-      "title": "Hotel w uzdrowisku – na co zwrócić uwagę, planując pobyt w Busku-Zdroju?",
-      "summary": "Wyjazd do miejscowości uzdrowiskowej może mieć różne cele. Jedni szukają spokojnego weekendu, inni chcą skorzystać z zabiegów rehabilitacyjnych, a jeszcze inni planują połączyć zwiedzanie z odpoczynkiem. Wybór odpowiedniego hotelu powinien uwzględniać nie tylko cenę noclegu, lecz również…",
-      "link": "https://www.nowiny.pl/wiadomosci/252030-hotel-w-uzdrowisku-na-co-zwrocic-uwage-planujac-pobyt-w-busku-zdroju.html",
-      "published": "2026-11-06T11:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "06798c3e7825b8b6abeab1156807482df47c15d3",
-      "title": "O tym wciąż mówi się za cicho. 11 mężczyzn dziennie umiera w wyniku samobójstwa",
-      "summary": "Według danych Komendy Głównej Policji w 2025 roku w Polsce w wyniku zamachów samobójczych zmarło 4776 osób. Mężczyzn było 3975, czyli ponad 83 procent. Statystycznie każdego dnia w wyniku samobójstwa umierało 11 mężczyzn. Za roczną liczbą stoją pojedyncze historie, których otoczenie często nie…",
-      "link": "https://www.nowiny.pl/wiadomosci/252037-o-tym-wciaz-mowi-sie-za-cicho-11-mezczyzn-dziennie-umiera-w-wyniku-samobojstwa.html",
-      "published": "2026-11-06T11:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "cf0ab2bce36770dd7f317ecab0826c9dae27a468",
       "title": "Wyciek benzyny z cysterny kolejowej w Suminie. Interweniowali strażacy",
       "summary": "W Suminie w powiecie rybnickim doszło do wycieku benzyny z cysterny kolejowej. Strażacy zostali wezwani na bocznicę w czwartek (5.11) po południu. Przyczyną było rozszczelnienie zaworów w wagonach składu towarowego.",
@@ -277,46 +297,6 @@
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
-    },
-    {
-      "id": "0c4ae0a1cc5bb0467b7e2181e50b26d3f8b4e187",
-      "title": "Siedem uczennic z Wodzisławia Śląskiego stworzyło aplikację. Zajęły drugie miejsce w Polsce",
-      "summary": "Siedem uczennic I Liceum Ogólnokształcącego w Wodzisławiu Śląskim zajęło drugie miejsce w finale ogólnopolskiego konkursu IT Diamonds. Przez dwa miesiące pracowały nad własną aplikacją, ucząc się programowania i projektowania rozwiązań informatycznych.",
-      "link": "https://www.nowiny.pl/wiadomosci/252034-siedem-uczennic-z-wodzislawia-slaskiego-stworzylo-aplikacje-zajely-drugie-miejsce-w-polsce.html",
-      "published": "2026-11-06T10:44",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "2284232e3b253d17fa76a3e15d857a4b633b099c",
-      "title": "Lodowisko, piknik historyczny i występ „Śląska”. Co wydarzy się w listopadzie w Raciborzu?",
-      "summary": "Już 7 listopada ruszy lodowisko Piastor, a kilka dni później na raciborskim rynku odbędzie się piknik historyczny z okazji Święta Niepodległości. W drugiej połowie miesiąca zaplanowano między innymi występ zespołu „Śląsk”, koncerty i spektakle.",
-      "link": "https://www.nowiny.pl/wiadomosci/252031-lodowisko-piknik-historyczny-i-wystep-slaska-co-wydarzy-sie-w-listopadzie-w-raciborzu.html",
-      "published": "2026-11-06T10:15",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "03b9200bd44489ededa8016da0ae1d8477560f8d",
-      "title": "Tor Pit-Bike w Rybniku nadal bez terminu. Najpierw ekrany akustyczne, ale dopiero w 2027 roku",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcUlyX2dMRnBHLTNKRVpFU2haUU55TndjTkxrbGRhV3lnZHI5YUVQZmI5VXhDUkZfQzVDRk8tWkhjbUR0enpJZFZNOVBESXNtM2dZUGJsSGVpb2hwXzFmVkx2OHBNLWt5VG4ycHJlWTRnV0FWNzM1TzFjcUZzQWdFZ3hCLUt4SzFqR3RLdm9qYnNKelBuZWk4aElPaEZmWFJ0QXpsTTU0cGdjMUNWYzV0blBxaTZWSEcyYTcwMjh0QWowYmZ0c1JGOXhkdGtldnBKM3R4dWxkMGRsZDJmalVyLVYyMA?oc=5",
-      "published": "2026-11-06T10:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "5d48e3c0cb6e639c87883d5ecf2a33ef7da309a8",
-      "title": "Zamkną ważne skrzyżowanie w Jastrzębiu-Zdroju. Zmiany tras autobusów i objazdy od 12 listopada",
-      "summary": "Od 12 listopada kierowcy nie przejadą przez skrzyżowanie ulic Powstańców Śląskich, 3 Maja i Osadników w Jastrzębiu-Zdroju. Zamknięcie jest związane z robotami drogowymi. Zmienią się również trasy autobusów S10, S12A i S15, a część przystanków zostanie wyłączona z obsługi.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/252028-zamkna-wazne-skrzyzowanie-w-jastrzebiu-zdroju-zmiany-tras-autobusow-i-objazdy-od-12-listopada.html",
-      "published": "2026-11-06T09:16",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "ALERT"
     },
     {
       "id": "5f3f7d15ecddf5a0a24b6654afe110244825ad28",
@@ -429,11 +409,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "0f317e4e5f7b31be4099d81db6c4901a737b1087",
+      "id": "7adbdf7dc09b82ee18c46784d7eceaa091175b65",
       "title": "\"Nasz Nowy Dom\" w Rybniku! Historia Krzysztofa i 11-letniej Julii poruszy całą Polskę",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ2FTQ285Zlo4VjZKcnBwam9jdHEwaldUTHA2Z0FGOXp0QjFaMHZoQXI4X25LTnRkeTVFYklMYlMzclVHeDB0RHVQT0xaZmVVd0UyT1lHdzFpcUNiU05EWm5ja3FGRWxMd1FXZ1BsZWQ5SHVVU1RKSEQwYXdzWFBvVVF0Tm0wNjNsQ0RSSXNBaWFFZ3g4R0dZX3F3ZFZ1Q1Qyem1McWhvYXNJd3hMWnk3Zm50N3RIVXZEY3JGUDlyUGh1OUUydVlVN3p0R1FFc3V2NmoxbXRCMVhuZw?oc=5",
-      "published": "2026-11-05T20:01",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTjM1Mk9DRVQ5N1ZnUHAxaE8tOTBZOWJmdEVXeGVNMEVjcWFaSFI5X3V3cFhZelhEVlM1Sk1UdDFxU1NXU2lsaHpLM2pWWnRkYkkzWXc3T0ZoVkNVb3V6aE43dUlSUEJqN3JEUk1WdWZERS1kenBncTNFaHhtcHhLUXVBdnN0VVZpSGFvRHVmZWM3d1BZRE90ODdmU3EwS0hjUFZkT3dJYlZ6VVV4TVlsOWJBdGNZMTVlX1pDSnVRd2hOR1FSZjdkWTd0Z0ltRTZCUE9GVU9HclpHQQ?oc=5",
+      "published": "2026-11-05T23:04",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -629,6 +609,26 @@
       "priority": "NORMAL"
     },
     {
+      "id": "cde76915697d97800a7e4044de3c575aa7a2194a",
+      "title": "Rekordowa frekwencja na śniadaniu IPH ROP. Przedsiębiorcy stawiają na kapitał relacyjny i edukację (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNUdCNkVERHBnT1YwRDJyNm5Kc3g1QnRMakJ1cVlmWEZVWC1tem80Z1U1WFpXa3FuUkpBU0NsanNJQzFPb3BSTVlqM0l6X1R1dVZKeTJBUi1la3F1RktNT3JYTk03SWtVRVFTNDJTZ2NBSUJHb0RNUVVrRWNDQkN1V0RRMzFOVGw3N3YzWV96X0o5dDJfMTV6dHhtbWZZM2dPVVpoQlZqSWtxUk13ckphU2RnRGNhM0dzbHVKbFliSnlmc3hGYlNmU0J2SU5qbUpnWVR3eUUxeDFFMDhvTXpISFFDX19kLTU0VGc1QW5Ld2pZdw?oc=5",
+      "published": "2026-11-04T16:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "dd410cedbff28d5b20e4ec5b583b0f6499b15a1f",
+      "title": "Złote monety, miliony w gotówce i kontrterroryści. Potężne uderzenie w nielegalny hazard (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWEYxM2F6X3V6U3FzNTZFbl9LTjV5U3Z1enpIeHRqUThIMEJlSkxhREZpemxmVE5RZTZ0b0xyNjlpZEVXUHRya2tCMTZjWDVmU0VHMVJDc0JuRnhkS2Y4SzY1Ri1rY0NLbm5SU1k0Vk5vMVR2MXlDRnJwY1g2XzdlanVBTU9rUnp3SHRvRlY5QXVJNEo1RXFra1F2VnF4WTk5dFBPTEtSQUVjaHFMT1N4LUV5WFl1RzdyeGRuLWdNbmRPakNQVlR2ck55ekFZYlJCYlVuWjRLdFA4R3MyQ1BTSDJVYw?oc=5",
+      "published": "2026-11-04T14:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "e9d1d0de516e54da362b0a6ffda56d5fad132e01",
       "title": "Elektrownia Rybnik: jest porozumienie między innymi w sprawie dobrowolnych odejść",
       "summary": "Jest porozumienie w Elektrowni Rybnik. Zakład przechodzi trudny okres transformacji, ale pracownicy mogą liczyć na wsparcie. Zakłada je porozumienie podpisane przez PGE GiEK S.A. oraz organizacje związkowe działające w elektrowni.",
@@ -809,6 +809,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "a1a3e2dfdeb92456843bce203e9c756d332663eb",
+      "title": "Kuba od Rolek w Rybniku. Opowie, jak budować markę osobistą i zaufanie klientów (patronat)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb0xWRC1jOHVpaUlYcGxiZkdmYVdlUjkzeHA2WHdhdV9mMWhaNHlieFUyZERyY1ZhZEN3bWl6MU1UcVQ5aEp3cDlrZW4zZUhqNEY0LU1wUWk0U2JMcUpSZUxtNWpvQUFvV3AyeEFvNVNrbjkyLXpOQS1mQUk5TExmVk4yZW5xd2FtQjhDWWxMUWU3TDl0Ty1ZVjF1STlsQ1BhZVhadTRZU2RaSU9ZcE9sNjVNdlpWVEtOSFJjNUpLb1RuV1RXY1dZSGppazd6WEJwMXk5YVhnX0E0NElT?oc=5",
+      "published": "2026-11-03T17:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "61278e08f6377213625965723603f18daa3cfe32",
       "title": "Hubertus – święto myśliwych. Grzegorz Świerczyński opowiada o tradycjach i patronie myśliwych (foto, wideo)",
       "summary": "",
@@ -859,16 +869,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "b5393d9a785ec35e6340b1ea58a843c396f5a31f",
-      "title": "62,5 tysiąca pasażerów w osiem tygodni! Pociągi z Rybnika do Bielska-Białej okazały się hitem",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZDVCVGozaFFTWEdCR05vVlQxVlVpNzFqNnRGaS13OWptNE84NzN3WWJPUnM1RUM5N2dZR1lJbnRqZnFsSHRxN3hNXzF5TE5MbnJnMnJKWXVtNkd4d2hvenkwQjN6VUd1SGlWN1hPbFNEdXRzX0R2YW53ZXlPQnlUTmV1SFFIS0RKaE1mNXlWZ1ZvYWVKVGs1Tm5aZk5URWM1eDRZLWVvRXRKMmRxNktlY3ozbThzdDFkNzVNU1hqQk56QXhFZlhqV3hYTlFjMjFFTjk1ejZpTGlwSzE2M29yR0tmdE4?oc=5",
-      "published": "2026-11-03T09:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "adf8abf7859b2fe76836e0e2a141f46a9634647b",
       "title": "Urna w domu i prochy w lesie bez ryzyka aresztu? Polska szykuje przełomową reformę prawa pogrzebowego",
       "summary": "",
@@ -914,16 +914,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd3ZKdUpDUE5mTkxka3RPNy1MZGlaaHFQWEJsazluRm5GRzUwVkRqdUhHTWMxVmZFVnlOLU1NT2R3eHRGcnJxZEp6N3dHTlVHT0JuTGZYUjRUUHZ5ZDBnQVBzVmVUTnVQek9rSk1oR011Uk11V2hOejVTSU83NVFtZnluTnRoZ0FEd3dueE1CV1NpX0pfbHJtUUpkLTlBUEhiOFhWSVRBTXpMN052czJJWndwSjNiQnFrMDh6SHdLMUZxcHpGME1HLUtGMzNYLTNyMnlWaFM1WQ?oc=5",
       "published": "2026-11-02T20:05",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "2921c05b47aa97963616a1402a1e5d5ceb28e0b0",
-      "title": "Wszystkich Świętych w Rybniku: cmentarz wieczorową porą (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGtJbDl2YlE0Rnl6cG5wUlIydHNFQWFFS2FjRmVMUXMtZURHVk16VEV1aDUxdWluVHU0WEtUWG1JMVhMS1FmdjRNQXF1RUFOMWF0TEJ4aHo4TjJSSmQwaXlPSFFWLWEzNnoySmRWYjd5M05EM19GMUtYWEkwNW5sWlNhMzBXTDlMSVUwMUFrX1lhQ25qQVFHZmtXUXR1Nm5fbmZ0RWc1YlNxYkUtVnA2VEtSSHM?oc=5",
-      "published": "2026-11-02T15:07",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -1147,6 +1137,16 @@
       "source": "IMGW",
       "category": "Ostrzeżenia",
       "priority": "ALERT"
+    },
+    {
+      "id": "9e06cb1482fc28382040862d07207fa90970b707",
+      "title": "Juliusz w przebudowie - prace przy dawnym szpitalu nabierają tempa",
+      "summary": "W budynku „Juliusz”, będącym częścią zabudowy dawnego Szpitala Miejskiego nr 1, trwają intensywne prace związane z jego rozbudową, przebudową i zmianą sposobu użytkowania. Roboty obejmują również zagospodarowanie terenu tzw. kwartału Juliusz, położonego między ulicami 3 Maja, Miejską i Klasztorną…",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/juliusz-w-przebudowie-prace-przy-dawnym-szpitalu-nabieraja-tempa",
+      "published": "2026-10-14T00:00",
+      "source": "rybnik.eu",
+      "category": "Inwestycje",
+      "priority": "NORMAL"
     },
     {
       "id": "49fb6eb574b45dd7a80be234eee4d593780d60e7",
