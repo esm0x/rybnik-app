@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:18:36",
+  "generated_at": "2026-11-08T22:00:54",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,20 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 125,
+  "count": 122,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-malgorzata-ostrowska-w-rybniku-jubileuszowy-koncert-z-okazji",
-      "title": "Małgorzata Ostrowska w Rybniku – jubileuszowy koncert z okazji 45-lecia pracy artystycznej",
-      "category": "Koncert",
-      "start": "2026-11-08T17:00",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Małgorzata Ostrowska wraca na scenę z trasą, która ma w sobie wszystko, za co fani kochają jej występy: mocny głos, rockową energię i dużo wspomnień To będzie wieczór dla tych, którzy pamiętają „Szklaną pogodę” , ale też dla młodszych słuchaczy, którzy chcą zobaczyć jedną z najbardziej wyrazistych postaci polskiej muzyki na żywo. Warto zarezerwować sobie ten termin. Data i godzina: 8 listopada 2026 (niedziela), godz. 17:00 Miejsce: Teatr Ziemi Rybnickiej, Plac Teatralny im. Kazimierza Kutza 1, Rybnik Bilety: bilety są już dostępne w sprzedaży Cena: brak informacji o cenie w opisie wydarzenia",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/malgorzata-ostrowska-w-rybniku-jubileuszowy-koncert-z-okazji-45-lecia-pracy-artystycznej"
-    },
     {
       "id": "bilnya-lalka-2026-202611091530",
       "title": "Lalka (2026)",
@@ -1298,6 +1287,17 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/vivaldi-przy-swiecach.html"
     },
     {
+      "id": "tzr-malgorzata-ostrowska-45-lat-koncert-jubileuszowy-przelozony",
+      "title": "Małgorzata Ostrowska - 45 lat: koncert jubileuszowy PRZEŁOŻONY",
+      "category": "Koncert",
+      "start": "2027-01-29T18:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "w związku z tragicznymi wydarzeniami w Krakowie i ogłoszeniem żałoby narodowej, koncert Małgorzaty Ostrowskiej zaplanowany na 08.11.2026 zostaje PRZEŁOŻONY na 29 stycznia 2027, godz 18:0). Bilety zachowują ważność.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/malgorzata-ostrowska-45-lat-koncert-jubileuszowy-przelozony.html"
+    },
+    {
       "id": "bilnya-ponad-chmurami-202701291900",
       "title": "Ponad Chmurami",
       "category": "Koncert",
@@ -1351,39 +1351,6 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
-    },
-    {
-      "id": "bilnya-bartosz-gajda-po-lecie-stand-up-nowy-program-202704121900",
-      "title": "Bartosz Gajda - \"PO LECIE\" - stand up NOWY PROGRAM",
-      "category": "Kabaret",
-      "start": "2027-04-12T19:00",
-      "end": "2027-04-12T20:30",
-      "venue": "inoWino Świerklaniec, Jana III Sobieskiego 9",
-      "description": "😂⏳ Czas leci jak szalony? To idealny moment na solidną dawkę śmiechu! Bartosz Gajda wraca z nowym stand-upem – inteligentny humor, absurd i zero zbędnych wulgaryzmów. Przyjdź i pośmiej się z życia, zanim znów przyspieszy 🎤✨🎟️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/stand-up/Bartosz-Gajda/po-lecie?eid=713645#opis"
-    },
-    {
-      "id": "bilnya-kabaret-paranienormalni-w-nowym-programie-2027-202710091600",
-      "title": "Kabaret Paranienormalni - w nowym programie 2027",
-      "category": "Kabaret",
-      "start": "2027-10-09T16:00",
-      "end": "2027-10-09T17:30",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Kabaret-Paranienormalni/w-nowym-programie?eid=718872#opis"
-    },
-    {
-      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
-      "title": "NutkoSfera - CeZik dzieciom",
-      "category": "DlaDzieci",
-      "start": "2027-12-03T17:00",
-      "end": "2027-12-03T18:20",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }
