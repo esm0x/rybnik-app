@@ -1,13 +1,59 @@
 {
-  "generated_at": "2026-11-07T21:49:03",
+  "generated_at": "2026-11-08T05:59:44",
   "count": 120,
   "failures": [
     {
       "source": "tuRybnik.pl",
       "error": "403 Client Error: Forbidden for url: https://turybnik.pl/feed/"
+    },
+    {
+      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikaty",
+      "error": "HTTPSConnectionPool(host='www.rybnik.eu', port=443): Max retries exceeded with url: /dla-mieszkancow/aktualnosci/kategoria/komunikaty (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rybnik.eu', port=443) at 0x76a872ef1e20>, 'Connection to www.rybnik.eu timed out. (connect timeout=30)'))"
+    },
+    {
+      "source": "rybnik.eu/dla-mieszkancow/aktualnosci",
+      "error": "HTTPSConnectionPool(host='www.rybnik.eu', port=443): Max retries exceeded with url: /dla-mieszkancow/aktualnosci (Caused by NewConnectionError(\"HTTPSConnection(host='www.rybnik.eu', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+    },
+    {
+      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikacja",
+      "error": "HTTPSConnectionPool(host='www.rybnik.eu', port=443): Max retries exceeded with url: /dla-mieszkancow/aktualnosci/kategoria/komunikacja (Caused by NewConnectionError(\"HTTPSConnection(host='www.rybnik.eu', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+    },
+    {
+      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/inwestycje",
+      "error": "HTTPSConnectionPool(host='www.rybnik.eu', port=443): Max retries exceeded with url: /dla-mieszkancow/aktualnosci/kategoria/inwestycje (Caused by NewConnectionError(\"HTTPSConnection(host='www.rybnik.eu', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))"
     }
   ],
   "items": [
+    {
+      "id": "39cf7c795a332a86d969643b050b417c84313785",
+      "title": "11 listopada w Żorach, czyli Bieg Biało-Czerwony, uroczystości i jarmark św. Marcina [ZAPOWIEDŹ]",
+      "summary": "Żory przygotowują się do obchodów 108. rocznicy odzyskania przez Polskę niepodległości. W środę, 11 listopada, odbędą się oficjalne uroczystości, a mieszkańcy będą mogli wziąć udział w wydarzeniach sportowych, grze historycznej i jarmarku św. Marcina.",
+      "link": "https://ezory.pl/wiadomosci/251930-11-listopada-w-zorach-czyli-bieg-bialo-czerwony-uroczystosci-i-jarmark-sw-marcina-zapowiedz.html",
+      "published": "2026-11-08T05:11",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "748672a78d0cc3a801504dad61db0ebb7980f4a3",
+      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTDc3eGFfSkd0eDd6NUJqLVVzb29IOEVXREZsazBBZmJUc1p6T201NnNTMW5BOUpiSjBNUDNfUTNZbzRTWjYtbmdibHNGTmo3VFEwbWVjOV95TFRsR1hRMFktZ21xRk1CSFJBVTN6WkdwM2Y3QzNJMFMwOHpSZ3RKZFppZ3ZRWjYxbEhqamYyOHV0c1lKc0x6clJjenhZbmdkUmFfM1dSVVM2WTZFVi1Wa2k1Y01USmlJTFM3dXpNM09XZTQ1S2Exa1JJd1ZMVFNIajE4YQ?oc=5",
+      "published": "2026-11-07T23:04",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "acf167e0f6c5e5f785d0c0f8f975a948964ea691",
+      "title": "Żałoba narodowa w Polsce. Jest decyzja po tragedii w Krakowie",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0E2ZTZXcmZkLUQ1YWJ0YkxFTkdRS1Q5czE0MFRFUW90TmlJbnZHbS1YckJPc09LaEd1UzFHcmpRNkdVYnhnNk5GNDdMajY0SXJmak9MRnJhdFNJbnVJZkE5c1lhelhTb29lOENyalZVcTktaEZFUThpYUlUbDgxTkdKWmtlYkU2S2UzMnhCNEQ2TUdJWDFlR1JLRGt4ZEpleGliYTM4UUFkNmVVZEZJUmFfajM2WWhsNUE?oc=5",
+      "published": "2026-11-07T22:15",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "09861150e43f30844286d93f704ef8afb949f5c2",
       "title": "Siatkarki Gromu Rybnik zatrzymały lidera! Pierwsza porażka Spartakusa Zabrze (foto)",
@@ -279,16 +325,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "1e4f5d3d8d19f6d9df11bf325abe55c8e2dfb4a7",
-      "title": "Ponad 86 tys. zł dla jastrzębskiego hospicjum. Tyle zebrano na cmentarzach",
-      "summary": "Dokładnie 86 168,50 zł zebrano podczas tegorocznej kwesty na rzecz Jastrzębskiego Hospicjum Domowego. Przez dwa dni na jastrzębskich cmentarzach kwestowało 414 osób. Zebrane pieniądze zostaną przeznaczone na bieżącą działalność placówki, która w minionym roku opiekowała się 140 chorymi w ciężkim…",
-      "link": "https://jastrzebieonline.pl/wiadomosci/252055-ponad-86-tys-zl-dla-jastrzebskiego-hospicjum-tyle-zebrano-na-cmentarzach.html",
-      "published": "2026-11-06T22:06",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "4c0aaf9cf2dc30b7ded5977cd18eb64517ff37f2",
       "title": "Będą testy na budowie PGE Nowy Rybnik. Mieszkańców czekają okresowe hałasy",
       "summary": "",
@@ -314,6 +350,16 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeEhOVlBNTXVsSG5SOUxrZVFnd3pJWkdxTlNVQ1lRMjluSi12cWd3S0F5SDE2d0NSY1hFWVFHZ252X3hNZGpRZDZiREhFdk9WbkRBZDhHNlZib2FLZEc1MF9aRW91M3JibzhtbFRiR05FdjBKMHVUV1p3NElzd1lvUEYzTDhuaWhsNGlod2Zsb2tNOUFRbjFlb0d3aDljN0tDV2FlRUljYWNwMVlLZjNDZkZUOF9MVVF4UWFFMVlNQ1FkcjZSc3lmMDFpZXFjV1Z6ckNyaGJSRG93SzIxaXJ1aU5CNGdDdk5ZWGc?oc=5",
       "published": "2026-11-06T15:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "14c526d8aea039ec6fb9af6bf0f78ffbf288695c",
+      "title": "Sprzedaż nieruchomości dla firm. Jak znaleźć obiekt z potencjałem inwestycyjnym?",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb25jVEtEaG4xbGhYdk90UHVEZUtDU2FPOFhFNXRFVnZXd1RKTzhSakYxYXNXei1ycWpLNVNmYXIwSUJkRU1rd09PUlExMzhjU0dyTHZWRm5WejFXZlRTZHNoTnFYaFE4a1NCa0Z6UTVNZDBnUDVFcm54Ynpqa3VmMm9LZjNmYjFTR0M0dklsSS02WXJqSTNmTmk5c3Q0amRHVUxPZHo3QXBLOXRlMElTZ19UMExQdG5MU3dwamxEdEY2VktRSEJWTnlrSktBZFBzR1E?oc=5",
+      "published": "2026-11-06T14:28",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -539,16 +585,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "1e643f992716c343a62757dae6d8028fb0e18e27",
-      "title": "Pet Patrol Rybnik walczy w konkursie i o życie czworonogów. Pomóc może każdy! (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQk5fRnp1dzVldTFpRjloenVsUlk5M1J6WFJaRS1BZ3JtWmRadUNxbUZvMnZiU1Z5N0xVTEZiZ0VQNmxfblZNX1FqSlNHM3lWcy1WYmsyOGVMc1laMVVWQ21CRmM3N2tNQjA2VFRKQnFVS3ZFcHJtMDdGQ1J5anFNWEYwdjZZZFV0WjluYkFDNG8wMW44NEI1UEg1VVFaeS1pVE9jejNPODFlTjdEVU9ZSVhrYk5sNUo1V1VOc0QtaEFKYjVQVnJxaGxnN0tYVDd1dWl6Vw?oc=5",
-      "published": "2026-11-05T17:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "e08754bbdb72d9d4df2930835a41deffe01c616e",
       "title": "Jarmark u Antoniczka. Fasadę bazyliki znów pokryje mapping! Będą też koncerty i studio Radia 90 z konkursami",
       "summary": "Jarmark u Antoniczka 2026. Na miesiąc przed startem Rybnik publikuje plan grudniowych wydarzeń. Od 4 grudnia do 6 stycznia będzie można cieszyć się zimowym miasteczkiem, na początek- w pierwszy weekend grudnia - spektakularny mapping na elewacji bazyliki.",
@@ -579,22 +615,22 @@
       "priority": "NORMAL"
     },
     {
+      "id": "8ee62bd4dfd0114fc671b242bd8638ae3d09c66a",
+      "title": "Czołówka na Alei ROW. Trzy osoby w szpitalu (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUNhVW1kYi0zQVc5YUtHbW1ld2ZiLVJOMWIxNjBjTmY3TFF1aXRuMENOTG1Rc0VMNEdjWE45UGliZ1Y3YVJLSXBuSmVTRm9mdEMyUElPdi1ZM0dTdHhleFcxZ0Ztdmp5ank0RHhJRTJYYjZrOVY2NUZLU3dWRkFGY0RYUXRqWWd4cl81OWtOQUFMOWVEQ3h2SU1obG41LXR4bmxPVUtKU1pMVU0?oc=5",
+      "published": "2026-11-05T13:49",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "41b6a65dbd031d9f65098b865d7f25adc1cb3a89",
       "title": "Za co trzeba płacić podatek od nieruchomości? Doradca podatkowy wyjaśnia",
       "summary": "Co podlega podatkowi od nieruchomości i kto musi go zapłacić? W jaki sposób oblicza się ten podatek? To jest temat dzisiejszego spotkania z doradcą podatkowym Dariuszem Graczykiem.",
       "link": "https://www.radio90.pl/za-co-trzeba-placic-podatek-od-nieruchomosci-doradca-podatkowy-wyjasnia.html",
       "published": "2026-11-05T13:00",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "2b08082237713f4f4b25e5159b08335181c09dbc",
-      "title": "Nowa zieleń i bezpieczniej. Ulica Rybnickiego przechodzi metamorfozę (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeDNYeWpuUzQyemJFdDhPUWZiSFNLRHo3TUNmS0JvYTNzaUNtaVJteUtrUzlmUjh6U2Rpc1pYU0Y5WnlTMTFSQ29IOVR1dGNEVnVSM3c5d2V4cDNJNjA0b0M4VUhlOThkMlN5ZEJMNFdwWkFySjZaRlB4bi1weVlTeEhRNG1iajBZZEdCQWx5TnNaUnIzSEFjUzJfM3V0Zk9WUlFDRUtJZ3RObXB5S1NYbXlRTDNGZGFOeWdkekh2bDJtbkdGaF9URXZR?oc=5",
-      "published": "2026-11-05T13:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -655,16 +691,6 @@
       "link": "https://www.radio90.pl/slaska-policja-o-sytuacji-na-drogach-sporo-wypadkow-jest-takze-ofiara-smiertelna.html",
       "published": "2026-11-05T09:34",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "52b1eda62bc0d395799ef1da6fb6af0b69ee11c1",
-      "title": "Czołówka na Alei ROW. Trzy osoby w szpitalu (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc3R0SnhJQnZSVTlmOFJrbzVCZXI1YzVENUZCUmlsMFNJREcyZzZBbFJJZFFUaEJjcVdoMjF0UTM3RTgxdTMydFJHb0YtcGI2Y0FZNlBjRUJDcHJMckFjM2hIYnhpeVVCMXRySWZvV2doZHRVLXJNQTlKc2F2U3VlSEQxVlJ0d01PWXhUWElQQkJoTkxuUlpXNXFsVTZibGtCZzNjY3IzR2w?oc=5",
-      "published": "2026-11-05T08:48",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -739,16 +765,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "cde76915697d97800a7e4044de3c575aa7a2194a",
-      "title": "Rekordowa frekwencja na śniadaniu IPH ROP. Przedsiębiorcy stawiają na kapitał relacyjny i edukację (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNUdCNkVERHBnT1YwRDJyNm5Kc3g1QnRMakJ1cVlmWEZVWC1tem80Z1U1WFpXa3FuUkpBU0NsanNJQzFPb3BSTVlqM0l6X1R1dVZKeTJBUi1la3F1RktNT3JYTk03SWtVRVFTNDJTZ2NBSUJHb0RNUVVrRWNDQkN1V0RRMzFOVGw3N3YzWV96X0o5dDJfMTV6dHhtbWZZM2dPVVpoQlZqSWtxUk13ckphU2RnRGNhM0dzbHVKbFliSnlmc3hGYlNmU0J2SU5qbUpnWVR3eUUxeDFFMDhvTXpISFFDX19kLTU0VGc1QW5Ld2pZdw?oc=5",
-      "published": "2026-11-04T16:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "dd410cedbff28d5b20e4ec5b583b0f6499b15a1f",
       "title": "Złote monety, miliony w gotówce i kontrterroryści. Potężne uderzenie w nielegalny hazard (foto)",
       "summary": "",
@@ -785,6 +801,16 @@
       "link": "https://www.radio90.pl/szpital-psychiatryczny-w-rybniku-duze-remonty-na-dwoch-oddzialach-lecznicy-co-sie-zmienilo-zdjecia.html",
       "published": "2026-11-04T11:33",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6456e35f61e76345e939f1722965873660ae151d",
+      "title": "Bezpieczny czas zadumy w Rybniku i ponad 2300 skontrolowanych kierowców (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSnRsMmV1Q3ZCeDh6THNad1hiZGxaS3pxY3ZrSTZMNVhvTGEtdDh2ZzdLSEF6aTdqVkU2RVRzRVRQd2FuQ1lSbXYzYjRyQVQ5TnZJYlpTZlJNaWxXX08zVlN2U1JOTVlRaVRJcm1XZ2RqSC1sRWJQT1FCY3hTWnFpT1U5TzQtR2JUUEd0S3phT2luSkZUUm1yS0ZDeEZTTzNyR2x2YV94WmR5NUxyY19LZ19meUh5ZEtxVUlic3RFa1ZIRTcwU052eWdLajNDZHM?oc=5",
+      "published": "2026-11-04T10:00",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -914,16 +940,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd3ZKdUpDUE5mTkxka3RPNy1MZGlaaHFQWEJsazluRm5GRzUwVkRqdUhHTWMxVmZFVnlOLU1NT2R3eHRGcnJxZEp6N3dHTlVHT0JuTGZYUjRUUHZ5ZDBnQVBzVmVUTnVQek9rSk1oR011Uk11V2hOejVTSU83NVFtZnluTnRoZ0FEd3dueE1CV1NpX0pfbHJtUUpkLTlBUEhiOFhWSVRBTXpMN052czJJWndwSjNiQnFrMDh6SHdLMUZxcHpGME1HLUtGMzNYLTNyMnlWaFM1WQ?oc=5",
       "published": "2026-11-02T20:05",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e50cb759e3a904fa58e14aec85091b6148499484",
-      "title": "Nocne hałasy, hulajnogi i skargi na podpalenia przy SP34. Miasto zapowiada zamknięcie terenu",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN0k4VGJFZEM3SzMzSG1jeWU2bjZydVo1VGMwaHRlRl9BaFFPVzJES09RUkRoLXpyYm9ZM0U1UkJJS0MxSGJhajFqT3RRTUR1V1FqbzZyN2gyblE0d0xTT0pQLTV0R016OUFLaDJ0VHVzM3dXb1g4VzY4TFFzUmFUeWhjNFl5Q0ZQaEF3NjM5aEtaRm1JZnA4SWZuNzQ5NmEyR0NQMmpwTWQ3UFoyVWZjS1BKM21WTkFhU21ybFJtZUxfS0hlWUVCMzhuOFhKUV9PQXY5VERXeElQX0FrV3BvSUJB?oc=5",
-      "published": "2026-11-02T14:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"

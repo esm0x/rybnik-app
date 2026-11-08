@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T21:47:11",
+  "generated_at": "2026-11-08T05:57:21",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,20 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 123,
+  "count": 109,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-zniwa-i-szlakiem-starych-drzew-w-rybniku-koncert-folkowy-w-k",
-      "title": "Żniwa i Szlakiem Starych Drzew w Rybniku – koncert folkowy w Klubie Odyseja",
-      "category": "Koncert",
-      "start": "2026-11-07T19:00",
-      "end": null,
-      "venue": "Klub Odyseja",
-      "description": "Rybnik szykuje się na wieczór pełen leśnego klimatu, dawnych legend i muzyki, która brzmi tak, jakby wyciągnięto ją prosto z innego świata. Żniwa i Szlakiem Starych Drzew zagrają w Klubie Odyseja, więc jeśli lubicie koncerty z charakterem, warto zaznaczyć tę datę w kalendarzu i dać się porwać temu klimatowi Data: 7 listopada 2026 r. (sobota), godz. 19:00 Bramki: od 18:00 Miejsce: Klub Odyseja, Raciborska 9a, 44-200 Rybnik Wszystkie bilety są stojące, bez miejsc numerowanych . Liczba wejściówek w każdej puli jest ograniczona, więc im wcześniej, tym taniej. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/zniwa-i-szlakiem-starych-drzew-w-rybniku-koncert-folkowy-w-klubie-odyseja"
-    },
     {
       "id": "bilnya-galeria-sztuki-rzeczna-202611081100",
       "title": "Galeria Sztuki Rzeczna",
@@ -836,22 +825,11 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/matka-spektakl-teatru-na-pol-na-podstawie-dramatu-witkacego.html"
     },
     {
-      "id": "bilnya-matka-spektakl-mlodziezowego-teatru-na-pol-202611300900",
-      "title": "Matka - Spektakl Młodzieżowego Teatru NA PÓŁ.",
-      "category": "Spektakl",
-      "start": "2026-11-30T09:00",
-      "end": "2026-11-30T10:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Matka-Spektakl-Mlodziezowego-Teatru-NA-POL-PREMIERA?eid=711864#opis"
-    },
-    {
       "id": "tzr-labirynt-fauna",
       "title": "Labirynt Fauna",
       "category": "Film",
       "start": "2026-11-30T15:30",
-      "end": "2026-11-30T17:28",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Mała Ofelia przybywa do domu nowego męża jej matki, kapitana Vidala. Dziewczynce trudno znieść surowość ojczyma. Przez przypadek Ofelia odkrywa w ogrodzie tajemniczy labirynt. Tam spotka Fauna, baśniowego stwora, który rozpozna w niej księżniczkę magicznej krainy, której grozi zagłada. Przed dziewczynką stoją jednak 3 mordercze zadania, które sprawdzą jej nieśmiertelność. Z czasem okrucieństwo zapanuje nad całym rzeczywistym światem.",
       "sourceName": "TZR",
@@ -895,7 +873,7 @@
       "title": "Selfie, czyli miłość na pstryk!",
       "category": "Spektakl",
       "start": "2026-12-04T19:00",
-      "end": "2026-12-04T20:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Co może wyniknąć z zetknięcia się dwóch sąsiadujących mieszkańców wielkiego blokowiska, opanowanych kryzysem samotności? W jednym mieszka Brygida – bojowo nastawiona singielka z córką, a w drugim Gerard – samotny ojciec rozczarowany kobietami. Oboje pielęgnują stereotypy, dopóki sprawy sercowe ich dorosłych dzieci nie każą wyjść z okopów i stanąć twarzą w twarz z własnymi uprzedzeniami.",
       "sourceName": "TZR",
@@ -924,17 +902,6 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/koncert-zespolu-universe.html"
     },
     {
-      "id": "bilnya-universe-202612051800",
-      "title": "Universe",
-      "category": "Koncert",
-      "start": "2026-12-05T18:00",
-      "end": "2026-12-05T19:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🔥Universe! Dołącz do nas, aby wspólnie świętować magię muzyki i tworzyć niezapomniane wspomnienia. Zakup bilet i przygotuj się na niezapomnianą podróż muzyczną podczas koncertu zespołu Universe ‼️🎶.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Universe?eid=697526#opis"
-    },
-    {
       "id": "dk-chw-mikolajki-20261206",
       "title": "Mikołajki",
       "category": "DlaDzieci",
@@ -944,17 +911,6 @@
       "description": "Ho, ho, ho! Mikołaj już szykuje sanie i wkrótce zawita do Chwałowic. Zapraszamy wszystkie dzieci wraz z rodzicami na wyjątkowe popołudnie pełne magii, niespodzianek i świątecznej atmosfery! 6 grudnia 2026 r. (niedziela) w Domu Kultury w Rybniku-Chwałowicach.",
       "sourceName": "DK Chwałowice",
       "sourceUrl": "https://www.dkchwalowice.pl/?news=52473"
-    },
-    {
-      "id": "bilnya-mikolaj-w-domu-kultury-niedobczyce-202612060900",
-      "title": "Mikołaj w Domu Kultury Niedobczyce",
-      "category": "DlaDzieci",
-      "start": "2026-12-06T09:00",
-      "end": "2026-12-06T11:00",
-      "venue": "Dom Kultury Niedobczyce, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/Mikolaj-w-Domu-Kultury-Niedobczyce-w-Rybniku?eid=716120#opis"
     },
     {
       "id": "dk-bog-11161-spotkanie-z-mikolajem-trzy-godziny-do-wyboru-10-00-12-00-15-00",
@@ -990,17 +946,6 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/pani-domu-jest-tylko-jedna.html"
     },
     {
-      "id": "bilnya-mikolajki-w-chwalowicach-2026-202612061730",
-      "title": "Mikołajki w Chwałowicach 2026",
-      "category": "DlaDzieci",
-      "start": "2026-12-06T17:30",
-      "end": "2026-12-06T19:00",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Mikolajki-w-Chwalowicach-2026?eid=715412#opis"
-    },
-    {
       "id": "iryb-mikolajki-pokaz-iluzjonistyczny-sebko-elf-i-spotkanie-z-miko",
       "title": "Mikołajki – pokaz iluzjonistyczny „Sebko elf” i spotkanie z Mikołajem",
       "category": "Impreza",
@@ -1034,17 +979,6 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/tu-kino-swiat-chiary-seans-dla-szkol-podstawowych/"
     },
     {
-      "id": "bilnya-lukasz-kaczmarczyk-stand-up-przerwa-techniczna-202612101900",
-      "title": "Łukasz Kaczmarczyk stand-up - Przerwa techniczna",
-      "category": "Kabaret",
-      "start": "2026-12-10T19:00",
-      "end": "2026-12-10T21:00",
-      "venue": "Klub Odyseja, Raciborska 9",
-      "description": "😂🎤 Łukasz Kaczmarczyk z Kabaretu Młodych Panów zaprasza na \"Przerwę Techniczną\" – nowy stand-up pełen błyskotliwego humoru i życiowych obserwacji! Absurd codzienności w najlepszym wydaniu. Nie przegap tej dawki śmiechu! 🎟️🤣.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/stand-up/Lukasz-Kaczmarczyk?eid=696696#opis"
-    },
-    {
       "id": "tzr-francuski-numerek",
       "title": "Francuski Numerek",
       "category": "Spektakl",
@@ -1067,22 +1001,22 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/inertia-over-rybnik-ironbound-kingsphere-i-m2r1-w-klubie-odyseja"
     },
     {
-      "id": "bilnya-rubinowe-gody-202612121700",
+      "id": "tzr-rubinowe-gody",
       "title": "Rubinowe Gody",
       "category": "Spektakl",
       "start": "2026-12-12T17:00",
-      "end": "2026-12-12T18:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎭💍 \"Rubinowe Gody\" – komedia o małżeństwie, które na 40. rocznicę ślubu wplątuje się w intrygę na szczytach władzy! 🔥 Tajemnice, polityka i miłość w najlepszym wydaniu. Nie przegap tej ekscytującej historii! 🎟️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Rubinowe-Gody?eid=716105#opis"
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "\"Rubinowe Gody\" – komedia o małżeństwie, które na 40. rocznicę ślubu wplątuje się w intrygę na szczytach władzy! Tajemnice, polityka i miłość w najlepszym wydaniu. Nie przegap tej ekscytującej historii!",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/rubinowe-gody.html"
     },
     {
       "id": "iryb-spektakl-wilijo-na-poziomie-650",
       "title": "Spektakl „Wilijo na poziomie 650”",
       "category": "Spektakl",
       "start": "2026-12-12T18:00",
-      "end": "2026-12-12T19:30",
+      "end": null,
       "venue": "Dom Kultury Rybnik-Chwałowice",
       "description": "O wydarzeniach historycznych można opowiadać przez pryzmat ludzi, których dotknęły. Spektakl „Wilijo na poziomie 650” przybliży strajk podziemny w KWK Piast w grudniu 1981 roku oraz jego konsekwencje dla górników i ich rodzin. Przedstawienie zostanie wystawione w sobotę 12 grudnia 2026 roku o godz. 18:00 w Domu Kultury w Rybniku-Chwałowicach przy ul. 1 Maja 91b. Bilety kosztują 45 zł , a z Rybką 36 zł . Można je kupić w kasie domu kultury oraz w sprzedaży internetowej. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
       "sourceName": "iRybnik",
@@ -1104,22 +1038,11 @@
       "title": "Osiecka Królową Piosenki: koncert w Rybniku",
       "category": "Koncert",
       "start": "2026-12-13T18:07",
-      "end": "2026-12-13T20:07",
+      "end": null,
       "venue": "Klub Odyseja",
       "description": "Piosenki Agnieszki Osieckiej zabrzmią w kameralnej odsłonie w Klubie Odyseja w Rybniku. W programie znajdą się utwory znane z interpretacji m.in. Maryli Rodowicz, Marka Grechuty, Edyty Geppert i Skaldów. Data: 13 grudnia 2026 roku (niedziela), godz. 18:07 Miejsce: Klub Odyseja, Rybnik Bilety: dostępne w serwisach KupBilecik, Biletyna i Biletomat. Ceny nie podano. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Podczas koncertu zabrzmią utwory, które przed laty wykonywali m.in. Edmund Fetting, Krystyna Janda, Łucja Prus i Seweryn Krajewski. To muzyczna podróż przez piosenki pełne charakterystycznych tekstów i melodii, które na stałe zapisały się w polskiej kulturze.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/osiecka-krolowa-piosenki-koncert-w-rybniku"
-    },
-    {
-      "id": "bilnya-zdolni-i-skromni-testy-nowych-skeczy-202612161800",
-      "title": "Zdolni i Skromni - Testy nowych skeczy",
-      "category": "Kabaret",
-      "start": "2026-12-16T18:00",
-      "end": "2026-12-16T19:30",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Zdolni-i-skromni/Testy-nowych-skeczy?eid=714508#opis"
     },
     {
       "id": "dk-bog-11145-ogolnopolski-konkurs-plastyczny-moj-przyjaciel-wyobraznia",
@@ -1155,48 +1078,26 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/najdrozszy-122026.html"
     },
     {
-      "id": "bilnya-najdrozszy-spektakl-komediowy-202612201500",
-      "title": "Najdroższy - spektakl komediowy",
-      "category": "Spektakl",
-      "start": "2026-12-20T15:00",
-      "end": "2026-12-20T16:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎭✨ \"Najdroższy\" to błyskotliwa komedia o pechowcu, który za wszelką cenę próbuje odmienić swój los! 😄 Absurdalne sytuacje, zaskakujące zwroty akcji i humor w paryskim stylu – baw się do łez! Sprawdź repertuar i zarezerwuj bilety już dziś! 🎟️❤️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Najdrozszy?eid=707088#opis"
-    },
-    {
-      "id": "bilnya-golo-i-wesolo-202612311800",
-      "title": "Goło i Wesoło",
-      "category": "Spektakl",
+      "id": "tzr-golo-i-wesolo-sylwester-w-teatrze",
+      "title": "Goło i wesoło. Sylwester w Teatrze",
+      "category": "Impreza",
       "start": "2026-12-31T18:00",
-      "end": "2026-12-31T20:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🤔 Kto z nas nie marzył o wielkiej karierze gwiazdy filmu czy rock'n'rolla? 🎸 Na prawie taki sam pomysł wpadła grupka przyjaciół, która postanowiła zostać... striptizerami 🙊 Jak im poszło? Dowiecie się w przezabawnym spektaklu Goło i wesoło. Jedno jest pewne - będzie gorąco! 🔥.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Golo-i-Wesolo?eid=712049#opis"
+      "end": "2026-12-31T21:30",
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Kto z nas nie marzył o wielkiej karierze gwiazdy filmu czy rock'n'rolla? Na prawie taki sam pomysł wpadła grupka przyjaciół, która postanowiła zostać... striptizerami. Jak im poszło? Dowiecie się w przezabawnym spektaklu Goło i wesoło. Jedno jest pewne - będzie gorąco!",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/golo-i-wesolo-sylwester-w-teatrze.html"
     },
     {
-      "id": "bilnya-igor-kwiatkowski-introwertyk-202701161800",
-      "title": "Igor Kwiatkowski - Introwertyk",
-      "category": "Kabaret",
-      "start": "2027-01-16T18:00",
-      "end": "2027-01-16T19:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎤 Igor Kwiatkowski zaprasza na swój nowy program „Introwertyk”! Czekają Cię absurdalne historie o bigosie w kinie, czarodziejach w kuchni i niecodziennych sposobach na podryw. Humor, dystans i świetna zabawa gwarantowane! 🎭😂 Kup bilet już dziś! 🎟️✨.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Igor-Kwiatkowski/Introwertyk?eid=718600#opis"
-    },
-    {
-      "id": "bilnya-piano-best-covers-best-film-soundtracks-202701161900",
-      "title": "Piano Best Covers: Best Film Soundtracks",
+      "id": "dk-chw-koncert-best-film-soundtracks-20270116",
+      "title": "Koncert \"Best Film Soundtracks\"",
       "category": "Koncert",
       "start": "2027-01-16T19:00",
-      "end": "2027-01-16T20:30",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": "🎬 Najpiękniejsza muzyka filmowa w wyjątkowym wydaniu! Dombrova Piano Duo zagra na fortepianach kultowe melodie Zimmera, Williamsa, Morricone i innych mistrzów. 🎹✨ Zanurz się w świecie kina i wielkich emocji!.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Piano-Best-Covers-Best-Film-Soundtracks-Candles?eid=696728#opis"
+      "end": null,
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "Uwaga! Zmiana terminu koncertu! Nowa data: 16.01.2027 r. o 19:00. Organizatorem koncertu jest Alliance Art.",
+      "sourceName": "DK Chwałowice",
+      "sourceUrl": "https://www.dkchwalowice.pl/?news=51977"
     },
     {
       "id": "dk-bog-11158-ferie-zimowe-2027-polkolonie-dla-dzieci",
@@ -1214,7 +1115,7 @@
       "title": "Ballady Rockowe przy Świecach: Polskie Legendy. Najważniejsze utwory polskiego rocka w jednym koncercie",
       "category": "Koncert",
       "start": "2027-01-21T19:30",
-      "end": "2027-01-21T21:00",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "„Ballady Rockowe przy Świecach” to cykl kameralnych koncertów przy blasku świec, który zdobył uznanie publiczności dzięki swojej wyjątkowej atmosferze i brzmieniu na żywo. Projekt zachwycił już ponad 70 000 widzów podczas ponad 100 występów w ośmiu krajach, potwierdzając swoją popularność i uniwersalność formatu. W ramach tej serii kultowe rockowe ballady zyskują nowe, bardziej subtelne, akustyczne i emocjonalne oblicze, pozwalając odkryć ich głębię, lirykę i siłę na nowo. Projekt nieustannie się rozwija, otwierając kolejne muzyczne kierunki. Jednym z nich jest program poświęcony polskiemu rockowi – legendarnym utworom, które stały się symbolem całej epoki. Piosenki takich zespołów jak Dżem, Perfect, Lady Pank, Budka Suflera, Maanam i wielu innych zabrzmią w nowej, bardziej intymnej i poruszającej interpretacji. Delikatne światło świec podkreśli romantyzm i subtelność ballad polskiego rocka, zachowując jednocześnie ich siłę i energię, czyniąc ten wieczór naprawdę magicznym. Starannie dobrany repertuar koncertu „Ballady Rockowe przy Świecach” nie pozostawi obojętnym żadnego słuchacza. Głębia uczuć i emocji zawarta w każdej piosence poruszy najczulsze struny duszy – od miłości, szczęścia, inspiracji i nostalgii, po stratę, poszukiwanie sensu życia, samotność i wewnętrzne przeżycia. To doskonała okazja, aby oderwać się od miejskiego zgiełku, zanurzyć się w świecie legendarnego polskiego rocka i zapomnieć o codziennych troskach. Spędź ten wieczór z bliskimi i przyjaciółmi, delektując się wspomnieniami i tworząc nowe. Dlaczego warto wybrać się na koncert „Ballady Rockowe przy Świecach: Polskie Legendy”? Ponownie przeżyć najpiękniejsze momenty swojego życia Usłyszeć wyjątkowe aranżacje poruszających ballad polskiego rocka przy blasku świec. Spędzić ciepły wieczór w gronie najbliższych. Czy już wiesz, z kim chcesz przeżyć te niezapomniane emocje? Zaproś bliskich i spędźcie razem wyjątkowy wieczór! Pamiętaj, że liczba biletów jest ograniczona – im dłużej zwlekasz, tym szybciej znikają najlepsze miejsca.",
       "sourceName": "TZR",
@@ -1225,7 +1126,7 @@
       "title": "Teresa Werner. 15-lecie solowej kariery artystycznej!",
       "category": "Koncert",
       "start": "2027-01-22T18:00",
-      "end": "2027-01-22T19:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Teresa Werner to polska piosenkarka pochodząca z Nakła Śląskiego. Kariera Teresy Werner przyspieszyła po nagraniu takich hitów jak \"Miłość jest piękna\", \"Dałabym Ci dała\" czy \"Kocham swoje morze\", które wielokrotnie i bezkonkurencyjnie wygrywały telewizyjne i radiowe listy przebojów. Jej kompozycje oraz teledyski są emitowane na antenach stacji radiowych i telewizyjnych. Dotychczas w dorobku artystki ukazały się płyty CD oraz DVD. Pierwszy album \"Spełnić Marzenia\" uzyskał najpierw status Złotej Płyty, a następnie Platynowej Płyty i Podwójnej Platynowej Płyty! Artystka została wyróżniona przez Ministra Kultury i Dziedzictwa Narodowego odznaką honorową \"Zasłużony dla Kultury Polskiej\". Teresa Werner znalazła się w prestiżowym leksykonie \"Polki mają głos\", w którym zaprezentowano 100 najbardziej wpływowych Polek na stulecie nadania praw wyborczych kobietom w Polsce. W lipcu 2013 Wyższa Rada Ekspertów Międzynarodowego Intelektualnego Społeczeństwa Niezależnego Międzynarodowego PEN Clubu odznaczyła piosenkarkę tytułem doktora honoris causa. Teresa Werner zrealizowała swoje wielkie marzenie i wyprodukowała własną ekskluzywną linię perfum dla kobiet i mężczyzn, które w krótkim czasie stały się absolutnymi bestsellerami! Z okazji jubileuszu 10-lecia solowej pracy artystycznej na rynku ukazała się złota limitowana edycja perfum. Piosenkarka wzięła udział w prestiżowym międzynarodowym festiwalu w chorwackim Szybeniku „Večeri dalmatinske šansone 2013”, gdzie jej występ spotkał się z wielkim uznaniem dla jej twórczości. Teresa Werner jest stałym gościem w telewizyjnym programie \"Śląska Karuzela\" w Telewizji TVS, który prowadzony jest przez Sławomira i Kajrę, którzy z przyjemnością prezentują wszelkie nowości z artystycznego świata Teresy Werner. Obecnie promuje swój najnowszy już czwarty album CD \"Sekret Miłości\", a także książkę \"Marzeniami do sukcesu\". Nie zwalnia tempa i z całą pewnością jest najczęściej koncertującą artystką w Polsce. Ikona stylu dla kobiet, ideał piękna dla mężczyzn. Jedyna i niepowtarzalna – Teresa Werner.",
       "sourceName": "TZR",
@@ -1236,33 +1137,11 @@
       "title": "Budka Suflera w Rybniku!",
       "category": "Koncert",
       "start": "2027-01-23T17:00",
-      "end": "2027-01-23T18:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Budka Suflera - polski zespół rockowy założony w Lublinie w 1974 roku przez Krzysztofa Cugowskiego i Romualda Lipkę. Znany z takich przebojów jak: \"Sen o dolinie\", \"Za ostatni grosz\", \"Jolka Jolka, pamiętasz\", \"Takie Tango\" czy \"Bal wszystkich Świętych\". Budka Suflera to jeden z najpopularniejszych zespołów polskiej muzyki rockowej. Skład zespołu wielokrotnie zmieniał się, a przez grupę przewinęło się ponad 25 muzyków. Osobą łączącą wszystkie składy od 1975 jest perkusista Tomasz Zeliszewski, pełniący także rolę menedżera i lidera zespołu po śmierci Romualda Lipki (zm. 2020), jest jedynym członkiem Budki Suflera, który nagrał z zespołem wszystkie albumy. Podczas koncertu zespół wykona znane przeboje \"Budki Suflera\". Budka Suflera ma na swoim koncie wiele prestiżowych nagród. Jest między innymi laureatem Fryderyków w kategoriach \"Zespół roku\" oraz \"Piosenka roku\" za przebój \"Takie Tango\". W 2002 roku otrzymał Super Jedynkę za utwór \"Bal wszystkich świętych\".",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/budka-suflera-w-rybniku.html"
-    },
-    {
-      "id": "bilnya-leszek-mozdzer-solo-202701241700",
-      "title": "Leszek Możdżer SOLO",
-      "category": "Koncert",
-      "start": "2027-01-24T17:00",
-      "end": "2027-01-24T18:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "Leszek Możdżer to żywa legenda muzyki. Ten wybitny pianista dokonał w polskim jazzie mentalnej i stylistycznej rewolucji. Do tego dzielił scenę z najwybitniejszymi światowymi jazzmanami! 🔥Zobaczenie go na żywo to zupełnie inny wymiar doznawania muzyki. 👉 Musisz to przeżyć na własnej skórze!.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Leszek-Mozdzer/SOLO?eid=719987#opis"
-    },
-    {
-      "id": "bilnya-sklep-z-facetami-202701241700",
-      "title": "Sklep z facetami",
-      "category": "Spektakl",
-      "start": "2027-01-24T17:00",
-      "end": "2027-01-24T18:30",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": "😂 Komedia o kobietach, mężczyznach i miłości, w której każdy odnajdzie cząstkę siebie. 💕 Błyskotliwe dialogi, zaskakujące zwroty akcji i doskonała zabawa sprawiły, że „Sklep z facetami” pokochało już ponad 50 000 widzów w całej Polsce..",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Sklep-z-facetami?eid=677848#opis"
     },
     {
       "id": "tzr-soyka-grott-orkiestra-w-holdzie-mistrzowi-odwolany",
@@ -1280,22 +1159,11 @@
       "title": "NOWOROCZNA GALA – Koncert Wiedeński",
       "category": "Koncert",
       "start": "2027-01-26T18:00",
-      "end": "2027-01-26T20:00",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Najnowsza edycja 2027 ogólnopolskiej trasy koncertowej! - magiczne, pełne kolorytu widowisko, nie mające sobie równych! - na scenie ponad 30 osobowy zespół najwybitniejszych Solistów, Orkiestry i baletu oraz Gość Specjalny! - zachwycające doznania muzyczne, wypełnione szelestem błyszczących sukien, wśród widoku rozlewanego szampana i dźwięku stukających obcasów - najnowszy program koncertu – edycja 2027 - połączenie klasyki z rozrywką, które łączy pokolenia",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/noworoczna-gala-koncert-wiedenski.html"
-    },
-    {
-      "id": "bilnya-eleni-zlote-przeboje-teatr-ziemi-rybnickiej-202701271800",
-      "title": "Eleni - Złote Przeboje, Teatr Ziemi Rybnickiej",
-      "category": "Koncert",
-      "start": "2027-01-27T18:00",
-      "end": "2027-01-27T19:40",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Eleni-Zlote-Przeboje-Teatr-Ziemi-Rybnickiej?eid=719204#opis"
     },
     {
       "id": "tzr-eleni-50-lat-na-scenie-koncert-jubileuszowy",
@@ -1313,33 +1181,11 @@
       "title": "Vivaldi przy świecach",
       "category": "Koncert",
       "start": "2027-01-28T19:30",
-      "end": "2027-01-28T21:00",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Barok na wyciągnięcie ręki 300 lat temu „Cztery pory roku” Antonio Vivaldiego zaskoczyły świat swoją niezwykłą mocą i emocjami. Dziś masz szansę poczuć je tak, jak słuchali ich pierwsi odbiorcy – w kameralnej atmosferze, przy blasku świec, otoczeni muzyką, która łączy duchową głębię z radością życia. To nie tylko koncert – to podróż w czasie, pełna emocji, które przetrwały wieki.",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/vivaldi-przy-swiecach.html"
-    },
-    {
-      "id": "bilnya-ponad-chmurami-202701291900",
-      "title": "Ponad Chmurami",
-      "category": "Koncert",
-      "start": "2027-01-29T19:00",
-      "end": "2027-01-29T20:30",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": "🎶 Daj się porwać muzycznej podróży z zespołem Ponad Chmurami! Usłysz utwory z albumu „Zaprowadź mnie” i ukochane przeboje w kameralnej, pełnej ciepła atmosferze. ✨ Kup bilet i przeżyj ten wyjątkowy wieczór! 🎟️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Ponad-Chmurami?eid=712260#opis"
-    },
-    {
-      "id": "bilnya-andrzej-sikorowski-w-duecie-z-jackiem-krolikiem-202701301800",
-      "title": "Andrzej Sikorowski w duecie z Jackiem Królikiem",
-      "category": "Koncert",
-      "start": "2027-01-30T18:00",
-      "end": "2027-01-30T19:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎶 Andrzej Sikorowski z Jackiem Królikiem zabiorą Cię w muzyczną podróż pełną kultowych hitów Pod Budą i solowych perełek. Nastrojowy wieczór pełen wspomnień i gitarowych brzmień – nie przegap! 🎸✨.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Andrzej-Sikorowski/Jacek-Krolik?eid=720024#opis"
     },
     {
       "id": "dk-bog-11035-dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-godz-16-00",
