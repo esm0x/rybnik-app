@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:56:27",
+  "generated_at": "2026-11-07T21:47:11",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,53 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 129,
+  "count": 123,
   "failures": [],
   "events": [
-    {
-      "id": "tzr-19-miedzynarodowy-festiwal-rybnicka-jesien-choralna-im-hm-goreckiego-przesluchania-konkursowe",
-      "title": "19. Międzynarodowy Festiwal Rybnicka Jesień Chóralna im. H.M. Góreckiego. Przesłuchania konkursowe",
-      "category": "Festiwal",
-      "start": "2026-11-07T10:00",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Zespoły i Chóry zakwalifikowane do przesłuchań konkursowych:",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/19-miedzynarodowy-festiwal-rybnicka-jesien-choralna-im-hm-goreckiego-przesluchania-konkursowe.html"
-    },
-    {
-      "id": "iryb-listopadowe-spotkania-w-strefie-mlodych",
-      "title": "Listopadowe spotkania w Strefie Młodych",
-      "category": "Impreza",
-      "start": "2026-11-07T10:00",
-      "end": null,
-      "venue": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku",
-      "description": "Powiatowa i Miejska Biblioteka Publiczna im. Konstantego Prusa w Rybniku zaprasza młodzież na listopadowe spotkania w Strefie Młodych. W programie znalazły się sesje RPG oraz rozmowy po angielsku z native speakerem. Warsztaty RPG „Miesięcznik Przygód” rozpoczną się 7 listopada 2026 roku o godz. 10:00 w Bibliotece Głównej przy ul. Józefa Szafranka 7 w Rybniku . Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Podczas warsztatów RPG „Miesięcznik Przygód” uczestnicy zagrają w przygodę „Tajemnica Cesarskiej Perły” w systemie Tolcalen. Rozgrywkę poprowadzi Naru.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/listopadowe-spotkania-w-strefie-mlodych"
-    },
-    {
-      "id": "tzr-19-miedzynarodowy-festiwal-rybnicka-jesien-choralna-im-hm-goreckiego-koncert-laureatow",
-      "title": "19. Międzynarodowy Festiwal Rybnicka Jesień Chóralna im. H.M. Góreckiego. Koncert Laureatów",
-      "category": "Koncert",
-      "start": "2026-11-07T17:30",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Rybnik po raz dziewiętnasty stanie się miejscem spotkania chórów z Polski i zagranicy. Po dopołudniowych przesłuchaniach Jury wyłoni laureatów, którzy zaprezentują się w rybnickim kościele Matki Bożej Bolesnej (Stary Kościół) i tamże zostaną im wręczone nagrody oraz dyplomy. Zapraszamy. Wstęp wolny",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/19-miedzynarodowy-festiwal-rybnicka-jesien-choralna-im-hm-goreckiego-koncert-laureatow.html"
-    },
-    {
-      "id": "dk-chw-adam-rajski-20261107",
-      "title": "Adam Rajski",
-      "category": "Spektakl",
-      "start": "2026-11-07T18:00",
-      "end": "2026-11-07T19:30",
-      "venue": "Dom Kultury Rybnik-Chwałowice",
-      "description": "Teatr Lalek Marka Żyły w zupełnie nowej odsłonie. Tym razem nie dla dzieci a dla starszego odbiorcy (16+)! Już 7 listopada 2026 roku o 18:00 \"Adam Rajski\".",
-      "sourceName": "DK Chwałowice",
-      "sourceUrl": "https://www.dkchwalowice.pl/?news=51540"
-    },
     {
       "id": "iryb-zniwa-i-szlakiem-starych-drzew-w-rybniku-koncert-folkowy-w-k",
       "title": "Żniwa i Szlakiem Starych Drzew w Rybniku – koncert folkowy w Klubie Odyseja",
@@ -77,15 +33,15 @@
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=715193#opis"
     },
     {
-      "id": "tzr-malgorzata-ostrowska-45-lat-koncert-jubileuszowy",
-      "title": "Małgorzata Ostrowska - 45 lat: koncert jubileuszowy",
+      "id": "iryb-malgorzata-ostrowska-w-rybniku-jubileuszowy-koncert-z-okazji",
+      "title": "Małgorzata Ostrowska w Rybniku – jubileuszowy koncert z okazji 45-lecia pracy artystycznej",
       "category": "Koncert",
       "start": "2026-11-08T17:00",
-      "end": "2026-11-08T18:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Małgorzata Ostrowska, legenda polskiej piosenki, zaprasza na jubileuszowe koncerty z okazji 45-lecia pracy artystycznej! Jedna z największych ikon polskiej muzyki rockowej, właścicielka rozpoznawalnego od pierwszych dźwięków głosu, idąca zawsze własną drogą artystka bezkompromisowa – taką ją uwielbiamy i z taką spotkamy się ponownie na żywo w 2026 roku. Rocznicowa trasa przeprowadzi nas przez wszystkie etapy kariery artystki: od drapieżnych i kolorowych lat 80. przez dojrzałą solową twórczość, aż po ostatnie dokonania, w tym doskonale przyjętą płytę „Legenda”, na której artystka wróciła do swoich muzycznych korzeni. Każdy z koncertów będzie okazją do wspomnień, wzruszeń, ale też wspólnej zabawy kilku pokoleń słuchaczy, które wychowały się na piosenkach takich jak Meluzyna, Szklana pogoda, Gołębi puch, Mam dość, Taniec pingwina na szkle czy Mister of America .",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/malgorzata-ostrowska-45-lat-koncert-jubileuszowy.html"
+      "description": "Małgorzata Ostrowska wraca na scenę z trasą, która ma w sobie wszystko, za co fani kochają jej występy: mocny głos, rockową energię i dużo wspomnień To będzie wieczór dla tych, którzy pamiętają „Szklaną pogodę” , ale też dla młodszych słuchaczy, którzy chcą zobaczyć jedną z najbardziej wyrazistych postaci polskiej muzyki na żywo. Warto zarezerwować sobie ten termin. Data i godzina: 8 listopada 2026 (niedziela), godz. 17:00 Miejsce: Teatr Ziemi Rybnickiej, Plac Teatralny im. Kazimierza Kutza 1, Rybnik Bilety: bilety są już dostępne w sprzedaży Cena: brak informacji o cenie w opisie wydarzenia",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/malgorzata-ostrowska-w-rybniku-jubileuszowy-koncert-z-okazji-45-lecia-pracy-artystycznej"
     },
     {
       "id": "bilnya-lalka-2026-202611091530",
@@ -1056,6 +1012,28 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/mikolajki-pokaz-iluzjonistyczny-sebko-elf-i-spotkanie-z-mikolajem"
     },
     {
+      "id": "dk-bog-11171-tu-kino-swieta-astrid-lindgren-seans-dla-szkol-i-przedszkoli",
+      "title": "TU KINO: Święta Astrid Lindgren - seans dla szkół i przedszkoli",
+      "category": "Film",
+      "start": "2026-12-07T09:30",
+      "end": "2026-12-07T11:00",
+      "venue": "Dom Kultury Boguszowice",
+      "description": "Zapraszamy najmłodszych widzów na wyjątkowy, świąteczny seans w ramach cyklu TU KINO. „Święta Astrid Lindgren” to pełna ciepła, humoru i zimowej magii animacja, która przenosi dzieci do niezwykłego świata bohaterów jednej z najbardziej cenionych autorek literatury dziecięcej. Gunilla i Gunnar, zmagając się z przeziębieniem, spędzają nudny dzień w domu. Wszystko zmienia się, gdy otrzymują niezwykły prezent – zegar z kukułką, w którym mieszka radosny ptaszek-opowiadacz. To właśnie on zabiera dzieci w fascynującą podróż do świata wyobraźni Astrid Lindgren. Na ekranie pojawią się między innymi psotny Emil, maleńki Nils Paluszek i odważna Kajsa. Ich przygody przypominają, że najważniejszymi elementami świąt są bliskość, życzliwość, przyjaźń i troska o drugiego człowieka. „Święta Astrid Lindgren” to wartościowa propozycja dla najmłodszych widzów, łącząca piękną animację z uniwersalnym przesłaniem o relacjach międzyludzkich i radości płynącej ze wspólnego przeżywania wyjątkowych chwil. TU KINO – więcej niż seans filmowy Cykl TU KINO to propozycja edukacji filmowej dla przedszkoli i szkół, w której starannie dobrane europejskie produkcje łączymy z krótkimi, angażującymi prelekcjami. Seanse rozwijają wyobraźnię, pobudzają ciekawość świata, wspierają kompetencje społeczne i zachęcają do rozmów o emocjach oraz wartościach. Stanowią wartościowe uzupełnienie zajęć przedszkolnych i edukacji wczesnoszkolnej. Czas trwania filmu: 53 minuty Kategoria wiekowa: 5+ Cena biletu: 15 zł / dziecko Warunek organizacji seansu: minimum 100 uczestników łącznie ze wszystkich placówek. Liczba miejsc: ograniczona Rezerwacje biletów grupowych: e-mail: to@tuczytamy.pl Telefon: 731 069 311, 697 707 676 Zapraszamy nauczycieli i wychowawców do rezerwacji miejsc dla grup przedszkolnych i szkolnych.",
+      "sourceName": "DK Boguszowice",
+      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/tu-kino-swieta-astrid-lindgren-seans-dla-szkol-i-przedszkoli/"
+    },
+    {
+      "id": "dk-bog-11176-tu-kino-swiat-chiary-seans-dla-szkol-podstawowych",
+      "title": "Tu Kino: Świat Chiary - seans dla szkół podstawowych",
+      "category": "Film",
+      "start": "2026-12-08T09:30",
+      "end": "2026-12-08T11:00",
+      "venue": "Dom Kultury Boguszowice",
+      "description": "Czy można ochronić bliską osobę przed smutkiem, ukrywając przed nią prawdę? Jak odnaleźć poczucie bezpieczeństwa, gdy rodzinny świat zaczyna się zmieniać? „Świat Chiary” to pełna emocji i wrażliwości opowieść o dorastaniu, rodzinnych relacjach oraz próbie zrozumienia zmian, na które nie zawsze mamy wpływ. Dla Chiary Boże Narodzenie od zawsze wiązało się z wizytą u ukochanego dziadka w jego górskim hotelu. Rodzinne spotkania, wspólne tradycje i świąteczna atmosfera dawały dziewczynce poczucie bliskości i bezpieczeństwa. W tym roku wszystko jednak się zmienia. Rodzice Chiary postanawiają się rozwieść, a dziadek, chcąc uchronić wnuczkę przed cierpieniem, prosi, aby zachować tę wiadomość w tajemnicy aż do świąt. Rozpoczyna się historia pełna trudnych decyzji, niewypowiedzianych emocji i rodzinnych napięć. „Świat Chiary” to wartościowy film o zaufaniu, szczerości, akceptacji zmian i sile rodzinnych więzi. Pokazuje, że nawet w obliczu trudnych doświadczeń bliskość, rozmowa i wzajemne zrozumienie pomagają odnaleźć poczucie bezpieczeństwa. Świąteczna sceneria staje się tłem dla uniwersalnej opowieści o potrzebie miłości, przynależności i budowania relacji pomimo życiowych trudności. TU KINO – więcej niż seans filmowy Cykl TU KINO to propozycja edukacji filmowej dla szkół, łącząca starannie wybrane europejskie produkcje z angażującymi prelekcjami. Filmy poruszają tematy bliskie dzieciom i młodzieży, rozwijają empatię, zachęcają do krytycznego myślenia i pomagają lepiej rozumieć emocje oraz relacje międzyludzkie. „Świat Chiary” stanowi doskonały punkt wyjścia do rozmów o zmianach w rodzinie, komunikacji, zaufaniu i radzeniu sobie z trudnymi emocjami. Seans może być wartościowym uzupełnieniem lekcji wychowawczych oraz zajęć poświęconych rozwojowi kompetencji społeczno-emocjonalnych. Informacje organizacyjne Czas trwania filmu: 105 minut Kategoria wiekowa: 9+ Cena biletu: 15 zł / uczeń Warunek organizacji seansu: minimum 100 uczniów łącznie ze wszystkich placówek Liczba miejsc: ograniczona Rezerwacje biletów grupowych: e-mail: to@tuczytamy.pl Telefon: 731 069 311, 697 707 676 Zapraszamy nauczycieli i wychowawców do rezerwacji miejsc dla swoich klas.",
+      "sourceName": "DK Boguszowice",
+      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/tu-kino-swiat-chiary-seans-dla-szkol-podstawowych/"
+    },
+    {
       "id": "bilnya-lukasz-kaczmarczyk-stand-up-przerwa-techniczna-202612101900",
       "title": "Łukasz Kaczmarczyk stand-up - Przerwa techniczna",
       "category": "Kabaret",
@@ -1287,15 +1265,15 @@
       "sourceUrl": "https://biletyna.pl/spektakl/Sklep-z-facetami?eid=677848#opis"
     },
     {
-      "id": "tzr-soyka-grott-orkiestra-w-holdzie-mistrzowi-przelozony",
-      "title": "Soyka / Grott Orkiestra w hołdzie mistrzowi - przełożony",
+      "id": "tzr-soyka-grott-orkiestra-w-holdzie-mistrzowi-odwolany",
+      "title": "Soyka / Grott Orkiestra w hołdzie mistrzowi - odwołany",
       "category": "Koncert",
       "start": "2027-01-24T18:00",
       "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
-      "description": "24 stycznia 2027 roku Teatr Ziemi Rybnickiej wypełni się muzyką jednego z najważniejszych artystów polskiej sceny. „Soyka / Grott Orkiestra w hołdzie mistrzowi” to wyjątkowy koncert poświęcony twórczości Stanisława Soyki – kompozytora, wokalisty i pianisty, którego piosenki od ponad czterech dekad poruszają kolejne pokolenia słuchaczy.",
+      "description": "informujemy, że koncert „Soyka / Grott Orkiestra w hołdzie Mistrzowi”, zaplanowany na 24 stycznia 2027 r. w Teatrze Ziemi Rybnickiej, zostaje odwołany.",
       "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/soyka-grott-orkiestra-w-holdzie-mistrzowi-przelozony.html"
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/soyka-grott-orkiestra-w-holdzie-mistrzowi-odwolany.html"
     },
     {
       "id": "tzr-noworoczna-gala-koncert-wiedenski",
@@ -1364,17 +1342,6 @@
       "sourceUrl": "https://biletyna.pl/koncert/Andrzej-Sikorowski/Jacek-Krolik?eid=720024#opis"
     },
     {
-      "id": "bilnya-ai-love-you-czyli-terapia-malzenska-xxi-wieku-202702192000",
-      "title": "\"AI LOVE YOU\" - czyli terapia małżeńska XXI wieku",
-      "category": "Spektakl",
-      "start": "2027-02-19T20:00",
-      "end": "2027-02-19T21:20",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/AI-LOVE-YOU-czyli-terapia-malzenska-XXI-wieku?eid=719244#opis"
-    },
-    {
       "id": "dk-bog-11035-dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-godz-16-00",
       "title": "Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem | godz. 16.00",
       "category": "Spektakl",
@@ -1395,39 +1362,6 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
-    },
-    {
-      "id": "bilnya-bartosz-gajda-po-lecie-stand-up-nowy-program-202704121900",
-      "title": "Bartosz Gajda - \"PO LECIE\" - stand up NOWY PROGRAM",
-      "category": "Kabaret",
-      "start": "2027-04-12T19:00",
-      "end": "2027-04-12T20:30",
-      "venue": "inoWino Świerklaniec, Jana III Sobieskiego 9",
-      "description": "😂⏳ Czas leci jak szalony? To idealny moment na solidną dawkę śmiechu! Bartosz Gajda wraca z nowym stand-upem – inteligentny humor, absurd i zero zbędnych wulgaryzmów. Przyjdź i pośmiej się z życia, zanim znów przyspieszy 🎤✨🎟️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/stand-up/Bartosz-Gajda/po-lecie?eid=713645#opis"
-    },
-    {
-      "id": "bilnya-kabaret-paranienormalni-w-nowym-programie-2027-202710091600",
-      "title": "Kabaret Paranienormalni - w nowym programie 2027",
-      "category": "Kabaret",
-      "start": "2027-10-09T16:00",
-      "end": "2027-10-09T17:30",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Kabaret-Paranienormalni/w-nowym-programie?eid=718872#opis"
-    },
-    {
-      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
-      "title": "NutkoSfera - CeZik dzieciom",
-      "category": "DlaDzieci",
-      "start": "2027-12-03T17:00",
-      "end": "2027-12-03T18:20",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }

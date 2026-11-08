@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:58:13",
+  "generated_at": "2026-11-07T21:49:10",
   "count": 60,
   "failures": [],
   "teams": [
@@ -691,10 +691,10 @@
       "home": "ROW 1964 Rybnik",
       "away": "MKS Kluczbork",
       "isHome": true,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 2,
       "scoreNote": null,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "stage": "REGULAR",
       "url": null
     },
