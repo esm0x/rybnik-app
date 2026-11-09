@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:18:39",
+  "generated_at": "2026-11-09T22:18:27",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,31 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 112,
+  "count": 109,
   "failures": [],
   "events": [
-    {
-      "id": "bilnya-lalka-2026-202611091530",
-      "title": "Lalka (2026)",
-      "category": "Film",
-      "start": "2026-11-09T15:30",
-      "end": "2026-11-09T17:00",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/film/Lalka-2026?eid=711459#opis"
-    },
-    {
-      "id": "tzr-trzy-pozegnania",
-      "title": "Trzy pożegnania",
-      "category": "Film",
-      "start": "2026-11-09T19:00",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Po rozstaniu z ukochanym Marta, nauczycielka z Rzymu, zamyka się w sobie. Gdy odkrywa, że jej złe samopoczucie to objaw choroby, a nie żalu, musi przewartościować życie i odnaleźć jego prawdziwy sens.",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/trzy-pozegnania.html"
-    },
     {
       "id": "bilnya-galeria-sztuki-rzeczna-202611100900",
       "title": "Galeria Sztuki Rzeczna",
@@ -64,6 +42,17 @@
       "description": "O twórczości Andrzeja Wajdy, jego filmach i teatrze będzie można porozmawiać podczas spotkania „Notesy Wajdy” w Rybniku. Reżyser i aktor Jakub Przebindowski przeczyta fragmenty zapisków Wajdy, a wieczór uzupełni muzyka na żywo. Wydarzenie zaplanowano na 10 listopada 2026 roku o godz. 18:00 w Bibliotece Głównej Powiatowej i Miejskiej Biblioteki Publicznej przy ul. Józefa Szafranka 7 w Rybniku . Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Jakub Przebindowski przybliży publiczności zapiski Andrzeja Wajdy, czytając ich fragmenty. Opowie także o dorobku reżysera, jego filmach oraz pracy w teatrze.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/jakub-przebindowski-o-andrzeju-wajdzie-notesy-wajdy"
+    },
+    {
+      "id": "iryb-uroczystosci-narodowego-swieta-niepodleglosci",
+      "title": "Uroczystości Narodowego Święta Niepodległości",
+      "category": "Impreza",
+      "start": "2026-11-11T10:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Czerwionka-Leszczyny uczci Narodowe Święto Niepodległości wspólną modlitwą, upamiętnieniem Bohaterów Powstań Śląskich oraz wieczornym koncertem. Obchody odbędą się 11 listopada 2026 roku. W środę, 11 listopada 2026 roku , uroczystości rozpoczną się o godz. 10:00 w Kościele Wniebowzięcia NMP w Czuchowie. Następnie uczestnicy przejdą pod tablicę poświęconą Bohaterom Powstań Śląskich przy Domu Kultury przy ul. Wolności 2. O godz. 18:00 w Centrum Kulturalno-Edukacyjnym przy ul. 3 Maja 36D odbędzie się koncert. Bezpłatne wejściówki można pobrać w kasie CKE. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/uroczystosci-narodowego-swieta-niepodleglosci"
     },
     {
       "id": "iryb-miejskie-obchody-narodowego-swieta-niepodleglosci-w-rybniku",
@@ -818,7 +807,7 @@
       "title": "Labirynt Fauna",
       "category": "Film",
       "start": "2026-11-30T15:30",
-      "end": null,
+      "end": "2026-11-30T17:28",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Mała Ofelia przybywa do domu nowego męża jej matki, kapitana Vidala. Dziewczynce trudno znieść surowość ojczyma. Przez przypadek Ofelia odkrywa w ogrodzie tajemniczy labirynt. Tam spotka Fauna, baśniowego stwora, który rozpozna w niej księżniczkę magicznej krainy, której grozi zagłada. Przed dziewczynką stoją jednak 3 mordercze zadania, które sprawdzą jej nieśmiertelność. Z czasem okrucieństwo zapanuje nad całym rzeczywistym światem.",
       "sourceName": "TZR",
@@ -988,6 +977,17 @@
       "description": "11 grudnia 2026 roku w rybnickim Klubie Odyseja wystąpią Ironbound, Kingsphere oraz M2R1. Koncert „Inertia Over Rybnik” będzie zwieńczeniem trasy związanej z promocją najnowszego albumu Kingsphere - „Inertia”. Na jednej scenie spotkają się tego wieczoru modern metalcore, klasyczny heavy metal oraz alternatywny i stoner rock. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Program koncertu tworzą trzy zespoły reprezentujące różne odmiany cięższego rockowego i metalowego grania. W Klubie Odyseja wystąpią Kingsphere, Ironbound oraz M2R1 . Dla Kingsphere rybnicki koncert będzie jednocześnie finałem trasy i promocji albumu „Inertia”. Kingsphere to polski zespół modern metalcore działający od 2020 roku. W jego muzyce nowoczesny metalcore łączy się z wpływami melodic death metalu i elektroniką. Charakterystycznymi elementami utworów są ciężkie riffy i breakdowny zestawiane z melodyjnymi refrenami, syntezatorami, gitarowymi harmoniami oraz solówkami.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/inertia-over-rybnik-ironbound-kingsphere-i-m2r1-w-klubie-odyseja"
+    },
+    {
+      "id": "dk-bog-11179-ceramiczne-pierniki-rodzinne-warsztaty-swiateczne",
+      "title": "Ceramiczne pierniki - rodzinne warsztaty świąteczne",
+      "category": "Warsztaty",
+      "start": "2026-12-12T10:00",
+      "end": "2026-12-12T11:30",
+      "venue": "Dom Kultury Boguszowice",
+      "description": "Zapraszamy na wyjątkowe, rodzinne warsztaty ceramiczne, podczas których będziemy tworzyć świąteczne pierniczki z gliny! 1,5 godziny kreatywnej zabawy, kolorów i twórczej radości w świątecznej atmosferze. Pod okiem instruktorki uczestnicy stworzą własny komplet ceramicznych ozdób choinkowych. Będzie ręczne formowanie, kolorowe szkliwienie i mnóstwo miejsca na wyobraźnię. Piernikowe ludziki, gwiazdki, choinki czy serduszka – każda ozdoba będzie wyjątkowa i niepowtarzalna. Do udziału zapraszamy wszystkie pokolenia: dzieci, rodziców, dziadków i bliskich. To doskonała okazja, by spędzić wspólnie czas, rozwijać kreatywność i stworzyć dekoracje, które będą cieszyć przez kolejne święta. Wszystkie wykonane prace zostaną wypalone w piecu ceramicznym i będą gotowe do odbioru jeszcze przed Bożym Narodzeniem. Termin: sobota, 12 grudnia 2026 r. Godzina: 10:00 Czas trwania: 1,5 godziny Cena biletu: 40 zł / osoba – KLIKNIJ i KUP bilety Zapraszamy do wspólnego tworzenia świątecznych wspomnień!",
+      "sourceName": "DK Boguszowice",
+      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/ceramiczne-pierniki-rodzinne-warsztaty-swiateczne/"
     },
     {
       "id": "tzr-rubinowe-gody",
@@ -1208,39 +1208,6 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
-    },
-    {
-      "id": "bilnya-bartosz-gajda-po-lecie-stand-up-nowy-program-202704121900",
-      "title": "Bartosz Gajda - \"PO LECIE\" - stand up NOWY PROGRAM",
-      "category": "Kabaret",
-      "start": "2027-04-12T19:00",
-      "end": "2027-04-12T20:30",
-      "venue": "inoWino Świerklaniec, Jana III Sobieskiego 9",
-      "description": "😂⏳ Czas leci jak szalony? To idealny moment na solidną dawkę śmiechu! Bartosz Gajda wraca z nowym stand-upem – inteligentny humor, absurd i zero zbędnych wulgaryzmów. Przyjdź i pośmiej się z życia, zanim znów przyspieszy 🎤✨🎟️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/stand-up/Bartosz-Gajda/po-lecie?eid=713645#opis"
-    },
-    {
-      "id": "bilnya-kabaret-paranienormalni-w-nowym-programie-2027-202710091600",
-      "title": "Kabaret Paranienormalni - w nowym programie 2027",
-      "category": "Kabaret",
-      "start": "2027-10-09T16:00",
-      "end": "2027-10-09T17:30",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Kabaret-Paranienormalni/w-nowym-programie?eid=718872#opis"
-    },
-    {
-      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
-      "title": "NutkoSfera - CeZik dzieciom",
-      "category": "DlaDzieci",
-      "start": "2027-12-03T17:00",
-      "end": "2027-12-03T18:20",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }
