@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T22:03:04",
+  "generated_at": "2026-11-09T06:20:07",
   "count": 120,
   "failures": [
     {
@@ -16,6 +16,16 @@
       "published": "2026-11-08T21:15",
       "source": "nowiny.pl",
       "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4828238075b3ca85b4016de9ec454852db568652",
+      "title": "Znamy skład INNPRO ROW-u na sezon 2027 – NEWS",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vZzFhLXh3OUFyaElNc0MyRkk0NDlLY1RKcm8xWHVQMzZDT2FnangzSVlRU0J2NUhqOEt1NGo2TnRzRzJ1Ujg2bzBFaE4zcWJidWo2YWpEaUdFYjFhTGdxWUtGZk9XQjJZM0xhMVRGYVpnNlk3OTlPVg?oc=5",
+      "published": "2026-11-08T20:36",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -489,26 +499,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "1f381658e96ef5fc68b749a64873e1f674a44e72",
-      "title": "Sportowy weekend w Rybniku (6-8.11.2026)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSFN6anR5cjFJMWJiTDhPR3hLUGFVZE13VllhdHRBS3NrYUJQYWlnZ1Bsb1ZnWHI2M05Ib1BwbmtRVnVybEtSSEN2cGI2eGNwY2xJbnYtQ0NiUUxrWlphTjFyNkdPVG5DY09NX0dOcGFPdlotYzd3UjhUd1FiaGttTGQwVUFYbzA1c3NYVFJmTEZPcjZSNWU2NEV6OGY?oc=5",
-      "published": "2026-11-07T06:58",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "4c0aaf9cf2dc30b7ded5977cd18eb64517ff37f2",
-      "title": "Będą testy na budowie PGE Nowy Rybnik. Mieszkańców czekają okresowe hałasy",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd1pMNEhrdTI4SmhHOXB2eUlhRGpNaDl4RE9iMG8zb1lSZ2pxaVJMc2JxZEJFZUlkZ2FxeG8tQ3QtZDBOekJiMkk2eWNmeGg0TFpMdG1mQm5mRW83eWdERHlLbnEtUDlGUUpCSDFEbUZ1OFc5WkNuY3MzUnMyME5HajE0MF9wT3JXNGlidkJpd2JuTVQxNmthazVzc1BLQkYwSFNocWJMd2xsR2hzTFFkb1U0dDh3cVRuVTQ2SEFBTThOb181S1FQLTFiUQ?oc=5",
-      "published": "2026-11-06T17:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "ddb9882ec239ebe6e58a4d4c200af0f7b294cee9",
       "title": "Dzieje się w Rybniku: wieczór sztuk w Chwałowicach czy wystawa o Ryjku?",
       "summary": "W Rybniku nie zabraknie atrakcji na cały weekend. Są ornitologiczne mistrzostwa na kopalni Ignacy, wernisaże, spotkania autorskie, wyprzedaż książek i płyt, a także jubileuszowa wystawa poświęcona Rybnickiej Jesieni Kabaretowej. Podpowiadamy, gdzie warto zajrzeć!",
@@ -524,16 +514,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeEhOVlBNTXVsSG5SOUxrZVFnd3pJWkdxTlNVQ1lRMjluSi12cWd3S0F5SDE2d0NSY1hFWVFHZ252X3hNZGpRZDZiREhFdk9WbkRBZDhHNlZib2FLZEc1MF9aRW91M3JibzhtbFRiR05FdjBKMHVUV1p3NElzd1lvUEYzTDhuaWhsNGlod2Zsb2tNOUFRbjFlb0d3aDljN0tDV2FlRUljYWNwMVlLZjNDZkZUOF9MVVF4UWFFMVlNQ1FkcjZSc3lmMDFpZXFjV1Z6ckNyaGJSRG93SzIxaXJ1aU5CNGdDdk5ZWGc?oc=5",
       "published": "2026-11-06T15:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "14c526d8aea039ec6fb9af6bf0f78ffbf288695c",
-      "title": "Sprzedaż nieruchomości dla firm. Jak znaleźć obiekt z potencjałem inwestycyjnym?",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb25jVEtEaG4xbGhYdk90UHVEZUtDU2FPOFhFNXRFVnZXd1RKTzhSakYxYXNXei1ycWpLNVNmYXIwSUJkRU1rd09PUlExMzhjU0dyTHZWRm5WejFXZlRTZHNoTnFYaFE4a1NCa0Z6UTVNZDBnUDVFcm54Ynpqa3VmMm9LZjNmYjFTR0M0dklsSS02WXJqSTNmTmk5c3Q0amRHVUxPZHo3QXBLOXRlMElTZ19UMExQdG5MU3dwamxEdEY2VktRSEJWTnlrSktBZFBzR1E?oc=5",
-      "published": "2026-11-06T14:28",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -557,26 +537,6 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
-    },
-    {
-      "id": "5950a5e2126f7b46fea4ef91717ef54bd08977af",
-      "title": "Czy w Rybniku powstanie ośrodek dla cudzoziemców? Śląska Straż Graniczna i Miasto ucinają spekulacje",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhfQVJseE9renM2VHBhN05YY0h0RzBVSzVxU0E1VjVRSHVJWUctV215a3pEbjRMN3Z3c3VXVE5PQ2xWaUk3UVFpSzQ4NnJLcV9HcFhCam95Nzdza2V3aHBVVVNWVGFJd3owdGVnQVBUMEE1bEc2VnVQX2VZS0I5NVpkSmlxeW16S1dIWW9YVENiSTNMSTNRc2RDWlpScWhTNTRwSDJmNWQzWTE3b1JrZlkxTDhxelRVcUlwOFFCUUVPWS01VzBTRGpld0JMSjRUUnZLc3BWMWZYTTlscUFSTVRJQks0NkF6OFlqRnJB?oc=5",
-      "published": "2026-11-06T13:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6eeb27057667541ac065dcadc597bf2bbb01d62a",
-      "title": "Duże utrudnienia na zjeździe z A1. Paliła się naczepa TIR-a [aktualizacja]",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUWdLczQ2MkpWTTM1LVhCYXNOU3FjNEI4LWRpMjhKSHJRVkt5cTJCRG92WjN4dFNYSUJKRlRfRWJBa1ZQZjJzc3BXa1lXOHlfaHg2WE41c3JMRVJKdU8xNE1EN2hjSHVDMFhncVVyUkUyQkEtV1VTMWcwajJ6Qm0tcW9Da3Btc0lXT3M3QlRic2dlcGdmakFaRk1JYXNvVVR2TXNFVDZybERKRDllNlJHQlFpN1AtMWs5R3V3aFlXZXE2LXZZeXlqcg?oc=5",
-      "published": "2026-11-06T12:54",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "ALERT"
     },
     {
       "id": "918fbcb57cb6b787b4b360be345221565d753874",
@@ -615,6 +575,16 @@
       "link": "https://www.radio90.pl/wyciek-benzyny-z-cysterny-kolejowej-w-suminie-interweniowali-strazacy.html",
       "published": "2026-11-06T10:55",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "03b9200bd44489ededa8016da0ae1d8477560f8d",
+      "title": "Tor Pit-Bike w Rybniku nadal bez terminu. Najpierw ekrany akustyczne, ale dopiero w 2027 roku",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcUlyX2dMRnBHLTNKRVpFU2haUU55TndjTkxrbGRhV3lnZHI5YUVQZmI5VXhDUkZfQzVDRk8tWkhjbUR0enpJZFZNOVBESXNtM2dZUGJsSGVpb2hwXzFmVkx2OHBNLWt5VG4ycHJlWTRnV0FWNzM1TzFjcUZzQWdFZ3hCLUt4SzFqR3RLdm9qYnNKelBuZWk4aElPaEZmWFJ0QXpsTTU0cGdjMUNWYzV0blBxaTZWSEcyYTcwMjh0QWowYmZ0c1JGOXhkdGtldnBKM3R4dWxkMGRsZDJmalVyLVYyMA?oc=5",
+      "published": "2026-11-06T10:00",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -739,16 +709,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "1e643f992716c343a62757dae6d8028fb0e18e27",
-      "title": "Pet Patrol Rybnik walczy w konkursie i o życie czworonogów. Pomóc może każdy! (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQk5fRnp1dzVldTFpRjloenVsUlk5M1J6WFJaRS1BZ3JtWmRadUNxbUZvMnZiU1Z5N0xVTEZiZ0VQNmxfblZNX1FqSlNHM3lWcy1WYmsyOGVMc1laMVVWQ21CRmM3N2tNQjA2VFRKQnFVS3ZFcHJtMDdGQ1J5anFNWEYwdjZZZFV0WjluYkFDNG8wMW44NEI1UEg1VVFaeS1pVE9jejNPODFlTjdEVU9ZSVhrYk5sNUo1V1VOc0QtaEFKYjVQVnJxaGxnN0tYVDd1dWl6Vw?oc=5",
-      "published": "2026-11-05T17:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "e08754bbdb72d9d4df2930835a41deffe01c616e",
       "title": "Jarmark u Antoniczka. Fasadę bazyliki znów pokryje mapping! Będą też koncerty i studio Radia 90 z konkursami",
       "summary": "Jarmark u Antoniczka 2026. Na miesiąc przed startem Rybnik publikuje plan grudniowych wydarzeń. Od 4 grudnia do 6 stycznia będzie można cieszyć się zimowym miasteczkiem, na początek- w pierwszy weekend grudnia - spektakularny mapping na elewacji bazyliki.",
@@ -789,11 +749,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "d6d69416981e9de31b050f3e91143acbb3d2b937",
-      "title": "Czołówka na Alei ROW. Trzy osoby w szpitalu (foto)",
+      "id": "2b08082237713f4f4b25e5159b08335181c09dbc",
+      "title": "Nowa zieleń i bezpieczniej. Ulica Rybnickiego przechodzi metamorfozę (foto)",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS25fbUoxUmRHYV96S0l3X18ySXBneXVyNlliNzg1SXB6RUVLSnRwTTNoekYzdW1pX1U0QWthR19pVkV2YVBia2RtZVEyOU1yQTNPSkRqbkNhbDFycDgwVWRiQW5neDBhOXJzcWNrR2JKUlVJUjhnZWtDOUVnR3F5NDRqVVFPUjNpaHpqaXdiMEJtMjNBSlJPSXlYTDV6eXozZnFrcTVrcUhLZmc?oc=5",
-      "published": "2026-11-05T12:40",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeDNYeWpuUzQyemJFdDhPUWZiSFNLRHo3TUNmS0JvYTNzaUNtaVJteUtrUzlmUjh6U2Rpc1pYU0Y5WnlTMTFSQ29IOVR1dGNEVnVSM3c5d2V4cDNJNjA0b0M4VUhlOThkMlN5ZEJMNFdwWkFySjZaRlB4bi1weVlTeEhRNG1iajBZZEdCQWx5TnNaUnIzSEFjUzJfM3V0Zk9WUlFDRUtJZ3RObXB5S1NYbXlRTDNGZGFOeWdkekh2bDJtbkdGaF9URXZR?oc=5",
+      "published": "2026-11-05T13:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -849,16 +809,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "dd410cedbff28d5b20e4ec5b583b0f6499b15a1f",
-      "title": "Złote monety, miliony w gotówce i kontrterroryści. Potężne uderzenie w nielegalny hazard (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWEYxM2F6X3V6U3FzNTZFbl9LTjV5U3Z1enpIeHRqUThIMEJlSkxhREZpemxmVE5RZTZ0b0xyNjlpZEVXUHRya2tCMTZjWDVmU0VHMVJDc0JuRnhkS2Y4SzY1Ri1rY0NLbm5SU1k0Vk5vMVR2MXlDRnJwY1g2XzdlanVBTU9rUnp3SHRvRlY5QXVJNEo1RXFra1F2VnF4WTk5dFBPTEtSQUVjaHFMT1N4LUV5WFl1RzdyeGRuLWdNbmRPakNQVlR2ck55ekFZYlJCYlVuWjRLdFA4R3MyQ1BTSDJVYw?oc=5",
-      "published": "2026-11-04T14:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "7980f5bb615eb92e75fe0c8dcbff913ae42eed72",
       "title": "PGE GiEK zawarła porozumienie ze związkami zawodowymi Elektrowni Rybnik",
       "summary": "",
@@ -909,6 +859,26 @@
       "priority": "NORMAL"
     },
     {
+      "id": "d5a39f16653a00668631da6c04003875ed7af783",
+      "title": "Hubertus – święto myśliwych. Grzegorz Świerczyński opowiada o tradycjach i patronie myśliwych (foto, wideo)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQXVFeEJQdjFBeEZ6TTFXVHBfWUlMcmlNdHZKWFJWa3UxYmJtcmtMNmw3SGxWX2ktODNYS1pENkNxaWctOENHbEZSdXp2OF9YY1FfcjJjeU8wM3JoVFZhTE42RGM5MUZuTEU2M1E3b3lYZWxIQ0ZrLV9YUmNvajRtR0NhZS1UXzNWaFZNYzZJaThhMnpOc0tJdldVWGMxZS1iNzAtaVBLbnd4bDRkaE1PYUNQcWlIdjBSUWdSWVpxM3lySWRiX2JaZ3ZycmV2QjJreDNSdzdBdFlUakZ5cndXbUxnb1lqTExvUThmNmJLNkk?oc=5",
+      "published": "2026-11-03T13:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b5393d9a785ec35e6340b1ea58a843c396f5a31f",
+      "title": "62,5 tysiąca pasażerów w osiem tygodni! Pociągi z Rybnika do Bielska-Białej okazały się hitem",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZDVCVGozaFFTWEdCR05vVlQxVlVpNzFqNnRGaS13OWptNE84NzN3WWJPUnM1RUM5N2dZR1lJbnRqZnFsSHRxN3hNXzF5TE5MbnJnMnJKWXVtNkd4d2hvenkwQjN6VUd1SGlWN1hPbFNEdXRzX0R2YW53ZXlPQnlUTmV1SFFIS0RKaE1mNXlWZ1ZvYWVKVGs1Tm5aZk5URWM1eDRZLWVvRXRKMmRxNktlY3ozbThzdDFkNzVNU1hqQk56QXhFZlhqV3hYTlFjMjFFTjk1ejZpTGlwSzE2M29yR0tmdE4?oc=5",
+      "published": "2026-11-03T09:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "35562238645af0867ef921b9e6f082dd1a12a285",
       "title": "Nabór kandydatów na rzeczoznawców ds. określania wartości rynkowej zwierząt",
       "summary": "Prezydent Miasta Rybnika, informuje o możliwości zgłaszania kandydatów na rzeczoznawców powoływanych do szacowania zwierząt oraz produktów pochodzenia zwierzęcego zniszczonych z nakazu organów Inspekcji Weterynaryjnej.",
@@ -926,6 +896,36 @@
       "published": "2026-11-03T00:00",
       "source": "rybnik.eu",
       "category": "Wydarzenia",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d8405a4a70b1f849994b67d19026f6d1a45cae21",
+      "title": "Auto na abonament - na czym polega, ile kosztuje i dla kogo ma sens",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmZGRmt3OHlfQnNKZFNpV3RaajZ0TGZWcWFvNGI5dk5lb0Y4NHltNUQ3OEpkZVNXSGxXOFRsOVE2bG51NjBTM0NXVDk1WVVwRXB5X3Yzc1liUnhGX2dBNGlwN1JWZVdIb3gxV3hUOENNSFF1eDNsNEZyV2NUSVM4ZzZxN21OdHNXNGtHaFpqWDh4T0hGN29Nb3pETHdhU0syaTBtTW9jVXV1dnhMN1phNHlTVWJROThGdU9aUHZEUQ?oc=5",
+      "published": "2026-11-02T11:42",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b766a89570f2c2382b0f2e93ea20d603190f8d42",
+      "title": "Czas na pierwsze ślizgi! Dziś otwiera się lodowisko w Rybniku",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOXVoWVloS180NU1Vbk1vZi0wWVNUVmh6cEEtSmtabTl0VHNuMlZ1SDc4ZXVSZl9EdTliNHEya2FRNEFBeUNFMmxnaXd4WlBHNmR3Ql9LZWtoSUF3RjdfQ0E3bDZLdXlNd1Z6dEhJT1RWREVDcUtXY01XVUdMZFRUbnozR19kZXJDcmlQWmZFZ21UMnlSUU9wS2dMVzJPbjhqbGdXMEgzaGJlMnhTMmpxYUkxRjlZaWVLSlE?oc=5",
+      "published": "2026-11-02T10:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3a8e60a4ffbf3b78d6a899f1285f32a50da01c33",
+      "title": "Judo: Dawid Szulik bez sukcesu w mistrzostwach Europy U23",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHJaZ0VHdlMweU1COHRVQ2RCcTZHaDViTWp6ZGZHeHZiRk5nS1ZWRzFjVmk0OEpNaXpkMUlWdlk4X3BLaGVBWGdkejVCeUZBSEIyUzdqbjlfbjFJN2EwMWNVYUN2QWNLNm84cTdJVktoSWs5YkZJRGdkMkh0UndXcTlEaHF3cXNQOEN2eGtTYUVjTHVWZU5xQU1LZy02c3g1eWxQX3dYdkZNaUtaQ2pfQjJrb0c?oc=5",
+      "published": "2026-11-02T09:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
