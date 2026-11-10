@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T22:20:26",
+  "generated_at": "2026-11-10T07:15:20",
   "count": 120,
   "failures": [
     {
@@ -9,10 +9,50 @@
   ],
   "items": [
     {
-      "id": "9d57d93b81c075e329b60b37ba368ab31460e38f",
-      "title": "1. Co powstanie na Trzech Wzgórzach? Miasto chce zakończyć część inwestycji już w 2027 roku",
+      "id": "7bbf249cdb51544ab5ef4d4ed79fce5690f08ef6",
+      "title": "Auto złomowanie - odbiór lawetą Śląsk, Małopolska",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSF9OQXRjTlJ4NTFTOWtSV2ZwOFFrVzFvTGFkYnZIaDZrY2RIZ1o3SjJTZi1tanVsZklKaEh6aDN5VUp3dE8zSXphM1Uya3RTYnVPTDZFc3g1WU5NR2RYRkYyNEo1Mk9ycF83QS11ekwtV1VUdGd1aWdaSTJwLUZsQWtFVjFrUlF2ZXZaakZJMVo5MGxGUnhncEh1UXRLemJrUGF6X21vS0k?oc=5",
+      "published": "2026-11-10T07:04",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f7b0416ea47e594f9c27a464ee1a2ff2344dd597",
+      "title": "Wykorzystał kilkanaście kobiet. Dziś rusza proces Szymona Ł. Postępowanie przeciw niemu prowadziła prokuratura w Rybniku",
+      "summary": "Rozkochiwał i oszukiwał kobiety, wyłudził od nich 1,6 miliona złotych. We wtorek (10.11) stanie przed sądem. Prokuratura Rejonowa w Rybniku zakończyła postepowanie w sprawie 40-latka z Mikołowa, Szymona Ł.",
+      "link": "https://www.radio90.pl/wykorzystal-kilkanascie-kobiet-dzis-rusza-proces-szymona-l-postepowanie-przeciw-niemu-prowadzila-prokuratura-w-rybniku.html",
+      "published": "2026-11-10T06:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d400ac8dab399fab9276e141fde044caa4eca1dd",
+      "title": "Zabrakło mu zaledwie kilku sekund. Pochodzący z Rybnika 51-letni Robert zginął w zamachu w Krakowie",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZmV0dTRKc29ZbTk0TDFtcWQ2NTk4U0pJekVDa2I2bFUybjZBOUpzVmFkNlBrMkhGTnkzOXpOd2tDVXlPdmpnSTBXdnlqVXptUFh1Zjg1a1RURHNPUm55Q2pIUjZJZmtqVnllaEVQdFUybnZDT2FXVnAtV19iNVJmejE2WU51YU1Zd0pUN1UyVkQzM0tHazB0RjFFZm83MFlmcmxpVTVFVFVKTnIzZXdRWVE4WHhaV2RwZmpOWlJWM0V3UTJ3emdkOENMekswLUJuRDljUy0xbFVvSVRhYjFuTk5rMnpKdE1LalhBTg?oc=5",
+      "published": "2026-11-10T06:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ef2d086470de4f254b88f304dc5912061ff0e149",
+      "title": "Silesian Jazz Meeting już po raz 40",
+      "summary": "„Silesian Jazz Meeting. 40 lat jazzu i emocji”. Tak nazywa się wystawa, jaką przygotowano w Teatrze Ziemi Rybnickiej tuż przed kolejną edycję kultowego festiwalu.",
+      "link": "https://www.radio90.pl/silesian-jazz-meeting-juz-po-raz-40.html",
+      "published": "2026-11-10T05:45",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f20effc0f2137d7c127445d78df3a7881caefdea",
+      "title": "Co powstanie na Trzech Wzgórzach? Miasto chce zakończyć część inwestycji już w 2027 roku",
       "summary": "W Rodzinnym Parku Rozrywki „Trzy Wzgórza” w Wodzisławiu Śląskim szykują się zmiany. W miejscu dotychczasowego labiryntu ma powstać wodny plac zabaw, a w innych częściach parku pojawią się tory tubingowe i wieża wspinaczkowa. Miasto ogłosiło przetarg na realizację inwestycji.",
-      "link": "https://www.nowiny.pl/wiadomosci/252092-1-co-powstanie-na-trzech-wzgorzach-miasto-chce-zakonczyc-czesc-inwestycji-juz-w-2027-roku.html",
+      "link": "https://www.nowiny.pl/wiadomosci/252092-co-powstanie-na-trzech-wzgorzach-miasto-chce-zakonczyc-czesc-inwestycji-juz-w-2027-roku.html",
       "published": "2026-11-09T21:53",
       "source": "nowiny.pl",
       "category": "Region",
@@ -59,11 +99,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "9f5f456221640931600b50445bd4a028b1581818",
+      "id": "b826ce2dde9e9d0145f9ea78be8c087f1fae01cd",
       "title": "Ostatnie pożegnanie Marka Sachsa. Tłumy pożegnały założyciela Sachs Trans (foto)",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT0dsdFVkRHV5Zkc4NmZZSndFNFppOFZnd0VZMVVuODVjQTQ0TGZyQVI5QjZhdjZzTG1wRmgzZkdQOVZsaVZQVmFHdENYb3BIcjluNTZublZPX0NMdF9ONWg5TS1BelUzd0NFOGZQdlU0QkpNN0F2SDJYTzgzTVVBLTNTWHJFSkNHRU1WX2o5V3FhR3dPOUJvNnBDaS1xcHJINDJtOS1Na1Q0Q0RkbERHZkRpUGk0RTJIcFFaWTJpcndMbWxKVkNBMnFlN1VKU3N2MTA0?oc=5",
-      "published": "2026-11-09T19:32",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYWlqdS04VnhaYlY5dUZ0RHNid0Z6Y2xhWklmeGVHeHhENVloeEZwMU80S2F2WlpTWDFxQThtSHVYTlRaaUJrOTR2NE9TOEdnUnFuTDBYSjJoWWwzNUE1NExic1VIVDMyQ1RkV1Z6am9USEctNHUxZkFqSDVPb1lwczhmTUJmQ3V6YURjNkJIMUhqd0cxUEF5cUtnNDZDeXRPWTNXQVlVaTI2dUJPSXVkRm9DYUJTc19odl9HajRPbE1kYWJjX0ZWNmJ2Q2VnQW1MQkNF?oc=5",
+      "published": "2026-11-09T19:38",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -135,6 +175,16 @@
       "link": "https://www.radio90.pl/szpital-w-rybniku-informuje-o-zmianach-przy-wejsciu-na-sor.html",
       "published": "2026-11-09T17:03",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9a85a49f59feff27fedc962e58faa3dc4a53180f",
+      "title": "Ostatnie pożegnanie Marka Sachsa. Tłumy mieszkańców i branży na pogrzebie (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMy1xTk45Z3pYbVdIRjhvOG1SeGZDVGUyT3JrbHppdWdPaTFSNmZDTzBFWmVOc1FfOWRiV1Y3TnZ1eEJDeHFzaUt3OTI0TEJoenpIbnJYRmJSTmVsS3JxemRMQlhuaFA4Z3QydGluejA2WVRuS1lvQ1ZKQjZYWEMtZVZPYnE0cDVLa0tack9BWnNjZFhGSXpwS2VwejdOSFZpX002aFF6VnJHOUZTSmdBa3dKa1lJbG94OWUzNU8xWjY1ck90RTBrUG4yRU8?oc=5",
+      "published": "2026-11-09T16:07",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -669,16 +719,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "403196f7acc4ea425b25ed6b31b15b37f7b0fb96",
-      "title": "Będą z nami czwarty sezon. INNPRO dalej sponsorem tytularnym ROW-u Rybnik – NEWS",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGpNTF8yQ1d4NTdkNlRFRzBSbFhsaEdBdDdEbksxalNWc2NrQ0dYUlVldFNfbWRNdFhva3FxZGJfTGF5NV84SE1aRDFJdnpHTTBObGd6d1BKTVRnQzZOcFljd0N3c3hORU9HTkYtcS0yQmExOFQ4VERaUkNNSHdxb245bWx4ZkRWQ0xTdDlvRXZ0Ykl5YzFqYVRBVkZpRmlKbFItZ01B?oc=5",
-      "published": "2026-11-07T12:40",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "d5bc839360210aebbee18b21bc8035f22be15770",
       "title": "Gęsta mgła na Śląsku. IMGW wydał ostrzeżenie",
       "summary": "Kierowcy powinni zachować szczególną ostrożność. IMGW wydał ostrzeżenie pierwszego stopnia przed gęstą mgłą dla części województwa śląskiego. Widzialność miejscami może spaść poniżej 200 metrów.",
@@ -795,46 +835,6 @@
       "link": "https://www.radio90.pl/bezplatne-sprawdzanie-swiatel-akcja-twoje-swiatla-nasze-bezpieczenstwo.html",
       "published": "2026-11-06T12:01",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "46d780f6bf948da825d903fb788fa4ab4727e844",
-      "title": "Jutro bezpłatnie sprawdzisz światła w samochodzie. Sprawdź listę warsztatów!",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNEstR0FCY0tQemZDdkszenJYV09TVFRFNnR4VVdfbi02RnJGb3JYTFk5ZDlJYkFJQ2Y3dEY0QTU3ZzRtSFBkckZMY2ZmZkVmUWtyNDBqeWFfVEJPdjBrOTBHbXNtblhEdGpCTGRydTZSLW5HUUtNUnhaUUtyREFiSWZuMDBSNmFOUV8ydG1GcGMwOEFUQ1pOQ0FQcUFpaWJsdFNnLTdNakM2VG45em1zMUhMQ1lxLVEzbWtvWTh0S0pvQmU4bTlJbTVfcFc?oc=5",
-      "published": "2026-11-06T12:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "eaec9953134f1800819477a307f931c2f7013dfd",
-      "title": "Odblaski dla seniorów ze Zwonowic. Uczniowie przypominają o bezpieczeństwie",
-      "summary": "Seniorzy ze Zwonowic otrzymali odblaski i kamizelki, które mają poprawić ich widoczność na drodze. Zadbali o to uczniowie Szkoły Podstawowej imienia księdza Konstantego Damrota.",
-      "link": "https://www.radio90.pl/odblaski-dla-seniorow-ze-zwonowic-uczniowie-przypominaja-o-bezpieczenstwie.html",
-      "published": "2026-11-06T11:35",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "cf0ab2bce36770dd7f317ecab0826c9dae27a468",
-      "title": "Wyciek benzyny z cysterny kolejowej w Suminie. Interweniowali strażacy",
-      "summary": "W Suminie w powiecie rybnickim doszło do wycieku benzyny z cysterny kolejowej. Strażacy zostali wezwani na bocznicę w czwartek (5.11) po południu. Przyczyną było rozszczelnienie zaworów w wagonach składu towarowego.",
-      "link": "https://www.radio90.pl/wyciek-benzyny-z-cysterny-kolejowej-w-suminie-interweniowali-strazacy.html",
-      "published": "2026-11-06T10:55",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "03b9200bd44489ededa8016da0ae1d8477560f8d",
-      "title": "Tor Pit-Bike w Rybniku nadal bez terminu. Najpierw ekrany akustyczne, ale dopiero w 2027 roku",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcUlyX2dMRnBHLTNKRVpFU2haUU55TndjTkxrbGRhV3lnZHI5YUVQZmI5VXhDUkZfQzVDRk8tWkhjbUR0enpJZFZNOVBESXNtM2dZUGJsSGVpb2hwXzFmVkx2OHBNLWt5VG4ycHJlWTRnV0FWNzM1TzFjcUZzQWdFZ3hCLUt4SzFqR3RLdm9qYnNKelBuZWk4aElPaEZmWFJ0QXpsTTU0cGdjMUNWYzV0blBxaTZWSEcyYTcwMjh0QWowYmZ0c1JGOXhkdGtldnBKM3R4dWxkMGRsZDJmalVyLVYyMA?oc=5",
-      "published": "2026-11-06T10:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
