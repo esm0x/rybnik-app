@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:43:57",
+  "generated_at": "2026-11-11T06:10:37",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,66 @@
     }
   ],
   "items": [
+    {
+      "id": "0c9cfd1598bb24e91978e697a04fa3087378926d",
+      "title": "Dzień Wcześniaka w Rybniku. Spotkanie ze specjalistami i atrakcje dla najmłodszych",
+      "summary": "Rodzice wcześniaków i ich dzieci spotkają się 15 listopada w Domu Kultury w Rybniku-Chwałowicach. W programie Dnia Wcześniaka przewidziano udział specjalistów zajmujących się zdrowiem i rozwojem najmłodszych oraz animacje dla dzieci.",
+      "link": "https://www.nowiny.pl/wiadomosci/252040-dzien-wczesniaka-w-rybniku-spotkanie-ze-specjalistami-i-atrakcje-dla-najmlodszych.html",
+      "published": "2026-11-11T05:11",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9ebfb052276c174a92e8b9b6bd4a817527f932bb",
+      "title": "Parking w Leszczynach nie będzie dla wszystkich. Gmina wyjaśnia zasady",
+      "summary": "51 miejsc parkingowych, ale nie dla każdego kierowcy. Parking przy powstającym centrum przesiadkowym w Leszczynach będzie bezpłatny pod warunkiem korzystania z komunikacji publicznej. Gmina wyjaśniła też, jak zabezpieczona zostanie wiata rowerowa, kto ustali ceny ładowania samochodów elektrycznych…",
+      "link": "https://www.nowiny.pl/wiadomosci/252118-parking-w-leszczynach-nie-bedzie-dla-wszystkich-gmina-wyjasnia-zasady.html",
+      "published": "2026-11-11T05:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0b87f46c0bac5267281a7ef2a98fb5fc616c6d1f",
+      "title": "Od Krakowa po Rybnik. Bohaterowie, o których warto pamiętać",
+      "summary": "Nie każdy bohater nosi mundur, otrzymuje medal albo trafia na karty podręczników historii. Czasem pracuje w sklepie, prowadzi autobus, wraca do domu albo spędza wolny wieczór w restauracji. O tym, kim jest, decyduje nie stanowisko, lecz reakcja w chwili, gdy drugi człowiek potrzebuje pomocy.",
+      "link": "https://www.nowiny.pl/wiadomosci/252124-od-krakowa-po-rybnik-bohaterowie-o-ktorych-warto-pamietac.html",
+      "published": "2026-11-11T00:13",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "42ec463a4b3d3a52462408b22deb8a604808a098",
+      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWGlMQnpnWE9BQmdXTmNZaWtYS1FxZGhJYmROOUZwUUl2WXFDWUpBUGxwMVFkUlN3d29pbXptTE85QkxSa2lhSXFOVU5NRkNVZGF6ZlVZeGZqSnl3MUpRdEF1aFAwU1B6aml2aTJrUzQySG5IWkdrdnBDUVhVeFVpSEdFZTdsdw?oc=5",
+      "published": "2026-11-10T23:01",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "259ce2d5a0f93a704134c662dd337f8d1bd93c17",
+      "title": "Nie tylko marsz. Niepodległość można świętować inaczej [FELIETON]",
+      "summary": "11 listopada zwykle kojarzy się z biało-czerwonymi flagami, oficjalnymi uroczystościami i marszami. Ale Narodowe Święto Niepodległości można przeżyć również inaczej. Wsiąść na rower, założyć górskie buty albo po prostu ruszyć przed siebie. Wokół Jastrzębia-Zdroju nie brakuje miejsc, w których…",
+      "link": "https://jastrzebieonline.pl/opinie/252123-nie-tylko-marsz-niepodleglosc-mozna-swietowac-inaczej-felieton.html",
+      "published": "2026-11-10T21:57",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3334527d6b5ee596c6e06842c6c0998d9d7f1da2",
+      "title": "Pożar stodoły w Mszanie. W środku spłonął samochód, straty są duże [ZDJĘCIA]",
+      "summary": "We wtorek, 10 listopada, przy ulicy Mickiewicza w Mszanie wybuchł pożar stodoły. Ogień strawił budynek, w którym znajdował się również samochód. Straty są duże. Na miejscu pracowało kilka zastępów straży pożarnej.",
+      "link": "https://agronowiny.pl/wiadomosci/252122-pozar-stodoly-w-mszanie-w-srodku-splonal-samochod-straty-sa-duze-zdjecia.html",
+      "published": "2026-11-10T21:08",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "ded46f6baad5d78b74a1d4ba4bf82c57c5d999c4",
       "title": "Nieudany start rybnickich „Frelek”. Minimalna porażka TS ROW na inaugurację sezonu I ligi futsalu",
@@ -19,11 +79,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "b6ab26efed6a2592b043aa82bc9f8fc167fcc927",
-      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "id": "dc6c24d9cc47309ce550cb927c9f816da89febe9",
+      "title": "Ostatnie pożegnanie Marka Sachsa. Tłumy pożegnały założyciela Sachs Trans (foto)",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY09fNWd5WFZrVVhUMW44ZmtKcF9YSVA2NDdFSkNzMkE1cHAtTFNNUUlzSXRMYkdoR0YxRTRycG9nS094Q1BKc0RQbGJZc1g1MWlhMURGc3p6clZod0JVajBkLXBiUk1faC1NQ3RyODNfeVotVExPOXFudDBMNkg5dTZTN0VzSm8?oc=5",
-      "published": "2026-11-10T18:56",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbjludmJ4eWxaTWN3YVdISU5SY0xJbktJSEUwUFY4YUJDUldYeHh4NktkUHlFWHFTRWhlNExhWkpPSXZIN3BjZEg3VWoyeDBSX0kyd0VGUDM3TFNpYnVSZWdpVHllalVHcGxqSzZscWs0amtjQ19wYXVPWjVjZXl5clNYb19EbGlqQTY2REwzNDVjdkJYTzhkcHZiclpCejZHRkw4Q0wxemEwQi11czZXMlFjbFdHUU0zQUR1elVLalJxUEVNYUdWczF4RlZ3T0x2WUFN?oc=5",
+      "published": "2026-11-10T17:21",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -75,6 +135,16 @@
       "link": "https://www.radio90.pl/sniezka-znow-na-deskach-teatru-by-wesprzec-rybnickie-hospicjum.html",
       "published": "2026-11-10T16:10",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "161a9c1f27dbfc44cd6e5304a0b0095b27450f26",
+      "title": "Zmierzch taniej energii? Giełdowy skok cen prądu uderza w polski przemysł",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUEZPZzQ2M0lwZXhFY0VZaG1jZlFLR2FQNXV4emFGVjJzbXlpanhReUxTV24zOGhrRU9laHBWWFRoMUNkRzZyeTJ2Q1Z0dVVZUGRNc2VIUkFfQlJwdkdhZHVVcjdGSmtMQ2IwdklEVlRSM2QxT3NhMnpURDhuLVFEaFJHYkhQTUpnNXBsTW13LWlGam9aajZmUmlWeG1SVF9nZmlHdjhXZnN0UjFMUWRCbXROdmF6bERZWm5sSmRlTkFBS005SWliTXJR?oc=5",
+      "published": "2026-11-10T16:00",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -134,16 +204,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOWUwSHRidUhrYmdDcUN0OTl1eXdsWWthUkE4aGZ6RmxHWHEwSUE3YzlVOHZ2MjNabFdhb21iZnlvS080Y3RSWW5UUUdTalZ1V0tRYkRGRWlNSVNCeVR2UDNRNWJUd1hpeHdPbEQwTDFyZWVjVkZnRi1JSXd5UmFqcTlCWFJodnFKRWZuWjRMV1FtZGlKUENOMGE0UmdueW9nWUJELURVczRhUG5rc0x2VTVPYlphakdmcjlEQmVDZ0M3M3h6N3hNWThtZ2dCeGtNaVRjOGNGOFNIT2I0LXlBZXY3MA?oc=5",
       "published": "2026-11-10T14:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ff274d38aa248a6bce0f02b5186813cfd4211e65",
-      "title": "Ostatnie pożegnanie Marka Sachsa. Tłumy pożegnały założyciela Sachs Trans (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOVRXVHY4UHJIdGRGQzVZZGFZNGcxSERacFpWazNnS29MNGh5Q3pWT1FEekhhNVB5VHFiemdUT0xPaGxQbGxha3Q3aE5EcHQyX2w3Y09pMUpmcEhOWkJWSVo2S2hJcTFtS2NDRFlYQWZkaVREcnlaald5WUpzRXYxX2NYVExrSGU3cFpTX0pNbVByRXd0bmdPTWRMYW55WFgwcXNIdjVmVEpKOWN1dks3RGQzNGZKZHpRX18yTGVCVEVfVzNORWhRMDdBaF9jQ2syRkNF?oc=5",
-      "published": "2026-11-10T14:20",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -239,16 +299,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "63119f1ec924dee95e5e349c09cd1850fda9a2e1",
-      "title": "Socjal górników jednym z tematów rozmów",
-      "summary": "Sytuacja Jastrzębskiej Spółki Węglowej była jednym z głównych tematów poniedziałkowego posiedzenia Zespołu Trójstronnego ds. Bezpieczeństwa Socjalnego Górników w Katowicach. Rozmawiano o kondycji spółek węglowych, imporcie węgla, płacach i przyszłości branży. W przypadku JSW padła deklaracja…",
-      "link": "https://jastrzebieonline.pl/wiadomosci/252104-socjal-gornikow-jednym-z-tematow-rozmow.html",
-      "published": "2026-11-10T11:26",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "60a96592e2e94171394dd540b015b09818314d68",
       "title": "Domowe pierogi na święta bez godzin spędzonych w kuchni? Mamy na to sposób!",
       "summary": "",
@@ -256,26 +306,6 @@
       "published": "2026-11-10T11:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3e9104f611779c2b9c3efb607c1253b18d598ddc",
-      "title": "Czy potrafisz rozpoznać propagandę?",
-      "summary": "Propaganda gra na emocjach i powtarza te same hasła. Sprawdź, jak działa, po czym ją rozpoznać i jak nie dać się fałszywym informacjom.",
-      "link": "https://www.nowiny.pl/nie-przegap/252097-czy-potrafisz-rozpoznac-propagande.html",
-      "published": "2026-11-10T11:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "019d266e57fea819938a20c03e2509bb62e09427",
-      "title": "Kulinarna kuźnia „Korfantego”. Sukces uczennic w konkursie ministerialnym",
-      "summary": "Uczennice Zespołu Szkół Nr 2 im. Wojciecha Korfantego w Jastrzębiu-Zdroju znalazły się w gronie najlepszych młodych adeptów sztuki kulinarnej w kraju. Lena Baranowska i Zuzanna Partyka zajęły III miejsce w ogólnopolskim konkursie organizowanym przez Ministerstwo Rolnictwa i Rozwoju Wsi. Do…",
-      "link": "https://jastrzebieonline.pl/wiadomosci/252103-kulinarna-kuznia-korfantego-sukces-uczennic-w-konkursie-ministerialnym.html",
-      "published": "2026-11-10T10:17",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -289,16 +319,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "7bb7dbd99dbd2b139d66e6a53525102cb2566750",
-      "title": "79-latka błąkała się nocą w szlafroku. To, co zrobiła 18-latka z Pszowa, miało ogromne znaczenie",
-      "summary": "Było po godzinie 3.30, gdy 18-letnia mieszkanka Pszowa zauważyła starszą kobietę spacerującą po mieście w samym szlafroku. Seniorka wyglądała na zagubioną i była wyziębiona. Młoda kobieta nie pozostawiła jej bez pomocy. Dzięki jej reakcji 79-latka trafiła do szpitala.",
-      "link": "https://www.nowiny.pl/wiadomosci/252102-79-latka-blakala-sie-noca-w-szlafroku-to-co-zrobila-18-latka-z-pszowa-mialo-ogromne-znaczenie.html",
-      "published": "2026-11-10T10:03",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a041d5828c55cd2bd8ad97c6e83c3a1312170860",
       "title": "Dziecko gra, oszust przejmuje konto. Rodzice powinni uważać na ten schemat",
       "summary": "",
@@ -306,16 +326,6 @@
       "published": "2026-11-10T10:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "4932d45425a5337448ce3b8b29ccafc7d2ff05b4",
-      "title": "Dobry zasięg to więcej możliwości na miejscu",
-      "summary": "Czy można mieszkać w jednym miejscu, a pracować dla firmy z drugiego końca Polski? Sprzedawać lokalne wyroby klientom z całego kraju? Załatwić sprawę w urzędzie bez organizowania wyprawy do miasta? Coraz częściej odpowiedź na te pytania zależy także od jakości dostępu do internetu. Projekt…",
-      "link": "https://www.nowiny.pl/nie-przegap/252099-dobry-zasieg-to-wiecej-mozliwosci-na-miejscu.html",
-      "published": "2026-11-10T10:00",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -355,6 +365,16 @@
       "link": "https://www.radio90.pl/bilet-na-pociag-o-polowe-taniej-koleje-slaskie-z-oferta-na-11-listopada.html",
       "published": "2026-11-10T07:15",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7bbf249cdb51544ab5ef4d4ed79fce5690f08ef6",
+      "title": "Auto złomowanie - odbiór lawetą Śląsk, Małopolska",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSF9OQXRjTlJ4NTFTOWtSV2ZwOFFrVzFvTGFkYnZIaDZrY2RIZ1o3SjJTZi1tanVsZklKaEh6aDN5VUp3dE8zSXphM1Uya3RTYnVPTDZFc3g1WU5NR2RYRkYyNEo1Mk9ycF83QS11ekwtV1VUdGd1aWdaSTJwLUZsQWtFVjFrUlF2ZXZaakZJMVo5MGxGUnhncEh1UXRLemJrUGF6X21vS0k?oc=5",
+      "published": "2026-11-10T07:04",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -619,21 +639,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "161a9c1f27dbfc44cd6e5304a0b0095b27450f26",
-      "title": "Zmierzch taniej energii? Giełdowy skok cen prądu uderza w polski przemysł",
+      "id": "ba40f1564166d3f72134e6f2af2ca316add2509f",
+      "title": "Cykl z książki „20 lat Konkursu Człowiek Roku Rybnik.com.pl”: Marcin Giba",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUEZPZzQ2M0lwZXhFY0VZaG1jZlFLR2FQNXV4emFGVjJzbXlpanhReUxTV24zOGhrRU9laHBWWFRoMUNkRzZyeTJ2Q1Z0dVVZUGRNc2VIUkFfQlJwdkdhZHVVcjdGSmtMQ2IwdklEVlRSM2QxT3NhMnpURDhuLVFEaFJHYkhQTUpnNXBsTW13LWlGam9aajZmUmlWeG1SVF9nZmlHdjhXZnN0UjFMUWRCbXROdmF6bERZWm5sSmRlTkFBS005SWliTXJR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS183MXc0ZEhndV9JSzlTU0ZmemJmSkJFMThYU2FCX3NRMXFXZ05oRTdnSXVXaGpQQnpvUl9QZXBaaGdkWFk5bHRTUHM0NGNkakdQNzI4U0pPMHVxU1lpNzBadUVfRmViT3Jpd2Vqc2V6YVBKR0F4MnZ5NW9TaGhuSmQ2NkFrQ09GbnBGR01tdndiS2M5Y19EMXZkU0Q0SG1TVlRIaFlLTmc3VWUxeFQ3OWIxSXpxSUwzQXVSTEVMdkJXNi00VVFj?oc=5",
       "published": "2026-11-09T08:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "9d4c370977075156907e3350647c247544889d7a",
-      "title": "Sprzedam tanio opony zimowe Trazano 200 pln za dwie sztuki !!!",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbnUtb1NDRC1DaW0yNWkzZ1A2NU44X0oxNU81TXkwZWsyeUNxTmN4cDE5Z2t2MGg5b2RKSDRzMVBaMXEwUS1ta3hHdTZ1V3BlVFpyRzJtYUdwNnMxSzlzZk92TjFqOXlvdmZlX25UQ1BDWWxjdEJvMzNvcTVMbG9BNEJzZlp1bEdOaUl5c2diVGlSWlg2VnJjRWRHZVBibWlOOGgyRElIOTZGdkJsalBWMm5za0JiZk5Y?oc=5",
-      "published": "2026-11-09T06:48",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -819,16 +829,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "337aace5586208a60e9180560628a3a0156528ec",
-      "title": "Różne spojrzenia i bezkompromisowy obraz. Rybnicki kolektyw M6 otworzył wystawę „Antypody” (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORDZ4alBaWm5EWXVqaFRhOFJobkR5MDNJTHBsQlItVVdrTGs3RXNrQU5PYnVmdHFvTlpiWi01c0hHdGxNUEUxMEN0dmFMU1JEb3hQb2gzdkQta0tqd0ZMTVBpdWxkREhjT044T0tzMlpzYzBuWDlyaHM4T0tkcVpaWWstNV9vZlNENXBvc2pTUm9id0dUNTlYV3NuQk1JaDZycUhuRWVieUhZUm1Hemp1VWFYS3RZMWJzZHNBUlNHRjVySThBaTZ1U01BdGJWa3Q0Ri15Y2ZEWl80NG5Va0h5MVQ4WXI?oc=5",
-      "published": "2026-11-08T11:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "5eb40c5e5b59958859de3832d8aadb62ef75947a",
       "title": "Pewna wygrana i twarda walka o czołówkę. TS Volley Rybnik pokonuje TKS Tychy w trzech setach",
       "summary": "",
@@ -879,11 +879,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "09861150e43f30844286d93f704ef8afb949f5c2",
-      "title": "Siatkarki Gromu Rybnik zatrzymały lidera! Pierwsza porażka Spartakusa Zabrze (foto)",
+      "id": "5ac0fe7dba63777783d5e6f9df158b24e5d3a61f",
+      "title": "ROW 1964 Rybnik minimalnie uległ MKS-owi Kluczbork",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdTJpMk05MkhrTmdueXFJSHJ2QnQtR0gzXzEwR1plOUVYVlJqd3JFeHNzVURJbXJiM1FDTnpkVG5zYk1qX2o4enM0eENtaEx4cUtXNUxYUkxnRTNGTnlWMlJwTXNDQ2U3d3lxR1BMUngzR01tbWFmV3hpNUFQS0owYkV0WFAxeWk4MUFKWllNbWRoWk9zU1NITzNGdC1YZllwaC1JdGp3cVJ0eklDZkM2TXBBYVhFckk1WDRlYUtRZl8weWpDWlJmczRRbVVQLUd0U3VBZQ?oc=5",
-      "published": "2026-11-07T20:58",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONm43a0c2Y3JSTFBMRnZPZ3BCcWVJRTVQYTFHckNpX1lhdTB6Q002LVU0LVRXMldLdlZSZkpSNFR2dmcyY2RtSGYwLWU2bjhnWVZENHFuUUpQRms2OHNZbG9fM2VZajZ6eUdaRGg4RmVHTV9UOFNaUDB2WUUxNkwxWV9YbkY4OHV0a1J3Sm02VzB0QzRlUjk5aV9FWEtPbUlCMUVwYV9fREJFYWNm?oc=5",
+      "published": "2026-11-07T19:25",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
