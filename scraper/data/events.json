@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:09:06",
+  "generated_at": "2026-11-11T14:16:26",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,30 +7,19 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 121,
+  "count": 178,
   "failures": [],
   "events": [
     {
-      "id": "iryb-uroczystosci-narodowego-swieta-niepodleglosci",
-      "title": "Uroczystości Narodowego Święta Niepodległości",
+      "id": "iryb-540-minut-uwielbienie-i-modlitwa",
+      "title": "540 MINUT: uwielbienie i modlitwa",
       "category": "Impreza",
-      "start": "2026-11-11T10:00",
+      "start": "2026-11-11T12:00",
       "end": null,
       "venue": "Rybnik",
-      "description": "Czerwionka-Leszczyny uczci Narodowe Święto Niepodległości wspólną modlitwą, upamiętnieniem Bohaterów Powstań Śląskich oraz wieczornym koncertem. Obchody odbędą się 11 listopada 2026 roku. W środę, 11 listopada 2026 roku , uroczystości rozpoczną się o godz. 10:00 w Kościele Wniebowzięcia NMP w Czuchowie. Następnie uczestnicy przejdą pod tablicę poświęconą Bohaterom Powstań Śląskich przy Domu Kultury przy ul. Wolności 2. O godz. 18:00 w Centrum Kulturalno-Edukacyjnym przy ul. 3 Maja 36D odbędzie się koncert. Bezpłatne wejściówki można pobrać w kasie CKE. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
+      "description": "Dziewięć godzin wspólnego śpiewu, modlitwy i uwielbienia — bez pośpiechu i z możliwością dołączenia w dowolnym momencie. 11 listopada w Rybniku odbędzie się 15. edycja wydarzenia 540 MINUT; warto zarezerwować sobie ten czas. Za wydarzenie odpowiada Centrum Chrześcijańskie Winnica. Można uczestniczyć przez cały czas albo przyjść w trakcie. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Spotkanie potrwa 540 minut i będzie podzielone na sześć półtoragodzinnych bloków. To propozycja dla osób, które chcą spędzić czas na wspólnej modlitwie i śpiewie — niezależnie od miejsca zamieszkania czy przynależności do wspólnoty.",
       "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/uroczystosci-narodowego-swieta-niepodleglosci"
-    },
-    {
-      "id": "iryb-miejskie-obchody-narodowego-swieta-niepodleglosci-w-rybniku",
-      "title": "Miejskie Obchody Narodowego Święta Niepodległości w Rybniku",
-      "category": "Impreza",
-      "start": "2026-11-11T10:30",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "11 listopada Rybniczanie będą mogli wspólnie uczcić rocznicę odzyskania przez Polskę niepodległości. Miejskie obchody połączą uroczystości religijne i patriotyczne z przemarszem przez centrum, wspólnym śpiewaniem oraz wydarzeniem muzycznym w Teatrze Ziemi Rybnickiej. Obchody zaplanowano na 11 listopada 2026 roku . Ich początek wyznaczono na godz. 10:30 w Bazylice Mniejszej pw. św. Antoniego z Padwy. Kolejne punkty programu odbędą się na Rynku, a wieczorna część muzyczna – w Teatrze Ziemi Rybnickiej. Na X Biesiadę Śląską w teatrze dostępne są bilety . Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń .",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/miejskie-obchody-narodowego-swieta-niepodleglosci-w-rybniku"
+      "sourceUrl": "https://irybnik.pl/wydarzenie/540-minut-uwielbienie-i-modlitwa"
     },
     {
       "id": "iryb-koncert-dla-niepodleglej",
@@ -44,15 +33,26 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/koncert-dla-niepodleglej"
     },
     {
-      "id": "tzr-x-biesiada-slaska-z-zespolem-vox-szczesliwej-drogi-juz-czas",
-      "title": "X Biesiada Śląska z zespołem VOX: \"Szczęśliwej drogi, już czas\"",
-      "category": "Koncert",
+      "id": "iryb-x-biesiada-slaska-z-vox-w-rybniku",
+      "title": "X Biesiada Śląska z VOX w Rybniku",
+      "category": "Impreza",
       "start": "2026-11-11T17:00",
       "end": "2026-11-11T18:30",
       "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Zapraszamy na jubileuszową X Biesiadę Śląską z zespołem VOX – wieczór pełen znanych piosenek, muzycznych wspomnień, wspólnego śpiewania i dobrej zabawy!",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/x-biesiada-slaska-z-zespolem-vox-szczesliwej-drogi-juz-czas.html"
+      "description": "Znane przeboje, śląska biesiada i wspólne śpiewanie — tak zapowiada się jubileuszowa, dziesiąta edycja wydarzenia w Rybniku. Wieczór zakończy koncert zespołu VOX z takimi hitami jak „Bananowy song” i „Szczęśliwej drogi już czas”. Kiedy: 11 listopada 2026 roku (środa), godz. 17:00 Gdzie: Plac Teatralny im. Kazimierza Kutza 1, 44-200 Rybnik Bilety: 80 zł w przedsprzedaży do 30 października; od 1 listopada 2026 roku – 100 zł. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Gospodarzami sceny będą Larmodzieje, którzy pojawią się na Biesiadzie po raz dziesiąty, tym razem w nowej roli. W programie znajdą się również występy Teresy Walerjańskiej, Ingi Papkali, krakowskiego barda Pawła Orkisza oraz rybnickiego tenora Mieczysława Błaszczyka.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/x-biesiada-slaska-z-vox-w-rybniku"
+    },
+    {
+      "id": "iryb-konopians-w-rybniku-reggae-uczta",
+      "title": "KoNoPiAnS w Rybniku: reggae uczta",
+      "category": "Impreza",
+      "start": "2026-11-11T19:00",
+      "end": null,
+      "venue": "Klub Odyseja",
+      "description": "KoNoPiAnS świętuje 30-lecie i przywozi do Rybnika nową płytę „IRONYA SOMATYA”. W Klubie Odyseja szykuje się wieczór z reggae, ska, dubem i sporą dawką koncertowej improwizacji. Kiedy: 11 listopada 2026 roku (środa), godz. 19:00–22:00 Gdzie: Klub Odyseja, Rybnik Bilety: 69 zł w przedsprzedaży, 80 zł w dniu koncertu. Wejściówki w przedsprzedaży są dostępne na muzystan.com. W klubie można płacić kartą lub gotówką. Na miejscu będzie także stoisko z winylami, digibookami i koszulkami w promocyjnych cenach. Płatność kartą i gotówką. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/konopians-w-rybniku-reggae-uczta"
     },
     {
       "id": "bilnya-galeria-sztuki-rzeczna-202611120900",
@@ -88,6 +88,39 @@
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=715196#opis"
     },
     {
+      "id": "iryb-w-co-gramy-warsztat-relacji",
+      "title": "W co gramy? Warsztat relacji",
+      "category": "Warsztaty",
+      "start": "2026-11-13T17:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "W codziennych rozmowach raz reagujemy jak dziecko, innym razem jak rodzic, a jeszcze innym — jak spokojny dorosły. Warsztat „W co gramy? Dziecko, dorosły, rodzic w każdym z nas. Gry międzyludzkie” przybliży te mechanizmy i pokaże, jak mogą wpływać na porozumiewanie się z innymi. Kiedy: 13 listopada 2026 r. (piątek), godz. 17:00 – 14 listopada 2026 r. (sobota), godz. 13:30 Gdzie: Św. Antoniego 10, 44-200 Rybnik Cena: 440 zł za jeden warsztat. Przy opłacie z góry za dwa warsztaty przysługuje 10% zniżki. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Spotkanie opiera się na analizie transakcyjnej, która opisuje trzy stany obecne w każdym z nas: Dziecko, Rodzica i Dorosłego. Ich wpływ można dostrzec w zachowaniu oraz w sposobie, w jaki mówimy do siebie i innych.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/w-co-gramy-warsztat-relacji"
+    },
+    {
+      "id": "iryb-spiewy-za-zmarlych-w-rybniku",
+      "title": "Śpiewy za zmarłych w Rybniku",
+      "category": "Impreza",
+      "start": "2026-11-13T17:00",
+      "end": null,
+      "venue": "Halo! Rybnik",
+      "description": "Listopadowe Otwarte spotkanie śpiewacze w Rybniku będzie poświęcone pieśniom pogrzebowym i utworom o przemijaniu. Wspólne śpiewanie pozwoli poznać tradycje, które towarzyszyły dawniej pożegnaniom zmarłych. 13 listopada 2026 r. (piątek), godz. 17:00 Halo! Rybnik , ul. Sobieskiego 20, 44-200 Rybnik Wstęp wolny. Podczas spotkania zabrzmią pieśni wykonywane niegdyś przy zmarłej osobie — w domu, kościele i na cmentarzu. Pojawią się zarówno mniej znane, jak i te, które są lepiej rozpoznawalne. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/spiewy-za-zmarlych-w-rybniku"
+    },
+    {
+      "id": "iryb-czego-nie-wiecie-o-testosteronie-spotkanie-z-ekspertem",
+      "title": "Czego nie wiecie o testosteronie? Spotkanie z ekspertem",
+      "category": "Impreza",
+      "start": "2026-11-13T18:00",
+      "end": null,
+      "venue": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku",
+      "description": "Testosteron kojarzy się głównie z męską siłą, ale jego wpływ na zdrowie, energię i pożądanie dotyczy obu płci. O tym, jak naprawdę działa ten hormon i co ma wspólnego z bliskością oraz samopoczuciem, porozmawiają Lucyna Jarzynka i dr n. med. Robert Jarema. Kiedy: 13 listopada 2026 r. (piątek), godz. 18:00 Gdzie: Biblioteka główna, ul. Szafranka 7, Rybnik Wstęp: wolny Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Spotkanie odbędzie się w ramach cyklu „Swoją drogą”. Rozmowa ma przełamać tabu związane z hormonami i zdrowiem intymnym. Jej tematem będzie wpływ testosteronu na pożądanie, witalność, zdrowie oraz relacje — zarówno u kobiet, jak i u mężczyzn.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/czego-nie-wiecie-o-testosteronie-spotkanie-z-ekspertem"
+    },
+    {
       "id": "dk-bog-11130-filmowy-zefir-milosc-jazz-i-wielkie-marzenia-bezplatny-seans-fil",
       "title": "Filmowy Zefir | Miłość, jazz i wielkie marzenia... Bezpłatny seans filmowy",
       "category": "Film",
@@ -108,6 +141,39 @@
       "description": "Rybnik szykuje się na wieczór, który trudno będzie pomylić z czymkolwiek innym Echo Rodu przywiezie do Klubu Odyseja muzykę inspirowaną dawnymi rytuałami, folklorem i transową elektroniką. To jeden z tych koncertów, które bardziej się przeżywa niż tylko słucha — więc warto zarezerwować sobie ten termin. Kiedy: 13 listopada 2026 (piątek), godz. 19:00–21:00 Wejście na teren wydarzenia: od godz. 18:00 Gdzie: Klub Odyseja , ul. Raciborska 9a, Rybnik Wejściówki są dostępne w sprzedaży online. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie .",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/echo-rodu-w-rybniku-koncert-pelen-slowianskich-brzmien-w-klubie-odyseja"
+    },
+    {
+      "id": "iryb-serce-ziemi-koncert-w-rybniku",
+      "title": "Serce Ziemi: koncert w Rybniku",
+      "category": "Koncert",
+      "start": "2026-11-13T19:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "W Rybniku zabrzmią gongi, harfa, handpan i autorskie pieśni. Koncert Serce Ziemi „Jakoś tu cicho” to propozycja dla tych, którzy chcą na chwilę zwolnić, odpocząć od codziennego zgiełku i zanurzyć się w muzycznej przestrzeni. Kiedy: 13 listopada 2026 roku (piątek), godz. 19:00 Gdzie: Mikołowska 73, Rybnik Bilety: 150 zł Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Za projektem Serce Ziemi stoją Natalia Widuto i Dawid Cichy. W koncercie „Jakoś tu cicho” stawiają na prostotę, szczere teksty i przestrzeń, w której dźwięki oraz emocje mogą wybrzmieć bez pośpiechu. To muzyczna podróż do własnego wnętrza — bez presji i zbędnych ozdobników.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/serce-ziemi-koncert-w-rybniku"
+    },
+    {
+      "id": "iryb-shot-lab-laboratorium-smakow-w-rybniku",
+      "title": "SHOT LAB | Laboratorium Smaków! w Rybniku",
+      "category": "Impreza",
+      "start": "2026-11-13T21:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Ponad 40 smaków shotów, kolorowe kompozycje i muzyka Markusa — tak zapowiada się piątkowa noc w Face 2 Face. SHOT LAB zamieni klub w małe laboratorium smaków, w którym każdy znajdzie coś dla siebie. Kiedy: 13 listopada 2026 r. (piątek), godz. 21:00 Gdzie: Face 2 Face, ul. Wiejska 1A, 44-200 Rybnik Wstęp: bezpłatny do godz. 21:30; od godz. 22:00 — 20 zł Wiek: wydarzenie dla osób od 18 lat Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Główną atrakcją będą shoty w ponad 40 wariantach — odmiennych smakowo i kolorystycznie. Barmańska ekipa przygotuje różnorodne kompozycje, a w sali ekskluzywnej zagra Markus.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/shot-lab-laboratorium-smakow-w-rybniku"
+    },
+    {
+      "id": "iryb-noc-lucky-13-impreza-w-rybniku",
+      "title": "NOC: LUCKY 13 – impreza w Rybniku",
+      "category": "Impreza",
+      "start": "2026-11-13T21:45",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Piątek trzynastego wcale nie musi oznaczać pecha — w klubie NOC stanie się pretekstem do nocnej zabawy. LUCKY 13 to piątkowa impreza dla osób pełnoletnich, z muzyką do późnych godzin i klimatem, który pozwala zostawić przesądy za drzwiami. Kiedy: 13 listopada 2026 r. (piątek), godz. 21:45 – 14 listopada (sobota), godz. 4:00 Gdzie: NOC, ul. Kościelna 6, Rybnik Wstęp: 25 zł Wiek: 18+ Klub znajduje się w centrum Rybnika. W lokalu obowiązuje selekcja, a wejście w dresach jest niedozwolone. Szatnia jest obowiązkowa. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/noc-lucky-13-impreza-w-rybniku"
     },
     {
       "id": "iryb-libra-lures-predator-cup-rybnik-spinning-z-lodzi",
@@ -132,15 +198,37 @@
       "sourceUrl": "https://www.dkchwalowice.pl/?news=52515"
     },
     {
-      "id": "dk-bog-11134-poranek-z-zefirkiem-kosmita-w-domu-to-dopiero-poczatek-bezplatny",
-      "title": "Poranek z Zefirkiem | Kosmita w domu? To dopiero początek... Bezpłatny seans filmowy",
-      "category": "Film",
+      "id": "iryb-kurs-radiestezji-i-stopnia-w-rybniku",
+      "title": "Kurs radiestezji I stopnia w Rybniku",
+      "category": "Warsztaty",
+      "start": "2026-11-14T10:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Radiestezja od podstaw, nauka w kameralnym gronie i ćwiczenia z wahadłem — tak zapowiada się jednodniowy kurs w Rybniku. W programie znajdą się teoria, praktyka oraz zabiegi, a uczestnicy będą mogli skorzystać z wahadeł dostępnych na miejscu. Kurs odbędzie się 14 listopada 2026 roku (sobota), w godz. 10:00–17:00 , w Rybniku . Udział kosztuje 500 zł . Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Zajęcia będą prowadzone w małej grupie, co pozwoli prowadzącemu poświęcić uwagę każdej osobie. W cenie są część teoretyczna i praktyczna, zabiegi, ciepły posiłek podczas przerwy obiadowej, a także kawa, herbata i napoje.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/kurs-radiestezji-i-stopnia-w-rybniku"
+    },
+    {
+      "id": "iryb-poranek-z-zefirkiem-kosmiczna-animacja",
+      "title": "Poranek z Zefirkiem: kosmiczna animacja",
+      "category": "DlaDzieci",
       "start": "2026-11-14T10:00",
       "end": "2026-11-14T11:30",
       "venue": "Dom Kultury Boguszowice",
-      "description": "Zapraszamy na familijną sobotę w kinie i animację, w której nic nie idzie zgodnie z planem. Jest bardzo gadatliwy przybysz z kosmosu. Jest odważna dziewczyna, która ma własny plan. Jest też wspólna podróż, masa zamieszania, sporo humoru i historia o tym, że dom to nie zawsze miejsce. Czasem to ktoś, przy kim naprawdę czujesz się u siebie. Szykujcie się na kosmiczne zamieszanie, nieoczywisty duet i przygodę, która szybko nabiera rozpędu. Sobota | 14.11.2026 | godz. 10.00 Zabierzcie dzieciaki i wpadajcie. Listopadową sobotę zaczynamy od kina. WSTĘP WOLNY!",
-      "sourceName": "DK Boguszowice",
-      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/11134/"
+      "description": "Listopadowa sobota w kinie zapowiada się nieziemsko: na ekranie pojawi się bardzo gadatliwy kosmita, odważna dziewczyna i duet, któremu przydarza się więcej, niż można się spodziewać. „Poranek z Zefirkiem” to familijna animacja pełna humoru i przygód, z ciepłą opowieścią o tym, że dom czasem znajduje się tam, gdzie jesteśmy z kimś bliskim. Filmowy Poranek z Zefirkiem: smocza wyprawa Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Gadatliwy przybysz z kosmosu i dziewczyna, która ma własny plan, tworzą nieoczywisty duet. Ich wspólna podróż szybko nabiera tempa, a po drodze nie brakuje kosmicznego zamieszania i zabawnych sytuacji.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/poranek-z-zefirkiem-kosmiczna-animacja"
+    },
+    {
+      "id": "iryb-czarna-plytka-swietuje-dziesieciolecie",
+      "title": "CZARNA płytka świętuje dziesięciolecie",
+      "category": "Impreza",
+      "start": "2026-11-14T11:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "CZARNA płytka kończy 10 lat! Miejsce, które po raz pierwszy otworzyło drzwi w listopadzie 2016 roku, szykuje jubileuszowe świętowanie. Zapiszcie datę i szykujcie się na urodzinową atmosferę — szczegóły mają pojawić się wkrótce. Data: sobota, 14 listopada 2026 roku, godz. 11:00 Miejsce: ul. Rudzka 8, 44-200 Rybnik Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Dziesięć lat wspólnej historii to dla CZARNEJ płytki wyjątkowy moment. Poprzednie, dziewiąte urodziny były huczne, więc i tegoroczny jubileusz ma zostać zapamiętany na długo.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/czarna-plytka-swietuje-dziesieciolecie"
     },
     {
       "id": "bilnya-galeria-sztuki-rzeczna-202611141100",
@@ -154,6 +242,17 @@
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717334#opis"
     },
     {
+      "id": "iryb-tarty-i-tartaletki-w-rybniku",
+      "title": "Tarty i tartaletki w Rybniku",
+      "category": "Impreza",
+      "start": "2026-11-14T11:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Cytrynowa tarta z bezą włoską, aromatyczne tartaletki i wytrawna wersja z grzybami — takie smaki czekają na uczestników warsztatów kulinarnych w Rybniku. To cztery godziny wspólnego gotowania, nauki i degustowania. Warsztaty odbędą się w sobotę 14 listopada 2026 roku o godz. 11:00 w Studiu Kulinarnym Aromaty przy ul. Rynek 2, I piętro, w Rybniku . Spotkanie potrwa około czterech godzin, a udział kosztuje 290 zł . Rezerwacja miejsca jest możliwa przez Messenger lub pod adresem e-mail: [email protected] . Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Uczestnicy przygotują trzy propozycje: tartę cytrynową z bezą włoską , tartaletki z kremem z nutką cynamonu oraz wytrawną tartę z grzybami . Zajęcia poprowadzi Katarzyna Wojciechowicz, założycielka Studia Kulinarnego Aromaty, pasjonatka gotowania i odkrywania nowych smaków. Dba o jakość składników i każdy detal przygotowywanych potraw.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/tarty-i-tartaletki-w-rybniku"
+    },
+    {
       "id": "bilnya-archimlodziaki-202611141130",
       "title": "ArchiMłodziaki",
       "category": "DlaDzieci",
@@ -165,6 +264,50 @@
       "sourceUrl": "https://biletyna.pl/dla-dzieci/ArchiMlodziaki?eid=719126#opis"
     },
     {
+      "id": "iryb-rodzinne-soboty-w-rzecznej-architektura-dla-dzieci",
+      "title": "Rodzinne soboty w Rzecznej: architektura dla dzieci",
+      "category": "DlaDzieci",
+      "start": "2026-11-14T11:30",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Makiety, szkice i prototypy pomogą spojrzeć na codzienne otoczenie z zupełnie nowej perspektywy. Galeria Sztuki Rzeczna zaprasza rodziny na warsztaty architektoniczne — można wybrać pojedyncze spotkanie albo uczestniczyć w całym cyklu. To ciekawy pomysł na wspólne, twórcze sobotnie przedpołudnie. Warsztaty zaplanowano na 14 listopada i 5 grudnia 2026 roku , w godz. 11:30–13:30 . Miejscem spotkań będzie Galeria Sztuki Rzeczna, Rzeczna 1, 44-200 Rybnik . Udział kosztuje 25 zł za warsztat dla dziecka z opiekunem . Mieszkańcy posiadający Rybnicką Kartę Mieszkańca „Rybka” otrzymują 20% zniżki. Opłatę można wnieść w kasie Galerii lub przez portal biletyna.pl. Przed pierwszymi zajęciami w danym roku należy dostarczyć do kasy Galerii wypełnioną kartę zgłoszeniową i zaakceptować regulamin. Wystarczy zrobić to raz — nie trzeba wypełniać formularza przed każdym warsztatem. Kartę można pobrać na stronie Galerii Sztuki Rzeczna.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/rodzinne-soboty-w-rzecznej-architektura-dla-dzieci"
+    },
+    {
+      "id": "iryb-pokemon-league-challenge-w-jaskini-turniej-w-listopadzie",
+      "title": "Pokémon League Challenge w Jaskini: turniej w listopadzie",
+      "category": "Sport",
+      "start": "2026-11-14T12:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Listopadowy Pokémon League Challenge w Jaskini to propozycja dla graczy, którzy chcą sprawdzić swoje talie w turniejowej rywalizacji i zdobyć Championship Points. Zawody odbędą się w formacie Standard — warto przygotować talię i dołączyć do gry! Turniej rozpocznie się w sobotę, 14 listopada 2026 roku, o godz. 12:00 . Miejscem rozgrywek będzie ul. Tadeusza Kościuszki 44 w Rybniku . Wpisowe wynosi 25 zł . Zapisy prowadzone są przez Messengera oraz w sklepie stacjonarnym. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/pokemon-league-challenge-w-jaskini-turniej-w-listopadzie"
+    },
+    {
+      "id": "iryb-turniej-two-headed-giant-precon-commander-w-jaskini",
+      "title": "Turniej Two-Headed Giant Precon Commander w Jaskini",
+      "category": "Sport",
+      "start": "2026-11-14T16:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "W Rybniku drużyny dwuosobowe zmierzą się w turnieju Commander w formacie Two-Headed Giant, grając gotowymi taliami preconstructed. To okazja do wspólnej rozgrywki i sprawdzenia, jak talie działają w nieco innym układzie niż w klasycznym Commanderze. 14 listopada 2026 roku (sobota), godz. 16:00 Jaskinia, ul. Tadeusza Kościuszki 44, 44-200 Rybnik Wstęp na turniej jest bezpłatny. Zgłoszenia dotyczą całych, dwuosobowych drużyn. Za każdą ekipę do puli nagród trafią dwa boostery. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/turniej-two-headed-giant-precon-commander-w-jaskini"
+    },
+    {
+      "id": "iryb-gwarki-z-hoym-gruby-w-rybniku",
+      "title": "Gwarki z Hoym Gruby w Rybniku",
+      "category": "Impreza",
+      "start": "2026-11-14T17:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Górnicze opowieści, wspólny posiłek i śpiew przy muzyce — tak zapowiada się listopadowe spotkanie w Zabytkowej Kopalni Ignacy. „Gwarki z Hoym Gruby” to okazja do rozmów i wspomnień w wyjątkowym miejscu, związanym z historią górnictwa na Ziemi Rybnickiej. Spotkanie odbędzie się w sobotę 14 listopada 2026 roku o godz. 17:00 w Zabytkowej Kopalni Ignacy przy ul. Ignacego Mościckiego 3 w Rybniku . Bilet kosztuje 180 zł od osoby . Wejściówki są dostępne w kasie kopalni, a ich liczba jest ograniczona. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/gwarki-z-hoym-gruby-w-rybniku"
+    },
+    {
       "id": "iryb-40-silesian-jazz-meeting-dwa-koncerty",
       "title": "40. Silesian Jazz Meeting: dwa koncerty",
       "category": "Koncert",
@@ -174,6 +317,17 @@
       "description": "Dwa różne muzyczne światy spotkają się jednego wieczoru w Rybniku. Pierwszy dzień 40. Silesian Jazz Meeting przyniesie energetyczne brzmienia zespołu KLAWO, a później jazzowe aranżacje piosenek Wojciecha Młynarskiego w wykonaniu kwintetu Myrczek & Schmidt. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Wieczór rozpocznie KLAWO – gdański zespół, który swobodnie łączy funk, soul, jazz, psychodelię i elektronikę. Jego koncerty słyną z wyrazistego rytmu, mocnych melodii i energii, która najlepiej wybrzmiewa na żywo. Grupa występowała już na festiwalach i scenach w 15 krajach. Druga część wieczoru należeć będzie do Wojciecha Myrczka i Piotra Schmidta oraz ich kwintetu. W programie „Młynarski. Bynajmniej” znane i mniej oczywiste piosenki Wojciecha Młynarskiego zyskają nowe, jazzowe aranżacje Krzysztofa Herdzina. Nie zabraknie improwizacji, muzycznych dialogów i charakterystycznego dla twórczości Młynarskiego humoru.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/40-silesian-jazz-meeting-dwa-koncerty"
+    },
+    {
+      "id": "iryb-mkks-rybnik-mecz-z-cracovia-1906",
+      "title": "MKKS Rybnik – mecz z Cracovią 1906",
+      "category": "Sport",
+      "start": "2026-11-14T18:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Po wyjazdowej porażce w Stalowej Woli koszykarze MKKS-u Rybnik wracają do własnej hali. W 10. kolejce 2. ligi zmierzą się z Cracovią 1906, a sobotni wieczór zapowiada się jak dobra okazja, by poczuć sportowe emocje na żywo Data: sobota, 14 listopada 2026 r., godz. 18:00 Miejsce: hala Zespołu Szkół Ekonomiczno-Usługowych w Rybniku Koszykarki i siatkarze wracają do gry. Piłkarze walczą o przełamanie Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/mkks-rybnik-mecz-z-cracovia-1906"
     },
     {
       "id": "bilnya-mariusz-kalamaga-mamo-papier-sie-konczy-202611141800",
@@ -209,6 +363,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/silesian-mma-28-wip-18-w-rybniku"
     },
     {
+      "id": "iryb-rutyna-run-6-coffee-bieg-i-kawa",
+      "title": "RUTYNA RUN #6 COFFEE – bieg i kawa",
+      "category": "Sport",
+      "start": "2026-11-15T01:30",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Niedzielny poranek w Rybniku można zacząć od biegu, a zakończyć przy kawie i luźnej rozmowie. RUTYNA RUN #6 COFFEE łączy wspólne kilometry z chwilą odpoczynku w FLOW. 15 listopada 2026 r. (niedziela), od godz. 7:30 Start: fontanna na rynku w Rybniku Zakończenie: FLOW Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . O godz. 7:30 rusza bieg na 10 km w tempie 5:30 min/km . Godzinę później, o 8:30 , rozpocznie się otwarty bieg na dystansie 5 km lub dłuższym — dla wszystkich chętnych.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/rutyna-run-6-coffee-bieg-i-kawa"
+    },
+    {
       "id": "bilnya-galeria-sztuki-rzeczna-202611151100",
       "title": "Galeria Sztuki Rzeczna",
       "category": "Wystawa",
@@ -218,6 +383,17 @@
       "description": null,
       "sourceName": "biletyna.pl",
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717336#opis"
+    },
+    {
+      "id": "iryb-apteka-z-laki-ziolowe-serce-juliusza-rogera-warsztaty-haftu",
+      "title": "Apteka z łąki: Ziołowe serce Juliusza Rogera – warsztaty haftu",
+      "category": "Warsztaty",
+      "start": "2026-11-15T12:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "W Rybniku pamięć o doktorze Juliuszu Rogerze połączy się z haftem i opowieścią o roślinach Śląska. Podczas warsztatów uczestnicy stworzą na naturalnej tkaninie serce ozdobione motywami rumianku, dzwonków i dzikiej róży. Warsztaty odbędą się 15 listopada 2026 roku (niedziela) o godz. 12:00 przy ulicy Klasztornej 11, 44-200 Rybnik . Spotkanie potrwa 120 minut. Bilet kosztuje 25 zł i jest dostępny w kasie oraz na stronie juliusz.eu. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Pod okiem prowadzącej, Klaudii Urbańczyk , uczestnicy wyhaftują kontur serca, wypełniając go delikatnymi roślinnymi wzorami. W trakcie spotkania będzie też okazja, by porozmawiać o właściwościach leczniczych roślin wykorzystywanych przez XIX-wiecznego lekarza oraz o jego szacunku do przyrody Śląska.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/apteka-z-laki-ziolowe-serce-juliusza-rogera-warsztaty-haftu"
     },
     {
       "id": "iryb-dzien-wczesniaka",
@@ -264,6 +440,17 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/takie-jest-zycie.html"
     },
     {
+      "id": "iryb-dotacja-na-magazyn-energii-spotkanie-w-rybniku",
+      "title": "Dotacja na magazyn energii – spotkanie w Rybniku",
+      "category": "Impreza",
+      "start": "2026-11-16T16:00",
+      "end": null,
+      "venue": "Halo! Rybnik",
+      "description": "Masz fotowoltaikę i rozważasz zakup magazynu energii? W Halo! Rybnik odbędzie się bezpłatne spotkanie INKO ENERGY, podczas którego będzie można dowiedzieć się, jak ubiegać się o dofinansowanie i na co zwrócić uwagę przy wyborze urządzenia. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Kiedy: 16 listopada 2026 r. (poniedziałek), godz. 16:00 Gdzie: Halo! Rybnik, ul. Jana III Sobieskiego 20 Wstęp: bezpłatny; obowiązują zapisy. Spotkanie będzie poświęcone programowi „Przydomowe Magazyny Energii”, w ramach którego można uzyskać do 16 000 zł dofinansowania na magazyn energii. Organizator, INKO ENERGY, omówi między innymi to, kto może ubiegać się o wsparcie i od czego zależy jego wysokość.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/dotacja-na-magazyn-energii-spotkanie-w-rybniku"
+    },
+    {
       "id": "iryb-rybnicka-premiera-ksiazki-pan-babcia-warzy-po-slosku",
       "title": "Rybnicka premiera książki „Pan Babcia warzy po ślōsku”",
       "category": "Impreza",
@@ -273,6 +460,17 @@
       "description": "W Ochojcu odbędzie się spotkanie z Michałem Froehlichem poświęcone jego książce kulinarnej „Pan Babcia warzy po ślōsku”. Autor opowie o pomyśle na publikację i pracy nad nią, a uczestnicy będą mogli porozmawiać z nim oraz zdobyć autograf. Spotkanie zaplanowano na 16 listopada 2026 roku o godz. 18:00 w Filii nr 12 Powiatowej i Miejskiej Biblioteki Publicznej w Rybniku, przy Placu Rodziny Machoczków 1 w Ochojcu . Wstęp jest bezpłatny , obowiązują jednak zapisy do 15 listopada 2026 roku. Zgłoszenia można przekazywać telefonicznie pod numerem 32 235 99 46 , mailowo na adres [email protected] lub przez stronę Odczytajmy Ochojec. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń .",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/rybnicka-premiera-ksiazki-pan-babcia-warzy-po-slosku"
+    },
+    {
+      "id": "iryb-primetime-thriller-o-obsesji",
+      "title": "PRIMETIME – thriller o obsesji",
+      "category": "Impreza",
+      "start": "2026-11-16T19:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Ambicja, telewizyjna popularność i świat przestępczy, do którego lepiej nie zaglądać zbyt głęboko. „PRIMETIME” to inspirowany prawdziwymi wydarzeniami thriller z Robertem Pattinsonem, który pokazuje, jak łatwo reporterska misja może przerodzić się w niebezpieczną obsesję. Kiedy: poniedziałek, 16 listopada 2026 roku, godz. 19:00–20:47 Gdzie: Plac Teatralny im. Kazimierza Kutza 1, 44-200 Rybnik Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Chris Hansen, charyzmatyczny reporter, przenika do podziemnego świata przestępczego. Chce zmienić oblicze telewizji, ale im bardziej rośnie jego popularność, tym mocniej zaciera się granica między zawodową ambicją a obsesją. Z czasem Chris zaczyna tracić z oczu pierwotny cel, a pogoń za sukcesem zamienia się w niebezpieczną grę.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/primetime-thriller-o-obsesji"
     },
     {
       "id": "tzr-primetime",
@@ -341,6 +539,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/warsztaty-genealogiczne-przodkowie-w-ameryce-w-rybniku"
     },
     {
+      "id": "iryb-dkk-wokol-w-pasie-oriona-w-rybniku",
+      "title": "DKK wokół „W pasie Oriona” w Rybniku",
+      "category": "Impreza",
+      "start": "2026-11-18T17:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Listopadowe spotkanie Dyskusyjnego Klubu Książki w Bibliotece Głównej poświęcone będzie powieści Krzysztofa Wacławca „W pasie Oriona”. To historia trzech pokoleń śląskiej rodziny, która może stać się punktem wyjścia do rozmowy o pamięci, wojnie i wpływie wielkiej historii na codzienne życie. Spotkanie autorskie z Krzysztofem Wacławcem Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . „W pasie Oriona” to saga rodzinna inspirowana biografią robotniczej rodziny z Rybnika. Losy syna, ojca i dziadka rozgrywają się na tle niemal całego burzliwego XX wieku, a bohaterowie zostają wciągnięci w wydarzenia, na które często nie mają wpływu.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/dkk-wokol-w-pasie-oriona-w-rybniku"
+    },
+    {
       "id": "iryb-tu-kino-basia-mam-swoj-swiat",
       "title": "Tu Kino – „Basia. Mam swój świat”",
       "category": "Film",
@@ -374,6 +583,17 @@
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717342#opis"
     },
     {
+      "id": "iryb-zadbaj-o-swoj-sluch-bezplatne-badania-w-rybniku",
+      "title": "Zadbaj o swój słuch: bezpłatne badania w Rybniku",
+      "category": "Impreza",
+      "start": "2026-11-19T09:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "W czwartek w Rybniku będzie można bezpłatnie sprawdzić słuch i porozmawiać ze specjalistą. Badanie odbędzie się w mobilnym Słuchobusie, a udział nie wiąże się z opłatą. W przekazanych danych lokalizacyjnych wydarzenia pojawia się także adres Rynek 15, 44-200 Rybnik . Opis badania wskazuje jednak parking Parku Handlowego S1 jako miejsce postoju Słuchobusu. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Firma Marmed i słyszę organizuje przesiewowe badanie słuchu oraz konsultację ze specjalistą. To okazja, by skontrolować słuch — jego pogorszenie może postępować stopniowo i początkowo być trudne do zauważenia.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/zadbaj-o-swoj-sluch-bezplatne-badania-w-rybniku"
+    },
+    {
       "id": "iryb-dkk-w-filii-nr-2-wokol-ksiazki-sonata-gustava-rose-tremain",
       "title": "DKK w Filii nr 2 wokół książki „Sonata Gustava” Rose Tremain",
       "category": "Impreza",
@@ -383,6 +603,39 @@
       "description": "Miłośnicy literatury będą mogli spotkać się, by porozmawiać o powieści Rose Tremain. Listopadowe spotkanie Dyskusyjnego Klubu Książki odbędzie się w rybnickiej Filii nr 2. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Tematem spotkania będzie powieść „Sonata Gustava” Rose Tremain w tłumaczeniu Dominiki Cieśli-Szymańskiej. Uczestnicy Dyskusyjnego Klubu Książki omówią książkę podczas wspólnej rozmowy. Spotkanie organizuje Powiatowa i Miejska Biblioteka Publiczna im. Konstantego Prusa w Rybniku.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/dkk-w-filii-nr-2-wokol-ksiazki-sonata-gustava-rose-tremain"
+    },
+    {
+      "id": "iryb-local-networkers-in-rybnik-biznesowy-wieczor",
+      "title": "Local Networkers in Rybnik: biznesowy wieczór",
+      "category": "Impreza",
+      "start": "2026-11-19T16:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Sprzedaż i marketing, ciekawe rozmowy, taneczny występ i miniwernisaż — pierwsza edycja Local Networkers in Rybnik zapowiada się na znacznie więcej niż typowe spotkanie biznesowe. Warto zarezerwować sobie ten wieczór, jeśli masz ochotę połączyć zdobywanie wiedzy z poznawaniem ludzi. Wydarzenie odbędzie się 19 listopada 2026 roku (czwartek) o godz. 16:00 w InoWino Świerklaniec w Rybniku. Bilety i pełny program są dostępne na stronie wydarzenia. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . W programie znalazły się warsztaty oparte na koncepcji Talentów Gallupa, prowadzone przez Barbarę Kolibską, panel ekspertów, kolacja oraz moderowane rozmowy biznesowe. Uczestnicy będą mogli wziąć udział w grze integracyjnej i skorzystać z aplikacji wspierającej wyszukiwanie potencjalnych partnerów biznesowych.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/local-networkers-in-rybnik-biznesowy-wieczor"
+    },
+    {
+      "id": "iryb-matematyka-nie-taka-straszna-jak-ja-maluja-matura-bez-stresu",
+      "title": "Matematyka nie taka straszna jak ją malują – matura bez stresu",
+      "category": "Impreza",
+      "start": "2026-11-19T16:30",
+      "end": null,
+      "venue": "Halo! Rybnik",
+      "description": "Matura z matematyki nie musi oznaczać walki z każdym zadaniem do ostatniej minuty. Podczas spotkania w Rybniku Wojciech Mocek pokaże, jak zdobywać punkty dzięki dobrej strategii, czytelnym rozwiązaniom i rozsądnemu planowaniu czasu. To może być przydatna powtórka przed egzaminem — warto zajrzeć. Spotkanie odbędzie się w czwartek, 19 listopada 2026 roku, w godz. 16:30–18:00 w halo! Rybnik , przy ul. Sobieskiego 20 w Rybniku. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Wojciech Mocek, ekspert egzaminacyjny, opowie o tym, za co egzaminator przyznaje punkty i jak zapisywać rozwiązania, by nie tracić ich przez drobne niedopatrzenia. W programie znajdą się też częste błędy maturzystów, sposoby na lepsze zarządzanie czasem podczas egzaminu oraz pomysły na powtórkę materiału w ostatnich miesiącach przed maturą.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/matematyka-nie-taka-straszna-jak-ja-maluja-matura-bez-stresu"
+    },
+    {
+      "id": "iryb-finger-food-dookola-swiata-warsztaty-w-rybniku",
+      "title": "FINGER FOOD dookoła świata – warsztaty w Rybniku",
+      "category": "Warsztaty",
+      "start": "2026-11-19T17:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Azjatyckie mini burgery, bao z boczniakami, tacos i krewetki w sosie chili z ananasem — podczas czterogodzinnych warsztatów w Rybniku kuchnia świata zmieści się w małych, efektownych porcjach. Zajęcia poprowadzi nagradzany kucharz Piotr Wasielewski. Warsztaty odbędą się 19 listopada 2026 roku (czwartek) o godz. 17:00 w Studiu Kulinarnym AROMATY przy Rynku 2, na pierwszym piętrze, w Rybniku . Spotkanie potrwa około 4 godzin, a udział kosztuje 290 zł . Miejsce można zarezerwować przez Messenger lub e-mail: [email protected] . Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Uczestnicy przygotują przekąski inspirowane różnymi kuchniami świata:",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/finger-food-dookola-swiata-warsztaty-w-rybniku"
     },
     {
       "id": "tzr-30-rybnicka-jesien-kabaretowa-ryjek-2026-kabaret-hrabi-wojtek-kaminski-oraz-dzikie-weze-improwizacje",
@@ -407,6 +660,17 @@
       "sourceUrl": "https://www.dkchwalowice.pl/?news=51940"
     },
     {
+      "id": "iryb-warsztaty-dla-zmeczonych-kobiet-w-rybniku",
+      "title": "Warsztaty dla zmęczonych kobiet w Rybniku",
+      "category": "Warsztaty",
+      "start": "2026-11-20T09:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Ciągłe napięcie, zmęczenie i trudność ze złapaniem oddechu potrafią dać się we znaki także ciału. W Rybniku odbędą się kameralne warsztaty dla kobiet, które chcą lepiej rozumieć swoje emocje i poznać sposoby na wyciszenie oraz regenerację. To może być dobry weekend, by na chwilę zwolnić i zadbać o siebie. Warsztaty odbędą się 20–22 listopada w Gabinecie Psychologicznym Izabeli Derskiej przy ul. Raciborskiej 7a w Rybniku . Zapisy przyjmowane są telefonicznie lub w wiadomości pod numerem 501 227 571 . Cena udziału nie została podana. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/warsztaty-dla-zmeczonych-kobiet-w-rybniku"
+    },
+    {
       "id": "bilnya-galeria-sztuki-rzeczna-202611201100",
       "title": "Galeria Sztuki Rzeczna",
       "category": "Wystawa",
@@ -418,6 +682,17 @@
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717348#opis"
     },
     {
+      "id": "iryb-w-gronie-przyjaciol-poezja-seniorow",
+      "title": "„W gronie przyjaciół” – poezja seniorów",
+      "category": "Impreza",
+      "start": "2026-11-20T11:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Poezja, muzyka i rozmowy w kameralnej, przyjaznej atmosferze — takie będzie spotkanie „W gronie przyjaciół” z autorkami antologii wierszy polskich seniorów. W programie znalazły się także recytacje, występ zespołu muzycznego i losowanie tomików poetyckich. Kiedy: 20 listopada 2026 roku (piątek), godz. 11:00 Gdzie: Sobieskiego 20, 44-200 Rybnik Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Bohaterkami wydarzenia będą Jadwiga Szlezinger, Regina Sobik i Marianna Świerczek . Spotkanie rozpocznie prezentacja autorek i słowo wstępne o antologii.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/w-gronie-przyjaciol-poezja-seniorow"
+    },
+    {
       "id": "tzr-30-rybnicka-jesien-kabaretowa-ryjek-2026-konkurs-glowny-czi-i-konkurs-shortow",
       "title": "30. Rybnicka Jesień Kabaretowa RYJEK 2026 - Konkurs Główny cz.I i KONKURS SHORTÓW",
       "category": "Kabaret",
@@ -427,6 +702,17 @@
       "description": "KONKURS GŁÓWNY cz. I Udział wezmą: Kabaret DNO Fair Play Crew Kabaret Jurki Łowcy.B Układ Komediowy Zdolni i Skromni Tematy konkurencji: „Czyje to są majtki\" „Płuco” „Którędy na szczyt?”",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/30-rybnicka-jesien-kabaretowa-ryjek-2026-konkurs-glowny-czi-i-konkurs-shortow.html"
+    },
+    {
+      "id": "iryb-impreza-huberta-4-0-wieczor-charytatywny",
+      "title": "Impreza Huberta 4.0: wieczór charytatywny",
+      "category": "Impreza",
+      "start": "2026-11-20T18:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Impreza Huberta 4.0 po raz czwarty połączy wspólną zabawę z pomocą Hubertowi. W programie są kolacja, bufety, licytacje i muzyka DJ-ów, a cały dochód z wydarzenia zostanie przeznaczony na leczenie i rehabilitację Huberta. Wydarzenie odbędzie się 20 listopada 2026 roku o godz. 18:00 pod adresem Sobieskiego 9 w Rybniku . Cena wynosi 220 zł od osoby . Zapisy prowadzone są pod numerem 518 590 084 . Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Na uczestników czeka ciepła kolacja, słodki bufet, zimny bufet oraz ciepłe dania. Woda i soki będą dostępne bez limitu. Zaplanowano również licytacje na rzecz Huberta.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/impreza-huberta-4-0-wieczor-charytatywny"
     },
     {
       "id": "iryb-plejada-fajnych-filmow-seans-filmowy",
@@ -484,6 +770,39 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/warsztaty-wokalne-rock-voices-festival-2026-w-dk-boguszowice/"
     },
     {
+      "id": "iryb-prime-krav-maga-obrona-przed-nozem",
+      "title": "PRIME Krav Maga: obrona przed nożem",
+      "category": "Impreza",
+      "start": "2026-11-21T10:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Nóż potrafi błyskawicznie zmienić zwykłą sytuację w poważne zagrożenie. W Rybniku odbędzie się czterogodzinne szkolenie wprowadzające, podczas którego uczestnicy poznają zasady oceny ryzyka, podejmowania decyzji i odpowiedzialnego reagowania — bez filmowych obietnic o jednej niezawodnej technice. Organizatorem szkolenia „Obrona przed nożem – szkolenie wprowadzające” jest PRIME Krav Maga. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Zajęcia skupią się nie tylko na ćwiczeniach fizycznych. Ważną częścią będzie rozpoznawanie zagrożenia i ocena sytuacji, a także zwracanie uwagi na dystans, otoczenie, możliwość wycofania się i unikanie eskalacji. Uczestnicy przećwiczą kontrolowane scenariusze dostosowane do poziomu początkującego.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/prime-krav-maga-obrona-przed-nozem"
+    },
+    {
+      "id": "iryb-michal-froehlich-sesja-autografow-w-rybniku",
+      "title": "Michał Froehlich – sesja autografów w Rybniku",
+      "category": "Impreza",
+      "start": "2026-11-21T11:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Śląskie smaki, rodzinne opowieści i spotkanie z autorem książki „Pan Babcia warzy po ślōnsku” — tak zapowiada się sesja autografów Michała Froehlicha w Rybniku. To okazja, by zdobyć podpis autora i poznać kulinarną tradycję Śląska od kuchni. Rybnicka premiera książki „Pan Babcia warzy po ślōsku” Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Michał Froehlich zdobył popularność dzięki krótkim filmom z przepisami na klasyczne dania kuchni śląskiej. Charakterystyczna niebieska zopaska i postać Pana Babci nawiązują do rodzinnych tradycji oraz przepisów przekazywanych przez pokolenia.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/michal-froehlich-sesja-autografow-w-rybniku"
+    },
+    {
+      "id": "iryb-sztuka-uwaznosci-ii-wystawa-dzieci",
+      "title": "Sztuka uważności II: wystawa dzieci",
+      "category": "Wystawa",
+      "start": "2026-11-21T11:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Kolory, kształty i dziecięca wyobraźnia spotkają się na wystawie „Sztuka uważności II” w Rybniku. Wernisaż podsumuje cykl warsztatów i lekcji, podczas których najmłodsi poznawali twórczość jako sposób na uważne odkrywanie świata. Sam wernisaż jest wydarzeniem zamkniętym, ale prace będzie można oglądać później. Wernisaż: 21 listopada 2026 r. (sobota), godz. 11:00 Miejsce: Galeria Sztuki Rzeczna, ul. Rzeczna 1, 44-200 Rybnik Wstęp na wernisaż: wydarzenie zamknięte Wystawa dla zwiedzających: od 22 listopada do 1 grudnia Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Ekspozycja jest efektem jedenastu warsztatów kreatywno-artystycznych prowadzonych przez Agę Blazy, Magdę Biedrończyk, Bognę Brewczyk i Kingę Widerę oraz trzech lekcji tematycznych z udziałem dr Katarzyny Fober, Marcina Giby i dr. Michała Łuczaka.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/sztuka-uwaznosci-ii-wystawa-dzieci"
+    },
+    {
       "id": "tzr-30-rybnicka-jesien-kabaretowa-ryjek-2026-konkurs-glowny-czii-i-konkurs-o-melodyjna-nagrode-im-artura",
       "title": "30. Rybnicka Jesień Kabaretowa RYJEK 2026 - Konkurs Główny cz.II i KONKURS O MELODYJNĄ NAGRODĘ IM. ARTURA",
       "category": "Kabaret",
@@ -493,6 +812,17 @@
       "description": "KONKURS GŁÓWNY cz. II Udział wezmą: Kabaret DNO Fair Play Crew Kabaret Jurki Łowcy.B Układ Komediowy Zdolni i Skromni Tematy konkurencji: „To takie polskie” „Specjaliści” „Na końcu jest liczenie”",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/30-rybnicka-jesien-kabaretowa-ryjek-2026-konkurs-glowny-czii-i-konkurs-o-melodyjna-nagrode-im-artura.html"
+    },
+    {
+      "id": "iryb-andrzejki-2026-zabawa-taneczna",
+      "title": "Andrzejki 2026 – zabawa taneczna",
+      "category": "Impreza",
+      "start": "2026-11-21T18:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Wieczór z muzyką, tańcami i andrzejkowym klimatem szykuje OSP Popielów. Zabawa odbędzie się 21 listopada w Rybniku — to propozycja dla tych, którzy chcą spędzić sobotni wieczór na parkiecie i przy dobrym jedzeniu. Liczba miejsc jest ograniczona, a stoliki można rezerwować telefonicznie. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . W programie wieczoru zapowiedziano muzykę do tańca, poczęstunek i dobrą zabawę w andrzejkowej atmosferze. To okazja, by spędzić czas z rodziną lub znajomymi i na chwilę dać się porwać magii listopadowego wieczoru.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/andrzejki-2026-zabawa-taneczna"
     },
     {
       "id": "iryb-country-nad-nacyna-w-rybniku-koncert-drogi-na-ostroleke-i-im",
@@ -506,6 +836,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/country-nad-nacyna-w-rybniku-koncert-drogi-na-ostroleke-i-impreza-w-klubie-odyseja"
     },
     {
+      "id": "iryb-mr-czekolada-latino-night-w-rybniku",
+      "title": "Mr Czekolada | Latino Night w Rybniku",
+      "category": "Impreza",
+      "start": "2026-11-21T21:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Rybnik szykuje noc z latynoską energią: w klubie Face 2 Face zabrzmią gorące rytmy i taneczne hity, a za muzyczną konsolą pojawi się Mr Czekolada. To propozycja dla tych, którzy mają ochotę na parkietową sobotę — można już szykować wygodne, klubowe stylizacje. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Głównym motywem wieczoru będą latynoskie rytmy i taneczne przeboje. W zapowiedzi za muzyczną konsolą sali exclusive wskazano Mr Czekoladę. W rozpisce sal wymieniono także Fancy w sali klubowej oraz Artura w sali exclusive. Face 2 Face to klub na trzech poziomach, ze strefami otwieranymi zależnie od wydarzenia i strefą chillout. Zasady wejścia obejmują selekcję; klub może odmówić wstępu osobom wyraźnie pod wpływem alkoholu.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/mr-czekolada-latino-night-w-rybniku"
+    },
+    {
       "id": "bilnya-galeria-sztuki-rzeczna-202611221100",
       "title": "Galeria Sztuki Rzeczna",
       "category": "Wystawa",
@@ -517,15 +858,59 @@
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717349#opis"
     },
     {
-      "id": "tzr-jesienne-impresje-take-trio",
-      "title": "Jesienne impresje – Take Trio",
+      "id": "iryb-kuchnia-grecka-warsztaty-kulinarne-w-rybniku",
+      "title": "Kuchnia grecka – warsztaty kulinarne w Rybniku",
+      "category": "Warsztaty",
+      "start": "2026-11-22T11:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Greckie smaki, wspólne gotowanie i cztery godziny w kuchni pełnej aromatów — tak zapowiadają się warsztaty kulinarne w Rybniku. Uczestnicy przygotują między innymi souvlaki, krewetki saganaki i pachnące pomarańczą ciasto z Krety. Warsztaty odbędą się 22 listopada 2026 roku (niedziela) o godz. 11:00 w studiu kulinarnym AROMATY przy ul. Rynek 2, na I piętrze w Rybniku . Spotkanie potrwa około czterech godzin, do godz. 15:00. Udział kosztuje 290 zł , a miejsce można zarezerwować przez Messenger lub e-mail: [email protected] . Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Podczas spotkania uczestnicy przygotują cztery dania inspirowane kuchnią grecką:",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/kuchnia-grecka-warsztaty-kulinarne-w-rybniku"
+    },
+    {
+      "id": "iryb-warsztaty-ustawien-systemowych-w-rybniku",
+      "title": "Warsztaty ustawień systemowych w Rybniku",
+      "category": "Warsztaty",
+      "start": "2026-11-22T14:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "W niedzielę 22 listopada w Rybniku odbędą się warsztaty ustawień systemowych. To spotkanie dla osób zainteresowanych tą metodą i możliwością przyjrzenia się własnym tematom w warsztatowej formule. Data: 22 listopada 2026 roku (niedziela), godz. 14:00 Miejsce: Mikołowska 73, Rybnik Rezerwacja miejsca: telefonicznie pod numerem 602 842 286 Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Warsztaty będą okazją do poznania lub bliższego doświadczenia pracy z ustawieniami systemowymi. Mogą zainteresować zarówno osoby, które już zetknęły się z tą metodą, jak i te, które chcą dowiedzieć się o niej więcej.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/warsztaty-ustawien-systemowych-w-rybniku"
+    },
+    {
+      "id": "iryb-kuchnia-balkanska-warsztaty-w-rybniku",
+      "title": "Kuchnia bałkańska: warsztaty w Rybniku",
+      "category": "Warsztaty",
+      "start": "2026-11-22T17:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Bałkańskie smaki, wspólne gotowanie i prowadzący, który zna tę kuchnię od podszewki — Studio kulinarne AROMATY organizuje w Rybniku czterogodzinne warsztaty kulinarne. W menu są między innymi soczysta pljeskavica, chłodnik tarator i jabłka z orzechami w syropie. Warsztaty odbędą się w niedzielę 22 listopada 2026 roku w godz. 17:00–21:00 w Rybniku, przy ul. Rynek 2, na I piętrze . Udział kosztuje 290 zł . Rezerwacji miejsca można dokonać przez Messenger lub e-mail: [email protected] . Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Uczestnicy przygotują potrawy inspirowane kuchnią Bałkanów:",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/kuchnia-balkanska-warsztaty-w-rybniku"
+    },
+    {
+      "id": "iryb-jesienne-impresje-koncert-take-trio",
+      "title": "Jesienne impresje: koncert TAKE TRIO",
       "category": "Koncert",
       "start": "2026-11-22T18:00",
       "end": "2026-11-22T19:30",
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Jesień ma swój własny dźwięk. Czasem spokojny i nostalgiczny, czasem pełen energii i kolorów. Właśnie takie muzyczne nastroje przyniesie koncert „Jesienne impresje” zespołu Take Trio.",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/jesienne-impresje-take-trio.html"
+      "venue": "Halo! Rybnik",
+      "description": "Akordeon, gitara i kontrabas spotkają się w programie, który łączy muzykę klasyczną, jazz i popularne melodie. „Jesienne impresje” to koncert rybnickich artystów w kameralnym, akustycznym brzmieniu. Kiedy: niedziela, 22 listopada 2026 r., godz. 18:00 Gdzie: ul. Zakątek 19, 44-203 Rybnik Bilety w cenach promocyjnych kosztują od 35 zł (II miejsce, ulgowy) do 50 zł (I miejsce, normalny). Od 12 listopada ceny wyniosą od 45 do 60 zł. Wejściówki są dostępne w kasach TZR, KK Harcówka, Halo Rybnik oraz na Biletyna.pl. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/jesienne-impresje-koncert-take-trio"
+    },
+    {
+      "id": "iryb-relaksacja-z-automasazem-w-rybniku",
+      "title": "Relaksacja z automasażem w Rybniku",
+      "category": "Impreza",
+      "start": "2026-11-22T18:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Wieczór z oddechem, łagodnym ruchem i dźwiękami instrumentów na żywo może być dobrym sposobem na chwilę wytchnienia od codziennego tempa. W Rybniku odbędzie się prowadzona relaksacja połączona z praktyką delikatnego automasażu. Kiedy: 22 listopada 2026 roku (niedziela), godz. 18:00–20:15 Gdzie: ul. Jana Kilińskiego 37C, 44-200 Rybnik (dzielnica Smolna) Cena: 65 zł Zapisy: telefonicznie pod numerem 513 064 192 u Zuzanny Łapki. Prowadząca przekaże szczegóły dotyczące zapisów i płatności. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Uczestnicy przejdą przez praktyki oddechowe, delikatny ruch pomagający rozluźnić poszczególne partie ciała oraz wizualizacje wspierające skupienie na chwili obecnej. Spotkanie poprowadzi kojący głos Zuzanny, a towarzyszyć mu będą dźwięki instrumentów na żywo.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/relaksacja-z-automasazem-w-rybniku"
     },
     {
       "id": "dk-bog-10768-rock-voices-festival-2026-koncert-finalowy-z-wojtkiem-cugowskim",
@@ -550,6 +935,28 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/30-rybnicka-jesien-kabaretowa-ryjek-2026-koncert-finalowy-i-jubileuszowy-30-ryjka-telewizja-polsat.html"
     },
     {
+      "id": "iryb-miedzy-cieniem-a-swiatlem-wernisaz-w-rybniku",
+      "title": "Między cieniem a światłem: wernisaż w Rybniku",
+      "category": "Wystawa",
+      "start": "2026-11-23T17:00",
+      "end": null,
+      "venue": "Halo! Rybnik",
+      "description": "Kolory, abstrakcyjne formy i inspiracje naturą spotkają się na wystawie Patrycji Wawoczny w halo! Rybnik. Wernisaż „Między cieniem a światłem” będzie okazją, by spojrzeć na obrazy po swojemu i odnaleźć w nich własne skojarzenia. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Patrycja Wawoczny pochodzi z Rybnika i tworzy obrazy abstrakcyjne. Z malarstwem aktywnie związała się podczas Akademii Weekendowej w 2023 roku, uczestnicząc w zajęciach na Akademii Sztuk Pięknych w Katowicach. Inspirują ją natura, światło i nieustanna zmienność otoczenia. Wystawa zachęca do osobistego spotkania z obrazami: ich formy mogą przywoływać różne emocje i historie, zależnie od tego, kto na nie patrzy. Na gości wernisażu czeka także mała niespodzianka.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/miedzy-cieniem-a-swiatlem-wernisaz-w-rybniku"
+    },
+    {
+      "id": "iryb-sushi-warsztaty-kulinarne-w-rybniku",
+      "title": "SUSHI – warsztaty kulinarne w Rybniku",
+      "category": "Warsztaty",
+      "start": "2026-11-23T17:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Sushi to nie tylko ryż i ryba, ale też kilka technik, które można opanować samodzielnie. Podczas czterogodzinnych warsztatów w Studio kulinarnym AROMATY uczestnicy poznają podstawy przygotowywania japońskich rolek i spróbują swoich sił w kuchni pod okiem doświadczonego prowadzącego. Warsztaty zaplanowano na poniedziałek, 23 listopada 2026 roku, o godz. 17:00 . Spotkanie odbędzie się w Rybniku, przy ul. Rynek 2, na I piętrze , i potrwa około 4 godzin . Udział kosztuje 290 zł . Miejsce można zarezerwować przez Messenger lub e-mail: aromatyrybnik@Menu . Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/sushi-warsztaty-kulinarne-w-rybniku"
+    },
+    {
       "id": "bilnya-galeria-sztuki-rzeczna-202611241200",
       "title": "Galeria Sztuki Rzeczna",
       "category": "Wystawa",
@@ -561,6 +968,17 @@
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=716862#opis"
     },
     {
+      "id": "iryb-autoportret-portret-oprowadzanie-z-pola-dwurnik",
+      "title": "Autoportret, portret – oprowadzanie z Polą Dwurnik",
+      "category": "Impreza",
+      "start": "2026-11-24T18:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Jak patrzy córka na twórczość ojca, który przez lata portretował zwykłych ludzi i ich emocje? 24 listopada Pola Dwurnik poprowadzi autorsko-kuratorskie oprowadzanie po wystawie „Autoportret, portret” w Rybniku. Spotkanie będzie tłumaczone na polski język migowy. Kiedy: wtorek, 24 listopada 2026 r., godz. 18:00 Gdzie: Galeria Sztuki Rzeczna, Rzeczna 1, Rybnik Wstęp: w cenie biletu na wystawę. Bilety są dostępne w kasie galerii oraz online. Apolonia Dwurnik, Edward Dwurnik. Autoportret, portret – w Rybniku Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/autoportret-portret-oprowadzanie-z-pola-dwurnik"
+    },
+    {
       "id": "iryb-spotkanie-z-dr-edyta-korepta-o-ksiazce-czerwony-bruclik",
       "title": "Spotkanie z dr Edytą Koreptą o książce „Czerwony bruclik”",
       "category": "Impreza",
@@ -570,6 +988,17 @@
       "description": "Dr Edyta Korepta opowie o Pawle Łysku, jego twórczości i więzi z Beskidem Śląskim. Spotkanie w Rybniku będzie poświęcone książce „Czerwony bruclik. Pawła Łyska więź z ziemią ojców” i pamięci pisarza o rodzinnych stronach, którą zachował na emigracji. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Autorka przybliży postać Pawła Łyska i jego przywiązanie do Beskidu Śląskiego. Opowie o materiałach, które wykorzystała przy pisaniu książki, a także o siedemnastoletniej korespondencji Łyska z Florianem Śmieją. W rozmowie pojawi się również temat pamięci o rodzinnych stronach, którą pisarz pielęgnował podczas emigracji. Wydarzenie organizuje Archiwum Pamięci Rybniczanek i Rybniczan .",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/spotkanie-z-dr-edyta-korepta-o-ksiazce-czerwony-bruclik"
+    },
+    {
+      "id": "iryb-perfumy-botaniczne-warsztaty-w-rybniku",
+      "title": "Perfumy botaniczne – warsztaty w Rybniku",
+      "category": "Warsztaty",
+      "start": "2026-11-24T18:15",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Własny zapach skomponowany z naturalnych olejków eterycznych może być czymś więcej niż codziennym dodatkiem. Podczas warsztatów w Rybniku dorośli i młodzież poznają podstawy aromaterapii i stworzą perfumy dopasowane do swoich upodobań oraz intencji. Warsztaty odbędą się we wtorek, 24 listopada 2026 roku, w godz. 18:15–20:00 w Pracowni z Wyboru przy ul. Władysława Broniewskiego 23, 44-217 Rybnik . Udział kosztuje 150 zł od osoby . Cena obejmuje materiały potrzebne do stworzenia własnego zapachu. Dla dwóch osób z rodziny przygotowano promocyjną cenę 250 zł za parę . Rezerwację miejsca gwarantuje przedpłata w wysokości 50 zł. Zapisy przyjmowane są pod adresem [email protected] . W wiadomości należy podać imię i nazwisko, nazwę warsztatu, numer telefonu oraz adres e-mail. Pytania można kierować pod numer 503 070 813 .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/perfumy-botaniczne-warsztaty-w-rybniku"
     },
     {
       "id": "bilnya-galeria-sztuki-rzeczna-202611250900",
@@ -605,6 +1034,17 @@
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717366#opis"
     },
     {
+      "id": "iryb-straszki-slaskie-iii-w-kopalni-ignacy",
+      "title": "Straszki Śląskie III w Kopalni Ignacy",
+      "category": "Impreza",
+      "start": "2026-11-26T15:30",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Andrzejkowy czas w Kopalni Ignacy upłynie pod znakiem śląskich legend, zabaw i spotkań z Bebokiem, Skarbnikiem czy Utopkiem. Straszki Śląskie III to propozycja dla dzieci i rodziców, którzy mają ochotę na popołudnie pełne dreszczyku i dobrych emocji. Kiedy: 26 listopada 2026 roku (czwartek), wejścia o godz. 15:30, 16:30 i 17:30. Wydarzenie potrwa do godz. 18:30. Gdzie: Kopalnia Ignacy, ul. Ignacego Mościckiego 3, 44-273 Rybnik. Bilety: 10 zł za dziecko, rodzic wchodzi bezpłatnie. Wejściówki będą dostępne online oraz w kasie kopalni. Liczba miejsc na każde wejście jest ograniczona. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Na uczestników czekają gry, animacje i tematyczne stanowiska, przy których będzie można poznawać śląską gwarę i dawne domostwo, zajrzeć do Heksy po wróżbę czy odwiedzić ucztę u Czarnego Kota. Pojawią się też postaci ze śląskiej mitologii: Południca, Meluzyna, Utopek, Skarbnik i Bebok. O Nadszybie szybu Głowacki zadbają strażacy z OSP Niewiadom, którzy również przygotują trochę straszenia. Na każdego uczestnika będzie czekał poczęstunek.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/straszki-slaskie-iii-w-kopalni-ignacy"
+    },
+    {
       "id": "iryb-historia-jazzu-ilustrowana-muzyka-na-zywo",
       "title": "Historia jazzu ilustrowana muzyką na żywo",
       "category": "Impreza",
@@ -638,6 +1078,17 @@
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717367#opis"
     },
     {
+      "id": "iryb-gnocchi-warsztaty-kulinarne-w-rybniku",
+      "title": "Gnocchi – warsztaty kulinarne w Rybniku",
+      "category": "Warsztaty",
+      "start": "2026-11-27T17:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "W Rybniku będzie można poznać włoskie kluski w kilku odsłonach — od klasycznych ziemniaczanych po wersję z burakiem i czekoladowy deser. Warsztaty w studiu kulinarnym AROMATY poprowadzi Nico Palladini, który pokaże techniki kuchni włoskiej i podzieli się ciekawostkami o jej regionalnych smakach. Piątek, 27 listopada 2026 roku, godz. 17:00–21:00 Miejsce: Rynek 2, I piętro, Rybnik Czas trwania: 4 godziny Cena: 290 zł Rezerwacja miejsca: przez Messenger lub e-mail: [email protected] TOSCANA – POD SŁOŃCEM TOSKANII – Rybnik 2026 Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/gnocchi-warsztaty-kulinarne-w-rybniku"
+    },
+    {
       "id": "iryb-noc-horrorow-polaczona-z-wernisazem-wystawy-lalek-horrordoll",
       "title": "Noc horrorów połączona z wernisażem wystawy lalek „Horrordolls”",
       "category": "Wystawa",
@@ -660,6 +1111,28 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/o-sztuce-na-powaznie-przemyslaw-straczek/"
     },
     {
+      "id": "iryb-sw-franciszek-nie-odkryty-rekolekcje-adwentowe-w-rybniku",
+      "title": "Św. Franciszek (nie)odkryty – rekolekcje adwentowe w Rybniku",
+      "category": "Warsztaty",
+      "start": "2026-11-27T19:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Adwentowe rekolekcje „Św. Franciszek (nie)odkryty” będą okazją do wspólnej modlitwy i wysłuchania konferencji brata Kryspina OFM. Spotkania są otwarte dla wszystkich — nie trzeba być studentem, by wziąć w nich udział. 27–29 listopada 2026 r. Kościół Matki Bożej Bolesnej w Rybniku Wstęp wolny. Rekolekcje wyjątkowo odbędą się w kościele, a nie w parku przy ul. Cegielnianej — powodem jest remont. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/sw-franciszek-nie-odkryty-rekolekcje-adwentowe-w-rybniku"
+    },
+    {
+      "id": "iryb-endriu-polski-balagan-impreza-w-rybniku",
+      "title": "ENDRIU | Polski Bałagan – impreza w Rybniku",
+      "category": "Impreza",
+      "start": "2026-11-27T21:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Znane przeboje w remiksach, klubowa energia i set ENDriu — tak zapowiada się „Polski Bałagan” w Face 2 Face. Impreza jest dla osób od 16. roku życia, a start zaplanowano na wieczór. Zapisz datę, jeśli masz ochotę na muzyczną noc w Rybniku. Wydarzenie odbędzie się w piątek 27 listopada 2026 roku o godz. 21:00 w klubie Face 2 Face przy ul. Wiejskiej 1A, 44-200 Rybnik . Wstęp kosztuje 30 zł , a impreza jest przeznaczona dla osób powyżej 16. roku życia . Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Za muzyczną część wieczoru odpowiada ENDriu — DJ i remikser, który przygotowuje własne wersje znanych utworów. Wśród zapowiedzianych nagrań są m.in. „L’Italiano 2020”, „Zorba (Sirtaki)” oraz remiksy „One Two Three” i „Ti Amo”. W sali Exclusive zagra Markus.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/endriu-polski-balagan-impreza-w-rybniku"
+    },
+    {
       "id": "iryb-bestfit-games-rx-scaled-2026-w-rybniku",
       "title": "BESTFIT GAMES RX & SCALED 2026 w Rybniku",
       "category": "Sport",
@@ -671,15 +1144,15 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/bestfit-games-rx-scaled-2026-w-rybniku"
     },
     {
-      "id": "tzr-adwentowe-wianki",
-      "title": "Adwentowe wianki",
-      "category": "Warsztaty",
+      "id": "iryb-adwentowe-wianki-w-rybniku",
+      "title": "Adwentowe wianki w Rybniku",
+      "category": "Impreza",
       "start": "2026-11-28T09:00",
       "end": "2026-11-28T13:30",
       "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Teatr Ziemi Rybnickiej, Plac Teatralny im. K. Kutza 1,",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/adwentowe-wianki.html"
+      "description": "Własnoręcznie wykonany wieniec z kory, szyszek i orzechów może stać się wyjątkową ozdobą domu na święta. Warsztaty „Adwentowe wianki” w Teatrze Ziemi Rybnickiej połączą twórczą pracę z kawą i pomogą poczuć atmosferę nadchodzącego Adwentu. Warsztaty odbędą się w sobotę 28 listopada 2026 roku o godz. 9:00 w pracowni plastycznej Teatru Ziemi Rybnickiej przy Placu Teatralnym im. Kazimierza Kutza 1 w Rybniku . Bilet kosztuje 70 zł . Miejsca są ograniczone, a udział wymaga wcześniejszej rezerwacji. Zapisy przyjmowane są do 23 listopada 2026 roku w pracowni reklamy TZR: telefonicznie pod numerem 32 42 23 246 lub mailowo: [email protected] . O udziale decyduje kolejność zgłoszeń. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/adwentowe-wianki-w-rybniku"
     },
     {
       "id": "bilnya-warsztaty-artystyczne-przy-kawie-202611280900",
@@ -702,6 +1175,17 @@
       "description": null,
       "sourceName": "biletyna.pl",
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717369#opis"
+    },
+    {
+      "id": "iryb-pokemon-league-cup-w-rybniku-turniej-karciany",
+      "title": "Pokémon League Cup w Rybniku: turniej karciany",
+      "category": "Sport",
+      "start": "2026-11-28T11:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "W Jaskini Trolla spotkają się gracze Pokémon TCG, by zmierzyć się w turnieju rozgrywanym w systemie szwajcarskim i fazie pucharowej. Zabierz talię, przygotuj jej papierową listę i dołącz do rywalizacji! Sobota, 28 listopada 2026 roku, od godz. 11:00 Miejsce: Jaskinia Trolla Sklep Hobbystyczny, Rybnik Otwarcie i zapisy rozpoczną się o godz. 10:30. Liczba miejsc jest ograniczona do 24 . Cena wejściówki i informacje o biletach zostaną podane wkrótce. Zakup biletu ma zagwarantować miejsce. Opłaty za wejściówki zostaną przeznaczone na nagrody, których pula będzie zależeć od liczby uczestników. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/pokemon-league-cup-w-rybniku-turniej-karciany"
     },
     {
       "id": "bilnya-rodzinne-soboty-w-rzecznej-202611281130",
@@ -748,6 +1232,28 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/andrzejkowa-dyskoteka-w-olimpiirybnik"
     },
     {
+      "id": "iryb-pendofsky-jazz-rybnik-jazz-na-zywo",
+      "title": "PENDOFSKY JAZZ RYBNIK – jazz na żywo",
+      "category": "Impreza",
+      "start": "2026-11-28T20:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Rybnik zabrzmi jazzem, funkiem i afrobeatem. Na scenie wystąpi Marcin Pendowski – ceniony basista i kompozytor, który z zespołem Pendofsky łączy te gatunki w energetyczną, autorską muzykę. 28 listopada 2026 (sobota), godz. 20:00 Raciborska 9a, Rybnik Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Pendowski ma na koncie trzy autorskie albumy. Debiutancki „Pendofsky” zdobył Mateusza Trójki w kategorii Najlepszy Debiut Jazzowy w 2015 roku. Na płycie „Gumolit” z 2020 roku gościnnie pojawili się Tomek Organek i Rey Ceballo, pianista związany z Buena Vista Social Club.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/pendofsky-jazz-rybnik-jazz-na-zywo"
+    },
+    {
+      "id": "iryb-noc-andrzejki-w-noc-sobotnia-noc",
+      "title": "NOC: Andrzejki w NOC – sobotnia noc",
+      "category": "Impreza",
+      "start": "2026-11-28T21:45",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Andrzejkowa noc w centrum Rybnika zapowiada się tanecznie: klub NOC szykuje imprezę dla osób pełnoletnich, a resztę planów można zostawić na parkiecie. Kiedy: 28 listopada 2026 r. (sobota), godz. 21:45 – 29 listopada, godz. 4:00 Gdzie: NOC, ul. Kościelna 6, Rybnik Wstęp: 30 zł Wiek: 18+ To propozycja dla tych, którzy chcą spędzić sobotni wieczór przy muzyce i w imprezowej atmosferze. W klubie obowiązuje selekcja, a dress code zakłada odpowiedni strój, kulturę osobistą i pozytywne nastawienie. Wejście w dresach jest zabronione, a korzystanie z szatni – obowiązkowe. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/noc-andrzejki-w-noc-sobotnia-noc"
+    },
+    {
       "id": "bilnya-galeria-sztuki-rzeczna-202611291100",
       "title": "Galeria Sztuki Rzeczna",
       "category": "Wystawa",
@@ -759,15 +1265,37 @@
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717372#opis"
     },
     {
-      "id": "tzr-matka-spektakl-teatru-na-pol-na-podstawie-dramatu-witkacego",
-      "title": "Matka. Spektakl Teatru Na Pół na podstawie dramatu Witkacego",
+      "id": "iryb-cos-z-niczego-niespodzianki-mikolajkowe-warsztaty-w-rybniku",
+      "title": "Coś z niczego. Niespodzianki mikołajkowe – warsztaty w Rybniku",
+      "category": "Warsztaty",
+      "start": "2026-11-29T15:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Mikołajki to świetna okazja, by podarować komuś drobiazg wykonany własnoręcznie. Podczas kreatywnych warsztatów z Czesławą Brańską w Rybniku powstaną małe upominki pełne wyobraźni i świątecznego ciepła. Warto dołączyć i przygotować niespodziankę dla bliskiej osoby. 29 listopada 2026 roku (niedziela), godz. 15:00–18:00 Sobieskiego 20, Rybnik Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Warsztaty poprowadzi Czesława Brańska. Uczestnicy przygotują własne drobne prezenty mikołajkowe — takie, w których liczą się pomysł, kreatywność i gest od serca. To propozycja dla osób, które lubią tworzyć i chcą poczuć przedświąteczną atmosferę",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/cos-z-niczego-niespodzianki-mikolajkowe-warsztaty-w-rybniku"
+    },
+    {
+      "id": "iryb-andrzejki-z-kuchnia-japonska-warsztaty-w-rybniku",
+      "title": "Andrzejki z kuchnią japońską: warsztaty w Rybniku",
+      "category": "Impreza",
+      "start": "2026-11-29T17:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Andrzejkowy wieczór w japońskim stylu? Studio kulinarne AROMATY przygotowało czterogodzinne warsztaty, podczas których uczestnicy poznają nowe smaki i wspólnie przyrządzą cztery dania — od rozgrzewającej zupy miso po deser inspirowany ciastkami Oreo. Warsztaty odbędą się 29 listopada 2026 roku (niedziela) o godz. 17:00 w studiu kulinarnym AROMATY przy ul. Rynek 2, na pierwszym piętrze w Rybniku . Zajęcia potrwają około 4 godzin, a udział kosztuje 290 zł . Miejsce można zarezerwować przez Messenger lub e-mail: [email protected] . Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Uczestnicy przygotują dania, które pokazują różne oblicza japońskiej kuchni:",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/andrzejki-z-kuchnia-japonska-warsztaty-w-rybniku"
+    },
+    {
+      "id": "iryb-matka-spektakl-teatru-na-pol-w-rybniku",
+      "title": "MATKA. – spektakl Teatru Na Pół w Rybniku",
       "category": "Spektakl",
       "start": "2026-11-29T18:00",
       "end": "2026-11-30T09:00",
       "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Czy można kochać swoje dziecko za bardzo? Nasza ,,Matka\" łączy to co absurdalne, z tym co dotkliwe; zadaje pytanie o granice wsparcia i troski. Zapraszamy na oniryczną podróż w głąb obaw i lęków matki Węgorzewskiej. Śmiejcie się i płaczcie razem z Nią.",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/matka-spektakl-teatru-na-pol-na-podstawie-dramatu-witkacego.html"
+      "description": "W listopadzie Teatr Na Pół pokaże w Rybniku spektakl „Matka” na podstawie dramatu Stanisława Ignacego Witkiewicza. To oniryczna opowieść o lękach matki Węgorzewskiej, w której absurd spotyka się z dotkliwymi pytaniami o miłość, troskę i granice wsparcia. Miejsca dla widzów zostaną przygotowane na scenie. Spektakl łączy elementy absurdu z emocjonalną opowieścią o relacji matki i dziecka. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Na scenie wystąpią aktorki i aktorzy Teatru Na Pół. Reżyserię i ruch sceniczny przygotowali Patrycja Paczos oraz Mateusz Zbigniew Suchan. Za muzykę, światło i multimedia odpowiada Piotr Tkocz, a kostiumy zaprojektowała Paulina Da-Via. Plakat stworzyła Hanna Szulik.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/matka-spektakl-teatru-na-pol-w-rybniku"
     },
     {
       "id": "bilnya-matka-spektakl-mlodziezowego-teatru-na-pol-202611300900",
@@ -792,6 +1320,17 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/labirynt-fauna.html"
     },
     {
+      "id": "iryb-przemytnicy-zloto-i-wyprawa",
+      "title": "PRZEMYTNICY: złoto i wyprawa",
+      "category": "Impreza",
+      "start": "2026-11-30T19:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Ukochana córka, niebezpieczny przemyt i bezkresne tereny Oregonu — „PRZEMYTNICY” to przygodowy film o człowieku, który musi zdecydować, jak daleko posunie się, by odzyskać to, co dla niego najważniejsze. Seans potrwa 112 minut. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Doświadczony weteran wojenny Samuel Murphy po stracie córki dostaje szansę, by ją odzyskać. Ceną jest udział w niebezpiecznym przemycie złota, do którego wciąga go przebiegły i bezwzględny Clancy. Wyprawa przez Oregon szybko zamienia się w grę, w której chciwość nie zna granic, a Murphy musi wybrać, jak wiele jest gotów poświęcić. Film wyreżyserował Padraic McKinley. W obsadzie znaleźli się Ethan Hawke, Russell Crowe, Julia Jones, Austin Amelio i Avi Nash. „PRZEMYTNICY” to produkcja Kanady, Niemiec i USA z 2026 roku.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/przemytnicy-zloto-i-wyprawa"
+    },
+    {
       "id": "tzr-przemytnicy",
       "title": "Przemytnicy",
       "category": "Film",
@@ -812,6 +1351,17 @@
       "description": "Grudniowe centrum Rybnika wypełnią świąteczne jarmarki, rodzinne atrakcje i muzyka lokalnych wykonawców. Wydarzeniom towarzyszyć będzie Festiwal Grzańca, a na fasadzie bazyliki św. Antoniego zaplanowano mapping. Wydarzenie rozpocznie się 4 grudnia 2026 roku w centrum Rybnika. Obejmie rynek, rejon bazyliki św. Antoniego, deptak i przyległe ulice. W przekazanych informacjach nie podano godziny rozpoczęcia. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . W programie znajdą się stoiska z rękodziełem i regionalnymi produktami, a także atrakcje dla rodzin. Na wydarzeniu wystąpią lokalni muzycy. Jednym z punktów będzie mapping wyświetlany na fasadzie bazyliki św. Antoniego.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/rybnik-w-swiatecznym-klimacie"
+    },
+    {
+      "id": "iryb-dzien-gornika-barborka-w-zabytkowej-kopalni-ignacy-program",
+      "title": "Dzień Górnika – Barbórka w Zabytkowej Kopalni Ignacy: program",
+      "category": "Impreza",
+      "start": "2026-12-04T07:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Barbórka w Zabytkowej Kopalni Ignacy połączy górnicze tradycje z muzyką, śląskimi pieśniami i wspólnym świętowaniem. Choć w Ignacym nie wydobywa się już węgla, 4 grudnia zabrzmi orkiestra, odbędzie się uroczysta msza, a popołudnie wypełnią występy artystyczne. Data: 4 grudnia 2026 roku (piątek), godz. 7:00–19:00 Miejsce: Zabytkowa Kopalnia Ignacy, ul. Ignacego Mościckiego 3, 44-273 Rybnik Wstęp: wolny Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . W programie znalazły się zarówno tradycyjne elementy Barbórki, jak i popołudniowe występy muzyczne. Zaproszeni są górnicy, ich rodziny, sąsiedzi i wszyscy mieszkańcy. Szczęść Boże!",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/dzien-gornika-barborka-w-zabytkowej-kopalni-ignacy-program"
     },
     {
       "id": "dk-chw-koncert-koledowy-studia-wokalnego-20261204",
@@ -836,6 +1386,17 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/selfie-czyli-milosc-na-pstryk.html"
     },
     {
+      "id": "iryb-riftbound-tcg-summoner-skirmish-radiance-i-w-rybniku",
+      "title": "Riftbound TCG Summoner Skirmish Radiance I w Rybniku",
+      "category": "Impreza",
+      "start": "2026-12-05T12:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Rybnik szykuje turniej Riftbound TCG dla graczy, którzy chcą sprawdzić swoje talie w rywalizacji i powalczyć o wyjątkowe nagrody. Summoner Skirmish Radiance I odbędzie się w formule BO3, a na uczestników czekają m.in. promki i nagrody dla najlepszych. Kiedy: 5 grudnia 2026 r. (sobota), godz. 12:00 Gdzie: ul. Tadeusza Kościuszki 44, 44-200 Rybnik Wejściówka: 45 zł Bilety: dostępne w sklepie internetowym Jaskini Trolla. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Rozgrywki będą prowadzone w formacie BO3 , czyli do dwóch wygranych gier, a każda runda potrwa 60 minut. Do udziału potrzebne są obowiązkowa lista talii oraz konto Riot i Riftbound.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/riftbound-tcg-summoner-skirmish-radiance-i-w-rybniku"
+    },
+    {
       "id": "dk-bog-11155-glina-w-dobrym-smaku-swiateczne-warsztaty-ceramiczne-dla-dorosly",
       "title": "Glina w dobrym smaku - świąteczne warsztaty ceramiczne dla dorosłych",
       "category": "Warsztaty",
@@ -858,15 +1419,15 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/koncert-zespolu-universe.html"
     },
     {
-      "id": "bilnya-universe-202612051800",
-      "title": "Universe",
-      "category": "Koncert",
-      "start": "2026-12-05T18:00",
-      "end": "2026-12-05T19:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🔥Universe! Dołącz do nas, aby wspólnie świętować magię muzyki i tworzyć niezapomniane wspomnienia. Zakup bilet i przygotuj się na niezapomnianą podróż muzyczną podczas koncertu zespołu Universe ‼️🎶.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Universe?eid=697526#opis"
+      "id": "iryb-dragon-horrorscope-catharsis-hellkat-w-rybniku",
+      "title": "DRAGON + Horrorscope + Catharsis + Hellkat w Rybniku",
+      "category": "Impreza",
+      "start": "2026-12-05T19:00",
+      "end": null,
+      "venue": "Klub Odyseja",
+      "description": "Po ponad 30 latach DRAGON wraca do Rybnika — miasta ważnego w historii zespołu. Koncert w Klubie Odyseja będzie też okazją do wspomnienia Grzegorza „Demona” Mroczka, związanego z Rybnikiem wieloletniego przyjaciela muzyków, który zmarł w tym roku. Na scenie pojawią się także Horrorscope, Catharsis i Hellkat. To wieczór dla fanów mocnego grania, który warto wpisać do kalendarza. Koncert odbędzie się 5 grudnia 2026 roku (sobota) o godz. 19:00 w Klubie Odyseja w Rybniku . Bilety kosztują 80 zł plus opłata serwisowa lub 100 zł i są dostępne w serwisie Stage24. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . DRAGON działa od 1984 roku i ma na koncie ważne dla polskiej sceny metalowej albumy, w tym „Horda Goga”, „Scream of Death” oraz „Fallen Angel”. Zespół przygotuje wyjątkowy set, którym chce upamiętnić Grzegorza „Demona” Mroczka. Z Rybnikiem związany był również Adrian „Fred” Frelich.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/dragon-horrorscope-catharsis-hellkat-w-rybniku"
     },
     {
       "id": "dk-chw-mikolajki-20261206",
@@ -878,17 +1439,6 @@
       "description": "Ho, ho, ho! Mikołaj już szykuje sanie i wkrótce zawita do Chwałowic. Zapraszamy wszystkie dzieci wraz z rodzicami na wyjątkowe popołudnie pełne magii, niespodzianek i świątecznej atmosfery! 6 grudnia 2026 r. (niedziela) w Domu Kultury w Rybniku-Chwałowicach.",
       "sourceName": "DK Chwałowice",
       "sourceUrl": "https://www.dkchwalowice.pl/?news=52473"
-    },
-    {
-      "id": "bilnya-mikolaj-w-domu-kultury-niedobczyce-202612060900",
-      "title": "Mikołaj w Domu Kultury Niedobczyce",
-      "category": "DlaDzieci",
-      "start": "2026-12-06T09:00",
-      "end": "2026-12-06T11:00",
-      "venue": "Dom Kultury Niedobczyce, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/Mikolaj-w-Domu-Kultury-Niedobczyce-w-Rybniku?eid=716120#opis"
     },
     {
       "id": "dk-bog-11161-spotkanie-z-mikolajem-trzy-godziny-do-wyboru-10-00-12-00-15-00",
@@ -913,6 +1463,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/22-bieg-barborkowy-w-rybniku-uliczny-start-na-10-km-juz-6-grudnia"
     },
     {
+      "id": "iryb-zagroda-sw-mikolaja-w-rybniku",
+      "title": "Zagroda Św. Mikołaja w Rybniku",
+      "category": "Impreza",
+      "start": "2026-12-06T12:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "W tym roku Mikołaj rozgości się wśród zabytkowych budynków Kopalni Ignacy. 6 grudnia na terenie kopalni pojawią się elfy, renifery Rufus i Olaf oraz świąteczna zagroda, w której będzie można spotkać samego Mikołaja. Kiedy: 6 grudnia 2026 r. (niedziela), godz. 12:00–18:00 Gdzie: teren zewnętrzny Zabytkowej Kopalni Ignacy, ul. Ignacego Mościckiego 3, 44-273 Rybnik Wstęp: wolny Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Mikołaj zaparkuje sanie między zabytkowymi budynkami kopalni, a elfy pomogą mu przygotować zagrodę. Na miejscu zamieszkają też renifery Rufus i Olaf — będą miały legowisko i paśnik z sianem.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/zagroda-sw-mikolaja-w-rybniku"
+    },
+    {
       "id": "tzr-pani-domu-jest-tylko-jedna",
       "title": "Pani domu jest tylko jedna",
       "category": "Spektakl",
@@ -924,15 +1485,15 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/pani-domu-jest-tylko-jedna.html"
     },
     {
-      "id": "bilnya-mikolajki-w-chwalowicach-2026-202612061730",
-      "title": "Mikołajki w Chwałowicach 2026",
-      "category": "DlaDzieci",
-      "start": "2026-12-06T17:30",
-      "end": "2026-12-06T19:00",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Mikolajki-w-Chwalowicach-2026?eid=715412#opis"
+      "id": "iryb-mikolajki-w-cafe-kuznia-spotkanie-z-mikolajem",
+      "title": "Mikołajki w Cafe Kuźnia: spotkanie z Mikołajem",
+      "category": "Impreza",
+      "start": "2026-12-06T17:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Święty Mikołaj odwiedzi Cafe Kuźnia w Rybniku, gdzie szykuje się rodzinne popołudnie ze świąteczną atmosferą, słodkościami i upominkami dla dzieci. To pomysł na wspólny, grudniowy czas z bliskimi 6 grudnia 2026 r. (niedziela), godz. 17:00 Cafe Kuźnia, ul. Wolna 130, Rybnik Wstęp: 30 zł od dziecka. Rezerwacje: 575 584 547. Zgłoszenia przyjmowane są do 30 listopada, a liczba miejsc jest ograniczona. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Podczas mikołajkowego spotkania dzieci będą mogły odebrać prezenty z rąk Świętego Mikołaja. Rodzice mogą wcześniej dostarczyć do kawiarni podpisane upominki, które gość z Laponii wręczy podczas wydarzenia",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/mikolajki-w-cafe-kuznia-spotkanie-z-mikolajem"
     },
     {
       "id": "iryb-mikolajki-pokaz-iluzjonistyczny-sebko-elf-i-spotkanie-z-miko",
@@ -968,15 +1529,15 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/tu-kino-swiat-chiary-seans-dla-szkol-podstawowych/"
     },
     {
-      "id": "bilnya-lukasz-kaczmarczyk-stand-up-przerwa-techniczna-202612101900",
-      "title": "Łukasz Kaczmarczyk stand-up - Przerwa techniczna",
-      "category": "Kabaret",
+      "id": "iryb-koncert-terapeutyczny-w-rybniku",
+      "title": "Koncert Terapeutyczny w Rybniku",
+      "category": "Koncert",
       "start": "2026-12-10T19:00",
-      "end": "2026-12-10T21:00",
-      "venue": "Klub Odyseja, Raciborska 9",
-      "description": "😂🎤 Łukasz Kaczmarczyk z Kabaretu Młodych Panów zaprasza na \"Przerwę Techniczną\" – nowy stand-up pełen błyskotliwego humoru i życiowych obserwacji! Absurd codzienności w najlepszym wydaniu. Nie przegap tej dawki śmiechu! 🎟️🤣.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/stand-up/Lukasz-Kaczmarczyk?eid=696696#opis"
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Wieczór z kamertonami, misami kryształowymi, głosem i handpanem może być okazją, by na chwilę zwolnić i skupić się na dźwiękach. Koncert Terapeutyczny odbędzie się 10 grudnia w Uzdrowisku Rybnik — sprawdź, czy to forma relaksu dla Ciebie. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Podczas koncertu Aleksander Czekański, terapeuta pracujący z częstotliwościami i pasjonat dźwięków oraz rytmów, wykorzysta kamertony, własny głos, misy kryształowe i handpan. Poszczególne sekwencje spotkania są starannie przemyślane, a dźwiękowa sesja może być sposobem na odpoczynek i uważniejsze wsłuchanie się w siebie. Prowadzący opisuje pracę z uzdrawiającymi częstotliwościami jako swoją dwunastoletnią praktykę i uzupełnienie konwencjonalnego leczenia. Doświadczenia uczestników mogą być różne — koncert nie zastępuje opieki medycznej.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/koncert-terapeutyczny-w-rybniku"
     },
     {
       "id": "iryb-inertia-over-rybnik-ironbound-kingsphere-i-m2r1-w-klubie-ody",
@@ -990,6 +1551,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/inertia-over-rybnik-ironbound-kingsphere-i-m2r1-w-klubie-odyseja"
     },
     {
+      "id": "iryb-perkusista-w-rybniku-premiera-stand-upu",
+      "title": "Perkusista w Rybniku: premiera stand-upu",
+      "category": "Kabaret",
+      "start": "2026-12-11T18:30",
+      "end": null,
+      "venue": "Klub Odyseja",
+      "description": "Łukasz Kowalski przyjeżdża do Rybnika z premierą nowego programu „Perkusista”. Wieczór stand-upowy zaplanowano w Klubie Odyseja, a wstęp jest przeznaczony dla osób od 16. roku życia. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . „Perkusista” to nowy program Łukasza Kowalskiego, prezentowany podczas premierowego wieczoru w Rybniku. To propozycja dla osób, które mają ochotę spędzić wieczór przy stand-upie i poznać premierowy materiał komika. Wydarzenie jest dla osób od 16 lat. Podczas występu nie wolno nagrywać dźwięku ani obrazu. Osoby zakłócające wydarzenie mogą zostać wyproszone bez zwrotu pieniędzy za bilet.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/perkusista-w-rybniku-premiera-stand-upu"
+    },
+    {
       "id": "dk-bog-11179-ceramiczne-pierniki-rodzinne-warsztaty-swiateczne",
       "title": "Ceramiczne pierniki - rodzinne warsztaty świąteczne",
       "category": "Warsztaty",
@@ -1001,22 +1573,22 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/ceramiczne-pierniki-rodzinne-warsztaty-swiateczne/"
     },
     {
-      "id": "bilnya-rubinowe-gody-202612121700",
+      "id": "tzr-rubinowe-gody",
       "title": "Rubinowe Gody",
       "category": "Spektakl",
       "start": "2026-12-12T17:00",
-      "end": "2026-12-12T18:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎭💍 \"Rubinowe Gody\" – komedia o małżeństwie, które na 40. rocznicę ślubu wplątuje się w intrygę na szczytach władzy! 🔥 Tajemnice, polityka i miłość w najlepszym wydaniu. Nie przegap tej ekscytującej historii! 🎟️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Rubinowe-Gody?eid=716105#opis"
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "\"Rubinowe Gody\" – komedia o małżeństwie, które na 40. rocznicę ślubu wplątuje się w intrygę na szczytach władzy! Tajemnice, polityka i miłość w najlepszym wydaniu. Nie przegap tej ekscytującej historii!",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/rubinowe-gody.html"
     },
     {
       "id": "iryb-spektakl-wilijo-na-poziomie-650",
       "title": "Spektakl „Wilijo na poziomie 650”",
       "category": "Spektakl",
       "start": "2026-12-12T18:00",
-      "end": "2026-12-12T19:30",
+      "end": null,
       "venue": "Dom Kultury Rybnik-Chwałowice",
       "description": "O wydarzeniach historycznych można opowiadać przez pryzmat ludzi, których dotknęły. Spektakl „Wilijo na poziomie 650” przybliży strajk podziemny w KWK Piast w grudniu 1981 roku oraz jego konsekwencje dla górników i ich rodzin. Przedstawienie zostanie wystawione w sobotę 12 grudnia 2026 roku o godz. 18:00 w Domu Kultury w Rybniku-Chwałowicach przy ul. 1 Maja 91b. Bilety kosztują 45 zł , a z Rybką 36 zł . Można je kupić w kasie domu kultury oraz w sprzedaży internetowej. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
       "sourceName": "iRybnik",
@@ -1034,11 +1606,22 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/the-analogs-rybnik-koncert"
     },
     {
+      "id": "iryb-kalwi-remi-electro-club-hits-w-rybniku",
+      "title": "Kalwi & REMI | ELECTRO CLUB HITS w Rybniku",
+      "category": "Impreza",
+      "start": "2026-12-12T21:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Kalwi & REMI, twórcy klubowego hitu „Explosion”, wystąpią w Rybniku z setem pełnym electro i tanecznych przebojów. Szykuje się sobotni wieczór z muzyką, którą wielu zna z parkietów i milionów odtworzeń — warto wpisać to wydarzenie w weekendowe plany. Wydarzenie odbędzie się 12 grudnia 2026 roku (sobota) o godz. 21:00 w klubie Face 2 Face przy ul. Wiejskiej 1A w Rybniku . Wstęp kosztuje 40 zł , a wydarzenie jest przeznaczone dla osób od 18. roku życia. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Kalwi & REMI kojarzeni są z utworami „Explosion”, „You and I”, „Girls”, „Imagination” i „Unbreakable”. W Face 2 Face czekają trzy poziomy klubu, strefa chillout oraz przestrzenie otwierane zależnie od wydarzenia.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/kalwi-remi-electro-club-hits-w-rybniku"
+    },
+    {
       "id": "iryb-osiecka-krolowa-piosenki-koncert-w-rybniku",
       "title": "Osiecka Królową Piosenki: koncert w Rybniku",
       "category": "Koncert",
       "start": "2026-12-13T18:07",
-      "end": "2026-12-13T20:07",
+      "end": null,
       "venue": "Klub Odyseja",
       "description": "Piosenki Agnieszki Osieckiej zabrzmią w kameralnej odsłonie w Klubie Odyseja w Rybniku. W programie znajdą się utwory znane z interpretacji m.in. Maryli Rodowicz, Marka Grechuty, Edyty Geppert i Skaldów. Data: 13 grudnia 2026 roku (niedziela), godz. 18:07 Miejsce: Klub Odyseja, Rybnik Bilety: dostępne w serwisach KupBilecik, Biletyna i Biletomat. Ceny nie podano. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Podczas koncertu zabrzmią utwory, które przed laty wykonywali m.in. Edmund Fetting, Krystyna Janda, Łucja Prus i Seweryn Krajewski. To muzyczna podróż przez piosenki pełne charakterystycznych tekstów i melodii, które na stałe zapisały się w polskiej kulturze.",
       "sourceName": "iRybnik",
@@ -1056,15 +1639,15 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/4-rybnickie-forum-naukowe-bitwa-o-umysly-wojna-kognitywna-w-xxi-wieku"
     },
     {
-      "id": "bilnya-zdolni-i-skromni-testy-nowych-skeczy-202612161800",
-      "title": "Zdolni i Skromni - Testy nowych skeczy",
-      "category": "Kabaret",
+      "id": "iryb-zdolni-i-skromni-nowe-skecze-w-chwalowicach",
+      "title": "Zdolni i Skromni: nowe skecze w Chwałowicach",
+      "category": "Impreza",
       "start": "2026-12-16T18:00",
-      "end": "2026-12-16T19:30",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Zdolni-i-skromni/Testy-nowych-skeczy?eid=714508#opis"
+      "end": null,
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "Zdolni i Skromni przyjadą do Rybniku-Chwałowic, by sprawdzić premierowe skecze przed publicznością. To część przygotowań do dużego projektu telewizyjnego, więc można się spodziewać świeżych pomysłów, muzyki i sporej dawki scenicznego chaosu. 16 grudnia 2026 roku (środa), godz. 18:00 Dom Kultury w Rybniku-Chwałowicach Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Zanim kabaret zaprezentuje swój duży projekt telewizyjny, jego członkowie spędzą kilka dni w górskim domku, pracując nad nowym materiałem. Potem przyjdzie pora na sprawdzian przed żywą widownią — to już trzecie takie testy w tym roku.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/zdolni-i-skromni-nowe-skecze-w-chwalowicach"
     },
     {
       "id": "dk-bog-11145-ogolnopolski-konkurs-plastyczny-moj-przyjaciel-wyobraznia",
@@ -1078,15 +1661,48 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/ogolnopolski-konkurs-plastyczny-moj-przyjaciel-wyobraznia/"
     },
     {
-      "id": "tzr-krolewna-sniezka-i-siedmiu-rybnickich-krasnoludkow-122026",
-      "title": "Królewna Śnieżka i siedmiu rybnickich krasnoludków",
+      "id": "iryb-ustawienia-systemowe-praca-grupowa-w-rybniku",
+      "title": "Ustawienia systemowe – praca grupowa w Rybniku",
+      "category": "Impreza",
+      "start": "2026-12-18T17:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "W Rybniku odbędą się dwudniowe ustawienia systemowe poświęcone relacjom rodzinnym oraz sytuacjom zawodowym. To forma pracy w grupie, która może pomóc przyjrzeć się powtarzającym się schematom i emocjonalnym uwikłaniom. 18 grudnia 2026 r. (piątek), godz. 17:00 – 19 grudnia 2026 r. (sobota), godz. 17:00 Miejsce: ul. Św. Antoniego 10, 44-200 Rybnik Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Pełna nazwa wydarzenia to Ustawienia systemowe rodzin, firm i organizacji . Praca grupowa koncentruje się na tym, jak rodzinne doświadczenia, przekonania i lojalności mogą wpływać na obecne życie. Uczestnicy przyglądają się powtarzającym się wzorcom, uznają ich znaczenie i szukają sposobu, by nie przenosić dawnych obciążeń na własną codzienność.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/ustawienia-systemowe-praca-grupowa-w-rybniku"
+    },
+    {
+      "id": "iryb-krolewna-sniezka-i-siedmiu-rybnickich-krasnoludkow-wraca-na",
+      "title": "Królewna Śnieżka i siedmiu rybnickich krasnoludków wraca na scenę",
       "category": "Spektakl",
       "start": "2026-12-19T16:00",
       "end": "2026-12-19T19:00",
       "venue": "Teatr Ziemi Rybnickiej",
-      "description": "„Królewna Śnieżka i siedmiu rybnickich krasnoludków” w scenariuszu i reżyserii ks. Marka Norasa, na długo pozostanie w naszej pamięci. Na scenie pojawia się kilku znanych rybniczan, na czele z prezydentem Piotrem Kuczerą. Spektaklowi towarzyszy muzyka na żywo w wykonaniu zespołu Carrantuohill, a taneczną oprawę zapewni formacja Salake, zapowiada się więc świetna zabawa.",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/krolewna-sniezka-i-siedmiu-rybnickich-krasnoludkow-122026.html"
+      "description": "Baśń o Śnieżce nabierze w Rybniku lokalnego charakteru: na scenie pojawią się znani rybniczanie, a o muzykę na żywo zadba zespół Carrantuohill. Taneczną energię wniesie formacja Salake. To pomysł na wyjątkowe popołudnie — warto wybrać się na spektakl. Sobota, 19 grudnia 2026 roku, godz. 16:00 Teatr Ziemi Rybnickiej , Plac Teatralny im. Kazimierza Kutza 1, 44-200 Rybnik Sprzedaż biletów rozpocznie się w poniedziałek, 26 października, o godz. 12:00. Po spektaklu będzie można wesprzeć powstające hospicjum w Rybniku. Rybnicka Śnieżka - teatralna baśń z humorem, muzyką na żywo i wsparciem dla hospicjum",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/krolewna-sniezka-i-siedmiu-rybnickich-krasnoludkow-wraca-na-scene"
+    },
+    {
+      "id": "iryb-koncert-patriotyczny-forteca-i-pozytywka-w-rybniku",
+      "title": "Koncert patriotyczny Forteca i Pozytywka w Rybniku",
+      "category": "Koncert",
+      "start": "2026-12-19T18:00",
+      "end": null,
+      "venue": "Klub Odyseja",
+      "description": "Mocne gitarowe brzmienia i pamięć o wydarzeniach, które na trwałe zapisały się w historii Polski — taki będzie koncert patriotyczny w Klubie Odyseja. 19 grudnia w Rybniku wystąpią Forteca i Pozytywka. Warto spędzić ten wieczór przy muzyce na żywo. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Koncert upamiętni stan wojenny — jedno z najtrudniejszych wydarzeń w powojennej historii Polski. Na scenie pojawią się Pozytywka i Forteca, a w programie znajdą się bezkompromisowe teksty, gitarowe riffy i patriotyczne emocje. To propozycja dla osób, które chcą posłuchać mocnej muzyki i wspólnie przypomnieć o tych, którzy walczyli o wolność.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/koncert-patriotyczny-forteca-i-pozytywka-w-rybniku"
+    },
+    {
+      "id": "iryb-swiateczne-nocowanie-w-fit-more-w-rybniku",
+      "title": "Świąteczne Nocowanie w Fit&More w Rybniku",
+      "category": "Sport",
+      "start": "2026-12-19T19:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Świąteczna noc pełna ruchu, filmów i spotkania z Mikołajem szykuje się w Fit&More w Rybniku. To propozycja dla dzieci i młodzieży w wieku 7–16 lat — z nocowaniem, sportowymi atrakcjami i pizzą na kolację. Wydarzenie rozpocznie się 19 grudnia 2026 roku (sobota) o godz. 19:00 i zakończy 20 grudnia (niedziela) o godz. 8:00 . Miejscem nocowania będzie Fit&More przy ul. Grunwaldzkiej 46 w Rybniku . Udział kosztuje 219 zł dla pierwszych 10 osób , a następnie 229 zł . W sprawie zapisów można zadzwonić pod numer 881 782 279 lub 881 204 021 . Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/swiateczne-nocowanie-w-fit-more-w-rybniku"
     },
     {
       "id": "tzr-najdrozszy-122026",
@@ -1100,59 +1716,70 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/najdrozszy-122026.html"
     },
     {
-      "id": "bilnya-najdrozszy-spektakl-komediowy-202612201500",
-      "title": "Najdroższy - spektakl komediowy",
-      "category": "Spektakl",
-      "start": "2026-12-20T15:00",
-      "end": "2026-12-20T16:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎭✨ \"Najdroższy\" to błyskotliwa komedia o pechowcu, który za wszelką cenę próbuje odmienić swój los! 😄 Absurdalne sytuacje, zaskakujące zwroty akcji i humor w paryskim stylu – baw się do łez! Sprawdź repertuar i zarezerwuj bilety już dziś! 🎟️❤️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Najdrozszy?eid=707088#opis"
+      "id": "iryb-swiateczny-koncert-charytatywny-i-kiermasz-dla-tomka-w-rybni",
+      "title": "Świąteczny Koncert Charytatywny i kiermasz dla Tomka w Rybniku",
+      "category": "Koncert",
+      "start": "2026-12-20T16:00",
+      "end": null,
+      "venue": "Dom Kultury Boguszowice",
+      "description": "Muzyka, kolędy i gospel połączą się w Rybniku z pomocą dla Tomka, podopiecznego Stowarzyszenia PROGRES. Świąteczny koncert w Domu Kultury w Rybniku-Boguszowicach będzie też okazją do odwiedzenia mini-kiermaszu i skosztowania świątecznych przysmaków. Niedziela, 20 grudnia 2026 roku, godz. 16:00 Dom Kultury w Rybniku-Boguszowicach Plac Pokoju 1, 44-253 Rybnik Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Wieczór rozpocznie kolędowy przegląd w wykonaniu uczestników zajęć muzycznych Domu Kultury. Później na scenie wystąpi chór Rybnickiego Wieczoru Chwały, znany z comiesięcznych spotkań w Bazylice św. Antoniego w Rybniku. W sali widowiskowej zabrzmi gospel pełen energii i radości wspólnego śpiewania.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/swiateczny-koncert-charytatywny-i-kiermasz-dla-tomka-w-rybniku"
     },
     {
-      "id": "bilnya-golo-i-wesolo-202612311800",
-      "title": "Goło i Wesoło",
-      "category": "Spektakl",
+      "id": "iryb-44-miedzynarodowy-turniej-szachowy-rybnik-2026-w-rybniku",
+      "title": "44. Międzynarodowy Turniej Szachowy RYBNIK 2026 w Rybniku",
+      "category": "Sport",
+      "start": "2026-12-29T08:30",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Rybnik na dwa dni stanie się miejscem spotkania miłośników szachów. 44. Międzynarodowy Turniej Szachowy RYBNIK 2026 jest otwarty dla wszystkich zainteresowanych — to okazja, by wziąć udział w szachowym wydarzeniu i poczuć turniejową atmosferę. Turniej odbędzie się 29 grudnia 2026 roku (wtorek), od godz. 8:30 do 30 grudnia (środa), do godz. 16:00 w Szkole Podstawowej nr 2 w Rybniku / Zespole Szkolno-Przedszkolnym nr 10 . Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Wydarzenie skierowane jest do wszystkich zainteresowanych szachami. Sama nazwa zapowiada już 44. odsłonę turnieju o międzynarodowym charakterze, a dwudniowa formuła pozwoli w pełni skupić się na szachowych rozgrywkach.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/44-miedzynarodowy-turniej-szachowy-rybnik-2026-w-rybniku"
+    },
+    {
+      "id": "tzr-golo-i-wesolo-sylwester-w-teatrze",
+      "title": "Goło i wesoło. Sylwester w Teatrze",
+      "category": "Impreza",
       "start": "2026-12-31T18:00",
-      "end": "2026-12-31T20:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🤔 Kto z nas nie marzył o wielkiej karierze gwiazdy filmu czy rock'n'rolla? 🎸 Na prawie taki sam pomysł wpadła grupka przyjaciół, która postanowiła zostać... striptizerami 🙊 Jak im poszło? Dowiecie się w przezabawnym spektaklu Goło i wesoło. Jedno jest pewne - będzie gorąco! 🔥.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Golo-i-Wesolo?eid=712049#opis"
+      "end": "2026-12-31T21:30",
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Kto z nas nie marzył o wielkiej karierze gwiazdy filmu czy rock'n'rolla? Na prawie taki sam pomysł wpadła grupka przyjaciół, która postanowiła zostać... striptizerami. Jak im poszło? Dowiecie się w przezabawnym spektaklu Goło i wesoło. Jedno jest pewne - będzie gorąco!",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/golo-i-wesolo-sylwester-w-teatrze.html"
     },
     {
-      "id": "bilnya-igor-kwiatkowski-introwertyk-202701161800",
-      "title": "Igor Kwiatkowski - Introwertyk",
-      "category": "Kabaret",
-      "start": "2027-01-16T18:00",
-      "end": "2027-01-16T19:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎤 Igor Kwiatkowski zaprasza na swój nowy program „Introwertyk”! Czekają Cię absurdalne historie o bigosie w kinie, czarodziejach w kuchni i niecodziennych sposobach na podryw. Humor, dystans i świetna zabawa gwarantowane! 🎭😂 Kup bilet już dziś! 🎟️✨.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Igor-Kwiatkowski/Introwertyk?eid=718600#opis"
+      "id": "iryb-sylwester-2026-w-rybniku-zabawa-do-rana",
+      "title": "Sylwester 2026 w Rybniku: zabawa do rana",
+      "category": "Impreza",
+      "start": "2026-12-31T19:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Ostatni wieczór 2026 roku można spędzić na wspólnej zabawie w Rybniku. OSP Popielów organizuje sylwestrowe spotkanie z oprawą muzyczną, które potrwa do białego rana. Kiedy: czwartek, 31 grudnia 2026 r., od godz. 19:00 Gdzie: ul. Gabrieli Zapolskiej 1, Rybnik Zapisy i informacje: tel. 662 287 841 Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . OSP Popielów zaprasza na wieczór z muzyką i taneczną zabawą. To propozycja dla osób, które chcą przywitać nowy rok w imprezowej atmosferze i zostać na parkiecie aż do rana.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/sylwester-2026-w-rybniku-zabawa-do-rana"
     },
     {
-      "id": "bilnya-piano-best-covers-best-film-soundtracks-202701161900",
-      "title": "Piano Best Covers: Best Film Soundtracks",
+      "id": "iryb-taneczny-sylwester-z-el-pachanguero-filmowa-noc",
+      "title": "Taneczny Sylwester z El Pachanguero: filmowa noc",
+      "category": "Impreza",
+      "start": "2026-12-31T19:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Sylwestrowa noc w Rybniku upłynie pod znakiem kina, tańca i muzyki od latino po popowe oraz disco hity. El Pachanguero szykuje imprezę na dwóch salach, z konkursami, animacjami i wyborem króla oraz królowej balu. Kiedy: 31 grudnia 2026 r. (czwartek), godz. 19:00 – 1 stycznia 2027 r. (piątek), godz. 4:00 Gdzie: Grunwaldzka 46, 44-210 Rybnik Cena za osobę: 170 zł do 20 listopada, 190 zł od 21 listopada do 6 grudnia, 230 zł od 7 do 27 grudnia 2026 r. Zapisy: przez formularz zgłoszeniowy; płatność na wskazane konto po otrzymaniu potwierdzenia e-mail. Stoliki są ośmioosobowe, można zgłaszać się grupą lub pojedynczo. Tematem przewodnim będą postacie ze świata kina, więc pomysłów na sylwestrowe przebranie nie powinno zabraknąć. W programie zaplanowano konkursy z nagrodami, animacje oraz wybór króla i królowej balu. W sali Fux’ja znajdą się stoły i krzesła – to przestrzeń do odpoczynku, rozmów, integracji i udziału w konkursach. W sali Oranż będzie można tańczyć na 200-metrowym parkiecie, przy scenie i dyskotekowych światłach. Muzyczny repertuar obejmie salsę, bachatę i merengue, a także znane przeboje popowe i disco. Impreza ma otwarty charakter, więc taneczne doświadczenie nie jest konieczne.",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/taneczny-sylwester-z-el-pachanguero-filmowa-noc"
+    },
+    {
+      "id": "dk-chw-koncert-best-film-soundtracks-20270116",
+      "title": "Koncert \"Best Film Soundtracks\"",
       "category": "Koncert",
       "start": "2027-01-16T19:00",
-      "end": "2027-01-16T20:30",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": "🎬 Najpiękniejsza muzyka filmowa w wyjątkowym wydaniu! Dombrova Piano Duo zagra na fortepianach kultowe melodie Zimmera, Williamsa, Morricone i innych mistrzów. 🎹✨ Zanurz się w świecie kina i wielkich emocji!.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Piano-Best-Covers-Best-Film-Soundtracks-Candles?eid=696728#opis"
-    },
-    {
-      "id": "bilnya-zakonnice-w-przebraniu-202701171530",
-      "title": "Zakonnice w przebraniu",
-      "category": "Spektakl",
-      "start": "2027-01-17T15:30",
-      "end": "2027-01-17T17:00",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🤣🍷 Sekrety klasztoru, lawina pomyłek i humor, który nie zwalnia ani na chwilę! \"Zakonnice w przebraniu\" to zwariowana komedia pełna przebieranek, nieoczekiwanych zwrotów akcji i doskonałej zabawy. 🎭 Nie przegap tego teatralnego hitu!.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Zakonnice-w-przebraniu?eid=720309#opis"
+      "end": null,
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "Uwaga! Zmiana terminu koncertu! Nowa data: 16.01.2027 r. o 19:00. Organizatorem koncertu jest Alliance Art.",
+      "sourceName": "DK Chwałowice",
+      "sourceUrl": "https://www.dkchwalowice.pl/?news=51977"
     },
     {
       "id": "dk-bog-11158-ferie-zimowe-2027-polkolonie-dla-dzieci",
@@ -1170,7 +1797,7 @@
       "title": "Ballady Rockowe przy Świecach: Polskie Legendy. Najważniejsze utwory polskiego rocka w jednym koncercie",
       "category": "Koncert",
       "start": "2027-01-21T19:30",
-      "end": "2027-01-21T21:00",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "„Ballady Rockowe przy Świecach” to cykl kameralnych koncertów przy blasku świec, który zdobył uznanie publiczności dzięki swojej wyjątkowej atmosferze i brzmieniu na żywo. Projekt zachwycił już ponad 70 000 widzów podczas ponad 100 występów w ośmiu krajach, potwierdzając swoją popularność i uniwersalność formatu. W ramach tej serii kultowe rockowe ballady zyskują nowe, bardziej subtelne, akustyczne i emocjonalne oblicze, pozwalając odkryć ich głębię, lirykę i siłę na nowo. Projekt nieustannie się rozwija, otwierając kolejne muzyczne kierunki. Jednym z nich jest program poświęcony polskiemu rockowi – legendarnym utworom, które stały się symbolem całej epoki. Piosenki takich zespołów jak Dżem, Perfect, Lady Pank, Budka Suflera, Maanam i wielu innych zabrzmią w nowej, bardziej intymnej i poruszającej interpretacji. Delikatne światło świec podkreśli romantyzm i subtelność ballad polskiego rocka, zachowując jednocześnie ich siłę i energię, czyniąc ten wieczór naprawdę magicznym. Starannie dobrany repertuar koncertu „Ballady Rockowe przy Świecach” nie pozostawi obojętnym żadnego słuchacza. Głębia uczuć i emocji zawarta w każdej piosence poruszy najczulsze struny duszy – od miłości, szczęścia, inspiracji i nostalgii, po stratę, poszukiwanie sensu życia, samotność i wewnętrzne przeżycia. To doskonała okazja, aby oderwać się od miejskiego zgiełku, zanurzyć się w świecie legendarnego polskiego rocka i zapomnieć o codziennych troskach. Spędź ten wieczór z bliskimi i przyjaciółmi, delektując się wspomnieniami i tworząc nowe. Dlaczego warto wybrać się na koncert „Ballady Rockowe przy Świecach: Polskie Legendy”? Ponownie przeżyć najpiękniejsze momenty swojego życia Usłyszeć wyjątkowe aranżacje poruszających ballad polskiego rocka przy blasku świec. Spędzić ciepły wieczór w gronie najbliższych. Czy już wiesz, z kim chcesz przeżyć te niezapomniane emocje? Zaproś bliskich i spędźcie razem wyjątkowy wieczór! Pamiętaj, że liczba biletów jest ograniczona – im dłużej zwlekasz, tym szybciej znikają najlepsze miejsca.",
       "sourceName": "TZR",
@@ -1181,7 +1808,7 @@
       "title": "Teresa Werner. 15-lecie solowej kariery artystycznej!",
       "category": "Koncert",
       "start": "2027-01-22T18:00",
-      "end": "2027-01-22T19:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Teresa Werner to polska piosenkarka pochodząca z Nakła Śląskiego. Kariera Teresy Werner przyspieszyła po nagraniu takich hitów jak \"Miłość jest piękna\", \"Dałabym Ci dała\" czy \"Kocham swoje morze\", które wielokrotnie i bezkonkurencyjnie wygrywały telewizyjne i radiowe listy przebojów. Jej kompozycje oraz teledyski są emitowane na antenach stacji radiowych i telewizyjnych. Dotychczas w dorobku artystki ukazały się płyty CD oraz DVD. Pierwszy album \"Spełnić Marzenia\" uzyskał najpierw status Złotej Płyty, a następnie Platynowej Płyty i Podwójnej Platynowej Płyty! Artystka została wyróżniona przez Ministra Kultury i Dziedzictwa Narodowego odznaką honorową \"Zasłużony dla Kultury Polskiej\". Teresa Werner znalazła się w prestiżowym leksykonie \"Polki mają głos\", w którym zaprezentowano 100 najbardziej wpływowych Polek na stulecie nadania praw wyborczych kobietom w Polsce. W lipcu 2013 Wyższa Rada Ekspertów Międzynarodowego Intelektualnego Społeczeństwa Niezależnego Międzynarodowego PEN Clubu odznaczyła piosenkarkę tytułem doktora honoris causa. Teresa Werner zrealizowała swoje wielkie marzenie i wyprodukowała własną ekskluzywną linię perfum dla kobiet i mężczyzn, które w krótkim czasie stały się absolutnymi bestsellerami! Z okazji jubileuszu 10-lecia solowej pracy artystycznej na rynku ukazała się złota limitowana edycja perfum. Piosenkarka wzięła udział w prestiżowym międzynarodowym festiwalu w chorwackim Szybeniku „Večeri dalmatinske šansone 2013”, gdzie jej występ spotkał się z wielkim uznaniem dla jej twórczości. Teresa Werner jest stałym gościem w telewizyjnym programie \"Śląska Karuzela\" w Telewizji TVS, który prowadzony jest przez Sławomira i Kajrę, którzy z przyjemnością prezentują wszelkie nowości z artystycznego świata Teresy Werner. Obecnie promuje swój najnowszy już czwarty album CD \"Sekret Miłości\", a także książkę \"Marzeniami do sukcesu\". Nie zwalnia tempa i z całą pewnością jest najczęściej koncertującą artystką w Polsce. Ikona stylu dla kobiet, ideał piękna dla mężczyzn. Jedyna i niepowtarzalna – Teresa Werner.",
       "sourceName": "TZR",
@@ -1192,66 +1819,33 @@
       "title": "Budka Suflera w Rybniku!",
       "category": "Koncert",
       "start": "2027-01-23T17:00",
-      "end": "2027-01-23T18:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Budka Suflera - polski zespół rockowy założony w Lublinie w 1974 roku przez Krzysztofa Cugowskiego i Romualda Lipkę. Znany z takich przebojów jak: \"Sen o dolinie\", \"Za ostatni grosz\", \"Jolka Jolka, pamiętasz\", \"Takie Tango\" czy \"Bal wszystkich Świętych\". Budka Suflera to jeden z najpopularniejszych zespołów polskiej muzyki rockowej. Skład zespołu wielokrotnie zmieniał się, a przez grupę przewinęło się ponad 25 muzyków. Osobą łączącą wszystkie składy od 1975 jest perkusista Tomasz Zeliszewski, pełniący także rolę menedżera i lidera zespołu po śmierci Romualda Lipki (zm. 2020), jest jedynym członkiem Budki Suflera, który nagrał z zespołem wszystkie albumy. Podczas koncertu zespół wykona znane przeboje \"Budki Suflera\". Budka Suflera ma na swoim koncie wiele prestiżowych nagród. Jest między innymi laureatem Fryderyków w kategoriach \"Zespół roku\" oraz \"Piosenka roku\" za przebój \"Takie Tango\". W 2002 roku otrzymał Super Jedynkę za utwór \"Bal wszystkich świętych\".",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/budka-suflera-w-rybniku.html"
     },
     {
-      "id": "bilnya-leszek-mozdzer-solo-202701241700",
-      "title": "Leszek Możdżer SOLO",
+      "id": "tzr-leszek-mozdzer-solo-012027",
+      "title": "Leszek Możdżer Solo",
       "category": "Koncert",
       "start": "2027-01-24T17:00",
-      "end": "2027-01-24T18:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "Leszek Możdżer to żywa legenda muzyki. Ten wybitny pianista dokonał w polskim jazzie mentalnej i stylistycznej rewolucji. Do tego dzielił scenę z najwybitniejszymi światowymi jazzmanami! 🔥Zobaczenie go na żywo to zupełnie inny wymiar doznawania muzyki. 👉 Musisz to przeżyć na własnej skórze!.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Leszek-Mozdzer/SOLO?eid=719987#opis"
-    },
-    {
-      "id": "bilnya-sklep-z-facetami-202701241700",
-      "title": "Sklep z facetami",
-      "category": "Spektakl",
-      "start": "2027-01-24T17:00",
-      "end": "2027-01-24T18:30",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": "😂 Komedia o kobietach, mężczyznach i miłości, w której każdy odnajdzie cząstkę siebie. 💕 Błyskotliwe dialogi, zaskakujące zwroty akcji i doskonała zabawa sprawiły, że „Sklep z facetami” pokochało już ponad 50 000 widzów w całej Polsce..",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Sklep-z-facetami?eid=677848#opis"
-    },
-    {
-      "id": "tzr-soyka-grott-orkiestra-w-holdzie-mistrzowi-odwolany",
-      "title": "Soyka / Grott Orkiestra w hołdzie mistrzowi - odwołany",
-      "category": "Koncert",
-      "start": "2027-01-24T18:00",
       "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
-      "description": "informujemy, że koncert „Soyka / Grott Orkiestra w hołdzie Mistrzowi”, zaplanowany na 24 stycznia 2027 r. w Teatrze Ziemi Rybnickiej, zostaje odwołany.",
+      "description": "„Leszek Możdżer Solo” – to koncert tak wyjątkowy, jak wyjątkowy jest sam Artysta, jego jazzowa dusza, wirtuozerski warsztat pianisty i muzyczna wyobraźnia!",
       "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/soyka-grott-orkiestra-w-holdzie-mistrzowi-odwolany.html"
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/leszek-mozdzer-solo-012027.html"
     },
     {
       "id": "tzr-noworoczna-gala-koncert-wiedenski",
       "title": "NOWOROCZNA GALA – Koncert Wiedeński",
       "category": "Koncert",
       "start": "2027-01-26T18:00",
-      "end": "2027-01-26T20:00",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Najnowsza edycja 2027 ogólnopolskiej trasy koncertowej! - magiczne, pełne kolorytu widowisko, nie mające sobie równych! - na scenie ponad 30 osobowy zespół najwybitniejszych Solistów, Orkiestry i baletu oraz Gość Specjalny! - zachwycające doznania muzyczne, wypełnione szelestem błyszczących sukien, wśród widoku rozlewanego szampana i dźwięku stukających obcasów - najnowszy program koncertu – edycja 2027 - połączenie klasyki z rozrywką, które łączy pokolenia",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/noworoczna-gala-koncert-wiedenski.html"
-    },
-    {
-      "id": "bilnya-eleni-zlote-przeboje-teatr-ziemi-rybnickiej-202701271800",
-      "title": "Eleni - Złote Przeboje, Teatr Ziemi Rybnickiej",
-      "category": "Koncert",
-      "start": "2027-01-27T18:00",
-      "end": "2027-01-27T19:40",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎶 Przeżyj wyjątkowy koncert Eleni i wybierz się w sentymentalną podróż przez 50 lat jej muzycznej kariery! Największe przeboje, greckie rytmy i ukochane melodie, które łączą pokolenia, zapewnią niezapomniany wieczór. 🇬🇷❤️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Eleni-Zlote-Przeboje-Teatr-Ziemi-Rybnickiej?eid=719204#opis"
     },
     {
       "id": "tzr-eleni-50-lat-na-scenie-koncert-jubileuszowy",
@@ -1269,55 +1863,55 @@
       "title": "Vivaldi przy świecach",
       "category": "Koncert",
       "start": "2027-01-28T19:30",
-      "end": "2027-01-28T21:00",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Barok na wyciągnięcie ręki 300 lat temu „Cztery pory roku” Antonio Vivaldiego zaskoczyły świat swoją niezwykłą mocą i emocjami. Dziś masz szansę poczuć je tak, jak słuchali ich pierwsi odbiorcy – w kameralnej atmosferze, przy blasku świec, otoczeni muzyką, która łączy duchową głębię z radością życia. To nie tylko koncert – to podróż w czasie, pełna emocji, które przetrwały wieki.",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/vivaldi-przy-swiecach.html"
     },
     {
-      "id": "bilnya-malgorzata-ostrowska-45-lat-koncert-jubileuszowy-202701291800",
+      "id": "tzr-malgorzata-ostrowska-45-lat-koncert-jubileuszowy",
       "title": "Małgorzata Ostrowska - 45 lat: koncert jubileuszowy",
       "category": "Koncert",
       "start": "2027-01-29T18:00",
-      "end": "2027-01-29T19:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎤🔥 Małgorzata Ostrowska świętuje 45 lat na scenie! Legenda polskiego rocka wraca z jubileuszową trasą pełną kultowych hitów i niezwykłej energii. 💫 Dołącz do muzycznej podróży przez lata – emocje gwarantowane! 🎶🎟️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Malgorzata-Ostrowska/45-lat-koncert-jubileuszowy?eid=671663#opis"
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Małgorzata Ostrowska, legenda polskiej piosenki, zaprasza na jubileuszowe koncerty z okazji 45-lecia pracy artystycznej!",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/malgorzata-ostrowska-45-lat-koncert-jubileuszowy.html"
     },
     {
-      "id": "bilnya-ponad-chmurami-202701291900",
-      "title": "Ponad Chmurami",
-      "category": "Koncert",
-      "start": "2027-01-29T19:00",
-      "end": "2027-01-29T20:30",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": "🎶 Daj się porwać muzycznej podróży z zespołem Ponad Chmurami! Usłysz utwory z albumu „Zaprowadź mnie” i ukochane przeboje w kameralnej, pełnej ciepła atmosferze. ✨ Kup bilet i przeżyj ten wyjątkowy wieczór! 🎟️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Ponad-Chmurami?eid=712260#opis"
-    },
-    {
-      "id": "bilnya-andrzej-sikorowski-w-duecie-z-jackiem-krolikiem-202701301800",
+      "id": "tzr-andrzej-sikorowski-w-duecie-z-jackiem-krolikiem",
       "title": "Andrzej Sikorowski w duecie z Jackiem Królikiem",
       "category": "Koncert",
       "start": "2027-01-30T18:00",
-      "end": "2027-01-30T19:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎶 Andrzej Sikorowski z Jackiem Królikiem zabiorą Cię w muzyczną podróż pełną kultowych hitów Pod Budą i solowych perełek. Nastrojowy wieczór pełen wspomnień i gitarowych brzmień – nie przegap! 🎸✨.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Andrzej-Sikorowski/Jacek-Krolik?eid=720024#opis"
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Andrzej Sikorowski w duecie z Jackiem Królikiem W programie znajdą się piosenki Andrzeja Sikorowskiego, wokalisty, wieloletniego lidera Grupy Pod Budą i autora większości jej utworów. Andrzej Sikorowski przy wsparciu jednego z najlepszych polskich gitarzystów Jacka Królika przeprowadza widzów przez świat swoich największych przebojów napisanych dla grupy Pod Budą ( Kap, kap, płyną łzy ) czy śpiewanych poza nią, takich jak: Kraków Piwna 7, Lecz póki co żyjemy, Na całość, Nie przenoście nam stolicy do Krakowa, Ale to już było , oraz pochodzące z trzech wspólnie nagranych z córką Mają Sikorowską płyt ( Kraków-Saloniki, Sprawa rodzinna, Okno na Planty ).",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/andrzej-sikorowski-w-duecie-z-jackiem-krolikiem.html"
     },
     {
-      "id": "bilnya-krolowe-zycia-202701311530",
+      "id": "bilnya-krolowe-zycia-202701311830",
       "title": "Królowe życia",
       "category": "Spektakl",
-      "start": "2027-01-31T15:30",
-      "end": "2027-01-31T17:00",
+      "start": "2027-01-31T18:30",
+      "end": "2027-01-31T20:00",
       "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
       "description": "🎭 Brawurowa komedia pomyłek o miłości i biznesie! Dwaj wspólnicy chcą sprzedać firmę Niemcom, ale żony mają inne plany... 😂 Seria nieporozumień zmienia nudne małżonki w pewne siebie kobiety fatalne! 💃 Porcja śmiechu gwarantowana! ✨.",
       "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Krolowe-zycia?eid=720311#opis"
+      "sourceUrl": "https://biletyna.pl/spektakl/Krolowe-zycia?eid=720312#opis"
+    },
+    {
+      "id": "bilnya-ai-love-you-czyli-terapia-malzenska-xxi-wieku-202702192000",
+      "title": "\"AI LOVE YOU\" - czyli terapia małżeńska XXI wieku",
+      "category": "Spektakl",
+      "start": "2027-02-19T20:00",
+      "end": "2027-02-19T21:20",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/AI-LOVE-YOU-czyli-terapia-malzenska-XXI-wieku?eid=719244#opis"
     },
     {
       "id": "dk-bog-11035-dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-godz-16-00",
@@ -1340,6 +1934,39 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
+    },
+    {
+      "id": "bilnya-bartosz-gajda-po-lecie-stand-up-nowy-program-202704121900",
+      "title": "Bartosz Gajda - \"PO LECIE\" - stand up NOWY PROGRAM",
+      "category": "Kabaret",
+      "start": "2027-04-12T19:00",
+      "end": "2027-04-12T20:30",
+      "venue": "inoWino Świerklaniec, Jana III Sobieskiego 9",
+      "description": "😂⏳ Czas leci jak szalony? To idealny moment na solidną dawkę śmiechu! Bartosz Gajda wraca z nowym stand-upem – inteligentny humor, absurd i zero zbędnych wulgaryzmów. Przyjdź i pośmiej się z życia, zanim znów przyspieszy 🎤✨🎟️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/stand-up/Bartosz-Gajda/po-lecie?eid=713645#opis"
+    },
+    {
+      "id": "bilnya-kabaret-paranienormalni-w-nowym-programie-2027-202710091600",
+      "title": "Kabaret Paranienormalni - w nowym programie 2027",
+      "category": "Kabaret",
+      "start": "2027-10-09T16:00",
+      "end": "2027-10-09T17:30",
+      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/kabaret/Kabaret-Paranienormalni/w-nowym-programie?eid=718872#opis"
+    },
+    {
+      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
+      "title": "NutkoSfera - CeZik dzieciom",
+      "category": "DlaDzieci",
+      "start": "2027-12-03T17:00",
+      "end": "2027-12-03T18:20",
+      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
+      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }
