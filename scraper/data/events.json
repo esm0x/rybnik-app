@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T00:39:48",
+  "generated_at": "2026-11-12T15:08:00",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,20 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 173,
+  "count": 176,
   "failures": [],
   "events": [
-    {
-      "id": "bilnya-galeria-sztuki-rzeczna-202611120900",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-11-12T09:00",
-      "end": "2026-11-12T10:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=715195#opis"
-    },
     {
       "id": "iryb-sesja-rpg-postmedialny-rybnik-ctrl-fact",
       "title": "Sesja RPG „Postmedialny Rybnik” – CTRL+FACT",
@@ -924,6 +913,17 @@
       "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=716862#opis"
     },
     {
+      "id": "iryb-wyklad-historyczny-tragedia-gornoslaska",
+      "title": "Wykład historyczny „Tragedia Górnośląska”",
+      "category": "Warsztaty",
+      "start": "2026-11-24T17:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "O wydarzeniach określanych jako Tragedia Górnośląska będzie można posłuchać podczas spotkania w Łukowie Śląskim. Wykład przybliży historię regionu, a jego uzupełnieniem będzie projekcja filmu „Jo był ukradziony”. Wydarzenie zaplanowano na 24 listopada 2026 roku o godz. 17:00 . Spotkanie odbędzie się w Dworze w Łukowie Śląskim . Wstęp jest wolny. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Historię Tragedii Górnośląskiej przedstawią dr Mateusz Sobeczko i mgr Patrycja Tomiczek . W programie znalazła się również projekcja filmu „Jo był ukradziony” .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/wyklad-historyczny-tragedia-gornoslaska"
+    },
+    {
       "id": "iryb-autoportret-portret-oprowadzanie-z-pola-dwurnik",
       "title": "Autoportret, portret – oprowadzanie z Polą Dwurnik",
       "category": "Impreza",
@@ -1298,6 +1298,17 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/przemytnicy.html"
     },
     {
+      "id": "tzr-koncert-symfoniczny-przeboje-muzyki-symfonicznej",
+      "title": "Koncert symfoniczny: Przeboje Muzyki Symfonicznej",
+      "category": "Koncert",
+      "start": "2026-12-02T18:00",
+      "end": "2026-12-02T19:30",
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Wybitni pedagodzy Akademii Muzycznej w Katowicach i młodzi wirtuozi Szkoły Szafranków na jednej scenie! Zapraszamy na koncert „Przeboje muzyki symfonicznej”.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/koncert-symfoniczny-przeboje-muzyki-symfonicznej.html"
+    },
+    {
       "id": "iryb-rybnik-w-swiatecznym-klimacie",
       "title": "Rybnik w świątecznym klimacie",
       "category": "Impreza",
@@ -1628,6 +1639,17 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/ustawienia-systemowe-praca-grupowa-w-rybniku"
     },
     {
+      "id": "dk-bog-11182-filmowy-zefir-arnold-kontra-swiateczne-zakupy",
+      "title": "Filmowy Zefir - Arnold kontra świąteczne zakupy",
+      "category": "Film",
+      "start": "2026-12-18T18:00",
+      "end": "2026-12-18T19:30",
+      "venue": "Dom Kultury Boguszowice",
+      "description": "Święta tuż-tuż! Choinka, pierniczki, rodzinne spotkania, zapach mandarynek… i ta jedna, niepokojąca myśl: czy wszystkie prezenty są już kupione? Jeśli jeszcze nie, to spokojnie. Bohater naszego grudniowego Filmowego Zefira jest w znacznie trudniejszej sytuacji! 18 grudnia zapraszamy na bezpłatny seans kultowej świątecznej komedii, w której Arnold Schwarzenegger podejmuje się misji trudniejszej niż wszystkie jego dotychczasowe filmowe wyzwania. Tym razem nie musi ratować świata ani walczyć z kosmitami. Musi zdobyć wymarzoną zabawkę dla syna. I to na ostatnią chwilę! Problem w tym, że dokładnie na ten sam pomysł wpadło pół miasta. Rozpoczyna się szalony wyścig z czasem, pełen absurdalnych sytuacji, komicznych pomyłek i zakupowej desperacji. To film, który z przymrużeniem oka pokazuje przedświąteczne szaleństwo, a przy okazji przypomina, że najcenniejszych prezentów nie znajdziemy na sklepowych półkach. Zapraszamy całe rodziny, grupy przyjaciół i wszystkich, którzy na hasło „świąteczne zakupy” dostają lekkiej zadyszki. Gwarantujemy solidną porcję śmiechu i doskonały trening mięśni brzucha. Bez wychodzenia z kinowego fotela! Wstęp wolny!",
+      "sourceName": "DK Boguszowice",
+      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/filmowy-zefir-arnold-kontra-swiateczne-zakupy/"
+    },
+    {
       "id": "iryb-krolewna-sniezka-i-siedmiu-rybnickich-krasnoludkow-wraca-na",
       "title": "Królewna Śnieżka i siedmiu rybnickich krasnoludków wraca na scenę",
       "category": "Spektakl",
@@ -1672,15 +1694,15 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/najdrozszy-122026.html"
     },
     {
-      "id": "iryb-swiateczny-koncert-charytatywny-i-kiermasz-dla-tomka-w-rybni",
-      "title": "Świąteczny Koncert Charytatywny i kiermasz dla Tomka w Rybniku",
+      "id": "dk-bog-11185-swiateczny-koncert-charytatywny-i-kiermasz-dla-tomka",
+      "title": "Świąteczny Koncert Charytatywny i kiermasz dla Tomka",
       "category": "Koncert",
       "start": "2026-12-20T16:00",
-      "end": null,
+      "end": "2026-12-20T16:00",
       "venue": "Dom Kultury Boguszowice",
-      "description": "Muzyka, kolędy i gospel połączą się w Rybniku z pomocą dla Tomka, podopiecznego Stowarzyszenia PROGRES. Świąteczny koncert w Domu Kultury w Rybniku-Boguszowicach będzie też okazją do odwiedzenia mini-kiermaszu i skosztowania świątecznych przysmaków. Niedziela, 20 grudnia 2026 roku, godz. 16:00 Dom Kultury w Rybniku-Boguszowicach Plac Pokoju 1, 44-253 Rybnik Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Wieczór rozpocznie kolędowy przegląd w wykonaniu uczestników zajęć muzycznych Domu Kultury. Później na scenie wystąpi chór Rybnickiego Wieczoru Chwały, znany z comiesięcznych spotkań w Bazylice św. Antoniego w Rybniku. W sali widowiskowej zabrzmi gospel pełen energii i radości wspólnego śpiewania.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/swiateczny-koncert-charytatywny-i-kiermasz-dla-tomka-w-rybniku"
+      "description": "Zapraszamy Was do Domu Kultury w Rybniku-Boguszowicach! Będzie muzyka, mnóstwo dobrej energii i okazja, żeby wspólnie zrobić coś naprawdę ważnego. Gramy dla Tomka, podopiecznego Stowarzyszenia PROGRES! Zaczniemy od kolędowego przeglądu w wykonaniu uczestników zajęć muzycznych naszego Domu Kultury i pewnie nie zabraknie wzruszeń! A potem? GOSPEL! Na scenie pojawi się chór Rybnickiego Wieczoru Chwały, który w każdy trzeci czwartek miesiąca można usłyszeć w Bazylice św. Antoniego w Rybniku. Tym razem ich energia, moc głosów i radość wspólnego śpiewania wypełnią naszą salę widowiskową. 💛 GRAMY DLA TOMKA! Chcemy, żeby ten świąteczny wieczór przyniósł coś więcej niż piękne wspomnienia. Żeby muzyka, wspólne spotkanie i Wasza hojność zamieniły się w realną pomoc dla Tomka. 🎁 Podczas wydarzenia odbędzie się zbiórka charytatywna, a także mini-kiermasz i stoisko gastronomiczne. Część dochodu ze sprzedaży zasili zbiórkę na jego rzecz.Zabierzcie bliskich, dobry humor i trochę gotówki na szczytny cel! Będzie okazja by pobyć razem, posłuchać muzyki, znaleźć coś ciekawego na kiermaszu, skosztować świątecznych przysmaków i przy okazji zrobić coś dobrego. Bez wielkich deklaracji. Po prostu pomóc.",
+      "sourceName": "DK Boguszowice",
+      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/swiateczny-koncert-charytatywny-i-kiermasz-dla-tomka/"
     },
     {
       "id": "iryb-44-miedzynarodowy-turniej-szachowy-rybnik-2026-w-rybniku",
@@ -1727,6 +1749,39 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/taneczny-sylwester-z-el-pachanguero-filmowa-noc"
     },
     {
+      "id": "tzr-skrzypek-na-dachu-wersja-filmowa",
+      "title": "Skrzypek na dachu - wersja filmowa!",
+      "category": "Film",
+      "start": "2027-01-03T16:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Nagrodzona trzema Oscarami ekranizacja słynnego musicalu. Ubogi Tewje Mleczarz (Topol) mieszka wraz z żoną i trzema córkami w Anatewce, małej wiosce zagubionej gdzieś na rubieżach carskiej Rosji. Zdając sobie sprawę z nieuchronności nadchodzących przemian, Tewje wadzi się z Bogiem w takt sławnej piosenki \"Gdybym był bogaczem\"...",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/skrzypek-na-dachu-wersja-filmowa.html"
+    },
+    {
+      "id": "tzr-carrantuohill-40-lat-minelo-i-gramy-dalej",
+      "title": "Carrantuohill – 40 lat minęło… i gramy dalej!",
+      "category": "Koncert",
+      "start": "2027-01-15T19:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Carrantuohill – 40 lat minęło… i gramy dalej!",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/carrantuohill-40-lat-minelo-i-gramy-dalej.html"
+    },
+    {
+      "id": "tzr-igor-kwiatkowski-introwertyk",
+      "title": "Igor Kwiatkowski - Introwertyk",
+      "category": "Kabaret",
+      "start": "2027-01-16T18:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Zapraszamy na trzeci solowy program człowieka orkiestry, od którego dowiemy się, jak to jest być introwertykiem w gorącej wodzie kąpanym! Igor jak zawsze zachwyca oryginalnym humorem i niezwykle celnym ujęciem absurdów, z którymi spotykamy się w życiu na co dzień.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/igor-kwiatkowski-introwertyk.html"
+    },
+    {
       "id": "dk-chw-koncert-best-film-soundtracks-20270116",
       "title": "Koncert \"Best Film Soundtracks\"",
       "category": "Koncert",
@@ -1736,6 +1791,17 @@
       "description": "Uwaga! Zmiana terminu koncertu! Nowa data: 16.01.2027 r. o 19:00. Organizatorem koncertu jest Alliance Art.",
       "sourceName": "DK Chwałowice",
       "sourceUrl": "https://www.dkchwalowice.pl/?news=51977"
+    },
+    {
+      "id": "tzr-zakonnice-w-przebraniu",
+      "title": "Zakonnice w przebraniu",
+      "category": "Spektakl",
+      "start": "2027-01-17T15:30",
+      "end": "2027-01-17T18:30",
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "„Zakonnice w przebraniu” org. tytuł: \"Drinking habbits\" autorstwa Toma Smitha to pełna energii i błyskotliwego humoru farsa, która wciąga widza w świat sekretów, nieporozumień i komicznych zbiegów okoliczności.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/zakonnice-w-przebraniu.html"
     },
     {
       "id": "dk-bog-11158-ferie-zimowe-2027-polkolonie-dla-dzieci",
@@ -1848,15 +1914,15 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/andrzej-sikorowski-w-duecie-z-jackiem-krolikiem.html"
     },
     {
-      "id": "bilnya-ai-love-you-czyli-terapia-malzenska-xxi-wieku-202702192000",
-      "title": "\"AI LOVE YOU\" - czyli terapia małżeńska XXI wieku",
+      "id": "tzr-krolowe-zycia",
+      "title": "Królowe życia",
       "category": "Spektakl",
-      "start": "2027-02-19T20:00",
-      "end": "2027-02-19T21:20",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/AI-LOVE-YOU-czyli-terapia-malzenska-XXI-wieku?eid=719244#opis"
+      "start": "2027-01-31T15:30",
+      "end": "2027-01-31T18:30",
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Brawurowa komedia pomyłek o miłości, ambicjach i… bardzo rodzinnych interesach.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/krolowe-zycia.html"
     },
     {
       "id": "dk-bog-11035-dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-godz-16-00",
@@ -1879,39 +1945,6 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
-    },
-    {
-      "id": "bilnya-bartosz-gajda-po-lecie-stand-up-nowy-program-202704121900",
-      "title": "Bartosz Gajda - \"PO LECIE\" - stand up NOWY PROGRAM",
-      "category": "Kabaret",
-      "start": "2027-04-12T19:00",
-      "end": "2027-04-12T20:30",
-      "venue": "inoWino Świerklaniec, Jana III Sobieskiego 9",
-      "description": "😂⏳ Czas leci jak szalony? To idealny moment na solidną dawkę śmiechu! Bartosz Gajda wraca z nowym stand-upem – inteligentny humor, absurd i zero zbędnych wulgaryzmów. Przyjdź i pośmiej się z życia, zanim znów przyspieszy 🎤✨🎟️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/stand-up/Bartosz-Gajda/po-lecie?eid=713645#opis"
-    },
-    {
-      "id": "bilnya-kabaret-paranienormalni-w-nowym-programie-2027-202710091600",
-      "title": "Kabaret Paranienormalni - w nowym programie 2027",
-      "category": "Kabaret",
-      "start": "2027-10-09T16:00",
-      "end": "2027-10-09T17:30",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Kabaret-Paranienormalni/w-nowym-programie?eid=718872#opis"
-    },
-    {
-      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
-      "title": "NutkoSfera - CeZik dzieciom",
-      "category": "DlaDzieci",
-      "start": "2027-12-03T17:00",
-      "end": "2027-12-03T18:20",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }
