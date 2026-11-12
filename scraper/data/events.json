@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:16:26",
+  "generated_at": "2026-11-12T00:39:48",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,53 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 178,
+  "count": 173,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-540-minut-uwielbienie-i-modlitwa",
-      "title": "540 MINUT: uwielbienie i modlitwa",
-      "category": "Impreza",
-      "start": "2026-11-11T12:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Dziewięć godzin wspólnego śpiewu, modlitwy i uwielbienia — bez pośpiechu i z możliwością dołączenia w dowolnym momencie. 11 listopada w Rybniku odbędzie się 15. edycja wydarzenia 540 MINUT; warto zarezerwować sobie ten czas. Za wydarzenie odpowiada Centrum Chrześcijańskie Winnica. Można uczestniczyć przez cały czas albo przyjść w trakcie. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Spotkanie potrwa 540 minut i będzie podzielone na sześć półtoragodzinnych bloków. To propozycja dla osób, które chcą spędzić czas na wspólnej modlitwie i śpiewie — niezależnie od miejsca zamieszkania czy przynależności do wspólnoty.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/540-minut-uwielbienie-i-modlitwa"
-    },
-    {
-      "id": "iryb-koncert-dla-niepodleglej",
-      "title": "Koncert dla Niepodległej",
-      "category": "Koncert",
-      "start": "2026-11-11T16:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "11 listopada w Dworze w Łukowie Śląskim odbędzie się koncert z okazji Narodowego Święta Niepodległości. Wydarzenie połączy patriotyczne pieśni i utwory nawiązujące do historii, tradycji oraz wartości ważnych dla kolejnych pokoleń. Patriotyczne pieśni zabrzmią podczas koncertu w Dworze w Łukowie Śląskim Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Na scenie zaprezentują się laureaci Powiatowego Festiwalu Pieśni i Piosenki Patriotycznej „W kolejne powolność” oraz wychowankowie Powiatowego Ogniska Pracy Pozaszkolnej. W programie znajdą się pieśni patriotyczne i utwory związane z historią oraz tradycją.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/koncert-dla-niepodleglej"
-    },
-    {
-      "id": "iryb-x-biesiada-slaska-z-vox-w-rybniku",
-      "title": "X Biesiada Śląska z VOX w Rybniku",
-      "category": "Impreza",
-      "start": "2026-11-11T17:00",
-      "end": "2026-11-11T18:30",
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Znane przeboje, śląska biesiada i wspólne śpiewanie — tak zapowiada się jubileuszowa, dziesiąta edycja wydarzenia w Rybniku. Wieczór zakończy koncert zespołu VOX z takimi hitami jak „Bananowy song” i „Szczęśliwej drogi już czas”. Kiedy: 11 listopada 2026 roku (środa), godz. 17:00 Gdzie: Plac Teatralny im. Kazimierza Kutza 1, 44-200 Rybnik Bilety: 80 zł w przedsprzedaży do 30 października; od 1 listopada 2026 roku – 100 zł. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Gospodarzami sceny będą Larmodzieje, którzy pojawią się na Biesiadzie po raz dziesiąty, tym razem w nowej roli. W programie znajdą się również występy Teresy Walerjańskiej, Ingi Papkali, krakowskiego barda Pawła Orkisza oraz rybnickiego tenora Mieczysława Błaszczyka.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/x-biesiada-slaska-z-vox-w-rybniku"
-    },
-    {
-      "id": "iryb-konopians-w-rybniku-reggae-uczta",
-      "title": "KoNoPiAnS w Rybniku: reggae uczta",
-      "category": "Impreza",
-      "start": "2026-11-11T19:00",
-      "end": null,
-      "venue": "Klub Odyseja",
-      "description": "KoNoPiAnS świętuje 30-lecie i przywozi do Rybnika nową płytę „IRONYA SOMATYA”. W Klubie Odyseja szykuje się wieczór z reggae, ska, dubem i sporą dawką koncertowej improwizacji. Kiedy: 11 listopada 2026 roku (środa), godz. 19:00–22:00 Gdzie: Klub Odyseja, Rybnik Bilety: 69 zł w przedsprzedaży, 80 zł w dniu koncertu. Wejściówki w przedsprzedaży są dostępne na muzystan.com. W klubie można płacić kartą lub gotówką. Na miejscu będzie także stoisko z winylami, digibookami i koszulkami w promocyjnych cenach. Płatność kartą i gotówką. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń .",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/konopians-w-rybniku-reggae-uczta"
-    },
     {
       "id": "bilnya-galeria-sztuki-rzeczna-202611120900",
       "title": "Galeria Sztuki Rzeczna",
@@ -1890,17 +1846,6 @@
       "description": "Andrzej Sikorowski w duecie z Jackiem Królikiem W programie znajdą się piosenki Andrzeja Sikorowskiego, wokalisty, wieloletniego lidera Grupy Pod Budą i autora większości jej utworów. Andrzej Sikorowski przy wsparciu jednego z najlepszych polskich gitarzystów Jacka Królika przeprowadza widzów przez świat swoich największych przebojów napisanych dla grupy Pod Budą ( Kap, kap, płyną łzy ) czy śpiewanych poza nią, takich jak: Kraków Piwna 7, Lecz póki co żyjemy, Na całość, Nie przenoście nam stolicy do Krakowa, Ale to już było , oraz pochodzące z trzech wspólnie nagranych z córką Mają Sikorowską płyt ( Kraków-Saloniki, Sprawa rodzinna, Okno na Planty ).",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/andrzej-sikorowski-w-duecie-z-jackiem-krolikiem.html"
-    },
-    {
-      "id": "bilnya-krolowe-zycia-202701311830",
-      "title": "Królowe życia",
-      "category": "Spektakl",
-      "start": "2027-01-31T18:30",
-      "end": "2027-01-31T20:00",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎭 Brawurowa komedia pomyłek o miłości i biznesie! Dwaj wspólnicy chcą sprzedać firmę Niemcom, ale żony mają inne plany... 😂 Seria nieporozumień zmienia nudne małżonki w pewne siebie kobiety fatalne! 💃 Porcja śmiechu gwarantowana! ✨.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Krolowe-zycia?eid=720312#opis"
     },
     {
       "id": "bilnya-ai-love-you-czyli-terapia-malzenska-xxi-wieku-202702192000",
