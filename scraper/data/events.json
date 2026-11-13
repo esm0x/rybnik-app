@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T06:38:38",
+  "generated_at": "2026-11-13T19:39:43",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,20 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 176,
+  "count": 178,
   "failures": [],
   "events": [
-    {
-      "id": "bilnya-galeria-sztuki-rzeczna-202611131100",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-11-13T11:00",
-      "end": "2026-11-13T12:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=715196#opis"
-    },
     {
       "id": "iryb-w-co-gramy-warsztat-relacji",
       "title": "W co gramy? Warsztat relacji",
@@ -55,22 +44,22 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/czego-nie-wiecie-o-testosteronie-spotkanie-z-ekspertem"
     },
     {
-      "id": "dk-bog-11130-filmowy-zefir-milosc-jazz-i-wielkie-marzenia-bezplatny-seans-fil",
-      "title": "Filmowy Zefir | Miłość, jazz i wielkie marzenia... Bezpłatny seans filmowy",
+      "id": "iryb-filmowy-zefir-milosc-jazz-i-marzenia",
+      "title": "Filmowy Zefir: Miłość, jazz i marzenia",
       "category": "Film",
       "start": "2026-11-13T18:00",
-      "end": "2026-11-13T19:30",
-      "venue": "Dom Kultury Boguszowice",
-      "description": "Listopad ma swoje prawa. Szybko robi się ciemno, wieczory są coraz dłuższe – dlatego DOBRE KINO to naprawdę dobry pomysł. Tym razem Filmowy Zefir zabierze nas do rozświetlonego Los Angeles, gdzie spotykają się dwoje ludzi z wielkimi marzeniami. Ona chce zostać aktorką. On marzy o własnym klubie jazzowym. Jest muzyka, taniec, miłość, ambicja i pytanie, które z czasem robi się coraz trudniejsze: ile jesteśmy gotowi poświęcić, żeby spełnić swoje marzenia? Ryan Gosling i Emma Stone, jazz, neonowe światła i historia, która potrafi jednocześnie poprawić humor i trochę ścisnąć za serce. Jeśli więc w listopadowy wieczór macie ochotę na kino z klimatem, muzyką i odrobiną magii, chodźcie do nas. Zapraszamy! Wstęp wolny.",
-      "sourceName": "DK Boguszowice",
-      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/filmowy-zefir-milosc-jazz-i-wielkie-marzenia-bezplatny-seans-filmowy/"
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Listopadowy wieczór, rozświetlone Los Angeles, jazz i historia dwojga ludzi, którzy próbują pogodzić miłość z wielkimi ambicjami — tak zapowiada się kolejne spotkanie z Filmowym Zefirem. To propozycja dla tych, którzy mają ochotę na kino z muzyką, tańcem i odrobiną wzruszeń. Kiedy: 13 listopada 2026 roku (piątek), godz. 18:00 Gdzie: Plac Pokoju 1, 44-253 Rybnik Wstęp: wolny Filmowy Zefir - greckie lato w rytmie ABBY | bezpłatny seans filmowy w Rybniku Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/filmowy-zefir-milosc-jazz-i-marzenia"
     },
     {
       "id": "iryb-echo-rodu-w-rybniku-koncert-pelen-slowianskich-brzmien-w-klu",
       "title": "Echo Rodu w Rybniku. Koncert pełen słowiańskich brzmień w Klubie Odyseja",
       "category": "Koncert",
       "start": "2026-11-13T19:00",
-      "end": "2026-11-13T20:30",
+      "end": null,
       "venue": "Klub Odyseja",
       "description": "Rybnik szykuje się na wieczór, który trudno będzie pomylić z czymkolwiek innym Echo Rodu przywiezie do Klubu Odyseja muzykę inspirowaną dawnymi rytuałami, folklorem i transową elektroniką. To jeden z tych koncertów, które bardziej się przeżywa niż tylko słucha — więc warto zarezerwować sobie ten termin. Kiedy: 13 listopada 2026 (piątek), godz. 19:00–21:00 Wejście na teren wydarzenia: od godz. 18:00 Gdzie: Klub Odyseja , ul. Raciborska 9a, Rybnik Wejściówki są dostępne w sprzedaży online. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie .",
       "sourceName": "iRybnik",
@@ -526,6 +515,17 @@
       "description": "W czwartek w Rybniku będzie można bezpłatnie sprawdzić słuch i porozmawiać ze specjalistą. Badanie odbędzie się w mobilnym Słuchobusie, a udział nie wiąże się z opłatą. W przekazanych danych lokalizacyjnych wydarzenia pojawia się także adres Rynek 15, 44-200 Rybnik . Opis badania wskazuje jednak parking Parku Handlowego S1 jako miejsce postoju Słuchobusu. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Firma Marmed i słyszę organizuje przesiewowe badanie słuchu oraz konsultację ze specjalistą. To okazja, by skontrolować słuch — jego pogorszenie może postępować stopniowo i początkowo być trudne do zauważenia.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/zadbaj-o-swoj-sluch-bezplatne-badania-w-rybniku"
+    },
+    {
+      "id": "iryb-spotkanie-czytelnicze-dla-seniorek-czytaj-dyskutuj-i-dzialaj",
+      "title": "Spotkanie czytelnicze dla seniorek „Czytaj, dyskutuj i działaj”",
+      "category": "Impreza",
+      "start": "2026-11-19T10:00",
+      "end": null,
+      "venue": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku",
+      "description": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku zaprasza seniorki na spotkanie z cyklu „Czytaj, dyskutuj i działaj”. Wydarzenie będzie okazją do wspólnego czytania i rozmowy. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Spotkanie jest skierowane do seniorek i odbędzie się w ramach cyklu „Czytaj, dyskutuj i działaj”. Jego idea łączy czytanie z dyskusją i aktywnym udziałem uczestniczek. Organizatorem wydarzenia jest Powiatowa i Miejska Biblioteka Publiczna w Rybniku .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/spotkanie-czytelnicze-dla-seniorek-czytaj-dyskutuj-i-dzialaj"
     },
     {
       "id": "iryb-dkk-w-filii-nr-2-wokol-ksiazki-sonata-gustava-rose-tremain",
@@ -1287,15 +1287,15 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/przemytnicy.html"
     },
     {
-      "id": "tzr-koncert-symfoniczny-przeboje-muzyki-symfonicznej",
-      "title": "Koncert symfoniczny: Przeboje Muzyki Symfonicznej",
+      "id": "bilnya-koncert-symfoniczny-przeboje-muzyki-symfonicznej-202612021800",
+      "title": "Koncert symfoniczny „Przeboje muzyki symfonicznej”",
       "category": "Koncert",
       "start": "2026-12-02T18:00",
       "end": "2026-12-02T19:30",
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Wybitni pedagodzy Akademii Muzycznej w Katowicach i młodzi wirtuozi Szkoły Szafranków na jednej scenie! Zapraszamy na koncert „Przeboje muzyki symfonicznej”.",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/koncert-symfoniczny-przeboje-muzyki-symfonicznej.html"
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🎻 Daj się porwać największym arcydziełom muzyki symfonicznej! Usłysz pełną elegancji kompozycję Mozarta, nastrojowe dzieła Ravela i monumentalne „Bolero” w wykonaniu znakomitych solistów i orkiestry. ✨.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/Koncert-symfoniczny-Przeboje-muzyki-symfonicznej?eid=721147#opis"
     },
     {
       "id": "iryb-rybnik-w-swiatecznym-klimacie",
@@ -1375,6 +1375,17 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/koncert-zespolu-universe.html"
     },
     {
+      "id": "bilnya-universe-202612051800",
+      "title": "Universe",
+      "category": "Koncert",
+      "start": "2026-12-05T18:00",
+      "end": "2026-12-05T19:30",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🔥Universe! Dołącz do nas, aby wspólnie świętować magię muzyki i tworzyć niezapomniane wspomnienia. Zakup bilet i przygotuj się na niezapomnianą podróż muzyczną podczas koncertu zespołu Universe ‼️🎶.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/koncert/Universe?eid=697526#opis"
+    },
+    {
       "id": "iryb-dragon-horrorscope-catharsis-hellkat-w-rybniku",
       "title": "DRAGON + Horrorscope + Catharsis + Hellkat w Rybniku",
       "category": "Impreza",
@@ -1395,6 +1406,17 @@
       "description": "Ho, ho, ho! Mikołaj już szykuje sanie i wkrótce zawita do Chwałowic. Zapraszamy wszystkie dzieci wraz z rodzicami na wyjątkowe popołudnie pełne magii, niespodzianek i świątecznej atmosfery! 6 grudnia 2026 r. (niedziela) w Domu Kultury w Rybniku-Chwałowicach.",
       "sourceName": "DK Chwałowice",
       "sourceUrl": "https://www.dkchwalowice.pl/?news=52473"
+    },
+    {
+      "id": "bilnya-mikolaj-w-domu-kultury-niedobczyce-202612060900",
+      "title": "Mikołaj w Domu Kultury Niedobczyce",
+      "category": "DlaDzieci",
+      "start": "2026-12-06T09:00",
+      "end": "2026-12-06T11:00",
+      "venue": "Dom Kultury Niedobczyce, ul. Barbary 23",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/dla-dzieci/Mikolaj-w-Domu-Kultury-Niedobczyce-w-Rybniku?eid=716120#opis"
     },
     {
       "id": "dk-bog-11161-spotkanie-z-mikolajem-trzy-godziny-do-wyboru-10-00-12-00-15-00",
@@ -1689,7 +1711,7 @@
       "start": "2026-12-20T16:00",
       "end": "2026-12-20T16:00",
       "venue": "Dom Kultury Boguszowice",
-      "description": "Zapraszamy Was do Domu Kultury w Rybniku-Boguszowicach! Będzie muzyka, mnóstwo dobrej energii i okazja, żeby wspólnie zrobić coś naprawdę ważnego. Gramy dla Tomka, podopiecznego Stowarzyszenia PROGRES! Zaczniemy od kolędowego przeglądu w wykonaniu uczestników zajęć muzycznych naszego Domu Kultury i pewnie nie zabraknie wzruszeń! A potem? GOSPEL! Na scenie pojawi się chór Rybnickiego Wieczoru Chwały, który w każdy trzeci czwartek miesiąca można usłyszeć w Bazylice św. Antoniego w Rybniku. Tym razem ich energia, moc głosów i radość wspólnego śpiewania wypełnią naszą salę widowiskową. 💛 GRAMY DLA TOMKA! Chcemy, żeby ten świąteczny wieczór przyniósł coś więcej niż piękne wspomnienia. Żeby muzyka, wspólne spotkanie i Wasza hojność zamieniły się w realną pomoc dla Tomka. 🎁 Podczas wydarzenia odbędzie się zbiórka charytatywna, a także mini-kiermasz i stoisko gastronomiczne. Część dochodu ze sprzedaży zasili zbiórkę na jego rzecz.Zabierzcie bliskich, dobry humor i trochę gotówki na szczytny cel! Będzie okazja by pobyć razem, posłuchać muzyki, znaleźć coś ciekawego na kiermaszu, skosztować świątecznych przysmaków i przy okazji zrobić coś dobrego. Bez wielkich deklaracji. Po prostu pomóc.",
+      "description": "Zapraszamy Was do Domu Kultury w Rybniku-Boguszowicach! Będzie muzyka, mnóstwo dobrej energii i okazja, żeby wspólnie zrobić coś naprawdę ważnego. Gramy dla Tomka, podopiecznego Stowarzyszenia PROGRES! Zaczniemy od kolędowego przeglądu w wykonaniu uczestników zajęć muzycznych naszego Domu Kultury i pewnie nie zabraknie wzruszeń! A potem? GOSPEL! Na scenie pojawi się chór Rybnickiego Wieczoru Chwały, który w każdy trzeci poniedziałek miesiąca można usłyszeć w Bazylice św. Antoniego w Rybniku. Tym razem ich energia, moc głosów i radość wspólnego śpiewania wypełnią naszą salę widowiskową. 💛 GRAMY DLA TOMKA! Chcemy, żeby ten świąteczny wieczór przyniósł coś więcej niż piękne wspomnienia. Żeby muzyka, wspólne spotkanie i Wasza hojność zamieniły się w realną pomoc dla Tomka. 🎁 Podczas wydarzenia odbędzie się zbiórka charytatywna, a także mini-kiermasz i stoisko gastronomiczne. Część dochodu ze sprzedaży zasili zbiórkę na jego rzecz.Zabierzcie bliskich, dobry humor i trochę gotówki na szczytny cel! Będzie okazja by pobyć razem, posłuchać muzyki, znaleźć coś ciekawego na kiermaszu, skosztować świątecznych przysmaków i przy okazji zrobić coś dobrego. Bez wielkich deklaracji. Po prostu pomóc.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/swiateczny-koncert-charytatywny-i-kiermasz-dla-tomka/"
     },
