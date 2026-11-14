@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:31:53",
+  "generated_at": "2026-11-14T22:21:08",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,130 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 165,
+  "count": 161,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-czarna-plytka-swietuje-dziesieciolecie",
-      "title": "CZARNA płytka świętuje dziesięciolecie",
-      "category": "Impreza",
-      "start": "2026-11-14T11:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "CZARNA płytka kończy 10 lat! Miejsce, które po raz pierwszy otworzyło drzwi w listopadzie 2016 roku, szykuje jubileuszowe świętowanie. Zapiszcie datę i szykujcie się na urodzinową atmosferę — szczegóły mają pojawić się wkrótce. Data: sobota, 14 listopada 2026 roku, godz. 11:00 Miejsce: ul. Rudzka 8, 44-200 Rybnik Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Dziesięć lat wspólnej historii to dla CZARNEJ płytki wyjątkowy moment. Poprzednie, dziewiąte urodziny były huczne, więc i tegoroczny jubileusz ma zostać zapamiętany na długo.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/czarna-plytka-swietuje-dziesieciolecie"
-    },
-    {
-      "id": "iryb-tarty-i-tartaletki-w-rybniku",
-      "title": "Tarty i tartaletki w Rybniku",
-      "category": "Impreza",
-      "start": "2026-11-14T11:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Cytrynowa tarta z bezą włoską, aromatyczne tartaletki i wytrawna wersja z grzybami — takie smaki czekają na uczestników warsztatów kulinarnych w Rybniku. To cztery godziny wspólnego gotowania, nauki i degustowania. Warsztaty odbędą się w sobotę 14 listopada 2026 roku o godz. 11:00 w Studiu Kulinarnym Aromaty przy ul. Rynek 2, I piętro, w Rybniku . Spotkanie potrwa około czterech godzin, a udział kosztuje 290 zł . Rezerwacja miejsca jest możliwa przez Messenger lub pod adresem e-mail: [email protected] . Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Uczestnicy przygotują trzy propozycje: tartę cytrynową z bezą włoską , tartaletki z kremem z nutką cynamonu oraz wytrawną tartę z grzybami . Zajęcia poprowadzi Katarzyna Wojciechowicz, założycielka Studia Kulinarnego Aromaty, pasjonatka gotowania i odkrywania nowych smaków. Dba o jakość składników i każdy detal przygotowywanych potraw.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/tarty-i-tartaletki-w-rybniku"
-    },
-    {
-      "id": "iryb-rodzinne-soboty-w-rzecznej-architektura-dla-dzieci",
-      "title": "Rodzinne soboty w Rzecznej: architektura dla dzieci",
-      "category": "DlaDzieci",
-      "start": "2026-11-14T11:30",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Makiety, szkice i prototypy pomogą spojrzeć na codzienne otoczenie z zupełnie nowej perspektywy. Galeria Sztuki Rzeczna zaprasza rodziny na warsztaty architektoniczne — można wybrać pojedyncze spotkanie albo uczestniczyć w całym cyklu. To ciekawy pomysł na wspólne, twórcze sobotnie przedpołudnie. Warsztaty zaplanowano na 14 listopada i 5 grudnia 2026 roku , w godz. 11:30–13:30 . Miejscem spotkań będzie Galeria Sztuki Rzeczna, Rzeczna 1, 44-200 Rybnik . Udział kosztuje 25 zł za warsztat dla dziecka z opiekunem . Mieszkańcy posiadający Rybnicką Kartę Mieszkańca „Rybka” otrzymują 20% zniżki. Opłatę można wnieść w kasie Galerii lub przez portal biletyna.pl. Przed pierwszymi zajęciami w danym roku należy dostarczyć do kasy Galerii wypełnioną kartę zgłoszeniową i zaakceptować regulamin. Wystarczy zrobić to raz — nie trzeba wypełniać formularza przed każdym warsztatem. Kartę można pobrać na stronie Galerii Sztuki Rzeczna.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/rodzinne-soboty-w-rzecznej-architektura-dla-dzieci"
-    },
-    {
-      "id": "iryb-pokemon-league-challenge-w-jaskini-turniej-w-listopadzie",
-      "title": "Pokémon League Challenge w Jaskini: turniej w listopadzie",
-      "category": "Sport",
-      "start": "2026-11-14T12:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Listopadowy Pokémon League Challenge w Jaskini to propozycja dla graczy, którzy chcą sprawdzić swoje talie w turniejowej rywalizacji i zdobyć Championship Points. Zawody odbędą się w formacie Standard — warto przygotować talię i dołączyć do gry! Turniej rozpocznie się w sobotę, 14 listopada 2026 roku, o godz. 12:00 . Miejscem rozgrywek będzie ul. Tadeusza Kościuszki 44 w Rybniku . Wpisowe wynosi 25 zł . Zapisy prowadzone są przez Messengera oraz w sklepie stacjonarnym. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie .",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/pokemon-league-challenge-w-jaskini-turniej-w-listopadzie"
-    },
-    {
-      "id": "iryb-turniej-two-headed-giant-precon-commander-w-jaskini",
-      "title": "Turniej Two-Headed Giant Precon Commander w Jaskini",
-      "category": "Sport",
-      "start": "2026-11-14T16:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "W Rybniku drużyny dwuosobowe zmierzą się w turnieju Commander w formacie Two-Headed Giant, grając gotowymi taliami preconstructed. To okazja do wspólnej rozgrywki i sprawdzenia, jak talie działają w nieco innym układzie niż w klasycznym Commanderze. 14 listopada 2026 roku (sobota), godz. 16:00 Jaskinia, ul. Tadeusza Kościuszki 44, 44-200 Rybnik Wstęp na turniej jest bezpłatny. Zgłoszenia dotyczą całych, dwuosobowych drużyn. Za każdą ekipę do puli nagród trafią dwa boostery. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/turniej-two-headed-giant-precon-commander-w-jaskini"
-    },
-    {
-      "id": "iryb-gwarki-z-hoym-gruby-w-rybniku",
-      "title": "Gwarki z Hoym Gruby w Rybniku",
-      "category": "Impreza",
-      "start": "2026-11-14T17:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Górnicze opowieści, wspólny posiłek i śpiew przy muzyce — tak zapowiada się listopadowe spotkanie w Zabytkowej Kopalni Ignacy. „Gwarki z Hoym Gruby” to okazja do rozmów i wspomnień w wyjątkowym miejscu, związanym z historią górnictwa na Ziemi Rybnickiej. Spotkanie odbędzie się w sobotę 14 listopada 2026 roku o godz. 17:00 w Zabytkowej Kopalni Ignacy przy ul. Ignacego Mościckiego 3 w Rybniku . Bilet kosztuje 180 zł od osoby . Wejściówki są dostępne w kasie kopalni, a ich liczba jest ograniczona. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/gwarki-z-hoym-gruby-w-rybniku"
-    },
-    {
-      "id": "iryb-40-silesian-jazz-meeting-dwa-koncerty",
-      "title": "40. Silesian Jazz Meeting: dwa koncerty",
-      "category": "Koncert",
-      "start": "2026-11-14T18:00",
-      "end": "2026-11-14T19:30",
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Dwa różne muzyczne światy spotkają się jednego wieczoru w Rybniku. Pierwszy dzień 40. Silesian Jazz Meeting przyniesie energetyczne brzmienia zespołu KLAWO, a później jazzowe aranżacje piosenek Wojciecha Młynarskiego w wykonaniu kwintetu Myrczek & Schmidt. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Wieczór rozpocznie KLAWO – gdański zespół, który swobodnie łączy funk, soul, jazz, psychodelię i elektronikę. Jego koncerty słyną z wyrazistego rytmu, mocnych melodii i energii, która najlepiej wybrzmiewa na żywo. Grupa występowała już na festiwalach i scenach w 15 krajach. Druga część wieczoru należeć będzie do Wojciecha Myrczka i Piotra Schmidta oraz ich kwintetu. W programie „Młynarski. Bynajmniej” znane i mniej oczywiste piosenki Wojciecha Młynarskiego zyskają nowe, jazzowe aranżacje Krzysztofa Herdzina. Nie zabraknie improwizacji, muzycznych dialogów i charakterystycznego dla twórczości Młynarskiego humoru.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/40-silesian-jazz-meeting-dwa-koncerty"
-    },
-    {
-      "id": "iryb-mkks-rybnik-mecz-z-cracovia-1906",
-      "title": "MKKS Rybnik – mecz z Cracovią 1906",
-      "category": "Sport",
-      "start": "2026-11-14T18:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Po wyjazdowej porażce w Stalowej Woli koszykarze MKKS-u Rybnik wracają do własnej hali. W 10. kolejce 2. ligi zmierzą się z Cracovią 1906, a sobotni wieczór zapowiada się jak dobra okazja, by poczuć sportowe emocje na żywo Data: sobota, 14 listopada 2026 r., godz. 18:00 Miejsce: hala Zespołu Szkół Ekonomiczno-Usługowych w Rybniku Koszykarki i siatkarze wracają do gry. Piłkarze walczą o przełamanie Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń .",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/mkks-rybnik-mecz-z-cracovia-1906"
-    },
-    {
-      "id": "bilnya-mariusz-kalamaga-mamo-papier-sie-konczy-202611141800",
-      "title": "Mariusz Kałamaga - Mamo! Papier się kończy!",
-      "category": "Kabaret",
-      "start": "2026-11-14T18:00",
-      "end": "2026-11-14T19:30",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": "🤣 Mariusz Kałamaga wraca na scenę z programem \"Mamo! Papier się kończy!\"🎤💥 Humor, dystans i inteligentne obserwacje o świecie, który głupieje szybciej niż AI! 😜 Przyjdź po solidną dawkę śmiechu i pozytywnej energii! 🎟️✨.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Mariusz-Kalamaga/Mamo-Papier-sie-konczy?eid=670773#opis"
-    },
-    {
-      "id": "iryb-hate-damnation-synapsa-i-nuclear-venom-zagraja-w-rybniku-met",
-      "title": "Hate, Damnation, Synapsa i Nuclear Venom zagrają w Rybniku. Metalowy wieczór w Odysei",
-      "category": "Koncert",
-      "start": "2026-11-14T18:30",
-      "end": null,
-      "venue": "Klub Odyseja",
-      "description": "W Rybniku szykuje się mocne uderzenie dla fanów ekstremalnego grania Cztery zespoły, cztery różne podejścia do ciężaru i jeden wieczór, który zapowiada się wyjątkowo intensywnie. Na jednej scenie spotkają się doświadczenie, oldschool, młoda energia i bezkompromisowa szybkość — warto zaznaczyć tę datę w kalendarzu. Data i godzina: 14 listopada 2026 (sobota), godz. 18:30 Miejsce: Klub Odyseja, ul. Raciborska 9a, Rybnik Podczas weryfikacji będą wydawane bilety kolekcjonerskie . Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie .",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/hate-damnation-synapsa-i-nuclear-venom-zagraja-w-rybniku-metalowy-wieczor-w-odysei"
-    },
-    {
-      "id": "iryb-silesian-mma-28-wip-18-w-rybniku",
-      "title": "SILESIAN MMA 28 & WiP 18 w Rybniku",
-      "category": "Impreza",
-      "start": "2026-11-14T19:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Po trzyletniej przerwie gale Silesian MMA wracają do Rybnika — i to w podwójnym wydaniu. 14 listopada 2026 roku jednego wieczoru odbędą się SILESIAN MMA 28 oraz WiP 18 „Walcz i Pomagaj”, łącząc sportowe pojedynki z ideą aktywnego udziału w wydarzeniu. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . SILESIAN MMA 28 ma przynieść mocne zestawienia, w których pojawią się zarówno młodzi zawodnicy, jak i bardziej doświadczeni fighterzy. Z kolei WiP 18, czyli „Walcz i Pomagaj”, stawia na sportową przygodę i możliwość sprawdzenia się w klatce. Szczegóły dotyczące karty walk, zawodników i biletów mają być ogłaszane w kolejnych tygodniach.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/silesian-mma-28-wip-18-w-rybniku"
-    },
     {
       "id": "iryb-rutyna-run-6-coffee-bieg-i-kawa",
       "title": "RUTYNA RUN #6 COFFEE – bieg i kawa",
@@ -1353,6 +1232,17 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/tu-kino-swieta-astrid-lindgren-seans-dla-szkol-i-przedszkoli/"
     },
     {
+      "id": "bilnya-w-tym-kraju-nie-ma-dobrych-mezczyzn-202612071530",
+      "title": "W tym kraju nie ma dobrych mężczyzn",
+      "category": "Film",
+      "start": "2026-12-07T15:30",
+      "end": "2026-12-07T17:00",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/film/W-tym-kraju-nie-ma-dobrych-mezczyzn?eid=721623#opis"
+    },
+    {
       "id": "dk-bog-11176-tu-kino-swiat-chiary-seans-dla-szkol-podstawowych",
       "title": "Tu Kino: Świat Chiary - seans dla szkół podstawowych",
       "category": "Film",
@@ -1395,6 +1285,17 @@
       "description": "Łukasz Kowalski przyjeżdża do Rybnika z premierą nowego programu „Perkusista”. Wieczór stand-upowy zaplanowano w Klubie Odyseja, a wstęp jest przeznaczony dla osób od 16. roku życia. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . „Perkusista” to nowy program Łukasza Kowalskiego, prezentowany podczas premierowego wieczoru w Rybniku. To propozycja dla osób, które mają ochotę spędzić wieczór przy stand-upie i poznać premierowy materiał komika. Wydarzenie jest dla osób od 16 lat. Podczas występu nie wolno nagrywać dźwięku ani obrazu. Osoby zakłócające wydarzenie mogą zostać wyproszone bez zwrotu pieniędzy za bilet.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/perkusista-w-rybniku-premiera-stand-upu"
+    },
+    {
+      "id": "dk-chw-jarmark-staroci-i-rekodziela-20261212",
+      "title": "Jarmark staroci i rękodzieła",
+      "category": "Festiwal",
+      "start": "2026-12-12T07:00",
+      "end": null,
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "Jarmark odbywa się w każdą drugą sobotę miesiąca. Zapraszamy w sobotę, 12 grudnia 2026 r. od godz. 7:00 na rybnicki deptak , czyli ciąg ulic Jana III Sobieskiego i Powstańców Śląskich.",
+      "sourceName": "DK Chwałowice",
+      "sourceUrl": "https://www.dkchwalowice.pl/?news=52794"
     },
     {
       "id": "dk-bog-11179-ceramiczne-pierniki-rodzinne-warsztaty-swiateczne",
@@ -1516,6 +1417,17 @@
       "description": "Święta tuż-tuż! Choinka, pierniczki, rodzinne spotkania, zapach mandarynek… i ta jedna, niepokojąca myśl: czy wszystkie prezenty są już kupione? Jeśli jeszcze nie, to spokojnie. Bohater naszego grudniowego Filmowego Zefira jest w znacznie trudniejszej sytuacji! 18 grudnia zapraszamy na bezpłatny seans kultowej świątecznej komedii, w której Arnold Schwarzenegger podejmuje się misji trudniejszej niż wszystkie jego dotychczasowe filmowe wyzwania. Tym razem nie musi ratować świata ani walczyć z kosmitami. Musi zdobyć wymarzoną zabawkę dla syna. I to na ostatnią chwilę! Problem w tym, że dokładnie na ten sam pomysł wpadło pół miasta. Rozpoczyna się szalony wyścig z czasem, pełen absurdalnych sytuacji, komicznych pomyłek i zakupowej desperacji. To film, który z przymrużeniem oka pokazuje przedświąteczne szaleństwo, a przy okazji przypomina, że najcenniejszych prezentów nie znajdziemy na sklepowych półkach. Zapraszamy całe rodziny, grupy przyjaciół i wszystkich, którzy na hasło „świąteczne zakupy” dostają lekkiej zadyszki. Gwarantujemy solidną porcję śmiechu i doskonały trening mięśni brzucha. Bez wychodzenia z kinowego fotela! Wstęp wolny!",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/filmowy-zefir-arnold-kontra-swiateczne-zakupy/"
+    },
+    {
+      "id": "dk-chw-koncerty-fortepianowe-przy-swiecach-20261219",
+      "title": "Koncerty fortepianowe przy świecach",
+      "category": "Koncert",
+      "start": "2026-12-19T00:00",
+      "end": null,
+      "venue": "Dom Kultury Rybnik-Chwałowice",
+      "description": "W sobotę 19 grudnia 2026 roku zapraszamy na dwa wyjątkowe K oncerty fortepianowe przy świecach. Organizatorem wydarzenia jest Candle Live Music.",
+      "sourceName": "DK Chwałowice",
+      "sourceUrl": "https://www.dkchwalowice.pl/?news=52795"
     },
     {
       "id": "iryb-krolewna-sniezka-i-siedmiu-rybnickich-krasnoludkow-wraca-na",
@@ -1786,22 +1698,33 @@
       "title": "Andrzej Sikorowski w duecie z Jackiem Królikiem",
       "category": "Koncert",
       "start": "2027-01-30T18:00",
-      "end": null,
+      "end": "2027-01-30T19:30",
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Andrzej Sikorowski w duecie z Jackiem Królikiem W programie znajdą się piosenki Andrzeja Sikorowskiego, wokalisty, wieloletniego lidera Grupy Pod Budą i autora większości jej utworów. Andrzej Sikorowski przy wsparciu jednego z najlepszych polskich gitarzystów Jacka Królika przeprowadza widzów przez świat swoich największych przebojów napisanych dla grupy Pod Budą ( Kap, kap, płyną łzy ) czy śpiewanych poza nią, takich jak: Kraków Piwna 7, Lecz póki co żyjemy, Na całość, Nie przenoście nam stolicy do Krakowa, Ale to już było , oraz pochodzące z trzech wspólnie nagranych z córką Mają Sikorowską płyt ( Kraków-Saloniki, Sprawa rodzinna, Okno na Planty ).",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/andrzej-sikorowski-w-duecie-z-jackiem-krolikiem.html"
     },
     {
-      "id": "tzr-krolowe-zycia",
+      "id": "bilnya-krolowe-zycia-202701311530",
       "title": "Królowe życia",
       "category": "Spektakl",
       "start": "2027-01-31T15:30",
-      "end": "2027-01-31T18:30",
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Brawurowa komedia pomyłek o miłości, ambicjach i… bardzo rodzinnych interesach.",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/krolowe-zycia.html"
+      "end": "2027-01-31T17:00",
+      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
+      "description": "🎭 Brawurowa komedia pomyłek o miłości i biznesie! Dwaj wspólnicy chcą sprzedać firmę Niemcom, ale żony mają inne plany... 😂 Seria nieporozumień zmienia nudne małżonki w pewne siebie kobiety fatalne! 💃 Porcja śmiechu gwarantowana! ✨.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/Krolowe-zycia?eid=720311#opis"
+    },
+    {
+      "id": "bilnya-ai-love-you-czyli-terapia-malzenska-xxi-wieku-202702192000",
+      "title": "\"AI LOVE YOU\" - czyli terapia małżeńska XXI wieku",
+      "category": "Spektakl",
+      "start": "2027-02-19T20:00",
+      "end": "2027-02-19T21:20",
+      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/spektakl/AI-LOVE-YOU-czyli-terapia-malzenska-XXI-wieku?eid=719244#opis"
     },
     {
       "id": "dk-bog-11035-dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-godz-16-00",
@@ -1824,6 +1747,39 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
+    },
+    {
+      "id": "bilnya-bartosz-gajda-po-lecie-stand-up-nowy-program-202704121900",
+      "title": "Bartosz Gajda - \"PO LECIE\" - stand up NOWY PROGRAM",
+      "category": "Kabaret",
+      "start": "2027-04-12T19:00",
+      "end": "2027-04-12T20:30",
+      "venue": "inoWino Świerklaniec, Jana III Sobieskiego 9",
+      "description": "😂⏳ Czas leci jak szalony? To idealny moment na solidną dawkę śmiechu! Bartosz Gajda wraca z nowym stand-upem – inteligentny humor, absurd i zero zbędnych wulgaryzmów. Przyjdź i pośmiej się z życia, zanim znów przyspieszy 🎤✨🎟️.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/stand-up/Bartosz-Gajda/po-lecie?eid=713645#opis"
+    },
+    {
+      "id": "bilnya-kabaret-paranienormalni-w-nowym-programie-2027-202710091600",
+      "title": "Kabaret Paranienormalni - w nowym programie 2027",
+      "category": "Kabaret",
+      "start": "2027-10-09T16:00",
+      "end": "2027-10-09T17:30",
+      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
+      "description": null,
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/kabaret/Kabaret-Paranienormalni/w-nowym-programie?eid=718872#opis"
+    },
+    {
+      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
+      "title": "NutkoSfera - CeZik dzieciom",
+      "category": "DlaDzieci",
+      "start": "2027-12-03T17:00",
+      "end": "2027-12-03T18:20",
+      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
+      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
+      "sourceName": "biletyna.pl",
+      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }

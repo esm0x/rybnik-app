@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:33:37",
+  "generated_at": "2026-11-14T22:23:05",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,136 @@
     }
   ],
   "items": [
+    {
+      "id": "5e3fa4db743e6c8be77dc45ba1b95d3560489a17",
+      "title": "Wodzisławska starówka zamieniła się w wielką galerię sztuki. Za nami Noc Sztuki [ZDJĘCIA]",
+      "summary": "Zabytkowa starówka Wodzisławia Śląskiego na jeden wieczór stała się wyjątkową przestrzenią wystawienniczą. W sobotę, 14 listopada, odbyła się Noc Sztuki, podczas której mieszkańcy mogli odkrywać artystyczne oblicze miasta, odwiedzając miejsca na co dzień niezwiązane z prezentacją dzieł sztuki.",
+      "link": "https://www.nowiny.pl/wiadomosci/252211-wodzislawska-starowka-zamienila-sie-w-wielka-galerie-sztuki-za-nami-noc-sztuki-zdjecia.html",
+      "published": "2026-11-14T21:56",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "771e2da12a6c786b7097e2bbd9f65cc93078cf39",
+      "title": "Wielka Polska, ale co to właściwie oznacza? Może to puste słowa? [FELIETON]",
+      "summary": "Niedawno wszyscy celebrowaliśmy Narodowe Święto Niepodległości. Z tej okazji padały różne hasła patriotyczne – te polityczne pomińmy milczeniem. Jedno z nich zwróciło moją uwagę, tym bardziej że pojawia się również na murach naszego miasta. Chodzi o zawołanie: „Wielka Polska”. Na pierwszy rzut oka…",
+      "link": "https://jastrzebieonline.pl/opinie/252210-wielka-polska-ale-co-to-wlasciwie-oznacza-moze-to-puste-slowa-felieton.html",
+      "published": "2026-11-14T19:59",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1508fc539dafddef4440ef8751718d5b8d91e822",
+      "title": "Zwycięstwo wyszarpane w końcówce. Koszykarze MKKS-u Rybnik pokonali Cracovię",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN1Z4QXo5czhLQ3JUdUlkbXpWcHpBZUVZeUJqdThyNXdUaUxPUVR6eWZTTTdYM1hDdFlrdVQ5U3Y2aHoySjdsZU9rSVhOYjdCd25tWVBMUzBoaTRiX2NIRE9EbFdEYm13akhHRTVrUnhkRVpFNVNkUm9mOFBEMEtnT1ZHRmM0SmlCdFp2NjR3VHRENkNaRk55T1hTbHo5NnBPTEVIWnplaVZHSmZ4Y19GX2ZLeEhQZ1NSVExyMjZfNlJwZFliakxpeTVpM092dw?oc=5",
+      "published": "2026-11-14T19:26",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c1cb50b0cfb92a9270a39755d5e7ab94e24323ae",
+      "title": "Przyszłość Rogów skuteczniejsza w Lubomi. Silesia zapłaciła za błędy w defensywie [ZDJĘCIA]",
+      "summary": "Przyszłość Rogów wywiozła komplet punktów z Lubomi, pokonując miejscową Silesię 2:0. Spotkanie długo pozostawało wyrównane, jednak goście lepiej wykorzystali swoje okazje, a gospodarze po przerwie zbyt mocno odsłonili się w defensywie.",
+      "link": "https://sport.nowiny.pl/sport/252209-przyszlosc-rogow-skuteczniejsza-w-lubomi-silesia-zaplacila-za-bledy-w-defensywie-zdjecia.html",
+      "published": "2026-11-14T19:20",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c475f2d70209c1daeccaa4580fb34d96e8664dbd",
+      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMVhOWWZCek1HbndJM1F5dUtENnN6SjhWZkRCcWp5cmVkTmlMREZLZHI2cUw4NWFKYzY0cEdJZVBybU5ILUkxQzM5WVR2WlJsRFpYWlk2cmNfR29FVkZCN1FRODlmUDNZcjF0SHZLazVaZVlhNWNWa1o0VlZTcV9DSV8wN0hWMmVpd2RGZGs0bWVrVTla?oc=5",
+      "published": "2026-11-14T18:34",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7efc84b8db0c3345b455f603b038acb8a368b047",
+      "title": "Pięć medali dla Jastrzębia. Młodzi pięściarze wrócili z Pucharu Polski z krążkami",
+      "summary": "Młodzi bokserzy z Jastrzębia-Zdroju mają za sobą udany start w Wałbrzychu. Z Międzynarodowego Pucharu Polski U-15 i U-17 przywieźli pięć medali. Na podium stanęli reprezentanci Pietrzyk Boxing Team oraz BKS Jastrzębie.",
+      "link": "https://jastrzebieonline.pl/sport/252208-piec-medali-dla-jastrzebia-mlodzi-piesciarze-wrocili-z-pucharu-polski-z-krazkami.html",
+      "published": "2026-11-14T18:26",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5f1667da39007366420daad66b073a17f98c95c6",
+      "title": "ROW 1964 Rybnik wrócił z Legnicy bez punktów. Gol w ostatniej minucie",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWDEzYkQ0VzJ5M1NyaXloZWdLcmRzYkh2VnVYVjEtSjZyZTRWTmFFT29ISFZuQ3ZLVENZeGJzS2VXQy1tMVhOM08wZnZXV1VVSlV4WTNMSGVxNG04TG52ZjM5c1RFWjd3OUZlUFowT1l4S19xQTRVNEp1WUJ3UzB4NHlzU284ZURaaGhTNU1pQVBiMkVxZGhOQ2NMWDE3VWdpczNnSVFUMWJ2ZXlKWVhqZDRiYnVlZzFCZGZkajVPUzRzbTZh?oc=5",
+      "published": "2026-11-14T18:06",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "05f5ef0302ad42a74796c033b190eb42299f3c14",
+      "title": "Jeden daje jej przyszłość, drugi ma władzę nad jej sercem. „Tu i teraz” Anny Kulawik",
+      "summary": "Anita próbuje żyć bez Dominika, który odszedł dokładnie wtedy, gdy była gotowa walczyć o ich miłość. Przy innym mężczyźnie odnajduje spokój i bezpieczeństwo, ale wystarczy jedno spotkanie, by wszystko wróciło. „Tu i teraz” to nowa powieść Anny Kulawik, znanej w sieci jako Matka Nieboska. Książka…",
+      "link": "https://www.nowiny.pl/wiadomosci/252201-jeden-daje-jej-przyszlosc-drugi-ma-wladze-nad-jej-sercem-tu-i-teraz-anny-kulawik.html",
+      "published": "2026-11-14T17:00",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4bf2e9f7f577d1e716363e8a24b35db9ef6ac38a",
+      "title": "Sprzedam Honda Civic",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0V3SGdLQzlHc29jZUhFUzBwZGNfcXEySnoyRk5tcTJkUlZkUWV2ZFVJWkVjVWlQaEFteS1WWm5zV09FWjZpVXlkOC1YY25acm5LMk1vYUw3bmF0WXM0X19ybkNUQk03UTlmazIyVjBjbXRsb2xBV2EyOGhrcHpmRFlmck5Zdw?oc=5",
+      "published": "2026-11-14T15:48",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "068ca1a49230818085c8eb4771ecffdab7ba0ece",
+      "title": "To już w najbliższy weekend. Finał Jubileuszu parafii Matki Bożej Bolesnej w Rybniku",
+      "summary": "To już 225 lat. W najbliższą niedzielę (15.11.) Wielki Finał Jubileuszu parafii Matki Bożej Bolesnej w Rybniku. Dokładnie 15 listopada 1801 roku poświęcono tzw. \"Stary Kościół\"",
+      "link": "https://www.radio90.pl/to-juz-w-najblizszy-weekend-final-jubileuszu-parafii-matki-bozej-bolesnej-w-rybniku.html",
+      "published": "2026-11-14T15:40",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "1dc17b6a4bf88949ed90a8e26539cca78c79a339",
+      "title": "Jak poznać lokalne firmy na początku kariery? Local Networkers w Rybniku (patronat)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV3BUWWNtZF9SQkxlVlhQTHg1RXp0N1FUNmlYbXRKcjJSbGxTNF9ob3JEdVdQRzBaeUZKaXVmc2VjckNfQkpNczhOQUtYd1NSdUM5LUpOaWlWTUdOSll2N2hMU2lvS3BVTmY2MUNPYnF6bVRSRm5jTzNCT00xYnJSeDA3Y2VnNzVKZUViSXNfSFN5Z2lCbmFuS0FNb3dER08tMFZWWEFNU3RRM1RtYXZCTVo1NDZlNkVveVRXRjAyMVQwZk1GYWdETkRsUXg0M1d3Nl9aQQ?oc=5",
+      "published": "2026-11-14T15:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a5d03430c050d2e60725f4fbcd34b49d0ed32e2e",
+      "title": "ROW Rybnik przegrywa w Legnicy. Zielono-czarni w ostatniej akcji spotkania ulegli rezerwom Miedzi",
+      "summary": "Jako pierwsi wyszli na prowadzenie, gdy rzut karny wykorzystał najskuteczniejszy w ich szeregach, Jakub Kuczera. Później doprowadzili do remisu, lecz ostatnie słowo należało do przeciwników. Piłkarze ROW-u Rybnik w wyjazdowym starciu ulegli rezerwom pierwszoligowej Miedzi Legnicy. Ekipa trenera…",
+      "link": "https://www.radio90.pl/row-rybnik-przegrywa-w-legnicy-zielono-czarni-w-ostatniej-akcji-spotkania-ulegli-rezerwom-miedzi.html",
+      "published": "2026-11-14T14:38",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "06e7466f4e8bcb1dede11a42c14e93eb27ab3fbc",
+      "title": "Nie ma tam przypadkowych rzeczy. Ryszard Paurowski opowiada o muralu przy Zebrzydowickiej",
+      "summary": "Na elewacji budynku przy ul. Zebrzydowickiej 31 w Rybniku pojawił się niezwykły mural. Są na nim rybnickie szczupaki, Bazylika św. Antoniego, żaglówka i postacie inspirowane cosplayem. Autorem „Ponad morzem chmur” jest Ryszard Paurowski, artysta pochodzący z Raciborza. Zdradził nam, skąd wzięły się…",
+      "link": "https://www.nowiny.pl/wiadomosci/252200-nie-ma-tam-przypadkowych-rzeczy-ryszard-paurowski-opowiada-o-muralu-przy-zebrzydowickiej.html",
+      "published": "2026-11-14T14:02",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "40e6adbb23ef54a49cdb817980c9c1ca01f05cb4",
       "title": "Nowy pomnik w Rybniku. Miasto upamiętniło Hermanna Müllera, właściciela browaru i wieloletniego radnego [WIDEO]",
@@ -35,16 +165,6 @@
       "link": "https://www.radio90.pl/wracaja-opowiesci-o-regionie-do-uslyszenia-w-kazda-niedziele.html",
       "published": "2026-11-14T12:10",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ce51bd6bcf91f04bc631e6010381b37ead45d732",
-      "title": "www.rybnik.com.pl",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qbGQxdnpTT1VmZXE2NnFvSVlVeHRDaDgwLTV6WkFUT3M1bEg3WExjcWRHNXU2UzdCNkdCRC0ydVdoNjRvUHpfQ1dQeHV1WGdmeUlmcWROTnhYYjNoOEE?oc=5",
-      "published": "2026-11-14T11:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -179,16 +299,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "050611115d0a31b9c6433ea7c9a95fdbd8358da7",
-      "title": "wiadomości, baza firm i ogłoszenia • Portal",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYzVOalJQWHVOYzByaEdNS0lIaU45UzkwZkhTbVlicGxjaDQ2QVRUQml6Zl9FVV9JLTdYcUMzWVFKRUppYU82ZVlYeURsOE95b3BoMmlqVkZZbmxfTXBNMFh1ekl5TklHX0hXRlczaUJHYmx0WWtocmFRRkhnNXItbTNkTU45OUFya3dBaVN2X3BMenJPcU9n?oc=5",
-      "published": "2026-11-13T18:50",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "60ed5a1e9816c723ac7d60e87b2b5463bf2c23a9",
       "title": "Sportowy weekend w Rybniku (14-15.11.2026)",
       "summary": "",
@@ -209,26 +319,6 @@
       "priority": "ALERT"
     },
     {
-      "id": "3af6d73ae798796c44a234fefb4c3dd75dcbc1c7",
-      "title": "Hodowcy psów rasy tornjak z Polski i Czech spotkali się w Syryni [ZDJĘCIA]",
-      "summary": "Z końcem października w Syryni odbyło się wyjątkowe spotkanie. Do powiatu wodzisławskiego zjechali hodowcy psów rasy tornjak z Polski i Czech. Łącznie do zagrody Alpaka Family zjechały rodziny aż 13 psiaków.",
-      "link": "https://agronowiny.pl/wiadomosci/251967-hodowcy-psow-rasy-tornjak-z-polski-i-czech-spotkali-sie-w-syryni-zdjecia.html",
-      "published": "2026-11-13T17:59",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "860961b8b30d9b342eb03326f28c7c9ec939a33e",
-      "title": "DW932 w Marklowicach znów przejezdna. Zakończyły się prace i zlikwidowano zakaz",
-      "summary": "Uciążliwości dla kierowców, którzy poruszali się w stronę autostrady w Świerklanach wreszcie się zakończyły. Nie ma już zakazu ruchu na ul. Wyzwolenia w Marklowicach, a nową nawierzchnią po remoncie można już bezpiecznie przejechać w stronę Świerklan.",
-      "link": "https://www.nowiny.pl/wiadomosci/252195-dw932-w-marklowicach-znow-przejezdna-zakonczyly-sie-prace-i-zlikwidowano-zakaz.html",
-      "published": "2026-11-13T16:49",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "77ea8e820e9d791e0dbb5d834720c5c4b7136aec",
       "title": "Jarmark na deptaku, jazz w teatrze. Sporo dzieje się w Rybniku w ten weekend",
       "summary": "Jarmark na deptaku, a Barbórkowe uroczystości - odsłona pierwsza - na Hoymgrubie. W ten weekend ciekawych wydarzeń w Rybniku znów nie brakuje.",
@@ -236,46 +326,6 @@
       "published": "2026-11-13T15:40",
       "source": "Radio 90",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "581eba76216f5d8dcc47e71635e1d2b7ca615276",
-      "title": "Przed laty stworzyli modę na bieganie. Forma Wodzisław oficjalnie zaprzestała działalności",
-      "summary": "Klub Sportowy Forma Wodzisław przestał oficjalnie istnieć. Decyzja zapadła jeszcze w październiku, o czym klub poinformował w swoich mediach społecznościowych. Szerszemu gronu - podczas Krostoszowickich Kilometrów Niepodległości - informację tę przekazał wieloletni skarbnik Formy i jej…",
-      "link": "https://sport.nowiny.pl/sport/252194-przed-laty-stworzyli-mode-na-bieganie-forma-wodzislaw-oficjalnie-zaprzestala-dzialalnosci.html",
-      "published": "2026-11-13T15:12",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "75f892ffc16caa97782044e848a877c9c9cb9e5b",
-      "title": "Dystrybutor wody do kuchni - nablatowy czy wolnostojący?",
-      "summary": "W kuchni firmowej urządzenie staje się częścią codziennej organizacji przestrzeni, dlatego jego forma powinna pasować do tego, jak faktycznie korzysta z niej zespół. Model nablatowy może lepiej wykorzystać niewielką powierzchnię, natomiast wolnostojący daje większą swobodę ustawienia i często…",
-      "link": "https://www.nowiny.pl/wiadomosci/252187-dystrybutor-wody-do-kuchni-nablatowy-czy-wolnostojacy.html",
-      "published": "2026-11-13T15:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "f61040489baf2a74b003323a22941f6391cf54c6",
-      "title": "Potrącił 61-latka na pasach i uciekł. Policjanci zatrzymali go w warsztacie samochodowym [FILM]",
-      "summary": "Starszy mieszkaniec Rybnika został potrącony na przejściu dla pieszych przy ulicy Zebrzydowickiej. Kierowca nie udzielił mu pomocy i uciekł. Policjanci zatrzymali później 29-latka w jednym z rybnickich warsztatów samochodowych.",
-      "link": "https://www.nowiny.pl/wiadomosci/252193-potracil-61-latka-na-pasach-i-uciekl-policjanci-zatrzymali-go-w-warsztacie-samochodowym-film.html",
-      "published": "2026-11-13T14:12",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "cc90b9209bd3fbf319ebe99168d17f6cbe168482",
-      "title": "Joanna Maksym-Benczew pozostaje dyrektorem Raciborskiego Centrum Kultury. Jest decyzja prezydenta",
-      "summary": "Joanna Maksym-Benczew będzie kierować Raciborskim Centrum Kultury przez kolejne trzy lata. Prezydent Raciborza Jacek Wojciechowicz podpisał zarządzenie o jej ponownym powołaniu na stanowisko dyrektora.",
-      "link": "https://www.nowiny.pl/wiadomosci/252192-joanna-maksym-benczew-pozostaje-dyrektorem-raciborskiego-centrum-kultury-jest-decyzja-prezydenta.html",
-      "published": "2026-11-13T14:06",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -346,16 +396,6 @@
       "published": "2026-11-13T12:00",
       "source": "nowiny.pl",
       "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "60d5bd88b67c012f062df47bc4df31b1174b439c",
-      "title": "SKUP AUT BEZWYPADKOWYCH - SZYBKA WYCENA | ZADZWOŃ, PRZYJEDZIEMY 6 DNI W TYGODNIU",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY3lmUW5STFVOMk9qQkhYMzNxU3ZZVG9uRVFYRWNMd09mSW11Ny1zM3J1R2hEMlU0RjI5WVVzZWkzLTdBSjZHS3JNSEFhZ0RlVjZlS092MWcwUW92eWlzNDlfQTBDWlhYeFpTWllJaFpJdmxBZ2FfNEZ0Ti1sVm1QUUNLYTRJM2lQM3FXUnAwX0xUVVk2MXBUd2Q1NE95c0JQRTVBV1RRS3ltekNZRk15WkFRTGNaZHRYMGhxaUtvTktEVWwydjFBZk9lM3ZGaFE?oc=5",
-      "published": "2026-11-13T11:01",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -609,6 +649,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "d096e041714c4daea35b187e5598f4173192af1d",
+      "title": "Uczniowie z SP 21 walczą o studnię dla afrykańskiej wioski Concera! (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcU5mcUZRTGFHeWNiOTVIMTZuZmQ1dGhsZTdydHRzX0hobDFscEJuRDJqR2cyenN3Y0RBTjg1STN6U3A3RVNoamxGNjI2ejFlcmlsc1RPNXZOUnpnbzFXcjExaHBrNndLQ29OUEY5NmFIVzZNRmlJTU9ZVGJTS3lqeHpKcGtCNEpLLVZWUGFoZWc0UUhUclRJeEF4UXRMZVctQjdla2dYLTJsYWR3Sk5JR1gyc2VKaGxKRmZENms2NDhJaWVSZ3JONw?oc=5",
+      "published": "2026-11-12T00:27",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "f31f40040714031e41a49af686dff39c2a2196bf",
       "title": "Jak będzie wyglądał nowy „Juliusz”? Wypełnij ankietę i podziel się opinią",
       "summary": "Jaką rolę powinien pełnić odnowiony pawilon „Juliusz” w Rybniku? Osoby odwiedzające miasto, eksperci oraz sympatycy regionu mogą podzielić się swoimi pomysłami i perspektywą, biorąc udział w anonimowym badaniu dotyczącym planowanej adaptacji tego zabytkowego budynku.",
@@ -769,10 +819,10 @@
       "priority": "NORMAL"
     },
     {
-      "id": "a50d668cd5bd76bd512d577037ab010894dd25b9",
-      "title": "Wakacje składkowe ZUS",
+      "id": "6d0bfce5b1818b3ef3c29dd601da98e2ab3ad7ba",
+      "title": "Pomoc de minimis ZUS",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xVDFzOENROThSTDBQc3JCeVZBanA5V0NJZDc0N2s4UHk3M0NzWEhIalZ1c1JXaHBCODlUZTVBdnBFMGVtcFFKUmtaUUMzSWlSdjlSaDRoVDNoRGlKWXRGU05TdzNoc1RKdE5XSnN2M2RqNnBqa3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yU2ZlV3JCOGxzaEItZ1pEOGZXRFNMMjRFcndoWllMckRrLV84ejN2aHJlNWVRUVpPQ2ZDSXVRZy1DSmhEdy1wSFVIQ0lGQTAzeXlTeFBmc0hZSU42SzR0U0ZUcmVmcm1UcklkaUN2Umh0aW11?oc=5",
       "published": "2026-11-11T07:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
@@ -815,66 +865,6 @@
       "link": "https://www.radio90.pl/sniezka-znow-na-deskach-teatru-by-wesprzec-rybnickie-hospicjum.html",
       "published": "2026-11-10T16:10",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "03886e64d9abf9998343c96c22b2a91cd4dc528e",
-      "title": "Piotr Kuczera: Jest Polska przed zamachem i Polska po zamachu. Włodarza miasta pytamy o bezpieczeństwo w czasie imprez masowych",
-      "summary": "Jest Polska przed zamachem i po zamachu. Jest samorząd przed zamachem i po zamachu - to mówi Piotr Kuczera, prezydent Rybnika i przewodniczący Śląskiego Związku Gmin i Powiatów po ataku w Krakowie, pytamy o zabezpieczenia w miastach regionu.",
-      "link": "https://www.radio90.pl/piotr-kuczera-jest-polska-przed-zamachem-i-polska-po-zamachu-wlodarza-miasta-pytamy-o-bezpieczenstwo-w-czasie-imprez-masowych.html",
-      "published": "2026-11-10T15:35",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e1125eb9764154e3486a6fa3cb28c32bb66abeb8",
-      "title": "Dzień wcześniaka w Rybniku. Porady dla rodziców, bal przebierańców dla dzieci [PATRONAT]",
-      "summary": "Konsultacje dla rodziców, porady specjalistów, a dla najmłodszych bal przebierańców, dogoterapia, oraz gry i zabawy - to wszystko czeka na tych, którzy w najbliższą niedzielę (15.11.) odwiedzą Dom Kultury w Rybniku Chwałowicach.",
-      "link": "https://www.radio90.pl/dzien-wczesniaka-w-rybniku-porady-dla-rodzicow-bal-przebierancow-dla-dzieci-patronat.html",
-      "published": "2026-11-10T14:15",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "216eefe3717ada3744b493ec7a990b1033141b0e",
-      "title": "Gazociąg Rybnik Gotartowice – Żory z pozwoleniem na budowę. Jest decyzja Wojewody Śląskiego",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQak51UnREM1VQYnQ2aElmdU1SSTV6cWVyUHJad25QdVhIeENMSGo5VXdtWWllWkpjdnhndUZJYkJyekplR0ZmMFhKckFJbVgycFRTRWdpN2ZpcUlQWHdZRUNuYkhJbEhtWENGakFwd3B5cTBieHp3NlpWaHo4MlhWekdLOUROSGlSVVk0M1NELS00VlpEaTBpbTZ3T2VXRHdaWTZiem1xQlRPa3JfaGpxSE1rVnUzdXI1cm84RFFlR21KUXZ6YXZiOENVSzBYWHZfNWhzTkN2dzE5Y1ZDaFo4?oc=5",
-      "published": "2026-11-10T11:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b388f0a3cd73419867bd1674b77d3495fe26699b",
-      "title": "Policjant po służbie zauważył go na zakupach. Poszukiwany 40-latek trafił za kratki",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPanFaSnhHejh5cUJhX05qYTc3OW1abnYwdElyTHNDU3JxWnVYTEMwLThWLVdDNGVyR2ItRWhpSFJLRmFfVUlyejRWVHByUzRZSFF4bHcyNlIwLVU0QVltbDJ2d2l5ZEVOSktoYWhtWmx2RnFGemFGZTlIM3hEZXlQbUcwcTRJTVJROVZZVHBrTXhkdjZKWWFJRlJhOVJvVF9tR25LRWFXc3JtdzRZUGVXQ2lSUDdrZlg4OXdkR2p0Z1hqNDdPS3JkeUZwOVYwWFBXdVJRZkVTMA?oc=5",
-      "published": "2026-11-10T08:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b067770341f67eb2c25481665792c0bc8af5e288",
-      "title": "Połowa Osiedla Rudzka już gotowa! Zobacz mieszkania na żywo i poznaj nadchodzącą ofertę bliźniaków. Trwa budowa ostatniego szeregowca tego etapu!",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOQ1k1MDlObVp5RGdqNl81MngzbFRhZVpxMzljTzFVOS0yQVFWWHM5ZFJpWkM0QTVQdlQyamxnejJWUFp1YlNJYVN6dzF3NmhIR1Fua0ZPVzF0bmdzbk5VLVhxcXBKTnBxZ3hYRXZ3SzFlZllTYVF5MDVVUGN0aUtBaFJFb19wNFBOV3haOUVidC1ELTBGWlR5UUNDNE1nLUdqVWNQWXBSZnZFZkpmbmNWVC1hRURVeHlIRWxkcWM1elNEeUdoemc3OTBPdnc3TTdFQk5selh2VFRUNFZ6Y0RmdUhaQ1NJcVg1VFZfa19Qc3J2LTl6YkFtVVpEcm1TYWlNaW1GMWdzY1FjVUs1RXZoWW9ub25jcHRZZ3VMNUdNVExwUmR0eU8w?oc=5",
-      "published": "2026-11-10T08:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d400ac8dab399fab9276e141fde044caa4eca1dd",
-      "title": "Zabrakło mu zaledwie kilku sekund. Pochodzący z Rybnika 51-letni Robert zginął w zamachu w Krakowie",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZmV0dTRKc29ZbTk0TDFtcWQ2NTk4U0pJekVDa2I2bFUybjZBOUpzVmFkNlBrMkhGTnkzOXpOd2tDVXlPdmpnSTBXdnlqVXptUFh1Zjg1a1RURHNPUm55Q2pIUjZJZmtqVnllaEVQdFUybnZDT2FXVnAtV19iNVJmejE2WU51YU1Zd0pUN1UyVkQzM0tHazB0RjFFZm83MFlmcmxpVTVFVFVKTnIzZXdRWVE4WHhaV2RwZmpOWlJWM0V3UTJ3emdkOENMekswLUJuRDljUy0xbFVvSVRhYjFuTk5rMnpKdE1LalhBTg?oc=5",
-      "published": "2026-11-10T06:30",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -937,6 +927,16 @@
       "source": "rybnik.eu",
       "category": "Komunikaty",
       "priority": "NORMAL"
+    },
+    {
+      "id": "a1dc7441df409725444dc277b92a40f3be6eaae3",
+      "title": "Gdzie i kiedy nie będzie prądu? Sprawdź planowane wyłączenia energii na kolejne dni",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbkdYWHJXYXdJYVFuMFQwTlhia0padFhjMGFIak5VWU9fb1ZmUDMwa2JtcVNLRllFX19LNEpucTZ1RnJRNXRNYzh5NF85cFRJREZ3U1loZkhaZzVSUEFCYU9YMnFOT19lQ0NLRFlXZElKVHZTV0Y2bS1hSmJCSnlfSm5OZ3JFVjA3MW0xOXB0RnpNR3pDT1QtRVNFYkNGMHdURzdYZUZ5ZS1nRFUxSGh1bFR1VC0yNlM5OGVKTDdkUmxZcXJZU09XYktBNUthLVdWNVNiNTV5aw?oc=5",
+      "published": "2026-11-08T14:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "ALERT"
     },
     {
       "id": "41b169b02d9abab5675d0d653c7e248defba3508",
