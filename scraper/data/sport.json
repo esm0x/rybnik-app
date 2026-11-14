@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T06:17:59",
+  "generated_at": "2026-11-14T13:33:43",
   "count": 60,
   "failures": [],
   "teams": [
@@ -707,10 +707,10 @@
       "home": "Miedź II Legnica",
       "away": "ROW 1964 Rybnik",
       "isHome": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 3,
+      "awayScore": 2,
       "scoreNote": null,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "stage": "REGULAR",
       "url": null
     },
