@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:23:05",
+  "generated_at": "2026-11-15T06:25:16",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,36 @@
     }
   ],
   "items": [
+    {
+      "id": "014a4c3a63879e1882f27d2d8152bbd20ac1d795",
+      "title": "Mikołajki w Rybniku. Będzie 50 biegających mikołajów, motocykliści i pokaz na bazylice",
+      "summary": "W niedzielę 6 grudnia Rybnik przygotował atrakcje mikołajkowe w centrum miasta i dzielnicach. Na rynku pojawi się 50 biegających mikołajów i MotoMikołaje, a na fasadzie bazyliki św. Antoniego będzie można oglądać świetlne projekcje.",
+      "link": "https://www.nowiny.pl/wiadomosci/252169-mikolajki-w-rybniku-bedzie-50-biegajacych-mikolajow-motocyklisci-i-pokaz-na-bazylice.html",
+      "published": "2026-11-15T05:31",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "42ec463a4b3d3a52462408b22deb8a604808a098",
+      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWGlMQnpnWE9BQmdXTmNZaWtYS1FxZGhJYmROOUZwUUl2WXFDWUpBUGxwMVFkUlN3d29pbXptTE85QkxSa2lhSXFOVU5NRkNVZGF6ZlVZeGZqSnl3MUpRdEF1aFAwU1B6aml2aTJrUzQySG5IWkdrdnBDUVhVeFVpSEdFZTdsdw?oc=5",
+      "published": "2026-11-15T00:14",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e254a6564ed1bbc357d368d69b38599a6fee9319",
+      "title": "Metamorfozy, porady i konkretna pomoc. Tak wyglądał pierwszy dzień obchodów Światowego Dnia Ubogich w Żorach [ZDJĘCIA]",
+      "summary": "W sobotę, 14 listopada, w siedzibie Stowarzyszenia Exodus w Żorach odbył się pierwszy dzień obchodów Światowego Dnia Ubogich. Była to okazja do skorzystania z bezpłatnej pomocy, rozmowy ze specjalistami oraz otrzymania wsparcia w codziennych trudnościach.",
+      "link": "https://ezory.pl/wiadomosci/252212-metamorfozy-porady-i-konkretna-pomoc-tak-wygladal-pierwszy-dzien-obchodow-swiatowego-dnia-ubogich-w-zorach-zdjecia.html",
+      "published": "2026-11-14T22:24",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "5e3fa4db743e6c8be77dc45ba1b95d3560489a17",
       "title": "Wodzisławska starówka zamieniła się w wielką galerię sztuki. Za nami Noc Sztuki [ZDJĘCIA]",
@@ -46,16 +76,6 @@
       "published": "2026-11-14T19:20",
       "source": "nowiny.pl",
       "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c475f2d70209c1daeccaa4580fb34d96e8664dbd",
-      "title": "wiadomości, baza firm i ogłoszenia • Portal",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMVhOWWZCek1HbndJM1F5dUtENnN6SjhWZkRCcWp5cmVkTmlMREZLZHI2cUw4NWFKYzY0cEdJZVBybU5ILUkxQzM5WVR2WlJsRFpYWlk2cmNfR29FVkZCN1FRODlmUDNZcjF0SHZLazVaZVlhNWNWa1o0VlZTcV9DSV8wN0hWMmVpd2RGZGs0bWVrVTla?oc=5",
-      "published": "2026-11-14T18:34",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -289,16 +309,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "4a1359eedaa5f5adb578f6117c5a31581ce7a157",
-      "title": "Mikołajki na wodzisławskim rynku. Karuzela, alpaki i pokaz rzeźbienia w lodzie",
-      "summary": "Bezpłatna karuzela, zagroda z alpakami, pokaz rzeźbienia w lodzie i spotkanie ze świętym mikołajem. W niedzielę 6 grudnia na wodzisławskim rynku odbędą się miejskie mikołajki. W programie znalazło się również uroczyste rozświetlenie choinki.",
-      "link": "https://www.nowiny.pl/wiadomosci/252074-mikolajki-na-wodzislawskim-rynku-karuzela-alpaki-i-pokaz-rzezbienia-w-lodzie.html",
-      "published": "2026-11-14T05:11",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "60ed5a1e9816c723ac7d60e87b2b5463bf2c23a9",
       "title": "Sportowy weekend w Rybniku (14-15.11.2026)",
       "summary": "",
@@ -307,16 +317,6 @@
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
-    },
-    {
-      "id": "08a1a916f093117cb88875778a3e08dc79a8a2f1",
-      "title": "Import z Chin - Czy towary z Chin są gorszej jakości",
-      "summary": "Napis „Made in China” nadal bywa traktowany jak ostrzeżenie. Tymczasem w Chinach powstają zarówno produkty bardzo tanie, jak i urządzenia spełniające wysokie wymagania międzynarodowych marek. O jakości nie decyduje sam kraj produkcji, lecz specyfikacja, wybór dostawcy, budżet i sposób nadzorowania…",
-      "link": "https://www.nowiny.pl/wiadomosci/252174-import-z-chin-czy-towary-z-chin-sa-gorszej-jakosci.html",
-      "published": "2026-11-13T18:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "ALERT"
     },
     {
       "id": "77ea8e820e9d791e0dbb5d834720c5c4b7136aec",
@@ -386,16 +386,6 @@
       "published": "2026-11-13T12:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b5deecdf8ef4804c19fec06cbd061dc4071be74c",
-      "title": "Czy franczyza Żabki się opłaca? Przegląd korzyści",
-      "summary": "Czy franczyza Żabki się opłaca? Myślisz o prowadzeniu własnego biznesu jako franczyzobiorca? Sprawdź, czy franczyza sieci Żabka jest rentowna, ile zarobisz jako przedsiębiorca!",
-      "link": "https://www.nowiny.pl/wiadomosci/251387-czy-franczyza-zabki-sie-oplaca-przeglad-korzysci.html",
-      "published": "2026-11-13T12:00",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -499,16 +489,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "fa960523dd8debf78d42897271a9098e7a034207",
-      "title": "Aż 98 proc. polskich e-sklepów nie jest gotowych na AI. Badanie Digitree Group pokazuje skalę wyzwań",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcHBkcUN6Y3BKbWtSaXF1OEN3RHgwNE56Q1lISXNUcFNsQXRVRVUxQXNDSmg5QjZfbGxxOHgtVmJyeGUtcjZybUlvc2d1MmhFc1o1Y0xycm5LUU1HOFpFdG1KdUh6OHRmNU1uSXFfekNsQ0p0SGxDSjBjY1Vta04ydXVNRUh6V0RBV2xTaUJyTVRtbVY1alA4NjF0OXdEQk9kdUhNN0JHSi16NzBudnVRVnhGWWdMLV9UTUwzeEx0bUdHWGE5SjcxUXVJVDk2M1hkV2Iyd1NHR2k2VXdYNENyMkQzdDJOZ3FYNmhtUg?oc=5",
-      "published": "2026-11-12T17:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a6a819c18b0514098dc29053edb86ffb4f5a48ba",
       "title": "Jarmark świąteczny w Rybniku 2026. Organizację powierzono firmie z Wodzisławia Śląskiego",
       "summary": "",
@@ -554,16 +534,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeVZGZUFnNEUwRTFDMGpCSVFRd0I4NVRvQlBmeGU2V2g2UmZocGZsb1plTFhGaHhtTUxxOVJhb0x5Yml6aE5Ec0h5TmZSQndEM3drVEFOSHlmMGxWMEtVdkhoQkFQWTRXb0JsbGpicXpRbUtXNGxxd0U5SXRTYzdnWnNOLW40OE1NREZvaXZBcHgxMFpoU1lmM2tRVHZQMlVqelVGd1A5aVNUT2Uwd0V3?oc=5",
       "published": "2026-11-12T10:15",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "0e4fd806bdc8d7d50d9ca2a149bd1ac3ccd0fe0e",
-      "title": "Ślub w sercu aglomeracji. Jak zaplanować idealne przyjęcie na Śląsku?",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZE01RWVCWmpVMzVYMFkxSUtZWTBCdGszaDRLUFZCTTZUbE8xOGdfajctaHBHVHItenhJQklTYmhNVDhKNUM5Rm80cHZuSTV1VERJeFdKX3hXN2s0M3JHcnNIZjl2RzZ4U2MxdjhyaFp1WGlCT2NYOVdob1pOU1NrTWMxbU1PejFuMjNWQVRpOUNuNi1kSHh2NlNfR25mWmJLZ2pKMnlFX1ZYM3ppcnVtUTVpVmk5emFtbDJiNENoV2FwNTg?oc=5",
-      "published": "2026-11-12T10:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -623,16 +593,6 @@
       "title": "Rybniccy policjanci wygrali turniej piłkarski im. Marcina Mizi! (foto)",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNEc3UER5alVzS3pWSWk0VnI5X2hBbXl5OVlWTlAzNzRUbm1Uajk5OXAxYVgwMzV1WlZabDVReWM5MkM2cW9FSEtfaEFYbE5vLWJNYTZBQW8yMV9QUEhwVDJITG1tbkZ3dW1jTUFURGdCVTZ3OTNRWURzbk1Hc2VjRWk5Ri1mMU8yRUZvX1EyVkdENjZWcnpfTm5PaHM2eDhHdHJzSnNQanlxNHJFUUYwQUNvM0doV1QybDY5S181TFFpZw?oc=5",
-      "published": "2026-11-12T08:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "60a96592e2e94171394dd540b015b09818314d68",
-      "title": "Domowe pierogi na święta bez godzin spędzonych w kuchni? Mamy na to sposób!",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUdSTXlLZzFRSWFwSW0wY1ZOSWprd2hleXM5VEZhdUh0UXVDdjhmM1dLTTJScTdKNlZiNGRHUUNnSlllOGF2S1VlQzJDdmxvMHAtQ1MwT1dnb0x6V2c3d2YwdVhMUExoOG9jX3ZJVHF2aW1LZXVlM01nS2tIOTFBR3VBZFNyNXRNcm1xVjFSZ0NaUG5Hd0ltNDNCTEVCRFlmQ2lYczZiaE1ORDV0QXBxMEc0bHpfR1lWY2RSdFdCS05YOVZGSGFZcGlKNA?oc=5",
       "published": "2026-11-12T08:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
@@ -779,6 +739,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "6b303ae0c0462b6d8685c77e5ae8fe940ad6a64e",
+      "title": "Zderzenie taksówki z BMW w świąteczny poranek. Poszkodowany 66-latek",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa1lUd3I1MEZjbDZPQW1KN1dvWi1PWXV6WU0tVHF1WHdPLWlfTVFIY05PcjhPRWE4Y09JZE04YS1mTFNJWElCRnFFRFNvNFVjRnUzWDNzcm54OWlDTE5xUS15YUc1QjUteHFtUWQweS1QSHdrU2FKWnd4ZndrcEhtS2Q0UjVxWjNjYkV5LWJPZDRnbmxfTHJ6YU1YNmlhVEtsc1hKeUxfZ1ZmQnVxRFQ1ZjIxejdtT1FHYnVFbzMyc0ZGMHc?oc=5",
+      "published": "2026-11-11T10:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "8a5aafa5bb5ab028faf43dae42124c8303aa1ba6",
       "title": "Sztuka w służbie wolności. Jak polscy artyści malowali niepodległość i budowali tożsamość narodową?",
       "summary": "",
@@ -815,16 +785,6 @@
       "link": "https://www.radio90.pl/kuchnia-radia-90-bialo-czerwone-babeczki-w-sam-raz-na-dzien-niepodleglosci.html",
       "published": "2026-11-11T07:00",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6d0bfce5b1818b3ef3c29dd601da98e2ab3ad7ba",
-      "title": "Pomoc de minimis ZUS",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yU2ZlV3JCOGxzaEItZ1pEOGZXRFNMMjRFcndoWllMckRrLV84ejN2aHJlNWVRUVpPQ2ZDSXVRZy1DSmhEdy1wSFVIQ0lGQTAzeXlTeFBmc0hZSU42SzR0U0ZUcmVmcm1UcklkaUN2Umh0aW11?oc=5",
-      "published": "2026-11-11T07:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -869,6 +829,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "d400ac8dab399fab9276e141fde044caa4eca1dd",
+      "title": "Zabrakło mu zaledwie kilku sekund. Pochodzący z Rybnika 51-letni Robert zginął w zamachu w Krakowie",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZmV0dTRKc29ZbTk0TDFtcWQ2NTk4U0pJekVDa2I2bFUybjZBOUpzVmFkNlBrMkhGTnkzOXpOd2tDVXlPdmpnSTBXdnlqVXptUFh1Zjg1a1RURHNPUm55Q2pIUjZJZmtqVnllaEVQdFUybnZDT2FXVnAtV19iNVJmejE2WU51YU1Zd0pUN1UyVkQzM0tHazB0RjFFZm83MFlmcmxpVTVFVFVKTnIzZXdRWVE4WHhaV2RwZmpOWlJWM0V3UTJ3emdkOENMekswLUJuRDljUy0xbFVvSVRhYjFuTk5rMnpKdE1LalhBTg?oc=5",
+      "published": "2026-11-10T06:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "71131b489e86b7fdfed0455c0c8bf260709f5e39",
       "title": "40. Silesian Jazz Meeting - trzy muzyczne światy, dwa wieczory i wyjątkowy jubileusz",
       "summary": "Jubileuszowa, 40. edycja Silesian Jazz Meeting już 14 i 15 listopada 2026 roku w Teatrze Ziemi Rybnickiej. Na miłośników jazzu czekają dwa festiwalowe wieczory i trzy wyjątkowe muzyczne propozycje.",
@@ -906,6 +876,36 @@
       "published": "2026-11-10T00:00",
       "source": "rybnik.eu",
       "category": "Zwierzęta",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7b45486547644602f60f0a4e38aef66c778221fb",
+      "title": "Krzysztof Mrozek odsłania karty. Innpro ROW Rybnik gotowy do walki o awans",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVVxWERoemk4SXE2aGd4UzBZWTlfQXR0N3hnckNacmVLSFNpR2RrWlNqeERyNklIUU5handaQ2hjai1FekM1TV92blpyT1Z0Szg0WWlpMEN3a18zdndHdTFJMlBfYTB2NHRJUVRYZEJtaEdrNmFoUG9uRW9aRm1qX2hVUmc0SS1BVWx0X2I0WmJjQXY4UjZGYy1iM0psSUhLUGxNSHphUEF0LTJMbXNmSzNIcEptVFJYenlmZVRRSkFEV0ltNnkzU2c3MA?oc=5",
+      "published": "2026-11-09T18:30",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9a85a49f59feff27fedc962e58faa3dc4a53180f",
+      "title": "Ostatnie pożegnanie Marka Sachsa. Tłumy mieszkańców i branży na pogrzebie (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMy1xTk45Z3pYbVdIRjhvOG1SeGZDVGUyT3JrbHppdWdPaTFSNmZDTzBFWmVOc1FfOWRiV1Y3TnZ1eEJDeHFzaUt3OTI0TEJoenpIbnJYRmJSTmVsS3JxemRMQlhuaFA4Z3QydGluejA2WVRuS1lvQ1ZKQjZYWEMtZVZPYnE0cDVLa0tack9BWnNjZFhGSXpwS2VwejdOSFZpX002aFF6VnJHOUZTSmdBa3dKa1lJbG94OWUzNU8xWjY1ck90RTBrUG4yRU8?oc=5",
+      "published": "2026-11-09T16:07",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "86090ea6fc58473702380c2af2b15eaa1a2ab47d",
+      "title": "Ostatnie pożegnanie Marka Sachsa. Tłumy pożegnały założyciela Sachs Trans (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaFFLSWZHUjRCdUtmTWpGRk43eDlIN2hEYVF5NWpGUmk1N3ZYTmVsbEpNLWFZZ0NrTm4wLWd1LTlpc25iWDc4T0tOZjYxaHpBQm5QNmN3WURYaGp3a01xeWhrMl9wemlPUlE2em5WaVZnWV9IS1dMSHFyNlpWY2FMeTVFdmoySmVuVkR0eGpabTQzUkVvakg2aUNQcWg1dzhmX2hrcUhFc21nRTlxNG0ybGYzOGZNX1V2b0lpdmhUV2VyZk5vMFVkd1BOTDUtNmhr?oc=5",
+      "published": "2026-11-09T16:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
