@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:00:04",
+  "generated_at": "2026-11-17T07:51:43",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,31 +7,9 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 155,
+  "count": 153,
   "failures": [],
   "events": [
-    {
-      "id": "iryb-primetime-thriller-o-obsesji",
-      "title": "PRIMETIME – thriller o obsesji",
-      "category": "Impreza",
-      "start": "2026-11-16T19:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Ambicja, telewizyjna popularność i świat przestępczy, do którego lepiej nie zaglądać zbyt głęboko. „PRIMETIME” to inspirowany prawdziwymi wydarzeniami thriller z Robertem Pattinsonem, który pokazuje, jak łatwo reporterska misja może przerodzić się w niebezpieczną obsesję. Kiedy: poniedziałek, 16 listopada 2026 roku, godz. 19:00–20:47 Gdzie: Plac Teatralny im. Kazimierza Kutza 1, 44-200 Rybnik Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Chris Hansen, charyzmatyczny reporter, przenika do podziemnego świata przestępczego. Chce zmienić oblicze telewizji, ale im bardziej rośnie jego popularność, tym mocniej zaciera się granica między zawodową ambicją a obsesją. Z czasem Chris zaczyna tracić z oczu pierwotny cel, a pogoń za sukcesem zamienia się w niebezpieczną grę.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/primetime-thriller-o-obsesji"
-    },
-    {
-      "id": "tzr-primetime",
-      "title": "Primetime",
-      "category": "Film",
-      "start": "2026-11-16T19:00",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Chris Hansen, charyzmatyczny reporter, przenika do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/primetime.html"
-    },
     {
       "id": "iryb-spotkanie-autorskie-wiersze-wam-wieszcze-z-krzysztofem-cezar",
       "title": "Spotkanie autorskie „Wiersze Wam Wieszczę” z Krzysztofem Cezarym Buszmanem",
