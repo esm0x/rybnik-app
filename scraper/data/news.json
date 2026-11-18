@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T20:54:37",
+  "generated_at": "2026-11-18T07:23:21",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,66 @@
     }
   ],
   "items": [
+    {
+      "id": "162f4f9ff14f9f95971bdf8e514d14db4d226b49",
+      "title": "Pan Babcia wydał pierwszą książkę! Spotkanie z Michałem Froehlichem w Ochojcu",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcTJIZ2lYUUdjM1VVVWhBaDZBb08tdEJKaHlxUlVGa3BTRjlFczhPdlVFNFdOS1M1TllNQlZpN3FvMFdIWnFmRURKZkI4UjgtM3hOZHl0VXoxNDA3ZHFXTmpFM0FjUDB3ajhFMjJzZF9UbW1Lc0FsLUlVaElXTnc4WkRDa1RMYUdzMlRWd1pGT0x1UFE3M1hJallia1lkWHgtYVU1VHpmUDRCZERnQ25nRlhDRzE1SEZIWVVER3VBMnhNbmRBTWFUNUs0cw?oc=5",
+      "published": "2026-11-18T07:02",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5836fd22c2484bff625ca5526336dadcfdb3ca1a",
+      "title": "Pan Babcia wydał książkę! Spotkanie z Michałem Froehlichem w Ochojcu",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSlNmQzhrbENxMDZIcUUtQjNyNFhuLUlmZjlqMHZaYTRQTk9MNUpIcmw4NWRmaTVIZ1BqQ1VSQUpfYndJMVFEZGhqdXd5RC1SeU5TR1dpa1RGOUd6ZUY2enIySTFTQ3FJcTI4Ml9qZEdqbzVQWmwwRHlCaVpiXzFfeThZdEY5SnctbUdMLVpRRk56d1lhR2hnTFBBSmlaSWxEc1BNVTItdTZWcV9UdXhHNFNheWpUb3JVbjJHcjdjdEdkcnJVZEN1WS1SR1pablptM1VINXNxVE0tVXdjLXY4YV9DX1NnMUNHQVdtTlF0dHkzYjRxamplZGM1ajRieWRG?oc=5",
+      "published": "2026-11-18T07:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f20c2206568210db8301b218f6370d6666b9d2e7",
+      "title": "Przemysław Kossakowski odwiedził wodzisławską bibliotekę [ZDJĘCIA]",
+      "summary": "Autor m.in. takich książek jak „Na granicy zmysłów” i „Drobna nieuważność i inne historie” - Przemysław Kossakowski odwiedził Miejską i Powiatową Bibliotekę Publiczną w Wodzisławiu Śląskim podczas spotkania autorskiego wieńczącego projekt \"Stacja Wodzisław, kierunek świat\".",
+      "link": "https://www.nowiny.pl/wiadomosci/252266-przemyslaw-kossakowski-odwiedzil-wodzislawska-biblioteke-zdjecia.html",
+      "published": "2026-11-18T05:30",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "fa95f5139a7e5f38d67d5c49c36631f6d8fdf536",
+      "title": "Młodzież klasy mundurowej ślubowała w Rydułtowach [ZDJĘCIA]",
+      "summary": "Klasa mundurowa z Zespołu Szkół Licealnych i Technicznych w Rydułtowach złożyła uroczyste ślubowanie. W wydarzeniu udział wzięli rodzice, nauczyciele, przedstawiciele władz powiatu i służb mundurowych.",
+      "link": "https://www.nowiny.pl/wiadomosci/252262-mlodziez-klasy-mundurowej-slubowala-w-rydultowach-zdjecia.html",
+      "published": "2026-11-18T05:01",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c0dd411270680abfdd569832854feac86617cba9",
+      "title": "Historia, w której warto zamieszkać. Przyszłość, na którą warto postawić",
+      "summary": "Kilka minut spacerem od Rynku, rzut beretem od Odry. Przy ulicy Drewnianej 9 i 11 w Raciborzu historyczne kamienice dostają drugie życie: w odnowionych murach powstają 24 mieszkania z klasyczną elewacją na zewnątrz i technologią, której nie powstydziłby się nowe budownictwo. Pompy ciepła…",
+      "link": "https://www.radio90.pl/historia-w-ktorej-warto-zamieszkac-przyszlosc-na-ktora-warto-postawic.html",
+      "published": "2026-11-17T23:01",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "ccd50628ec136446cf0a9268179e7ca6b05e5288",
+      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZm1CNlNYakw3TVVZZmN4THNxeEZ4UUNVXzJrZm1TQU9PMUF2V09PTVItNW05S0dSZmprVmltX002a3Y2NHM4dm5RbFlFeFVOeWtSWVZWbmVzUnRobk5nTEVfU1N0QXJkUmxkdUk3ZlpqVkd1UHlZSmpIQ3ljOUZ3NUQzakhJZl9INnhMMl9veGRpbW4tZXJZdnU2Z3drT2lFZnJ3Y0tUMllNbGc5a0loREh3VnhqZ1FGNlJsQ3FR?oc=5",
+      "published": "2026-11-17T20:57",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "7589b247eeded0cdf0c4bd1ba9ff474343b10d19",
       "title": "Na czym polega pedicure podologiczny i kiedy warto go wykonać?",
@@ -96,6 +156,16 @@
       "published": "2026-11-17T14:50",
       "source": "nowiny.pl",
       "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "bdf5ef72a186a97e37ea490b271cbbbc1e3192dc",
+      "title": "Tańsze leki i recepta online - jak zmniejszyć wydatki na leczenie przewlekłe?",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVHl2WElXU3VXdnoxbVBRNGQ1NzRlODdKUndhSzNQelZzYjFnYzFkZWluOFVYcFVSbzFiNjNVUU9qN2FxbzNyWTkzX0QyNFd1SnBCYjN5eDBYZ2NOdHcwNzZtOG4tcTdWQmtmdHZ5dGFfNnZBOXBuQlpjdnMtM2ZBZjhrdDNNOTNqcUZSSjFUOWx3WWpWVDdSUkY0VDlvdjV0Zm1sTzFIWUhmYjB5clBjajJtczU2dWJzUnUzZWpOOHdOdndCaW9adjNMdlM?oc=5",
+      "published": "2026-11-17T14:39",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -259,16 +329,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "a80e83f5442fd2718de8a451771e87da8de52287",
-      "title": "Chodniki w Rudzie Kozielskiej i Rudach. Są konkrety, ale finału wciąż nie widać",
-      "summary": "O tych inwestycjach mówi się od lat. W Rudzie Kozielskiej poznaliśmy już oferty firm zainteresowanych budową chodnika, ale pojawił się problem z finansowaniem. Z kolei w Kolonii Renerowskiej w Rudach wydano długo oczekiwaną decyzję ZRID. Czy to oznacza, że mieszkańcy wreszcie doczekają się…",
-      "link": "https://www.nowiny.pl/wiadomosci/252246-chodniki-w-rudzie-kozielskiej-i-rudach-sa-konkrety-ale-finalu-wciaz-nie-widac.html",
-      "published": "2026-11-17T10:08",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "imgw-9e688eea1ca525c9b1da152662b76dbad93398fb",
       "title": "IMGW (region): Susza hydrologiczna",
       "summary": "W górnym biegu Małej Panwi wartości natężenia przepływu układają się nadal poniżej SNQ. W najbliższym okresie spodziewane jest utrzymanie się aktualnych warunków hydrologicznych - przepływów poniżej SNQ - z wahaniami, mogącymi wynikać z prowadzonej lokalnie gospodarki wodnej lub z nieokresowych…",
@@ -306,16 +366,6 @@
       "published": "2026-11-17T09:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "5f751840fae60243d4c58c3567a1c7262c76683b",
-      "title": "Kiedyś do pługa, dziś z pasji. Konie i tradycje, które łączą pokolenia w gminie Kornowac",
-      "summary": "Procesje pamiętające dawne gradobicie, podrzucanie jajek na łące, Hubertus i rodzinna stajnia pełna nagradzanych koni. W gminie Kornowac dawne zwyczaje wciąż są żywe, choć rola koni zmieniła się przez pokolenia. Zaglądamy do Pogrzebienia, Kobyli i Kornowaca, poznajemy miejscowych hodowców oraz…",
-      "link": "https://www.nowiny.pl/wiadomosci/252245-kiedys-do-pluga-dzis-z-pasji-konie-i-tradycje-ktore-lacza-pokolenia-w-gminie-kornowac.html",
-      "published": "2026-11-17T07:37",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -389,16 +439,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "c0dd411270680abfdd569832854feac86617cba9",
-      "title": "Historia, w której warto zamieszkać. Przyszłość, na którą warto postawić",
-      "summary": "Kilka minut spacerem od Rynku, rzut beretem od Odry. Przy ulicy Drewnianej 9 i 11 w Raciborzu historyczne kamienice dostają drugie życie: w odnowionych murach powstają 24 mieszkania z klasyczną elewacją na zewnątrz i technologią, której nie powstydziłby się nowe budownictwo. Pompy ciepła…",
-      "link": "https://www.radio90.pl/historia-w-ktorej-warto-zamieszkac-przyszlosc-na-ktora-warto-postawic.html",
-      "published": "2026-11-16T23:01",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "0f58b2f0948dbe0c1bddf1cc9b48483f08368784",
       "title": "Awantura o flagę Izraela w ZSB w Rybniku. Spór polityka i dyrektorki (foto)",
       "summary": "",
@@ -443,7 +483,7 @@
       "title": "Wystartowała 7. edycja „Zostań Mikołajem dla Seniora” – świątecznej akcji Rybnik.com.pl",
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTm9YYWxGd1NabWQwQVdGLTFONy1qVFZkR3VxemNsYm0zeF8tLVJ0TFNrM25zRDA4WFJIVTR2TWlacmJtVzB5VVFpaVdBOWtaU2x2ajczemVBNFBoNUpxUHVPOWpNYUJoVl9ja1ZWNWF3T0s4UTA2ZnBxTUxJcHNCVnJNZUxDbllid1RCdkNVYktZaUdsSWRPTjA0ZFV2b2NfMUdtZF93aTE2M25tNjd6UTFESzhycFBJd19nVlh4TWZsNG92QV81NllXT1l0ckhScjJVd2F5MA?oc=5",
-      "published": "2026-11-16T16:00",
+      "published": "2026-11-16T16:01",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -455,16 +495,6 @@
       "link": "https://www.radio90.pl/silesian-jazz-meeting-na-deskach-teatru-zabrzmiala-muzyka-z-najwyzszej-polki-zdjecia.html",
       "published": "2026-11-16T15:40",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "6add39614e9f898ba97d31cf9679b98d74e767cb",
-      "title": "wiadomości, baza firm i ogłoszenia • Portal",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMVdQeWRzRU1MRWQwRWJTSUhhOTJMQW9tb1FDdGN6M2IyRjdMV2NpYURrdmhnLWtBUGRwU0VJN21uNWJoNDQ4VXl0czE2QXc3MkhNaE9HbTE2aGJtSmZMaU9YV1F4dFlJRE1obVlUZHpIXzBjNHh4ZVdDQTRmdVlvUnVKYjljQXBRQ1d4Mzc1UFU5Q3dW?oc=5",
-      "published": "2026-11-16T13:49",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -609,16 +639,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "bc0d0948a06e6f511732b4df0fa191a398dff827",
-      "title": "ZUS umorzy długi sprzed 1999 roku! Jest jednak haczyk, który może obniżyć twoją emeryturę",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX3h6cUxkR201WjR4NHZ6WHJNLXJHcS10Q3ZLSVJPaVY2UzhzS1pvSzdubGQ0Q0pkWjNKRW9yV1VFcWItVldKNW9ySUtwd2hXMEU2OVdieFhBWkZxcVRVa0lOam9BazduY3I3aXp0OTVfdm14Umx0c0Y1Q3Y3akZ1S2hBcUZSN1Uta1FPai1MQlhDaGV1amlWNlk1NHd5Sjc4QTBVVGx6cXBtZTFEM1dwcHI2dUlOZm5pb05fS3Y1R1R6ajlDNXRoX2J1QVhhVndjSDFlRDkyNC1ITjN1OHc?oc=5",
-      "published": "2026-11-16T07:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "afbb1e9faa159f32da29bfda7edc4809fa6aedbb",
       "title": "Wolny lokal usługowy przy ul. Hallera czeka na najemcę",
       "summary": "Od lutego 2027 roku przy ul. gen. Hallera 14/1, dostępny będzie ponad 73-metrowy lokal usługowo-handlowy na parterze, z dużymi witrynami i bezpośrednim wejściem z ulicy.",
@@ -649,6 +669,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "a4805e029d89cfd5dce0429bf2f035a43a1da80c",
+      "title": "W Rybniku stanął pomnik Hermanna Müllera. Ile kosztowała rzeźba browarnika? (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLXBYa2M4eVJJSEpaNndqTzBoakVXdkdvclI1VVpwUWNCeGhtNm9jbldyLVg5MmMzclRsNW93WEZHWU1oMFVoS1FNS3NaZnN5TVBvS3NiN3BGX0xvdHRablBPdUJkZGExM28zS2RxT0xjQ0ZzX0dNLXdVclpjdUNLR1RWSk9YcVRUSmJkVk5uRnhBRC1SMTdpclpxcWRPa05TRDZITXkzM01OWFBaSHdWWmpyem1zNjVjTjF2aGhtemZZYjBEdHFNLU1XYVRtVGpfQVVfcw?oc=5",
+      "published": "2026-11-15T18:27",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "258d5e887a82f75368ce769502e30d8d7a77d752",
       "title": "Uwaga na fałszywe smsy o mandatach. To oszustwo!",
       "summary": "Fałszywe smsy znów trafiają do Polaków. Tym razem dotyczą mandatów. Oszuści podszywają się pod policję i informują o rzekomym wykroczeniu drogowym.",
@@ -659,11 +689,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "f0e9363f3e3a46695c3953acabca3a7d63e4302f",
-      "title": "Problemy wcześniaków i profilaktyka przedwczesnych porodów – rozmowa z lek. Ewą Adamiec",
+      "id": "51530b802eed68502a487c81c5ebbfde7f1b015a",
+      "title": "\"Żeby dzieci miały jak najlepszy start”. Obchody Dnia Wcześniaka w Chwałowicach (foto)",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNajRXdjJ2TXpTMnVPTmhHQ1ZpeE5XbGlDSnVxUFVoakNBSERGTVhGWXFfU3JnemppVFl0aG1iWkVLZUV1d2x3azZncDhPMjVnT0FVMUdvcElsZkZ4MEo0WXRBcUgwTm9CZkpaWTlWMHdueVByck1FWVhIbHFJUFNqbVJ3S2tVSV9OZndDa0Utcm9uZnVwU2wwOE9HVWNfR20yRmVTdzh3UjJwLU01ZWZQWmlVVG94RXpoTU5ocG80RWFwMXppVkllVkhyb1h3ZjkwNXc?oc=5",
-      "published": "2026-11-15T16:48",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSl9LUnlrWmtRVTlLSG9RS01OSDVfNkp3czhYTUZzUWdCTzg5UlQxbFRrcHJLX3NiNFlMaUoyQV9qQ3ZCazRqNXRtTER6ZWVvYlYwN1R4bTFEZEJlcU5WZWlsMFlTamQ4RVZ3emZfSkxxSXBBam43enhDWEM4Ql95ZmNyeFdVYlRJOUZwOTRxc1RQYW5WMXBydi1yZUxRMG5vdFA5QWphUUtrMWFEeHVJUUNvVEZDNHZVVHl2U1F2VFk3M2NCeXJKcENiRWIwdC1pTEFYWG9n?oc=5",
+      "published": "2026-11-15T17:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -749,16 +779,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "2cb153a90f27da63919915abbd1647c02d83c07e",
-      "title": "W Rybniku stanął pomnik Hermanna Müllera. Ile kosztowała rzeźba browarnika? (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaHk1MklGaVJYZ1lZR2I2dzd6Y1VMSHVJNVFJSzNZTWpwR2R1WDI2b2tJbWJvekpVUnJLMlRWaEZGdmFMSFVjZ0M3TVhvZGl4ajRET2tQTk8wVHlMOFdfa1plLVNZb1hUaDVtd1V4Y1BmOFlieXg4bVZmZEhFdUFzWHlTVUVsSXVybmpkV3F0STlHTUZ4RVVKdzBrRVl4UnU4R2dQSTl1UUNoSDdvaWZfZ3hWY0FRZVNTSURKWHBsVEtUakhqYTZac0wzVTdmLXNXcWc?oc=5",
-      "published": "2026-11-15T10:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "4113afb435f99d2baf299557afaf0d8705273ef6",
       "title": "Komplet punktów w Katowicach na zakończenie pierwszej rundy. Siatkarki Gromu Rybnik na pozycji wicelidera",
       "summary": "",
@@ -784,16 +804,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN1Z4QXo5czhLQ3JUdUlkbXpWcHpBZUVZeUJqdThyNXdUaUxPUVR6eWZTTTdYM1hDdFlrdVQ5U3Y2aHoySjdsZU9rSVhOYjdCd25tWVBMUzBoaTRiX2NIRE9EbFdEYm13akhHRTVrUnhkRVpFNVNkUm9mOFBEMEtnT1ZHRmM0SmlCdFp2NjR3VHRENkNaRk55T1hTbHo5NnBPTEVIWnplaVZHSmZ4Y19GX2ZLeEhQZ1NSVExyMjZfNlJwZFliakxpeTVpM092dw?oc=5",
       "published": "2026-11-14T19:26",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "5f1667da39007366420daad66b073a17f98c95c6",
-      "title": "ROW 1964 Rybnik wrócił z Legnicy bez punktów. Gol w ostatniej minucie",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWDEzYkQ0VzJ5M1NyaXloZWdLcmRzYkh2VnVYVjEtSjZyZTRWTmFFT29ISFZuQ3ZLVENZeGJzS2VXQy1tMVhOM08wZnZXV1VVSlV4WTNMSGVxNG04TG52ZjM5c1RFWjd3OUZlUFowT1l4S19xQTRVNEp1WUJ3UzB4NHlzU284ZURaaGhTNU1pQVBiMkVxZGhOQ2NMWDE3VWdpczNnSVFUMWJ2ZXlKWVhqZDRiYnVlZzFCZGZkajVPUzRzbTZh?oc=5",
-      "published": "2026-11-14T18:06",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -835,16 +845,6 @@
       "link": "https://www.radio90.pl/nowy-pomnik-w-rybniku-miasto-upamietnilo-hermanna-mullera-wlasciciela-browaru-i-wieloletniego-radnego-wideo.html",
       "published": "2026-11-14T13:18",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "55da735a37b34ca69bf79631bb99d8b5e6436938",
-      "title": "Cykl z książki „20 lat Konkursu Człowiek Roku Rybnik.com.pl”: Kinga Głyk",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEs1TWM5MzNjQVpxTzN0NXBPbmRGQ014aE16bnBfOXl2a3k5cXAtcmRIMlRpZEdzLUNnNXRySnkwOGo2N1htQ1c4SkVXX2tyS1dZVWxpR295VXptX3lxMTRqWEhJNnpYTEhUelBOZi03bk9qX0ZtNy1SQ3NxWklxX0txZUE1eUlDd3R5X2ZBYjdIODV0b0UyTFBpYjM1aHh1ai1HZlRVVHhDSThHUXJpdFBxOTZPR0prMVhkWGFnMmhSUW9pWXc?oc=5",
-      "published": "2026-11-14T13:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
