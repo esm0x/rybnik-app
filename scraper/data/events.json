@@ -1,114 +1,19 @@
 {
-  "generated_at": "2026-11-19T07:20:10",
+  "generated_at": "2026-11-19T20:31:46",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
     "TZR",
-    "biletyna.pl",
     "iRybnik"
   ],
-  "count": 171,
-  "failures": [],
+  "count": 134,
+  "failures": [
+    {
+      "source": "biletyna.pl",
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://biletyna.pl/Rybnik"
+    }
+  ],
   "events": [
-    {
-      "id": "iryb-dzien-otwarty-kampanii-dziecinstwo-bez-przemocy-w-rybniku",
-      "title": "Dzień Otwarty kampanii „Dzieciństwo bez Przemocy” w Rybniku",
-      "category": "DlaDzieci",
-      "start": "2026-11-19T09:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Jak rozpoznawać przemoc i skuteczniej chronić dzieci przed krzywdzeniem? Temu będzie poświęcony Dzień Otwarty kampanii „Dzieciństwo bez Przemocy” w Rybniku. Spotkanie ma stworzyć przestrzeń do rozmowy o przemocy domowej, rówieśniczej i cyberprzemocy, a także o możliwościach wsparcia dzieci i rodzin. Wydarzenie zaplanowano na 19 listopada 2026 roku , w godzinach 9:00–13:00 . Uczestnicy spotkają się w Ośrodku Pomocy Społecznej w Rybniku, Zespole ds. Przemocy, przy ul. Zebrzydowickiej 30/7 . Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Centralnym punktem Dnia Otwartego będzie panel dyskusyjny. Poruszone zostaną podczas niego zagadnienia przemocy domowej, cyberprzemocy i przemocy rówieśniczej. Rozmowa obejmie również Standardy Ochrony Małoletnich , pracę z rodziną oraz procedurę „Niebieskie Karty”.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/dzien-otwarty-kampanii-dziecinstwo-bez-przemocy-w-rybniku"
-    },
-    {
-      "id": "bilnya-galeria-sztuki-rzeczna-202611190900",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-11-19T09:00",
-      "end": "2026-11-19T10:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717342#opis"
-    },
-    {
-      "id": "iryb-zadbaj-o-swoj-sluch-bezplatne-badania-w-rybniku",
-      "title": "Zadbaj o swój słuch: bezpłatne badania w Rybniku",
-      "category": "Impreza",
-      "start": "2026-11-19T09:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "W czwartek w Rybniku będzie można bezpłatnie sprawdzić słuch i porozmawiać ze specjalistą. Badanie odbędzie się w mobilnym Słuchobusie, a udział nie wiąże się z opłatą. W przekazanych danych lokalizacyjnych wydarzenia pojawia się także adres Rynek 15, 44-200 Rybnik . Opis badania wskazuje jednak parking Parku Handlowego S1 jako miejsce postoju Słuchobusu. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Firma Marmed i słyszę organizuje przesiewowe badanie słuchu oraz konsultację ze specjalistą. To okazja, by skontrolować słuch — jego pogorszenie może postępować stopniowo i początkowo być trudne do zauważenia.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/zadbaj-o-swoj-sluch-bezplatne-badania-w-rybniku"
-    },
-    {
-      "id": "iryb-spotkanie-czytelnicze-dla-seniorek-czytaj-dyskutuj-i-dzialaj",
-      "title": "Spotkanie czytelnicze dla seniorek „Czytaj, dyskutuj i działaj”",
-      "category": "Impreza",
-      "start": "2026-11-19T10:00",
-      "end": null,
-      "venue": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku",
-      "description": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku zaprasza seniorki na spotkanie z cyklu „Czytaj, dyskutuj i działaj”. Wydarzenie będzie okazją do wspólnego czytania i rozmowy. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Spotkanie jest skierowane do seniorek i odbędzie się w ramach cyklu „Czytaj, dyskutuj i działaj”. Jego idea łączy czytanie z dyskusją i aktywnym udziałem uczestniczek. Organizatorem wydarzenia jest Powiatowa i Miejska Biblioteka Publiczna w Rybniku .",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/spotkanie-czytelnicze-dla-seniorek-czytaj-dyskutuj-i-dzialaj"
-    },
-    {
-      "id": "iryb-dkk-w-filii-nr-2-wokol-ksiazki-sonata-gustava-rose-tremain",
-      "title": "DKK w Filii nr 2 wokół książki „Sonata Gustava” Rose Tremain",
-      "category": "Impreza",
-      "start": "2026-11-19T16:00",
-      "end": null,
-      "venue": "Powiatowa i Miejska Biblioteka Publiczna w Rybniku",
-      "description": "Miłośnicy literatury będą mogli spotkać się, by porozmawiać o powieści Rose Tremain. Listopadowe spotkanie Dyskusyjnego Klubu Książki odbędzie się w rybnickiej Filii nr 2. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Tematem spotkania będzie powieść „Sonata Gustava” Rose Tremain w tłumaczeniu Dominiki Cieśli-Szymańskiej. Uczestnicy Dyskusyjnego Klubu Książki omówią książkę podczas wspólnej rozmowy. Spotkanie organizuje Powiatowa i Miejska Biblioteka Publiczna im. Konstantego Prusa w Rybniku.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/dkk-w-filii-nr-2-wokol-ksiazki-sonata-gustava-rose-tremain"
-    },
-    {
-      "id": "iryb-local-networkers-in-rybnik-biznesowy-wieczor",
-      "title": "Local Networkers in Rybnik: biznesowy wieczór",
-      "category": "Impreza",
-      "start": "2026-11-19T16:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Sprzedaż i marketing, ciekawe rozmowy, taneczny występ i miniwernisaż — pierwsza edycja Local Networkers in Rybnik zapowiada się na znacznie więcej niż typowe spotkanie biznesowe. Warto zarezerwować sobie ten wieczór, jeśli masz ochotę połączyć zdobywanie wiedzy z poznawaniem ludzi. Wydarzenie odbędzie się 19 listopada 2026 roku (czwartek) o godz. 16:00 w InoWino Świerklaniec w Rybniku. Bilety i pełny program są dostępne na stronie wydarzenia. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . W programie znalazły się warsztaty oparte na koncepcji Talentów Gallupa, prowadzone przez Barbarę Kolibską, panel ekspertów, kolacja oraz moderowane rozmowy biznesowe. Uczestnicy będą mogli wziąć udział w grze integracyjnej i skorzystać z aplikacji wspierającej wyszukiwanie potencjalnych partnerów biznesowych.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/local-networkers-in-rybnik-biznesowy-wieczor"
-    },
-    {
-      "id": "iryb-matematyka-nie-taka-straszna-jak-ja-maluja-matura-bez-stresu",
-      "title": "Matematyka nie taka straszna jak ją malują – matura bez stresu",
-      "category": "Impreza",
-      "start": "2026-11-19T16:30",
-      "end": null,
-      "venue": "Halo! Rybnik",
-      "description": "Matura z matematyki nie musi oznaczać walki z każdym zadaniem do ostatniej minuty. Podczas spotkania w Rybniku Wojciech Mocek pokaże, jak zdobywać punkty dzięki dobrej strategii, czytelnym rozwiązaniom i rozsądnemu planowaniu czasu. To może być przydatna powtórka przed egzaminem — warto zajrzeć. Spotkanie odbędzie się w czwartek, 19 listopada 2026 roku, w godz. 16:30–18:00 w halo! Rybnik , przy ul. Sobieskiego 20 w Rybniku. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Wojciech Mocek, ekspert egzaminacyjny, opowie o tym, za co egzaminator przyznaje punkty i jak zapisywać rozwiązania, by nie tracić ich przez drobne niedopatrzenia. W programie znajdą się też częste błędy maturzystów, sposoby na lepsze zarządzanie czasem podczas egzaminu oraz pomysły na powtórkę materiału w ostatnich miesiącach przed maturą.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/matematyka-nie-taka-straszna-jak-ja-maluja-matura-bez-stresu"
-    },
-    {
-      "id": "iryb-finger-food-dookola-swiata-warsztaty-w-rybniku",
-      "title": "FINGER FOOD dookoła świata – warsztaty w Rybniku",
-      "category": "Warsztaty",
-      "start": "2026-11-19T17:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Azjatyckie mini burgery, bao z boczniakami, tacos i krewetki w sosie chili z ananasem — podczas czterogodzinnych warsztatów w Rybniku kuchnia świata zmieści się w małych, efektownych porcjach. Zajęcia poprowadzi nagradzany kucharz Piotr Wasielewski. Warsztaty odbędą się 19 listopada 2026 roku (czwartek) o godz. 17:00 w Studiu Kulinarnym AROMATY przy Rynku 2, na pierwszym piętrze, w Rybniku . Spotkanie potrwa około 4 godzin, a udział kosztuje 290 zł . Miejsce można zarezerwować przez Messenger lub e-mail: [email protected] . Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Uczestnicy przygotują przekąski inspirowane różnymi kuchniami świata:",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/finger-food-dookola-swiata-warsztaty-w-rybniku"
-    },
-    {
-      "id": "tzr-30-rybnicka-jesien-kabaretowa-ryjek-2026-kabaret-hrabi-wojtek-kaminski-oraz-dzikie-weze-improwizacje",
-      "title": "30. Rybnicka Jesień Kabaretowa Ryjek 2026 - Kabaret hrAbi & Wojtek Kamiński oraz DZIKIE WĘŻE IMPROWIZACJE",
-      "category": "Kabaret",
-      "start": "2026-11-19T17:30",
-      "end": "2026-11-19T19:00",
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "Kabaret hrAbi & Wojtek Kamiński W premierowym programie \"BYĆ FACETEM\" Nowy program kabaretu hrAbi to spojrzenie na współczesną męskość. Stworzony przez mężczyzn i opowiedziany męskim głosem, ale kierowany do wszystkich - a zwłaszcza do tych, którzy dobrze wiedzą, z kim żyją i kogo próbują zrozumieć. DZIKIE WĘŻE IMPROWIZACJE To wyjątkowy projekt komediowy, który redefiniuje pojęcie rozrywki na żywo. Grupę tworzą czołowe postacie polskiej sceny kabaretowej, stand-upowej i improwizacyjnej: Abelard Giza Szymon Jachimek Wojciech Tremiszewski Jakub Śliwiński Karolina Rucińska",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/30-rybnicka-jesien-kabaretowa-ryjek-2026-kabaret-hrabi-wojtek-kaminski-oraz-dzikie-weze-improwizacje.html"
-    },
     {
       "id": "dk-chw-konkurs-plastyczny-na-prace-czekamy-do-20-11-2026-20261120",
       "title": "Konkurs plastyczny | na prace czekamy do 20.11.2026",
@@ -132,17 +37,6 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/warsztaty-dla-zmeczonych-kobiet-w-rybniku"
     },
     {
-      "id": "bilnya-galeria-sztuki-rzeczna-202611201100",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-11-20T11:00",
-      "end": "2026-11-20T12:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717348#opis"
-    },
-    {
       "id": "iryb-w-gronie-przyjaciol-poezja-seniorow",
       "title": "„W gronie przyjaciół” – poezja seniorów",
       "category": "Impreza",
@@ -158,7 +52,7 @@
       "title": "30. Rybnicka Jesień Kabaretowa RYJEK 2026 - Konkurs Główny cz.I i KONKURS SHORTÓW",
       "category": "Kabaret",
       "start": "2026-11-20T17:30",
-      "end": "2026-11-20T19:00",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "KONKURS GŁÓWNY cz. I Udział wezmą: Kabaret DNO Fair Play Crew Kabaret Jurki Łowcy.B Układ Komediowy Zdolni i Skromni Tematy konkurencji: „Czyje to są majtki\" „Płuco” „Którędy na szczyt?”",
       "sourceName": "TZR",
@@ -279,7 +173,7 @@
       "title": "30. Rybnicka Jesień Kabaretowa RYJEK 2026 - Konkurs Główny cz.II i KONKURS O MELODYJNĄ NAGRODĘ IM. ARTURA",
       "category": "Kabaret",
       "start": "2026-11-21T16:30",
-      "end": "2026-11-21T18:00",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "KONKURS GŁÓWNY cz. II Udział wezmą: Kabaret DNO Fair Play Crew Kabaret Jurki Łowcy.B Układ Komediowy Zdolni i Skromni Tematy konkurencji: „To takie polskie” „Specjaliści” „Na końcu jest liczenie”",
       "sourceName": "TZR",
@@ -317,17 +211,6 @@
       "description": "Rybnik szykuje noc z latynoską energią: w klubie Face 2 Face zabrzmią gorące rytmy i taneczne hity, a za muzyczną konsolą pojawi się Mr Czekolada. To propozycja dla tych, którzy mają ochotę na parkietową sobotę — można już szykować wygodne, klubowe stylizacje. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Głównym motywem wieczoru będą latynoskie rytmy i taneczne przeboje. W zapowiedzi za muzyczną konsolą sali exclusive wskazano Mr Czekoladę. W rozpisce sal wymieniono także Fancy w sali klubowej oraz Artura w sali exclusive. Face 2 Face to klub na trzech poziomach, ze strefami otwieranymi zależnie od wydarzenia i strefą chillout. Zasady wejścia obejmują selekcję; klub może odmówić wstępu osobom wyraźnie pod wpływem alkoholu.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/mr-czekolada-latino-night-w-rybniku"
-    },
-    {
-      "id": "bilnya-galeria-sztuki-rzeczna-202611221100",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-11-22T11:00",
-      "end": "2026-11-22T12:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717349#opis"
     },
     {
       "id": "iryb-kuchnia-grecka-warsztaty-kulinarne-w-rybniku",
@@ -378,7 +261,7 @@
       "title": "Jesienne impresje: koncert TAKE TRIO",
       "category": "Koncert",
       "start": "2026-11-22T18:00",
-      "end": "2026-11-22T19:30",
+      "end": null,
       "venue": "Halo! Rybnik",
       "description": "Akordeon, gitara i kontrabas spotkają się w programie, który łączy muzykę klasyczną, jazz i popularne melodie. „Jesienne impresje” to koncert rybnickich artystów w kameralnym, akustycznym brzmieniu. Kiedy: niedziela, 22 listopada 2026 r., godz. 18:00 Gdzie: ul. Zakątek 19, 44-203 Rybnik Bilety w cenach promocyjnych kosztują od 35 zł (II miejsce, ulgowy) do 50 zł (I miejsce, normalny). Od 12 listopada ceny wyniosą od 45 do 60 zł. Wejściówki są dostępne w kasach TZR, KK Harcówka, Halo Rybnik oraz na Biletyna.pl. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń .",
       "sourceName": "iRybnik",
@@ -411,7 +294,7 @@
       "title": "30. Rybnicka Jesień Kabaretowa RYJEK 2026 - KONCERT FINAŁOWY I JUBILEUSZOWY 30. RYJKA TELEWIZJA POLSAT",
       "category": "Kabaret",
       "start": "2026-11-22T19:00",
-      "end": "2026-11-22T20:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "KONCERT FINAŁOWY I JUBILEUSZOWY 30. RYJKA. TELEWIZJA POLSAT Udział wezmą: KABARET MŁODYCH PANÓW ANI MRU MRU Laureaci Konkursów Festiwalowych Piotr Kotas Band",
       "sourceName": "TZR",
@@ -449,17 +332,6 @@
       "description": "Uczniowie szkół ponadpodstawowych zmierzą się z pytaniami o ekologię, ochronę środowiska i zmiany klimatu. V edycję Wielkiego Testu Wiedzy o Klimacie organizuje „Gazeta Wyborcza”. W wydarzeniu wezmą udział uczniowie z ośmiu miast. Test zaplanowano na 24 listopada 2026 roku o godz. 10:30 w Filii Politechniki Śląskiej w Rybniku przy ul. Kościuszki 54 . Zgłoszenia przyjmują nauczyciele przez Wyborcza.pl/zapisy . Każda placówka może zgłosić maksymalnie 30 osób . Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/v-edycja-wielkiego-testu-wiedzy-o-klimacie"
-    },
-    {
-      "id": "bilnya-galeria-sztuki-rzeczna-202611241200",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-11-24T12:00",
-      "end": "2026-11-24T13:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=716862#opis"
     },
     {
       "id": "iryb-wyklad-historyczny-tragedia-gornoslaska",
@@ -506,17 +378,6 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/perfumy-botaniczne-warsztaty-w-rybniku"
     },
     {
-      "id": "bilnya-galeria-sztuki-rzeczna-202611250900",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-11-25T09:00",
-      "end": "2026-11-25T10:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717352#opis"
-    },
-    {
       "id": "iryb-warsztaty-klockowe-z-patrykiem-zietara-finalista-lego-master",
       "title": "Warsztaty klockowe z Patrykiem Ziętarą – finalistą LEGO MASTERS TVN",
       "category": "Warsztaty",
@@ -526,17 +387,6 @@
       "description": "Wspólne budowanie i klockowe wyzwania będą okazją do rozwijania kreatywności oraz umiejętności. Warsztaty poprowadzi Patryk Ziętara, znany w sieci jako Klockowizja i przedstawiany jako finalista programu LEGO MASTERS TVN. Zajęcia zaplanowano na 25 listopada 2026 roku , w godz. 17:00–18:30 . Spotkanie odbędzie się w Bibliotece Głównej przy ul. Józefa Szafranka 7 w Rybniku . Obowiązują zapisy telefoniczne pod numerem 32 42 23 541 wew. 3 lub osobiście w Oddziale dla dzieci . Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń .",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/warsztaty-klockowe-z-patrykiem-zietara-finalista-lego-masters-tvn"
-    },
-    {
-      "id": "bilnya-galeria-sztuki-rzeczna-202611260900",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-11-26T09:00",
-      "end": "2026-11-26T10:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717366#opis"
     },
     {
       "id": "iryb-straszki-slaskie-iii-w-kopalni-ignacy",
@@ -570,17 +420,6 @@
       "description": "Adwentowy wianek może stać się ozdobą drzwi lub świątecznego stołu. Podczas warsztatów w Czerwionce-Leszczynach uczestniczki przygotują własną kompozycję pod okiem florystki Katarzyny Kaczmarczyk. Spotkanie zaplanowano na 26 listopada 2026 roku o godz. 18:00 w Centrum Kulturalno-Edukacyjnym w Czerwionce-Leszczynach . Udział kosztuje 110 zł . Bilety są dostępne na stronie ckecl.pl/kup-bilet/. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/warsztaty-florystyczne-wianek-adwentowy"
-    },
-    {
-      "id": "bilnya-galeria-sztuki-rzeczna-202611271100",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-11-27T11:00",
-      "end": "2026-11-27T12:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717367#opis"
     },
     {
       "id": "iryb-gnocchi-warsztaty-kulinarne-w-rybniku",
@@ -660,28 +499,6 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/adwentowe-wianki-w-rybniku"
     },
     {
-      "id": "bilnya-warsztaty-artystyczne-przy-kawie-202611280900",
-      "title": "Warsztaty artystyczne przy kawie",
-      "category": "Warsztaty",
-      "start": "2026-11-28T09:00",
-      "end": "2026-11-28T10:30",
-      "venue": "PLASTYCZNA TZR, Plac Teatralny 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/inne/Warsztaty-artystyczne-przy-kawie?eid=717690#opis"
-    },
-    {
-      "id": "bilnya-galeria-sztuki-rzeczna-202611281100",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-11-28T11:00",
-      "end": "2026-11-28T12:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717369#opis"
-    },
-    {
       "id": "iryb-pokemon-league-cup-w-rybniku-turniej-karciany",
       "title": "Pokémon League Cup w Rybniku: turniej karciany",
       "category": "Sport",
@@ -693,22 +510,11 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/pokemon-league-cup-w-rybniku-turniej-karciany"
     },
     {
-      "id": "bilnya-rodzinne-soboty-w-rzecznej-202611281130",
-      "title": "Rodzinne soboty w Rzecznej",
-      "category": "DlaDzieci",
-      "start": "2026-11-28T11:30",
-      "end": "2026-11-28T13:00",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/inne/Rodzinne-soboty-w-Rzecznej?eid=716016#opis"
-    },
-    {
       "id": "iryb-andrzejkowe-czary-mary",
       "title": "Andrzejkowe Czary-Mary",
       "category": "Impreza",
       "start": "2026-11-28T16:00",
-      "end": "2026-11-28T18:00",
+      "end": null,
       "venue": "Dom Kultury Rybnik-Chwałowice",
       "description": "Przebrania i magiczne zabawy będą częścią andrzejkowego spotkania dla dzieci w wieku od 5 do 8 lat. „Andrzejkowe Czary-Mary” odbędzie się w Domu Kultury w Rybniku-Chwałowicach. Andrzejkowe Czary-Mary w Chwałowicach wyprzedały wszystkie bilety Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . To przebierana impreza dla dzieci w wieku od 5 do 8 lat, podczas której zaplanowano magiczne zabawy. Spotkanie poprowadzi Monika Kubica-Skaba, znana jako Ciocia Klocia.",
       "sourceName": "iRybnik",
@@ -754,20 +560,9 @@
       "start": "2026-11-28T21:45",
       "end": null,
       "venue": "Rybnik",
-      "description": "Andrzejkowa noc w centrum Rybnika zapowiada się tanecznie: klub NOC szykuje imprezę dla osób pełnoletnich, a resztę planów można zostawić na parkiecie. Kiedy: 28 listopada 2026 r. (sobota), godz. 21:45 – 29 listopada, godz. 4:00 Gdzie: NOC, ul. Kościelna 6, Rybnik Wstęp: 30 zł Wiek: 18+ To propozycja dla tych, którzy chcą spędzić sobotni wieczór przy muzyce i w imprezowej atmosferze. W klubie obowiązuje selekcja, a dress code zakłada odpowiedni strój, kulturę osobistą i pozytywne nastawienie. Wejście w dresach jest zabronione, a korzystanie z szatni – obowiązkowe. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
+      "description": "Andrzejkowa noc w centrum Rybnika zapowiada się tanecznie: klub NOC szykuje imprezę dla osób pełnoletnich, a resztę …",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/noc-andrzejki-w-noc-sobotnia-noc"
-    },
-    {
-      "id": "bilnya-galeria-sztuki-rzeczna-202611291100",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-11-29T11:00",
-      "end": "2026-11-29T12:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717372#opis"
     },
     {
       "id": "iryb-cos-z-niczego-niespodzianki-mikolajkowe-warsztaty-w-rybniku",
@@ -803,22 +598,11 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/matka-spektakl-teatru-na-pol-w-rybniku"
     },
     {
-      "id": "bilnya-matka-spektakl-mlodziezowego-teatru-na-pol-202611300900",
-      "title": "Matka - Spektakl Młodzieżowego Teatru NA PÓŁ.",
-      "category": "Spektakl",
-      "start": "2026-11-30T09:00",
-      "end": "2026-11-30T10:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Matka-Spektakl-Mlodziezowego-Teatru-NA-POL-PREMIERA?eid=711864#opis"
-    },
-    {
       "id": "tzr-labirynt-fauna",
       "title": "Labirynt Fauna",
       "category": "Film",
       "start": "2026-11-30T15:30",
-      "end": "2026-11-30T17:28",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Mała Ofelia przybywa do domu nowego męża jej matki, kapitana Vidala. Dziewczynce trudno znieść surowość ojczyma. Przez przypadek Ofelia odkrywa w ogrodzie tajemniczy labirynt. Tam spotka Fauna, baśniowego stwora, który rozpozna w niej księżniczkę magicznej krainy, której grozi zagłada. Przed dziewczynką stoją jednak 3 mordercze zadania, które sprawdzą jej nieśmiertelność. Z czasem okrucieństwo zapanuje nad całym rzeczywistym światem.",
       "sourceName": "TZR",
@@ -858,15 +642,15 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/spotkanie-autorskie-szyfry-rybnik"
     },
     {
-      "id": "bilnya-koncert-symfoniczny-przeboje-muzyki-symfonicznej-202612021800",
-      "title": "Koncert symfoniczny „Przeboje muzyki symfonicznej”",
+      "id": "tzr-koncert-symfoniczny-przeboje-muzyki-symfonicznej",
+      "title": "Koncert symfoniczny: Przeboje Muzyki Symfonicznej",
       "category": "Koncert",
       "start": "2026-12-02T18:00",
-      "end": "2026-12-02T19:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎻 Daj się porwać największym arcydziełom muzyki symfonicznej! Usłysz pełną elegancji kompozycję Mozarta, nastrojowe dzieła Ravela i monumentalne „Bolero” w wykonaniu znakomitych solistów i orkiestry. ✨.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Koncert-symfoniczny-Przeboje-muzyki-symfonicznej?eid=721147#opis"
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Wybitni pedagodzy Akademii Muzycznej w Katowicach i młodzi wirtuozi Szkoły Szafranków na jednej scenie! Zapraszamy na koncert „Przeboje muzyki symfonicznej”.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/koncert-symfoniczny-przeboje-muzyki-symfonicznej.html"
     },
     {
       "id": "iryb-rybnik-w-swiatecznym-klimacie",
@@ -906,7 +690,7 @@
       "title": "Selfie, czyli miłość na pstryk!",
       "category": "Spektakl",
       "start": "2026-12-04T19:00",
-      "end": "2026-12-04T20:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Co może wyniknąć z zetknięcia się dwóch sąsiadujących mieszkańców wielkiego blokowiska, opanowanych kryzysem samotności? W jednym mieszka Brygida – bojowo nastawiona singielka z córką, a w drugim Gerard – samotny ojciec rozczarowany kobietami. Oboje pielęgnują stereotypy, dopóki sprawy sercowe ich dorosłych dzieci nie każą wyjść z okopów i stanąć twarzą w twarz z własnymi uprzedzeniami.",
       "sourceName": "TZR",
@@ -957,17 +741,6 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/koncert-zespolu-universe.html"
     },
     {
-      "id": "bilnya-universe-202612051800",
-      "title": "Universe",
-      "category": "Koncert",
-      "start": "2026-12-05T18:00",
-      "end": "2026-12-05T19:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🔥Universe! Dołącz do nas, aby wspólnie świętować magię muzyki i tworzyć niezapomniane wspomnienia. Zakup bilet i przygotuj się na niezapomnianą podróż muzyczną podczas koncertu zespołu Universe ‼️🎶.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Universe?eid=697526#opis"
-    },
-    {
       "id": "iryb-dragon-horrorscope-catharsis-hellkat-w-rybniku",
       "title": "DRAGON + Horrorscope + Catharsis + Hellkat w Rybniku",
       "category": "Impreza",
@@ -988,17 +761,6 @@
       "description": "Ho, ho, ho! Mikołaj już szykuje sanie i wkrótce zawita do Chwałowic. Zapraszamy wszystkie dzieci wraz z rodzicami na wyjątkowe popołudnie pełne magii, niespodzianek i świątecznej atmosfery! 6 grudnia 2026 r. (niedziela) w Domu Kultury w Rybniku-Chwałowicach.",
       "sourceName": "DK Chwałowice",
       "sourceUrl": "https://www.dkchwalowice.pl/?news=52473"
-    },
-    {
-      "id": "bilnya-mikolaj-w-domu-kultury-niedobczyce-202612060900",
-      "title": "Mikołaj w Domu Kultury Niedobczyce",
-      "category": "DlaDzieci",
-      "start": "2026-12-06T09:00",
-      "end": "2026-12-06T11:00",
-      "venue": "Dom Kultury Niedobczyce, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/Mikolaj-w-Domu-Kultury-Niedobczyce-w-Rybniku?eid=716120#opis"
     },
     {
       "id": "dk-bog-11161-spotkanie-z-mikolajem-trzy-godziny-do-wyboru-10-00-12-00-15-00",
@@ -1056,17 +818,6 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/mikolajki-w-cafe-kuznia-spotkanie-z-mikolajem"
     },
     {
-      "id": "bilnya-mikolajki-w-chwalowicach-2026-202612061730",
-      "title": "Mikołajki w Chwałowicach 2026",
-      "category": "DlaDzieci",
-      "start": "2026-12-06T17:30",
-      "end": "2026-12-06T19:00",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Mikolajki-w-Chwalowicach-2026?eid=715412#opis"
-    },
-    {
       "id": "iryb-mikolajki-pokaz-iluzjonistyczny-sebko-elf-i-spotkanie-z-miko",
       "title": "Mikołajki – pokaz iluzjonistyczny „Sebko elf” i spotkanie z Mikołajem",
       "category": "Impreza",
@@ -1089,15 +840,26 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/tu-kino-swieta-astrid-lindgren-seans-dla-szkol-i-przedszkoli/"
     },
     {
-      "id": "bilnya-w-tym-kraju-nie-ma-dobrych-mezczyzn-202612071530",
+      "id": "tzr-w-tym-kraju-nie-ma-dobrych-mezczyzn",
       "title": "W tym kraju nie ma dobrych mężczyzn",
       "category": "Film",
       "start": "2026-12-07T15:30",
-      "end": "2026-12-07T17:00",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/film/W-tym-kraju-nie-ma-dobrych-mezczyzn?eid=721623#opis"
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Naru, jedyna operatorka kamery w głównej stacji telewizyjnej w Kabulu, zmaga się z walką o opiekę nad trzyletnim synem. Po odejściu od niewiernego męża jest przekonana, że w jej kraju nie istnieją \"dobrzy mężczyźni\". Jej przekonanie zostaje jednak zachwiane, gdy Qodrat, najważniejszy reporter Kabul TV, proponuje jej wspólną pracę. W miarę jak para przemieszcza się po mieście, relacjonując jego ostatnie dni względnej wolności, między nimi rodzi się napięcie i bliskość. Naru zaczyna kwestionować własne przekonania - czy naprawdę nie ma już dobrych mężczyzn?",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/w-tym-kraju-nie-ma-dobrych-mezczyzn.html"
+    },
+    {
+      "id": "tzr-tony",
+      "title": "Tony",
+      "category": "Film",
+      "start": "2026-12-07T19:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. \"Tony\" to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/tony.html"
     },
     {
       "id": "dk-bog-11176-tu-kino-swiat-chiary-seans-dla-szkol-podstawowych",
@@ -1111,15 +873,15 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/tu-kino-swiat-chiary-seans-dla-szkol-podstawowych/"
     },
     {
-      "id": "bilnya-nie-ma-duchow-w-mieszkaniu-na-dobrej-202612100815",
+      "id": "tzr-nie-ma-duchow-w-mieszkaniu-na-dobrej",
       "title": "Nie ma duchów w mieszkaniu na Dobrej",
       "category": "Film",
       "start": "2026-12-10T08:15",
-      "end": "2026-12-10T09:45",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/film/Nie-ma-duchow-w-mieszkaniu-na-Dobrej?eid=721624#opis"
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Co nam mówią duchy z naszej przeszłości? O fundamentach tożsamości. Wykład wprowadzający: Łukasz Tura.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/nie-ma-duchow-w-mieszkaniu-na-dobrej.html"
     },
     {
       "id": "iryb-koncert-terapeutyczny-w-rybniku",
@@ -1131,17 +893,6 @@
       "description": "Wieczór z kamertonami, misami kryształowymi, głosem i handpanem może być okazją, by na chwilę zwolnić i skupić się na dźwiękach. Koncert Terapeutyczny odbędzie się 10 grudnia w Uzdrowisku Rybnik — sprawdź, czy to forma relaksu dla Ciebie. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Podczas koncertu Aleksander Czekański, terapeuta pracujący z częstotliwościami i pasjonat dźwięków oraz rytmów, wykorzysta kamertony, własny głos, misy kryształowe i handpan. Poszczególne sekwencje spotkania są starannie przemyślane, a dźwiękowa sesja może być sposobem na odpoczynek i uważniejsze wsłuchanie się w siebie. Prowadzący opisuje pracę z uzdrawiającymi częstotliwościami jako swoją dwunastoletnią praktykę i uzupełnienie konwencjonalnego leczenia. Doświadczenia uczestników mogą być różne — koncert nie zastępuje opieki medycznej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/koncert-terapeutyczny-w-rybniku"
-    },
-    {
-      "id": "bilnya-lukasz-kaczmarczyk-stand-up-przerwa-techniczna-202612101900",
-      "title": "Łukasz Kaczmarczyk stand-up - Przerwa techniczna",
-      "category": "Kabaret",
-      "start": "2026-12-10T19:00",
-      "end": "2026-12-10T21:00",
-      "venue": "Klub Odyseja, Raciborska 9",
-      "description": "😂🎤 Łukasz Kaczmarczyk z Kabaretu Młodych Panów zaprasza na \"Przerwę Techniczną\" – nowy stand-up pełen błyskotliwego humoru i życiowych obserwacji! Absurd codzienności w najlepszym wydaniu. Nie przegap tej dawki śmiechu! 🎟️🤣.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/stand-up/Lukasz-Kaczmarczyk?eid=696696#opis"
     },
     {
       "id": "iryb-inertia-over-rybnik-ironbound-kingsphere-i-m2r1-w-klubie-ody",
@@ -1188,15 +939,15 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/ceramiczne-pierniki-rodzinne-warsztaty-swiateczne/"
     },
     {
-      "id": "bilnya-rubinowe-gody-202612121700",
+      "id": "tzr-rubinowe-gody",
       "title": "Rubinowe Gody",
       "category": "Spektakl",
       "start": "2026-12-12T17:00",
-      "end": "2026-12-12T18:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎭💍 \"Rubinowe Gody\" – komedia o małżeństwie, które na 40. rocznicę ślubu wplątuje się w intrygę na szczytach władzy! 🔥 Tajemnice, polityka i miłość w najlepszym wydaniu. Nie przegap tej ekscytującej historii! 🎟️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Rubinowe-Gody?eid=716105#opis"
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "\"Rubinowe Gody\" – komedia o małżeństwie, które na 40. rocznicę ślubu wplątuje się w intrygę na szczytach władzy! Tajemnice, polityka i miłość w najlepszym wydaniu. Nie przegap tej ekscytującej historii!",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/rubinowe-gody.html"
     },
     {
       "id": "iryb-spektakl-wilijo-na-poziomie-650",
@@ -1252,6 +1003,28 @@
       "description": "Piosenki Agnieszki Osieckiej zabrzmią w kameralnej odsłonie w Klubie Odyseja w Rybniku. W programie znajdą się utwory znane z interpretacji m.in. Maryli Rodowicz, Marka Grechuty, Edyty Geppert i Skaldów. Data: 13 grudnia 2026 roku (niedziela), godz. 18:07 Miejsce: Klub Odyseja, Rybnik Bilety: dostępne w serwisach KupBilecik, Biletyna i Biletomat. Ceny nie podano. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Podczas koncertu zabrzmią utwory, które przed laty wykonywali m.in. Edmund Fetting, Krystyna Janda, Łucja Prus i Seweryn Krajewski. To muzyczna podróż przez piosenki pełne charakterystycznych tekstów i melodii, które na stałe zapisały się w polskiej kulturze.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/osiecka-krolowa-piosenki-koncert-w-rybniku"
+    },
+    {
+      "id": "tzr-nikt-nie-wie",
+      "title": "Nikt nie wie",
+      "category": "Film",
+      "start": "2026-12-14T15:30",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Czworo dzieci mieszka z matką w małym mieszkaniu. Żadne z nich nie zna swojego ojca. Mimo, iż dzieci są w wieku szkolnym, nigdy nie chodziły do szkoły. Pewnego dnia matka odchodzi, pozostawiając po sobie jedynie trochę pieniędzy i liścik, w którym prosi 12 letniego Akirę, aby zaopiekował się swoim młodszym rodzeństwem. Rozpoczyna się walka dzieci o przetrwanie, pełna współczucia i nadziei.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/nikt-nie-wie.html"
+    },
+    {
+      "id": "tzr-nasza-rewolucja",
+      "title": "Nasza rewolucja",
+      "category": "Film",
+      "start": "2026-12-14T19:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat – Jacek i Grażyna Kuroniowie. Rezygnują z prywatności, by oddać życie walce o wolność. Ich mieszkanie staje się \"kwaterą główną\" opozycji; miejscem spotkań ludzi gotowych ryzykować wszystko w imię lepszego jutra. Ale wielka idea oznacza też ogromną cenę: chwile intensywnej intymności przeplatają się z latami rozłąki, kiedy dzielą ich więzienne kraty. Wybuch stanu wojennego zmusza małżonków do podejmowania decyzji, których nikt nie chciałby podejmować. Czy w tak potwornie trudnych czasach miłość może zwyciężyć?",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/nasza-rewolucja.html"
     },
     {
       "id": "iryb-4-rybnickie-forum-naukowe-bitwa-o-umysly-wojna-kognitywna-w",
@@ -1384,6 +1157,50 @@
       "description": "Zapraszamy Was do Domu Kultury w Rybniku-Boguszowicach! Będzie muzyka, mnóstwo dobrej energii i okazja, żeby wspólnie zrobić coś naprawdę ważnego. Gramy dla Tomka, podopiecznego Stowarzyszenia PROGRES! Zaczniemy od kolędowego przeglądu w wykonaniu uczestników zajęć muzycznych naszego Domu Kultury i pewnie nie zabraknie wzruszeń! A potem? GOSPEL! Na scenie pojawi się chór Rybnickiego Wieczoru Chwały, który w każdy trzeci poniedziałek miesiąca można usłyszeć w Bazylice św. Antoniego w Rybniku. Tym razem ich energia, moc głosów i radość wspólnego śpiewania wypełnią naszą salę widowiskową. 💛 GRAMY DLA TOMKA! Chcemy, żeby ten świąteczny wieczór przyniósł coś więcej niż piękne wspomnienia. Żeby muzyka, wspólne spotkanie i Wasza hojność zamieniły się w realną pomoc dla Tomka. 🎁 Podczas wydarzenia odbędzie się zbiórka charytatywna, a także mini-kiermasz i stoisko gastronomiczne. Część dochodu ze sprzedaży zasili zbiórkę na jego rzecz.Zabierzcie bliskich, dobry humor i trochę gotówki na szczytny cel! Będzie okazja by pobyć razem, posłuchać muzyki, znaleźć coś ciekawego na kiermaszu, skosztować świątecznych przysmaków i przy okazji zrobić coś dobrego. Bez wielkich deklaracji. Po prostu pomóc.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/swiateczny-koncert-charytatywny-i-kiermasz-dla-tomka/"
+    },
+    {
+      "id": "tzr-najlepsza-owsianka-na-swiecie",
+      "title": "Najlepsza owsianka na świecie",
+      "category": "Film",
+      "start": "2026-12-21T15:30",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Raz w roku uczestnicy z całego świata zjeżdżają się do malowniczej wioski na północy Szkocji, by rywalizować o tytuł mistrza świata w... przyrządzaniu owsianki! W filmie dokumentalnym \"Najlepsza owsianka na świecie\" za zaciętą kulinarną rywalizacją kryje się ciepła i pełna humoru opowieść o ekscentrycznych mieszkańcach, żywej tradycji, lokalnym dziedzictwie i wspólnocie, której częścią chciałoby się zostać.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/najlepsza-owsianka-na-swiecie.html"
+    },
+    {
+      "id": "tzr-violetta-villas-dkf",
+      "title": "Violetta Villas",
+      "category": "Film",
+      "start": "2026-12-21T19:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Historia najsłynniejszej w historii polskiej divy muzycznej, którą talent i pasja wyniosły na największe sceny Paryża i Las Vegas, opowiedziana z perspektywy jej syna – mimowolnego świadka narodzin i upadku gwiazdy. Walcząc o miłość matki, przegrywa z jej uzależnieniem od wolności, kariery i leków. Paradoksalnie odrzucenie staje się jego ocaleniem. Czas: 2h 6m Gatunek - biograficzny, dramat Rżyseria - Karolina Bielawska, scenariusz - Karolina Bielawska, Małgorzata Gospodarek Produkcja: Polska, Bułgaria",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/violetta-villas-dkf.html"
+    },
+    {
+      "id": "tzr-violetta-villas",
+      "title": "Violetta Villas",
+      "category": "Film",
+      "start": "2026-12-28T15:30",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Historia najsłynniejszej w historii polskiej divy muzycznej, którą talent i pasja wyniosły na największe sceny Paryża i Las Vegas, opowiedziana z perspektywy jej syna – mimowolnego świadka narodzin i upadku gwiazdy. Walcząc o miłość matki, przegrywa z jej uzależnieniem od wolności, kariery i leków. Paradoksalnie odrzucenie staje się jego ocaleniem.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/violetta-villas.html"
+    },
+    {
+      "id": "tzr-dziki-kon-dziewiec",
+      "title": "Dziki Koń Dziewięć",
+      "category": "Film",
+      "start": "2026-12-28T19:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Na krótko przed zamachem stanu w Chile w 1973 roku agenci CIA Chris i Lee zostają wysłani z Santiago na Wyspę Wielkanocną przez swoją szefową, MJ. W cieniu słynnych posągów wyspy wieloletni partnerzy muszą zmierzyć się z mroczną przeszłością i spiskami, które zaczynają wychodzić na jaw. Tymczasem nowa więź Chrisa z dwojgiem zbuntowanych studentów grozi tym, że pobyt wszystkich w tym odległym raju wymknie się spod kontroli.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/dziki-kon-dziewiec.html"
     },
     {
       "id": "iryb-44-miedzynarodowy-turniej-szachowy-rybnik-2026-w-rybniku",
@@ -1632,33 +1449,22 @@
       "title": "Andrzej Sikorowski w duecie z Jackiem Królikiem",
       "category": "Koncert",
       "start": "2027-01-30T18:00",
-      "end": "2027-01-30T19:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Andrzej Sikorowski w duecie z Jackiem Królikiem W programie znajdą się piosenki Andrzeja Sikorowskiego, wokalisty, wieloletniego lidera Grupy Pod Budą i autora większości jej utworów. Andrzej Sikorowski przy wsparciu jednego z najlepszych polskich gitarzystów Jacka Królika przeprowadza widzów przez świat swoich największych przebojów napisanych dla grupy Pod Budą ( Kap, kap, płyną łzy ) czy śpiewanych poza nią, takich jak: Kraków Piwna 7, Lecz póki co żyjemy, Na całość, Nie przenoście nam stolicy do Krakowa, Ale to już było , oraz pochodzące z trzech wspólnie nagranych z córką Mają Sikorowską płyt ( Kraków-Saloniki, Sprawa rodzinna, Okno na Planty ).",
       "sourceName": "TZR",
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/andrzej-sikorowski-w-duecie-z-jackiem-krolikiem.html"
     },
     {
-      "id": "bilnya-krolowe-zycia-202701311530",
+      "id": "tzr-krolowe-zycia",
       "title": "Królowe życia",
       "category": "Spektakl",
       "start": "2027-01-31T15:30",
-      "end": "2027-01-31T17:00",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎭 Brawurowa komedia pomyłek o miłości i biznesie! Dwaj wspólnicy chcą sprzedać firmę Niemcom, ale żony mają inne plany... 😂 Seria nieporozumień zmienia nudne małżonki w pewne siebie kobiety fatalne! 💃 Porcja śmiechu gwarantowana! ✨.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Krolowe-zycia?eid=720311#opis"
-    },
-    {
-      "id": "bilnya-ai-love-you-czyli-terapia-malzenska-xxi-wieku-202702192000",
-      "title": "\"AI LOVE YOU\" - czyli terapia małżeńska XXI wieku",
-      "category": "Spektakl",
-      "start": "2027-02-19T20:00",
-      "end": "2027-02-19T21:20",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/AI-LOVE-YOU-czyli-terapia-malzenska-XXI-wieku?eid=719244#opis"
+      "end": "2027-01-31T18:30",
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Brawurowa komedia pomyłek o miłości, ambicjach i… bardzo rodzinnych interesach.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/krolowe-zycia.html"
     },
     {
       "id": "dk-bog-11035-dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-godz-16-00",
@@ -1681,215 +1487,6 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704021800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-02T18:00",
-      "end": "2027-04-02T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721514#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704031800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-03T18:00",
-      "end": "2027-04-03T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721516#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704041800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-04T18:00",
-      "end": "2027-04-04T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721553#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704081800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-08T18:00",
-      "end": "2027-04-08T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721556#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704091800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-09T18:00",
-      "end": "2027-04-09T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721517#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704101800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-10T18:00",
-      "end": "2027-04-10T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721519#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704111800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-11T18:00",
-      "end": "2027-04-11T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721559#opis"
-    },
-    {
-      "id": "bilnya-bartosz-gajda-po-lecie-stand-up-nowy-program-202704121900",
-      "title": "Bartosz Gajda - \"PO LECIE\" - stand up NOWY PROGRAM",
-      "category": "Kabaret",
-      "start": "2027-04-12T19:00",
-      "end": "2027-04-12T20:30",
-      "venue": "inoWino Świerklaniec, Jana III Sobieskiego 9",
-      "description": "😂⏳ Czas leci jak szalony? To idealny moment na solidną dawkę śmiechu! Bartosz Gajda wraca z nowym stand-upem – inteligentny humor, absurd i zero zbędnych wulgaryzmów. Przyjdź i pośmiej się z życia, zanim znów przyspieszy 🎤✨🎟️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/stand-up/Bartosz-Gajda/po-lecie?eid=713645#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704161800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-16T18:00",
-      "end": "2027-04-16T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721520#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704171800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-17T18:00",
-      "end": "2027-04-17T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721530#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704181800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-18T18:00",
-      "end": "2027-04-18T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721560#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704231800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-23T18:00",
-      "end": "2027-04-23T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721532#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704241800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-24T18:00",
-      "end": "2027-04-24T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721534#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704251800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-25T18:00",
-      "end": "2027-04-25T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721568#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704281800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-28T18:00",
-      "end": "2027-04-28T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721576#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704291800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-29T18:00",
-      "end": "2027-04-29T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721579#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704301800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-30T18:00",
-      "end": "2027-04-30T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721536#opis"
-    },
-    {
-      "id": "bilnya-kabaret-paranienormalni-w-nowym-programie-2027-202710091600",
-      "title": "Kabaret Paranienormalni - w nowym programie 2027",
-      "category": "Kabaret",
-      "start": "2027-10-09T16:00",
-      "end": "2027-10-09T17:30",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Kabaret-Paranienormalni/w-nowym-programie?eid=718872#opis"
-    },
-    {
-      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
-      "title": "NutkoSfera - CeZik dzieciom",
-      "category": "DlaDzieci",
-      "start": "2027-12-03T17:00",
-      "end": "2027-12-03T18:20",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }
