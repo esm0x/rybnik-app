@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:30:10",
+  "generated_at": "2026-11-19T07:22:43",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,56 @@
     }
   ],
   "items": [
+    {
+      "id": "a28126261d5ee6d8b80b4182f10cb0b459c05ceb",
+      "title": "Zmarła Lidia Grychtołówna. To niepowetowana strata dla świata muzyki i dla Rybnika",
+      "summary": "Tragiczne wieści napłynęły dziś do regionu. Nie żyje Lidia Grychtołówna, pochodząca z Rybnika światowej sławy pianistka. Miała 98 lat.",
+      "link": "https://www.radio90.pl/zmarla-lidia-grychtolowna-to-niepowetowana-strata-dla-swiata-muzyki-i-dla-rybnika.html",
+      "published": "2026-11-19T07:11",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "7d329d55858cabd465a554c53df0557ec718e14f",
+      "title": "\"Polska ścieżka dźwiękowa\" czyli wyjątkowy koncert w niedzielę w Wodzisławskim Centrum Kultury",
+      "summary": "Już w niedzielę 22 listopada w Wodzisławskim Centrum Kultury odbędzie się wyjątkowy koncert, w którym połączą siły utytułowani muzycy duetu KĘPIŃSKI x DEREJ, wokaliści Weronika Drybs i Michał Kowalonek, wraz z Wodzisławską Orkiestrą Rozrywkową.",
+      "link": "https://www.nowiny.pl/wiadomosci/252294-polska-sciezka-dzwiekowa-czyli-wyjatkowy-koncert-w-niedziele-w-wodzislawskim-centrum-kultury.html",
+      "published": "2026-11-19T06:57",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d6d0a9760e9c930f41f3f11798b7d8af9c6d8a77",
+      "title": "Nie żyje Lidia Grychtołówna. Wybitna pianistka i Honorowa Obywatelka Rybnika miała 98 lat",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQ052VFU4bXdGNGJZYV9KZEhLSlB4cENQSFYwYlBQX19YcTFGcEwyNXVkLVFDaVEyajVTY0NJcmFLM0VRRExCQ0hEQmhtNlR1WjFsQjBpbmplbWVvY3EtSG9SSmhCQklwbEQ5emROelZZRFZ4YkkzNmU0ZVh6QnN0S19RcmtseW9tZnNINndlTWYwTzNldWJRRXZXVEtRVGgtbXdON2FRWWhpQTlLMjZETHlhUHdLeWhZNF9rS1JJUGdtcmVQWjJTR2tkMW5kWXM0QnVaOUFNSkJyMEVTa3Uw?oc=5",
+      "published": "2026-11-19T06:14",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b250ade28d2b6918e59ecffd5c52d00d01ff1b21",
+      "title": "Nie żyje prof. Lidia Grychtołówna…",
+      "summary": "Z głębokim żalem i wielkim smutkiem przyjęliśmy wiadomość o śmierci prof. Lidii Grychtołówny – wybitnej pianistki, Honorowej Obywatelki Miasta Rybnika.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/nie-zyje-prof-lidia-grychtolowna",
+      "published": "2026-11-19T00:00",
+      "source": "rybnik.eu",
+      "category": "Aktualności",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "49c38be39781926206b1a3a7089abe563dff5f5a",
+      "title": "Mieszkanie blisko gór na co dzień. Jak wygląda życie na Sarnim Osiedlu w Bielsku-Białej?",
+      "summary": "Wyobraź sobie, że po zamknięciu laptopa nie wsiadasz do auta, by odstać swoje w korku na „wiślance”, ale po prostu zakładasz buty i wychodzisz na beskidzki szlak. Połączenie wielkomiejskiej wygody z dziką naturą na wyciągnięcie ręki to marzenie wielu mieszkańców aglomeracji.",
+      "link": "https://www.radio90.pl/mieszkanie-blisko-gor-na-co-dzien-jak-wyglada-zycie-na-sarnim-osiedlu-w-bielsku-bialej.html",
+      "published": "2026-11-18T23:01",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "32d07f0fc33ca156673ad65f65836ad3497c9bdf",
       "title": "Z kuflem w dłoni stanął przy dawnej słodowni. Hermann Müller ma pomnik w Rybniku",
@@ -44,16 +94,6 @@
       "summary": "Pisemna rezygnacja zmieniła przebieg zebrania mieszkańców osiedla 1000-lecia Szeroka. Zamiast odwołania przeprowadzono wybory, w których zwyciężyła Marzena Jergas.",
       "link": "https://jastrzebieonline.pl/wiadomosci/252290-mialo-byc-odwolanie-byla-rezygnacja-zmiana-w-zarzadzie-osiedla-1000-lecia-szeroka.html",
       "published": "2026-11-18T19:38",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3cb3b38bfe8ad50f142b8069432c6aacc301fe17",
-      "title": "Sportowe legendy Jastrzębia-Zdroju spotkały się w Carbonarium. Uhonorowano pięcioro zawodników",
-      "summary": "Pięcioro sportowców, którzy przez lata reprezentowali Jastrzębie-Zdrój, zostało uhonorowanych podczas gali „Zasłużeni dla Jastrzębskiego Sportu”. Wśród wyróżnionych znaleźli się olimpijka z Aten, dwukrotny mistrz Polski w boksie oraz zawodnicy związani z miejscowymi klubami.",
-      "link": "https://jastrzebieonline.pl/wiadomosci/252288-sportowe-legendy-jastrzebia-zdroju-spotkaly-sie-w-carbonarium-uhonorowano-piecioro-zawodnikow.html",
-      "published": "2026-11-18T19:27",
       "source": "nowiny.pl",
       "category": "Region",
       "priority": "NORMAL"
@@ -110,7 +150,7 @@
     },
     {
       "id": "0725df4dfe4487eb3066b95650f1a83eb88009c0",
-      "title": "PRZEKAŻ COŚ OD SIEBIE - LICYTACJE WOŚP RACIBÓRZ",
+      "title": "Przekaż coś od siebie - licytacje WOŚP Racibórz",
       "summary": "Szanowni Państwo, jeśli macie coś, co chcielibyście przekazać na LICYTACJE WOŚP Racibórz, to zapraszamy do kontaktu z naszym sztabem. Może to być konkretna rzecz, w tym rękodzieło, przedmiot kolekcjonerski, ale też usługa, którą możecie zaoferować Wy lub Wasza Firma np. voucher na kolację, zabieg…",
       "link": "https://www.nowiny.pl/wiadomosci/252284-przekaz-cos-od-siebie-licytacje-wosp-raciborz.html",
       "published": "2026-11-18T18:40",
@@ -389,32 +429,12 @@
       "priority": "NORMAL"
     },
     {
-      "id": "5c4955078be516b4b34e8e3323ce514a40b5d968",
-      "title": "Puchar na początek, porażka na parkiecie. Futsalistki TS ROW Rybnik uległy liderowi z Wrocławia",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR2hRbnNBVjJpT2dTazBEakJzMkZpdGQ2MmhzVTRndHNLa2NyMERhVzNZX3E5ZG5ybndnUmNraFdJXzBCN3NOcGEyTU9GYl9xemJ6d1FlanBscXQ0V0FVbzJHMGc3QjVrT01pdWtwY05YczdOVDl1V3FUWXE4UEpWQ0ZNaWV4X3E3VE11QVNDaTRiWU94LWhJWUdzS2FjTTB4REg5WjNrQmZkUFRPY2Jmc2ZWZVJXZDNtNE5vNDBaZXBBd211OE84OVpxa0dDRkJvX05KazRiUG53ZUExbWl3Vjg3QTNEQQ?oc=5",
-      "published": "2026-11-17T19:44",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "530174ab8a1989d9544b0c8a0a995bdd4bf5fea5",
       "title": "Wolontariusz Roku 2026. Już za momencik poznamy laureatów konkursu",
       "summary": "Gala Wolontariatu 2026. We wtorek (24.11) w Rybniku poznamy laureatów konkursów „Wolontariusz Roku 2026” oraz „Koordynator Wolontariatu 2026” Subregionu Zachodniego Województwa Śląskiego.",
       "link": "https://www.radio90.pl/wolontariusz-roku-2026-juz-za-momencik-poznamy-laureatow-konkursu.html",
       "published": "2026-11-17T17:00",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "3a608a6684e11c037d5763bdda683af5548ed816",
-      "title": "Zostały tylko 2 dni! Poznaj lokalnych przedsiębiorców i odkryj swoje talenty podczas Local Networkers w Rybniku",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPT0N6bEJfLU1PVURZZHVpSHFXQVpUeEtKbWhMUk12ZGNTUXVDZ0N3U290SXJpbk1MclBrRjEzWTd5bWpRZXVrMS1GNkRwaHZDNnp1eU5HSi1McUZOLUM4QmtIcDdEcXh5dGF0NENCbk5WOTdkVlEtRUdHZnJ0NWhUbUZEOFJrblZBbjlPUlRiZ3BOS2NleS1WVnVjNHR3YmFZWklnUGhkU1QwQ0RSbXRFMnFRU0VRUWdoeUVhMEx0ZXNtOFJKYzhsX2s3LTcyQmtyLUVwNkNlQjdSenFxcW45dGpDTHJvSjJoZ1QzRDB6Y3ZRWTRMYkZNMVdoekI?oc=5",
-      "published": "2026-11-17T15:30",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -524,36 +544,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSzF4S2o1czdYWkFfODZpdVpYM2hlMXM4VkxSc2ZKRm9CSHdHVzNwM2FpVzNWOG1pTjBqQzZCQ3BGMEl6d1diRDFxbzVJemp3Z18wZGVwZnhyYjg4MnlkUVo1SWdPcl8zQTVabms4UWRCbmNucUMtdmlhVXpBbnJiOS03NnhsbmZvYWV4Ri1mR2xNQUlGb09URU9sYXVLN3ZWeHhyUUo4aFRNaVRsTlJPcWxPY09EdG5aT21KU2xTeEhsck9UNi1sdmNDMDg0NU4zOUdQWTA5U25FcDhqWjBCeGJQUmtJMno4M0VfOWFZWVVPcmJtTTVWMnlNQ2Z4OGN1MDhUbXdlb3o4Zw?oc=5",
       "published": "2026-11-17T09:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "01601f71baea1945ea74b1d81047e41585487cf0",
-      "title": "Komunikacja miejska w Rybniku 2006 vs 2026. Sprawdzamy, jak zmieniły się opinie pasażerów po latach",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdlZyY1M5QURwX19VazhJLWhHQUNzSmU0VHBJZXQ3VmlkQmxmaUxOZ1dYY1p4TU5YcnZESFBqaU5fMUwwaFJtNGMzTERBc0w4RUtjSkhxUXl6SXhjNFdqaVI0aldodWJyQTdTTTczVmpDaUQ0d1lHNVhpYzQ1a09LVFlBUzg4aHl1QnA3M1Jub3ZMamZiQU0xdDlEMDNnVzVVaWxIaEpNYkZqbWxkbTBXNzlJMncxX3dmMy1jelF0UzhlWGlMVmM2WHFjak1ITjNRS00yOWtpZlAyUHMwNXJ2Y01NQVNSaFBleFZn?oc=5",
-      "published": "2026-11-17T09:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "77ba5d08dbffcb25fd6ff20c202913e18bbc5b4e",
-      "title": "Jak wybrać agencję SEO? Zakres usług, koszty i umowa",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3FROVNVUEVqajMxc0tkNVlEWG1fd1N1eTl4VkliVVVhOTFrZFZESmFkdmV3MXA5NVVEZm1HZ3JKbXVtd0g1RHRkaWMyVGpNRlpJVGpzdmJkcC1qZVdFTldKUFphZVFaSGhwOE4xZTNuWm5aZ0NPT1ZYbmRsY0xRYkUyUldPemc?oc=5",
-      "published": "2026-11-17T08:26",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "67673af2d50f1fd5d06c1f79ff6ab3882db6f02a",
-      "title": "Miejsce, gdzie nikt nie jest sam. Kawiarenka Seniora połączyła mieszkańców Stanowic",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcV9Rcl9KVlpBanBqbml6RTJ4OEdEeGZ4QUhxU2lHajF0aEFmdERRRjB3MDE3SUJzdmFZT21XcjBRSllDTElJcUdzd1FLMFl5MkwyTURiaHl4RDhvQkVyVk1NVkRENHNkNkluSHJhUDBrSWROdkUycFpZSXU0VHItWG5XOTVrbW9qTDVlMU1HXzljTWZFNUs2WFItZnVubElvMVVjWnptMVpLdnQ4WEI3dW1HaklRVGt6ODQyQXBUTERzXzNQRUhYWFY1Tmg5VkJuS19TYU5R?oc=5",
-      "published": "2026-11-17T07:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -689,16 +679,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "940d130433955f1a7f51674e3c80910071fe1211",
-      "title": "Złodziej paliwa wpadł na parkingu. Samochód rozpoznał policjant jadący na służbę",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcmExaHpySEZnbVAzYk5QQ2dYZkQ5Z2hrVzRIM0R3NUN2MmxnTS1QUXZBdElGTnNLM2ZfTGRubzliNVFJY3VyVnVRRXJVdmlubVF6T0RJN2hOT19yVGZ2YlpGVWQ2UFVDNXcybHhPOFJEbE1ybm50bnhIVFVDUzg3XzFJU1BzV0c2blZxZXQ1aXNqX25ORVRCbm9kZGVoaVlfa0g5aWpxMkgzZmlkUDBmT25tc3dFazhlVGI2S3ZFTXFOSHVJOTgwOXRjVVlBTVNrUGpR?oc=5",
-      "published": "2026-11-16T11:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "055cd346416b280e63d680599e59c2322cc23d06",
       "title": "Jak ATP Finals stało się turniejem bez marginesu na błąd?",
       "summary": "",
@@ -819,6 +799,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "bc0d0948a06e6f511732b4df0fa191a398dff827",
+      "title": "ZUS umorzy długi sprzed 1999 roku! Jest jednak haczyk, który może obniżyć twoją emeryturę",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX3h6cUxkR201WjR4NHZ6WHJNLXJHcS10Q3ZLSVJPaVY2UzhzS1pvSzdubGQ0Q0pkWjNKRW9yV1VFcWItVldKNW9ySUtwd2hXMEU2OVdieFhBWkZxcVRVa0lOam9BazduY3I3aXp0OTVfdm14Umx0c0Y1Q3Y3akZ1S2hBcUZSN1Uta1FPai1MQlhDaGV1amlWNlk1NHd5Sjc4QTBVVGx6cXBtZTFEM1dwcHI2dUlOZm5pb05fS3Y1R1R6ajlDNXRoX2J1QVhhVndjSDFlRDkyNC1ITjN1OHc?oc=5",
+      "published": "2026-11-16T07:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "afbb1e9faa159f32da29bfda7edc4809fa6aedbb",
       "title": "Wolny lokal usługowy przy ul. Hallera czeka na najemcę",
       "summary": "Od lutego 2027 roku przy ul. gen. Hallera 14/1, dostępny będzie ponad 73-metrowy lokal usługowo-handlowy na parterze, z dużymi witrynami i bezpośrednim wejściem z ulicy.",
@@ -849,12 +839,32 @@
       "priority": "NORMAL"
     },
     {
+      "id": "a4805e029d89cfd5dce0429bf2f035a43a1da80c",
+      "title": "W Rybniku stanął pomnik Hermanna Müllera. Ile kosztowała rzeźba browarnika? (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLXBYa2M4eVJJSEpaNndqTzBoakVXdkdvclI1VVpwUWNCeGhtNm9jbldyLVg5MmMzclRsNW93WEZHWU1oMFVoS1FNS3NaZnN5TVBvS3NiN3BGX0xvdHRablBPdUJkZGExM28zS2RxT0xjQ0ZzX0dNLXdVclpjdUNLR1RWSk9YcVRUSmJkVk5uRnhBRC1SMTdpclpxcWRPa05TRDZITXkzM01OWFBaSHdWWmpyem1zNjVjTjF2aGhtemZZYjBEdHFNLU1XYVRtVGpfQVVfcw?oc=5",
+      "published": "2026-11-15T18:27",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "258d5e887a82f75368ce769502e30d8d7a77d752",
       "title": "Uwaga na fałszywe smsy o mandatach. To oszustwo!",
       "summary": "Fałszywe smsy znów trafiają do Polaków. Tym razem dotyczą mandatów. Oszuści podszywają się pod policję i informują o rzekomym wykroczeniu drogowym.",
       "link": "https://www.radio90.pl/uwaga-na-falszywe-smsy-o-mandatach-to-oszustwo.html",
       "published": "2026-11-15T17:30",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "f0e9363f3e3a46695c3953acabca3a7d63e4302f",
+      "title": "Problemy wcześniaków i profilaktyka przedwczesnych porodów – rozmowa z lek. Ewą Adamiec",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNajRXdjJ2TXpTMnVPTmhHQ1ZpeE5XbGlDSnVxUFVoakNBSERGTVhGWXFfU3JnemppVFl0aG1iWkVLZUV1d2x3azZncDhPMjVnT0FVMUdvcElsZkZ4MEo0WXRBcUgwTm9CZkpaWTlWMHdueVByck1FWVhIbHFJUFNqbVJ3S2tVSV9OZndDa0Utcm9uZnVwU2wwOE9HVWNfR20yRmVTdzh3UjJwLU01ZWZQWmlVVG94RXpoTU5ocG80RWFwMXppVkllVkhyb1h3ZjkwNXc?oc=5",
+      "published": "2026-11-15T16:48",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -879,14 +889,14 @@
       "priority": "NORMAL"
     },
     {
-      "id": "3d8b189cac8a0dd3575a0a50a4b21f15ac8c24c9",
-      "title": "Planowane wyłączenia prądu. Sprawdź, gdzie zabraknie energii elektrycznej w najbliższych dniach",
+      "id": "0c349ca5aef0618c340b569b9b1b0510688f6f16",
+      "title": "Szóste zwycięstwo z rzędu koszykarek RMKS-u Xbest Rybnik. Liderki wygrały w Swarzędzu",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSG81OWlGYUxldElmbms4S29VaFRmYmNHRDNidV9sV2FPTXhzbUJoQTBiZlVQNEZEZS1XS2E5ZEU3c2thSTNhN3Q1UHNnMFk1Z0s5R0RRZVdmVG5TWjJpem1xMnFqNTBNS3dXalJNaWhlOG0xa2VQVkFDQzh5ZDVIQjJjOGYzOElXSW5hTUN3emR6QzJ4N01qN1luNGRqZHotWHVmZ0tXbUFtNk1Fd014dVZYWnJuTDdjMFNacXQxV0p0Nk9mdmIxS0Y0XzdVT0xYMnNNQV83amd3ZlpwRmswbFhMUjlxZw?oc=5",
-      "published": "2026-11-15T13:00",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZTRGbUNxaWF5cF9ET1h4YVhCd1BGYTJWWjZwTXQwNExFQjdvVlJSSXpOUTY0TmZ4b0FBNFdERnlRcjZGOE1mU0tOSG44N2p4SWd4b1A2QlFrOGFPaFdtVTVPX2pYRFVmMnp6a0N2UjVZdHR0ZU5nV2k1NF8tWXlJeVJmeXI2d29JM09McnZoZWE1SHNjblJUQ2tDUWszN1V0czl1UFpNWUdwRXY0VVR6ajlheGNfRkl3dDV6YTdhZzR1bGY2RTVyTXlIV3dxb3dKcnVlMG04dG1OUQ?oc=5",
+      "published": "2026-11-15T15:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "ALERT"
+      "priority": "NORMAL"
     },
     {
       "id": "b8d721f5a54bd84b3aa9a435de9fcd3c8c972f14",
@@ -899,22 +909,12 @@
       "priority": "NORMAL"
     },
     {
-      "id": "c4e878202b617e7bf5f5c84d04f9283b88b7b997",
-      "title": "Smaczki w Radiu 90: kompot z bani [PODCAST]",
-      "summary": "Smaczki w Radiu 90 to niedzielne spotkania z kucharzem Łukaszem Gamoniem. Wracamy do starych przepisów i robimy je na nowo, a Łukasz zdradza nam patenty i sposoby na mistrzowskie dania. Co dziś?",
-      "link": "https://www.radio90.pl/smaczki-w-radiu-90-kompot-z-bani-podcast.html",
-      "published": "2026-11-15T11:50",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "01a45af93b577514a3668d569fe35b3fa75b1c2c",
-      "title": "Opowieści o regionie. Posłuchaj naszych podcastów [PODCAST]",
-      "summary": "Opowieści o regionie w Radiu 90: nowy sezon, nowe tematy, nowi gości. W każdą niedzielę od 9.00 do 13.00. Posłuchaj podcastów z programu!",
-      "link": "https://www.radio90.pl/opowiesci-o-regionie-posluchaj-naszych-podcastow-podcast.html",
-      "published": "2026-11-15T10:50",
-      "source": "Radio 90",
+      "id": "666e1df7840ac1a9e1e87a0ad618574b9b91458c",
+      "title": "Wielki powrót Silesian MMA do Rybnika! Pełna hala i potężna dawka sportowych emocji (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOU1Xckp3R1c1RzdnRDlNSEttV2FSVjB3VXpFUWtJQTRRZkdyX3JrSTRwZ2dJclNnSzY0d2xELS1UOGF2dzYwSnRickxncE16SnZCenRnYl96S0pIbGVDTlowX21DM1M1N0UtcDI1THFqSmJUaGQ1c3dHM2g0dFhHZ25Xd2J0ZUVnZ3BHaGRUTzFlWjNuOGd2SnpJOWszQmNUbXROUFJtVm12eFY0MXIzWDhWMFFBbnFwMXlpQVhMQnZtT2J1d3NTVDY4Y19YTl9VelV0RWtOMHlNSXpjalk1Sg?oc=5",
+      "published": "2026-11-15T11:39",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
