@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:11:45",
+  "generated_at": "2026-11-21T07:03:36",
   "count": 120,
   "failures": [
     {
@@ -8,6 +8,66 @@
     }
   ],
   "items": [
+    {
+      "id": "faa8737cc154f6edaaf5d3d63d5b13d56fc4e72d",
+      "title": "Centrum przesiadkowe w Jastrzębiu-Zdroju nabiera kształtów. To inwestycja za ponad 13,5 mln zł",
+      "summary": "Na budowie centrum przesiadkowego przy ul. Podhalańskiej w Jastrzębiu-Zdroju rozpoczął się montaż stalowej konstrukcji terminala. Drugi etap inwestycji realizuje firma RISER z Jaworzna. Wartość umowy wynosi ponad 13,5 mln zł, a zakończenie prac zaplanowano na grudzień 2027 roku.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/252330-centrum-przesiadkowe-w-jastrzebiu-zdroju-nabiera-ksztaltow-to-inwestycja-za-ponad-135-mln-zl.html",
+      "published": "2026-11-21T06:12",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "3ee99cfb101e77ca06d731bea6fe26f0ed0b6d90",
+      "title": "Nowe oświetlenie boiska w Żorach. Inwestycję za 77 tys. zł wykonała lokalna firma",
+      "summary": "Na boisku treningowym Stadionu Miejskiego w Żorach zamontowano nowe oświetlenie. Inwestycja kosztowała ponad 77 tys. zł, a wykonała ją firma OBI COMPLEX Rafał Zgoda z Żor. Projekt poparło w budżecie obywatelskim 718 mieszkańców.",
+      "link": "https://ezory.pl/wiadomosci/252286-nowe-oswietlenie-boiska-w-zorach-inwestycje-za-77-tys-zl-wykonala-lokalna-firma.html",
+      "published": "2026-11-21T05:11",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "88dddc4e3feda0fbe39c07a44a9c4c50967d6ad4",
+      "title": "Moc porannej kawy! [KONKURS w Radiu 90]",
+      "summary": "Chłodne poranki aż proszą się o kubek gorącej kawy, która dodaje energii i chęci do działania. Podziel się z nami swoją historią i weź udział w naszym konkursie! Zapraszamy wszystkich słuchaczy Radia 90 do odkrywania mocy porannej kawy. Czekają na Was mocne nagrody!",
+      "link": "https://www.radio90.pl/moc-porannej-kawy-konkurs-w-radiu-90-3.html",
+      "published": "2026-11-20T23:01",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "b500b1ccd585951a4eea479d3782eb0e7ec8ae15",
+      "title": "Biblioteka w Rybniku: jutro będzie można w niej porozmawiać z notariuszem. W ramach Dnia Otwartego Notariatu",
+      "summary": "Jak bezpiecznie przekazać majątek dzieciom? Czy warto sporządzić testament albo zmienić zasady zarządzania wspólnym majątkiem? Na te i inne pytania odpowiedzi udzieli jutro notariusz w Rybniku.",
+      "link": "https://www.radio90.pl/biblioteka-w-rybniku-jutro-bedzie-mozna-w-niej-porozmawiac-z-notariuszem-w-ramach-dnia-otwartego-notariatu.html",
+      "published": "2026-11-20T21:05",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "cbefeb896db1b573b4973ac26a7540111ee47a72",
+      "title": "120 lat historii i serc bijących dla edukacji. Wyjątkowy jubileusz Szkoły Podstawowej nr 3 w Rybniku",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeGh0VldZZXlKd2txNDFxaHNtWFFmNmViSmN1MEFELTExalZPcDBncXA0eXZtZTZ0WkF2WjZockFYSHhZVFJqYzZPRmFXaTZtOVkyb01ReXlsV1Q1M01ycENCdUxFQmZGWWxpY3BPbG41QlBZNmVjeWhsRkM5eHBmdGVnUmJyYmtwYlhaQnZrSXFuRThYOHVrSUtKc2lXaWdSSEpmM0l2aEczejlfNXRTZEl1b084MlBwODlVcE9hSXJSNHI4LUtURnY4YVFDc2lpRWFxdEh5cDlUcVU3a19oV2hiTlJFMDRxNXlGS1lERjg?oc=5",
+      "published": "2026-11-20T20:48",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e0819b1626006ff3bd1746d71722972736368528",
+      "title": "Judo. Polonia Rybnik: Szymon Szulik siódmy w mistrzostwach świata juniorów",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSmVVSzkzNkdJeTFucDJVQU1NUlB3SWtfbGlrZlBzeFIzTkk2aEhOZjhQVTVydnBFcmpZQkNQSGl4c1BjNy1fNXhsUmFFbTBXZHBISkZiV2cwTXBsWm5ldUJ2UDlnODY0d1NybU1UMy0yTXJ6aHhWVU5aN3ZXRzVrcGZjcmF0QVVydERVdnAwUGFfSFFXRGhOVlpNU3lPcXRxU0JmZ0xVMWJGMUhqUVRleHdocmxNUWFLNGZsMTRqZkpRWnluM3F1c2x3?oc=5",
+      "published": "2026-11-20T20:32",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
     {
       "id": "7b9d7195f7e44707d0a4e2ee15d93f4ccdf63c20",
       "title": "Zepchnął auto ze śpiącą partnerką do stawu. Jak Archiwum X rozwiązało sprawę z Roszkowa?",
@@ -66,16 +126,6 @@
       "published": "2026-11-20T17:00",
       "source": "nowiny.pl",
       "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "b5a26384ba9a1c2941de069b93d2b225df1cf582",
-      "title": "120 lat historii i serc bijących dla edukacji. Wyjątkowy jubileusz Szkoły Podstawowej nr 3 w Rybniku",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYlNXZjd5X20teERPNjVqR0tGd2pKMVlQd1FyZmdYWlBUVGNmQjJFc0xJQjZtZzdHd182NDhwYi12UFBtQjM1NWFqTVF1N0JiX0lCZ0tmUExMUW1SODItaFlGYVZrcjJCbWVmS1NnTW85NjB6M2V3Y2pBWFNpTS1JYnFOQmdtOVdmaTBJWDhiLWtmNjJOWUlIMkVaN2NaUWJpellabmlSVzBhSTNtY0RxQ1lZd2lqalFfX0d0LWotS0lyUUFMaDd6ZTkzUWZVZDdzUmJrQXZyel9xUjFUUHJzdmdwZEl5N2VXWk1xYVd3?oc=5",
-      "published": "2026-11-20T16:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -259,6 +309,26 @@
       "priority": "NORMAL"
     },
     {
+      "id": "97037f3152ac393ffe4dad0fc44ea07c856683b7",
+      "title": "Prywatny akademik – wygodna alternatywa dla studentów z Rybnika i całego regionu",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkJPZ19vODZxeEVnc2hzVlJQcW5jQnAtUldvdjhIVm1sZGpsN19PU0RSYWhya08yd1ZERDJrT01FX1dhRTBldm1TRjVJVjhqV3E3Mzc1bmMwQjJsVTk0Y1NRVXhJQ2dhMGpSUkxSd3FXcEd4bHk4VDhsU2F4RTFpQTBMRU5JUFZkWS1xckUyUnJSTHJ1aHN0aHZqMnl2dnAyaDdaYWNmM3ptZUJKaThrXzF4aFRkeExUMjJIUEFmT0Q0WTNhRHNpQ2Rma3dnU2R3a1E?oc=5",
+      "published": "2026-11-20T10:15",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "c237dc42f724fc085af0e01c77e4f95337a242ae",
+      "title": "72 godziny bez prądu i wody. Czy mieszkańcy Rybnika wiedzą, co przygotować w domu?",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcWtPa3VKQlpWOEpzQnU3NUt6M1JQcDlEcnA3a2pBSF84bHgycDE4OUhBZzRSclhnMlhmN1Awb0N6d2ZKTC1Jb2o3QzVDZnZQcXN6S0FJdHRHeWdKdnhzbkx4VkUxN1FOcnpfSVBlY3I4VWZTblJqYUdrcHF0NlMxZENMVm02U1F2MjByWGFucUdXakNNSE9TTDRuaVhtLXoxSW9ldFYzLUZKMHNNWk5DOTlmYXFzR0M4cjFOeS1ZclhoQ3FFaHdmVTBjVmVHX0MycV9V?oc=5",
+      "published": "2026-11-20T09:52",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "36af60693ae049d62aace8429ad4f9c74cc64051",
       "title": "Jak radzić sobie ze złością? Poradnia w Radlinie zaprasza dzieci na specjalny trening",
       "summary": "Dzieci w wieku od 7 do 9 lat, które mają trudności z panowaniem nad złością i kontaktami z rówieśnikami, mogą wziąć udział w Treningu Zastępowania Agresji. Zajęcia organizuje Powiatowa Poradnia Psychologiczno-Pedagogiczna w Radlinie.",
@@ -266,6 +336,16 @@
       "published": "2026-11-20T09:38",
       "source": "nowiny.pl",
       "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "dca8f02d874d2d9ed5fb1807005cadd003e6c018",
+      "title": "W Muffo trwa Black November, a z nim co tydzień nowe promocje na polskie meble",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVFdqakQ5VHdaS21FY0pEN0hXelg0VGVFN1h5WG1JclRsUmo4SFZHSE5LN09tdDU0aC0xNnpEczk5cEVzVm5mTkNtUXhhSW1mMi1VLWNia2VjVTEyQ0phTjJuclFfRUNKWFg2OWZvM3Q1NENacjUxNlBVUG56M1Rnb1NKckZuSF9CX25MTDgtRXBsQ0tFcXI4THlxdlVXX2JKd3FqY3JIZ2NKNHFQaHJjYXU0VHZMRnl5ZTBVM0VybmY2My1GalE3REk4S0RNVWZa?oc=5",
+      "published": "2026-11-20T09:34",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -299,6 +379,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "80498ff31fbcf0fdb82a9775c0fa8a8c538a2f20",
+      "title": "Brązowy medal na otwarcie, cenne lekcje na finał. Dżudocy Kejza Team Rybnik w Pucharze Polski Kadetów w Bytomiu",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRlliWjEwMFpDU180bGJPZFRhQVFCVXQwTjlqTUh4TnRxYXFET3p1alRBeElhQlQ2NUw1cGZvOUY0S2hab2tOSWIzeHFfbWJkbEVuYkRiVV9MbXZnOW9RZjFWdmpPQ1dReFdxYUVqd0QzOU1uMHdlaHdBVnhqT2pXSmRXSjhLM2tCVHVwT3dscEFBenZUMThKYjBVRG5WTkVualZOSzF4TFQtckJzS3pSVDVnRUJpRElEQTZTUEUxeE1TaGxWTFhhM3VvVGl6eVJ3clhlRnFuaHJhNS02QTlBemFhRlJJLTNseFpaUUg3OHZaYmMtZWlYNWVZaw?oc=5",
+      "published": "2026-11-20T09:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "b97c260c28b72099fe926e32ef513a3fe72b6186",
       "title": "Nie żyje Adam Hudec. Świat muzyki dętej i rybnicka „Złota Lira” żegnają wybitnego twórcę",
       "summary": "",
@@ -309,23 +399,13 @@
       "priority": "NORMAL"
     },
     {
-      "id": "30a5a17d4d2302fdc32976eb713984979e5b5f9f",
-      "title": "Obawy o bezpieczeństwo w JSW. Ratowników może zabraknąć, a wtedy kopalnie staną [WYWIAD]",
-      "summary": "O bezpieczeństwie i zabezpieczeniu kopalń przez ratowników rozmawiamy z Leszkiem Modzelewskim, członkiem zarządu krajowego Związku Zawodowego Ratowników Górniczych przy JSW.",
-      "link": "https://www.nowiny.pl/wiadomosci/252327-obawy-o-bezpieczenstwo-w-jsw-ratownikow-moze-zabraknac-a-wtedy-kopalnie-stana-wywiad.html",
-      "published": "2026-11-20T09:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "452343d9ff33e5c2466d80c2d13e105053241a47",
-      "title": "Poprosiła go o podwiezienie i postój u znajomego. W Jastrzębiu-Zdroju doszło do napaści",
-      "summary": "Mieszkaniec powiatu cieszyńskiego przyjechał do Jastrzębia-Zdroju, by zawieźć koleżankę do Ustronia. Podczas postoju u jej znajomego miał zostać uderzony pięścią i zmuszony groźbami do oddania samochodu. Auto odzyskał jeszcze tej samej nocy, ale z innymi kołami. Policja zatrzymała 31-letniego…",
-      "link": "https://jastrzebieonline.pl/wiadomosci/252332-poprosila-go-o-podwiezienie-i-postoj-u-znajomego-w-jastrzebiu-zdroju-doszlo-do-napasci.html",
-      "published": "2026-11-20T08:23",
-      "source": "nowiny.pl",
-      "category": "Region",
+      "id": "ed07ccc7db874b41b767628e731817f1830b2041",
+      "title": "Balustrady szklane w listwie, na spigotach czy rotulach? Vistal Balustrady podpowiada, jak wybrać system do swojego balkonu",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPT3cxY29WS1RicHdXMFV6ckR2T2VSd3RnSWVwV2VOSGxqbHRZVVpTZzJwZVdtVlVtSVV2dS13cnB3OTh0WEc1czVTUVVqck5XWGN2SXFnV3hMQkxET09YNHdLak5sZ1pIdnNGem5qbTNpZzRtNnRMXy1maFdUM0xVczVfenIyOUVxeWJ0bFJPeWxqdzVvUGRKcnhGeHl0b3dNWDF0Ymd0c0xnVWRWelZQUDdxdnRtUkgxLUswZnYzRk1ZUUVCWWR0RHN0Q0M4cDRleEpmZEE2NFl0dFdQWFdYd3lOQXYzeFVTeVRJNmRaYlJTZWdZeXNhOWRidXdxc2w4dlRpMUVLQUd4dw?oc=5",
+      "published": "2026-11-20T08:56",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -459,16 +539,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "60f404e65acc9c2e11a9e2f979f73c5a0d540a13",
-      "title": "„100 Milionów Drzew dla Polski”",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWkVRblg4STQ5aTlsRHY1LVZNVkVLVG5oaEFoZzdyYWtUVGVtYzFxSnBGRnVFeVFMcjdjVXpMY25FdmRVc1JPMGtEeGs0X0J5NnNDLXI0NGVQX2Mtb3lWZmg2eENlcy1XWlQzVm9kNXptaW53ZndaZHRZRGJVZ29EeQ?oc=5",
-      "published": "2026-11-19T17:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "b01ab80e53ca2b9c7ca1d2ef8c13e27e71b13965",
       "title": "Od jednego drzewa do 100 milionów. Maciej Urbańczyk o tym, jak wspólnie zazielenić Polskę (foto)",
       "summary": "",
@@ -587,16 +657,6 @@
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"
-    },
-    {
-      "id": "d8cefe76bd0eb6fd7d4fa144f49c43f50082b7f7",
-      "title": "Woda w części Suminy niezdatna do spożycia z powodu bakterii grupy coli. Uruchomiono punkty poboru wody",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdnZyenJMbnZXV01mVnlQc2c2aURYOGNFcXVmTzhyclBLVlRqcWo3TlZvQ29YMTg5OTJ5MGJzN3oyajdzU2VQem5nelNHWFZQU01oUXZHZHJySmxxM093azZzRW5WZGVGTVlubVJDcExicFVzRmg5Q0o1WTlmbXk5LTlGTkZyYjhZeFlLTE0zVnhPOUYtWkpvVXhFYjZHYWlWak9GTl9idmpxTXhWOGxSa1FZZGd6U083bkNaYXREc3J6dnVzMVV4WTEzemhLNmhLMnNlYnhxdzJhaFZnVjZVSmRJamdBam5mR3FtSkZoelVoZw?oc=5",
-      "published": "2026-11-19T08:30",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "ALERT"
     },
     {
       "id": "41ac71ff95cd91be3cbbf18f417a937daef858ad",
@@ -739,16 +799,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "8cd94d2fdf52c3fc7cb5df042c2a24ce5266d62e",
-      "title": "Od karetki do sali operacyjnej – co musi zadziałać, zanim lekarz zacznie leczenie?",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOVFzZ21HemNwS1l1TmNkWG1pMGpEbG4yRkcxSThYUG5RSk96UFJ3VDJldDhuUkxJdXBhUmZ2YkZlZ3RNNFJZR3FicnpFT2hWb19XcHFCRHZiQm9QZmo5bklHUDF0clNnSURlelBiVHdZUkVTMVlHLWt0S2g0UnpITGp4QXJSYXFNU010bGJuMzdjeURqa0g3Tl9vdC15SWFneGxIY3hBdVpXakNucnJSUktidTg3TWpwcVVFSklqdXpwbE4wdGYwOC1xdzFZYnBTcFE?oc=5",
-      "published": "2026-11-18T15:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "ea5ad72325cd38749d09db6ee3737cbadb69d4f9",
       "title": "Mobilne płuca w Rudach niemal sczerniały. A czym oddychamy we własnych mieszkaniach?",
       "summary": "Wystarczyło nieco ponad tydzień, aby biała tkanina pokrywająca mobilne płuca ustawione w Rudach zmieniła kolor na niemal czarny. Instalacja Polskiego Alarmu Smogowego pokazuje, jak wiele zanieczyszczeń unosi się w powietrzu. Czy jednak zamknięcie okien wystarczy, aby uchronić przed nimi domowników?…",
@@ -757,16 +807,6 @@
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "ALERT"
-    },
-    {
-      "id": "8e9b6bad6457ae5cf30a46426bd761032cc84079",
-      "title": "Hermann Müller wrócił do domu w brązie. W Rybniku odsłonięto pomnik legendarnego browarnika (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORGR0dEJTUHBYU2h4TERzTXVuSE5vcmg5QmlGdDFzMXgxN2JCV3pWMGVfNGZVaURTZDVERGhYSEdULTQ2cFZtMjMzcGRoZVg1WHBxVXo0MkItMERKUklIQy1xVk5oM0JmU2l4ZHJncmVMUjJXSUJlZDh3dzRGMmV0dVBZVnJZcEJSOHJFaDFEcjBEQzNEc0doVE85dHdiN0dYd2tUaUtWY0Rkbks4d3pmbUFEaUpnTS1wOU5CUk41bkxqNnNpcElMTlJzNkNJWWdrbmJ0Mkl1eUNLcnJBT09tRThMSDNRaTVi?oc=5",
-      "published": "2026-11-18T13:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
     },
     {
       "id": "16fe5711b1c9c08a056c2b1d2577eac28014cd01",
@@ -779,42 +819,12 @@
       "priority": "NORMAL"
     },
     {
-      "id": "94d0613ceb4a2e245a4d41d06ec94e0ba0fcd8d4",
-      "title": "Rozpoczęły się już kolędy w rybnickich parafiach! Sprawdź, kiedy ksiądz zapuka do twoich drzwi",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSUR1dFBpLUZ3Z3E5dy1KVENGeDFKQ2wzaTBqanVfMGV3Rl9kRW9SRXQyYWhWc29JcHUzNXdBakxBd3d6c2lZQk45V3JfWTdJNVlQTUtzVUoyRW5Jak5uM3B6TzlueHNYMjNPTDhZbTRxdnlieHJrNFFrb1JHVlBybENfajZFSUFGVi16Rk1fLUkzek15cFY3S1NlYlFBZGowZFVUVnRJZ1IyblU3QUstSVI0OTNhTUstLVE3cXIxSklaN2xLbTRvRFoyRVpHemlBaC03YWNHM2d5NjJUdnltQ2RBWEQ?oc=5",
-      "published": "2026-11-18T11:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "bccc66f30b6db22c8742226836c77c17d2fdf7f7",
-      "title": "Pan Babcia wydał pierwszą książkę! Spotkanie z Michałem Froehlichem w Ochojcu",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQ2lBams4NWljSHdqNHBROGcyeDZuaVpxbkgyTE95ZWlqZk9raV85NjYyT0xmVjk1SldFU1BZSGF2NWdHZWFtdTd2VElRSG1RczQ4Sk94NXJ5SmU5N2Z3azRORHNZNVRtcTVoSk9NU3AyTV9xOEtrbUt2aWtGdGZyN2pOU2RXcWl5ZGdvZE9vR18xU3F4TlBwajYzSDdqSVgtM0dsQzI4X0tHMWgtUXVCMXFlajlzVHFjY1lkblV0anJETjVEUWhMLUtXdVNKTjJfMHltUlR6dG12NVZObXIyeVpjOGtCdlVXdjVBSzg2cWl1MlhadjFPdTFoWktFQ2R4eUNV?oc=5",
-      "published": "2026-11-18T10:43",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "4684635f95ebf54dc925ae11269a712411dee1e6",
       "title": "Jak ciąć i kleić styrodur XPS? Praktyczny poradnik montażu płyt izolacyjnych",
       "summary": "Płyty XPS, potocznie nazywane styrodurem, należą do materiałów izolacyjnych chętnie stosowanych w budownictwie. Dzięki niskiej nasiąkliwości, wysokiej wytrzymałości na ściskanie i dobrym parametrom termoizolacyjnym sprawdzają się między innymi przy ocieplaniu fundamentów, podłóg na gruncie, tarasów…",
       "link": "https://www.radio90.pl/jak-ciac-i-kleic-styrodur-xps-praktyczny-poradnik-montazu-plyt-izolacyjnych.html",
       "published": "2026-11-18T09:16",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "54235bf12f41b0e04a3a41f926ec3ccff5ef0222",
-      "title": "Smród paraliżuje życie w Orzepowicach. PWiK: „pracownicy też to czują”, ale winnego wciąż brak",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSHRPYnBwVXF6bWZOSndkbjFfRVJ4YW1ZYmh1dEdJVVczaTBOT09QVkZIQjZkNzlBYVpnTE1tbnRBSEx4bWVlNDhWUWdoY1ZRc0FaYk5IM1MzLUVRaV9JSC01MEEwZlFZZ253eUIzTi1TOXpBVDFrcF9XYVRwb2tpNU5YbVdlQkhlME9SREg4UGt6VGVNX3lSVk8xSVlTU3hPUjJ1UVpMWGstanV3Q1VWMTZ5eFdjaWhfdUNtdDAxOEVWbHNiS3puVXZZQVE4dXRLTDhrWkNDT18tbWpBaTk3UA?oc=5",
-      "published": "2026-11-18T09:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -917,26 +927,6 @@
       "source": "IMGW",
       "category": "Ostrzeżenia",
       "priority": "ALERT"
-    },
-    {
-      "id": "8c0cd9e2c3cadb65650b79156c0ad654dcc20bea",
-      "title": "Konsolidacja zobowiązań – kiedy może pomóc uporządkować budżet?",
-      "summary": "Gdy kilka zobowiązań finansowych zaczyna obciążać domowy budżet, łatwo stracić płynność finansową i kontrolę nad terminami spłat. Wówczas rozwiązaniem może okazać się konsolidacja, która pozwala połączyć wybrane długi w jedno nowe zobowiązanie z jedną ratą. Taka opcja z pewnością ułatwia…",
-      "link": "https://www.radio90.pl/konsolidacja-zobowiazan-kiedy-moze-pomoc-uporzadkowac-budzet.html",
-      "published": "2026-11-17T09:36",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "64266d52d29ce87bc3a449dc36b3ec3d093a22cd",
-      "title": "Jak powalczyć o środki unijne na biznes?",
-      "summary": "Jak zdobyć środki unijne na biznes? Odpowiedź na spotkaniu w środę (18.11) w Zabytkowej Kopalni Ignacy w Rybniku.",
-      "link": "https://www.radio90.pl/jak-powalczyc-o-srodki-unijne-na-biznes.html",
-      "published": "2026-11-17T05:48",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
     },
     {
       "id": "0218c8b033c90984309660a241172e1c1fb4a187",
@@ -1146,6 +1136,16 @@
       "published": "2026-10-26T00:00",
       "source": "rybnik.eu",
       "category": "Komunikacja",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "a49864b83ff64042e1e6df0796959813bae24450",
+      "title": "Nowy nabywca działki w centrum miasta",
+      "summary": "Firma CARBO-TEC kupiła za niemal 4 mln zł netto działkę przy ul. Za Komendą w Rybniku, gdzie w ciągu pięciu lat wybuduje co najmniej 5-kondygnacyjny obiekt usługowy.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/nowy-nabywca-dzialki-w-centrum-miasta",
+      "published": "2026-10-26T00:00",
+      "source": "rybnik.eu",
+      "category": "Inwestycje",
       "priority": "NORMAL"
     },
     {
