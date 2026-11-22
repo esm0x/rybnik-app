@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:13:43",
+  "generated_at": "2026-11-22T06:43:33",
   "count": 120,
   "failures": [
     {
@@ -9,13 +9,103 @@
   ],
   "items": [
     {
-      "id": "6add39614e9f898ba97d31cf9679b98d74e767cb",
-      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "id": "1138926f2c91a79d349e517b4a3c42f1ab62d8aa",
+      "title": "Jarmark bożonarodzeniowy 2026 w Jastrzębiu-Zdroju. Co przygotowano na trzy dni świątecznych atrakcji?",
+      "summary": "Niespełna miesiąc pozostał do jarmarku bożonarodzeniowego w Jastrzębiu-Zdroju. Od 18 do 20 grudnia mieszkańcy będą mogli korzystać ze świątecznych atrakcji, a w niedzielę spotkają się na wspólnej wigilii.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/252289-jarmark-bozonarodzeniowy-2026-w-jastrzebiu-zdroju-co-przygotowano-na-trzy-dni-swiatecznych-atrakcji.html",
+      "published": "2026-11-22T05:29",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "483671b93d18ce0468803439d174ceb376708d6a",
+      "title": "Co będzie się działo 6 grudnia w Żorach? Święty mikołaj zaprasza na rynek",
+      "summary": "Słodkie prezenty, kreatywne warsztaty i karuzela „Żorzanka”. Takie atrakcje czekają na najmłodszych mieszkańców Żor podczas mikołajek 6 grudnia.",
+      "link": "https://ezory.pl/wiadomosci/252335-co-bedzie-sie-dzialo-6-grudnia-w-zorach-swiety-mikolaj-zaprasza-na-rynek.html",
+      "published": "2026-11-22T05:25",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5f562af67e0c928444780426e1eb2cfecd44d778",
+      "title": "TS Volley Rybnik – KS Jastrzębie-Borynia 0:3 • www.rybnik.com.pl",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMVdQeWRzRU1MRWQwRWJTSUhhOTJMQW9tb1FDdGN6M2IyRjdMV2NpYURrdmhnLWtBUGRwU0VJN21uNWJoNDQ4VXl0czE2QXc3MkhNaE9HbTE2aGJtSmZMaU9YV1F4dFlJRE1obVlUZHpIXzBjNHh4ZVdDQTRmdVlvUnVKYjljQXBRQ1d4Mzc1UFU5Q3dW?oc=5",
-      "published": "2026-11-21T18:53",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM2Z1ajBDWXk0ZnZXaWUwSTVzY2RhSVY4MDdsTXlIT05kRTgxeDdPd0pJaFpnemhZcmtsNU5XOWRycjVQeUpZREdYUmxRbmpMdi1MSW5qS3p6UFl6a3lNWmVIRzRzR0kwWllONTVmNVJrOVczNlZXY2lVZ0RLRWcxeWJsRjBFOWtOd1BiT3ZoOHczaHF6S044aFpSVjJsQQ?oc=5",
+      "published": "2026-11-22T00:55",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e3fd242c8d5b496b7d66af61d7ac5b0448b816d7",
+      "title": "„To jest zamach stanu”. Manifestacja w Rybniku w obronie Trybunału Konstytucyjnego [FOTO]",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeFBYdWpRaENLWkstUGtIX2Vjd1hvd1NTcEVRSjJkWlB2aElKZkdFdkdIb0w2ZEItdWQwMzRCS0tNZ2dGNnZWY2JYNklJamdNZHRJM2RNUVNmd2dIY0pBMkFYSFdDMEdfNVlfTG00cXRoNHgyZGxQQ0sxd1RralQzYkdFQjVCVE4xZjJXdjFaN3EydHp5QnEwLUZQMDhTM2ZFNFV1MlFFWFp6RjNjTWs5T3o5SC1wOWpIdFd1T1VuRXp4eFhjd2poQnVBTnRGTzRSOVJyM1F3?oc=5",
+      "published": "2026-11-21T23:59",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "654941881db69dd634eb37bc674fb6411364a54d",
+      "title": "wiadomości, baza firm i ogłoszenia • Portal",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbmt0Z1gtNXdDc095S0w2NWtfQUhYUDNIMlNTb19GNE5ra0h0M3RjNU1Vd0E0bnJWRmNkbjVBb1Z2eUtmeWwyazJidmZUVXlsejlpVUZFejdaRThwV3lod3RBLVZrTk1TdXFfN05BYV9EMmJrbExQTzd5VFlkaTE0RlVGZUNPZ2xTbndtSEZEdG1EOHllUF9ybENB?oc=5",
+      "published": "2026-11-21T23:03",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "76c9aec5d79bbb6667e761158580e7015d5898a4",
+      "title": "TS Volley Rybnik przegrał w derbach regionu (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1FMN2xwTE1rbjh2Q1hPRkx2OGJGLVRhMTBMNU9EbTA3MjR3TThnZ1ExLVRUUW1GV1FKeUU5UlZ5dThtUFZ3VDNvOUY0SHJabVdUZVFfbmwyUlowaUZwVTVaTjFBNVkxaWRiSmJEV05rU0xiOHZOaGVQQlRraDBodzYtNmRrYUMxOGlVVndYWWVKUFJJTjJKMEhXVlB3NDBjN2tYWXVreXVfUQ?oc=5",
+      "published": "2026-11-21T22:49",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5903d1daf4cfdbab95a301c8a6fbcd801dbd2f94",
+      "title": "Zamiast ekranu basen. Jastrzębie na fali [ZDJĘCIA]",
+      "summary": "Na krytej pływalni w Połomii dzieci uczą się pływać. Jedne wchodzą do wody śmiało, inne najpierw trzymają się brzegu, ale po kilku zajęciach większość nie chce stamtąd wychodzić. Tak wygląda projekt „ABC Pływam – Jastrzębie na fali”, który prowadzi Fundacja Wodna Pasja.",
+      "link": "https://jastrzebieonline.pl/wiadomosci/252364-zamiast-ekranu-basen-jastrzebie-na-fali-zdjecia.html",
+      "published": "2026-11-21T22:30",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "6b7878cba3a4224b0b41ac67ad72b8af28b7c498",
+      "title": "Zderzenie Suzuki z BMW na skrzyżowaniu Rybnickiej i Korfantego w Radlinie. 18-latka trafiła do szpitala",
+      "summary": "18-letnia mieszkanka Uchylska nie ustąpiła pierwszeństwa przejazdu i doprowadziła do zderzenia dwóch samochodów na skrzyżowaniu ulic Rybnickiej i Korfantego. Młoda kierująca, która niedawno zdobyła prawo jazdy, trafiła do szpitala.",
+      "link": "https://www.nowiny.pl/wiadomosci/252363-zderzenie-suzuki-z-bmw-na-skrzyzowaniu-rybnickiej-i-korfantego-w-radlinie-18-latka-trafila-do-szpitala.html",
+      "published": "2026-11-21T21:27",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9a65b02e47930c2bab9d1666ccf6a9a378fa071b",
+      "title": "RYJEK 2026: Zdolni i Skromni rozbili bank i zgarnęli wszystkie nagrody [ZDJĘCIA]",
+      "summary": "Już wszystko jasne. Publiczność, jurorzy i tajny juror byli w tym roku wyjątkowo zgodni. Główna nagroda Rybnickiej Jesieni Kabaretowej przypadła kabaretowi Zdolni i skromni.",
+      "link": "https://www.radio90.pl/ryjek-2026-zdolni-i-skromni-rozbili-bank-i-zgarneli-wszystkie-nagrody-zdjecia.html",
+      "published": "2026-11-21T21:17",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2691e2a8ccf6b4b8c10f57ec8ec9397db5a90d1e",
+      "title": "KS Rekpol Unia Turza Śląska rozbiła Unię Racibórz. Siedem bramek i finał Pucharu Polski [ZDJĘCIA]",
+      "summary": "KS Rekpol Unia Turza Śląska nie pozostawiła złudzeń w półfinale Pucharu Polski na szczeblu Podokręgu Racibórz. W sobotę, 21 listopada, zespół z Turzy Śląskiej rozgromił Unię Racibórz aż 7:0, już do przerwy prowadząc trzema bramkami. W finale dojdzie do wewnętrznego starcia dwóch drużyn z Turzy. Czy…",
+      "link": "https://sport.nowiny.pl/sport/252361-ks-rekpol-unia-turza-slaska-rozbila-unie-raciborz-siedem-bramek-i-final-pucharu-polski-zdjecia.html",
+      "published": "2026-11-21T19:20",
+      "source": "nowiny.pl",
+      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -99,11 +189,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "b98f90c660169be32603f202f8af8c71e73924cc",
-      "title": "„To jest zamach stanu”. Manifestacja w Rybniku w obronie Trybunału Konstytucyjnego [FOTO]",
+      "id": "b25556f32239c3ef124a6b6cdb863631728d7b53",
+      "title": "Bistro 14 – domowe smaki Śląska i rybnicki sznycel, którego warto spróbować",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWDlTTlB1bXd4Q0FEeG9WV3VxMEphRG1BT1Z2TVhNWGxlSkMzS0RSZURoT201bDVIbFRhc3NzMWplRlphX3lFNXVlOTBNaTNYcWNZam9mT1U4X1hrSWhvMzZDZFFwQmU5a0FVNDN3OTJmSVBrN253QzdEbm11YVFpTW15X2o2X1pYTEhpc2RlMGJUNHpFQ2VmaFNNWEF4aEI5WjVZN29DeHRxX2NPcGhrYnk3aldQUHMxSEtxSlhjbFRJeGdzQjBEZnJvNWVLRHhlWHZzYzdTbTczUQ?oc=5",
-      "published": "2026-11-21T13:30",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNFdXRVlwTGhTWHdpSm85QjRiTDdpNktlOC1TNktIYzFnOUJfbnFYa2FlOE1zRFEyeUUtY042aXBsdGNENFhfa05SVTl4ZkFJMnZHWE5BTm1OclJaUGFzMlNZT25TTXNBampFQnV6X2FXTXhobDFHSTZkOGhDeDVDREt4bkZKTWNTNTFZaDNjRTNhQ3pYY0VhQ1lldVBFWUdRb2Q3T3oxNUYzSFlScXF1X0hJeThVVk1OWVk5U1JhWnBpdjVxZU4teTlRTFQ?oc=5",
+      "published": "2026-11-21T13:46",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -145,16 +235,6 @@
       "link": "https://www.radio90.pl/buduja-nowe-miejsca-parkingowe-w-leszczynach-o-ich-utworzenie-gmine-prosili-mieszkancy-ile-ich-powstanie.html",
       "published": "2026-11-21T09:35",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "961a614cd26b7b91b3738343c61ea0d306ecc216",
-      "title": "Bistro 14 – domowe smaki Śląska i rybnicki sznycel, którego warto spróbować",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMV9oZGw3VE9KQ1VBT2ljU2htS01nM1c5N1hEdGt2SnZyZWRfWEdyZ203a2pXMDF1QXVON3lrSmZyb2VyTjlMRURHMG9jLWxvVFh0aXhZSzJ5VW9aREoyLW1pSjVhaDRJOHdBWWEtRG1UeU9NMTVGRlZzaEd1M2ZnNDN5TW1lOXgzTWVFbnZjMkVONVV5V3JEb0lKZVFBa2VrSFdWUTJDMlMtd2hFb2d1bGRuMF8zMmN4eHJINkZ4ZkEyWnF3X3I5bFh3?oc=5",
-      "published": "2026-11-21T09:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -229,16 +309,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "3ee99cfb101e77ca06d731bea6fe26f0ed0b6d90",
-      "title": "Nowe oświetlenie boiska w Żorach. Inwestycję za 77 tys. zł wykonała lokalna firma",
-      "summary": "Na boisku treningowym Stadionu Miejskiego w Żorach zamontowano nowe oświetlenie. Inwestycja kosztowała ponad 77 tys. zł, a wykonała ją firma OBI COMPLEX Rafał Zgoda z Żor. Projekt poparło w budżecie obywatelskim 718 mieszkańców.",
-      "link": "https://ezory.pl/wiadomosci/252286-nowe-oswietlenie-boiska-w-zorach-inwestycje-za-77-tys-zl-wykonala-lokalna-firma.html",
-      "published": "2026-11-21T05:11",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "88dddc4e3feda0fbe39c07a44a9c4c50967d6ad4",
       "title": "Moc porannej kawy! [KONKURS w Radiu 90]",
       "summary": "Chłodne poranki aż proszą się o kubek gorącej kawy, która dodaje energii i chęci do działania. Podziel się z nami swoją historią i weź udział w naszym konkursie! Zapraszamy wszystkich słuchaczy Radia 90 do odkrywania mocy porannej kawy. Czekają na Was mocne nagrody!",
@@ -289,26 +359,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "e0819b1626006ff3bd1746d71722972736368528",
-      "title": "Judo. Polonia Rybnik: Szymon Szulik siódmy w mistrzostwach świata juniorów",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSmVVSzkzNkdJeTFucDJVQU1NUlB3SWtfbGlrZlBzeFIzTkk2aEhOZjhQVTVydnBFcmpZQkNQSGl4c1BjNy1fNXhsUmFFbTBXZHBISkZiV2cwTXBsWm5ldUJ2UDlnODY0d1NybU1UMy0yTXJ6aHhWVU5aN3ZXRzVrcGZjcmF0QVVydERVdnAwUGFfSFFXRGhOVlpNU3lPcXRxU0JmZ0xVMWJGMUhqUVRleHdocmxNUWFLNGZsMTRqZkpRWnluM3F1c2x3?oc=5",
-      "published": "2026-11-20T20:32",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "7b9d7195f7e44707d0a4e2ee15d93f4ccdf63c20",
-      "title": "Zepchnął auto ze śpiącą partnerką do stawu. Jak Archiwum X rozwiązało sprawę z Roszkowa?",
-      "summary": "Andrzej J. został prawomocnie skazany na 25 lat więzienia za zabójstwo 34-letniej partnerki. Sąd Apelacyjny w Katowicach 19 listopada utrzymał wyrok w sprawie tragedii, do której doszło w lipcu 2021 roku w Roszkowie.",
-      "link": "https://www.nowiny.pl/wiadomosci/252348-zepchnal-auto-ze-spiaca-partnerka-do-stawu-jak-archiwum-x-rozwiazalo-sprawe-z-roszkowa.html",
-      "published": "2026-11-20T19:28",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "7e5f32972c73a545248154aebe8fc47b2025cbc8",
       "title": "Straż Graniczna i akcja „Pobyt”. 45 osób z nakazem opuszczenia Polski",
       "summary": "Kolejni cudzoziemcy zatrzymani przez pograniczników. Funkcjonariusze Śląskiego Oddziału Straży Granicznej przeprowadzili działania pod kryptonimem \"Pobyt\".",
@@ -319,16 +369,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "47da85652e9f8307cd14d0d02b17ee21ac8ee9ca",
-      "title": "Zmiana w szeregach WTS Odry Wodzisław",
-      "summary": "Zmiana na czele WTS Odry Wodzisław Śląski. Nowym prezesem klubu został Ryszard Wieczorek, który doskonale zna zarówno historię Odry, jak i realia lokalnego środowiska piłkarskiego.",
-      "link": "https://sport.nowiny.pl/sport/252353-zmiana-w-szeregach-wts-odry-wodzislaw.html",
-      "published": "2026-11-20T18:40",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "8a54829e022301d68752d55adbdaf696de94218e",
       "title": "Gazociąg na terenie Rybnika: kiedy ruszy wycinka drzew w Kamieniu i co z rezerwatem?",
       "summary": "",
@@ -336,26 +376,6 @@
       "published": "2026-11-20T18:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "9aebcad7dbd26da99362acc25e495eb02e9dbeed",
-      "title": "Ruch, zdrowie i dobra zabawa. Wodzisławianie postawili na aktywność [ZDJĘCIA]",
-      "summary": "Treningi fitness, warsztaty samoobrony, konsultacje ze specjalistami i atrakcje dla najmłodszych – tak wyglądał II Wodzisławski Dzień Treningu i Zdrowego Odżywiania. Wydarzenie, które odbyło się 20 listopada w hali Zespołu Szkolno-Przedszkolnego nr 7 w Wodzisławiu Śląskim, zgromadziło osoby…",
-      "link": "https://sport.nowiny.pl/sport/252347-ruch-zdrowie-i-dobra-zabawa-wodzislawianie-postawili-na-aktywnosc-zdjecia.html",
-      "published": "2026-11-20T17:11",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "404106171ffdf8f11c4c5dd20750e0b49ee2719d",
-      "title": "Śmierć przy autostradzie A2 i tajemnice wpływowej rodziny. Nowy kryminał Wojciecha Wójcika",
-      "summary": "Śmiertelne potrącenie na parkingu przy autostradzie A2 okazuje się starannie upozorowanym morderstwem. Gdy Aneta Zając zaczyna interesować się sprawą, odkrywa powiązania ofiary z wpływowym biznesmenem, a jednocześnie próbuje odnaleźć zaginioną przyjaciółkę. W kryminale „Czarny punkt” Wojciech…",
-      "link": "https://www.nowiny.pl/wiadomosci/252204-smierc-przy-autostradzie-a2-i-tajemnice-wplywowej-rodziny-nowy-kryminal-wojciecha-wojcika.html",
-      "published": "2026-11-20T17:00",
-      "source": "nowiny.pl",
-      "category": "Region",
       "priority": "NORMAL"
     },
     {
@@ -449,52 +469,12 @@
       "priority": "NORMAL"
     },
     {
-      "id": "6a9a534c0729d6e03a7bb2825be8e11c5d27c8d9",
-      "title": "Nowe osiedle w Czerwionce-Leszczynach nabiera kształtów. Zobacz, co zaplanowano przy ul. Parkowej (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNX0s2WHBMRzh6ZndadU5PQU52VFZPUS1fZGpHcmM2N0w2X0pjbTJ2aWFDdUtSU0g5UHh6NVJHVzJxR0ZyZ0swUmZ2UWdqY1BtbE16a21GV1ZGTk9vM3FleUhOMV9aNmFUeDg4X0tXWWJIZjc1NGY2UDlLVHFCeEdNSFM5XzJtQnFFRTRaTmYxN3J2MWhqTmFjVHI1RlRGSGdINzlRYV9KT1RLa3pOc0ZZM2pJR1YzaHY4TllJcWx5azMxekpjOVREMDc0SHlNR0x1M3RvNjNJdEdvS2E1M0RZVDVPTTRyOU5mZlhWbFpB?oc=5",
-      "published": "2026-11-20T11:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "2289b5c1b431473ace26f930fcb5925134a48396",
       "title": "Detektywistyczna przygoda w Rybniku czyli książka „SzyfRy”",
       "summary": "Rybnik jest pełen zagadek, zostań detektywem! Zachęcają autorki nowej, interaktywnej książki o mieście dla młodych odkrywców. Publikacja zamienia poznawanie lokalnej historii w pełną emocji grę detektywistyczną.",
       "link": "https://www.radio90.pl/detektywistyczna-przygoda-w-rybniku-czyli-ksiazka-szyfry.html",
       "published": "2026-11-20T10:15",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "97037f3152ac393ffe4dad0fc44ea07c856683b7",
-      "title": "Prywatny akademik – wygodna alternatywa dla studentów z Rybnika i całego regionu",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkJPZ19vODZxeEVnc2hzVlJQcW5jQnAtUldvdjhIVm1sZGpsN19PU0RSYWhya08yd1ZERDJrT01FX1dhRTBldm1TRjVJVjhqV3E3Mzc1bmMwQjJsVTk0Y1NRVXhJQ2dhMGpSUkxSd3FXcEd4bHk4VDhsU2F4RTFpQTBMRU5JUFZkWS1xckUyUnJSTHJ1aHN0aHZqMnl2dnAyaDdaYWNmM3ptZUJKaThrXzF4aFRkeExUMjJIUEFmT0Q0WTNhRHNpQ2Rma3dnU2R3a1E?oc=5",
-      "published": "2026-11-20T10:15",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "c237dc42f724fc085af0e01c77e4f95337a242ae",
-      "title": "72 godziny bez prądu i wody. Czy mieszkańcy Rybnika wiedzą, co przygotować w domu?",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcWtPa3VKQlpWOEpzQnU3NUt6M1JQcDlEcnA3a2pBSF84bHgycDE4OUhBZzRSclhnMlhmN1Awb0N6d2ZKTC1Jb2o3QzVDZnZQcXN6S0FJdHRHeWdKdnhzbkx4VkUxN1FOcnpfSVBlY3I4VWZTblJqYUdrcHF0NlMxZENMVm02U1F2MjByWGFucUdXakNNSE9TTDRuaVhtLXoxSW9ldFYzLUZKMHNNWk5DOTlmYXFzR0M4cjFOeS1ZclhoQ3FFaHdmVTBjVmVHX0MycV9V?oc=5",
-      "published": "2026-11-20T09:52",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "dca8f02d874d2d9ed5fb1807005cadd003e6c018",
-      "title": "W Muffo trwa Black November, a z nim co tydzień nowe promocje na polskie meble",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVFdqakQ5VHdaS21FY0pEN0hXelg0VGVFN1h5WG1JclRsUmo4SFZHSE5LN09tdDU0aC0xNnpEczk5cEVzVm5mTkNtUXhhSW1mMi1VLWNia2VjVTEyQ0phTjJuclFfRUNKWFg2OWZvM3Q1NENacjUxNlBVUG56M1Rnb1NKckZuSF9CX25MTDgtRXBsQ0tFcXI4THlxdlVXX2JKd3FqY3JIZ2NKNHFQaHJjYXU0VHZMRnl5ZTBVM0VybmY2My1GalE3REk4S0RNVWZa?oc=5",
-      "published": "2026-11-20T09:34",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -524,16 +504,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORGhtUDdyT1h4SEtzNHJjcGRPMHNneDdueVNlUkR1Wi1nV2pnNlJRSTdVRlgxY3BJcEEybl9rZzlSY1NjNlA0ZE13V3JTdXkzWGprQ3ZJQkVDNk5rWU4yVUdhSU56Q1ZuX1Y4LW42T3I5RDZqWm9SU3ZYUk9ndmFyT0g1U0s0QktjOElQTWJ3aGl6azNxVzVzNmdYaTZRbnR0NTYwS0psVGxaVDI0RTF1U21JWnViOXBLcl9GUlpSRkhfSWxKcmFfU1NjREd2Q3RneHJtQl9pdXpPS2s?oc=5",
       "published": "2026-11-20T09:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "ed07ccc7db874b41b767628e731817f1830b2041",
-      "title": "Balustrady szklane w listwie, na spigotach czy rotulach? Vistal Balustrady podpowiada, jak wybrać system do swojego balkonu",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPT3cxY29WS1RicHdXMFV6ckR2T2VSd3RnSWVwV2VOSGxqbHRZVVpTZzJwZVdtVlVtSVV2dS13cnB3OTh0WEc1czVTUVVqck5XWGN2SXFnV3hMQkxET09YNHdLak5sZ1pIdnNGem5qbTNpZzRtNnRMXy1maFdUM0xVczVfenIyOUVxeWJ0bFJPeWxqdzVvUGRKcnhGeHl0b3dNWDF0Ymd0c0xnVWRWelZQUDdxdnRtUkgxLUswZnYzRk1ZUUVCWWR0RHN0Q0M4cDRleEpmZEE2NFl0dFdQWFdYd3lOQXYzeFVTeVRJNmRaYlJTZWdZeXNhOWRidXdxc2w4dlRpMUVLQUd4dw?oc=5",
-      "published": "2026-11-20T08:56",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -759,12 +729,32 @@
       "priority": "ALERT"
     },
     {
+      "id": "41ac71ff95cd91be3cbbf18f417a937daef858ad",
+      "title": "Pierwsza edycja Local Networkers w Rybniku przyciągnęła blisko 150 przedsiębiorców (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS05heENnLVVaempYRFpuM0cxcmNTNTAxelQ3clhsRVRqOFhBYm9CM1AtVVROb294a0Q1ZzZrb3g3QkVMUEtnODR5X1BMX3pLaHVicmYzdjRpQkJybHdYY2J2NVNiaHJBVkFrcU5sVnY0SG9tdVltaXlxRzVnNF9nT3AwVFBpM1F3WlVCSmxYN05OOUxjUHZxRF9GSkJId0RhalZ0T2pXUFczZVNmMEZIMHQxS0M0ZVFEa003NTJjWFhpeTFKc3JPUFhoWG93MmU3SnYtQV9ib3Y2QQ?oc=5",
+      "published": "2026-11-19T08:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "a28126261d5ee6d8b80b4182f10cb0b459c05ceb",
       "title": "Zmarła Lidia Grychtołówna. To niepowetowana strata dla świata muzyki i dla Rybnika",
       "summary": "Tragiczne wieści napłynęły dziś do regionu. Nie żyje Lidia Grychtołówna, pochodząca z Rybnika światowej sławy pianistka. Miała 98 lat.",
       "link": "https://www.radio90.pl/zmarla-lidia-grychtolowna-to-niepowetowana-strata-dla-swiata-muzyki-i-dla-rybnika.html",
       "published": "2026-11-19T07:11",
       "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "d6d0a9760e9c930f41f3f11798b7d8af9c6d8a77",
+      "title": "Nie żyje Lidia Grychtołówna. Wybitna pianistka i Honorowa Obywatelka Rybnika miała 98 lat",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQ052VFU4bXdGNGJZYV9KZEhLSlB4cENQSFYwYlBQX19YcTFGcEwyNXVkLVFDaVEyajVTY0NJcmFLM0VRRExCQ0hEQmhtNlR1WjFsQjBpbmplbWVvY3EtSG9SSmhCQklwbEQ5emROelZZRFZ4YkkzNmU0ZVh6QnN0S19RcmtseW9tZnNINndlTWYwTzNldWJRRXZXVEtRVGgtbXdON2FRWWhpQTlLMjZETHlhUHdLeWhZNF9rS1JJUGdtcmVQWjJTR2tkMW5kWXM0QnVaOUFNSkJyMEVTa3Uw?oc=5",
+      "published": "2026-11-19T06:14",
+      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -829,6 +819,16 @@
       "priority": "NORMAL"
     },
     {
+      "id": "8cd94d2fdf52c3fc7cb5df042c2a24ce5266d62e",
+      "title": "Od karetki do sali operacyjnej – co musi zadziałać, zanim lekarz zacznie leczenie?",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOVFzZ21HemNwS1l1TmNkWG1pMGpEbG4yRkcxSThYUG5RSk96UFJ3VDJldDhuUkxJdXBhUmZ2YkZlZ3RNNFJZR3FicnpFT2hWb19XcHFCRHZiQm9QZmo5bklHUDF0clNnSURlelBiVHdZUkVTMVlHLWt0S2g0UnpITGp4QXJSYXFNU010bGJuMzdjeURqa0g3Tl9vdC15SWFneGxIY3hBdVpXakNucnJSUktidTg3TWpwcVVFSklqdXpwbE4wdGYwOC1xdzFZYnBTcFE?oc=5",
+      "published": "2026-11-18T15:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
       "id": "ea5ad72325cd38749d09db6ee3737cbadb69d4f9",
       "title": "Mobilne płuca w Rudach niemal sczerniały. A czym oddychamy we własnych mieszkaniach?",
       "summary": "Wystarczyło nieco ponad tydzień, aby biała tkanina pokrywająca mobilne płuca ustawione w Rudach zmieniła kolor na niemal czarny. Instalacja Polskiego Alarmu Smogowego pokazuje, jak wiele zanieczyszczeń unosi się w powietrzu. Czy jednak zamknięcie okien wystarczy, aby uchronić przed nimi domowników?…",
@@ -837,6 +837,16 @@
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "ALERT"
+    },
+    {
+      "id": "8e9b6bad6457ae5cf30a46426bd761032cc84079",
+      "title": "Hermann Müller wrócił do domu w brązie. W Rybniku odsłonięto pomnik legendarnego browarnika (foto)",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORGR0dEJTUHBYU2h4TERzTXVuSE5vcmg5QmlGdDFzMXgxN2JCV3pWMGVfNGZVaURTZDVERGhYSEdULTQ2cFZtMjMzcGRoZVg1WHBxVXo0MkItMERKUklIQy1xVk5oM0JmU2l4ZHJncmVMUjJXSUJlZDh3dzRGMmV0dVBZVnJZcEJSOHJFaDFEcjBEQzNEc0doVE85dHdiN0dYd2tUaUtWY0Rkbks4d3pmbUFEaUpnTS1wOU5CUk41bkxqNnNpcElMTlJzNkNJWWdrbmJ0Mkl1eUNLcnJBT09tRThMSDNRaTVi?oc=5",
+      "published": "2026-11-18T13:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
     },
     {
       "id": "16fe5711b1c9c08a056c2b1d2577eac28014cd01",
@@ -914,16 +924,6 @@
       "summary": "Trwa walka z czasem, by przed zimą zabezpieczyć budynek remontowanego szpitala Juliusz w Rybniku. Mamy połowę listopada, a obiekt jest bez dachu.",
       "link": "https://www.radio90.pl/budynek-juliusza-bez-dachu-trwa-walka-z-czasem-zeby-zdazyc-przed-sniegiem-zdjecia-wideo.html",
       "published": "2026-11-17T14:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "8acb89fa3cc8310254a5f742a4d039b1290fb2f8",
-      "title": "RYJEK ma już 30 lat. W galerii Focus można oglądać ryjkową wystawę",
-      "summary": "Rybnicka Jesień Kabaretowa czyli popularny Ryjek świętuje w tym roku okrągły jubileusz. Z tej okazji w centrum handlowym przy ulicy Chrobrego w Rybniku otwarto wyjątkową wystawę „30 lat RYJKA. Hi­sto­ria, któ­ra ba­wi”.",
-      "link": "https://www.radio90.pl/ryjek-ma-juz-30-lat-w-galerii-focus-mozna-ogladac-ryjkowa-wystawe.html",
-      "published": "2026-11-17T13:15",
       "source": "Radio 90",
       "category": "Wiadomości",
       "priority": "NORMAL"

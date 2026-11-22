@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:11:55",
+  "generated_at": "2026-11-22T06:42:03",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,7 +7,7 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 165,
+  "count": 161,
   "failures": [],
   "events": [
     {
@@ -20,50 +20,6 @@
       "description": "Zapraszamy dzieci, młodzież i dorosłych na dwa dni pełne głosów, gitar, energii i rockowych emocji. Dom Kultury w Rybniku-Boguszowicach zamieni się w miejsce, w którym chór nie będzie stał grzecznie w tle. On wejdzie na scenę i zabrzmi pełną mocą. Rock Voices Festival to intensywne warsztaty wokalne zakończone koncertem finałowym. Uczestnicy przygotują rockowe hity w nowych, chóralnych aranżacjach, a później zaśpiewają je na jednej scenie z profesjonalnym zespołem rockowym i Gościem Specjalnym, Wojtkiem Cugowskim. W programie znajdzie się 11 legendarnych utworów, między innymi „Wehikuł Czasu”, „Africa”, „Sky Full of Stars” i „Zegarmistrz Światła”. Do udziału zapraszamy: Rock Voices Kids, dzieci 7-11 lat koszt udziału: 65 zł KLIKNIJ I ZAPISZ UCZESTNIKA 7-11 LAT Harmonogram zajęć: Sobota, 21 listopada 2026 r.09:30-11:00 – I sesja warsztatowa11:00-11:30 – przerwa11:30-13:30 – II sesja warsztatowa13:30-15:00 – przerwa obiadowa15:00-16:30 – III sesja warsztatowa Niedziela, 22 listopada 2026 r.13:00-14:30 – IV sesja warsztatowa14:30-17:00 – próba generalna z zespołem, soundcheck17:45 – gotowość do koncertu18:00 – koncert finałowy z udziałem zespołów wokalnych, zespołu rockowego i Gościa Specjalnego Rock Voices, młodzież i dorośli od 12 roku życia koszt udziału: 120 zł KLIKNIJ I ZAPISZ UCZESTNIKA Harmonogram zajęć: Sobota, 21 listopada 2026 r.09:30-11:30 – I sesja warsztatowa11:30-12:00 – przerwa12:00-14:00 – II sesja warsztatowa14:00-15:30 – przerwa obiadowa15:30-17:00 – III sesja warsztatowa17:00-17:30 – przerwa17:30-20:00 – IV sesja warsztatowa Niedziela, 22 listopada 2026 r.10:00-12:00 – V sesja warsztatowa12:00-14:30 – przerwa / przygotowania indywidualne14:30-17:00 – próba generalna z zespołem, soundcheck17:45 – gotowość do koncertu18:00 – koncert finałowy z udziałem zespołów wokalnych, zespołu rockowego i Gościa Specjalnego Udział w warsztatach oznacza udział w koncercie finałowym, który odbędzie się 22 listopada 2026 r. o godz. 18:00. Liczba miejsc jest ograniczona, a o udziale decyduje kolejność zgłoszeń i wpłat.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/warsztaty-wokalne-rock-voices-festival-2026-w-dk-boguszowice/"
-    },
-    {
-      "id": "tzr-30-rybnicka-jesien-kabaretowa-ryjek-2026-konkurs-glowny-czii-i-konkurs-o-melodyjna-nagrode-im-artura",
-      "title": "30. Rybnicka Jesień Kabaretowa RYJEK 2026 - Konkurs Główny cz.II i KONKURS O MELODYJNĄ NAGRODĘ IM. ARTURA",
-      "category": "Kabaret",
-      "start": "2026-11-21T16:30",
-      "end": null,
-      "venue": "Teatr Ziemi Rybnickiej",
-      "description": "KONKURS GŁÓWNY cz. II Udział wezmą: Kabaret DNO Fair Play Crew Kabaret Jurki Łowcy.B Układ Komediowy Zdolni i Skromni Tematy konkurencji: „To takie polskie” „Specjaliści” „Na końcu jest liczenie”",
-      "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/30-rybnicka-jesien-kabaretowa-ryjek-2026-konkurs-glowny-czii-i-konkurs-o-melodyjna-nagrode-im-artura.html"
-    },
-    {
-      "id": "iryb-andrzejki-2026-zabawa-taneczna",
-      "title": "Andrzejki 2026 – zabawa taneczna",
-      "category": "Impreza",
-      "start": "2026-11-21T18:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Wieczór z muzyką, tańcami i andrzejkowym klimatem szykuje OSP Popielów. Zabawa odbędzie się 21 listopada w Rybniku — to propozycja dla tych, którzy chcą spędzić sobotni wieczór na parkiecie i przy dobrym jedzeniu. Liczba miejsc jest ograniczona, a stoliki można rezerwować telefonicznie. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . W programie wieczoru zapowiedziano muzykę do tańca, poczęstunek i dobrą zabawę w andrzejkowej atmosferze. To okazja, by spędzić czas z rodziną lub znajomymi i na chwilę dać się porwać magii listopadowego wieczoru.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/andrzejki-2026-zabawa-taneczna"
-    },
-    {
-      "id": "iryb-country-nad-nacyna-w-rybniku-koncert-drogi-na-ostroleke-i-im",
-      "title": "COUNTRY nad Nacyną w Rybniku. Koncert Drogi Na Ostrołękę i impreza w Klubie Odyseja",
-      "category": "Impreza",
-      "start": "2026-11-21T20:00",
-      "end": null,
-      "venue": "Klub Odyseja",
-      "description": "W Rybniku zapowiada się wieczór z country, ale nie w wersji „z taśmy” — tylko z żywym, pełnym energii brzmieniem Na scenie pojawi się Droga Na Ostrołękę z Wojciechem Dudkowskim, a do tego dojdzie jeszcze muzyczny klimat z Mają Bogucka . To ten typ wydarzenia, który łatwo zamienia zwykłą sobotę w coś bardziej wyjątkowego — warto się tam pojawić. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Wojciech Dudkowski i zespół Droga Na Ostrołękę grają country już od ponad 15 lat i mają na koncie cztery płyty długogrające. Piąta jest w przygotowaniu, więc to dobry moment, żeby usłyszeć ich na żywo To nie jest klasyczne, przewidywalne country — zespół miesza tradycyjny urok tego gatunku z nowocześniejszym brzmieniem, dzięki czemu całość ma własny charakter i świeżość. Taki koncert może spodobać się nie tylko fanom country, ale też osobom, które po prostu lubią energetyczne granie i wieczory z dobrą muzyką",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/country-nad-nacyna-w-rybniku-koncert-drogi-na-ostroleke-i-impreza-w-klubie-odyseja"
-    },
-    {
-      "id": "iryb-mr-czekolada-latino-night-w-rybniku",
-      "title": "Mr Czekolada | Latino Night w Rybniku",
-      "category": "Impreza",
-      "start": "2026-11-21T21:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Rybnik szykuje noc z latynoską energią: w klubie Face 2 Face zabrzmią gorące rytmy i taneczne hity, a za muzyczną konsolą pojawi się Mr Czekolada. To propozycja dla tych, którzy mają ochotę na parkietową sobotę — można już szykować wygodne, klubowe stylizacje. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Głównym motywem wieczoru będą latynoskie rytmy i taneczne przeboje. W zapowiedzi za muzyczną konsolą sali exclusive wskazano Mr Czekoladę. W rozpisce sal wymieniono także Fancy w sali klubowej oraz Artura w sali exclusive. Face 2 Face to klub na trzech poziomach, ze strefami otwieranymi zależnie od wydarzenia i strefą chillout. Zasady wejścia obejmują selekcję; klub może odmówić wstępu osobom wyraźnie pod wpływem alkoholu.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/mr-czekolada-latino-night-w-rybniku"
     },
     {
       "id": "bilnya-galeria-sztuki-rzeczna-202611221100",
