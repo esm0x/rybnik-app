@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T06:43:39",
+  "generated_at": "2026-11-22T19:34:31",
   "count": 60,
   "failures": [],
   "teams": [
@@ -723,10 +723,10 @@
       "home": "Warta Gorzów Wielkopolski",
       "away": "ROW 1964 Rybnik",
       "isHome": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "scoreNote": null,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "stage": "REGULAR",
       "url": null
     },
