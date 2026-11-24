@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:51:18",
+  "generated_at": "2026-11-24T09:50:04",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,7 +7,7 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 152,
+  "count": 153,
   "failures": [],
   "events": [
     {
@@ -713,6 +713,17 @@
       "description": "Czy można ochronić bliską osobę przed smutkiem, ukrywając przed nią prawdę? Jak odnaleźć poczucie bezpieczeństwa, gdy rodzinny świat zaczyna się zmieniać? „Świat Chiary” to pełna emocji i wrażliwości opowieść o dorastaniu, rodzinnych relacjach oraz próbie zrozumienia zmian, na które nie zawsze mamy wpływ. Dla Chiary Boże Narodzenie od zawsze wiązało się z wizytą u ukochanego dziadka w jego górskim hotelu. Rodzinne spotkania, wspólne tradycje i świąteczna atmosfera dawały dziewczynce poczucie bliskości i bezpieczeństwa. W tym roku wszystko jednak się zmienia. Rodzice Chiary postanawiają się rozwieść, a dziadek, chcąc uchronić wnuczkę przed cierpieniem, prosi, aby zachować tę wiadomość w tajemnicy aż do świąt. Rozpoczyna się historia pełna trudnych decyzji, niewypowiedzianych emocji i rodzinnych napięć. „Świat Chiary” to wartościowy film o zaufaniu, szczerości, akceptacji zmian i sile rodzinnych więzi. Pokazuje, że nawet w obliczu trudnych doświadczeń bliskość, rozmowa i wzajemne zrozumienie pomagają odnaleźć poczucie bezpieczeństwa. Świąteczna sceneria staje się tłem dla uniwersalnej opowieści o potrzebie miłości, przynależności i budowania relacji pomimo życiowych trudności. TU KINO – więcej niż seans filmowy Cykl TU KINO to propozycja edukacji filmowej dla szkół, łącząca starannie wybrane europejskie produkcje z angażującymi prelekcjami. Filmy poruszają tematy bliskie dzieciom i młodzieży, rozwijają empatię, zachęcają do krytycznego myślenia i pomagają lepiej rozumieć emocje oraz relacje międzyludzkie. „Świat Chiary” stanowi doskonały punkt wyjścia do rozmów o zmianach w rodzinie, komunikacji, zaufaniu i radzeniu sobie z trudnymi emocjami. Seans może być wartościowym uzupełnieniem lekcji wychowawczych oraz zajęć poświęconych rozwojowi kompetencji społeczno-emocjonalnych. Informacje organizacyjne Czas trwania filmu: 105 minut Kategoria wiekowa: 9+ Cena biletu: 15 zł / uczeń Warunek organizacji seansu: minimum 100 uczniów łącznie ze wszystkich placówek Liczba miejsc: ograniczona Rezerwacje biletów grupowych: e-mail: to@tuczytamy.pl Telefon: 731 069 311, 697 707 676 Zapraszamy nauczycieli i wychowawców do rezerwacji miejsc dla swoich klas.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/tu-kino-swiat-chiary-seans-dla-szkol-podstawowych/"
+    },
+    {
+      "id": "tzr-akademia-pogodnego-umyslu-1226",
+      "title": "Akademia Pogodnego Umysłu",
+      "category": "Inne",
+      "start": "2026-12-08T11:30",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": null,
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/akademia-pogodnego-umyslu-1226.html"
     },
     {
       "id": "tzr-barbara-kowalczyk",
