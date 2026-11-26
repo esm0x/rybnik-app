@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:39:45",
+  "generated_at": "2026-11-26T08:11:11",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
@@ -7,7 +7,7 @@
     "biletyna.pl",
     "iRybnik"
   ],
-  "count": 146,
+  "count": 125,
   "failures": [],
   "events": [
     {
@@ -1353,37 +1353,15 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/andrzej-sikorowski-w-duecie-z-jackiem-krolikiem.html"
     },
     {
-      "id": "bilnya-krolowe-zycia-202701311830",
+      "id": "tzr-krolowe-zycia",
       "title": "Królowe życia",
       "category": "Spektakl",
-      "start": "2027-01-31T18:30",
-      "end": "2027-01-31T20:00",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎭 Brawurowa komedia pomyłek o miłości i biznesie! Dwaj wspólnicy chcą sprzedać firmę Niemcom, ale żony mają inne plany... 😂 Seria nieporozumień zmienia nudne małżonki w pewne siebie kobiety fatalne! 💃 Porcja śmiechu gwarantowana! ✨.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Krolowe-zycia?eid=720312#opis"
-    },
-    {
-      "id": "bilnya-ai-love-you-czyli-terapia-malzenska-xxi-wieku-202702192000",
-      "title": "\"AI LOVE YOU\" - czyli terapia małżeńska XXI wieku",
-      "category": "Spektakl",
-      "start": "2027-02-19T20:00",
-      "end": "2027-02-19T21:20",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/AI-LOVE-YOU-czyli-terapia-malzenska-XXI-wieku?eid=719244#opis"
-    },
-    {
-      "id": "bilnya-sztywny-pal-azji-202702262000",
-      "title": "Sztywny Pal Azji",
-      "category": "Koncert",
-      "start": "2027-02-26T20:00",
-      "end": "2027-02-26T21:30",
-      "venue": "Klub Odyseja, Raciborska 9",
-      "description": "🎤 Koncert legendarnej grupy Sztywny Pal Azji - nie przegap tego niezapomnianego wydarzenia muzycznego! Kup bilet już teraz! 🎶🎸.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Sztywny-Pal-Azji?eid=722959#opis"
+      "start": "2027-01-31T15:30",
+      "end": "2027-01-31T18:30",
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Brawurowa komedia pomyłek o miłości, ambicjach i… bardzo rodzinnych interesach.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/krolowe-zycia.html"
     },
     {
       "id": "dk-bog-11035-dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-godz-16-00",
@@ -1406,215 +1384,6 @@
       "description": "Chcecie zobaczyć Dowborów na żywo? Zapraszamy! Joanna Koroniewska i Maciej Dowbor. Razem. Na jednej scenie. Dwoje ludzi, którzy od lat udowadniają, że udane małżeństwo wcale nie musi polegać na tym, żeby zawsze się ze sobą zgadzać. Przydaje się za to dystans, poczucie humoru, refleks i czasem odpowiednio szybko włączona kamera. Znamy ich z telewizji, kina, teatru i mediów społecznościowych. Tym razem spotkamy się bez ekranu pomiędzy nami. Porozmawiamy o życiu w Polsce i Hiszpanii, rodzinie i wychowywaniu dzieci, małżeństwie z konkretnym przebiegiem, pracy razem i odpoczywaniu od siebie. Będzie też o Instagramie, popularności, hejcie i komentarzach ludzi, którzy czasem wiedzą o ich życiu zdecydowanie więcej niż oni sami. Zapytamy, ile prawdziwego życia mieści się w social mediach, co świadomie zostaje poza kadrem i czy Joanna i Maciej są dokładnie tacy sami, kiedy telefon przestaje nagrywać. A ponieważ tym razem nie będzie montażu, dubla ani możliwości wycięcia niewygodnego fragmentu, może być naprawdę interesująco. Dwa mikrofony. Jedno małżeństwo. Dwie wersje tej samej historii. Dzień Kobiet z Joanną Koroniewską i Maciejem Dowborem na żywo. Takie spotkania zdarzają się rzadko, dlatego tego dnia zapraszamy aż dwukrotnie: KUP BILET na godz. 19.00 Bilety w cenie 149 zł do nabycia również w kasie Domu Kultury w każdy wtorek i czwartek w godz. 11.00–19.00.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/dzien-kobiet-z-joanna-koroniewska-i-maciejem-dowborem-2/"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704021800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-02T18:00",
-      "end": "2027-04-02T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721514#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704031800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-03T18:00",
-      "end": "2027-04-03T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721516#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704041800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-04T18:00",
-      "end": "2027-04-04T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721553#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704081800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-08T18:00",
-      "end": "2027-04-08T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721556#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704091800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-09T18:00",
-      "end": "2027-04-09T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721517#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704101800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-10T18:00",
-      "end": "2027-04-10T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721519#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704111800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-11T18:00",
-      "end": "2027-04-11T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721559#opis"
-    },
-    {
-      "id": "bilnya-bartosz-gajda-po-lecie-stand-up-nowy-program-202704121900",
-      "title": "Bartosz Gajda - \"PO LECIE\" - stand up NOWY PROGRAM",
-      "category": "Kabaret",
-      "start": "2027-04-12T19:00",
-      "end": "2027-04-12T20:30",
-      "venue": "inoWino Świerklaniec, Jana III Sobieskiego 9",
-      "description": "😂⏳ Czas leci jak szalony? To idealny moment na solidną dawkę śmiechu! Bartosz Gajda wraca z nowym stand-upem – inteligentny humor, absurd i zero zbędnych wulgaryzmów. Przyjdź i pośmiej się z życia, zanim znów przyspieszy 🎤✨🎟️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/stand-up/Bartosz-Gajda/po-lecie?eid=713645#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704161800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-16T18:00",
-      "end": "2027-04-16T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721520#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704171800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-17T18:00",
-      "end": "2027-04-17T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721530#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704181800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-18T18:00",
-      "end": "2027-04-18T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721560#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704231800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-23T18:00",
-      "end": "2027-04-23T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721532#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704241800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-24T18:00",
-      "end": "2027-04-24T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721534#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704251800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-25T18:00",
-      "end": "2027-04-25T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721568#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704281800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-28T18:00",
-      "end": "2027-04-28T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721576#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704291800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-29T18:00",
-      "end": "2027-04-29T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721579#opis"
-    },
-    {
-      "id": "bilnya-babski-comber-2027-niedobczyce-202704301800",
-      "title": "Babski Comber 2027 Niedobczyce",
-      "category": "Kabaret",
-      "start": "2027-04-30T18:00",
-      "end": "2027-04-30T21:00",
-      "venue": "Dom Kultury Niedobczyce w Rybniku - Sala widowiskowa, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Babski-Comber-2027-Dom-Kultury-Niedobczyce?eid=721536#opis"
-    },
-    {
-      "id": "bilnya-kabaret-paranienormalni-w-nowym-programie-2027-202710091600",
-      "title": "Kabaret Paranienormalni - w nowym programie 2027",
-      "category": "Kabaret",
-      "start": "2027-10-09T16:00",
-      "end": "2027-10-09T17:30",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Kabaret-Paranienormalni/w-nowym-programie?eid=718872#opis"
-    },
-    {
-      "id": "bilnya-nutkosfera-cezik-dzieciom-202712031700",
-      "title": "NutkoSfera - CeZik dzieciom",
-      "category": "DlaDzieci",
-      "start": "2027-12-03T17:00",
-      "end": "2027-12-03T18:20",
-      "venue": "Dom Kultury w Rybniku Boguszowicach, Plac Pokoju 1",
-      "description": "🪐Aby poznać lepiej duże i \"Małe ciała niebieskie\"🚀 oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu👨🏻‍🚀 Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy! 👉🏻🎫.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/NutkoSfera-Cezik-dzieciom?eid=676715#opis"
     }
   ]
 }
