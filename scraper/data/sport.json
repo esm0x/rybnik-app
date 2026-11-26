@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:29:02",
+  "generated_at": "2026-11-25T21:41:53",
   "count": 60,
   "failures": [],
   "teams": [
@@ -728,23 +728,7 @@
       "scoreNote": null,
       "status": "FINISHED",
       "stage": "REGULAR",
-      "url": null
-    },
-    {
-      "id": "row-1964-2026-11-28-karkonosze-jelenia-gora",
-      "teamId": "row-1964",
-      "competition": "III liga, Kolejka 19",
-      "date": "2026-11-28",
-      "time": "14:00",
-      "home": "ROW 1964 Rybnik",
-      "away": "Karkonosze Jelenia Góra",
-      "isHome": true,
-      "homeScore": null,
-      "awayScore": null,
-      "scoreNote": null,
-      "status": "SCHEDULED",
-      "stage": "REGULAR",
-      "url": null
+      "url": "http://www.90minut.pl/mecz.php?id_mecz=2115089"
     },
     {
       "id": "row-1964-2027-02-27-zaglebie-sosnowiec",
@@ -771,6 +755,22 @@
       "home": "Carina Gubin",
       "away": "ROW 1964 Rybnik",
       "isHome": false,
+      "homeScore": null,
+      "awayScore": null,
+      "scoreNote": null,
+      "status": "SCHEDULED",
+      "stage": "REGULAR",
+      "url": null
+    },
+    {
+      "id": "row-1964-2027-03-10-karkonosze-jelenia-gora",
+      "teamId": "row-1964",
+      "competition": "III liga, Kolejka 19",
+      "date": "2027-03-10",
+      "time": "18:00",
+      "home": "ROW 1964 Rybnik",
+      "away": "Karkonosze Jelenia Góra",
+      "isHome": true,
       "homeScore": null,
       "awayScore": null,
       "scoreNote": null,
