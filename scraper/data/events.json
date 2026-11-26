@@ -1,59 +1,19 @@
 {
-  "generated_at": "2026-11-26T08:11:11",
+  "generated_at": "2026-11-26T21:28:24",
   "sources": [
     "DK Boguszowice",
     "DK Chwałowice",
     "TZR",
-    "biletyna.pl",
     "iRybnik"
   ],
-  "count": 125,
-  "failures": [],
+  "count": 111,
+  "failures": [
+    {
+      "source": "biletyna.pl",
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://biletyna.pl/Rybnik"
+    }
+  ],
   "events": [
-    {
-      "id": "bilnya-galeria-sztuki-rzeczna-202611260900",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-11-26T09:00",
-      "end": "2026-11-26T10:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717366#opis"
-    },
-    {
-      "id": "iryb-straszki-slaskie-iii-w-kopalni-ignacy",
-      "title": "Straszki Śląskie III w Kopalni Ignacy",
-      "category": "Impreza",
-      "start": "2026-11-26T15:30",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Andrzejkowy czas w Kopalni Ignacy upłynie pod znakiem śląskich legend, zabaw i spotkań z Bebokiem, Skarbnikiem czy Utopkiem. Straszki Śląskie III to propozycja dla dzieci i rodziców, którzy mają ochotę na popołudnie pełne dreszczyku i dobrych emocji. Kiedy: 26 listopada 2026 roku (czwartek), wejścia o godz. 15:30, 16:30 i 17:30. Wydarzenie potrwa do godz. 18:30. Gdzie: Kopalnia Ignacy, ul. Ignacego Mościckiego 3, 44-273 Rybnik. Bilety: 10 zł za dziecko, rodzic wchodzi bezpłatnie. Wejściówki będą dostępne online oraz w kasie kopalni. Liczba miejsc na każde wejście jest ograniczona. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie . Na uczestników czekają gry, animacje i tematyczne stanowiska, przy których będzie można poznawać śląską gwarę i dawne domostwo, zajrzeć do Heksy po wróżbę czy odwiedzić ucztę u Czarnego Kota. Pojawią się też postaci ze śląskiej mitologii: Południca, Meluzyna, Utopek, Skarbnik i Bebok. O Nadszybie szybu Głowacki zadbają strażacy z OSP Niewiadom, którzy również przygotują trochę straszenia. Na każdego uczestnika będzie czekał poczęstunek.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/straszki-slaskie-iii-w-kopalni-ignacy"
-    },
-    {
-      "id": "iryb-historia-jazzu-ilustrowana-muzyka-na-zywo",
-      "title": "Historia jazzu ilustrowana muzyką na żywo",
-      "category": "Impreza",
-      "start": "2026-11-26T18:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Jazz zabrzmi na żywo w Bibliotece Głównej w Rybniku. Spotkanie połączy muzykę z opowieścią o korzeniach tego gatunku, jego narodzinach i rozwoju. Wydarzenie zaplanowano na 26 listopada 2026 roku o godz. 18:00 w Bibliotece Głównej przy ul. Józefa Szafranka 7 w Rybniku . Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Na scenie pojawią się multiinstrumentalista jazzowy Vitalij Ivanov i kontrabasista Dominik Sławiński . O historii jazzu opowie gitarzystka Katarzyna Cielińska , przybliżając jego korzenie, początki i dalszy rozwój.",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/historia-jazzu-ilustrowana-muzyka-na-zywo"
-    },
-    {
-      "id": "iryb-warsztaty-florystyczne-wianek-adwentowy",
-      "title": "Warsztaty florystyczne „Wianek Adwentowy”",
-      "category": "Warsztaty",
-      "start": "2026-11-26T18:00",
-      "end": null,
-      "venue": "Rybnik",
-      "description": "Adwentowy wianek może stać się ozdobą drzwi lub świątecznego stołu. Podczas warsztatów w Czerwionce-Leszczynach uczestniczki przygotują własną kompozycję pod okiem florystki Katarzyny Kaczmarczyk. Spotkanie zaplanowano na 26 listopada 2026 roku o godz. 18:00 w Centrum Kulturalno-Edukacyjnym w Czerwionce-Leszczynach . Udział kosztuje 110 zł . Bilety są dostępne na stronie ckecl.pl/kup-bilet/. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
-      "sourceName": "iRybnik",
-      "sourceUrl": "https://irybnik.pl/wydarzenie/warsztaty-florystyczne-wianek-adwentowy"
-    },
     {
       "id": "iryb-pochowek-dzieci-martwo-urodzonych",
       "title": "Pochówek dzieci martwo urodzonych",
@@ -64,17 +24,6 @@
       "description": "27 listopada 2026 roku na Cmentarzu Komunalnym w Rybniku odbędzie się pochówek dzieci martwo urodzonych. Uroczystość będzie dotyczyć dzieci, które przyszły na świat w rybnickim Wojewódzkim Szpitalu Specjalistycznym nr 3 i nie zostały pochowane przez osoby uprawnione. Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . Pochówek obejmie dzieci martwo urodzone w SP ZOZ Wojewódzkim Szpitalu Specjalistycznym nr 3 w Rybniku w okresie od 31 stycznia do 25 września 2026 roku, których nie pochowały osoby uprawnione. Wydarzenie organizuje Ośrodek Pomocy Społecznej w Rybniku.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/pochowek-dzieci-martwo-urodzonych"
-    },
-    {
-      "id": "bilnya-galeria-sztuki-rzeczna-202611271100",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-11-27T11:00",
-      "end": "2026-11-27T12:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717367#opis"
     },
     {
       "id": "iryb-gnocchi-warsztaty-kulinarne-w-rybniku",
@@ -154,28 +103,6 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/adwentowe-wianki-w-rybniku"
     },
     {
-      "id": "bilnya-warsztaty-artystyczne-przy-kawie-202611280900",
-      "title": "Warsztaty artystyczne przy kawie",
-      "category": "Warsztaty",
-      "start": "2026-11-28T09:00",
-      "end": "2026-11-28T10:30",
-      "venue": "PLASTYCZNA TZR, Plac Teatralny 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/inne/Warsztaty-artystyczne-przy-kawie?eid=717690#opis"
-    },
-    {
-      "id": "bilnya-galeria-sztuki-rzeczna-202611281100",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-11-28T11:00",
-      "end": "2026-11-28T12:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717369#opis"
-    },
-    {
       "id": "iryb-pokemon-league-cup-w-rybniku-turniej-karciany",
       "title": "Pokémon League Cup w Rybniku: turniej karciany",
       "category": "Sport",
@@ -185,17 +112,6 @@
       "description": "W Jaskini Trolla spotkają się gracze Pokémon TCG, by zmierzyć się w turnieju rozgrywanym w systemie szwajcarskim i fazie pucharowej. Zabierz talię, przygotuj jej papierową listę i dołącz do rywalizacji! Sobota, 28 listopada 2026 roku, od godz. 11:00 Miejsce: Jaskinia Trolla Sklep Hobbystyczny, Rybnik Otwarcie i zapisy rozpoczną się o godz. 10:30. Liczba miejsc jest ograniczona do 24 . Cena wejściówki i informacje o biletach zostaną podane wkrótce. Zakup biletu ma zagwarantować miejsce. Opłaty za wejściówki zostaną przeznaczone na nagrody, których pula będzie zależeć od liczby uczestników. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie .",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/pokemon-league-cup-w-rybniku-turniej-karciany"
-    },
-    {
-      "id": "bilnya-rodzinne-soboty-w-rzecznej-202611281130",
-      "title": "Rodzinne soboty w Rzecznej",
-      "category": "DlaDzieci",
-      "start": "2026-11-28T11:30",
-      "end": "2026-11-28T13:00",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/inne/Rodzinne-soboty-w-Rzecznej?eid=716016#opis"
     },
     {
       "id": "iryb-pogrzeb-prof-lidii-grychtolowny",
@@ -213,7 +129,7 @@
       "title": "Andrzejkowe Czary-Mary",
       "category": "Impreza",
       "start": "2026-11-28T16:00",
-      "end": "2026-11-28T18:00",
+      "end": null,
       "venue": "Dom Kultury Rybnik-Chwałowice",
       "description": "Przebrania i magiczne zabawy będą częścią andrzejkowego spotkania dla dzieci w wieku od 5 do 8 lat. „Andrzejkowe Czary-Mary” odbędzie się w Domu Kultury w Rybniku-Chwałowicach. Andrzejkowe Czary-Mary w Chwałowicach wyprzedały wszystkie bilety Więcej aktualności z Rybnika znajdziesz na stronie głównej irybnik.pl , a wydarzenia i imprezy na najbliższe dni zawsze na irybnik.pl/wydarzenie . To przebierana impreza dla dzieci w wieku od 5 do 8 lat, podczas której zaplanowano magiczne zabawy. Spotkanie poprowadzi Monika Kubica-Skaba, znana jako Ciocia Klocia.",
       "sourceName": "iRybnik",
@@ -264,17 +180,6 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/noc-andrzejki-w-noc-sobotnia-noc"
     },
     {
-      "id": "bilnya-galeria-sztuki-rzeczna-202611291100",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-11-29T11:00",
-      "end": "2026-11-29T12:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=717372#opis"
-    },
-    {
       "id": "iryb-cos-z-niczego-niespodzianki-mikolajkowe-warsztaty-w-rybniku",
       "title": "Coś z niczego. Niespodzianki mikołajkowe – warsztaty w Rybniku",
       "category": "Warsztaty",
@@ -308,22 +213,11 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/matka-spektakl-teatru-na-pol-w-rybniku"
     },
     {
-      "id": "bilnya-matka-spektakl-mlodziezowego-teatru-na-pol-202611300900",
-      "title": "Matka - Spektakl Młodzieżowego Teatru NA PÓŁ.",
-      "category": "Spektakl",
-      "start": "2026-11-30T09:00",
-      "end": "2026-11-30T10:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Matka-Spektakl-Mlodziezowego-Teatru-NA-POL-PREMIERA?eid=711864#opis"
-    },
-    {
       "id": "tzr-labirynt-fauna",
       "title": "Labirynt Fauna",
       "category": "Film",
       "start": "2026-11-30T15:30",
-      "end": "2026-11-30T17:28",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Mała Ofelia przybywa do domu nowego męża jej matki, kapitana Vidala. Dziewczynce trudno znieść surowość ojczyma. Przez przypadek Ofelia odkrywa w ogrodzie tajemniczy labirynt. Tam spotka Fauna, baśniowego stwora, który rozpozna w niej księżniczkę magicznej krainy, której grozi zagłada. Przed dziewczynką stoją jednak 3 mordercze zadania, które sprawdzą jej nieśmiertelność. Z czasem okrucieństwo zapanuje nad całym rzeczywistym światem.",
       "sourceName": "TZR",
@@ -352,15 +246,15 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/przemytnicy.html"
     },
     {
-      "id": "bilnya-galeria-sztuki-rzeczna-202612010900",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-12-01T09:00",
-      "end": "2026-12-01T10:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=725612#opis"
+      "id": "iryb-festiwal-grzanca-w-rybniku",
+      "title": "Festiwal Grzańca w Rybniku",
+      "category": "Festiwal",
+      "start": "2026-12-01T00:00",
+      "end": null,
+      "venue": "Rybnik",
+      "description": "Przez cały grudzień centrum Rybnika zamieni się w miejsce spotkań przy świątecznych napojach i rozgrzewających specjałach. W Festiwalu Grzańca weźmie udział 11 lokali gastronomicznych, które przygotują ofertę dla mieszkańców i gości. Wydarzenie potrwa od 1 do 31 grudnia 2026 roku . Odbędzie się na Rynku, deptaku i przyległych ulicach w centrum Rybnika . Świąteczne smaki wracają - Rybnicki Festiwal Grzańca zaprasza przedsiębiorców Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
+      "sourceName": "iRybnik",
+      "sourceUrl": "https://irybnik.pl/wydarzenie/festiwal-grzanca-w-rybniku"
     },
     {
       "id": "iryb-spotkanie-autorskie-szyfry-rybnik",
@@ -374,37 +268,15 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/spotkanie-autorskie-szyfry-rybnik"
     },
     {
-      "id": "bilnya-galeria-sztuki-rzeczna-202612020900",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-12-02T09:00",
-      "end": "2026-12-02T10:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=725682#opis"
-    },
-    {
-      "id": "bilnya-koncert-symfoniczny-przeboje-muzyki-symfonicznej-202612021800",
-      "title": "Koncert symfoniczny „Przeboje muzyki symfonicznej”",
+      "id": "tzr-koncert-symfoniczny-przeboje-muzyki-symfonicznej",
+      "title": "Koncert symfoniczny: Przeboje Muzyki Symfonicznej",
       "category": "Koncert",
       "start": "2026-12-02T18:00",
-      "end": "2026-12-02T19:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎻 Daj się porwać największym arcydziełom muzyki symfonicznej! Usłysz pełną elegancji kompozycję Mozarta, nastrojowe dzieła Ravela i monumentalne „Bolero” w wykonaniu znakomitych solistów i orkiestry. ✨.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Koncert-symfoniczny-Przeboje-muzyki-symfonicznej?eid=721147#opis"
-    },
-    {
-      "id": "bilnya-galeria-sztuki-rzeczna-202612030900",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-12-03T09:00",
-      "end": "2026-12-03T10:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=725696#opis"
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Wybitni pedagodzy Akademii Muzycznej w Katowicach i młodzi wirtuozi Szkoły Szafranków na jednej scenie! Zapraszamy na koncert „Przeboje muzyki symfonicznej”.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/koncert-symfoniczny-przeboje-muzyki-symfonicznej.html"
     },
     {
       "id": "iryb-mlodzi-swiadomi-w-rybniku-badania-i-porady-dla-mieszkancow",
@@ -440,17 +312,6 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/dzien-gornika-barborka-w-zabytkowej-kopalni-ignacy-program"
     },
     {
-      "id": "bilnya-galeria-sztuki-rzeczna-202612041100",
-      "title": "Galeria Sztuki Rzeczna",
-      "category": "Wystawa",
-      "start": "2026-12-04T11:00",
-      "end": "2026-12-04T12:30",
-      "venue": "Galeria Sztuki \"Rzeczna\", Rzeczna 1",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/wystawa/Galeria-Sztuki-Rzeczna?eid=725697#opis"
-    },
-    {
       "id": "dk-chw-koncert-koledowy-studia-wokalnego-20261204",
       "title": "Koncert kolędowy studia wokalnego",
       "category": "Koncert",
@@ -466,7 +327,7 @@
       "title": "Selfie, czyli miłość na pstryk!",
       "category": "Spektakl",
       "start": "2026-12-04T19:00",
-      "end": "2026-12-04T20:30",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Co może wyniknąć z zetknięcia się dwóch sąsiadujących mieszkańców wielkiego blokowiska, opanowanych kryzysem samotności? W jednym mieszka Brygida – bojowo nastawiona singielka z córką, a w drugim Gerard – samotny ojciec rozczarowany kobietami. Oboje pielęgnują stereotypy, dopóki sprawy sercowe ich dorosłych dzieci nie każą wyjść z okopów i stanąć twarzą w twarz z własnymi uprzedzeniami.",
       "sourceName": "TZR",
@@ -517,17 +378,6 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/koncert-zespolu-universe.html"
     },
     {
-      "id": "bilnya-universe-202612051800",
-      "title": "Universe",
-      "category": "Koncert",
-      "start": "2026-12-05T18:00",
-      "end": "2026-12-05T19:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🔥Universe! Dołącz do nas, aby wspólnie świętować magię muzyki i tworzyć niezapomniane wspomnienia. Zakup bilet i przygotuj się na niezapomnianą podróż muzyczną podczas koncertu zespołu Universe ‼️🎶.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/koncert/Universe?eid=697526#opis"
-    },
-    {
       "id": "iryb-dragon-horrorscope-catharsis-hellkat-w-rybniku",
       "title": "DRAGON + Horrorscope + Catharsis + Hellkat w Rybniku",
       "category": "Impreza",
@@ -548,17 +398,6 @@
       "description": "Ho, ho, ho! Mikołaj już szykuje sanie i wkrótce zawita do Chwałowic. Zapraszamy wszystkie dzieci wraz z rodzicami na wyjątkowe popołudnie pełne magii, niespodzianek i świątecznej atmosfery! 6 grudnia 2026 r. (niedziela) w Domu Kultury w Rybniku-Chwałowicach.",
       "sourceName": "DK Chwałowice",
       "sourceUrl": "https://www.dkchwalowice.pl/?news=52473"
-    },
-    {
-      "id": "bilnya-mikolaj-w-domu-kultury-niedobczyce-202612060900",
-      "title": "Mikołaj w Domu Kultury Niedobczyce",
-      "category": "DlaDzieci",
-      "start": "2026-12-06T09:00",
-      "end": "2026-12-06T11:00",
-      "venue": "Dom Kultury Niedobczyce, ul. Barbary 23",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/Mikolaj-w-Domu-Kultury-Niedobczyce-w-Rybniku?eid=716120#opis"
     },
     {
       "id": "dk-bog-11161-spotkanie-z-mikolajem-trzy-godziny-do-wyboru-10-00-12-00-15-00",
@@ -616,17 +455,6 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/mikolajki-w-cafe-kuznia-spotkanie-z-mikolajem"
     },
     {
-      "id": "bilnya-mikolajki-w-chwalowicach-2026-202612061730",
-      "title": "Mikołajki w Chwałowicach 2026",
-      "category": "DlaDzieci",
-      "start": "2026-12-06T17:30",
-      "end": "2026-12-06T19:00",
-      "venue": "Dom Kultury w Rybniku - Chwałowicach, ul. 1 Maja 91B",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/kabaret/Mikolajki-w-Chwalowicach-2026?eid=715412#opis"
-    },
-    {
       "id": "iryb-mikolajki-pokaz-iluzjonistyczny-sebko-elf-i-spotkanie-z-miko",
       "title": "Mikołajki – pokaz iluzjonistyczny „Sebko elf” i spotkanie z Mikołajem",
       "category": "Impreza",
@@ -636,17 +464,6 @@
       "description": "Mikołajki w Rybniku-Chwałowicach będą okazją do wspólnej zabawy dzieci i rodziców. W programie znalazły się iluzjonistyczne show, spotkanie ze Świętym Mikołajem oraz dodatkowe atrakcje w Domu Kultury i przed jego wejściem. Wydarzenie odbędzie się 6 grudnia 2026 roku w Domu Kultury w Rybniku-Chwałowicach przy ul. 1 Maja 91b, 44-206 Rybnik . Główna część rozpocznie się o godz. 17:30 w sali widowiskowej. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . O godz. 17:30 dzieci i ich opiekunowie obejrzą pokaz iluzjonistyczny „Sebko elf” , a następnie spotkają się z Mikołajem. Każde dziecko otrzyma upominek.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/mikolajki-pokaz-iluzjonistyczny-sebko-elf-i-spotkanie-z-mikolajem"
-    },
-    {
-      "id": "bilnya-mikolajki-z-mazoretkami-202612061830",
-      "title": "Mikołajki z Mażoretkami",
-      "category": "DlaDzieci",
-      "start": "2026-12-06T18:30",
-      "end": "2026-12-06T20:30",
-      "venue": "Klub Kultury Harcówka, ul. Zakątek 19",
-      "description": null,
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/dla-dzieci/Mikolajki-z-Mazoretkami?eid=725142#opis"
     },
     {
       "id": "dk-bog-11171-tu-kino-swieta-astrid-lindgren-seans-dla-szkol-i-przedszkoli",
@@ -664,7 +481,7 @@
       "title": "W tym kraju nie ma dobrych mężczyzn",
       "category": "Film",
       "start": "2026-12-07T15:30",
-      "end": "2026-12-07T17:00",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Naru, jedyna operatorka kamery w głównej stacji telewizyjnej w Kabulu, zmaga się z walką o opiekę nad trzyletnim synem. Po odejściu od niewiernego męża jest przekonana, że w jej kraju nie istnieją \"dobrzy mężczyźni\". Jej przekonanie zostaje jednak zachwiane, gdy Qodrat, najważniejszy reporter Kabul TV, proponuje jej wspólną pracę. W miarę jak para przemieszcza się po mieście, relacjonując jego ostatnie dni względnej wolności, między nimi rodzi się napięcie i bliskość. Naru zaczyna kwestionować własne przekonania - czy naprawdę nie ma już dobrych mężczyzn?",
       "sourceName": "TZR",
@@ -697,7 +514,7 @@
       "title": "Akademia Pogodnego Umysłu",
       "category": "Inne",
       "start": "2026-12-08T11:30",
-      "end": "2026-12-08T13:00",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": null,
       "sourceName": "TZR",
@@ -719,7 +536,7 @@
       "title": "Nie ma duchów w mieszkaniu na Dobrej",
       "category": "Film",
       "start": "2026-12-10T08:15",
-      "end": "2026-12-10T09:45",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Co nam mówią duchy z naszej przeszłości? O fundamentach tożsamości. Wykład wprowadzający: Łukasz Tura.",
       "sourceName": "TZR",
@@ -735,17 +552,6 @@
       "description": "Wieczór z kamertonami, misami kryształowymi, głosem i handpanem może być okazją, by na chwilę zwolnić i skupić się na dźwiękach. Koncert Terapeutyczny odbędzie się 10 grudnia w Uzdrowisku Rybnik — sprawdź, czy to forma relaksu dla Ciebie. Najświeższe wiadomości z Rybnika czekają na stronie głównej irybnik.pl , a koncerty, spotkania i imprezy na najbliższe dni – w kalendarzu wydarzeń . Podczas koncertu Aleksander Czekański, terapeuta pracujący z częstotliwościami i pasjonat dźwięków oraz rytmów, wykorzysta kamertony, własny głos, misy kryształowe i handpan. Poszczególne sekwencje spotkania są starannie przemyślane, a dźwiękowa sesja może być sposobem na odpoczynek i uważniejsze wsłuchanie się w siebie. Prowadzący opisuje pracę z uzdrawiającymi częstotliwościami jako swoją dwunastoletnią praktykę i uzupełnienie konwencjonalnego leczenia. Doświadczenia uczestników mogą być różne — koncert nie zastępuje opieki medycznej.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/koncert-terapeutyczny-w-rybniku"
-    },
-    {
-      "id": "bilnya-lukasz-kaczmarczyk-stand-up-przerwa-techniczna-202612101900",
-      "title": "Łukasz Kaczmarczyk stand-up - Przerwa techniczna",
-      "category": "Kabaret",
-      "start": "2026-12-10T19:00",
-      "end": "2026-12-10T21:00",
-      "venue": "Klub Odyseja, Raciborska 9",
-      "description": "😂🎤 Łukasz Kaczmarczyk z Kabaretu Młodych Panów zaprasza na \"Przerwę Techniczną\" – nowy stand-up pełen błyskotliwego humoru i życiowych obserwacji! Absurd codzienności w najlepszym wydaniu. Nie przegap tej dawki śmiechu! 🎟️🤣.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/stand-up/Lukasz-Kaczmarczyk?eid=696696#opis"
     },
     {
       "id": "iryb-inertia-over-rybnik-ironbound-kingsphere-i-m2r1-w-klubie-ody",
@@ -792,22 +598,22 @@
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/ceramiczne-pierniki-rodzinne-warsztaty-swiateczne/"
     },
     {
-      "id": "bilnya-rubinowe-gody-202612121700",
+      "id": "tzr-rubinowe-gody",
       "title": "Rubinowe Gody",
       "category": "Spektakl",
       "start": "2026-12-12T17:00",
-      "end": "2026-12-12T18:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "🎭💍 \"Rubinowe Gody\" – komedia o małżeństwie, które na 40. rocznicę ślubu wplątuje się w intrygę na szczytach władzy! 🔥 Tajemnice, polityka i miłość w najlepszym wydaniu. Nie przegap tej ekscytującej historii! 🎟️.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Rubinowe-Gody?eid=716105#opis"
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "\"Rubinowe Gody\" – komedia o małżeństwie, które na 40. rocznicę ślubu wplątuje się w intrygę na szczytach władzy! Tajemnice, polityka i miłość w najlepszym wydaniu. Nie przegap tej ekscytującej historii!",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/rubinowe-gody.html"
     },
     {
       "id": "iryb-spektakl-wilijo-na-poziomie-650",
       "title": "Spektakl „Wilijo na poziomie 650”",
       "category": "Spektakl",
       "start": "2026-12-12T18:00",
-      "end": "2026-12-12T19:30",
+      "end": null,
       "venue": "Dom Kultury Rybnik-Chwałowice",
       "description": "O wydarzeniach historycznych można opowiadać przez pryzmat ludzi, których dotknęły. Spektakl „Wilijo na poziomie 650” przybliży strajk podziemny w KWK Piast w grudniu 1981 roku oraz jego konsekwencje dla górników i ich rodzin. Przedstawienie zostanie wystawione w sobotę 12 grudnia 2026 roku o godz. 18:00 w Domu Kultury w Rybniku-Chwałowicach przy ul. 1 Maja 91b. Bilety kosztują 45 zł , a z Rybką 36 zł . Można je kupić w kasie domu kultury oraz w sprzedaży internetowej. Więcej lokalnych informacji z Rybnika jest na irybnik.pl . Sprawdź też, co dzieje się w najbliższych dniach – wydarzenia i imprezy zbieramy na irybnik.pl/wydarzenie .",
       "sourceName": "iRybnik",
@@ -851,7 +657,7 @@
       "title": "Osiecka Królową Piosenki: koncert w Rybniku",
       "category": "Koncert",
       "start": "2026-12-13T18:07",
-      "end": "2026-12-13T20:07",
+      "end": null,
       "venue": "Klub Odyseja",
       "description": "Piosenki Agnieszki Osieckiej zabrzmią w kameralnej odsłonie w Klubie Odyseja w Rybniku. W programie znajdą się utwory znane z interpretacji m.in. Maryli Rodowicz, Marka Grechuty, Edyty Geppert i Skaldów. Data: 13 grudnia 2026 roku (niedziela), godz. 18:07 Miejsce: Klub Odyseja, Rybnik Bilety: dostępne w serwisach KupBilecik, Biletyna i Biletomat. Ceny nie podano. Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Podczas koncertu zabrzmią utwory, które przed laty wykonywali m.in. Edmund Fetting, Krystyna Janda, Łucja Prus i Seweryn Krajewski. To muzyczna podróż przez piosenki pełne charakterystycznych tekstów i melodii, które na stałe zapisały się w polskiej kulturze.",
       "sourceName": "iRybnik",
@@ -862,7 +668,7 @@
       "title": "Nikt nie wie",
       "category": "Film",
       "start": "2026-12-14T15:30",
-      "end": "2026-12-14T17:51",
+      "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Czworo dzieci mieszka z matką w małym mieszkaniu. Żadne z nich nie zna swojego ojca. Mimo, iż dzieci są w wieku szkolnym, nigdy nie chodziły do szkoły. Pewnego dnia matka odchodzi, pozostawiając po sobie jedynie trochę pieniędzy i liścik, w którym prosi 12 letniego Akirę, aby zaopiekował się swoim młodszym rodzeństwem. Rozpoczyna się walka dzieci o przetrwanie, pełna współczucia i nadziei.",
       "sourceName": "TZR",
@@ -895,7 +701,7 @@
       "title": "Zdolni i Skromni: nowe skecze w Chwałowicach",
       "category": "Impreza",
       "start": "2026-12-16T18:00",
-      "end": "2026-12-16T19:30",
+      "end": null,
       "venue": "Dom Kultury Rybnik-Chwałowice",
       "description": "Zdolni i Skromni przyjadą do Rybniku-Chwałowic, by sprawdzić premierowe skecze przed publicznością. To część przygotowań do dużego projektu telewizyjnego, więc można się spodziewać świeżych pomysłów, muzyki i sporej dawki scenicznego chaosu. 16 grudnia 2026 roku (środa), godz. 18:00 Dom Kultury w Rybniku-Chwałowicach Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . Zanim kabaret zaprezentuje swój duży projekt telewizyjny, jego członkowie spędzą kilka dni w górskim domku, pracując nad nowym materiałem. Potem przyjdzie pora na sprawdzian przed żywą widownią — to już trzecie takie testy w tym roku.",
       "sourceName": "iRybnik",
@@ -955,17 +761,6 @@
       "description": "Zapraszamy na KULTOWĄ świąteczną komedię familijną. Nowy Jork, święta i chłopiec, którego naprawdę nie warto zostawiać bez opieki! Miał być rodzinny wyjazd na Florydę, słońce i wspólnie spędzony czas. Jednak wystarczyło jedno lotniskowe zamieszanie, by nasz mały bohater zamiast pod palmami wylądował w samym sercu Nowego Jorku. I wcale nie zamierza rozpaczać! Luksusowy hotel, świątecznie udekorowane ulice, wielkomiejskie atrakcje i karta kredytowa taty. Wszystko zapowiada się znakomicie. Przynajmniej do chwili, gdy na jego drodze ponownie pojawiają się dwaj wyjątkowo niezdarni włamywacze. Rozpoczyna się seria zabawnych nieporozumień, szalonych pościgów i pomysłowych pułapek, które wystawią cierpliwość przestępców na ciężką próbę. Zapraszamy na film, do którego chętnie wracają kolejne pokolenia widzów, a znajomość zakończenia wcale nie przeszkadza w świetnej zabawie. Zachęcamy do wspólnego seansu dzieci, rodziców i dziadków. To doskonała okazja, by najmłodsi odkryli filmowy klasyk, a dorośli przypomnieli sobie, dlaczego pewien rezolutny chłopak od lat niepodzielnie rządzi świątecznym zamieszaniem. Wstęp wolny.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/poranek-z-zefirkiem-kultowy-sam-w-wielkim-miescie/"
-    },
-    {
-      "id": "bilnya-krolewna-sniezka-i-7-rybnickich-krasnoludkow-202612191300",
-      "title": "Królewna Śnieżka i 7 rybnickich krasnoludków",
-      "category": "Spektakl",
-      "start": "2026-12-19T13:00",
-      "end": "2026-12-19T14:30",
-      "venue": "Teatr Ziemi Rybnickiej, ul. Plac Teatralny im. Kazimierza Kutza 1",
-      "description": "Premiera „Królewny Śnieżki i 7 rybnickich krasnoludków” – lokalna bajka z gwiazdami Rybnika! 🎭.",
-      "sourceName": "biletyna.pl",
-      "sourceUrl": "https://biletyna.pl/spektakl/Krolewna-Sniezka-i-7-rybnickich-krasnoludkow?eid=722203#opis"
     },
     {
       "id": "iryb-krolewna-sniezka-i-siedmiu-rybnickich-krasnoludkow-wraca-na",
@@ -1122,15 +917,15 @@
       "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/skrzypek-na-dachu-wersja-filmowa.html"
     },
     {
-      "id": "tzr-a-z-nami-koleda-2027",
-      "title": "A z nami kolęda 2027",
+      "id": "tzr-a-z-nami-koleda-2027-koncert-ze-wspolnym-spiewaniem-koled",
+      "title": "A z nami kolęda 2027 - koncert ze wspólnym śpiewaniem kolęd",
       "category": "Koncert",
       "start": "2027-01-06T18:00",
       "end": null,
       "venue": "Teatr Ziemi Rybnickiej",
       "description": "Najpiękniejsze kolędy polskie i światowe w wykonaniu Rybnickiego Chóru Kameralnego \"Autograph\" pod dyr. Joanny Glenc, oraz Zespołu Ligocianki i Przyjaciele pod kierunkiem Jerzego Kleczki. Wspólne spiewanie kolęd Sabina Olbrich-Szafraniec, Mieczysław Błaszczyk, Artystom towarzyszy Grażyna Griner - fortepian, Adam Zając - skrzypce, Ewa Zając - skrzypce, Adam Markwica - wiolonczela",
       "sourceName": "TZR",
-      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/a-z-nami-koleda-2027.html"
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/a-z-nami-koleda-2027-koncert-ze-wspolnym-spiewaniem-koled.html"
     },
     {
       "id": "dk-bog-11221-filmowy-zefir-powrot-mcclane-a-bezplatny-seans-filmowy",
@@ -1142,6 +937,17 @@
       "description": "Tak zaczynamy filmowy 2027 rok! Po świątecznych komediach i romantycznych historiach czas na zmianę repertuaru. Są filmy, które mimo upływu lat ogląda się z niesłabnącą przyjemnością. Na pierwszy w nowym roku Filmowy Zefir wybraliśmy jeden z nich. Zaśnieżone lotnisko w Waszyngtonie, samoloty krążące nad miastem i terroryści, którzy przejmują kontrolę nad systemem lotniska. W samym środku tego zamieszania John McClane – charyzmatyczny policjant, któremu po raz kolejny nie będzie dane spokojnie spędzić świąt. Bruce Willis, charakterystyczny humor i porządna porcja kina akcji z 1990 roku. Dla jednych sentymentalny powrót do czasów kaset VHS, dla innych okazja do nadrobienia filmowej klasyki. Piątek, 8 stycznia 2027 r., godz. 18:00 Wstęp wolny.",
       "sourceName": "DK Boguszowice",
       "sourceUrl": "https://dkboguszowice.pl/wydarzenie/filmowy-zefir-powrot-mcclanea-bezplatny-seans-filmowy/"
+    },
+    {
+      "id": "tzr-przez-sciane",
+      "title": "Przez ścianę",
+      "category": "Film",
+      "start": "2027-01-11T19:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "W listopadzie 1947 roku Wiesława Pajdak zostaje aresztowana za działalność w podziemiu antykomunistycznym i trafia do więzienia na Rakowieckiej. Kilka dni później do celi obok trafia Jerzy Śmiechowski. Pewnej nocy rozpoczynają rozmowę przez ścianę za pomocą kodu Morse’a. Choć trudno w to uwierzyć, tak właśnie się poznali.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/przez-sciane.html"
     },
     {
       "id": "iryb-rybnik-nie-popisuj-sie-stand-up",
@@ -1243,6 +1049,28 @@
       "sourceUrl": "https://irybnik.pl/wydarzenie/zimowe-warsztaty-akrobatyczne-w-rybniku"
     },
     {
+      "id": "dk-bog-11225-zimowy-poranek-z-zefirkiem-wielki-pies-i-jeszcze-wieksze-zamiesz",
+      "title": "Zimowy Poranek z Zefirkiem - Wielki pies i jeszcze większe zamieszanie!",
+      "category": "DlaDzieci",
+      "start": "2027-01-18T11:00",
+      "end": "2027-01-18T12:30",
+      "venue": "Dom Kultury Boguszowice",
+      "description": "W pierwszym dniu ferii zapraszamy Was na niezwykle ciepłą i zabawną historię familijną. Bo ferie najlepiej zacząć od dobrej zabawy! Mała Emily marzy o czworonożnym przyjacielu. Kiedy w jej życiu pojawia się uroczy czerwony szczeniak, nic nie zapowiada kłopotów. Wystarczy jednak jedna noc, by niewielki pupil zamienił się w gigantycznego psa! Jak wyprowadzić takiego olbrzyma na spacer? Ile karmy potrzeba na jego śniadanie? I jak przekonać sąsiadów, że to naprawdę bardzo grzeczny piesek? Mocna dawka śmiechu, szalonych przygód i odrobina wzruszeń. A przy okazji piękna opowieść o przyjaźni, akceptacji i o tym, że bycie innym wcale nie jest wadą… Zapraszamy małych i dużych miłośników czworonogów na wspólne rozpoczęcie ferii w Domu Kultury w Rybniku-Boguszowicach! Wstęp wolny! Tym razem na naszym dużym ekranie pojawi się NAPRAWDĘ DUŻY bohater. Zapraszamy!",
+      "sourceName": "DK Boguszowice",
+      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/zimowy-poranek-z-zefirkiem-wielki-pies-i-jeszcze-wieksze-zamieszanie/"
+    },
+    {
+      "id": "tzr-natura-milosci",
+      "title": "Natura miłości",
+      "category": "Film",
+      "start": "2027-01-18T19:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Opowieść o pamięci, autorytecie i zmieniających się granicach tego, co uznawane jest za dopuszczalne. Esteban Martínez, uznany reżyser, którego karierę naznaczyły liczne skandale, proponuje swojej córce Emilii rolę w swoim najnowszym projekcie. Nie widzieli się od trzynastu lat i łączy ich trudna wspólna przeszłość. Sorogoyen poprzez ich relację przygląda się mechanizmom funkcjonującym zarówno w rodzinie, jak i w środowisku filmowym. Różnicując formę obrazu i eksperymentując z filmowymi środkami wyrazu, tworzy wielowarstwową opowieść, rozgrywającą się na styku życia i sztuki.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/natura-milosci.html"
+    },
+    {
       "id": "tzr-ballady-rockowe-przy-swiecach-polskie-legendy-najwazniejsze-utwory-polskiego-rocka-w-jednym-koncercie",
       "title": "Ballady Rockowe przy Świecach: Polskie Legendy. Najważniejsze utwory polskiego rocka w jednym koncercie",
       "category": "Koncert",
@@ -1296,6 +1124,28 @@
       "description": "Rybnik szykuje się na wieczór z lekką, zwariowaną komedią teatralną „Sklep z facetami” to historia o Marzenie, którą w dniu urodzin zostawia wieloletni partner, a ratunek przychodzi z najmniej spodziewanej strony — od jej młodszej, totalnie zakręconej siostry. Brzmi jak przepis na sporo śmiechu, więc to propozycja na pogodny, rozrywkowy wieczór w mieście. Będzie Pani zadowolona! w Rybniku — nowa komedia o romansach, remoncie i jednej bardzo sprytnej intrydze Codziennie nowe informacje z Rybnika publikujemy na irybnik.pl . Planujesz wolny czas? Aktualne wydarzenia i imprezy znajdziesz zawsze na irybnik.pl/wydarzenie . „Sklep z facetami” to komedia, która bierze na warsztat temat rozstań, życiowych zawirowań i… dość niecodziennego sposobu na poprawę humoru W centrum jest Marzena, która w trudnym momencie trafia do tytułowego sklepu, a całość opiera się na lekkim, zabawnym dialogu i sytuacjach, w których łatwo odnaleźć codzienne emocje.",
       "sourceName": "iRybnik",
       "sourceUrl": "https://irybnik.pl/wydarzenie/sklep-z-facetami-w-rybniku-komedia-teatralna-z-serialowa-obsada"
+    },
+    {
+      "id": "dk-bog-11229-zimowy-poranek-z-zefirkiem-wielki-pies-i-jeszcze-wieksze-zamiesz",
+      "title": "Zimowy Poranek z Zefirkiem - Wielki pies i jeszcze większe zamieszanie!",
+      "category": "DlaDzieci",
+      "start": "2027-01-25T11:00",
+      "end": "2027-01-25T12:30",
+      "venue": "Dom Kultury Boguszowice",
+      "description": "W drugim tygodniu ferii zapraszamy Was na WIELKĄ POWTÓRKĘ! Na niezwykle ciepłą i zabawną historię familijną. Mała Emily marzy o czworonożnym przyjacielu. Kiedy w jej życiu pojawia się uroczy czerwony szczeniak, nic nie zapowiada kłopotów. Wystarczy jednak jedna noc, by niewielki pupil zamienił się w gigantycznego psa! Jak wyprowadzić takiego olbrzyma na spacer? Ile karmy potrzeba na jego śniadanie? I jak przekonać sąsiadów, że to naprawdę bardzo grzeczny piesek? Mocna dawka śmiechu, szalonych przygód i odrobina wzruszeń. A przy okazji piękna opowieść o przyjaźni, akceptacji i o tym, że bycie innym wcale nie jest wadą… Zapraszamy małych i dużych miłośników czworonogów na wspólne rozpoczęcie ferii w Domu Kultury w Rybniku-Boguszowicach! Wstęp wolny! Tym razem na naszym dużym ekranie pojawi się NAPRAWDĘ DUŻY bohater. Zapraszamy!",
+      "sourceName": "DK Boguszowice",
+      "sourceUrl": "https://dkboguszowice.pl/wydarzenie/zimowy-poranek-z-zefirkiem-wielki-pies-i-jeszcze-wieksze-zamieszanie-2/"
+    },
+    {
+      "id": "tzr-debiut",
+      "title": "Debiut",
+      "category": "Film",
+      "start": "2027-01-25T19:00",
+      "end": null,
+      "venue": "Teatr Ziemi Rybnickiej",
+      "description": "Mona odkąd pamięta jest panią domu, żoną i matką. Kropka. Na jej własne ambicje, plany i marzenia nigdy nie było miejsca ani czasu. Teraz, gdy dzieci dorosły, a mąż poświęca się karierze, Mona postanawia zaskoczyć wszystkich i zrealizować swoje wielkie marzenie: zagrać w teatrze. Gdy udaje jej się zdobyć rolę w lokalnym teatrze, ekscentryczny reżyser nie ukrywa, że wybrał ją nie ze względu na oszałamiający talent, którego nie posiada, ale dlatego, że była jedyną kandydatką. Mona wpada w szalony wir teatralnego życia, próbując odnaleźć się w tej kolorowej ekipie. Choć wydaje się, że pasuje tu jak pięść do nosa, to wkrótce zacznie traktować teatralną trupę jak własną rodzinę. Ale jak wiadomo z rodziną najlepiej wychodzi się na zdjęcia.",
+      "sourceName": "TZR",
+      "sourceUrl": "https://www.teatrziemirybnickiej.pl/wydarzenia/debiut.html"
     },
     {
       "id": "tzr-noworoczna-gala-koncert-wiedenski",
