@@ -1,29 +1,43 @@
 {
-  "generated_at": "2026-11-27T21:13:03",
+  "generated_at": "2026-11-28T07:44:13",
   "count": 120,
   "failures": [
     {
       "source": "tuRybnik.pl",
       "error": "403 Client Error: Forbidden for url: https://turybnik.pl/feed/"
-    },
-    {
-      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikaty",
-      "error": "415 Client Error: Unsupported Media Type for url: https://www.rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikaty"
-    },
-    {
-      "source": "rybnik.eu/dla-mieszkancow/aktualnosci",
-      "error": "415 Client Error: Unsupported Media Type for url: https://www.rybnik.eu/dla-mieszkancow/aktualnosci"
-    },
-    {
-      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikacja",
-      "error": "415 Client Error: Unsupported Media Type for url: https://www.rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/komunikacja"
-    },
-    {
-      "source": "rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/inwestycje",
-      "error": "415 Client Error: Unsupported Media Type for url: https://www.rybnik.eu/dla-mieszkancow/aktualnosci/kategoria/inwestycje"
     }
   ],
   "items": [
+    {
+      "id": "cfb933150d24d1840b227eb2975710beb5e8b146",
+      "title": "Kuchnia Radia 90: sery w pieczonych jabłkach, do tego miód i orzechy",
+      "summary": "Sery w pieczonych jabłkach, co Wy na to? Dziś przepis w naszej kuchni, który łączy jesienne smaki: jabłek, miodu i orzechów, jest też skórka z pomarańczy i miks serów.",
+      "link": "https://www.radio90.pl/kuchnia-radia-90-sery-w-pieczonych-jablkach-do-tego-miod-i-orzechy.html",
+      "published": "2026-11-28T07:15",
+      "source": "Radio 90",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "bf8992a8e7de9fdb0cf28ae2c87eef4d65180dde",
+      "title": "Niewidzialne zagrożenie pożarem w sezonie grzewczym. Jak skutecznie chronić domowników przed czadem?",
+      "summary": "",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSUdFbG4xWVRJQ1pwLVc5U2ViTVVGVUNlQUo0SEt6OXRzN1dtcTctY0xTR253YTFxV1lZOU1NaktrNkt1dmVTam01bGllNllGWkozMjlJTDJLQnhQVDl2OWNPUE80ZkJhU2I0RUFlbkFUdHNvNk9DMklFREctOWJYX3VnXzNiMV9iQmRhZWF0XzlyeUhVT29ndl9WRHZMb3hlcUhUV0Q5OGllZWN0bjJ1N2NOYzVOdVozbmU3M2Z1dERYY1JqUXhISm1YcFRyTEZaaUNiZWpLQl95YTBBcTByOFd5ak5aVDRBV1hYZg?oc=5",
+      "published": "2026-11-28T07:00",
+      "source": "rybnik.com.pl",
+      "category": "Wiadomości",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "4479901e2c31e4f3322f105f6f40576e6efae6ed",
+      "title": "Szybsza odprawa paszportowa na lotnisku w Katowicach-Pyrzowicach. Uruchomiono automatyczne bramki",
+      "summary": "Pasażerowie wylatujący z Katowice Airport do krajów spoza strefy Schengen mogą już korzystać z pięciu bramek automatycznej kontroli granicznej. Kolejnych dziesięć urządzeń pojawi się w rozbudowywanym terminalu przylotowym.",
+      "link": "https://www.nowiny.pl/wiadomosci/252462-szybsza-odprawa-paszportowa-na-lotnisku-w-katowicach-pyrzowicach-uruchomiono-automatyczne-bramki.html",
+      "published": "2026-11-28T06:18",
+      "source": "nowiny.pl",
+      "category": "Region",
+      "priority": "NORMAL"
+    },
     {
       "id": "ff1f39a73d65f16dd75a8b508db4ac263cb6c5b9",
       "title": "Szlachetna Paczka w Wodzisławiu. Kilka rodzin wciąż czeka na darczyńców",
@@ -345,16 +359,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "a028c3d824578117a5d425ae158b43f2962dd6c9",
-      "title": "Samborowice. Wieś, w której pamięć ma wiele twarzy",
-      "summary": "Kto pamięta lodziarza, który zimą gromadził lód z rzeki, żeby latem sprzedawać swoje przysmaki? Dlaczego mieszkańcy Samborowic przez pewien czas byli przekonani, że pochowali jednego ze swoich sąsiadów, choć ten wciąż żył? I jak wyglądało dzieciństwo w czasach, gdy przedszkolanki ogrzewały…",
-      "link": "https://historion.pl/historia/252042-samborowice-wies-w-ktorej-pamiec-ma-wiele-twarzy.html",
-      "published": "2026-11-27T08:00",
-      "source": "nowiny.pl",
-      "category": "Region",
-      "priority": "NORMAL"
-    },
-    {
       "id": "38e89677267e46394de9b779eecb7fb787da5570",
       "title": "Drogi w Rybniku pod pełną kontrolą. Drogowcy wysypali 150 ton soli (foto)",
       "summary": "",
@@ -395,23 +399,23 @@
       "priority": "NORMAL"
     },
     {
-      "id": "3f6fc04585154d0dc78a980fbd385f75a76124d8",
-      "title": "Rybnickie kluby zagrały do jednej bramki. Za nami pierwsze spotkanie",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYU1uekx5QjhyTlU1bjRGcTN0ZEhuTmpXTXFqaWJlRUo1dGNZclNfbmphUzJBekdIc3NnNTUyRVdFSFZaSWFTSktrUUhEbVZPT1gyU1hJR2FwYmF6TkhydUxyMnc2LVltRmpIeG1ZaW1Tc2JrOFVQTXd3MVZRNzdxN3FvNFlvclIxNmhVYzRpWTdoVUxab29fcGpfbHlsaUxlYkZFUUJoSGdQYVRqR1pFaTBRaThOa05SXzFXOXJPeWotMFk?oc=5",
-      "published": "2026-11-26T18:46",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
+      "id": "7482b8298a37286263f3a5a9061b28e7a810e2d7",
+      "title": "Sportowy weekend",
+      "summary": "W najbliższy weekend o ligowe punkty – jako gospodarze – powalczą koszykarze MKKS-u, piłkarki TS ROW i siatkarki Gromu.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/sportowy-weekend-aeb2495a4ffc4c8daae347e797d714e2",
+      "published": "2026-11-27T00:00",
+      "source": "rybnik.eu",
+      "category": "Sport",
       "priority": "NORMAL"
     },
     {
-      "id": "6dfc91046b04b8ba08d821c6cd953857582b571b",
-      "title": "Zmiana w prezydium Rady Miasta Rybnika. Marek Florczyk nowym wiceprzewodniczącym",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc1gyMUE3YnB5clFZek5wV2lIdDBnaXh1RnduaUF5NVprYjk3OGo3cFUtOF9md1JBZlh3aVNsOEVKaVYxZ2RoUll6cmk1Q2o0MF9iRlIxNk0wNWp0MnpxbTQtVl9EUjN2SV9qckxlT2lmZFhpQkJwN3NjZzZWRlJGNm1fTWUwZ2llMHFtc0NhSEw3UFY1bWhhY1RCMktTZDR0WFlVd1lfa0ZfeVU3d0wtX21FN3Y0eEw3T19CX3ZUbTlybjhDaHY0N1dHTEpaWWpHUkpj?oc=5",
-      "published": "2026-11-26T18:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
+      "id": "080b3c9dacbae7ec045fb0cf4de718bffdf71985",
+      "title": "Blisko 1,9 mln zł na modernizację kuchni w ZSP nr 14",
+      "summary": "Kuchnia w rybnickiej dzielnicy Popielów przeszła gruntowny remont i zyskała dodatkowe zaplecze. Modernizacja poprawiła komfort pracy personelu oraz usprawniła wydawanie posiłków dla uczniów z dwóch budynków szkolnych i przedszkolaków.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/blisko-19-mln-zl-na-modernizacje-kuchni-w-zsp-nr-14",
+      "published": "2026-11-27T00:00",
+      "source": "rybnik.eu",
+      "category": "Edukacja",
       "priority": "NORMAL"
     },
     {
@@ -585,16 +589,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "55e706217010306e692aa879dc5c249fa2b7c115",
-      "title": "Rodzinny park rozrywki w zasięgu jednodniowej wycieczki z Rybnika",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2F6X19UcWNfY0h6anNEME13NjNqdkVkaFFfT0lUQm9YcTlpVmpjR3c3OUNxWWttOU5aVGZRSnBvUDlDekZXRlFnM0gta2haVWhIbkhCYWk1OGRHLTlNQWY2RmUyTFNCNjZmUzFrNWlFRjlGeUtrQ09lM0gtalJMN0RzdTB5WFBrWHJTNnBBS21ZVlIwUzlxRGVVUXAxN2JfWFNlZ2h6Y1QtT3ptYkkxRTJTb1pSYVV4OENmS21BSWI?oc=5",
-      "published": "2026-11-26T08:16",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "a291e99081db9a648e4f449562d1a033452a7c08",
       "title": "Straszki Śląskie znowu na \"Ignacym\". Andrzejkowa zabawa i niesamowity klimat (foto)",
       "summary": "",
@@ -635,6 +629,16 @@
       "priority": "ALERT"
     },
     {
+      "id": "b11701eef9510fa7b5af916d3912f2636b678bec",
+      "title": "Na stacji Rybnik Towarowy odbędą się ćwiczenia służb. Mieszkańcy proszeni o zachowanie spokoju.",
+      "summary": "Informujemy, że 30 listopada 2026 r. na terenie dzielnicy Chwałowice w Rybniku, w obrębie stacji Rybnik Towarowy, odbędą się ćwiczenia ukierunkowane na weryfikację oraz doskonalenie obowiązujących procedur alarmowania.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/na-stacji-rybnik-towarowy-odbeda-sie-cwiczenia-sluzb-mieszkancy-proszeni-o-zachowanie-spokoju",
+      "published": "2026-11-26T00:00",
+      "source": "rybnik.eu",
+      "category": "Komunikaty",
+      "priority": "ALERT"
+    },
+    {
       "id": "4dd72a45751a018b6980b9456be34c04611020d3",
       "title": "Uroczystości pogrzebowe prof. Lidii Grychtołówny",
       "summary": "Informacja organizacyjna – uroczystości pogrzebowe śp. Lidii Grychtołówny.",
@@ -642,6 +646,36 @@
       "published": "2026-11-26T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "2f269727c2c1277a5614594f631d91d06bd6259c",
+      "title": "Rybnik wyróżniony podczas Local SoMe",
+      "summary": "Oficjalny profil Miasta Rybnika na Facebooku znalazł się w pierwszej dziesiątce w Polsce w prestiżowej kategorii „Najbardziej rozmowny profil”. Wyróżnienie przyznano podczas 5. edycji Kongresu Local-SoMe w Gdańsku – najważniejszego w kraju wydarzenia poświęconego komunikacji w samorządach.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/rybnik-wyrozniony-podczas-local-some",
+      "published": "2026-11-26T00:00",
+      "source": "rybnik.eu",
+      "category": "Wydarzenia",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "5db9858aa2ac686a3cc4f27446883cdacd6b80c0",
+      "title": "Festiwal Grzańca wraca do Rybnika",
+      "summary": "Od 1 do 31 grudnia rybnickie restauracje, kawiarnie i bary zapraszają na degustację wyjątkowych, świątecznych napojów. W tegorocznej edycji wydarzenia udział weźmie aż 11 gastronomów z centrum miasta.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/festiwal-grzanca-wraca-do-rybnika",
+      "published": "2026-11-26T00:00",
+      "source": "rybnik.eu",
+      "category": "Wydarzenia",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "9847ec9bbed8af5c8e0611ff9c98985abeaf1955",
+      "title": "Kandydaci do Rybnickiej Rady Seniorów",
+      "summary": "Poznaj dwunastu kandydatów organizacji działających na rzecz osób starszych, spośród których 2 grudnia podczas spotkania z Prezydentem Miasta wyłonionych zostanie dziewięciu nowych członków Rybnickiej Rady Seniorów.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/kandydaci-do-rybnickiej-rady-seniorow",
+      "published": "2026-11-26T00:00",
+      "source": "rybnik.eu",
+      "category": "Seniorzy",
       "priority": "NORMAL"
     },
     {
@@ -670,16 +704,6 @@
       "summary": "",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkR4WmhmdUxrY0xtMGZZUVNMRFFobTR5cU5WWjJlR2ZIX3lWZ1VfcFJaVDRISkdSQVVmNnlMcWFwYjJ0TmlpbTNHdjVVeHpnS1I4dkhyUWktZjVfWU1aZFNDeG9yczU4TEZwRl83ZXp1c3VseThrbjFudF82X3p4cHhuNE1fVFZCNVFmRmpWZmhRd1MxQldUcVpDMjdyclk?oc=5",
       "published": "2026-11-25T18:06",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d030931e61e89f0c9e57df8f70c6248b097fee47",
-      "title": "Walizka pełna przygód i języka migowego. Miś Uszatek odwiedził rybnickie przedszkole (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMkpUU1JtZnRvN1N5OFplX2hBT05QQ1BRaFd1TGNjVHFUR3dVUFF5dnFSWFdESGo0OG91Wjg4d0NhOVU5N3M2czZSWDZlOXI2aDFpZ1JGcjlaVTVaV3FrelRuaDVtMUxOUWJLMThsemNZWUQ2azdwaC1XWnc3VllaVjQ1a25lZ0lvTXRkLVlsUkU1VDZSMjFJZFdDWk40MFR1Nk5BSWhUc3JFM3FhS0Rwb2VZbUpuMkVvN2EwQWtfaTdoQ1RsdE4wbklTTm1aQmY5YS0wYldJQnJkQkZuMXBB?oc=5",
-      "published": "2026-11-25T16:30",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -785,11 +809,11 @@
       "priority": "NORMAL"
     },
     {
-      "id": "211ba74066869fd650835c9a3a317633c6bc440e",
-      "title": "Świąteczny paraliż czy sprawna organizacja? Sprawdź, gdzie zaparkować podczas Jarmarku w Rybniku",
+      "id": "20a647e1ed89f3f6ad620d01bf9451603b8d59bb",
+      "title": "Bezbramkowy remis na inaugurację rundy rewanżowej. ROW 1964 Rybnik wywiózł punkt z Gorzowa",
       "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPR1pmYXVQdXVLVk0xT0Nocm02OXE3UDRSdGg2NERlWHViQ0MtSWNxR1k1UVZhZXdXYWl0LWNWQWZMVEpmaWVhUXJuZjBleVlyYTh1djdxaUNsWFJJNE4zQVo3OHRucjBDTU1UQ2pBbVFHSnA5ZjhmTVpoZWVza1hNMS0xdWlRZnN2dnZYbktTT1VaY3BleFY0V1NSdXdhZEFLQkdMb1lrWnRlUlZxWVpSQjMyeGoxU2lodTU5MWRtOFRyendqMVJ3U0lKXzREMjd2d2dxUnpzMktoLUxaQTduclJzYUYtUHM?oc=5",
-      "published": "2026-11-25T07:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVk43SVNXY0hFYVk4X2VRNGplZFI4X1RfODNIanFTUHM1ZVBtMTZObWs3M2x0RDg0TkY4ekRaQ1ZKeW5YYjBmRDJDXzF2VURPSG1JcWF5dF83OF91dEN3cjVWZEk4VWFzSkxzOHVOLS13XzB5SE5UdlJHMUp5RVN3WW1GV3lDcVlKMkVxaWtsTVpKRDZkWnFZNXFhWXdUQnFYdmZiNG85Zl9LcjEwNVZLUE5McDJGYjV1Nlp0RWxqNG1fbnJVcGNRQTVDMjFCcTd3WXdDakM5cm9PNFowNDhRZQ?oc=5",
+      "published": "2026-11-25T08:00",
       "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
@@ -835,32 +859,12 @@
       "priority": "NORMAL"
     },
     {
-      "id": "2c7114a525ec83ff91b3690d03e928562e293835",
-      "title": "Świąteczne przygotowania w Rybniku! Choinka już stoi, a mieszkańcy oceniają nowe atrakcje (foto, wideo)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQa3B2dWRZbXRLSjNaZFAxekpYOWI4OE5mams4aDNqMUljYTNaNEYzbllER2FIaFptYzJGZHZjY1NHVFMwOUxPY2lTQmJiWE9xWGM5ckJJam9tMVhEbjNLVllKcndsTFNEdHRVRi15bXVncmt1cko5VVd6MzlsTUg4c0xHcFJMNW53QnpjTnZDUXhxb21hNnNnVFlzaDRnMDc4MDVibGhwR1lLaDhSV0RZLXNuNVZOZ0w5VzhEekRUUmtHUGJuSlJjRVhmby1IVWVuZFdaU2RaUnRXN2c2eFdJa3ExSm9UbE5ocjE4eFlBWQ?oc=5",
-      "published": "2026-11-24T22:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "b60610df08647896aaaa5de74ca53d79d2a79ba7",
       "title": "Wolontariusz Roku 2026: wiemy, kto otrzymał ten zaszczytny tytuł",
       "summary": "Wolontariusz Roku 2026 Subregionu Zachodniego już oficjalnie wybrany! Kapituła zdecydowała, że tytuł należy do Elżbiety Golec, prezes Stowarzyszenia Radlińska Przystań. Kogo jeszcze nagrodzono w czasie gali? Sprawdźcie!",
       "link": "https://www.radio90.pl/wolontariusz-roku-2026-wiemy-kto-otrzymal-ten-zaszczytny-tytul.html",
       "published": "2026-11-24T19:19",
       "source": "Radio 90",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "e193ce35a62526b93e8f69578667ff79f038e375",
-      "title": "Groźby śmierci wobec siatkarza z Rybnika i jego rodziców. Kamil Szymura mówi \"stop hejtowi!\"",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRDBEVU9BZGVOSjhOY2FfSVFwRmlOVGo4ZHVPdTg3dWkxXzNMNW5EaXl1U2NZTXE1Y01MVU0xUTNBWUJ1Zlduclc5SWNZRHpCdktuZmxVbEhXb1NGbS1ZLXhxc25vTTVpbFRLMGdjaFhsaG5UY3J2WU9BSmhEMmdTa05meWtwNktQWnhjUmNMNmVMdUd0dHNza1RLd3VQX0tPUHBDdWZoOEVmZGhxS1M3R3RxcXFXTDY5SUFlal9vMGNNODVoekZZWTZPa1dHUkJRMWtHRHpvS19QV01QS2VJ?oc=5",
-      "published": "2026-11-24T16:00",
-      "source": "rybnik.com.pl",
       "category": "Wiadomości",
       "priority": "NORMAL"
     },
@@ -895,26 +899,6 @@
       "priority": "NORMAL"
     },
     {
-      "id": "24edb4e15f1fc299354b4ff45f62e882a36d39a9",
-      "title": "Znamy szczegóły budowy gazociągu między Rybnikiem a Żorami. Prace ruszą wiosną, ale drzewa ocaleją",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcU10ZDh3MjhkRHplMk5MaVBFOWktWkpWVnZxcEQxbkxDUEVOaE1HU0VsaWZacEhxY0p0cE9jdVFNSFFYRFRQdjd3dzhwUm9NOVVIYk9DOVNfeUFzNHVFWnF1RHNxR0tlZGtoYlJ5N3djdUUzd1Y1THFJS2F6Z1VkZGlNY3hLczZqMDRVVWhSV3BTVnpwR1p4Ulg3TUd5MFdhYjg3cjBfc2M0aF9NV042eVRyczlfYlB6VFdETDZrYVFRRHNGemM0Ny1YcHo0Rm1YQUdtZ0tjNy1STklhYXdIVHdpRU5Qb05YLUE?oc=5",
-      "published": "2026-11-24T13:00",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "83a21847d92d7b714134511ccfd3a7e3c85605b5",
-      "title": "„Ponad morzem chmur” w Rybniku. Zobacz nowy mural przy ul. Zebrzydowickiej (foto)",
-      "summary": "",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQczNsb1MybGQtdUNDTEw4aDl3ajZDYjNaT2Q0TXRadlR6SExadUJTcXRKSGVGc3c0WGxQU0pSMjJ3Q0R3enhZUzJ2RkFzQ2tPbW41ZFE2b0ZxR2JTQ09IaDlrUDcxTnRJS2dCY1ZhT20yYjBPelMzeDNDSGhoU1BxeTMtTDVsLTNYMTlVOG1IWDJUVE9mSDhYOEdmNTdONVVDYlhZWHV2bU5GVnViSkstbEJrRy1iM0NJenJwTTA2SEM2Mnl2WnVHcVdWSVM1emIw?oc=5",
-      "published": "2026-11-24T11:33",
-      "source": "rybnik.com.pl",
-      "category": "Wiadomości",
-      "priority": "NORMAL"
-    },
-    {
       "id": "1e61aec167089429406e18ffb129e333f4184bf1",
       "title": "Rybnik szykuje się na Jarmark u Antoniczka. Zmiany w ruchu i dodatkowe patrole",
       "summary": "Świąteczne atrakcje w Rybniku oznaczają także zmiany w organizacji ruchu. Miasto przygotowuje się na dużą liczbę odwiedzających, dlatego wprowadzi ograniczenia dla kierowców i dodatkowe zabezpieczenia.",
@@ -932,26 +916,6 @@
       "published": "2026-11-24T00:00",
       "source": "rybnik.eu",
       "category": "Rada Miasta",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "47c0dc6ca53cd877f856b1fb5f3bc4ab67fee87c",
-      "title": "Razem przeciwko hejtowi i nienawiści - Młodzież rozmawiała o sile wsparcia rówieśniczego",
-      "summary": "Jak reagować na hejt i nienawiść? Dlaczego warto rozmawiać o swoich trudnościach i jak budować relacje oparte na wzajemnym wsparciu? Między innymi na te pytania szukali odpowiedzi uczestnicy konferencji „4 pory roku – Bądź dla mnie wsparciem”.",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/razem-przeciwko-hejtowi-i-nienawisci-mlodziez-rozmawiala-o-sile-wsparcia-rowiesniczego",
-      "published": "2026-11-24T00:00",
-      "source": "rybnik.eu",
-      "category": "Edukacja",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "11357ffe5329f049fa53316629d7cb2150ae5da3",
-      "title": "Trzy ofiary czadu na Śląsku. Strażacy podsumowali początek sezonu grzewczego",
-      "summary": "Trzy osoby zmarły w województwie śląskim w wyniku zatrucia tlenkiem węgla. Od początku października strażacy odnotowali ponad sto zdarzeń związanych z emisją czadu w budynkach mieszkalnych. Poszkodowane zostały 24 osoby, w tym troje dzieci.",
-      "link": "https://www.radio90.pl/trzy-ofiary-czadu-na-slasku-strazacy-podsumowali-poczatek-sezonu-grzewczego.html",
-      "published": "2026-11-23T20:00",
-      "source": "Radio 90",
-      "category": "Wiadomości",
       "priority": "NORMAL"
     },
     {
@@ -992,16 +956,6 @@
       "published": "2026-11-20T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
-      "priority": "NORMAL"
-    },
-    {
-      "id": "d755ab0340ad19b1bdaa20d898b72bacae531b30",
-      "title": "„Ponad morzem chmur” – fantazja, kolory i rybnickie akcenty na muralu przy ulicy Zebrzydowickiej",
-      "summary": "Przy ulicy Zebrzydowickiej 31 powstał wyjątkowy mural zatytułowany „Ponad morzem chmur”. Malowidło, które łączy świat fantazji z lokalnymi motywami i wspomnieniami z dzieciństwa. Autorem barwnej kompozycji jest Ryszard Paurowski, a realizacja przedsięwzięcia była możliwa dzięki Budżetowi…",
-      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/ponad-morzem-chmur-fantazja-kolory-i-rybnickie-akcenty-na-muralu-przy-ulicy-zebrzydowickiej",
-      "published": "2026-11-20T00:00",
-      "source": "rybnik.eu",
-      "category": "Kultura",
       "priority": "NORMAL"
     },
     {
@@ -1170,6 +1124,36 @@
       "summary": "Mieszkanie komunalne o powierzchni 138 m² czeka na najemcę. Lokal znajduje się przy ul. Rzecznej 4/10. Przyszły najemca będzie zobowiązany do przeprowadzenia niezbędnego remontu.",
       "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/duze-mieszkanie-w-centrum-czeka-na-najemce-1",
       "published": "2026-11-09T00:00",
+      "source": "rybnik.eu",
+      "category": "Komunikaty",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "41b169b02d9abab5675d0d653c7e248defba3508",
+      "title": "Budowa Elektrowni PGE Nowy Rybnik wchodzi w końcowy etap realizacji",
+      "summary": "Ważne informacje dotyczące przedmuchu układu parowego w PGE Nowy Rybnik – możliwy krótkotrwały hałas.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/budowa-elektrowni-pge-nowy-rybnik-wchodzi-w-koncowy-etap-realizacji",
+      "published": "2026-11-06T00:00",
+      "source": "rybnik.eu",
+      "category": "Komunikaty",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "0db810ce3db231e1a488fb6c91f79980ee872b8e",
+      "title": "Przerwa w obsłudze klientów Wydziału Geodezji i Kartografii w dniach 5-6 listopada",
+      "summary": "Wydział Geodezji i Kartografii uprzejmie informuje, że w dniach 5–6 listopada br. (czwartek – piątek) nastąpią ograniczenia w bezpośredniej obsłudze klientów wydziału.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/przerwa-w-obsludze-klientow-wydzialu-geodezji-i-kartografii-w-dniach-5-6-listopada",
+      "published": "2026-11-05T00:00",
+      "source": "rybnik.eu",
+      "category": "Komunikaty",
+      "priority": "NORMAL"
+    },
+    {
+      "id": "e6f6f79cde7ca137971d36b489b7de4035014726",
+      "title": "Jarmark u Antoniczka 2026",
+      "summary": "Legendarny Jarmark u Antoniczka powraca do Rybnika, by od 4 grudnia do 6 stycznia całkowicie odmienić oblicze miasta. Przez ponad miesiąc mieszkańcy i goście będą mogli cieszyć się zimowym miasteczkiem. Na rozpoczęcie - trzy dni pokazów mappingu na wieżach bazyliki.",
+      "link": "https://www.rybnik.eu/dla-mieszkancow/aktualnosci/aktualnosc/jarmark-u-antoniczka-2026",
+      "published": "2026-11-04T00:00",
       "source": "rybnik.eu",
       "category": "Komunikaty",
       "priority": "NORMAL"
